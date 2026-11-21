@@ -11,6 +11,7 @@ Static Next.js 16 calculator site (`output: "export"`). Goal: rank on Google + A
 | Ads, policy, YMYL, legal pages | `docs/02-ADSENSE-RULES.md` |
 | Styling / animation | `docs/05-DESIGN-SYSTEM.md` |
 | Links between tools | `docs/06-INTERNAL-LINKING.md` |
+| SERP + competitor research (DataForSEO, Playwright) | `docs/07-SEO-RESEARCH-PIPELINE.md` |
 | Why we do it this way / roadmap strategy | `docs/00-PROJECT-SUMMARY.md` |
 
 ## What to build next
@@ -27,6 +28,8 @@ Rows with status `hold` are policy-sensitive: never build without the owner's OK
 
 ## Commands
 - `npm run build` → static site in `out/` (includes `sitemap.xml`, `robots.txt`). Must pass before commit.
+- `npm run seo:research -- --slug <slug>` → live SERP + ≥4 competitor pages + report (`docs/research/<slug>.report.md`).
+- `npm run test:e2e` → Playwright SEO + functional tests on the static build (desktop + mobile). Must pass before commit.
 - `npm run lint` (tsc). `npm run roadmap` regenerates roadmap from `data/source/*.xlsx`.
 - Visual check: `cd out && python3 -m http.server 4173` + Playwright screenshot (desktop 1366 + mobile 390, light + dark).
 
@@ -35,4 +38,6 @@ Rows with status `hold` are policy-sensitive: never build without the owner's OK
 2. Every tool page: unique title (≤60) + meta description (140–160), one H1, answer-first intro, formula, worked example, FAQ (5–8), ≥3 internal links in body + related block, last-updated date.
 3. No fake reviews/ratings schema, no keyword stuffing, no auto-generated filler. Write for the user first.
 4. Keep JS small: no new runtime dependency without a reason written in the PR/commit.
-5. Branch: `claude/nextjs-seo-calculators-site-do5n1n` (or whatever the session specifies). Never push to main unasked.
+5. Never fabricate volumes, rankings or competitor facts. No live data → say so and stop that step.
+6. Production = `main`. Push only to the working branch; the owner's merge is the publish approval. Call out any edit to an already-live page.
+7. Branch: `claude/nextjs-seo-calculators-site-do5n1n` (or whatever the session specifies). Never push to main unasked.

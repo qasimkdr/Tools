@@ -28,6 +28,7 @@ export default function DaysFromTodayCalculator({ buildISO, initialAmount = 14, 
   const [start, setStart] = useState<string>(""); // "" = today
   const [skipHolidays, setSkipHolidays] = useState(true);
   const [copied, setCopied] = useState(false);
+  const [ready, setReady] = useState(!syncUrl); // don't write the URL until shared params have been read
 
   // Shareable state via query string (static-hosting friendly).
   useEffect(() => {
@@ -37,12 +38,13 @@ export default function DaysFromTodayCalculator({ buildISO, initialAmount = 14, 
     const u = q.get("u") as Unit | null; if (u && UNITS.some((x) => x.id === u)) setUnit(u);
     if (q.get("dir") === "before") setDir("before");
     if (q.get("start")) setStart(q.get("start")!);
+    setReady(true);
   }, [syncUrl]);
   useEffect(() => {
-    if (!syncUrl) return;
+    if (!syncUrl || !ready) return;
     const q = new URLSearchParams({ n: amount, u: unit, ...(dir === "before" ? { dir } : {}), ...(start ? { start } : {}) });
     history.replaceState(null, "", `${location.pathname}?${q}`);
-  }, [amount, unit, dir, start, syncUrl]);
+  }, [amount, unit, dir, start, syncUrl, ready]);
 
   const base = start ? parseISO(start) : today;
   const n = Math.max(0, Math.min(100000, Math.floor(Number(amount) || 0)));
@@ -122,7 +124,7 @@ export default function DaysFromTodayCalculator({ buildISO, initialAmount = 14, 
       </form>
 
       {/* Result */}
-      <div aria-live="polite" className="rounded-2xl bg-[var(--surface)] p-5 shadow-sm ring-1 ring-[var(--border)] sm:p-6">
+      <div aria-live="polite" data-testid="result" className="rounded-2xl bg-[var(--surface)] p-5 shadow-sm ring-1 ring-[var(--border)] sm:p-6">
         <p className="text-sm font-medium muted">{summary}</p>
         <p key={toISO(result)} className="mt-1 animate-pop text-3xl font-extrabold tracking-tight sm:text-4xl">
           <span className="text-gradient">{fmtLong(result)}</span>

@@ -7,7 +7,12 @@
     "build": "next build",
     "start": "npx serve out",
     "lint": "tsc --noEmit",
-    "roadmap": "python3 -I scripts/build-roadmap.py"
+    "roadmap": "python3 -I scripts/build-roadmap.py",
+    "test:e2e": "playwright test",
+    "seo:serp": "node scripts/seo/serp.mjs",
+    "seo:scrape": "node scripts/seo/scrape.mjs",
+    "seo:report": "node scripts/seo/report.mjs",
+    "seo:research": "node scripts/seo/research.mjs"
   },
   "dependencies": {
     "next": "^16.4.6",
@@ -15,6 +20,7 @@
     "react-dom": "^19.3.1"
   },
   "devDependencies": {
+    "@playwright/test": "^1.63.0",
     "@tailwindcss/postcss": "^4.3.5",
     "@types/node": "^26.6.6",
     "@types/react": "^19.3.0",

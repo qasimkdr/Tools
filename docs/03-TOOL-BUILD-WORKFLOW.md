@@ -17,6 +17,9 @@ You get: primary keyword, volume, KD, all merged keywords (≤40), competitor UR
 - Check cannibalisation: does an existing live page already answer this? Then extend that page instead.
 
 ## Step 2 — SERP & competitor research (3–4 competitors minimum)
+**Automated:** `npm run seo:research -- --slug <slug>` (see `07-SEO-RESEARCH-PIPELINE.md`) does items 1–2 with live data and
+writes `docs/research/<slug>.report.md`. The manual steps below are the fallback when the API isn't configured.
+
 1. `WebSearch` the primary keyword + 1–2 top secondary keywords (standard mode). Record the top 10 URLs and the SERP
    features shown (featured snippet, People Also Ask, AI Overview, video, calculators-in-SERP).
 2. Read the top 3–4 ranking tool pages (web-fetch agent). If the environment blocks the host, record that and use the
@@ -48,7 +51,9 @@ You get: primary keyword, volume, KD, all merged keywords (≤40), competitor UR
 - `npm run lint && npm run build` → 0 errors.
 - `out/<slug>/index.html` exists, has correct `<title>`, description, canonical, one `<h1>`, JSON-LD.
 - `grep -c '<url>' out/sitemap.xml` increased.
-- Playwright screenshot desktop+mobile, light+dark; no console errors; no horizontal scroll at 390px.
+- `npm run test:e2e` passes (SEO checks on every sitemap URL, internal links, no console errors, no mobile overflow).
+  Add a functional spec `tests/e2e/<slug>.spec.ts` with 2–3 hand-verified calculations.
+- Screenshot desktop+mobile, light+dark for a visual check.
 - Run the `seo-check` skill mentally against `01-SEO-RULES.md` §1 (skip its outdated items — see §4 there).
 
 ## Step 7 — Ship
