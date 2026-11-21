@@ -58,7 +58,7 @@ You get: primary keyword, volume, KD, all merged keywords (≤40), competitor UR
 
 ## Step 7 — Ship
 - Set `status: "live"` for the slug in `data/roadmap.json`, run `npm run roadmap`.
-- Commit: `feat(tool): <Name>` with the research highlights in the body. Push to `main` (owner instruction) after tests pass.
+- Commit: `feat(tool): <Name>` with the research highlights in the body. Push to the Claude session branch after tests pass; merge to `main` only with the owner's explicit approval.
 - Tell the owner: URL to submit in Search Console.
 
 ## Pace

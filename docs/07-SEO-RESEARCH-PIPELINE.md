@@ -94,7 +94,7 @@ Raw data is stored in `research/<slug>/serp.json` and `competitors.json`. Both a
 4. Commit research + page together on the working branch, push, and report to the owner.
 
 ## Approval & safety rules
-- **Production = `main` branch** (the deploy workflow only deploys `main`). Owner instruction: agents push directly to `main`, but only after build + e2e tests pass.
+- **Production = `main` branch** (the deploy workflow only deploys `main`). Agents push to the Claude session branch; merging to `main` needs the owner's explicit approval each time, plus passing build + e2e tests.
 - Changing an already-live page's content or URL goes in a separate commit called out in the report. Never silently overwrite it.
 - Respect `robots.txt` and rate limits (built in). Don't scrape sites that block bots; use the DataForSEO fallback or skip them.
 - Budget: about 3 SERPs + 4 page inspections ≈ $0.01–0.02 per tool. Print the cost after every run.
