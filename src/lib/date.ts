@@ -99,3 +99,24 @@ export const fmtLong = (d: Date) => d.toLocaleDateString("en-US", { weekday: "lo
 export const fmtDate = (d: Date) => d.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
 export const fmtShort = (d: Date) => d.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
 export const weekday = (d: Date) => d.toLocaleDateString("en-US", { weekday: "long" });
+
+/**
+ * Exact age between `dob` and `at`: whole years, then whole months, then days.
+ * Anniversaries are computed from the birth date with end-of-month clamping, so a Feb 29 birthday falls on
+ * Feb 28 in common years (one of the two conventions in use; some jurisdictions use Mar 1).
+ */
+export function ageBetween(dob: Date, at: Date) {
+  if (at < dob) return null;
+  let months = (at.getFullYear() - dob.getFullYear()) * 12 + (at.getMonth() - dob.getMonth());
+  if (addMonths(dob, months) > at) months--;
+  const anchor = addMonths(dob, months);
+  return { years: Math.floor(months / 12), months: months % 12, days: diffDays(anchor, at), totalMonths: months, totalDays: diffDays(dob, at) };
+}
+
+/** Next birthday on/after `at` (clamped for Feb 29) and how many days away. */
+export function nextBirthday(dob: Date, at: Date) {
+  let years = at.getFullYear() - dob.getFullYear();
+  let next = addMonths(dob, years * 12);
+  if (next < startOfDay(at)) next = addMonths(dob, ++years * 12);
+  return { date: next, turning: years, inDays: diffDays(at, next) };
+}

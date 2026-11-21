@@ -1,0 +1,347 @@
+{
+ "keywords": {
+  "age calculator": {
+   "fetchedAt": "2026-11-21T21:53:00.239Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1000000,
+   "fileKd": 29,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 16,
+    "url": "www.omnicalculator.com/everyday-life/age"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://dqydj.com/age-calculator/",
+     "domain": "dqydj.com",
+     "title": "Age Calculator - Birthday to Age in Years, Months & Days",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://dqydj.com/?p=20812",
+     "domain": "dqydj.com",
+     "title": "Age Calculator - Birthday to Age in Years, Months & Days",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://calculatorsoup.com/calculators/time/age-calculator.php",
+     "domain": "calculatorsoup.com",
+     "title": "age calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.calculator.net/age-calculator.html%E2%80%8B%E2%80%8B",
+     "domain": "www.calculator.net",
+     "title": "Age Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.calculator.net/age-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Age Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.almanac.com/tool/age-calculator",
+     "domain": "www.almanac.com",
+     "title": "age calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.omnicalculator.com/all/age",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.omnicalculator.com/everything-life/age",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.w3schools.com/tools/tool_age_calculator.php",
+     "domain": "www.w3schools.com",
+     "title": "tool age calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://apps.apple.com/us/app/-/id6740143492",
+     "domain": "apps.apple.com",
+     "title": "Age Calculator ®",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://apps.apple.com/us/app/id1668958810",
+     "domain": "apps.apple.com",
+     "title": "Age Calculator & compare",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://unacademy.com/content/?p=468801",
+     "domain": "unacademy.com",
+     "title": "Calculate exact age",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://inchcalculator.com/age-calculator",
+     "domain": "inchcalculator.com",
+     "title": "Age Calculator – Calculate Your Exact Age",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://cuemath.com/calculators/age-calculator",
+     "domain": "cuemath.com",
+     "title": "Age Calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://www.gigacalculator.com/calculators/age-calculator.php",
+     "domain": "www.gigacalculator.com",
+     "title": "Age Calculator",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://www.hirequotient.com/age-calculator",
+     "domain": "www.hirequotient.com",
+     "title": "Age Calculator | Calculate Age in Years, Months, and Days",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://pooranjoyb.github.io/Age-Calculator/",
+     "domain": "pooranjoyb.github.io",
+     "title": "AGE CALCULATOR",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://starto.odoo.com/age-calculator",
+     "domain": "starto.odoo.com",
+     "title": "People Also Ask",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://hackmd.io/@AllCalculator/HJbijZgWh",
+     "domain": "hackmd.io",
+     "title": "hackmd.io",
+     "description": null
+    }
+   ]
+  },
+  "age calculator [restricted to accessible domains]": {
+   "fetchedAt": "2026-11-21T21:55:46.538Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch-restricted",
+   "rankNote": "order within a search limited to accessible domains — not a Google rank, not the open result list",
+   "fileVolume": 1000000,
+   "fileKd": 29,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 16,
+    "url": "www.omnicalculator.com/everyday-life/age"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.calculator.net/age-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Age Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.calculatorsoup.com/calculators/time/age-calculator.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Age Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.gigacalculator.com/calculators/age-calculator.php",
+     "domain": "www.gigacalculator.com",
+     "title": "Age Calculator (How old am I?)",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.thecalculatorsite.com/misc/chronological-age.php",
+     "domain": "www.thecalculatorsite.com",
+     "title": "Chronological Age Calculator (Find Out Your Age)",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.inchcalculator.com/age-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Age Calculator - Calculate Your Exact Age - Inch Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.calculator.io/age-calculator/",
+     "domain": "www.calculator.io",
+     "title": "Age Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.omnicalculator.com/everyday-life/age-in-years",
+     "domain": "www.omnicalculator.com",
+     "title": "Age in Years Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.gigacalculator.com/calculators/chronological-age-calculator.php",
+     "domain": "www.gigacalculator.com",
+     "title": "Chronological Age Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.omnicalculator.com/everyday-life/age-in-years-months-and-days",
+     "domain": "www.omnicalculator.com",
+     "title": "Age in Years, Months, and Days Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.calculatorsoup.com/calculators/time/age-checker.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Age Checker",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "age-calculator",
+ "page": "age-calculator",
+ "category": "time-date",
+ "name": "Age Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-21T21:55:46.538Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 7,
+   "keywords": 4,
+   "urls": [
+    "https://www.omnicalculator.com/all/age",
+    "https://www.omnicalculator.com/everything-life/age",
+    "https://www.omnicalculator.com/everyday-life/age-in-years",
+    "https://www.omnicalculator.com/everyday-life/age-in-years-months-and-days"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 1,
+   "keywords": 3,
+   "urls": [
+    "https://www.calculator.net/age-calculator.html%E2%80%8B%E2%80%8B",
+    "https://www.calculator.net/age-calculator.html"
+   ]
+  },
+  {
+   "domain": "calculatorsoup.com",
+   "bestRank": 2,
+   "keywords": 3,
+   "urls": [
+    "https://calculatorsoup.com/calculators/time/age-calculator.php",
+    "https://www.calculatorsoup.com/calculators/time/age-calculator.php",
+    "https://www.calculatorsoup.com/calculators/time/age-checker.php"
+   ]
+  },
+  {
+   "domain": "gigacalculator.com",
+   "bestRank": 3,
+   "keywords": 3,
+   "urls": [
+    "https://www.gigacalculator.com/calculators/age-calculator.php",
+    "https://www.gigacalculator.com/calculators/chronological-age-calculator.php"
+   ]
+  },
+  {
+   "domain": "dqydj.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://dqydj.com/age-calculator/",
+    "https://dqydj.com/?p=20812"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 5,
+   "keywords": 2,
+   "urls": [
+    "https://inchcalculator.com/age-calculator",
+    "https://www.inchcalculator.com/age-calculator/"
+   ]
+  },
+  {
+   "domain": "apple.com",
+   "bestRank": 10,
+   "keywords": 2,
+   "urls": [
+    "https://apps.apple.com/us/app/-/id6740143492",
+    "https://apps.apple.com/us/app/id1668958810"
+   ]
+  },
+  {
+   "domain": "thecalculatorsite.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.thecalculatorsite.com/misc/chronological-age.php"
+   ]
+  },
+  {
+   "domain": "almanac.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.almanac.com/tool/age-calculator"
+   ]
+  },
+  {
+   "domain": "calculator.io",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculator.io/age-calculator/"
+   ]
+  }
+ ]
+}

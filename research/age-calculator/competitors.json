@@ -1,0 +1,1266 @@
+{
+ "pages": {
+  "https://www.calculator.net/age-calculator.html%E2%80%8B%E2%80%8B": {
+   "url": "https://www.calculator.net/age-calculator.html%E2%80%8B%E2%80%8B",
+   "finalUrl": "https://www.calculator.net/age-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-21T21:54:42.793Z",
+   "title": "Age Calculator",
+   "metaDescription": "This free age calculator computes age in terms of years, months, weeks, days, hours, minutes, and seconds, given a date of birth.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Age Calculator"
+   ],
+   "h2": [],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Age Calculator"
+    }
+   ],
+   "wordCount": 394,
+   "avgSentenceWords": 15,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "age",
+     "weight": 19
+    },
+    {
+     "term": "calculator",
+     "weight": 8
+    },
+    {
+     "term": "month",
+     "weight": 7
+    },
+    {
+     "term": "age calculator",
+     "weight": 6
+    },
+    {
+     "term": "days",
+     "weight": 5
+    },
+    {
+     "term": "traditional chinese",
+     "weight": 5
+    },
+    {
+     "term": "years",
+     "weight": 4
+    },
+    {
+     "term": "months",
+     "weight": 4
+    },
+    {
+     "term": "date",
+     "weight": 4
+    },
+    {
+     "term": "person",
+     "weight": 4
+    },
+    {
+     "term": "example",
+     "weight": 4
+    },
+    {
+     "term": "year",
+     "weight": 4
+    },
+    {
+     "term": "feb",
+     "weight": 4
+    },
+    {
+     "term": "mar",
+     "weight": 4
+    },
+    {
+     "term": "age system",
+     "weight": 3
+    },
+    {
+     "term": "system",
+     "weight": 3
+    },
+    {
+     "term": "age increases",
+     "weight": 3
+    },
+    {
+     "term": "birthday",
+     "weight": 3
+    },
+    {
+     "term": "traditional",
+     "weight": 3
+    },
+    {
+     "term": "chinese",
+     "weight": 3
+    },
+    {
+     "term": "chinese new",
+     "weight": 3
+    },
+    {
+     "term": "new year",
+     "weight": 3
+    },
+    {
+     "term": "result",
+     "weight": 3
+    },
+    {
+     "term": "financial fitness",
+     "weight": 3
+    },
+    {
+     "term": "health math",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "For example, the age of a person who has lived for 3 years and 11 months is 3, and their age will increase to 4 on their next birthday one month later.",
+    "In one of the traditional Chinese age systems, people are born at age 1 and their age increases up at the Traditional Chinese New Year rather than their birthday."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 2,
+   "lists": 0,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 7,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 23,
+    "external": 0,
+    "contentInternal": 23,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "other",
+     "age calculator",
+     "Date Calculator",
+     "Time Calculator",
+     "Other Calculators",
+     "Age",
+     "Date",
+     "Time",
+     "Hours",
+     "GPA",
+     "Grade",
+     "Height",
+     "Concrete",
+     "IP Subnet",
+     "Bra Size",
+     "Password Generator",
+     "Dice Roller",
+     "Conversion"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/age-calculator.html",
+     "https://www.calculator.net/date-calculator.html",
+     "https://www.calculator.net/time-calculator.html",
+     "https://www.calculator.net/hours-calculator.html",
+     "https://www.calculator.net/gpa-calculator.html",
+     "https://www.calculator.net/grade-calculator.html",
+     "https://www.calculator.net/height-calculator.html",
+     "https://www.calculator.net/concrete-calculator.html",
+     "https://www.calculator.net/ip-subnet-calculator.html",
+     "https://www.calculator.net/bra-size-calculator.html",
+     "https://www.calculator.net/password-generator.html",
+     "https://www.calculator.net/dice-roller.html",
+     "https://www.calculator.net/conversion-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/all/age": {
+   "url": "https://www.omnicalculator.com/all/age",
+   "finalUrl": "https://www.omnicalculator.com/everyday-life/age",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-21T21:54:49.920Z",
+   "title": "Age Calculator: Find Your Age from Date of Birth",
+   "metaDescription": "Calculate your age accurately by a set date with our easy-to-use age calculator tool. Answer the question, how many days old am I instantly! Try it now.",
+   "canonical": "https://www.omnicalculator.com/everyday-life/age",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Age Calculator"
+   ],
+   "h2": [
+    "What is my age?",
+    "How old am I today? Ask the age calculator",
+    "How old are you? Calculate age from the date of birth",
+    "How many days/weeks/months/... old am I?",
+    "How old will I be in 2050?",
+    "If you were born in 1999, how old are you?",
+    "How many days are there in 15 years?",
+    "Example - \"How old was I on this date...",
+    "FAQs"
+   ],
+   "h3": [
+    "How many days have I been alive?",
+    "How many months do 3 years have?",
+    "How old am I if I am 10,000 days old?",
+    "How many years ago was 2017?",
+    "How old am I if I was born in 1983?",
+    "What year was I born if I'm 21?",
+    "How old am I if I was born in 1964?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Age Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is my age?"
+    },
+    {
+     "level": 2,
+     "text": "How old am I today? Ask the age calculator"
+    },
+    {
+     "level": 2,
+     "text": "How old are you? Calculate age from the date of birth"
+    },
+    {
+     "level": 2,
+     "text": "How many days/weeks/months/... old am I?"
+    },
+    {
+     "level": 2,
+     "text": "How old will I be in 2050?"
+    },
+    {
+     "level": 2,
+     "text": "If you were born in 1999, how old are you?"
+    },
+    {
+     "level": 2,
+     "text": "How many days are there in 15 years?"
+    },
+    {
+     "level": 2,
+     "text": "Example - \"How old was I on this date..."
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How many days have I been alive?"
+    },
+    {
+     "level": 3,
+     "text": "How many months do 3 years have?"
+    },
+    {
+     "level": 3,
+     "text": "How old am I if I am 10,000 days old?"
+    },
+    {
+     "level": 3,
+     "text": "How many years ago was 2017?"
+    },
+    {
+     "level": 3,
+     "text": "How old am I if I was born in 1983?"
+    },
+    {
+     "level": 3,
+     "text": "What year was I born if I'm 21?"
+    },
+    {
+     "level": 3,
+     "text": "How old am I if I was born in 1964?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1705,
+   "avgSentenceWords": 16,
+   "faqs": [
+    "How many days have I been alive?",
+    "How many months do 3 years have?",
+    "How old am I if I am 10,000 days old?",
+    "How many years ago was 2017?",
+    "How old am I if I was born in 1983?",
+    "What year was I born if I'm 21?",
+    "How old am I if I was born in 1964?",
+    "What is my age?",
+    "How old are you?",
+    "How many days/weeks/months/... old am I?",
+    "How old will I be in 2050?",
+    "If you were born in 1999, how old are you?",
+    "How many days are there in 15 years?"
+   ],
+   "faqSchemaCount": 7,
+   "topics": [
+    {
+     "term": "age",
+     "weight": 46
+    },
+    {
+     "term": "old",
+     "weight": 40
+    },
+    {
+     "term": "age calculator",
+     "weight": 29
+    },
+    {
+     "term": "years",
+     "weight": 28
+    },
+    {
+     "term": "days",
+     "weight": 25
+    },
+    {
+     "term": "date",
+     "weight": 23
+    },
+    {
+     "term": "calculator",
+     "weight": 22
+    },
+    {
+     "term": "many",
+     "weight": 19
+    },
+    {
+     "term": "birth",
+     "weight": 18
+    },
+    {
+     "term": "months",
+     "weight": 17
+    },
+    {
+     "term": "born",
+     "weight": 15
+    },
+    {
+     "term": "days old",
+     "weight": 14
+    },
+    {
+     "term": "year",
+     "weight": 13
+    },
+    {
+     "term": "many days",
+     "weight": 12
+    },
+    {
+     "term": "have",
+     "weight": 12
+    },
+    {
+     "term": "birthday",
+     "weight": 11
+    },
+    {
+     "term": "calculate age",
+     "weight": 11
+    },
+    {
+     "term": "you've",
+     "weight": 9
+    },
+    {
+     "term": "you're",
+     "weight": 8
+    },
+    {
+     "term": "calculate",
+     "weight": 7
+    },
+    {
+     "term": "today",
+     "weight": 7
+    },
+    {
+     "term": "exact",
+     "weight": 7
+    },
+    {
+     "term": "month",
+     "weight": 7
+    },
+    {
+     "term": "last",
+     "weight": 7
+    },
+    {
+     "term": "day",
+     "weight": 6
+    },
+    {
+     "term": "let's",
+     "weight": 6
+    },
+    {
+     "term": "unit",
+     "weight": 6
+    },
+    {
+     "term": "last birthday",
+     "weight": 6
+    },
+    {
+     "term": "subtract",
+     "weight": 6
+    },
+    {
+     "term": "add",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "If you choose the \"months\" unit, we will assume that months have 30.4375 days (that's an average).",
+    "\"Calculate age on\" should be followed by \"Jan 1, 2050\" or any other day in 2050, depending on when you want.",
+    "The age calculator will tell you that on New Year's Day 2050, you'll be 44 years 9 months, 28 days old.",
+    "If you're 15 and wondering, \"How many days old am I?\", enter your date of birth and today's date into the age calculator.",
+    "If you want to convert 15 years to days, you can use our time unit converter or type into this age calculator two dates that are 15 years apart.",
+    "...when I first learned that time is relative?\" You've just found your diary in the attic, opened it on a random page, and read: \"3.02.1978 Nothing will ever be the same again.",
+    "To estimate your age in days: Remind yourself which birthday you celebrated the last and multiply this value by 365."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 7,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Date of birth",
+    "Calculate age on",
+    "Show resulting age in"
+   ],
+   "selectOptionsSample": "select milliseconds seconds minutes hours days weeks months years years / months / days",
+   "unitToggle": false,
+   "wordsBeforeTool": 5,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Rita Rain",
+    "published": "2020-10-10T14:37:17.279Z",
+    "modified": "2026-08-21T17:50:28.627Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 561,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 21,
+    "external": 1,
+    "contentInternal": 5,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Korean age calculator",
+     "Lunar age calculator",
+     "birthday calculator",
+     "chronological age calculator",
+     "Audiobook Speed Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/everyday-life/korean-age",
+     "https://www.omnicalculator.com/everyday-life/lunar-age",
+     "https://www.omnicalculator.com/everyday-life/birthday",
+     "https://www.omnicalculator.com/everyday-life/chronological-age",
+     "https://www.omnicalculator.com/everyday-life/audiobook-speed"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://inchcalculator.com/age-calculator": {
+   "url": "https://inchcalculator.com/age-calculator",
+   "finalUrl": "https://www.inchcalculator.com/age-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-21T21:55:03.972Z",
+   "title": "Age Calculator - Calculate Your Exact Age - Inch Calculator",
+   "metaDescription": "Wondering how old you are? Use our age calculator to find out how old you are in years, months, days, hours, minutes, and seconds.",
+   "canonical": "https://www.inchcalculator.com/age-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Age Calculator – Calculate Your Exact Age"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Your Age",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How Old Are You in 2026?",
+    "How to Calculate Your Age",
+    "Similar Time Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "See how old you will be in:",
+    "How to Find Your Age in Days"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Age Calculator – Calculate Your Exact Age"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Your Age"
+    },
+    {
+     "level": 3,
+     "text": "See how old you will be in:"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How Old Are You in 2026?"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Your Age"
+    },
+    {
+     "level": 3,
+     "text": "How to Find Your Age in Days"
+    },
+    {
+     "level": 2,
+     "text": "Similar Time Calculators"
+    }
+   ],
+   "wordCount": 1141,
+   "avgSentenceWords": 34,
+   "faqs": [
+    "How Old Are You in 2026?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "years old",
+     "weight": 152
+    },
+    {
+     "term": "old",
+     "weight": 114
+    },
+    {
+     "term": "years",
+     "weight": 110
+    },
+    {
+     "term": "age",
+     "weight": 42
+    },
+    {
+     "term": "days",
+     "weight": 21
+    },
+    {
+     "term": "calculator",
+     "weight": 15
+    },
+    {
+     "term": "year",
+     "weight": 15
+    },
+    {
+     "term": "birthday",
+     "weight": 12
+    },
+    {
+     "term": "find",
+     "weight": 11
+    },
+    {
+     "term": "age calculator",
+     "weight": 11
+    },
+    {
+     "term": "calculate",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "birth year",
+     "weight": 8
+    },
+    {
+     "term": "date",
+     "weight": 6
+    },
+    {
+     "term": "birth",
+     "weight": 6
+    },
+    {
+     "term": "has",
+     "weight": 5
+    },
+    {
+     "term": "year age",
+     "weight": 5
+    },
+    {
+     "term": "next birthday",
+     "weight": 5
+    },
+    {
+     "term": "days until",
+     "weight": 5
+    },
+    {
+     "term": "age 2026",
+     "weight": 5
+    },
+    {
+     "term": "below",
+     "weight": 4
+    },
+    {
+     "term": "see",
+     "weight": 4
+    },
+    {
+     "term": "next",
+     "weight": 4
+    },
+    {
+     "term": "formula",
+     "weight": 4
+    },
+    {
+     "term": "calculator calculate",
+     "weight": 3
+    },
+    {
+     "term": "exact age",
+     "weight": 3
+    },
+    {
+     "term": "years months",
+     "weight": 3
+    },
+    {
+     "term": "months",
+     "weight": 3
+    },
+    {
+     "term": "months days",
+     "weight": 3
+    },
+    {
+     "term": "seconds",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "How to Calculate Your Age How to Find Your Age in Days By Joe Sexton Joe is the creator of Inch Calculator and has over 20 years of experience in engineering and construction.",
+    "Table showing a person's age on their birthday in 2026 for a given birth year.",
+    "For example, let’s figure out your age if you were born in 2005, assuming your birthday has already passed this year.",
+    "age = 2026 – 2005 = 21 years So, if you were born in 2005 and you already had your birthday in 2026, you are 21 years old.",
+    "But, you can also calculate how old you are in days by multiplying your age plus one by 365.25.",
+    "age in days = ((age in years + 1) × 365.25) – days until birthday This formula uses 365.25 days per year to account for leap years, where every four years there is an extra day – February 29."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 2,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "Month",
+    "Day",
+    "Year",
+    "Month",
+    "Day",
+    "Year"
+   ],
+   "selectOptionsSample": "january february march april may june july august september october november december 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 1901 1902 1903 1904 1905 1906 1907 1908 1909 1910 1911 1912 1913 1914 1915 1916 1917 1918 1919 1920 1921 1922 1923 1924 1925 1926 ",
+   "unitToggle": false,
+   "wordsBeforeTool": 28,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2020-02-20",
+    "modified": "2024-02-27T15:10:05+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 138,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 45,
+    "external": 13,
+    "contentInternal": 22,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "start countdown",
+     "below",
+     "Add This to Your Site",
+     "Age Calculator",
+     "How Old Are You in 2026?",
+     "How to Calculate Your Age",
+     "How to Find Your Age in Days",
+     "Full bio",
+     "Age Calculator – Calculate Your Exact Age",
+     "days until your next birthday",
+     "find out how old you were on any date",
+     "February 29",
+     "date calculator",
+     "age difference calculator",
+     "cat",
+     "dog",
+     "Hours Calculator",
+     "Time Conversion Calculators",
+     "Leap Year Calculator",
+     "What Year Is It?"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/how-many-days-until-my-birthday/",
+     "https://www.inchcalculator.com/age-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/age/",
+     "https://www.inchcalculator.com/age-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/age-calculator/#idx_how_old_are_you_in_year",
+     "https://www.inchcalculator.com/age-calculator/#idx_how_to_calculate_your_age",
+     "https://www.inchcalculator.com/age-calculator/#idx_how_to_find_your_age_in_days",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/pateakia-heath/",
+     "https://www.inchcalculator.com/age-calculator/",
+     "https://www.inchcalculator.com/how-old-was-i-calculator/",
+     "https://www.inchcalculator.com/days-until/days-until-leap-day/",
+     "https://www.inchcalculator.com/date-calculator/",
+     "https://www.inchcalculator.com/age-difference-calculator/",
+     "https://www.inchcalculator.com/cat-age-calculator/",
+     "https://www.inchcalculator.com/dog-age-calculator/",
+     "https://www.inchcalculator.com/hours-calculator/",
+     "https://www.inchcalculator.com/convert/time/",
+     "https://www.inchcalculator.com/leap-year-calculator/",
+     "https://www.inchcalculator.com/what-year-is-it/",
+     "https://www.inchcalculator.com/minutes-calculator/",
+     "https://www.inchcalculator.com/time-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fage-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fage-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fage-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fage-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fage-calculator%2F&text=Age+Calculator+%26%238211%3B+Calculate+Your+Exact+Age",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fage-calculator%2F&text=Age+Calculator+%26%238211%3B+Calculate+Your+Exact+Age",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/time/age-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/time/age-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/time/age-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-21T21:57:14.932Z",
+   "title": "Age Calculator",
+   "metaDescription": "This free age calculator finds age in years, months and days given a date of birth. Accurately calculate age on any date, age at death, or time duration between two dates.",
+   "canonical": "https://www.calculatorsoup.com/calculators/time/age-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Age Calculator"
+   ],
+   "h2": [
+    "How This Calculator Calculates Age",
+    "How You Can Calculate Age",
+    "Date Formats",
+    "What You Can Do Using the Age Calculator",
+    "How to Calculate Age from Birthdate in Excel Spreadsheets"
+   ],
+   "h3": [
+    "Example Age Calculation",
+    "Notes on Using the Calculator",
+    "What is My Age?",
+    "How Old is My Child?",
+    "How Many Days Until...?",
+    "Number of Days per Month",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Age Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How This Calculator Calculates Age"
+    },
+    {
+     "level": 2,
+     "text": "How You Can Calculate Age"
+    },
+    {
+     "level": 3,
+     "text": "Example Age Calculation"
+    },
+    {
+     "level": 2,
+     "text": "Date Formats"
+    },
+    {
+     "level": 3,
+     "text": "Notes on Using the Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What You Can Do Using the Age Calculator"
+    },
+    {
+     "level": 3,
+     "text": "What is My Age?"
+    },
+    {
+     "level": 3,
+     "text": "How Old is My Child?"
+    },
+    {
+     "level": 3,
+     "text": "How Many Days Until...?"
+    },
+    {
+     "level": 3,
+     "text": "Number of Days per Month"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Age from Birthdate in Excel Spreadsheets"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 1823,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "What is My Age?",
+    "How Old is My Child?",
+    "How Many Days Until...?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "days",
+     "weight": 72
+    },
+    {
+     "term": "age",
+     "weight": 66
+    },
+    {
+     "term": "date",
+     "weight": 44
+    },
+    {
+     "term": "calculator",
+     "weight": 37
+    },
+    {
+     "term": "months",
+     "weight": 34
+    },
+    {
+     "term": "years",
+     "weight": 29
+    },
+    {
+     "term": "age calculator",
+     "weight": 27
+    },
+    {
+     "term": "number",
+     "weight": 21
+    },
+    {
+     "term": "year",
+     "weight": 19
+    },
+    {
+     "term": "month",
+     "weight": 18
+    },
+    {
+     "term": "day",
+     "weight": 18
+    },
+    {
+     "term": "find",
+     "weight": 13
+    },
+    {
+     "term": "dates",
+     "weight": 13
+    },
+    {
+     "term": "birth",
+     "weight": 11
+    },
+    {
+     "term": "birthday",
+     "weight": 11
+    },
+    {
+     "term": "calculate",
+     "weight": 11
+    },
+    {
+     "term": "years months",
+     "weight": 11
+    },
+    {
+     "term": "input",
+     "weight": 9
+    },
+    {
+     "term": "calculate age",
+     "weight": 9
+    },
+    {
+     "term": "yyyy",
+     "weight": 9
+    },
+    {
+     "term": "borrow",
+     "weight": 9
+    },
+    {
+     "term": "weeks",
+     "weight": 8
+    },
+    {
+     "term": "subtract",
+     "weight": 8
+    },
+    {
+     "term": "month day",
+     "weight": 8
+    },
+    {
+     "term": "next birthday",
+     "weight": 8
+    },
+    {
+     "term": "days until",
+     "weight": 8
+    },
+    {
+     "term": "event",
+     "weight": 7
+    },
+    {
+     "term": "calculators",
+     "weight": 6
+    },
+    {
+     "term": "find age",
+     "weight": 6
+    },
+    {
+     "term": "next",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Method 2: Calculate age, setting up the dates like long subtraction.",
+    "The age or date difference result will be in years, months, and days Example Age Calculation You want to know the age of a person on March 10, 2026.",
+    "This results in a more accurate months and days calculation compared to using the average month length of 30.42 days (365 ÷ 12 = 30.42).",
+    "For example if you input the dates 03/15/2027 and 3/18/2027 into the calculator you will get a total age of 3 days.",
+    "Use the formula =DATEDIF(A1, TODAY(), \"Y\") to get age in number of years."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 9,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Month",
+    "Day",
+    "Year",
+    "date",
+    "Month",
+    "Day",
+    "Year",
+    "date",
+    "reset"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 56,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "October 26, 2026",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 70,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 18,
+    "external": 0,
+    "contentInternal": 8,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Time & Date",
+     "Age Calculator",
+     "Find exact age in Years, Days, Hours, Minutes and Seconds",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Date difference from November 15, 2006 to March 10, 2026",
+     "https://www.calculatorsoup.com/calculators/time/age-calculator.php",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/time/",
+     "https://www.calculatorsoup.com/calculators/time/age-calculator.php",
+     "https://www.calculatorsoup.com/calculators/time/how-old-am-i.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=time%2F&folderName=Time+%26amp%3B+Date&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/time/age-calculator.php&h1=Age+Calculator&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/time/age-calculator.php?date_format=iso&given_data=age&yr_0=2006&mo_0=11&dy_0=15&yr_1=2026&mo_1=3&dy_1=10&given_data_last=age&date_format_last=iso&action=solve"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://dqydj.com/age-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://dqydj.com/?p=20812": [
+   "unreachable (fetch failed)"
+  ],
+  "https://calculatorsoup.com/calculators/time/age-calculator.php": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.almanac.com/tool/age-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.w3schools.com/tools/tool_age_calculator.php": [
+   "unreachable (fetch failed)"
+  ],
+  "https://apps.apple.com/us/app/-/id6740143492": [
+   "unreachable (fetch failed)"
+  ],
+  "https://apps.apple.com/us/app/id1668958810": [
+   "unreachable (fetch failed)"
+  ],
+  "https://unacademy.com/content/?p=468801": [
+   "unreachable (fetch failed)"
+  ],
+  "https://cuemath.com/calculators/age-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.gigacalculator.com/calculators/age-calculator.php": [
+   "disallowed by robots.txt"
+  ],
+  "https://www.hirequotient.com/age-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://pooranjoyb.github.io/Age-Calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://starto.odoo.com/age-calculator": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

@@ -5,11 +5,11 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 12 on policy hold).
 | # | Batch | Status | Page | Slug | Category | Primary keyword | Vol | KD | Cluster vol | Merged rows |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | 1 | live | Date From Today Calculator | `days-from-today` | time-date | 14 days from today | 110000 | 17 | 1325000 | 1 |
-| 2 | 1 | todo | Payment Calculator | `payment-calculator` | finance | payment calculator | 74000 | 16 | 82800 | 1 |
-| 3 | 1 | todo | Proportion Calculator | `proportion-calculator` | math | proportion calculator | 1200000 | 31 | 1205400 | 1 |
-| 4 | 1 | todo | Interest Rate Calculator | `interest-rate-calculator` | finance | interest rate calculator | 27100 | 7 | 52900 | 1 |
-| 5 | 1 | todo | Ratio Calculator | `ratio-calculator` | math | ratio calculator | 1500000 | 34 | 1716180 | 1 |
-| 6 | 1 | todo | Age Calculator | `age-calculator` | time-date | age calculator | 1000000 | 29 | 1049900 | 1 |
+| 2 | 1 | live | Payment Calculator | `payment-calculator` | finance | payment calculator | 74000 | 16 | 82800 | 1 |
+| 3 | 1 | live | Proportion Calculator | `proportion-calculator` | math | proportion calculator | 1200000 | 31 | 1205400 | 1 |
+| 4 | 1 | live | Interest Rate Calculator | `interest-rate-calculator` | finance | interest rate calculator | 27100 | 7 | 52900 | 1 |
+| 5 | 1 | live | Ratio Calculator | `ratio-calculator` | math | ratio calculator | 1500000 | 34 | 1716180 | 1 |
+| 6 | 1 | live | Age Calculator | `age-calculator` | time-date | age calculator | 1000000 | 29 | 1049900 | 1 |
 | 7 | 1 | todo | Discount Calculator | `discount-calculator` | finance | discount calculator | 33100 | 11 | 76100 | 2 |
 | 8 | 1 | todo | Hypotenuse Calculator | `hypotenuse-calculator` | math | pythagoras equation solver | 18100 | 42 | 72600 | 2 |
 | 9 | 1 | todo | Period Calculator | `period-calculator` | health | period calculator | 40500 | 16 | 56000 | 1 |

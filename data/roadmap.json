@@ -602,7 +602,7 @@
     "www.calculator.net/loan-calculator.html"
    ],
    "category": "finance",
-   "status": "todo",
+   "status": "live",
    "order": 2,
    "batch": 1
   },
@@ -641,7 +641,7 @@
     "www.omnicalculator.com/math/proportion"
    ],
    "category": "math",
-   "status": "todo",
+   "status": "live",
    "order": 3,
    "batch": 1
   },
@@ -756,7 +756,7 @@
     "www.calculator.net/interest-rate-calculator.html"
    ],
    "category": "finance",
-   "status": "todo",
+   "status": "live",
    "order": 4,
    "batch": 1
   },
@@ -1103,7 +1103,7 @@
     "www.calculator.net/time-calculator.html"
    ],
    "category": "math",
-   "status": "todo",
+   "status": "live",
    "order": 5,
    "batch": 1
   },
@@ -1159,7 +1159,7 @@
     "www.calculator.net/age-calculator.html"
    ],
    "category": "time-date",
-   "status": "todo",
+   "status": "live",
    "order": 6,
    "batch": 1
   },

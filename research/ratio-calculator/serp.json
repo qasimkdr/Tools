@@ -1,0 +1,257 @@
+{
+ "keywords": {
+  "ratio calculator": {
+   "fetchedAt": "2026-11-21T21:53:00.114Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1500000,
+   "fileKd": 34,
+   "fileIntent": null,
+   "semrushCompetitor": {
+    "position": 2,
+    "url": "www.calculator.net/ratio-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.pearson.com/channels/ko-kr/calculators/ratio-calculator",
+     "domain": "www.pearson.com",
+     "title": "ratio calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.pearson.com/channels/calculators/ratio-calculator",
+     "domain": "www.pearson.com",
+     "title": "ratio calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://inchcalculator.com/ratio-calculator",
+     "domain": "inchcalculator.com",
+     "title": "Ratio Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.jainuniversity.ac.in/resources/calculator/ratio-calculator",
+     "domain": "www.jainuniversity.ac.in",
+     "title": "ratio calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.calculatorsoup.com/calculators/math/ratios.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "www.calculatorsoup.com",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://calculatorsoup.com/calculators/math/ratios.php?do=pop",
+     "domain": "calculatorsoup.com",
+     "title": "Ratio Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.omnicalculator.com/mathematics/ratio",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.omnicalculator.com/math/ratio",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.calculator.net/ratio-calculator.htm",
+     "domain": "www.calculator.net",
+     "title": "Ratio Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://calculator.net/ratio-calculator.html",
+     "domain": "calculator.net",
+     "title": "Ratio Calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://cuemath.com/calculators/ratio-calculator",
+     "domain": "cuemath.com",
+     "title": "Ratio Calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.miniwebtool.com/ratio-calculator/",
+     "domain": "www.miniwebtool.com",
+     "title": "ratio calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.gigacalculator.com/calculators/ratio-calculator.php",
+     "domain": "www.gigacalculator.com",
+     "title": "Ratio Calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://www.firgelliauto.com/en-nl/blogs/calculators/ratio-calculator",
+     "domain": "www.firgelliauto.com",
+     "title": "Ratio Interactive Calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://thecalculatortoolbox.odoo.com/ratio-calculator",
+     "domain": "thecalculatortoolbox.odoo.com",
+     "title": "Calculate ratios and proportions",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://www.calculator.io/ratio-calculator/",
+     "domain": "www.calculator.io",
+     "title": "Math Calculators",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://wecovr.com/calculators/ratio-calculator/",
+     "domain": "wecovr.com",
+     "title": "ratio calculator",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://coddy.tech/math/calculators/ratio-calculator",
+     "domain": "coddy.tech",
+     "title": "ratio calculator",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://myshare-cms.siemens.com/ratio-calculator",
+     "domain": "myshare-cms.siemens.com",
+     "title": "ratio calculator",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://dqydj.com/?p=16479",
+     "domain": "dqydj.com",
+     "title": "dqydj.com",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "ratio-calculator",
+ "page": "ratio-calculator",
+ "category": "math",
+ "name": "Ratio Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-21T21:53:00.115Z",
+ "topCompetitors": [
+  {
+   "domain": "pearson.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://www.pearson.com/channels/ko-kr/calculators/ratio-calculator",
+    "https://www.pearson.com/channels/calculators/ratio-calculator"
+   ]
+  },
+  {
+   "domain": "calculatorsoup.com",
+   "bestRank": 5,
+   "keywords": 2,
+   "urls": [
+    "https://www.calculatorsoup.com/calculators/math/ratios.php",
+    "https://calculatorsoup.com/calculators/math/ratios.php?do=pop"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 7,
+   "keywords": 2,
+   "urls": [
+    "https://www.omnicalculator.com/mathematics/ratio",
+    "https://www.omnicalculator.com/math/ratio"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 9,
+   "keywords": 2,
+   "urls": [
+    "https://www.calculator.net/ratio-calculator.htm",
+    "https://calculator.net/ratio-calculator.html"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://inchcalculator.com/ratio-calculator"
+   ]
+  },
+  {
+   "domain": "jainuniversity.ac.in",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.jainuniversity.ac.in/resources/calculator/ratio-calculator"
+   ]
+  },
+  {
+   "domain": "cuemath.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://cuemath.com/calculators/ratio-calculator"
+   ]
+  },
+  {
+   "domain": "miniwebtool.com",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://www.miniwebtool.com/ratio-calculator/"
+   ]
+  },
+  {
+   "domain": "gigacalculator.com",
+   "bestRank": 13,
+   "keywords": 1,
+   "urls": [
+    "https://www.gigacalculator.com/calculators/ratio-calculator.php"
+   ]
+  },
+  {
+   "domain": "firgelliauto.com",
+   "bestRank": 14,
+   "keywords": 1,
+   "urls": [
+    "https://www.firgelliauto.com/en-nl/blogs/calculators/ratio-calculator"
+   ]
+  }
+ ]
+}

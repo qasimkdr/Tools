@@ -1,0 +1,1187 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/math/proportion": {
+   "url": "https://www.omnicalculator.com/math/proportion",
+   "finalUrl": "https://www.omnicalculator.com/math/proportion",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-21T21:53:01.602Z",
+   "title": "Proportion Calculator (+How to Calculate Proportion w/ Formula)",
+   "metaDescription": "Proportion calculator helps find equivalent proportions given three of the four parts of the two ratios.",
+   "canonical": "https://www.omnicalculator.com/math/proportion",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Proportion Calculator"
+   ],
+   "h2": [
+    "What is a proportion? – proportion definition",
+    "Constant of proportionality – values being directly and inversely proportional",
+    "How to solve proportions – proportion examples",
+    "The golden ratio",
+    "Law of multiple proportions – proportional relationships in chemistry",
+    "Directly proportional tax definition"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Proportion Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is a proportion? – proportion definition"
+    },
+    {
+     "level": 2,
+     "text": "Constant of proportionality – values being directly and inversely proportional"
+    },
+    {
+     "level": 2,
+     "text": "How to solve proportions – proportion examples"
+    },
+    {
+     "level": 2,
+     "text": "The golden ratio"
+    },
+    {
+     "level": 2,
+     "text": "Law of multiple proportions – proportional relationships in chemistry"
+    },
+    {
+     "level": 2,
+     "text": "Directly proportional tax definition"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 2309,
+   "avgSentenceWords": 20,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "proportion",
+     "weight": 32
+    },
+    {
+     "term": "proportional",
+     "weight": 24
+    },
+    {
+     "term": "calculator",
+     "weight": 23
+    },
+    {
+     "term": "have",
+     "weight": 21
+    },
+    {
+     "term": "ratio",
+     "weight": 19
+    },
+    {
+     "term": "tax",
+     "weight": 17
+    },
+    {
+     "term": "proportions",
+     "weight": 16
+    },
+    {
+     "term": "constant",
+     "weight": 14
+    },
+    {
+     "term": "proportionality",
+     "weight": 12
+    },
+    {
+     "term": "golden ratio",
+     "weight": 11
+    },
+    {
+     "term": "directly proportional",
+     "weight": 11
+    },
+    {
+     "term": "inversely proportional",
+     "weight": 11
+    },
+    {
+     "term": "golden",
+     "weight": 10
+    },
+    {
+     "term": "proportion calculator",
+     "weight": 9
+    },
+    {
+     "term": "definition",
+     "weight": 9
+    },
+    {
+     "term": "variables",
+     "weight": 9
+    },
+    {
+     "term": "numbers",
+     "weight": 9
+    },
+    {
+     "term": "sulfuric acid",
+     "weight": 9
+    },
+    {
+     "term": "solve",
+     "weight": 8
+    },
+    {
+     "term": "directly",
+     "weight": 8
+    },
+    {
+     "term": "same",
+     "weight": 8
+    },
+    {
+     "term": "value",
+     "weight": 8
+    },
+    {
+     "term": "mass",
+     "weight": 8
+    },
+    {
+     "term": "income",
+     "weight": 8
+    },
+    {
+     "term": "proportional tax",
+     "weight": 8
+    },
+    {
+     "term": "proportional variables",
+     "weight": 8
+    },
+    {
+     "term": "inversely",
+     "weight": 7
+    },
+    {
+     "term": "examples",
+     "weight": 7
+    },
+    {
+     "term": "pay",
+     "weight": 7
+    },
+    {
+     "term": "relationship",
+     "weight": 7
+    }
+   ],
+   "claims": [
+    "Check out 19 similar fractions calculators 🍕 Ratio Fraction Golden ratio Build your calculator with Builder Add as preferred on Google The proportion calculator helps compute identical proportions.",
+    "If your preference is in the percent-based display, we encourage you to visit our percentage calculator, it might also be a better choice for solving proportions with 100 100as the denominator.",
+    "You have 12 − 5 = 7 12−5=7 slices remaining, so the proportion is 7 / 12 7/12.",
+    "If you wish to rewrite this proportion using a colon, you could write it as 7 : 12 7:12.",
+    "How to solve proportions – proportion examples Suppose that we have the same proportion of 7 / 12 7/12 but we want to scale it up to a larger, equivalent ratio with a denominator of 96 96.",
+    "Check (by using our proportions calculator) how many grams of hydrogen and oxygen can react fully with 352 grams of sulfur creating sulfuric acid (you can find the answer at the end of this text).",
+    "Answer to the question: By the law of multiple proportions, 352 grams of sulfur can react fully with 22 grams of hydrogen and 704 grams of oxygen, creating sulfuric acid."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 6,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Kacper Pawlik",
+    "published": "2015-11-05T12:06:22.784Z",
+    "modified": "2026-07-14T16:38:15.758Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 585,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 34,
+    "external": 1,
+    "contentInternal": 18,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "percentage calculator",
+     "fraction",
+     "how to solve proportions",
+     "constant of proportionality definition",
+     "how to do cross multiplication",
+     "pancake recipe calculator",
+     "golden ratio calculator",
+     "golden rectangle calculator",
+     "theoretical yield calculator",
+     "Least Common Multiple Calculator",
+     "Absolute Value Calculator",
+     "Interval Notation Calculator",
+     "Least Common Denominator Calculator",
+     "Null Space Calculator",
+     "Trig Identities Calculator",
+     "Partial Fraction Decomposition Calculator",
+     "Unit Rate Calculator",
+     "Exponential Function Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/math/percentage",
+     "https://www.omnicalculator.com/math/fraction",
+     "https://www.omnicalculator.com/math/proportion#how-to-solve-proportions-proportion-examples",
+     "https://www.omnicalculator.com/statistics/constant-of-proportionality",
+     "https://www.omnicalculator.com/math/cross-multiplication",
+     "https://www.omnicalculator.com/food/pancake-recipe",
+     "https://www.omnicalculator.com/math/golden-ratio",
+     "https://www.omnicalculator.com/math/golden-rectangle",
+     "https://www.omnicalculator.com/chemistry/theoretical-yield",
+     "https://www.omnicalculator.com/math/least-common-multiple",
+     "https://www.omnicalculator.com/math/absolute-value",
+     "https://www.omnicalculator.com/math/interval-notation",
+     "https://www.omnicalculator.com/math/least-common-denominator",
+     "https://www.omnicalculator.com/math/null-space",
+     "https://www.omnicalculator.com/math/trig-identities",
+     "https://www.omnicalculator.com/math/partial-fraction-decomposition",
+     "https://www.omnicalculator.com/math/unit-rate",
+     "https://www.omnicalculator.com/math/exponential-function"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.io/proportion-calculator/": {
+   "url": "https://www.calculator.io/proportion-calculator/",
+   "finalUrl": "https://www.calculator.io/proportion-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.calculator.io",
+   "fetchedAt": "2026-11-21T21:56:36.897Z",
+   "title": "Proportion Calculator",
+   "metaDescription": "Solve missing ratio values instantly with our free Proportion Calculator. Easily scale, enlarge, or shrink proportions and solve complex ratio equations.",
+   "canonical": "https://www.calculator.io/proportion-calculator/",
+   "robotsMeta": "index, follow",
+   "lang": "en",
+   "h1": [
+    "Proportion Calculator"
+   ],
+   "h2": [
+    "How to Solve Proportions and Find a Missing Ratio Value",
+    "Table of Contents",
+    "Directions for use",
+    "Ratios and Proportions"
+   ],
+   "h3": [
+    "Ratio calculator",
+    "Ratio definition",
+    "Scaling ratios",
+    "Proportions"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Proportion Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to Solve Proportions and Find a Missing Ratio Value"
+    },
+    {
+     "level": 2,
+     "text": "Table of Contents"
+    },
+    {
+     "level": 2,
+     "text": "Directions for use"
+    },
+    {
+     "level": 3,
+     "text": "Ratio calculator"
+    },
+    {
+     "level": 2,
+     "text": "Ratios and Proportions"
+    },
+    {
+     "level": 3,
+     "text": "Ratio definition"
+    },
+    {
+     "level": 3,
+     "text": "Scaling ratios"
+    },
+    {
+     "level": 4,
+     "text": "Example 1"
+    },
+    {
+     "level": 3,
+     "text": "Proportions"
+    },
+    {
+     "level": 4,
+     "text": "Example 2"
+    }
+   ],
+   "wordCount": 1073,
+   "avgSentenceWords": 24,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "ratio",
+     "weight": 34
+    },
+    {
+     "term": "calculator",
+     "weight": 17
+    },
+    {
+     "term": "calculator math",
+     "weight": 15
+    },
+    {
+     "term": "ratios",
+     "weight": 14
+    },
+    {
+     "term": "proportion",
+     "weight": 11
+    },
+    {
+     "term": "ask",
+     "weight": 10
+    },
+    {
+     "term": "math",
+     "weight": 10
+    },
+    {
+     "term": "width",
+     "weight": 10
+    },
+    {
+     "term": "example",
+     "weight": 9
+    },
+    {
+     "term": "value",
+     "weight": 8
+    },
+    {
+     "term": "numbers",
+     "weight": 8
+    },
+    {
+     "term": "instant answers",
+     "weight": 8
+    },
+    {
+     "term": "calculation try",
+     "weight": 8
+    },
+    {
+     "term": "try ask",
+     "weight": 8
+    },
+    {
+     "term": "ratio calculator",
+     "weight": 8
+    },
+    {
+     "term": "proportions",
+     "weight": 7
+    },
+    {
+     "term": "equivalent",
+     "weight": 7
+    },
+    {
+     "term": "height",
+     "weight": 7
+    },
+    {
+     "term": "solve",
+     "weight": 6
+    },
+    {
+     "term": "missing",
+     "weight": 6
+    },
+    {
+     "term": "calculation",
+     "weight": 6
+    },
+    {
+     "term": "fractions calculator",
+     "weight": 6
+    },
+    {
+     "term": "both",
+     "weight": 6
+    },
+    {
+     "term": "both numbers",
+     "weight": 6
+    },
+    {
+     "term": "video",
+     "weight": 6
+    },
+    {
+     "term": "480 pixels",
+     "weight": 6
+    },
+    {
+     "term": "pixels",
+     "weight": 6
+    },
+    {
+     "term": "scale",
+     "weight": 5
+    },
+    {
+     "term": "instant",
+     "weight": 5
+    },
+    {
+     "term": "answers",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "For example: 1 : 2 = 2 : 4 5 : 6 = 30 : 36 Proportions possess a highly useful property for calculating unknown ratios: the cross-product property.",
+    "Solution We know the aspect ratio is 4 : 3, which serves as the first half of our proportion."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "BreadcrumbList",
+    "WebApplication"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 5,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "Link"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 106,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": "2026-07-17T14:07:33+05:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 69,
+    "adNetworks": [
+     "adsense"
+    ],
+    "adSlots": 5,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 54,
+    "external": 1,
+    "contentInternal": 14,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Percentage Calculator Math",
+     "Fraction Calculator Math",
+     "Ratio Calculator Math",
+     "Simplifying Fractions Calculator Math",
+     "Equivalent Fractions Calculator Math",
+     "Directions for use",
+     "Ratio calculator",
+     "Ratios and Proportions",
+     "Ratio definition",
+     "Scaling ratios",
+     "Example 1",
+     "Proportions",
+     "Example 2"
+    ],
+    "internalSample": [
+     "https://www.calculator.io/ask-ai/",
+     "https://www.calculator.io/percentage-calculator/",
+     "https://www.calculator.io/fraction-calculator/",
+     "https://www.calculator.io/ratio-calculator/",
+     "https://www.calculator.io/simplifying-fractions-calculator/",
+     "https://www.calculator.io/equivalent-fractions-calculator/",
+     "https://www.calculator.io/proportion-calculator/#directions-for-use-1",
+     "https://www.calculator.io/proportion-calculator/#ratio-calculator-2",
+     "https://www.calculator.io/proportion-calculator/#ratios-and-proportions-3",
+     "https://www.calculator.io/proportion-calculator/#ratio-definition-4",
+     "https://www.calculator.io/proportion-calculator/#scaling-ratios-5",
+     "https://www.calculator.io/proportion-calculator/#example-1-6",
+     "https://www.calculator.io/proportion-calculator/#proportions-7",
+     "https://www.calculator.io/proportion-calculator/#example-2-8"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/math/fractionssolvex.php": {
+   "url": "https://www.calculatorsoup.com/calculators/math/fractionssolvex.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/math/fractionssolvex.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-21T21:57:28.761Z",
+   "title": "Fractions Solve for Unknown X",
+   "metaDescription": "Calculator solves for unknown in fractions or proportions. Find the missing number in equivalent fractions and show the work. Cross multiply fractions to solve for X.",
+   "canonical": "https://www.calculatorsoup.com/calculators/math/fractionssolvex.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Fractions Solve for Unknown X"
+   ],
+   "h2": [
+    "How to Solve for x in Fractions",
+    "Why Does the Cross Multiplication Calculator for Fractions Work?"
+   ],
+   "h3": [
+    "References",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Fractions Solve for Unknown X"
+    },
+    {
+     "level": 2,
+     "text": "How to Solve for x in Fractions"
+    },
+    {
+     "level": 2,
+     "text": "Why Does the Cross Multiplication Calculator for Fractions Work?"
+    },
+    {
+     "level": 3,
+     "text": "References"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 555,
+   "avgSentenceWords": 28,
+   "faqs": [
+    "Why Does the Cross Multiplication Calculator for Fractions Work?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "fractions",
+     "weight": 13
+    },
+    {
+     "term": "solve",
+     "weight": 12
+    },
+    {
+     "term": "equation",
+     "weight": 11
+    },
+    {
+     "term": "times",
+     "weight": 11
+    },
+    {
+     "term": "cross",
+     "weight": 10
+    },
+    {
+     "term": "dfrac",
+     "weight": 10
+    },
+    {
+     "term": "calculator",
+     "weight": 9
+    },
+    {
+     "term": "fractions solve",
+     "weight": 9
+    },
+    {
+     "term": "unknown",
+     "weight": 9
+    },
+    {
+     "term": "calculators",
+     "weight": 7
+    },
+    {
+     "term": "math",
+     "weight": 6
+    },
+    {
+     "term": "multiplying",
+     "weight": 6
+    },
+    {
+     "term": "fraction",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators math",
+     "weight": 5
+    },
+    {
+     "term": "cross multiplication",
+     "weight": 5
+    },
+    {
+     "term": "cross multiplying",
+     "weight": 5
+    },
+    {
+     "term": "cross multiply",
+     "weight": 5
+    },
+    {
+     "term": "doesn't change",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "variable",
+     "weight": 4
+    },
+    {
+     "term": "proportion",
+     "weight": 4
+    },
+    {
+     "term": "since",
+     "weight": 4
+    },
+    {
+     "term": "multiply",
+     "weight": 4
+    },
+    {
+     "term": "com",
+     "weight": 4
+    },
+    {
+     "term": "enter",
+     "weight": 3
+    },
+    {
+     "term": "unknown variable",
+     "weight": 3
+    },
+    {
+     "term": "multiplication",
+     "weight": 3
+    },
+    {
+     "term": "frac",
+     "weight": 3
+    },
+    {
+     "term": "value",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "Solve the proportion between 2 fractions and calculate the missing fraction variable in equalities."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 1,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "numerator 1",
+    "denominator 1",
+    "numerator 2",
+    "denominator 2",
+    "reset"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 36,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "August 1, 2025",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 55,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 17,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Math",
+     "Fractions",
+     "Fractions Solve for Unknown X",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "https://www.calculatorsoup.com/calculators/math/fractionssolvex.php",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/math/",
+     "https://www.calculatorsoup.com/calculators/math/fractionscalculators.php",
+     "https://www.calculatorsoup.com/calculators/math/fractionssolvex.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=math%2F&folderName=Math&folder2=math%2Ffractionscalculators.php&folderName2=Fractions&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/math/fractionssolvex.php&h1=Fractions+Solve+for+Unknown+X&pop_w=400&pop_h=600"
+    ],
+    "externalSample": [
+     "http://www.mathsisfun.com/algebra/cross-multiply.html"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/ratio-calculator.html": {
+   "url": "https://www.calculator.net/ratio-calculator.html",
+   "finalUrl": "https://www.calculator.net/ratio-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-21T21:57:40.132Z",
+   "title": "Ratio Calculator",
+   "metaDescription": "This ratio calculator solves ratios, scales ratios, or finds the missing value in a set of ratios. It can also give out ratio visual representation samples.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Ratio Calculator"
+   ],
+   "h2": [
+    "Ratio Scaling Calculator"
+   ],
+   "h3": [
+    "What is Ratio?",
+    "Typical Aspect Ratios and Sizes of Screens and Videos"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Ratio Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Ratio Scaling Calculator"
+    },
+    {
+     "level": 3,
+     "text": "What is Ratio?"
+    },
+    {
+     "level": 3,
+     "text": "Typical Aspect Ratios and Sizes of Screens and Videos"
+    }
+   ],
+   "wordCount": 623,
+   "avgSentenceWords": 28,
+   "faqs": [
+    "What is Ratio?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "ratio",
+     "weight": 16
+    },
+    {
+     "term": "ratios",
+     "weight": 11
+    },
+    {
+     "term": "aspect",
+     "weight": 8
+    },
+    {
+     "term": "aspect ratios",
+     "weight": 8
+    },
+    {
+     "term": "math",
+     "weight": 5
+    },
+    {
+     "term": "calculator",
+     "weight": 5
+    },
+    {
+     "term": "aspect ratio",
+     "weight": 5
+    },
+    {
+     "term": "times",
+     "weight": 4
+    },
+    {
+     "term": "many",
+     "weight": 4
+    },
+    {
+     "term": "sizes",
+     "weight": 4
+    },
+    {
+     "term": "wxga",
+     "weight": 4
+    },
+    {
+     "term": "ratio calculator",
+     "weight": 3
+    },
+    {
+     "term": "applications",
+     "weight": 3
+    },
+    {
+     "term": "many cookies",
+     "weight": 3
+    },
+    {
+     "term": "number",
+     "weight": 3
+    },
+    {
+     "term": "screens",
+     "weight": 3
+    },
+    {
+     "term": "actual",
+     "weight": 3
+    },
+    {
+     "term": "butter",
+     "weight": 3
+    },
+    {
+     "term": "butter sugar",
+     "weight": 3
+    },
+    {
+     "term": "sugar",
+     "weight": 3
+    },
+    {
+     "term": "sugar flour",
+     "weight": 3
+    },
+    {
+     "term": "flour",
+     "weight": 3
+    },
+    {
+     "term": "computer screen",
+     "weight": 3
+    },
+    {
+     "term": "1280 720",
+     "weight": 3
+    },
+    {
+     "term": "1920 1080",
+     "weight": 3
+    },
+    {
+     "term": "sxga",
+     "weight": 3
+    },
+    {
+     "term": "math calculators",
+     "weight": 3
+    },
+    {
+     "term": "financial fitness",
+     "weight": 3
+    },
+    {
+     "term": "health math",
+     "weight": 3
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 4,
+   "lists": 0,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "t1",
+    "b1",
+    "t2",
+    "b2",
+    "c2t1",
+    "c2b1",
+    "c2type",
+    "c2time"
+   ],
+   "selectOptionsSample": "enlarge shrink",
+   "unitToggle": false,
+   "wordsBeforeTool": 31,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 11,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 18,
+    "external": 0,
+    "contentInternal": 18,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "math",
+     "ratio calculator",
+     "Fraction Calculator",
+     "Math Calculators",
+     "Scientific",
+     "Fraction",
+     "Percentage",
+     "Triangle",
+     "Volume",
+     "Standard Deviation",
+     "Random Number Generator",
+     "More Math Calculators",
+     "Financial",
+     "Fitness and Health",
+     "Math",
+     "Other",
+     "about us",
+     "sitemap"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/ratio-calculator.html",
+     "https://www.calculator.net/fraction-calculator.html",
+     "https://www.calculator.net/scientific-calculator.html",
+     "https://www.calculator.net/percent-calculator.html",
+     "https://www.calculator.net/triangle-calculator.html",
+     "https://www.calculator.net/volume-calculator.html",
+     "https://www.calculator.net/standard-deviation-calculator.html",
+     "https://www.calculator.net/random-number-generator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.gigacalculator.com/calculators/proportion-calculator.php": [
+   "disallowed by robots.txt"
+  ],
+  "https://www.miniwebtool.com/proportion-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://testbook.com/calculators/proportion-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://testbook.com/amp/calculators/proportion-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://calculator.io/proportion-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://github.com/pub-calculator-io/proportion-calculator": [
+   "HTTP 403"
+  ],
+  "https://www.vedantu.com/calculator/proportion": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.size.ly/calculator/proportion-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.firgelliauto.com/es/blogs/calculators/proportion-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.calculate.co.nz/proportion-calculator.php": [
+   "unreachable (fetch failed)"
+  ],
+  "https://brightchamps.com/math/calculators/proportion-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.firgelliauto.com/en-nz/blogs/calculators/proportion-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://basic-mathematics.com/proportion-calculator.html": [
+   "unreachable (fetch failed)"
+  ],
+  "https://miniwebtool.com/proportion-calculator/video/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.calkoo.com/en/proportion-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://meracalculator.com/math/proportion.php": [
+   "unreachable (fetch failed)"
+  ],
+  "https://cuemath.com/calculators/percent-proportion-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.easyunitconverter.com/proportion-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.rapidtables.com/calc/math/ratio-calculator.html": [
+   "disallowed by robots.txt"
+  ]
+ }
+}

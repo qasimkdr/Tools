@@ -1,0 +1,256 @@
+{
+ "keywords": {
+  "interest rate calculator": {
+   "fetchedAt": "2026-11-21T21:52:59.996Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 27100,
+   "fileKd": 7,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 14,
+    "url": "www.omnicalculator.com/finance/savings-interest-rate"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://huggingface.co/spaces/McGill-NLP/weblinx-explorer/raw/6c68b331c7bdf6443d0d1025fec3ce97a50e97c7/demonstrations/ahpnhdb/pages/page-30-0.html",
+     "domain": "huggingface.co",
+     "title": "Interest Rate Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.calculator.net/interest-rate-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Interest Rate Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.calculator.net/interest-rate-ca",
+     "domain": "www.calculator.net",
+     "title": "Interest Rate Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.thecalculatorsite.com/finance/calculators/interest-rate-calculator.php",
+     "domain": "www.thecalculatorsite.com",
+     "title": "interest rate calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://es.wolframalpha.com/calculators/interest-calculator",
+     "domain": "es.wolframalpha.com",
+     "title": "interest calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://razorpay.com/s/interest-rate-calculator/",
+     "domain": "razorpay.com",
+     "title": "Interest Rate Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.omnicalculator.com/all/interest-rate",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.omnicalculator.com/finance/interest-rate",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.inchcalculator.com/interest-rate-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Interest Rate Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.angelone.in/calculators/interest-rate-calculator",
+     "domain": "www.angelone.in",
+     "title": "Interest Rate Calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://calculator.io/interest-rate-calculator",
+     "domain": "calculator.io",
+     "title": "Financial Calculators",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.financialmentor.com/?p=6823",
+     "domain": "www.financialmentor.com",
+     "title": "Use this interest rate calculator to solve for any missing loan term. All you need is...show more instructions",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://invezz.com/tools/calculators/interest-rate-calculator",
+     "domain": "invezz.com",
+     "title": "Interest rate calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://financer.com/loans/interest-rate-calculator/",
+     "domain": "financer.com",
+     "title": "Interest Rate Calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://www.nerdwallet.com/calculator/interest-calculator",
+     "domain": "www.nerdwallet.com",
+     "title": "Interest Calculator",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://corporatefinanceinstitute.com/resources/excel/study/interest-rate-calculator/",
+     "domain": "corporatefinanceinstitute.com",
+     "title": "interest rate calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://freetools.textmagic.com/interest-calculator",
+     "domain": "freetools.textmagic.com",
+     "title": "Simple and compound interest calculator",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://huggingface.co/spaces/McGill-NLP/weblinx-explorer/blob/6c68b331c7bdf6443d0d1025fec3ce97a50e97c7/demonstrations/ahpnhdb/pages/page-28-1.html",
+     "domain": "huggingface.co",
+     "title": "huggingface.co",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://number26.de/en-de/interest-calculator",
+     "domain": "number26.de",
+     "title": "Your interest calculator",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://wwwtest.bankofengland.co.uk/education/education-resources/borrowing-savings-calculator",
+     "domain": "wwwtest.bankofengland.co.uk",
+     "title": "Borrowing and savings calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "interest-rate-calculator",
+ "page": "interest-rate-calculator",
+ "category": "finance",
+ "name": "Interest Rate Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-21T21:52:59.997Z",
+ "topCompetitors": [
+  {
+   "domain": "huggingface.co",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://huggingface.co/spaces/McGill-NLP/weblinx-explorer/raw/6c68b331c7bdf6443d0d1025fec3ce97a50e97c7/demonstrations/ahpnhdb/pages/page-30-0.html",
+    "https://huggingface.co/spaces/McGill-NLP/weblinx-explorer/blob/6c68b331c7bdf6443d0d1025fec3ce97a50e97c7/demonstrations/ahpnhdb/pages/page-28-1.html"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 2,
+   "keywords": 2,
+   "urls": [
+    "https://www.calculator.net/interest-rate-calculator.html",
+    "https://www.calculator.net/interest-rate-ca"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 7,
+   "keywords": 2,
+   "urls": [
+    "https://www.omnicalculator.com/all/interest-rate",
+    "https://www.omnicalculator.com/finance/interest-rate"
+   ]
+  },
+  {
+   "domain": "thecalculatorsite.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.thecalculatorsite.com/finance/calculators/interest-rate-calculator.php"
+   ]
+  },
+  {
+   "domain": "wolframalpha.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://es.wolframalpha.com/calculators/interest-calculator"
+   ]
+  },
+  {
+   "domain": "razorpay.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://razorpay.com/s/interest-rate-calculator/"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/interest-rate-calculator/"
+   ]
+  },
+  {
+   "domain": "angelone.in",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://www.angelone.in/calculators/interest-rate-calculator"
+   ]
+  },
+  {
+   "domain": "calculator.io",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://calculator.io/interest-rate-calculator"
+   ]
+  },
+  {
+   "domain": "financialmentor.com",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://www.financialmentor.com/?p=6823"
+   ]
+  }
+ ]
+}

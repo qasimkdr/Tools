@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How do you solve a proportion?", a: "Write it as two equal fractions, a/b = c/d, then cross-multiply: a × d = b × c. Divide both sides by the number attached to the unknown. For 3/4 = x/8: 3 × 8 = 4 × x, so 24 = 4x and x = 6." },
+  { q: "What is cross-multiplication?", a: "Cross-multiplication multiplies the numerator of each fraction by the denominator of the other. In a true proportion the two products are equal, which turns a fraction equation into a simple one you can solve for the missing value." },
+  { q: "What's the difference between direct and inverse proportion?", a: "In a direct proportion both quantities rise together: twice the ingredients makes twice the cookies. In an inverse proportion one rises as the other falls: twice the workers finish a job in half the time. Inverse proportions use a × b = c × d instead of a/b = c/d." },
+  { q: "How do I check whether two ratios form a proportion?", a: "Fill in all four boxes. The calculator compares a × d with b × c. If they match, the ratios are equivalent and form a proportion; if not, it shows how far apart they are." },
+  { q: "Is a proportion the same as a ratio?", a: "A ratio compares two quantities, such as 3:4. A proportion is a statement that two ratios are equal, such as 3:4 = 6:8. Use our ratio calculator to simplify, scale or split ratios." },
+  { q: "Can I use decimals, fractions or negative numbers?", a: "Decimals and negatives work. For fractions, type them as decimals (1/2 = 0.5). A denominator can't be zero, because division by zero is undefined, so the calculator asks for a different value." },
+];

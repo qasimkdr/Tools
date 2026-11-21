@@ -24,32 +24,36 @@
    "keyword": "proportion calculator",
    "vol": 1200000,
    "kd": 31,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "done",
+   "pages": 4,
+   "updatedAt": "2026-11-21T21:56:39.468Z"
   },
   {
    "id": "interest-rate-calculator",
    "keyword": "interest rate calculator",
    "vol": 27100,
    "kd": 7,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "done",
+   "pages": 4,
+   "updatedAt": "2026-11-21T21:54:12.778Z"
   },
   {
    "id": "ratio-calculator",
    "keyword": "ratio calculator",
    "vol": 1500000,
    "kd": 34,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "done",
+   "pages": 4,
+   "updatedAt": "2026-11-21T21:54:34.573Z"
   },
   {
    "id": "age-calculator",
    "keyword": "age calculator",
    "vol": 1000000,
    "kd": 29,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "done",
+   "pages": 4,
+   "updatedAt": "2026-11-21T21:57:17.494Z"
   },
   {
    "id": "discount-calculator",

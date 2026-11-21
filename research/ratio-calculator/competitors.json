@@ -1,0 +1,1286 @@
+{
+ "pages": {
+  "https://inchcalculator.com/ratio-calculator": {
+   "url": "https://inchcalculator.com/ratio-calculator",
+   "finalUrl": "https://www.inchcalculator.com/ratio-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-21T21:54:18.838Z",
+   "title": "Ratio Calculator - Find, Solve, and Simplify Ratios - Inch Calculator",
+   "metaDescription": "Calculate ratios using our ultimate ratio calculator to solve, reduce, scale, or compare. Plus, learn the steps and formulas for each.",
+   "canonical": "https://www.inchcalculator.com/ratio-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Ratio Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Calculated Ratio",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate Ratios",
+    "How to Convert a Ratio to a Percentage",
+    "Frequently Asked Questions",
+    "Similar Ratio Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "How to Solve a Ratio in a Proportion",
+    "How to Compare Ratios",
+    "How to Reduce a Ratio",
+    "How to Scale a Ratio",
+    "What is a ratio in math?",
+    "How do you identify a ratio question on a test?",
+    "Is the order of numbers important in a ratio?",
+    "When would you use a ratio?",
+    "What are three ways to write a ratio?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Ratio Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Calculated Ratio"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Ratios"
+    },
+    {
+     "level": 3,
+     "text": "How to Solve a Ratio in a Proportion"
+    },
+    {
+     "level": 3,
+     "text": "How to Compare Ratios"
+    },
+    {
+     "level": 3,
+     "text": "How to Reduce a Ratio"
+    },
+    {
+     "level": 3,
+     "text": "How to Scale a Ratio"
+    },
+    {
+     "level": 2,
+     "text": "How to Convert a Ratio to a Percentage"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "What is a ratio in math?"
+    },
+    {
+     "level": 3,
+     "text": "How do you identify a ratio question on a test?"
+    },
+    {
+     "level": 3,
+     "text": "Is the order of numbers important in a ratio?"
+    },
+    {
+     "level": 3,
+     "text": "When would you use a ratio?"
+    },
+    {
+     "level": 3,
+     "text": "What are three ways to write a ratio?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Ratio Calculators"
+    }
+   ],
+   "wordCount": 1341,
+   "avgSentenceWords": 19,
+   "faqs": [
+    "What is a ratio in math?",
+    "How do you identify a ratio question on a test?",
+    "Is the order of numbers important in a ratio?",
+    "When would you use a ratio?",
+    "What are three ways to write a ratio?"
+   ],
+   "faqSchemaCount": 5,
+   "topics": [
+    {
+     "term": "ratio",
+     "weight": 73
+    },
+    {
+     "term": "ratios",
+     "weight": 19
+    },
+    {
+     "term": "decimal",
+     "weight": 17
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "proportion",
+     "weight": 12
+    },
+    {
+     "term": "compare",
+     "weight": 11
+    },
+    {
+     "term": "convert",
+     "weight": 11
+    },
+    {
+     "term": "left",
+     "weight": 11
+    },
+    {
+     "term": "side",
+     "weight": 11
+    },
+    {
+     "term": "right",
+     "weight": 11
+    },
+    {
+     "term": "ratio calculator",
+     "weight": 11
+    },
+    {
+     "term": "ratio numeratorratio",
+     "weight": 9
+    },
+    {
+     "term": "numeratorratio denominator",
+     "weight": 9
+    },
+    {
+     "term": "factor",
+     "weight": 9
+    },
+    {
+     "term": "common factor",
+     "weight": 9
+    },
+    {
+     "term": "scale",
+     "weight": 8
+    },
+    {
+     "term": "denominator",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "percentage",
+     "weight": 8
+    },
+    {
+     "term": "example",
+     "weight": 8
+    },
+    {
+     "term": "value",
+     "weight": 8
+    },
+    {
+     "term": "right side",
+     "weight": 8
+    },
+    {
+     "term": "example let",
+     "weight": 8
+    },
+    {
+     "term": "greatest common",
+     "weight": 8
+    },
+    {
+     "term": "form",
+     "weight": 7
+    },
+    {
+     "term": "numeratorratio",
+     "weight": 6
+    },
+    {
+     "term": "let",
+     "weight": 6
+    },
+    {
+     "term": "results",
+     "weight": 6
+    },
+    {
+     "term": "reduced",
+     "weight": 6
+    },
+    {
+     "term": "reduced ratio",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "For example, the ratio of 3 to 2 can be written as 3:2.",
+    "Image showing a 3:2 ratio Ratios are widely used in our everyday world.",
+    "Divide the left and right side by the common factor: 6 / 2 = 3 4 / 2 = 2 6:4 = 3:2 Thus, the reduced ratio is 3:2 shown by the proportion 6:4 = 3:2.",
+    "Multiply the numbers on the left and right side by 2: 7 × 2 = 14 4 × 2 = 8 Thus the scaled ratio is 14:8.",
+    "A ratio is an ordered pair of numbers that does not equal 0.",
+    "For example: if there are 3 dogs and 4 cats you would write 3:4 as the ratio.",
+    "The ratio 5:4 represents a different relationship than 4:5.",
+    "1 to 2, 1:2, 1/2 Similar Ratio Calculators Aspect Ratio Calculator Ratio Simplifier Percent to Ratio Calculator Ratio to Decimal Calculator Decimal to Ratio Calculator See All"
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "Ratio Numerator",
+    "Ratio Denominator",
+    "Ratio Numerator",
+    "Ratio Denominator",
+    "Ratio Numerator",
+    "Ratio Denominator",
+    "Ratio Numerator",
+    "Ratio Denominator",
+    "Ratio Numerator",
+    "Ratio Denominator",
+    "Ratio Numerator",
+    "Ratio Denominator",
+    "Scale Factor"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 37,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2017-10-15",
+    "modified": "2025-09-18T15:24:21+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 135,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 50,
+    "external": 13,
+    "contentInternal": 26,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate Ratios",
+     "How to Solve a Ratio in a Proportion",
+     "How to Compare Ratios",
+     "How to Reduce a Ratio",
+     "How to Scale a Ratio",
+     "How to Convert a Ratio to a Percentage",
+     "Frequently Asked Questions",
+     "Full bio",
+     "Ratio Calculator",
+     "debt-to-income",
+     "aspect ratios",
+     "scale dimensions",
+     "ratio to decimal calculator",
+     "ratio into a fraction",
+     "simplifying a fraction",
+     "find the greatest common factor",
+     "convert the decimal to percentage"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/ratio-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/ratio/",
+     "https://www.inchcalculator.com/ratio-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/ratio-calculator/#idx_how_to_calculate_ratios",
+     "https://www.inchcalculator.com/ratio-calculator/#idx_how_to_solve_a_ratio_in_a_proportion",
+     "https://www.inchcalculator.com/ratio-calculator/#idx_how_to_compare_ratios",
+     "https://www.inchcalculator.com/ratio-calculator/#idx_how_to_reduce_a_ratio",
+     "https://www.inchcalculator.com/ratio-calculator/#idx_how_to_scale_a_ratio",
+     "https://www.inchcalculator.com/ratio-calculator/#idx_how_to_convert_a_ratio_to_a_percentage",
+     "https://www.inchcalculator.com/ratio-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/pateakia-heath/",
+     "https://www.inchcalculator.com/ratio-calculator/",
+     "https://www.inchcalculator.com/debt-to-income-ratio-calculator/",
+     "https://www.inchcalculator.com/aspect-ratio-calculator/",
+     "https://www.inchcalculator.com/scale-calculator/",
+     "https://www.inchcalculator.com/ratio-to-decimal-calculator/",
+     "https://www.inchcalculator.com/ratio-to-fraction-calculator/",
+     "https://www.inchcalculator.com/fraction-simplifier/",
+     "https://www.inchcalculator.com/gcf-calculator/",
+     "https://www.inchcalculator.com/decimal-to-percent-calculator/",
+     "https://www.inchcalculator.com/ratio-percentage-calculator/",
+     "https://www.inchcalculator.com/ratio-simplifier/",
+     "https://www.inchcalculator.com/percent-to-ratio-calculator/",
+     "https://www.inchcalculator.com/decimal-to-ratio-calculator/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fratio-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fratio-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fratio-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fratio-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fratio-calculator%2F&text=Ratio+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fratio-calculator%2F&text=Ratio+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/math/ratios.php": {
+   "url": "https://www.calculatorsoup.com/calculators/math/ratios.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/math/ratios.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-21T21:54:24.426Z",
+   "title": "Ratio Calculator",
+   "metaDescription": "Ratio calculator solves missing values and compares ratio pairs or 3 number ratios. Solve ratio problems A:B = C:D, scale ratio proportions, and check equivalence.",
+   "canonical": "https://www.calculatorsoup.com/calculators/math/ratios.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Ratio Calculator"
+   ],
+   "h2": [
+    "Simplify Ratios",
+    "Solve for the Missing Ratio Value",
+    "Evaluate Equivalent Ratios",
+    "Practical Example: Concrete Mix Ratios",
+    "Practical Example: Scaling a Recipe",
+    "About Ratios",
+    "Convert Ratio to Fraction"
+   ],
+   "h3": [
+    "Related Calculators",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Ratio Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Simplify Ratios"
+    },
+    {
+     "level": 2,
+     "text": "Solve for the Missing Ratio Value"
+    },
+    {
+     "level": 2,
+     "text": "Evaluate Equivalent Ratios"
+    },
+    {
+     "level": 2,
+     "text": "Practical Example: Concrete Mix Ratios"
+    },
+    {
+     "level": 2,
+     "text": "Practical Example: Scaling a Recipe"
+    },
+    {
+     "level": 2,
+     "text": "About Ratios"
+    },
+    {
+     "level": 2,
+     "text": "Convert Ratio to Fraction"
+    },
+    {
+     "level": 3,
+     "text": "Related Calculators"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 1092,
+   "avgSentenceWords": 19,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "ratio",
+     "weight": 44
+    },
+    {
+     "term": "calculator",
+     "weight": 29
+    },
+    {
+     "term": "ratios",
+     "weight": 20
+    },
+    {
+     "term": "part",
+     "weight": 18
+    },
+    {
+     "term": "ratio calculator",
+     "weight": 17
+    },
+    {
+     "term": "enter",
+     "weight": 10
+    },
+    {
+     "term": "whole",
+     "weight": 10
+    },
+    {
+     "term": "calculators",
+     "weight": 7
+    },
+    {
+     "term": "fractions",
+     "weight": 7
+    },
+    {
+     "term": "values",
+     "weight": 7
+    },
+    {
+     "term": "equivalent",
+     "weight": 7
+    },
+    {
+     "term": "fraction",
+     "weight": 7
+    },
+    {
+     "term": "term",
+     "weight": 6
+    },
+    {
+     "term": "recipe",
+     "weight": 6
+    },
+    {
+     "term": "math",
+     "weight": 5
+    },
+    {
+     "term": "value",
+     "weight": 5
+    },
+    {
+     "term": "concrete",
+     "weight": 5
+    },
+    {
+     "term": "sand",
+     "weight": 5
+    },
+    {
+     "term": "scale",
+     "weight": 5
+    },
+    {
+     "term": "salad",
+     "weight": 5
+    },
+    {
+     "term": "cucumber",
+     "weight": 5
+    },
+    {
+     "term": "pieces",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators math",
+     "weight": 5
+    },
+    {
+     "term": "ratios enter",
+     "weight": 5
+    },
+    {
+     "term": "concrete mix",
+     "weight": 5
+    },
+    {
+     "term": "part ratio",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "solve",
+     "weight": 4
+    },
+    {
+     "term": "find",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "The ratio calculator takes integers, decimals and scientific e notation with a max of 15 characters.",
+    "If not, the calculator finds an equivalent ratio by multiplying each A and B value by 2 to create values for C and D.",
+    "The ratio calculator uses the same process for 3-term ratios A : B : C, or D : E : F.",
+    "Solve for the Missing Ratio Value For two pair of ratios enter 3 values to find the 4th.",
+    "The calculator shows the steps and solves using the ratio equation C = D * (A/B) The calculator uses the same process for 3-term ratios.",
+    "If you want to solve for a 3-term ratio by hand you can still use the above equations.",
+    "Practical Example: Concrete Mix Ratios A common concrete recipe mixes cement, sand and gravel in a 1:2:3 ratio by volume.",
+    "Input A, B and C as 1, 2 and 3 which is your concrete mix ratio.",
+    "Say you know the ratio of macaroni, milk and cheese for your grandmother's famous mac and cheese recipe: it's a 1-pound box of macaroni, 2.5 cups milk, and 6.5 cups of cheese.",
+    "If you had a salad and compared the ratio of cucumber to tomato pieces, your part-to-part cucumber:tomato ratio might be 5:4."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 1,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Solve:",
+    "Term A",
+    "Term B",
+    "Term C",
+    "Term D",
+    "Term A",
+    "Term B",
+    "Term C",
+    "Term D",
+    "Term E",
+    "Term F",
+    "Term A",
+    "Term B",
+    "scale up or down",
+    "scale factor",
+    "Term A",
+    "Term B",
+    "Term C",
+    "scale up or down",
+    "scale factor",
+    "reset"
+   ],
+   "selectOptionsSample": "a:b = c:d a:b:c = d:e:f scale a:b scale a:b:c multiply divide multiply divide",
+   "unitToggle": false,
+   "wordsBeforeTool": 15,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "May 30, 2026",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 64,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 19,
+    "external": 0,
+    "contentInternal": 9,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Math",
+     "Fractions",
+     "Ratio Calculator",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Ratio Simplifier",
+     "Simplifying Fractions Calculator",
+     "https://www.calculatorsoup.com/calculators/math/ratios.php",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/math/",
+     "https://www.calculatorsoup.com/calculators/math/fractionscalculators.php",
+     "https://www.calculatorsoup.com/calculators/math/ratios.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=math%2F&folderName=Math&folder2=math%2Ffractionscalculators.php&folderName2=Fractions&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/math/ratios.php&h1=Ratio+Calculator&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/math/ratio-simplifier.php",
+     "https://www.calculatorsoup.com/calculators/math/fractionssimplify.php"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/mathematics/ratio": {
+   "url": "https://www.omnicalculator.com/mathematics/ratio",
+   "finalUrl": "https://www.omnicalculator.com/math/ratio",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-21T21:54:28.781Z",
+   "title": "Ratio Calculator",
+   "metaDescription": "Master ratios easily with our ratio calculator: Learn how to find a ratio and discover equivalent ratios quickly and accurately. Try it today!",
+   "canonical": "https://www.omnicalculator.com/math/ratio",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Ratio Calculator"
+   ],
+   "h2": [
+    "How to do ratios",
+    "How to find a ratio",
+    "The golden ratio",
+    "FAQs"
+   ],
+   "h3": [
+    "What is the golden ratio?",
+    "How do I find the ratio of two numbers?",
+    "What are 3 ways to find a ratio?",
+    "What is the ratio of 3 to 5?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Ratio Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to do ratios"
+    },
+    {
+     "level": 2,
+     "text": "How to find a ratio"
+    },
+    {
+     "level": 2,
+     "text": "The golden ratio"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What is the golden ratio?"
+    },
+    {
+     "level": 3,
+     "text": "How do I find the ratio of two numbers?"
+    },
+    {
+     "level": 3,
+     "text": "What are 3 ways to find a ratio?"
+    },
+    {
+     "level": 3,
+     "text": "What is the ratio of 3 to 5?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 931,
+   "avgSentenceWords": 16,
+   "faqs": [
+    "What is the golden ratio?",
+    "How do I find the ratio of two numbers?",
+    "What are 3 ways to find a ratio?",
+    "What is the ratio of 3 to 5?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "ratio",
+     "weight": 42
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "golden ratio",
+     "weight": 11
+    },
+    {
+     "term": "find",
+     "weight": 10
+    },
+    {
+     "term": "numbers",
+     "weight": 10
+    },
+    {
+     "term": "golden",
+     "weight": 10
+    },
+    {
+     "term": "ratio calculator",
+     "weight": 9
+    },
+    {
+     "term": "ratios",
+     "weight": 9
+    },
+    {
+     "term": "both numbers",
+     "weight": 8
+    },
+    {
+     "term": "part",
+     "weight": 7
+    },
+    {
+     "term": "example",
+     "weight": 7
+    },
+    {
+     "term": "have",
+     "weight": 7
+    },
+    {
+     "term": "both",
+     "weight": 7
+    },
+    {
+     "term": "divide both",
+     "weight": 6
+    },
+    {
+     "term": "fraction",
+     "weight": 5
+    },
+    {
+     "term": "number",
+     "weight": 5
+    },
+    {
+     "term": "rectangle",
+     "weight": 5
+    },
+    {
+     "term": "golden rectangle",
+     "weight": 5
+    },
+    {
+     "term": "solve",
+     "weight": 4
+    },
+    {
+     "term": "quantities",
+     "weight": 4
+    },
+    {
+     "term": "denominator",
+     "weight": 4
+    },
+    {
+     "term": "scale",
+     "weight": 4
+    },
+    {
+     "term": "larger",
+     "weight": 4
+    },
+    {
+     "term": "proportion",
+     "weight": 4
+    },
+    {
+     "term": "divide",
+     "weight": 4
+    },
+    {
+     "term": "common",
+     "weight": 4
+    },
+    {
+     "term": "gcd",
+     "weight": 4
+    },
+    {
+     "term": "check",
+     "weight": 3
+    },
+    {
+     "term": "similar",
+     "weight": 3
+    },
+    {
+     "term": "length",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "If we want to know the ratio of slices eaten compared to the entire pie, then we have to put the number eaten as the numerator and the total number of pieces as the denominator: 3/8.",
+    "How to find a ratio Suppose we have the same ratio of 3/8, but we want to scale it up to a larger, equivalent ratio with a denominator of 72.",
+    "In the above example, the steps would look as follows: 3/8 = x/72 8 ⋅ x = 72 ⋅ 3 8x = 216 x = 27 For more complex ratios involving larger numbers or decimals, the ratio calculator is much more convenient to use.",
+    "The value of this ratio is approximately 1.618.",
+    "The golden ratio is a special number, approximately 1.618, found by dividing a line into two parts so that the longer part divided by the smaller part is equal to the whole length divided by the longer part.",
+    "For example, to find the ratio of 10 and 15, first find the GCD, which is 5.",
+    "For example, if you have 4 apples and 8 oranges, the ratio is 4:8.",
+    "For example, for 10 and 20, divide both by 10, giving the ratio of 1:2.",
+    "For example, the GCD of 14 and 28 is 14, so the ratio is 1:2 after dividing both numbers by 14.",
+    "The ratio of 3 to 5 means that for every 3 units of one quantity, there are 5 units of another."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 5,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "I would like to..."
+   ],
+   "selectOptionsSample": "select find an equivalent ratio. make a ratio larger. make a ratio smaller. simplify a ratio. simplify a ratio to a '1:n' form. simplify a ratio to a 'n:1' form.",
+   "unitToggle": false,
+   "wordsBeforeTool": 8,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Piotr Małek",
+    "published": "2016-01-18T16:08:17.317Z",
+    "modified": "2026-07-23T13:20:33.082Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 559,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 22,
+    "external": 1,
+    "contentInternal": 6,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Percents and Ratios: How to Convert and Understand the Difference",
+     "proportion calculator",
+     "golden ratio calculator",
+     "golden rectangle calculator",
+     "Least Common Denominator Calculator",
+     "Unit Rate Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/percents-and-ratios",
+     "https://www.omnicalculator.com/math/proportion",
+     "https://www.omnicalculator.com/math/golden-ratio",
+     "https://www.omnicalculator.com/math/golden-rectangle",
+     "https://www.omnicalculator.com/math/least-common-denominator",
+     "https://www.omnicalculator.com/math/unit-rate"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/ratio-calculator.htm": {
+   "url": "https://www.calculator.net/ratio-calculator.htm",
+   "finalUrl": "https://www.calculator.net/ratio-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-21T21:54:32.000Z",
+   "title": "Ratio Calculator",
+   "metaDescription": "This ratio calculator solves ratios, scales ratios, or finds the missing value in a set of ratios. It can also give out ratio visual representation samples.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Ratio Calculator"
+   ],
+   "h2": [
+    "Ratio Scaling Calculator"
+   ],
+   "h3": [
+    "What is Ratio?",
+    "Typical Aspect Ratios and Sizes of Screens and Videos"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Ratio Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Ratio Scaling Calculator"
+    },
+    {
+     "level": 3,
+     "text": "What is Ratio?"
+    },
+    {
+     "level": 3,
+     "text": "Typical Aspect Ratios and Sizes of Screens and Videos"
+    }
+   ],
+   "wordCount": 623,
+   "avgSentenceWords": 28,
+   "faqs": [
+    "What is Ratio?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "ratio",
+     "weight": 16
+    },
+    {
+     "term": "ratios",
+     "weight": 11
+    },
+    {
+     "term": "aspect",
+     "weight": 8
+    },
+    {
+     "term": "aspect ratios",
+     "weight": 8
+    },
+    {
+     "term": "math",
+     "weight": 5
+    },
+    {
+     "term": "calculator",
+     "weight": 5
+    },
+    {
+     "term": "aspect ratio",
+     "weight": 5
+    },
+    {
+     "term": "times",
+     "weight": 4
+    },
+    {
+     "term": "many",
+     "weight": 4
+    },
+    {
+     "term": "sizes",
+     "weight": 4
+    },
+    {
+     "term": "wxga",
+     "weight": 4
+    },
+    {
+     "term": "ratio calculator",
+     "weight": 3
+    },
+    {
+     "term": "applications",
+     "weight": 3
+    },
+    {
+     "term": "many cookies",
+     "weight": 3
+    },
+    {
+     "term": "number",
+     "weight": 3
+    },
+    {
+     "term": "screens",
+     "weight": 3
+    },
+    {
+     "term": "actual",
+     "weight": 3
+    },
+    {
+     "term": "butter",
+     "weight": 3
+    },
+    {
+     "term": "butter sugar",
+     "weight": 3
+    },
+    {
+     "term": "sugar",
+     "weight": 3
+    },
+    {
+     "term": "sugar flour",
+     "weight": 3
+    },
+    {
+     "term": "flour",
+     "weight": 3
+    },
+    {
+     "term": "computer screen",
+     "weight": 3
+    },
+    {
+     "term": "1280 720",
+     "weight": 3
+    },
+    {
+     "term": "1920 1080",
+     "weight": 3
+    },
+    {
+     "term": "sxga",
+     "weight": 3
+    },
+    {
+     "term": "math calculators",
+     "weight": 3
+    },
+    {
+     "term": "financial fitness",
+     "weight": 3
+    },
+    {
+     "term": "health math",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "with the ratio 2:1, 2 can contain 1, 2 times.",
+    "Increasing the ratio by five times yields a 5:10:15 ratio, and this can be multiplied by whatever the actual amount of sugar, flour, and butter are used in the actual cake recipe."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 4,
+   "lists": 0,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "t1",
+    "b1",
+    "t2",
+    "b2",
+    "c2t1",
+    "c2b1",
+    "c2type",
+    "c2time"
+   ],
+   "selectOptionsSample": "enlarge shrink",
+   "unitToggle": false,
+   "wordsBeforeTool": 31,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 11,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 18,
+    "external": 0,
+    "contentInternal": 18,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "math",
+     "ratio calculator",
+     "Fraction Calculator",
+     "Math Calculators",
+     "Scientific",
+     "Fraction",
+     "Percentage",
+     "Triangle",
+     "Volume",
+     "Standard Deviation",
+     "Random Number Generator",
+     "More Math Calculators",
+     "Financial",
+     "Fitness and Health",
+     "Math",
+     "Other",
+     "about us",
+     "sitemap"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/ratio-calculator.html",
+     "https://www.calculator.net/fraction-calculator.html",
+     "https://www.calculator.net/scientific-calculator.html",
+     "https://www.calculator.net/percent-calculator.html",
+     "https://www.calculator.net/triangle-calculator.html",
+     "https://www.calculator.net/volume-calculator.html",
+     "https://www.calculator.net/standard-deviation-calculator.html",
+     "https://www.calculator.net/random-number-generator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.pearson.com/channels/ko-kr/calculators/ratio-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.pearson.com/channels/calculators/ratio-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.jainuniversity.ac.in/resources/calculator/ratio-calculator": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

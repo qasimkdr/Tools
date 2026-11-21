@@ -1,0 +1,9 @@
+export const faq = [
+  { q: "How is exact age calculated?", a: "Count the whole years since your birthday, then the whole months since your last birthday, then the days since that month-day. Someone born on May 15, 1990 is 36 years, 6 months and 6 days old on November 21, 2026." },
+  { q: "How old am I if I was born in a certain year?", a: "Subtract your birth year from the current year. If your birthday hasn't happened yet this year, subtract one more. Enter your full date of birth above for the exact answer in years, months and days." },
+  { q: "How many days old am I?", a: "The calculator counts every calendar day between your date of birth and the chosen date, including leap days. It also shows the total in weeks and months, plus a rough figure for hours." },
+  { q: "How is age calculated for a February 29 birthday?", a: "In common years there's no February 29, so the calculator counts the birthday on February 28. Some laws and organizations use March 1 instead, so for official purposes check which rule applies." },
+  { q: "Can I find my age on a past or future date?", a: "Yes. Change the 'Age on' date to any day, for example a retirement date, school cut-off or event, to see exactly how old you were or will be then." },
+  { q: "What is chronological age?", a: "Chronological age is the time that has passed since birth, measured in calendar years, months and days. That's what this calculator shows. It's different from biological or developmental age, which estimate how a body or child is developing." },
+  { q: "Why do different age calculators sometimes disagree?", a: "Some calculators treat every month as 30.4 days or every year as 365 days. This one uses real calendar months and counts leap years, so the years-months-days breakdown matches the dates on a calendar." },
+];

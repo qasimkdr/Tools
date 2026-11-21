@@ -1,13 +1,18 @@
 import type { ToolMeta } from "./types";
 import type { CategoryId } from "@/lib/site";
 import daysFromToday from "./days-from-today/meta";
+import payment from "./payment-calculator/meta";
+import proportion from "./proportion-calculator/meta";
+import interestRate from "./interest-rate-calculator/meta";
+import ratio from "./ratio-calculator/meta";
+import age from "./age-calculator/meta";
 
 /**
  * Registry of PUBLISHED tools only (never list unbuilt tools → no broken links, no thin pages).
  * Add a tool: create src/tools/<slug>/meta.ts, import it here, add to TOOLS. That's the only wiring needed
  * for sitemap, category hubs, /tools/ index, home page and related-tool links.
  */
-export const TOOLS: ToolMeta[] = [daysFromToday];
+export const TOOLS: ToolMeta[] = [daysFromToday, payment, interestRate, ratio, proportion, age];
 
 const bySlug = new Map(TOOLS.map((t) => [t.slug, t]));
 export const getTool = (slug: string) => {

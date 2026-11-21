@@ -1,0 +1,1350 @@
+{
+ "pages": {
+  "https://www.calculator.net/interest-rate-calculator.html": {
+   "url": "https://www.calculator.net/interest-rate-calculator.html",
+   "finalUrl": "https://www.calculator.net/interest-rate-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-21T21:53:57.072Z",
+   "title": "Interest Rate Calculator",
+   "metaDescription": "Free online calculator to find the interest rate as well as the total interest cost of an amortized loan with a fixed monthly payback amount.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Interest Rate Calculator"
+   ],
+   "h2": [
+    "Results"
+   ],
+   "h3": [
+    "What is Interest Rate?",
+    "Uncontrollable Economic Factors that Affect Interest Rate",
+    "Controllable Factors that Determine Interest Rate",
+    "Real Interest Rate"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Interest Rate Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Results"
+    },
+    {
+     "level": 3,
+     "text": "What is Interest Rate?"
+    },
+    {
+     "level": 3,
+     "text": "Uncontrollable Economic Factors that Affect Interest Rate"
+    },
+    {
+     "level": 3,
+     "text": "Controllable Factors that Determine Interest Rate"
+    },
+    {
+     "level": 3,
+     "text": "Real Interest Rate"
+    }
+   ],
+   "wordCount": 1765,
+   "avgSentenceWords": 23,
+   "faqs": [
+    "What is Interest Rate?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "interest",
+     "weight": 77
+    },
+    {
+     "term": "interest rate",
+     "weight": 44
+    },
+    {
+     "term": "rate",
+     "weight": 43
+    },
+    {
+     "term": "interest rates",
+     "weight": 41
+    },
+    {
+     "term": "rates",
+     "weight": 36
+    },
+    {
+     "term": "credit",
+     "weight": 24
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "loan",
+     "weight": 11
+    },
+    {
+     "term": "inflation",
+     "weight": 11
+    },
+    {
+     "term": "borrowers",
+     "weight": 10
+    },
+    {
+     "term": "compound interest",
+     "weight": 9
+    },
+    {
+     "term": "money",
+     "weight": 9
+    },
+    {
+     "term": "there",
+     "weight": 9
+    },
+    {
+     "term": "factors",
+     "weight": 9
+    },
+    {
+     "term": "loans",
+     "weight": 8
+    },
+    {
+     "term": "interest calculator",
+     "weight": 8
+    },
+    {
+     "term": "payments",
+     "weight": 7
+    },
+    {
+     "term": "lenders",
+     "weight": 7
+    },
+    {
+     "term": "percentage",
+     "weight": 7
+    },
+    {
+     "term": "high",
+     "weight": 7
+    },
+    {
+     "term": "economy",
+     "weight": 7
+    },
+    {
+     "term": "higher",
+     "weight": 7
+    },
+    {
+     "term": "financial",
+     "weight": 6
+    },
+    {
+     "term": "rate calculator",
+     "weight": 6
+    },
+    {
+     "term": "real",
+     "weight": 6
+    },
+    {
+     "term": "compound",
+     "weight": 6
+    },
+    {
+     "term": "apr",
+     "weight": 6
+    },
+    {
+     "term": "borrow",
+     "weight": 6
+    },
+    {
+     "term": "credit card",
+     "weight": 6
+    },
+    {
+     "term": "many",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "For instance, an 8% interest rate for borrowing $100 a year will obligate a person to pay $108 at year-end.",
+    "Anything higher than 750 is considered excellent and will receive the best interest rates."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 4,
+   "lists": 1,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "cloanamount",
+    "cloanterm",
+    "cloantermmonth",
+    "cmonthlypay"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 85,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 25,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 29,
+    "external": 0,
+    "contentInternal": 29,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "financial",
+     "interest rate calculator",
+     "Interest Calculator",
+     "Compound Interest Calculator",
+     "APR Calculator",
+     "Inflation Calculator",
+     "Financial Calculators",
+     "Mortgage",
+     "Loan",
+     "Auto Loan",
+     "Interest",
+     "Payment",
+     "Retirement",
+     "Amortization",
+     "Investment",
+     "Currency",
+     "Inflation",
+     "Finance"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/interest-rate-calculator.html",
+     "https://www.calculator.net/interest-calculator.html",
+     "https://www.calculator.net/compound-interest-calculator.html",
+     "https://www.calculator.net/apr-calculator.html",
+     "https://www.calculator.net/inflation-calculator.html",
+     "https://www.calculator.net/mortgage-calculator.html",
+     "https://www.calculator.net/loan-calculator.html",
+     "https://www.calculator.net/auto-loan-calculator.html",
+     "https://www.calculator.net/payment-calculator.html",
+     "https://www.calculator.net/retirement-calculator.html",
+     "https://www.calculator.net/amortization-calculator.html",
+     "https://www.calculator.net/investment-calculator.html",
+     "https://www.calculator.net/currency-calculator.html",
+     "https://www.calculator.net/finance-calculator.html",
+     "https://www.calculator.net/mortgage-payoff-calculator.html",
+     "https://www.calculator.net/tax-calculator.html",
+     "https://www.calculator.net/salary-calculator.html",
+     "https://www.calculator.net/401k-calculator.html",
+     "https://www.calculator.net/sales-tax-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/other-calculator.html"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.thecalculatorsite.com/finance/calculators/interest-rate-calculator.php": {
+   "url": "https://www.thecalculatorsite.com/finance/calculators/interest-rate-calculator.php",
+   "finalUrl": "https://www.thecalculatorsite.com/finance/calculators/interest-rate-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.thecalculatorsite.com",
+   "fetchedAt": "2026-11-21T21:54:00.422Z",
+   "title": "Interest Rate Calculator for Savings, Loans or Credit",
+   "metaDescription": "Calculate the interest rate you’re receiving on your savings, investment, loan, mortgage or credit card using this calculator tool",
+   "canonical": "https://www.thecalculatorsite.com/finance/calculators/interest-rate-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Interest Rate Calculator"
+   ],
+   "h2": [
+    "What is my interest rate?",
+    "What interest rate am I paying on my loan?",
+    "What interest rate am I receiving on my investment/savings?",
+    "Related calculators"
+   ],
+   "h3": [
+    "Calculate loan interest rate %",
+    "Calculate savings rate %",
+    "Calculate simple interest rate %",
+    "What is the nominal interest rate?",
+    "What is the effective interest rate?",
+    "What is the APR for my loan?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Interest Rate Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Calculate loan interest rate %"
+    },
+    {
+     "level": 3,
+     "text": "Calculate savings rate %"
+    },
+    {
+     "level": 3,
+     "text": "Calculate simple interest rate %"
+    },
+    {
+     "level": 2,
+     "text": "What is my interest rate?"
+    },
+    {
+     "level": 2,
+     "text": "What interest rate am I paying on my loan?"
+    },
+    {
+     "level": 2,
+     "text": "What interest rate am I receiving on my investment/savings?"
+    },
+    {
+     "level": 3,
+     "text": "What is the nominal interest rate?"
+    },
+    {
+     "level": 3,
+     "text": "What is the effective interest rate?"
+    },
+    {
+     "level": 3,
+     "text": "What is the APR for my loan?"
+    },
+    {
+     "level": 2,
+     "text": "Related calculators"
+    },
+    {
+     "level": 4,
+     "text": "Finance"
+    },
+    {
+     "level": 4,
+     "text": "Home & Garden"
+    },
+    {
+     "level": 4,
+     "text": "Cooking"
+    },
+    {
+     "level": 4,
+     "text": "Website"
+    }
+   ],
+   "wordCount": 1521,
+   "avgSentenceWords": 28,
+   "faqs": [
+    "What is my interest rate?",
+    "What interest rate am I paying on my loan?",
+    "What interest rate am I receiving on my investment/savings?",
+    "What is the nominal interest rate?",
+    "What is the effective interest rate?",
+    "What is the APR for my loan?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "calculator",
+     "weight": 69
+    },
+    {
+     "term": "interest",
+     "weight": 63
+    },
+    {
+     "term": "interest rate",
+     "weight": 51
+    },
+    {
+     "term": "rate",
+     "weight": 48
+    },
+    {
+     "term": "loan",
+     "weight": 19
+    },
+    {
+     "term": "grams",
+     "weight": 19
+    },
+    {
+     "term": "savings",
+     "weight": 14
+    },
+    {
+     "term": "feet",
+     "weight": 12
+    },
+    {
+     "term": "calculators",
+     "weight": 11
+    },
+    {
+     "term": "cups",
+     "weight": 11
+    },
+    {
+     "term": "rate calculator",
+     "weight": 11
+    },
+    {
+     "term": "investment",
+     "weight": 10
+    },
+    {
+     "term": "compound interest",
+     "weight": 9
+    },
+    {
+     "term": "square",
+     "weight": 9
+    },
+    {
+     "term": "pounds",
+     "weight": 9
+    },
+    {
+     "term": "effective",
+     "weight": 9
+    },
+    {
+     "term": "nominal interest",
+     "weight": 9
+    },
+    {
+     "term": "compound",
+     "weight": 8
+    },
+    {
+     "term": "cubic",
+     "weight": 8
+    },
+    {
+     "term": "loan calculator",
+     "weight": 8
+    },
+    {
+     "term": "simple interest",
+     "weight": 8
+    },
+    {
+     "term": "compounding",
+     "weight": 7
+    },
+    {
+     "term": "money",
+     "weight": 7
+    },
+    {
+     "term": "ounces",
+     "weight": 7
+    },
+    {
+     "term": "weight",
+     "weight": 7
+    },
+    {
+     "term": "amount",
+     "weight": 7
+    },
+    {
+     "term": "monthly",
+     "weight": 7
+    },
+    {
+     "term": "nominal",
+     "weight": 7
+    },
+    {
+     "term": "annual",
+     "weight": 7
+    },
+    {
+     "term": "finance",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "If you'd like to use a spreadsheet to calculate your interest, give this simple loan calculator spreadsheet from Vertex42 a try.",
+    "To give an example, a 5% annual interest rate with monthly compounding would result in an effective annual rate of 5.12%.",
+    "The Annual Percentage Rate (APR) includes the setup fee charged by your lender as part of your overall interest calculation, averaged over 12 months."
+   ],
+   "schemaTypes": [],
+   "schemaFormats": [],
+   "tables": 0,
+   "lists": 27,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "I want to calculate/convert...",
+    "LoanInterest %",
+    "SavingsInterest %",
+    "Simple Interest",
+    "$",
+    "€",
+    "£",
+    "₹",
+    "¥",
+    "currency",
+    "Loan amount:",
+    "monthlypayment",
+    "totalinterest",
+    "amountrepaid",
+    "Secondary figure:",
+    "Time:",
+    "months",
+    "years",
+    "Setup fees:",
+    "$",
+    "€",
+    "£",
+    "₹",
+    "¥",
+    "currency",
+    "Initial balance:",
+    "end balance",
+    "interest",
+    "interest rate %",
+    "Secondary figure:",
+    "time period",
+    "dates",
+    "Years:",
+    "Months:",
+    "startdate",
+    "enddate",
+    "$",
+    "€",
+    "£",
+    "₹"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 7,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 770,
+    "adNetworks": [
+     "gpt",
+     "adthrive",
+     "ezoic"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 161,
+    "external": 3,
+    "contentInternal": 161,
+    "contentExternal": 3,
+    "internalAnchors": [
+     "Finance Calculators",
+     "Compound Interest",
+     "Compound Interest (Daily)",
+     "Amortization Calculator",
+     "APY Calculator",
+     "CAGR Calculator",
+     "Car Loan Calculator",
+     "Cash Back Calculator",
+     "Currency Converter",
+     "Forex Compounding",
+     "Future Value Calculator",
+     "How Long to Save",
+     "Interest Rate Calculator",
+     "Investment Calculator",
+     "IRR Calculator",
+     "Loan Calculator",
+     "Loan Payoff Calculator",
+     "Margin Calculator",
+     "Million to Billion Converter",
+     "MMA Calculator"
+    ],
+    "internalSample": [
+     "https://www.thecalculatorsite.com/",
+     "https://www.thecalculatorsite.com/finance/",
+     "https://www.thecalculatorsite.com/finance/calculators/compoundinterestcalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/daily-compound-interest.php",
+     "https://www.thecalculatorsite.com/finance/calculators/amortization-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/apy-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/cagr-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/carloancalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/cash-back.php",
+     "https://www.thecalculatorsite.com/finance/calculators/currencyconverter.php",
+     "https://www.thecalculatorsite.com/finance/calculators/forex-compound-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/future-value-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/how-long-to-save",
+     "https://www.thecalculatorsite.com/finance/calculators/interest-rate-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/investment-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/irr-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/loancalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/loan-payoff-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/margin-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/million-billion",
+     "https://www.thecalculatorsite.com/finance/calculators/money-market-account.php",
+     "https://www.thecalculatorsite.com/finance/calculators/money-counter.php",
+     "https://www.thecalculatorsite.com/finance/calculators/price-per-sqft.php",
+     "https://www.thecalculatorsite.com/finance/calculators/savings-calculators.php",
+     "https://www.thecalculatorsite.com/finance/calculators/savings-goal-calculator.php"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=thecalculatorsite.com",
+     "http://mathworld.wolfram.com/NewtonsMethod.html",
+     "https://www.vertex42.com/Calculators/simple-loan-calculator.html"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/all/interest-rate": {
+   "url": "https://www.omnicalculator.com/all/interest-rate",
+   "finalUrl": "https://www.omnicalculator.com/finance/interest-rate",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-21T21:54:07.103Z",
+   "title": "Interest Rate Calculator",
+   "metaDescription": "The Interest Rate Calculator is a device that computes various types of interest rate, from the point of view of either a loan or a deposit account.",
+   "canonical": "https://www.omnicalculator.com/finance/interest-rate",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Interest Rate Calculator"
+   ],
+   "h2": [
+    "What is interest rate?",
+    "A short survey on bank interest rates",
+    "Using the interest rate calculator - how to calculate interest rate?",
+    "How to calculate interest rate on a loan or on a deposit",
+    "Disclaimer"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Interest Rate Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is interest rate?"
+    },
+    {
+     "level": 2,
+     "text": "A short survey on bank interest rates"
+    },
+    {
+     "level": 2,
+     "text": "Using the interest rate calculator - how to calculate interest rate?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate interest rate on a loan or on a deposit"
+    },
+    {
+     "level": 2,
+     "text": "Disclaimer"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 2246,
+   "avgSentenceWords": 23,
+   "faqs": [
+    "What is interest rate?",
+    "Using the interest rate calculator - how to calculate interest rate?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "interest",
+     "weight": 87
+    },
+    {
+     "term": "rate",
+     "weight": 73
+    },
+    {
+     "term": "interest rate",
+     "weight": 63
+    },
+    {
+     "term": "loan",
+     "weight": 36
+    },
+    {
+     "term": "calculator",
+     "weight": 27
+    },
+    {
+     "term": "annual",
+     "weight": 21
+    },
+    {
+     "term": "amount",
+     "weight": 19
+    },
+    {
+     "term": "compounding",
+     "weight": 19
+    },
+    {
+     "term": "deposit",
+     "weight": 16
+    },
+    {
+     "term": "periodic",
+     "weight": 15
+    },
+    {
+     "term": "nominal",
+     "weight": 15
+    },
+    {
+     "term": "nominal interest",
+     "weight": 15
+    },
+    {
+     "term": "periodic rate",
+     "weight": 15
+    },
+    {
+     "term": "interest rates",
+     "weight": 15
+    },
+    {
+     "term": "fees",
+     "weight": 14
+    },
+    {
+     "term": "percentage",
+     "weight": 13
+    },
+    {
+     "term": "rates",
+     "weight": 13
+    },
+    {
+     "term": "loan amount",
+     "weight": 12
+    },
+    {
+     "term": "additional",
+     "weight": 11
+    },
+    {
+     "term": "effective annual",
+     "weight": 11
+    },
+    {
+     "term": "annual percentage",
+     "weight": 11
+    },
+    {
+     "term": "frequency",
+     "weight": 10
+    },
+    {
+     "term": "apr",
+     "weight": 10
+    },
+    {
+     "term": "account",
+     "weight": 10
+    },
+    {
+     "term": "rate calculator",
+     "weight": 9
+    },
+    {
+     "term": "annual rate",
+     "weight": 9
+    },
+    {
+     "term": "rate ear",
+     "weight": 9
+    },
+    {
+     "term": "ear",
+     "weight": 9
+    },
+    {
+     "term": "percentage rate",
+     "weight": 9
+    },
+    {
+     "term": "rate apr",
+     "weight": 9
+    }
+   ],
+   "claims": [
+    "The effective annual rate (EAR) is 13.9347%.",
+    "The Annual Percentage Rate (APR) is 14.9759%.",
+    "The total payments amount to $18,500.00, with an interest of $8,000.00 and additional fees of $500.00.",
+    "The simple way to get the periodic interest rate is the following: periodic rate = nominal interest rate / number of compounding 3.",
+    "After this selection, you can compute the previously mentioned interest rates by specifying the following parameters: 1.",
+    "Regarding the deposit (savings) interest rate: F = A × (1 + r / m)mt where: F — Current balance; and A — Initial deposit."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 13,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Interest capitalization frequency",
+    "Payment frequency"
+   ],
+   "selectOptionsSample": "select yearly semi-annually quarterly monthly weekly daily continuous select yearly semi-annually quarterly monthly bi-weekly weekly daily",
+   "unitToggle": false,
+   "wordsBeforeTool": 14,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Tibor Pál",
+    "published": "2019-11-28T04:47:00.576Z",
+    "modified": "2026-09-30T16:13:57.101Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 1139,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 35,
+    "external": 1,
+    "contentInternal": 19,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Annual Percentage Rate (APR)",
+     "IRR calculator",
+     "future value",
+     "continuous compound interest calculator",
+     "Annual Percentage Yield (APY)",
+     "Fisher equation calculator",
+     "Taylor rule calculator",
+     "effective interest rate calculator",
+     "carried interest calculator",
+     "loan interest calculator",
+     "car loan payment calculator",
+     "VPD Calculator (Vapor Pressure Deficit)",
+     "Sod Calculator",
+     "Molar Mass Calculator",
+     "Stone Weight Calculator",
+     "Board and Batten Calculator",
+     "Prorated Rent Calculator",
+     "Emergency Fund Calculator",
+     "Full-time Equivalent (FTE) Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/finance/apr",
+     "https://www.omnicalculator.com/finance/internal-rate-of-return",
+     "https://www.omnicalculator.com/finance/future-value",
+     "https://www.omnicalculator.com/finance/continuous-compound",
+     "https://www.omnicalculator.com/finance/apy",
+     "https://www.omnicalculator.com/finance/fisher-equation",
+     "https://www.omnicalculator.com/finance/taylor-rule",
+     "https://www.omnicalculator.com/finance/effective-interest-rate",
+     "https://www.omnicalculator.com/finance/carried-interest",
+     "https://www.omnicalculator.com/finance/loan-interest",
+     "https://www.omnicalculator.com/finance/auto-loan",
+     "https://www.omnicalculator.com/biology/vapor-pressure-deficit",
+     "https://www.omnicalculator.com/biology/sod",
+     "https://www.omnicalculator.com/chemistry/molar-mass",
+     "https://www.omnicalculator.com/construction/stone",
+     "https://www.omnicalculator.com/construction/board-and-batten",
+     "https://www.omnicalculator.com/finance/prorated-rent",
+     "https://www.omnicalculator.com/finance/emergency-fund",
+     "https://www.omnicalculator.com/finance/full-time-equivalent"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/interest-rate-calculator/": {
+   "url": "https://www.inchcalculator.com/interest-rate-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/interest-rate-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-21T21:54:10.207Z",
+   "title": "Interest Rate Calculator - Inch Calculator",
+   "metaDescription": "Use our interest rate calculator to find the rate of a compounded interest loan with regular payments. Plus, learn the formula to solve it.",
+   "canonical": "https://www.inchcalculator.com/interest-rate-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Interest Rate Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Annual Interest Rate",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate an Interest Rate",
+    "Frequently Asked Questions",
+    "Similar Finance Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Simple and Compound Interest Rates",
+    "Nominal Interest Rate",
+    "Effective Annual Rate",
+    "What is an interest rate?",
+    "Do you want a low or high interest rate?",
+    "Can you reduce an interest rate?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Interest Rate Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Annual Interest Rate"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate an Interest Rate"
+    },
+    {
+     "level": 3,
+     "text": "Simple and Compound Interest Rates"
+    },
+    {
+     "level": 4,
+     "text": "Simple Interest Rate Formula"
+    },
+    {
+     "level": 4,
+     "text": "Compound Interest Rate Formula"
+    },
+    {
+     "level": 3,
+     "text": "Nominal Interest Rate"
+    },
+    {
+     "level": 4,
+     "text": "Nominal Interest Rate Formula"
+    },
+    {
+     "level": 3,
+     "text": "Effective Annual Rate"
+    },
+    {
+     "level": 4,
+     "text": "Effective Annual Rate Formula"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "What is an interest rate?"
+    },
+    {
+     "level": 3,
+     "text": "Do you want a low or high interest rate?"
+    },
+    {
+     "level": 3,
+     "text": "Can you reduce an interest rate?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Finance Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 1700,
+   "avgSentenceWords": 25,
+   "faqs": [
+    "What is an interest rate?",
+    "Do you want a low or high interest rate?",
+    "Can you reduce an interest rate?"
+   ],
+   "faqSchemaCount": 3,
+   "topics": [
+    {
+     "term": "interest",
+     "weight": 103
+    },
+    {
+     "term": "interest rate",
+     "weight": 92
+    },
+    {
+     "term": "rate",
+     "weight": 81
+    },
+    {
+     "term": "loan",
+     "weight": 29
+    },
+    {
+     "term": "nominal interest",
+     "weight": 24
+    },
+    {
+     "term": "effective annual",
+     "weight": 23
+    },
+    {
+     "term": "annual",
+     "weight": 20
+    },
+    {
+     "term": "nominal",
+     "weight": 19
+    },
+    {
+     "term": "effective",
+     "weight": 17
+    },
+    {
+     "term": "compounding",
+     "weight": 17
+    },
+    {
+     "term": "compound interest",
+     "weight": 15
+    },
+    {
+     "term": "interest rates",
+     "weight": 15
+    },
+    {
+     "term": "annual rate",
+     "weight": 15
+    },
+    {
+     "term": "formula",
+     "weight": 14
+    },
+    {
+     "term": "simple interest",
+     "weight": 14
+    },
+    {
+     "term": "simple",
+     "weight": 13
+    },
+    {
+     "term": "rates",
+     "weight": 13
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "annual interest",
+     "weight": 12
+    },
+    {
+     "term": "times",
+     "weight": 12
+    },
+    {
+     "term": "left",
+     "weight": 12
+    },
+    {
+     "term": "right",
+     "weight": 12
+    },
+    {
+     "term": "money",
+     "weight": 11
+    },
+    {
+     "term": "rate formula",
+     "weight": 11
+    },
+    {
+     "term": "times left",
+     "weight": 11
+    },
+    {
+     "term": "compound",
+     "weight": 10
+    },
+    {
+     "term": "calculate",
+     "weight": 9
+    },
+    {
+     "term": "monthly",
+     "weight": 9
+    },
+    {
+     "term": "lender",
+     "weight": 9
+    },
+    {
+     "term": "higher",
+     "weight": 9
+    }
+   ],
+   "claims": [
+    "For example, a 15-year mortgage will always have a lower rate than a 30-year mortgage."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 3,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "Interest Type",
+    "Loan Amount",
+    "Monthly Payment",
+    "Loan Term",
+    "Loan Term Units"
+   ],
+   "selectOptionsSample": "simple interest compound interest months years",
+   "unitToggle": false,
+   "wordsBeforeTool": 19,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joseph Rich",
+    "published": "2022-04-03",
+    "modified": "2025-09-19T17:05:08+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 138,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 49,
+    "external": 14,
+    "contentInternal": 25,
+    "contentExternal": 8,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate an Interest Rate",
+     "Simple and Compound Interest Rates",
+     "Nominal Interest Rate",
+     "Effective Annual Rate",
+     "Frequently Asked Questions",
+     "References",
+     "Full bio",
+     "Interest Rate Calculator",
+     "calculate interest",
+     "simple interest",
+     "compound interest",
+     "effective annual rate",
+     "APY calculator",
+     "percentage",
+     "CD",
+     "mortgage",
+     "Interest Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/interest-rate-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/interest-rate/",
+     "https://www.inchcalculator.com/interest-rate-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/interest-rate-calculator/#idx_how_to_calculate_an_interest_rate",
+     "https://www.inchcalculator.com/interest-rate-calculator/#idx_simple_and_compound_interest_rates",
+     "https://www.inchcalculator.com/interest-rate-calculator/#idx_nominal_interest_rate",
+     "https://www.inchcalculator.com/interest-rate-calculator/#idx_effective_annual_rate",
+     "https://www.inchcalculator.com/interest-rate-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/interest-rate-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/joseph-rich/",
+     "https://www.inchcalculator.com/author/laura-deimling/",
+     "https://www.inchcalculator.com/interest-rate-calculator/",
+     "https://www.inchcalculator.com/interest-calculator/",
+     "https://www.inchcalculator.com/simple-interest-calculator/",
+     "https://www.inchcalculator.com/compound-interest-calculator/",
+     "https://www.inchcalculator.com/ear-calculator/",
+     "https://www.inchcalculator.com/apy-calculator/",
+     "https://www.inchcalculator.com/percentage-calculator/",
+     "https://www.inchcalculator.com/cd-calculator/",
+     "https://www.inchcalculator.com/mortgage-payoff-calculator/",
+     "https://www.inchcalculator.com/atv-loan-calculator/",
+     "https://www.inchcalculator.com/boat-loan-calculator/",
+     "https://www.inchcalculator.com/motorcycle-loan-calculator/",
+     "https://www.inchcalculator.com/lease-vs-buy-car-calculator/",
+     "https://www.inchcalculator.com/interest-and-loan-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Finterest-rate-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Finterest-rate-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Finterest-rate-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Finterest-rate-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Finterest-rate-calculator%2F&text=Interest+Rate+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Finterest-rate-calculator%2F&text=Interest+Rate+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://www.sciencedirect.com/topics/mathematics/newton-raphson-method"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://huggingface.co/spaces/McGill-NLP/weblinx-explorer/raw/6c68b331c7bdf6443d0d1025fec3ce97a50e97c7/demonstrations/ahpnhdb/pages/page-30-0.html": [
+   "unreachable (fetch failed)"
+  ],
+  "https://razorpay.com/s/interest-rate-calculator/": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

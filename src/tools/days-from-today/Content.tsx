@@ -76,6 +76,7 @@ export default function Content({ buildISO }: { buildISO: string }) {
         <li><strong>Travel and visas:</strong> stay limits such as the Schengen 90/180-day rule. Always confirm with the official authority.</li>
         <li><strong>Health and fitness:</strong> 30-, 60- and 90-day challenges, medication supplies, and the 40 weeks used to estimate pregnancy due dates.</li>
         <li><strong>Work and projects:</strong> sprint planning, delivery estimates in business days, and countdowns to launches or events.</li>
+        <li><strong>Birthdays and ages:</strong> counting down to a birthday or milestone. To see exactly how old someone is in years, months and days, use the <Link href="/age-calculator/">age calculator</Link>.</li>
       </ul>
 
       <h2 id="legal-note">A note on legal and official deadlines</h2>
