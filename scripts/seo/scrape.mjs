@@ -4,7 +4,7 @@
 // Usage: node scripts/seo/scrape.mjs --slug concrete-calculator [--count 4] [--method auto|playwright|dataforseo] [--urls u1,u2]
 // Order of methods (auto): Playwright direct (if robots.txt allows and host reachable) → DataForSEO On-Page instant_pages.
 import path from "node:path";
-import { args, dirFor, dfs, readJSON, writeJSON, sleep, isCompetitor } from "./lib.mjs";
+import { args, dirFor, dfs, readJSON, writeJSON, sleep, isCompetitor, rootDomain } from "./lib.mjs";
 
 const a = args();
 if (!a.slug) { console.error("need --slug"); process.exit(1); }
@@ -19,7 +19,7 @@ if (!urls.length) {
   if (!serp) { console.error("Run serp.mjs first (or pass --urls)."); process.exit(1); }
   const best = new Map();
   for (const s of Object.values(serp.keywords)) for (const o of s.organic)
-    if (isCompetitor(o.domain) && (!best.has(o.domain) || o.rank < best.get(o.domain).rank)) best.set(o.domain, o);
+    { const d = rootDomain(o.domain); if (isCompetitor(o.domain) && (!best.has(d) || o.rank < best.get(d).rank)) best.set(d, o); }
   urls = [...best.values()].sort((x, y) => x.rank - y.rank).slice(0, count + 2).map((o) => o.url); // +2 spares if some fail
 }
 

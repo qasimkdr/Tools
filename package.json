@@ -12,7 +12,8 @@
     "seo:serp": "NODE_USE_ENV_PROXY=1 node scripts/seo/serp.mjs",
     "seo:scrape": "NODE_USE_ENV_PROXY=1 node scripts/seo/scrape.mjs",
     "seo:report": "NODE_USE_ENV_PROXY=1 node scripts/seo/report.mjs",
-    "seo:research": "NODE_USE_ENV_PROXY=1 node scripts/seo/research.mjs"
+    "seo:research": "NODE_USE_ENV_PROXY=1 node scripts/seo/research.mjs",
+    "seo:record": "node scripts/seo/serp-record.mjs"
   },
   "dependencies": {
     "next": "^16.4.6",

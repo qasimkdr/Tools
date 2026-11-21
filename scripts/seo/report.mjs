@@ -25,7 +25,7 @@ L.push("## Keywords & SERP features", "", "| Keyword | Volume (file) | KD (file)
 for (const [kw, s] of Object.entries(serp.keywords)) L.push(`| ${esc(kw)} | ${s.fileVolume ?? "—"} | ${s.fileKd ?? "—"} | ${esc(s.features.join(", "))} | ${esc(s.featuredSnippet)} |`);
 
 for (const [kw, s] of Object.entries(serp.keywords)) {
-  L.push("", `### Top 10 — "${kw}" (fetched ${s.fetchedAt.slice(0, 10)})`, "", "| # | Domain | Title |", "|---|---|---|");
+  L.push("", `### Top 10 — "${kw}" (fetched ${s.fetchedAt.slice(0, 10)}${s.provider === "agent-websearch" ? ", free mode: # = web-search order, not verified Google rank" : ""})`, "", "| # | Domain | Title |", "|---|---|---|");
   for (const o of s.organic) L.push(`| ${o.rank} | ${esc(o.domain)} | [${esc(o.title)}](${o.url}) |`);
 }
 

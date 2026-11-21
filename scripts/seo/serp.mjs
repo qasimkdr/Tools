@@ -4,7 +4,7 @@
 //        node scripts/seo/serp.mjs --csv path/semrush.csv --slug my-page
 // Output: data/research/<slug>/serp.json (cached; re-run with --refresh). Live API data only — nothing is estimated.
 import path from "node:path";
-import { args, dfs, dirFor, loadKeywords, readJSON, writeJSON, isCompetitor, sleep } from "./lib.mjs";
+import { args, dfs, dirFor, loadKeywords, readJSON, writeJSON, isCompetitor, rootDomain, sleep } from "./lib.mjs";
 
 const a = args();
 if (!a.slug && !a.csv) { console.error("need --slug or --csv"); process.exit(1); }
@@ -43,8 +43,8 @@ for (const k of src.keywords) {
 const agg = new Map();
 for (const [kw, s] of Object.entries(cache.keywords)) for (const o of s.organic) {
   if (!isCompetitor(o.domain)) continue;
-  const e = agg.get(o.domain) || { domain: o.domain, bestRank: 99, keywords: 0, urls: new Set() };
-  e.bestRank = Math.min(e.bestRank, o.rank); e.keywords++; e.urls.add(o.url); agg.set(o.domain, e);
+  const d = rootDomain(o.domain); const e = agg.get(d) || { domain: d, bestRank: 99, keywords: 0, urls: new Set() };
+  e.bestRank = Math.min(e.bestRank, o.rank); e.keywords++; e.urls.add(o.url); agg.set(d, e);
 }
 cache.slug = slug; cache.name = src.name; cache.keywordSource = src.source; cache.updatedAt = new Date().toISOString();
 cache.topCompetitors = [...agg.values()].sort((x, y) => y.keywords - x.keywords || x.bestRank - y.bestRank).slice(0, 10)

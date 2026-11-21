@@ -2,6 +2,22 @@
 
 Run per tool/article, in batches of ≤5 pages. Live data only: if a step can't get real data, stop and report. Never fill gaps with guesses.
 
+## FREE MODE (current default — no paid APIs)
+1. **SERP:** run the agent's WebSearch tool (standard mode) for the primary keyword + 1–2 top secondary keywords.
+   Record each result list **exactly in the returned order** (no added/removed URLs):
+   `npm run seo:record -- --slug <slug> --kw "<keyword>" --results '[{"url":"…","title":"…"}, …]'`
+   Position = web-search order, not a verified Google rank; the report labels it. No People Also Ask in free mode, so use
+   competitor FAQs, keyword-cluster questions and WebSearch queries like "<keyword> how to" for FAQ ideas.
+2. **Competitor pages:** `npm run seo:scrape -- --slug <slug> --count 4` (free; Playwright). If a competitor host is
+   blocked by the cloud network, propose adding that exact host with the environment tools (free), or pick the next result.
+3. **Report:** `npm run seo:report -- --slug <slug>`, then write the brief in `docs/research/<slug>.md`.
+4. **Our own rankings (free):** Google Search Console Performance report (owner exports queries/positions) is the
+   source of truth for how we rank after launch.
+
+Never scrape google.com result pages directly (against Google's terms and blocked quickly).
+
+## Paid mode (later, optional)
+
 ## One-time setup (owner)
 | Need | Why | How |
 |---|---|---|
@@ -39,7 +55,7 @@ Raw data is stored in `data/research/<slug>/serp.json` and `competitors.json`. B
 4. Commit research + page together on the working branch, push, and report to the owner.
 
 ## Approval & safety rules
-- **Production = `main` branch** (the deploy workflow only deploys `main`). Agents push to the working branch only. The owner merging is the approval to publish.
+- **Production = `main` branch** (the deploy workflow only deploys `main`). Owner instruction: agents push directly to `main`, but only after build + e2e tests pass.
 - Changing an already-live page's content or URL goes in a separate commit called out in the report. Never silently overwrite it.
 - Respect `robots.txt` and rate limits (built in). Don't scrape sites that block bots; use the DataForSEO fallback or skip them.
 - Budget: about 3 SERPs + 4 page inspections ≈ $0.01–0.02 per tool. Print the cost after every run.

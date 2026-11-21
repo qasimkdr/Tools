@@ -28,7 +28,9 @@ Rows with status `hold` are policy-sensitive: never build without the owner's OK
 
 ## Commands
 - `npm run build` → static site in `out/` (includes `sitemap.xml`, `robots.txt`). Must pass before commit.
-- `npm run seo:research -- --slug <slug>` → live SERP + ≥4 competitor pages + report (`docs/research/<slug>.report.md`).
+- **FREE MODE (current, no paid APIs):** WebSearch the keyword → `npm run seo:record -- --slug <slug> --kw "…" --results '<json>'`
+  → `npm run seo:scrape -- --slug <slug> --count 4` → `npm run seo:report -- --slug <slug>` (details: `docs/07-SEO-RESEARCH-PIPELINE.md`).
+  Paid mode later: `npm run seo:research -- --slug <slug>` (DataForSEO).
 - `npm run test:e2e` → Playwright SEO + functional tests on the static build (desktop + mobile). Must pass before commit.
 - `npm run lint` (tsc). `npm run roadmap` regenerates roadmap from `data/source/*.xlsx`.
 - Visual check: `cd out && python3 -m http.server 4173` + Playwright screenshot (desktop 1366 + mobile 390, light + dark).
@@ -39,5 +41,6 @@ Rows with status `hold` are policy-sensitive: never build without the owner's OK
 3. No fake reviews/ratings schema, no keyword stuffing, no auto-generated filler. Write for the user first.
 4. Keep JS small: no new runtime dependency without a reason written in the PR/commit.
 5. Never fabricate volumes, rankings or competitor facts. No live data → say so and stop that step.
-6. Production = `main`. Push only to the working branch; the owner's merge is the publish approval. Call out any edit to an already-live page.
-7. Branch: `claude/nextjs-seo-calculators-site-do5n1n` (or whatever the session specifies). Never push to main unasked.
+6. Owner instruction (2026-11-21): commit and push directly to `main` (also keep the session branch in sync if one is set).
+   `main` deploys to production, so every push must pass `npm run build` + `npm run test:e2e`. Call out any edit to an already-live page in the commit message.
+7. Free tools only for now: no paid APIs/services. Don't scrape Google directly (ToS); use the WebSearch tool + `seo:record`.

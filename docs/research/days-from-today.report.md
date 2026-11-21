@@ -1,18 +1,37 @@
-# Competitor report: days-from-today (`days-from-today`)
+# Competitor report: Date From Today Calculator (`days-from-today`)
 
-Generated 2026-11-21 from live data. SERP source: DataForSEO, Google US, n/a. Volumes/KD: — (Semrush). Nothing in this file is estimated.
-
-> ⚠️ No live SERP data (DataForSEO not configured). Competitor URLs came from the Semrush file/--urls; ranks and People Also Ask are not included.
+Generated 2026-11-21 from live data. SERP source: DataForSEO, Google US, n/a. Volumes/KD: data/roadmap.json (Semrush) (Semrush). Nothing in this file is estimated.
 
 ## Keywords & SERP features
 
 | Keyword | Volume (file) | KD (file) | Features | Featured snippet |
 |---|---|---|---|---|
+| 90 days from today | 246000 | 29 |  | — |
+
+### Top 10 — "90 days from today" (fetched 2026-11-21, free mode: # = web-search order, not verified Google rank)
+
+| # | Domain | Title |
+|---|---|---|
+| 1 | omnicalculator.com | [Omni Calculator logo](https://omnicalculator.com/everyday-life/90-day) |
+| 2 | www.inchcalculator.com | [What Date Is 90 Days From Today?](https://www.inchcalculator.com/days-from/90-days-from-today/&sa=U&ved=2ahUKEwjKmq7Zi9eCAxVopokEHaCVArYQFnoECAUQAg&usg=AOvVaw1b4QBvH8-0YGjwSe-cPcsc/) |
+| 3 | es.symbolab.com | [90 days from today](https://es.symbolab.com/calculator/90-days-from-today) |
+| 4 | cache.omnicalculator.com | [Omni Calculator logo](https://cache.omnicalculator.com/everyday-life/90-day) |
+| 5 | fr.symbolab.com | [90 days from today](https://fr.symbolab.com/calculator/time-date/days-until/90-days-from-today) |
+| 6 | www.thewordfinder.com | [What Is 90 Days From Today?](https://www.thewordfinder.com/calculators/90-days-from-today/) |
+| 7 | inchcalculator.com | [What Date Is 90 Days From Today?](https://inchcalculator.com/days-from/90-days-from-today) |
+| 8 | www.omnicalculator.com | [Calendar Calculator](https://www.omnicalculator.com/everyday-life/calendar) |
+| 9 | www.geeksforgeeks.org | [90 Day Calculator (Dates 90 Days from Now) – Free Online Calculator](https://www.geeksforgeeks.org/90-day-calculator/) |
+| 10 | ar.symbolab.com | [today 90 days](https://ar.symbolab.com/calculator/today-90-days) |
 
 ## Top competitors (aggregated)
 
 | Domain | Best rank | # of our keywords |
 |---|---|---|
+| omnicalculator.com | 1 | 3 |
+| symbolab.com | 3 | 3 |
+| inchcalculator.com | 2 | 2 |
+| thewordfinder.com | 6 | 1 |
+| geeksforgeeks.org | 9 | 1 |
 
 ## People Also Ask (→ FAQ / H2 candidates)
 

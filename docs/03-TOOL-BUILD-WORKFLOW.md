@@ -17,8 +17,8 @@ You get: primary keyword, volume, KD, all merged keywords (≤40), competitor UR
 - Check cannibalisation: does an existing live page already answer this? Then extend that page instead.
 
 ## Step 2 — SERP & competitor research (3–4 competitors minimum)
-**Automated:** `npm run seo:research -- --slug <slug>` (see `07-SEO-RESEARCH-PIPELINE.md`) does items 1–2 with live data and
-writes `docs/research/<slug>.report.md`. The manual steps below are the fallback when the API isn't configured.
+**Free mode (current):** WebSearch → `npm run seo:record` → `npm run seo:scrape` → `npm run seo:report`
+(see `07-SEO-RESEARCH-PIPELINE.md`). This writes `docs/research/<slug>.report.md` with real competitor structure.
 
 1. `WebSearch` the primary keyword + 1–2 top secondary keywords (standard mode). Record the top 10 URLs and the SERP
    features shown (featured snippet, People Also Ask, AI Overview, video, calculators-in-SERP).
@@ -58,7 +58,7 @@ writes `docs/research/<slug>.report.md`. The manual steps below are the fallback
 
 ## Step 7 — Ship
 - Set `status: "live"` for the slug in `data/roadmap.json`, run `npm run roadmap`.
-- Commit: `feat(tool): <Name>` with the research highlights in the body. Push to the session branch.
+- Commit: `feat(tool): <Name>` with the research highlights in the body. Push to `main` (owner instruction) after tests pass.
 - Tell the owner: URL to submit in Search Console.
 
 ## Pace

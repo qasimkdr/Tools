@@ -1,0 +1,141 @@
+{
+ "keywords": {
+  "90 days from today": {
+   "fetchedAt": "2026-11-21T18:43:32.619Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 246000,
+   "fileKd": 29,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://omnicalculator.com/everyday-life/90-day",
+     "domain": "omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.inchcalculator.com/days-from/90-days-from-today/&sa=U&ved=2ahUKEwjKmq7Zi9eCAxVopokEHaCVArYQFnoECAUQAg&usg=AOvVaw1b4QBvH8-0YGjwSe-cPcsc/",
+     "domain": "www.inchcalculator.com",
+     "title": "What Date Is 90 Days From Today?",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://es.symbolab.com/calculator/90-days-from-today",
+     "domain": "es.symbolab.com",
+     "title": "90 days from today",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://cache.omnicalculator.com/everyday-life/90-day",
+     "domain": "cache.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://fr.symbolab.com/calculator/time-date/days-until/90-days-from-today",
+     "domain": "fr.symbolab.com",
+     "title": "90 days from today",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.thewordfinder.com/calculators/90-days-from-today/",
+     "domain": "www.thewordfinder.com",
+     "title": "What Is 90 Days From Today?",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://inchcalculator.com/days-from/90-days-from-today",
+     "domain": "inchcalculator.com",
+     "title": "What Date Is 90 Days From Today?",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.omnicalculator.com/everyday-life/calendar",
+     "domain": "www.omnicalculator.com",
+     "title": "Calendar Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.geeksforgeeks.org/90-day-calculator/",
+     "domain": "www.geeksforgeeks.org",
+     "title": "90 Day Calculator (Dates 90 Days from Now) – Free Online Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://ar.symbolab.com/calculator/today-90-days",
+     "domain": "ar.symbolab.com",
+     "title": "today 90 days",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "days-from-today",
+ "name": "Date From Today Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-21T18:43:32.620Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 3,
+   "urls": [
+    "https://omnicalculator.com/everyday-life/90-day",
+    "https://cache.omnicalculator.com/everyday-life/90-day",
+    "https://www.omnicalculator.com/everyday-life/calendar"
+   ]
+  },
+  {
+   "domain": "symbolab.com",
+   "bestRank": 3,
+   "keywords": 3,
+   "urls": [
+    "https://es.symbolab.com/calculator/90-days-from-today",
+    "https://fr.symbolab.com/calculator/time-date/days-until/90-days-from-today",
+    "https://ar.symbolab.com/calculator/today-90-days"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 2,
+   "keywords": 2,
+   "urls": [
+    "https://www.inchcalculator.com/days-from/90-days-from-today/&sa=U&ved=2ahUKEwjKmq7Zi9eCAxVopokEHaCVArYQFnoECAUQAg&usg=AOvVaw1b4QBvH8-0YGjwSe-cPcsc/",
+    "https://inchcalculator.com/days-from/90-days-from-today"
+   ]
+  },
+  {
+   "domain": "thewordfinder.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.thewordfinder.com/calculators/90-days-from-today/"
+   ]
+  },
+  {
+   "domain": "geeksforgeeks.org",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://www.geeksforgeeks.org/90-day-calculator/"
+   ]
+  }
+ ]
+}
