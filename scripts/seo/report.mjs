@@ -9,17 +9,18 @@ import { args, ROOT, dirFor, readJSON } from "./lib.mjs";
 
 const a = args();
 const dir = dirFor(a.slug);
-const serp = readJSON(path.join(dir, "serp.json"), null);
+const serp = readJSON(path.join(dir, "serp.json"), null) || { name: a.slug, keywords: {}, topCompetitors: [], keywordSource: "—", missing: true };
 const comp = readJSON(path.join(dir, "competitors.json"), { pages: {} });
-if (!serp) { console.error("Missing serp.json — run serp.mjs first."); process.exit(1); }
+if (serp.missing) console.warn("No serp.json (DataForSEO not configured): report covers inspected pages only — rankings/PAA NOT included.");
 const pages = Object.values(comp.pages);
 const esc = (s) => String(s ?? "—").replace(/\|/g, "\\|").replace(/\n/g, " ");
 const L = [];
 
 L.push(`# Competitor report: ${serp.name} (\`${a.slug}\`)`, "",
-  `Generated ${new Date().toISOString().slice(0, 10)} from live data. SERP source: DataForSEO, Google US, ${Object.values(serp.keywords)[0]?.device}. ` +
+  `Generated ${new Date().toISOString().slice(0, 10)} from live data. SERP source: DataForSEO, Google US, ${Object.values(serp.keywords)[0]?.device ?? "n/a"}. ` +
   `Volumes/KD: ${serp.keywordSource} (Semrush). Nothing in this file is estimated.`, "");
 
+if (serp.missing) L.push("> ⚠️ No live SERP data (DataForSEO not configured). Competitor URLs came from the Semrush file/--urls; ranks and People Also Ask are not included.", "");
 L.push("## Keywords & SERP features", "", "| Keyword | Volume (file) | KD (file) | Features | Featured snippet |", "|---|---|---|---|---|");
 for (const [kw, s] of Object.entries(serp.keywords)) L.push(`| ${esc(kw)} | ${s.fileVolume ?? "—"} | ${s.fileKd ?? "—"} | ${esc(s.features.join(", "))} | ${esc(s.featuredSnippet)} |`);
 

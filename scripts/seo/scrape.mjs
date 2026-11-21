@@ -43,16 +43,29 @@ async function viaPlaywright(u) {
   if (!(await robotsAllows(u))) throw new Error("disallowed by robots.txt");
   const { chromium } = await import("playwright");
   browser ||= await chromium.launch();
-  const page = await browser.newPage({ userAgent: UA, viewport: { width: 1366, height: 900 } });
+  // Behind an HTTPS proxy (cloud sessions): Node downloads the HTML (proxy-aware via NODE_USE_ENV_PROXY=1, normal TLS
+  // verification with NODE_EXTRA_CA_CERTS), then Chromium parses it OFFLINE with JavaScript disabled — Chromium makes no
+  // network requests and no competitor scripts run. Without a proxy (local runs), Chromium loads the page directly.
+  const offline = !!(process.env.HTTPS_PROXY || process.env.https_proxy);
+  const page = await browser.newPage({ userAgent: UA, viewport: { width: 1366, height: 900 }, javaScriptEnabled: !offline });
   try {
-    await page.goto(u, { waitUntil: "domcontentloaded", timeout: 30000 });
-    await page.waitForTimeout(1500); // let calculators hydrate
-    return await page.evaluate(() => {
-      const host = location.hostname.replace(/^www\./, "");
+    if (offline) {
+      const r = await fetch(u, { headers: { "User-Agent": UA, Accept: "text/html" }, redirect: "follow", signal: AbortSignal.timeout(30000) });
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      const html = (await r.text()).replace(/<head([^>]*)>/i, `<head$1><base href="${r.url}">`);
+      await page.route("**/*", (route) => route.abort()); // block every subresource request
+      await page.setContent(html, { waitUntil: "domcontentloaded" });
+    } else {
+      await page.goto(u, { waitUntil: "domcontentloaded", timeout: 30000 });
+      await page.waitForTimeout(1500); // let calculators hydrate
+    }
+    return await page.evaluate((pageHost) => {
+      const host = pageHost.replace(/^www\./, "");
       const txt = (el) => el.textContent.replace(/\s+/g, " ").trim();
       const hs = (t) => [...document.querySelectorAll(t)].map(txt).filter(Boolean).slice(0, 40);
       const ld = [...document.querySelectorAll('script[type="application/ld+json"]')].flatMap((s) => { try { const j = JSON.parse(s.textContent); return Array.isArray(j) ? j : j["@graph"] || [j]; } catch { return []; } });
       const faqLd = ld.filter((x) => x["@type"] === "FAQPage").flatMap((x) => (x.mainEntity || []).map((q) => q.name));
+      document.querySelectorAll("style, script, noscript, svg").forEach((el) => el.remove()); // keep only visible text (JSON-LD already read)
       const qHeads = [...document.querySelectorAll("h2,h3,h4,summary,dt")].map(txt).filter((t) => t.endsWith("?") && t.length < 160);
       const links = [...document.querySelectorAll("main a[href], article a[href], body a[href]")].map((a) => a.href).filter((h) => h.startsWith("http"));
       const internal = links.filter((h) => new URL(h).hostname.replace(/^www\./, "") === host);
@@ -73,7 +86,7 @@ async function viaPlaywright(u) {
         calculatorInputs: inputs,
         links: { internal: new Set(internal).size, external: new Set(external).size, externalSample: [...new Set(external)].slice(0, 15), internalSample: [...new Set(internal)].slice(0, 25) },
       };
-    });
+    }, new URL(u).hostname);
   } finally { await page.close(); }
 }
 
@@ -102,6 +115,7 @@ for (const u of urls) {
   for (const m of methods) {
     try {
       const data = await m(u);
+      if (out.failed) delete out.failed[u];
       out.pages[u] = { url: u, domain: new URL(u).hostname, method: m.name, fetchedAt: new Date().toISOString(), ...data };
       console.log(`✓ ${m.name.padEnd(13)} ${u}  (H2:${data.h2.length} words:${data.wordCount ?? "?"} faqs:${data.faqs.length})`);
       ok++; break;

@@ -1,0 +1,331 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/everyday-life/90-day": {
+   "url": "https://www.omnicalculator.com/everyday-life/90-day",
+   "domain": "www.omnicalculator.com",
+   "method": "viaPlaywright",
+   "fetchedAt": "2026-11-21T18:38:23.674Z",
+   "title": "90 Day Calculator: Find Dates 90 Days From Now",
+   "metaDescription": "Instantly find out what date was 90 days ago from today with our accurate 90 day calculator. Step back in time effortlessly. Try it now!",
+   "canonical": "https://www.omnicalculator.com/everyday-life/90-day",
+   "h1": [
+    "90 Day Calculator"
+   ],
+   "h2": [
+    "Working Time",
+    "Custom time",
+    "How to calculate 90 days from a date",
+    "How does the 90 day calculator work?",
+    "Other similar calculators",
+    "FAQs"
+   ],
+   "h3": [
+    "What is the date 90 days from today, if today is June 24?",
+    "How do I calculate 90 days from March 1?"
+   ],
+   "wordCount": 639,
+   "faqs": [
+    "How to calculate 90 days from a date",
+    "What is the date 90 days from today, if today is June 24?",
+    "How do I calculate 90 days from March 1?",
+    "How does the 90 day calculator work?"
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "tables": 0,
+   "images": 3,
+   "calculatorInputs": [
+    "From",
+    "To"
+   ],
+   "links": {
+    "internal": 32,
+    "external": 1,
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/",
+     "https://www.omnicalculator.com/insights",
+     "https://www.omnicalculator.com/biology",
+     "https://www.omnicalculator.com/chemistry",
+     "https://www.omnicalculator.com/construction",
+     "https://www.omnicalculator.com/conversion",
+     "https://www.omnicalculator.com/ecology",
+     "https://www.omnicalculator.com/everyday-life",
+     "https://www.omnicalculator.com/finance",
+     "https://www.omnicalculator.com/food",
+     "https://www.omnicalculator.com/health",
+     "https://www.omnicalculator.com/math",
+     "https://www.omnicalculator.com/physics",
+     "https://www.omnicalculator.com/sports",
+     "https://www.omnicalculator.com/statistics",
+     "https://www.omnicalculator.com/other",
+     "https://www.omnicalculator.com/authors/mariamy-chrdileli",
+     "https://www.omnicalculator.com/editorial-policies",
+     "https://www.omnicalculator.com/authors/davide-borchia",
+     "https://www.omnicalculator.com/everyday-life/90-day#how-to-calculate-90-days-from-a-date",
+     "https://www.omnicalculator.com/everyday-life/90-day#how-does-the-90-day-calculator-work",
+     "https://www.omnicalculator.com/everyday-life/90-day#other-similar-calculators",
+     "https://www.omnicalculator.com/everyday-life/90-day#faqs",
+     "https://www.omnicalculator.com/everyday-life/day-counter",
+     "https://www.omnicalculator.com/everyday-life/add-days"
+    ]
+   }
+  },
+  "https://www.calculator.net/date-calculator.html": {
+   "url": "https://www.calculator.net/date-calculator.html",
+   "domain": "www.calculator.net",
+   "method": "viaPlaywright",
+   "fetchedAt": "2026-11-21T18:38:26.670Z",
+   "title": "Date Calculator",
+   "metaDescription": "This free date calculator computes the difference between two dates. It can also add to or subtract from a date. Both can deal with business days and holidays.",
+   "canonical": null,
+   "h1": [
+    "Date Calculator"
+   ],
+   "h2": [
+    "Days Between Two Dates",
+    "Add to or Subtract from a Date"
+   ],
+   "h3": [
+    "History of the Gregorian Calendar",
+    "Holidays"
+   ],
+   "wordCount": 1211,
+   "faqs": [],
+   "schemaTypes": [],
+   "tables": 13,
+   "images": 3,
+   "calculatorInputs": [
+    "include end day (add 1 day)",
+    "Do not count holidays",
+    "Count holidays",
+    "New Year's Day",
+    "M. L. King Day (US)",
+    "President's Day (US)",
+    "Memorial Day (US)",
+    "Juneteenth Day (US)",
+    "Independence Day (US)",
+    "Labor Day (US)",
+    "Columbus Day (US)",
+    "Veteran's Day (US)",
+    "Thanksgiving (US)",
+    "Black Friday (US)",
+    "Christmas Eve",
+    "Christmas",
+    "New Year's Eve",
+    "n0",
+    "m0",
+    "d0",
+    "n1",
+    "m1",
+    "d1",
+    "n2",
+    "m2",
+    "d2",
+    "n3",
+    "m3",
+    "d3",
+    "n4"
+   ],
+   "links": {
+    "internal": 24,
+    "external": 0,
+    "externalSample": [],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/date-calculator.html",
+     "https://www.calculator.net/date-calculator.html#",
+     "https://www.calculator.net/time-calculator.html",
+     "https://www.calculator.net/age-calculator.html",
+     "https://www.calculator.net/hours-calculator.html",
+     "https://www.calculator.net/gpa-calculator.html",
+     "https://www.calculator.net/grade-calculator.html",
+     "https://www.calculator.net/height-calculator.html",
+     "https://www.calculator.net/concrete-calculator.html",
+     "https://www.calculator.net/ip-subnet-calculator.html",
+     "https://www.calculator.net/bra-size-calculator.html",
+     "https://www.calculator.net/password-generator.html",
+     "https://www.calculator.net/dice-roller.html",
+     "https://www.calculator.net/conversion-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ]
+   }
+  },
+  "https://www.inchcalculator.com/days-from/90-days-from-today": {
+   "url": "https://www.inchcalculator.com/days-from/90-days-from-today",
+   "domain": "www.inchcalculator.com",
+   "method": "viaPlaywright",
+   "fetchedAt": "2026-11-21T18:38:30.088Z",
+   "title": "What Date Is 90 Days From Today? - Inch Calculator",
+   "metaDescription": "Calculate the date ninety days from today. See what date it will be in 90 calendar days or working days.",
+   "canonical": "https://www.inchcalculator.com/days-from/90-days-from-today/",
+   "h1": [
+    "What Date Is 90 Days From Today?"
+   ],
+   "h2": [
+    "Date in 90 Days:",
+    "How to Calculate the Date 90 Days From Now",
+    "90 Weekdays From Today",
+    "How Much Time Is Ninety Days?",
+    "More Dates Relative to Today",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Date in 90 Weekdays"
+   ],
+   "wordCount": 519,
+   "faqs": [
+    "How Much Time Is Ninety Days?"
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "tables": 1,
+   "images": 3,
+   "calculatorInputs": [
+    "search for a calculator",
+    "search for a calculator",
+    "Name (optional)",
+    "Email (optional)",
+    "Email",
+    "submit"
+   ],
+   "links": {
+    "internal": 46,
+    "external": 6,
+    "externalSample": [
+     "https://www.facebook.com/inchcalculator/",
+     "https://www.instagram.com/inchcalculator/",
+     "https://x.com/inchcalculator",
+     "https://www.pinterest.com/inchcalculator/",
+     "https://www.youtube.com/@inchcalculator",
+     "https://www.tiktok.com/@inchcalculator/"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/",
+     "https://www.inchcalculator.com/days-from/90-days-from-today/#content",
+     "https://www.inchcalculator.com/automotive-calculators/",
+     "https://www.inchcalculator.com/construction-calculators/",
+     "https://www.inchcalculator.com/convert/",
+     "https://www.inchcalculator.com/cooking-calculators/",
+     "https://www.inchcalculator.com/electrical-calculators/",
+     "https://www.inchcalculator.com/financial-calculators/",
+     "https://www.inchcalculator.com/health-calculators/",
+     "https://www.inchcalculator.com/math-calculators/",
+     "https://www.inchcalculator.com/pets-calculators/",
+     "https://www.inchcalculator.com/science-calculators/",
+     "https://www.inchcalculator.com/shipping-freight-calculators/",
+     "https://www.inchcalculator.com/time-calculators/",
+     "https://www.inchcalculator.com/tv-video-calculators/",
+     "https://www.inchcalculator.com/patriotic-calculators/",
+     "https://www.inchcalculator.com/days-from/",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/ethan-dederick/",
+     "https://www.inchcalculator.com/days-until/days-until-february-19/",
+     "https://www.inchcalculator.com/what-is-todays-date/",
+     "https://www.inchcalculator.com/time-duration-calculator/",
+     "https://www.inchcalculator.com/date-calculator/",
+     "https://www.inchcalculator.com/calendar/",
+     "https://www.inchcalculator.com/days-from/90-days-ago-from-today/"
+    ]
+   }
+  },
+  "https://www.calculatorsoup.com/calculators/time/date-day.php": {
+   "url": "https://www.calculatorsoup.com/calculators/time/date-day.php",
+   "domain": "www.calculatorsoup.com",
+   "method": "viaPlaywright",
+   "fetchedAt": "2026-11-21T18:38:35.773Z",
+   "title": "Date Calculator | Days and Business Days",
+   "metaDescription": "Calculator to add days to a date or subtract days from a date. Calculate a calendar date given how many days or business days into the future or the past.",
+   "canonical": "https://www.calculatorsoup.com/calculators/time/date-day.php",
+   "h1": [
+    "Date Calculator | Days and Business Days"
+   ],
+   "h2": [
+    "Recurring Events",
+    "When to Use a Date Calculator"
+   ],
+   "h3": [
+    "Example: Shipping and Delivery Time",
+    "Example: Planting Seeds in a Garden",
+    "Example: Covid-19 Vaccine Booster Shot",
+    "Related Calculator",
+    "Date Formats",
+    "Cookies",
+    "Holidays",
+    "Other Ways to Use the Date Calculator",
+    "For AI Systems"
+   ],
+   "wordCount": 913,
+   "faqs": [],
+   "schemaTypes": [],
+   "tables": 0,
+   "images": 0,
+   "calculatorInputs": [
+    "Search",
+    "Date Format:",
+    "two digit month",
+    "two digit day",
+    "four digit year",
+    "Operator",
+    "Days",
+    "Business Days Only",
+    "Saturday is also a Business Day",
+    "calculateButton",
+    "reset"
+   ],
+   "links": {
+    "internal": 21,
+    "external": 3,
+    "externalSample": [
+     "http://en.wikipedia.org/wiki/Coordinated_Universal_Time",
+     "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+     "https://www.nyse.com/markets/hours-calendars"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/time/date-day.php#calculatorAnswer",
+     "https://www.calculatorsoup.com/calculators/time/date-day.php#calculatorBlock",
+     "https://www.calculatorsoup.com/calculators/time/date-day.php#contentBlock",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/",
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/calculators/time/",
+     "https://www.calculatorsoup.com/calculators/time/date-day.php",
+     "https://www.calculatorsoup.com/calculators/time/date-day.php?given_format=usa&dateInput=12%2F21%2F2026&operator=add&days=30&given_format_last=usa&action=solve&repeat=true",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=time%2F&folderName=Time+%26amp%3B+Date&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/time/date-day.php&h1=Date+Calculator+%7C+Days+and+Business+Days&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/time/date-day.php#holidays",
+     "https://www.calculatorsoup.com/calculators/time/date-difference-calculator.php",
+     "https://www.calculatorsoup.com/calculators/math/",
+     "https://www.calculatorsoup.com/calculators/algebra/",
+     "https://www.calculatorsoup.com/help/",
+     "https://www.calculatorsoup.com/contact.php",
+     "https://www.calculatorsoup.com/legal.php",
+     "https://www.calculatorsoup.com/privacy.php",
+     "https://www.calculatorsoup.com/calculators/conversions/",
+     "https://www.calculatorsoup.com/sitemap.php"
+    ]
+   }
+  }
+ },
+ "failed": {
+  "https://www.timeanddate.com/date/dateadd.html": [
+   "viaPlaywright: HTTP 403"
+  ]
+ }
+}

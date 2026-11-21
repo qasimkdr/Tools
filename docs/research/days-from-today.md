@@ -9,16 +9,26 @@
   omnicalculator `/everyday-life/90-day`, `/6-month`, `/120-day`, `/week` and calculator.net `/day-counter.html`.
   → `/days-from-today/<n>/`, `/weeks-from-today/<n>/`, `/months-from-today/<n>/` for values with ≥ ~1K volume (105 pages).
 
-## Competitor notes
-Deep page reads were blocked by the session network policy (calculator.net, omnicalculator.com, inchcalculator.com,
-timeanddate.com not allowlisted). Notes below come from SERP titles/snippets + known product behaviour; re-verify
-when network access is available.
-1. **inchcalculator.com (per-N pages)**: answer + short explanation + table of nearby day counts; separate "ago" pages.
-   Gaps: no business-day/holiday handling on the per-N page, generic text swapped per number.
-2. **omnicalculator.com (per-N pages)**: answer + embedded calculator widget; heavy JS, slower LCP; little explanation of conventions.
-3. **calculator.net day-counter / date calculator**: powerful but dated UI, form-submit (page reload), no per-N landing pages; ads dense.
-4. **timeanddate.com date add**: most options (country holidays), but cluttered, many steps, heavy ads.
-5. **symbolab / small sites**: thin pages, some show stale dates (not rebuilt daily).
+## Competitor notes (verified 2026-11-21 with `npm run seo:scrape`; raw data: `data/research/days-from-today/competitors.json`, report: `days-from-today.report.md`)
+Live Google rankings/PAA not fetched: DataForSEO not configured. URLs below come from the Semrush file + SERP titles seen earlier.
+| Page | Words | Title (len) | Schema | Notable |
+|---|---|---|---|---|
+| omnicalculator.com/everyday-life/90-day | 639 | 90 Day Calculator: Find Dates 90 Days From Now (46) | Article, FAQPage | 4 FAQs; "Working time" + "Custom time" modes; meta talks about "ago" |
+| calculator.net/date-calculator.html | 1,211 | Date Calculator (15) | none | Holiday checklist (incl. Black Friday, Christmas Eve), "include end day (add 1 day)", Gregorian calendar history |
+| inchcalculator.com/days-from/90-days-from-today | 519 | What Date Is 90 Days From Today? (50) | Organization, WebPage, BreadcrumbList | "90 weekdays from today", "How much time is ninety days?", "More dates relative to today" links |
+| calculatorsoup.com/…/date-day.php | 913 | Date Calculator \| Days and Business Days (40) | none | "Saturday is also a business day", recurring events, examples (shipping, planting), cites opm.gov |
+| timeanddate.com/date/dateadd.html | — | — | — | HTTP 403 to automated requests → skipped (respected) |
+
+### Gaps confirmed vs. our page
+- None of the 4 shows holidays crossed inside the span, day-of-year/ISO week, a mini calendar or .ics export. Ours does.
+- Only Omni has FAQ schema; only inchcalculator has breadcrumbs. Ours has WebApplication + Breadcrumb + FAQ.
+- Our per-number pages carry more unique facts than inchcalculator's 519-word template.
+
+### Backlog (ideas competitors have that we don't yet)
+- [ ] "Include end date (+1 day)" toggle (calculator.net).
+- [ ] "Saturday counts as a business day" option (calculatorsoup).
+- [ ] "How much time is N days" breakdown: months + days, hours, minutes (inchcalculator), on variant pages.
+- [ ] Recurring-dates mode (every N days × k) (calculatorsoup).
 
 ## How we beat them
 1. Answer in the H1-adjacent intro, pre-rendered (daily rebuild) **and** hydrated to the visitor's local date → never stale.
