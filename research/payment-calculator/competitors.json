@@ -1,0 +1,1270 @@
+{
+ "pages": {
+  "https://www.calculator.net/payment-calculator.htmlpayment": {
+   "url": "https://www.calculator.net/payment-calculator.htmlpayment",
+   "finalUrl": "https://www.calculator.net/payment-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-21T19:25:54.537Z",
+   "title": "Payment Calculator",
+   "metaDescription": "Free payment calculator to find monthly payment amount or time period to pay off a loan using a fixed term or a fixed payment.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Payment Calculator"
+   ],
+   "h2": [
+    "Monthly Payment: $1,687.71",
+    "Amortization schedule"
+   ],
+   "h3": [
+    "Fixed Term",
+    "Fixed Monthly Payment Amount",
+    "Interest Rate (APR)",
+    "Variable vs. Fixed",
+    "Variable Rate Information"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Payment Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Monthly Payment: $1,687.71"
+    },
+    {
+     "level": 2,
+     "text": "Amortization schedule"
+    },
+    {
+     "level": 3,
+     "text": "Fixed Term"
+    },
+    {
+     "level": 3,
+     "text": "Fixed Monthly Payment Amount"
+    },
+    {
+     "level": 3,
+     "text": "Interest Rate (APR)"
+    },
+    {
+     "level": 3,
+     "text": "Variable vs. Fixed"
+    },
+    {
+     "level": 3,
+     "text": "Variable Rate Information"
+    }
+   ],
+   "wordCount": 1372,
+   "avgSentenceWords": 26,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "loan",
+     "weight": 30
+    },
+    {
+     "term": "interest",
+     "weight": 29
+    },
+    {
+     "term": "interest rate",
+     "weight": 26
+    },
+    {
+     "term": "rate",
+     "weight": 25
+    },
+    {
+     "term": "calculator",
+     "weight": 23
+    },
+    {
+     "term": "loans",
+     "weight": 16
+    },
+    {
+     "term": "payment",
+     "weight": 15
+    },
+    {
+     "term": "monthly payment",
+     "weight": 14
+    },
+    {
+     "term": "monthly",
+     "weight": 13
+    },
+    {
+     "term": "term",
+     "weight": 13
+    },
+    {
+     "term": "fixed",
+     "weight": 13
+    },
+    {
+     "term": "variable",
+     "weight": 13
+    },
+    {
+     "term": "credit",
+     "weight": 11
+    },
+    {
+     "term": "rates",
+     "weight": 11
+    },
+    {
+     "term": "loan calculator",
+     "weight": 11
+    },
+    {
+     "term": "pay",
+     "weight": 10
+    },
+    {
+     "term": "apr",
+     "weight": 9
+    },
+    {
+     "term": "amount",
+     "weight": 8
+    },
+    {
+     "term": "credit card",
+     "weight": 8
+    },
+    {
+     "term": "financial",
+     "weight": 7
+    },
+    {
+     "term": "auto",
+     "weight": 7
+    },
+    {
+     "term": "payment calculator",
+     "weight": 6
+    },
+    {
+     "term": "fixed term",
+     "weight": 6
+    },
+    {
+     "term": "payments",
+     "weight": 6
+    },
+    {
+     "term": "pay off",
+     "weight": 6
+    },
+    {
+     "term": "off",
+     "weight": 6
+    },
+    {
+     "term": "information",
+     "weight": 6
+    },
+    {
+     "term": "auto loan",
+     "weight": 6
+    },
+    {
+     "term": "mortgages",
+     "weight": 6
+    },
+    {
+     "term": "interest rates",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Fixed Term Fixed Payments Loan Amount Loan Term years Interest Rate Monthly Payment: $1,687.71 You will need to pay $1,687.71 every month for 15 years to payoff the debt."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 9,
+   "lists": 2,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "cloanamount",
+    "cloanterm",
+    "cmonthlypay",
+    "cinterestrate"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 101,
+   "actions": {
+    "print": true,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 49,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 35,
+    "external": 0,
+    "contentInternal": 35,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "financial",
+     "payment calculator",
+     "Print",
+     "Auto Loan Calculator",
+     "Take-Home-Pay Calculator",
+     "Fixed Term",
+     "Fixed Payments",
+     "Loan Calculator",
+     "Mortgage Calculator",
+     "APR Calculator",
+     "Interest Rate Calculator",
+     "Student Loan Calculator",
+     "Personal Loan Calculator",
+     "Credit Card Calculator",
+     "Credit Cards Payoff Calculator",
+     "Financial Calculators",
+     "Mortgage",
+     "Loan"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/payment-calculator.html",
+     "https://www.calculator.net/payment-calculator.html#",
+     "https://www.calculator.net/auto-loan-calculator.html",
+     "https://www.calculator.net/take-home-pay-calculator.html",
+     "https://www.calculator.net/loan-calculator.html",
+     "https://www.calculator.net/mortgage-calculator.html",
+     "https://www.calculator.net/apr-calculator.html",
+     "https://www.calculator.net/interest-rate-calculator.html",
+     "https://www.calculator.net/student-loan-calculator.html",
+     "https://www.calculator.net/personal-loan-calculator.html",
+     "https://www.calculator.net/credit-card-calculator.html",
+     "https://www.calculator.net/credit-card-payoff-calculator.html",
+     "https://www.calculator.net/interest-calculator.html",
+     "https://www.calculator.net/retirement-calculator.html",
+     "https://www.calculator.net/amortization-calculator.html",
+     "https://www.calculator.net/investment-calculator.html",
+     "https://www.calculator.net/currency-calculator.html",
+     "https://www.calculator.net/inflation-calculator.html",
+     "https://www.calculator.net/finance-calculator.html",
+     "https://www.calculator.net/mortgage-payoff-calculator.html",
+     "https://www.calculator.net/tax-calculator.html",
+     "https://www.calculator.net/compound-interest-calculator.html"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/finance/loan-payment": {
+   "url": "https://www.omnicalculator.com/finance/loan-payment",
+   "finalUrl": "https://www.omnicalculator.com/finance/loan-payment",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-21T19:26:30.301Z",
+   "title": "Loan Payment Calculator",
+   "metaDescription": "The loan payment calculator is aimed at helping you find out the required periodic loan payments after taking a loan with equal payment construction.",
+   "canonical": "https://www.omnicalculator.com/finance/loan-payment",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Loan Payment Calculator"
+   ],
+   "h2": [
+    "How can the loan payment calculator be useful to you?",
+    "The loan payment formula",
+    "How to calculate monthly payment on a loan",
+    "How to calculate loan amount from the payments",
+    "Loan payment schedule - Amortization table"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Loan Payment Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How can the loan payment calculator be useful to you?"
+    },
+    {
+     "level": 2,
+     "text": "The loan payment formula"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate monthly payment on a loan"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate loan amount from the payments"
+    },
+    {
+     "level": 2,
+     "text": "Loan payment schedule - Amortization table"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1866,
+   "avgSentenceWords": 27,
+   "faqs": [
+    "How can the loan payment calculator be useful to you?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "loan",
+     "weight": 78
+    },
+    {
+     "term": "payment",
+     "weight": 52
+    },
+    {
+     "term": "loan payment",
+     "weight": 47
+    },
+    {
+     "term": "rate",
+     "weight": 37
+    },
+    {
+     "term": "payments",
+     "weight": 31
+    },
+    {
+     "term": "periodic",
+     "weight": 26
+    },
+    {
+     "term": "interest",
+     "weight": 23
+    },
+    {
+     "term": "number",
+     "weight": 20
+    },
+    {
+     "term": "calculator",
+     "weight": 19
+    },
+    {
+     "term": "amount",
+     "weight": 18
+    },
+    {
+     "term": "periodic rate",
+     "weight": 18
+    },
+    {
+     "term": "annual rate",
+     "weight": 17
+    },
+    {
+     "term": "loan amount",
+     "weight": 14
+    },
+    {
+     "term": "annual",
+     "weight": 12
+    },
+    {
+     "term": "periodic loan",
+     "weight": 12
+    },
+    {
+     "term": "rate number",
+     "weight": 12
+    },
+    {
+     "term": "principal",
+     "weight": 11
+    },
+    {
+     "term": "interest rate",
+     "weight": 11
+    },
+    {
+     "term": "loan payments",
+     "weight": 11
+    },
+    {
+     "term": "term",
+     "weight": 10
+    },
+    {
+     "term": "balance",
+     "weight": 10
+    },
+    {
+     "term": "payment calculator",
+     "weight": 9
+    },
+    {
+     "term": "repayment",
+     "weight": 9
+    },
+    {
+     "term": "payment formula",
+     "weight": 9
+    },
+    {
+     "term": "year",
+     "weight": 9
+    },
+    {
+     "term": "monthly",
+     "weight": 8
+    },
+    {
+     "term": "payment period",
+     "weight": 8
+    },
+    {
+     "term": "schedule",
+     "weight": 7
+    },
+    {
+     "term": "period",
+     "weight": 7
+    },
+    {
+     "term": "loans",
+     "weight": 7
+    }
+   ],
+   "claims": [
+    "For example, in the case of a monthly payment with a 6% annual rate, the periodic interest rate is equal to 6% / 12 = 0.5%.",
+    "Periodic loan payment = Loan amount / (((1 + Periodic rate) ^ Number of payments) - 1) / (Periodic rate × ((1 + Periodic rate) ^ Number of payments)).",
+    "Number of payments = Number of years × Number of payments in a year = 5 × 12 = 60.",
+    "Let's presume that your monthly loan payment is 100 dollars with a 9 percent annual rate with two years payment term.",
+    "Periodic loan payment: $500 Annual rate: 9% Number of years: 2 Frequency: monthly Periodic rate = Annual rate / Number of payments in a year = 0.09 / 12 = 0.0075 = 0.75%.",
+    "Number of payments = Number of years × Number of payments in a year = 2 × 12 = 24.",
+    "Total loan payment = Number of payment × Periodic loan payment = 24 × 500 = $12,000.",
+    "The below table represents a loan payment schedule for a 500,000 dollars 20-year mortgage loan repaid yearly with an annual rate of 5 percent.",
+    "In this case, the yearly loan payment is 40,121.29 dollars."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 4,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Payment Frequency"
+   ],
+   "selectOptionsSample": "select yearly bi-annually quarterly monthly weekly daily",
+   "unitToggle": false,
+   "wordsBeforeTool": 11,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Tibor Pál",
+    "published": "2019-03-26T06:01:35.043Z",
+    "modified": "2026-09-30T21:57:32.166Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 621,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 27,
+    "external": 1,
+    "contentInternal": 11,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "deferred payment calculator",
+     "simple interest calculator",
+     "inflation calculator",
+     "mortgage calculator",
+     "loan repayment calculator",
+     "loan calculator",
+     "land loan payment calculator",
+     "finance charge calculator",
+     "Prorated Rent Calculator",
+     "Emergency Fund Calculator",
+     "Full-time Equivalent (FTE) Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/finance/deferred-payment-loan",
+     "https://www.omnicalculator.com/finance/simple-interest",
+     "https://www.omnicalculator.com/finance/inflation",
+     "https://www.omnicalculator.com/finance/mortgage",
+     "https://www.omnicalculator.com/finance/loan-repayment",
+     "https://www.omnicalculator.com/finance/loan",
+     "https://www.omnicalculator.com/finance/land-loan-payment",
+     "https://www.omnicalculator.com/finance/finance-charge",
+     "https://www.omnicalculator.com/finance/prorated-rent",
+     "https://www.omnicalculator.com/finance/emergency-fund",
+     "https://www.omnicalculator.com/finance/full-time-equivalent"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.io/payment-calculator/": {
+   "url": "https://www.calculator.io/payment-calculator/",
+   "finalUrl": "https://www.calculator.io/payment-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.calculator.io",
+   "fetchedAt": "2026-11-21T19:26:36.066Z",
+   "title": "Payment Calculator: Car, Auto & Monthly Loan Payments",
+   "metaDescription": "Easily calculate monthly loan payments, payoff terms, and total interest with our free Payment Calculator. Ideal for mortgages, auto, and personal loans.",
+   "canonical": "https://www.calculator.io/payment-calculator/",
+   "robotsMeta": "index, follow",
+   "lang": "en",
+   "h1": [
+    "Payment Calculator"
+   ],
+   "h2": [
+    "Understanding Loan Payments, Terms, and Interest Rates",
+    "Table of Contents",
+    "Fixed Term",
+    "Fixed Amount Due Each Month",
+    "Rate of Interest (APR)",
+    "Fixed vs. Variable",
+    "Information on Variable Rates"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Payment Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Understanding Loan Payments, Terms, and Interest Rates"
+    },
+    {
+     "level": 2,
+     "text": "Table of Contents"
+    },
+    {
+     "level": 2,
+     "text": "Fixed Term"
+    },
+    {
+     "level": 2,
+     "text": "Fixed Amount Due Each Month"
+    },
+    {
+     "level": 2,
+     "text": "Rate of Interest (APR)"
+    },
+    {
+     "level": 2,
+     "text": "Fixed vs. Variable"
+    },
+    {
+     "level": 2,
+     "text": "Information on Variable Rates"
+    }
+   ],
+   "wordCount": 3610,
+   "avgSentenceWords": 68,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "loan",
+     "weight": 38
+    },
+    {
+     "term": "interest",
+     "weight": 31
+    },
+    {
+     "term": "calculator",
+     "weight": 29
+    },
+    {
+     "term": "rate",
+     "weight": 29
+    },
+    {
+     "term": "interest rate",
+     "weight": 20
+    },
+    {
+     "term": "calculator finance",
+     "weight": 20
+    },
+    {
+     "term": "monthly",
+     "weight": 19
+    },
+    {
+     "term": "payment",
+     "weight": 18
+    },
+    {
+     "term": "year",
+     "weight": 17
+    },
+    {
+     "term": "loan calculator",
+     "weight": 17
+    },
+    {
+     "term": "monthly payment",
+     "weight": 15
+    },
+    {
+     "term": "end",
+     "weight": 15
+    },
+    {
+     "term": "fixed",
+     "weight": 14
+    },
+    {
+     "term": "term",
+     "weight": 13
+    },
+    {
+     "term": "finance",
+     "weight": 13
+    },
+    {
+     "term": "rates",
+     "weight": 13
+    },
+    {
+     "term": "ask",
+     "weight": 12
+    },
+    {
+     "term": "variable",
+     "weight": 12
+    },
+    {
+     "term": "total",
+     "weight": 10
+    },
+    {
+     "term": "loans",
+     "weight": 10
+    },
+    {
+     "term": "instant answers",
+     "weight": 9
+    },
+    {
+     "term": "calculation try",
+     "weight": 9
+    },
+    {
+     "term": "try ask",
+     "weight": 9
+    },
+    {
+     "term": "apr",
+     "weight": 9
+    },
+    {
+     "term": "payments",
+     "weight": 8
+    },
+    {
+     "term": "auto",
+     "weight": 8
+    },
+    {
+     "term": "calculation",
+     "weight": 8
+    },
+    {
+     "term": "credit",
+     "weight": 8
+    },
+    {
+     "term": "financial",
+     "weight": 8
+    },
+    {
+     "term": "payment calculator",
+     "weight": 8
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "Organization",
+    "BreadcrumbList",
+    "WebApplication"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 4,
+   "lists": 2,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Link"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 112,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": "2026-07-27T16:53:51+05:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 117,
+    "adNetworks": [
+     "adsense"
+    ],
+    "adSlots": 6,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 56,
+    "external": 1,
+    "contentInternal": 16,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Mortgage Calculator Finance",
+     "Loan Calculator Finance",
+     "Auto Loan Calculator Finance",
+     "Amortization Calculator Finance",
+     "Personal Loan Calculator Finance",
+     "Credit Card Payoff Calculator Finance",
+     "Car Loan Calculator Finance",
+     "EMI Calculator Finance",
+     "Fixed Term",
+     "Fixed Amount Due Each Month",
+     "Rate of Interest (APR)",
+     "Fixed vs. Variable",
+     "Information on Variable Rates",
+     "Auto Loan Calculator",
+     "Mortgage Calculator",
+     "APR Calculator",
+     "Interest Rate Calculator",
+     "Personal Loan Calculator",
+     "Credit Card Payoff Calculator"
+    ],
+    "internalSample": [
+     "https://www.calculator.io/ask-ai/",
+     "https://www.calculator.io/mortgage-calculator/",
+     "https://www.calculator.io/loan-calculator/",
+     "https://www.calculator.io/auto-loan-calculator/",
+     "https://www.calculator.io/amortization-calculator/",
+     "https://www.calculator.io/personal-loan-calculator/",
+     "https://www.calculator.io/credit-card-payoff-calculator/",
+     "https://www.calculator.io/car-loan-calculator/",
+     "https://www.calculator.io/emi-calculator/",
+     "https://www.calculator.io/payment-calculator/#fixed-term-1",
+     "https://www.calculator.io/payment-calculator/#fixed-amount-due-each-month-2",
+     "https://www.calculator.io/payment-calculator/#rate-of-interest-apr-3",
+     "https://www.calculator.io/payment-calculator/#fixed-vs-variable-4",
+     "https://www.calculator.io/payment-calculator/#information-on-variable-rates-5",
+     "https://www.calculator.io/apr-calculator/",
+     "https://www.calculator.io/interest-rate-calculator/"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/loan-payment-calculator/": {
+   "url": "https://www.inchcalculator.com/loan-payment-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/loan-payment-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-21T19:26:39.200Z",
+   "title": "Loan Payment Calculator - Calculate Monthly Payments",
+   "metaDescription": "Use our loan payment calculator to calculate your monthly payment and interest, plus learn the loan payment formula and steps to calculate.",
+   "canonical": "https://www.inchcalculator.com/loan-payment-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Loan Payment Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Monthly Payment",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate a Loan Payment",
+    "What Factors Affect Loan Payments",
+    "Types of Loans",
+    "Frequently Asked Questions",
+    "Similar Finance Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Amortization Schedule:",
+    "Loan Payment Formula",
+    "Why is understanding the loan payment amount important?",
+    "What should you not do during the process of taking out a loan?",
+    "Are all types of loans equal?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Loan Payment Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Monthly Payment"
+    },
+    {
+     "level": 3,
+     "text": "Amortization Schedule:"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate a Loan Payment"
+    },
+    {
+     "level": 3,
+     "text": "Loan Payment Formula"
+    },
+    {
+     "level": 2,
+     "text": "What Factors Affect Loan Payments"
+    },
+    {
+     "level": 2,
+     "text": "Types of Loans"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "Why is understanding the loan payment amount important?"
+    },
+    {
+     "level": 3,
+     "text": "What should you not do during the process of taking out a loan?"
+    },
+    {
+     "level": 3,
+     "text": "Are all types of loans equal?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Finance Calculators"
+    }
+   ],
+   "wordCount": 1949,
+   "avgSentenceWords": 33,
+   "faqs": [
+    "Why is understanding the loan payment amount important?",
+    "What should you not do during the process of taking out a loan?",
+    "Are all types of loans equal?"
+   ],
+   "faqSchemaCount": 3,
+   "topics": [
+    {
+     "term": "loan",
+     "weight": 61
+    },
+    {
+     "term": "payment",
+     "weight": 34
+    },
+    {
+     "term": "interest",
+     "weight": 27
+    },
+    {
+     "term": "loan payment",
+     "weight": 26
+    },
+    {
+     "term": "interest rate",
+     "weight": 23
+    },
+    {
+     "term": "rate",
+     "weight": 17
+    },
+    {
+     "term": "loans",
+     "weight": 17
+    },
+    {
+     "term": "monthly payment",
+     "weight": 14
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "payments",
+     "weight": 12
+    },
+    {
+     "term": "monthly",
+     "weight": 11
+    },
+    {
+     "term": "term",
+     "weight": 11
+    },
+    {
+     "term": "loan payments",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "higher",
+     "weight": 8
+    },
+    {
+     "term": "payment formula",
+     "weight": 8
+    },
+    {
+     "term": "pmt frac",
+     "weight": 8
+    },
+    {
+     "term": "calculate",
+     "weight": 7
+    },
+    {
+     "term": "pmt",
+     "weight": 7
+    },
+    {
+     "term": "mortgage",
+     "weight": 7
+    },
+    {
+     "term": "loan calculator",
+     "weight": 6
+    },
+    {
+     "term": "principal",
+     "weight": 6
+    },
+    {
+     "term": "total",
+     "weight": 6
+    },
+    {
+     "term": "dec",
+     "weight": 6
+    },
+    {
+     "term": "formula",
+     "weight": 6
+    },
+    {
+     "term": "types",
+     "weight": 6
+    },
+    {
+     "term": "pay",
+     "weight": 6
+    },
+    {
+     "term": "lower",
+     "weight": 6
+    },
+    {
+     "term": "amount",
+     "weight": 5
+    },
+    {
+     "term": "first",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Also, the number of payments is found by multiplying 5 years by 12 months = 60."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 3,
+   "lists": 2,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "Loan Amount",
+    "Interest Rate",
+    "Loan Term",
+    "Loan Term Units",
+    "Loan Amount",
+    "Interest Rate",
+    "Loan Term",
+    "Loan Term Units",
+    "First Payment"
+   ],
+   "selectOptionsSample": "months years months years",
+   "unitToggle": false,
+   "wordsBeforeTool": 29,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joseph Rich",
+    "published": "2022-07-01",
+    "modified": "2023-03-29T14:25:43+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 145,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 49,
+    "external": 13,
+    "contentInternal": 25,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "find rate",
+     "calculate loan interest",
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate a Loan Payment",
+     "Loan Payment Formula",
+     "What Factors Affect Loan Payments",
+     "Types of Loans",
+     "Frequently Asked Questions",
+     "Full bio",
+     "Loan Payment Calculator",
+     "interest rate",
+     "amortization calculator",
+     "interest",
+     "loan payoff calculator",
+     "auto loans",
+     "student loans",
+     "Mortgage loans",
+     "Interest Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/apr-calculator/",
+     "https://www.inchcalculator.com/loan-interest-calculator/",
+     "https://www.inchcalculator.com/loan-payment-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/loan-payment/",
+     "https://www.inchcalculator.com/loan-payment-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/loan-payment-calculator/#idx_how_to_calculate_a_loan_payment",
+     "https://www.inchcalculator.com/loan-payment-calculator/#idx_loan_payment_formula",
+     "https://www.inchcalculator.com/loan-payment-calculator/#idx_what_factors_affect_loan_payments",
+     "https://www.inchcalculator.com/loan-payment-calculator/#idx_types_of_loans",
+     "https://www.inchcalculator.com/loan-payment-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/joseph-rich/",
+     "https://www.inchcalculator.com/author/laura-deimling/",
+     "https://www.inchcalculator.com/loan-payment-calculator/",
+     "https://www.inchcalculator.com/interest-rate-calculator/",
+     "https://www.inchcalculator.com/amortization-calculator/",
+     "https://www.inchcalculator.com/interest-calculator/",
+     "https://www.inchcalculator.com/loan-payoff-calculator/",
+     "https://www.inchcalculator.com/auto-loan-calculator/",
+     "https://www.inchcalculator.com/student-loan-calculator/",
+     "https://www.inchcalculator.com/mortgage-payoff-calculator/",
+     "https://www.inchcalculator.com/atv-loan-calculator/",
+     "https://www.inchcalculator.com/boat-loan-calculator/",
+     "https://www.inchcalculator.com/motorcycle-loan-calculator/",
+     "https://www.inchcalculator.com/lease-vs-buy-car-calculator/",
+     "https://www.inchcalculator.com/interest-and-loan-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Floan-payment-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Floan-payment-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Floan-payment-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Floan-payment-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Floan-payment-calculator%2F&text=Loan+Payment+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Floan-payment-calculator%2F&text=Loan+Payment+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://uat3.www.usbank.com/vehicle-loans/payment-calculators.html": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.transunion.com/tools/loan-payment-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.transunion.com/calculators/simple-loan-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://finance.yahoo.com/markets/options/articles/calculate-loan-payments-costs-225352200.html": [
+   "unreachable (fetch failed)"
+  ],
+  "https://chrome.google.com/webstore/detail/payment-calculator/joflaogkkphflpdpalbioebaoaochdpj/reviews": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.size.ly/payment-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.creditdonkey.com/payment-calculator.html": [
+   "unreachable (fetch failed)"
+  ],
+  "https://accuratecalculators.com/payment-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.bankrate.com/glossary/s/simple-interest-loan": [
+   "disallowed by robots.txt"
+  ],
+  "https://demonstrations.wolfram.com/LoanPaymentCalculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.nerdwallet.com/personal-loans/calculators/loan-calculator": [
+   "disallowed by robots.txt"
+  ],
+  "https://apps.apple.com/af/app/payment-caiculator/id6478268391": [
+   "unreachable (fetch failed)"
+  ],
+  "https://cs.thomsonreuters.com/ua/toolbox/cs_us_en/Calculator_screen_overviews/csh_standardloanpaymentscreen.htm": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

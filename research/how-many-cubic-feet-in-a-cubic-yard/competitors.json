@@ -1,0 +1,1275 @@
+{
+ "pages": {
+  "https://inchcalculator.com:443/convert/cubic-yard-to-cubic-foot": {
+   "url": "https://inchcalculator.com:443/convert/cubic-yard-to-cubic-foot",
+   "finalUrl": "https://www.inchcalculator.com/convert/cubic-yard-to-cubic-foot/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-21T19:29:49.221Z",
+   "title": "Cubic Yards to Cubic Feet Converter (yd³ to ft³)",
+   "metaDescription": "Convert cubic yards to cubic feet (yd³ to ft³) with the volume conversion calculator, and learn the cubic yard to cubic foot formula.",
+   "canonical": "https://www.inchcalculator.com/convert/cubic-yard-to-cubic-foot/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Cubic Yards to Cubic Feet Converter"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Result: Cubic Feet",
+    "On this page:",
+    "Cite This Page",
+    "How to Convert Cubic Yards to Cubic Feet",
+    "What Is a Cubic Yard?",
+    "What Is a Cubic Foot?",
+    "Cubic Yard to Cubic Foot Conversion Table",
+    "More Cubic Yard & Cubic Foot Conversions",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "How Many Cubic Feet Are in a Cubic Yard?",
+    "Convert from Cubic Yards",
+    "Convert to Cubic Feet"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Cubic Yards to Cubic Feet Converter"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Result: Cubic Feet"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Convert Cubic Yards to Cubic Feet"
+    },
+    {
+     "level": 3,
+     "text": "How Many Cubic Feet Are in a Cubic Yard?"
+    },
+    {
+     "level": 2,
+     "text": "What Is a Cubic Yard?"
+    },
+    {
+     "level": 2,
+     "text": "What Is a Cubic Foot?"
+    },
+    {
+     "level": 2,
+     "text": "Cubic Yard to Cubic Foot Conversion Table"
+    },
+    {
+     "level": 2,
+     "text": "More Cubic Yard & Cubic Foot Conversions"
+    },
+    {
+     "level": 3,
+     "text": "Convert from Cubic Yards"
+    },
+    {
+     "level": 3,
+     "text": "Convert to Cubic Feet"
+    }
+   ],
+   "wordCount": 880,
+   "avgSentenceWords": 25,
+   "faqs": [
+    "How Many Cubic Feet Are in a Cubic Yard?",
+    "What Is a Cubic Yard?",
+    "What Is a Cubic Foot?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "cubic",
+     "weight": 105
+    },
+    {
+     "term": "cubic feet",
+     "weight": 57
+    },
+    {
+     "term": "cubic yards",
+     "weight": 44
+    },
+    {
+     "term": "feet",
+     "weight": 38
+    },
+    {
+     "term": "yards",
+     "weight": 30
+    },
+    {
+     "term": "cubic yard",
+     "weight": 24
+    },
+    {
+     "term": "yard",
+     "weight": 19
+    },
+    {
+     "term": "cubic foot",
+     "weight": 15
+    },
+    {
+     "term": "feet cubic",
+     "weight": 14
+    },
+    {
+     "term": "foot",
+     "weight": 13
+    },
+    {
+     "term": "volume",
+     "weight": 11
+    },
+    {
+     "term": "convert",
+     "weight": 10
+    },
+    {
+     "term": "convert cubic",
+     "weight": 9
+    },
+    {
+     "term": "unit",
+     "weight": 5
+    },
+    {
+     "term": "feet converter",
+     "weight": 5
+    },
+    {
+     "term": "learn",
+     "weight": 4
+    },
+    {
+     "term": "calculator",
+     "weight": 4
+    },
+    {
+     "term": "equal",
+     "weight": 4
+    },
+    {
+     "term": "space",
+     "weight": 4
+    },
+    {
+     "term": "sometimes",
+     "weight": 4
+    },
+    {
+     "term": "abbreviated",
+     "weight": 4
+    },
+    {
+     "term": "converter",
+     "weight": 3
+    },
+    {
+     "term": "have",
+     "weight": 3
+    },
+    {
+     "term": "calculate",
+     "weight": 3
+    },
+    {
+     "term": "many cubic",
+     "weight": 3
+    },
+    {
+     "term": "foot conversion",
+     "weight": 3
+    },
+    {
+     "term": "conversion",
+     "weight": 3
+    },
+    {
+     "term": "conversion table",
+     "weight": 3
+    },
+    {
+     "term": "table",
+     "weight": 3
+    },
+    {
+     "term": "inch calculator",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "Cubic Yard to Cubic Foot Conversion Table By Joe Sexton Joe is the creator of Inch Calculator and has over 20 years of experience in engineering and construction.",
+    "Since one cubic yard is equal to 27 cubic feet, you can use this simple formula to convert: cubic feet = cubic yards × 27 The volume in cubic feet is equal to the volume in cubic yards multiplied by 27.",
+    "For example, here's how to convert 5 cubic yards to cubic feet using the formula above.",
+    "There are 27 cubic feet in a cubic yard, which is why we use this value in the formula above.",
+    "1 yd³ = 27 ft³ Cubic yards and cubic feet are both units used to measure volume.",
+    "For example, 1 cubic yard can be written as 1 yd³, 1 cu yard, 1 cu yd, or 1 CY.",
+    "For example, 1 cubic foot can be written as 1 ft³, 1 cu foot, 1 cu ft, or 1 CF."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 3,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "Cubic Yards"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": true,
+   "wordsBeforeTool": 34,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2013-11-10",
+    "modified": "2025-05-09T14:38:56+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 114,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 65,
+    "external": 10,
+    "contentInternal": 41,
+    "contentExternal": 4,
+    "internalAnchors": [
+     "Cubic Feet to Cubic Yards",
+     "find cubic yards",
+     "below",
+     "convert cubic feet to cubic yards",
+     "Cubic Yards to Cubic Feet Converter",
+     "How to Convert Cubic Yards to Cubic Feet",
+     "How Many Cubic Feet Are in a Cubic Yard?",
+     "What Is a Cubic Yard?",
+     "What Is a Cubic Foot?",
+     "Cubic Yard to Cubic Foot Conversion Table",
+     "Full bio",
+     "volume",
+     "yard",
+     "cubic yardage calculator",
+     "cubic yards",
+     "foot",
+     "cubic footage calculator",
+     "cubic feet",
+     "cubic yards to gallons",
+     "cubic yards to quarts"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/convert/cubic-foot-to-cubic-yard/",
+     "https://www.inchcalculator.com/cubic-yards-calculator/",
+     "https://www.inchcalculator.com/convert/cubic-yard-to-cubic-foot/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/convert/cubic-yard-to-cubic-foot/#idx_page_heading",
+     "https://www.inchcalculator.com/convert/cubic-yard-to-cubic-foot/#idx_how_to_convert_cubic_yards_to_cubic_feet",
+     "https://www.inchcalculator.com/convert/cubic-yard-to-cubic-foot/#idx_how_many_cubic_feet_are_in_a_cubic_yard",
+     "https://www.inchcalculator.com/convert/cubic-yard-to-cubic-foot/#idx_what_is_a_cubic_yard",
+     "https://www.inchcalculator.com/convert/cubic-yard-to-cubic-foot/#idx_what_is_a_cubic_foot",
+     "https://www.inchcalculator.com/convert/cubic-yard-to-cubic-foot/#idx_cubic_yard_to_cubic_foot_conversion_table",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/convert/cubic-yard-to-cubic-foot/",
+     "https://www.inchcalculator.com/convert/volume/",
+     "https://www.inchcalculator.com/convert/from-yard/",
+     "https://www.inchcalculator.com/convert/from-cubic-yard/",
+     "https://www.inchcalculator.com/convert/from-foot/",
+     "https://www.inchcalculator.com/cubic-footage-calculator/",
+     "https://www.inchcalculator.com/convert/from-cubic-foot/",
+     "https://www.inchcalculator.com/convert/cubic-yard-to-gallon/",
+     "https://www.inchcalculator.com/convert/cubic-yard-to-quart/",
+     "https://www.inchcalculator.com/convert/cubic-yard-to-pint/",
+     "https://www.inchcalculator.com/convert/cubic-yard-to-cup/",
+     "https://www.inchcalculator.com/convert/cubic-yard-to-fluid-ounce/",
+     "https://www.inchcalculator.com/convert/cubic-yard-to-tablespoon/",
+     "https://www.inchcalculator.com/convert/cubic-yard-to-teaspoon/",
+     "https://www.inchcalculator.com/convert/cubic-yard-to-cubic-inch/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fconvert%2Fcubic-yard-to-cubic-foot%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fconvert%2Fcubic-yard-to-cubic-foot%2F&text=Conversion+Calculators",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fconvert%2Fcubic-yard-to-cubic-foot%2F&text=Conversion+Calculators",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/conversions/cubic-feet-to-cubic-yards.php": {
+   "url": "https://www.calculatorsoup.com/calculators/conversions/cubic-feet-to-cubic-yards.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/conversions/cubic-feet-to-cubic-yards.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-21T19:30:16.487Z",
+   "title": "Cubic Feet to Cubic Yards | cu ft to cu yd",
+   "metaDescription": "Convert cubic feet to cubic yards. This calculator shows the work to convert from cu ft to cu yd. For quick conversion divide cubic feet by 27 to get cubic yards.",
+   "canonical": "https://www.calculatorsoup.com/calculators/conversions/cubic-feet-to-cubic-yards.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Cubic Feet to Cubic Yards"
+   ],
+   "h2": [
+    "How to Convert Cubic Feet to Cubic Yards",
+    "Visualize Cubic Feet in a Cubic Yard",
+    "Alternate Method: Convert Cubic Feet to Cubic Yards",
+    "Cubic Foot",
+    "Cubic Yard"
+   ],
+   "h3": [
+    "Explanation",
+    "Example: Convert 150 ft³ to yd³",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Cubic Feet to Cubic Yards"
+    },
+    {
+     "level": 2,
+     "text": "How to Convert Cubic Feet to Cubic Yards"
+    },
+    {
+     "level": 3,
+     "text": "Explanation"
+    },
+    {
+     "level": 2,
+     "text": "Visualize Cubic Feet in a Cubic Yard"
+    },
+    {
+     "level": 2,
+     "text": "Alternate Method: Convert Cubic Feet to Cubic Yards"
+    },
+    {
+     "level": 3,
+     "text": "Example: Convert 150 ft³ to yd³"
+    },
+    {
+     "level": 2,
+     "text": "Cubic Foot"
+    },
+    {
+     "level": 2,
+     "text": "Cubic Yard"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 911,
+   "avgSentenceWords": 23,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "cubic",
+     "weight": 73
+    },
+    {
+     "term": "cubic feet",
+     "weight": 50
+    },
+    {
+     "term": "feet",
+     "weight": 39
+    },
+    {
+     "term": "cubic yards",
+     "weight": 39
+    },
+    {
+     "term": "yards",
+     "weight": 26
+    },
+    {
+     "term": "yard",
+     "weight": 19
+    },
+    {
+     "term": "cubic yard",
+     "weight": 15
+    },
+    {
+     "term": "convert",
+     "weight": 12
+    },
+    {
+     "term": "divide",
+     "weight": 11
+    },
+    {
+     "term": "yd3",
+     "weight": 10
+    },
+    {
+     "term": "units",
+     "weight": 9
+    },
+    {
+     "term": "ft3",
+     "weight": 8
+    },
+    {
+     "term": "conversion",
+     "weight": 8
+    },
+    {
+     "term": "foot",
+     "weight": 8
+    },
+    {
+     "term": "convert cubic",
+     "weight": 8
+    },
+    {
+     "term": "calculators",
+     "weight": 6
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 6
+    },
+    {
+     "term": "cubic foot",
+     "weight": 6
+    },
+    {
+     "term": "calculator",
+     "weight": 5
+    },
+    {
+     "term": "unit",
+     "weight": 5
+    },
+    {
+     "term": "volume",
+     "weight": 5
+    },
+    {
+     "term": "ft3 yd3",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "shows",
+     "weight": 4
+    },
+    {
+     "term": "cancel",
+     "weight": 4
+    },
+    {
+     "term": "number",
+     "weight": 4
+    },
+    {
+     "term": "calculators converters",
+     "weight": 3
+    },
+    {
+     "term": "converters",
+     "weight": 3
+    },
+    {
+     "term": "yards convert",
+     "weight": 3
+    },
+    {
+     "term": "answer",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "Answer shows the work to convert to cubic yards: Divide cubic feet by 27.",
+    "How to Convert Cubic Feet to Cubic Yards Divide cubic feet by 27 Explanation One yard is 3 feet long.",
+    "Cubing both values, 1 yard cubed equals 27 feet cubed.",
+    "1 yd = 3 ft (1 yd)³ = (3 ft)³ 1 yd × 1 yd × 1 yd = 3 ft × 3 ft × 3 ft 1 yd³ = 27 ft³ So there are 27 cubic feet per cubic yard.",
+    "To convert, take any number of cubic feet and divide by 27 to get cubic yards.",
+    "yd³ = ft³ ÷ 27 Visualize Cubic Feet in a Cubic Yard You can think of a cubic yard of volume as a box that measures one yard tall, by one yard wide, by one yard deep.",
+    "Within this space there are 27 cubic feet, which are cubes measuring one ft wide by one ft tall by one ft deep.",
+    "This image shows how cubic feet are arranged within a cubic yard, stacked in rows and columns 3 feet high by 3 feet wide and 3 feet deep.",
+    "So another way to convert cubic feet to cubic yards is to multiply cubic feet by the inverse of 27.",
+    "Inverse of 27 = 1/27 1 ÷ 27 = 0.037037 cubic feet × 0.037037 = cubic yards So you can multiply cubic feet by 0.037037 to get cubic yards."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 2,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "input_value",
+    "reset"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": true,
+   "wordsBeforeTool": 44,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "October 24, 2025",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 58,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 16,
+    "external": 0,
+    "contentInternal": 7,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Converters",
+     "Cubic Feet to Cubic Yards",
+     "Cubic Yards to Cubic Feet Converter",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Cubic Feet to Cubic Yards | cu ft to cu yd",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/conversions/",
+     "https://www.calculatorsoup.com/calculators/conversions/cubic-feet-to-cubic-yards.php",
+     "https://www.calculatorsoup.com/calculators/conversions/cubic-yards-to-cubic-feet.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=conversions%2F&folderName=Converters&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/conversions/cubic-feet-to-cubic-yards.php&h1=Cubic+Feet+to+Cubic+Yards&pop_w=400&pop_h=600"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.thecalculatorsite.com/articles/units/cubic-feet-in-a-yard.php": {
+   "url": "https://www.thecalculatorsite.com/articles/units/cubic-feet-in-a-yard.php",
+   "finalUrl": "https://www.thecalculatorsite.com/articles/units/cubic-feet-in-a-yard.php",
+   "mode": "offline-parse",
+   "domain": "www.thecalculatorsite.com",
+   "fetchedAt": "2026-11-21T19:30:22.176Z",
+   "title": "How Many Cubic Feet Are in a Yard?",
+   "metaDescription": "Find out how many cubic feet there are in a cubic yard, with diagrams to assist explanation.",
+   "canonical": "https://www.thecalculatorsite.com/articles/units/cubic-feet-in-a-yard.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "How Many Cubic Feet Are in a Yard?"
+   ],
+   "h2": [
+    "Explanation and diagrams",
+    "How many cu ft bags of mulch are in a yard?"
+   ],
+   "h3": [
+    "1 yard = 3 feet",
+    "1 square yard = 9 square feet",
+    "1 cubic yard = 27 cubic feet",
+    "Before you go..."
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "How Many Cubic Feet Are in a Yard?"
+    },
+    {
+     "level": 2,
+     "text": "Explanation and diagrams"
+    },
+    {
+     "level": 3,
+     "text": "1 yard = 3 feet"
+    },
+    {
+     "level": 3,
+     "text": "1 square yard = 9 square feet"
+    },
+    {
+     "level": 3,
+     "text": "1 cubic yard = 27 cubic feet"
+    },
+    {
+     "level": 2,
+     "text": "How many cu ft bags of mulch are in a yard?"
+    },
+    {
+     "level": 3,
+     "text": "Before you go..."
+    },
+    {
+     "level": 4,
+     "text": "Finance"
+    },
+    {
+     "level": 4,
+     "text": "Home & Garden"
+    },
+    {
+     "level": 4,
+     "text": "Cooking"
+    },
+    {
+     "level": 4,
+     "text": "Website"
+    }
+   ],
+   "wordCount": 1056,
+   "avgSentenceWords": 34,
+   "faqs": [
+    "How many cu ft bags of mulch are in a yard?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "calculator",
+     "weight": 53
+    },
+    {
+     "term": "cubic",
+     "weight": 36
+    },
+    {
+     "term": "feet",
+     "weight": 34
+    },
+    {
+     "term": "yard",
+     "weight": 27
+    },
+    {
+     "term": "cubic feet",
+     "weight": 26
+    },
+    {
+     "term": "grams",
+     "weight": 19
+    },
+    {
+     "term": "square",
+     "weight": 18
+    },
+    {
+     "term": "cubic yard",
+     "weight": 15
+    },
+    {
+     "term": "cups",
+     "weight": 11
+    },
+    {
+     "term": "pounds",
+     "weight": 10
+    },
+    {
+     "term": "mulch",
+     "weight": 10
+    },
+    {
+     "term": "weight",
+     "weight": 8
+    },
+    {
+     "term": "many",
+     "weight": 8
+    },
+    {
+     "term": "cubic yards",
+     "weight": 8
+    },
+    {
+     "term": "square feet",
+     "weight": 8
+    },
+    {
+     "term": "calculators",
+     "weight": 7
+    },
+    {
+     "term": "ounces",
+     "weight": 7
+    },
+    {
+     "term": "inches",
+     "weight": 7
+    },
+    {
+     "term": "interest",
+     "weight": 6
+    },
+    {
+     "term": "converter",
+     "weight": 6
+    },
+    {
+     "term": "volume",
+     "weight": 6
+    },
+    {
+     "term": "calculator cubic",
+     "weight": 6
+    },
+    {
+     "term": "many cubic",
+     "weight": 6
+    },
+    {
+     "term": "bags",
+     "weight": 6
+    },
+    {
+     "term": "long",
+     "weight": 5
+    },
+    {
+     "term": "cooking",
+     "weight": 5
+    },
+    {
+     "term": "tablespoons",
+     "weight": 5
+    },
+    {
+     "term": "teaspoons",
+     "weight": 5
+    },
+    {
+     "term": "length",
+     "weight": 5
+    },
+    {
+     "term": "yards",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "By Becky Kleanthous| Last update: 28 July 2023 One cubic yard is equivalent to 27 cubic feet.",
+    "This conversion is based on the fact that one yard is equal to 3 feet, with the three-dimensional cubic yard volume therefore being equal to 3 x 3 x 3 = 27.",
+    "1 cubic yard = 27 cubic feet Explanation and diagrams A foot is 12 inches long, making it exactly a third of a yard.",
+    "So, if you draw a line on the ground with chalk and it's 1 yard in length, then it's 3 feet long.",
+    "1 yard = 3 feet If you wanted to turn that one dimensional chalk line into a two dimensional area, you could use your line as one side of a square, a yard by a yard in measurement.",
+    "The two dimensions on the flat square (length and width) are each 3 feet long, so the sum is 3 x 3 = 9 square feet in a square yard.",
+    "So 3 x 3 x 3 (length x width x height) = 27 cubic feet in a cubic yard.",
+    "Well, none if it's a chalk line on the ground, but if it's a cubic yard (sometimes just called a yard for measuring concrete or other materials), then it contains 27 cubic feet.",
+    "Bags of mulch commonly come in sizes from 1 cubic foot to 3 cubic feet, so you may be wondering how many 1, 2 or 3 cubic foot bags of mulch make up a yard (cubic).",
+    "1 cu ft: 27 bags of mulch in a cubic yard."
+   ],
+   "schemaTypes": [],
+   "schemaFormats": [],
+   "tables": 0,
+   "lists": 27,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [
+    "I want to calculate/convert..."
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 7,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Becky Kleanthous",
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 284,
+    "adNetworks": [
+     "gpt",
+     "adthrive",
+     "ezoic"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 163,
+    "external": 1,
+    "contentInternal": 163,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Finance Calculators",
+     "Compound Interest",
+     "Compound Interest (Daily)",
+     "Amortization Calculator",
+     "APY Calculator",
+     "CAGR Calculator",
+     "Car Loan Calculator",
+     "Cash Back Calculator",
+     "Currency Converter",
+     "Forex Compounding",
+     "Future Value Calculator",
+     "How Long to Save",
+     "Interest Rate Calculator",
+     "Investment Calculator",
+     "IRR Calculator",
+     "Loan Calculator",
+     "Loan Payoff Calculator",
+     "Margin Calculator",
+     "Million to Billion Converter",
+     "MMA Calculator"
+    ],
+    "internalSample": [
+     "https://www.thecalculatorsite.com/",
+     "https://www.thecalculatorsite.com/finance/",
+     "https://www.thecalculatorsite.com/finance/calculators/compoundinterestcalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/daily-compound-interest.php",
+     "https://www.thecalculatorsite.com/finance/calculators/amortization-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/apy-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/cagr-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/carloancalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/cash-back.php",
+     "https://www.thecalculatorsite.com/finance/calculators/currencyconverter.php",
+     "https://www.thecalculatorsite.com/finance/calculators/forex-compound-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/future-value-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/how-long-to-save",
+     "https://www.thecalculatorsite.com/finance/calculators/interest-rate-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/investment-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/irr-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/loancalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/loan-payoff-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/margin-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/million-billion",
+     "https://www.thecalculatorsite.com/finance/calculators/money-market-account.php",
+     "https://www.thecalculatorsite.com/finance/calculators/money-counter.php",
+     "https://www.thecalculatorsite.com/finance/calculators/price-per-sqft.php",
+     "https://www.thecalculatorsite.com/finance/calculators/savings-calculators.php",
+     "https://www.thecalculatorsite.com/finance/calculators/savings-goal-calculator.php"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=thecalculatorsite.com"
+    ]
+   },
+   "pageType": "article/guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/construction/ft2-yd3": {
+   "url": "https://www.omnicalculator.com/construction/ft2-yd3",
+   "finalUrl": "https://www.omnicalculator.com/construction/ft2-yd3",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-21T19:30:25.707Z",
+   "title": "Square Feet to Cubic Yards Calculator",
+   "metaDescription": "Efficiently learn how to convert square feet to cubic yards with our powerful calculator. Achieve precise measurements effortlessly. Try now!",
+   "canonical": "https://www.omnicalculator.com/construction/ft2-yd3",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Square Feet to Cubic Yards Calculator"
+   ],
+   "h2": [
+    "Square feet and cubic yards",
+    "How to convert square feet to cubic yards",
+    "How to use the square feet (sq. ft) to cubic yards calculator",
+    "FAQs"
+   ],
+   "h3": [
+    "What is a cubic yard?",
+    "How do I convert square feet to cubic yards?",
+    "How do I convert cubic yards to square feet?",
+    "How many cubic feet are in a cubic yard?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Square Feet to Cubic Yards Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Square feet and cubic yards"
+    },
+    {
+     "level": 2,
+     "text": "How to convert square feet to cubic yards"
+    },
+    {
+     "level": 2,
+     "text": "How to use the square feet (sq. ft) to cubic yards calculator"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What is a cubic yard?"
+    },
+    {
+     "level": 3,
+     "text": "How do I convert square feet to cubic yards?"
+    },
+    {
+     "level": 3,
+     "text": "How do I convert cubic yards to square feet?"
+    },
+    {
+     "level": 3,
+     "text": "How many cubic feet are in a cubic yard?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 867,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "What is a cubic yard?",
+    "How do I convert square feet to cubic yards?",
+    "How do I convert cubic yards to square feet?",
+    "How many cubic feet are in a cubic yard?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "cubic",
+     "weight": 43
+    },
+    {
+     "term": "cubic yards",
+     "weight": 42
+    },
+    {
+     "term": "feet",
+     "weight": 39
+    },
+    {
+     "term": "square feet",
+     "weight": 38
+    },
+    {
+     "term": "square",
+     "weight": 28
+    },
+    {
+     "term": "yards",
+     "weight": 28
+    },
+    {
+     "term": "volume",
+     "weight": 20
+    },
+    {
+     "term": "area",
+     "weight": 19
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "cubic yard",
+     "weight": 14
+    },
+    {
+     "term": "yard",
+     "weight": 12
+    },
+    {
+     "term": "yards calculator",
+     "weight": 9
+    },
+    {
+     "term": "height",
+     "weight": 9
+    },
+    {
+     "term": "depth",
+     "weight": 9
+    },
+    {
+     "term": "convert",
+     "weight": 9
+    },
+    {
+     "term": "cubic feet",
+     "weight": 9
+    },
+    {
+     "term": "convert square",
+     "weight": 8
+    },
+    {
+     "term": "calculate",
+     "weight": 6
+    },
+    {
+     "term": "example",
+     "weight": 5
+    },
+    {
+     "term": "length width",
+     "weight": 5
+    },
+    {
+     "term": "depth height",
+     "weight": 5
+    },
+    {
+     "term": "need",
+     "weight": 4
+    },
+    {
+     "term": "length",
+     "weight": 4
+    },
+    {
+     "term": "unit",
+     "weight": 4
+    },
+    {
+     "term": "height depth",
+     "weight": 3
+    },
+    {
+     "term": "check",
+     "weight": 3
+    },
+    {
+     "term": "bed",
+     "weight": 3
+    },
+    {
+     "term": "soil",
+     "weight": 3
+    },
+    {
+     "term": "mulch",
+     "weight": 3
+    },
+    {
+     "term": "square footage",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "Square feet and cubic yards Square feet or f t 2 ft2 is a unit of area, whereas, cubic yards or y d 3 yd3 is a unit of volume.",
+    "The figure shows a rectangular plot area that is 9 feet long and 6 feet wide.",
+    "Divide the volume in cubic feet by 27 to get the volume in cubic yards.",
+    "To convert cubic yards to square feet, proceed as follows: Multiply the volume in cubic yards with 27 to get the volume in cubic feet.",
+    "Hence to determine the number of cubic feet in a cubic yard, take the cube of both sides, and you will get 1 cubic yard = 27 cubic feet."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 5,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Purnima Singh",
+    "published": "2020-10-25T12:17:02.569Z",
+    "modified": "2026-08-15T20:02:37.478Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 547,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 24,
+    "external": 1,
+    "contentInternal": 8,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "cubic yard calculator",
+     "soil",
+     "mulch",
+     "gallons per square foot calculator",
+     "square footage calculator",
+     "area calculator",
+     "Stone Weight Calculator",
+     "Board and Batten Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/construction/cubic-yard",
+     "https://www.omnicalculator.com/biology/soil",
+     "https://www.omnicalculator.com/biology/mulch",
+     "https://www.omnicalculator.com/construction/gallons-per-square-foot",
+     "https://www.omnicalculator.com/construction/square-footage",
+     "https://www.omnicalculator.com/math/area",
+     "https://www.omnicalculator.com/construction/stone",
+     "https://www.omnicalculator.com/construction/board-and-batten"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.vedantu.com/question-answer/cubic-feet-are-in-a-cubic-yard-class-8-maths-cbse-60274d2ea3e87e31d086ed9a": [
+   "unreachable (fetch failed)"
+  ],
+  "https://thecalculatorsite.com/articles/units/cubic-feet-in-a-yard.php": [
+   "unreachable (fetch failed)"
+  ],
+  "https://2022sneakpeek.voya.com/?p=34632": [
+   "unreachable (fetch failed)"
+  ],
+  "https://2022sneakpeek.voya.com/tag/cubic": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.vedantu.com/calculator/cubic-foot-to-cubic-yard": [
+   "unreachable (fetch failed)"
+  ],
+  "https://thecalculatorsite.com/conversions/liquidvolume/cubic-yards-to-cubic-feet.php": [
+   "unreachable (fetch failed)"
+  ],
+  "https://miniwebtool.com/cubic-feet-to-cubic-yards/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://php5.cdeworld.com/tag/cubic": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.convertunits.com/from/feet^3/to/cubic+yard": [
+   "unreachable (fetch failed)"
+  ],
+  "https://omnicalculator.com/construction/cubic-yard": [
+   "unreachable (fetch failed)"
+  ],
+  "https://en.wikipedia.com/wiki/Cu_yd": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.convertunits.com/from/yard/to/cubic+feet": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

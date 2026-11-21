@@ -1,0 +1,353 @@
+{
+ "keywords": {
+  "payment calculator": {
+   "fetchedAt": "2026-11-21T19:06:04.148Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 74000,
+   "fileKd": 16,
+   "fileIntent": "C",
+   "semrushCompetitor": {
+    "position": 9,
+    "url": "www.calculator.net/"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.calculator.net/payment-calculator.htmlpayment",
+     "domain": "www.calculator.net",
+     "title": "Payment Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.calculator.net/payment-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Payment Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://uat3.www.usbank.com/vehicle-loans/payment-calculators.html",
+     "domain": "uat3.www.usbank.com",
+     "title": "What is a payment calculator?",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.dallasfed.org/en/educate/calculators/open-calc",
+     "domain": "www.dallasfed.org",
+     "title": "open calc",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.dallasfed.org/educate/calculators/open-calc.aspx",
+     "domain": "www.dallasfed.org",
+     "title": "open calc",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.transunion.com/tools/loan-payment-calculator",
+     "domain": "www.transunion.com",
+     "title": "Loan Payment Calculator*",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://apps.microsoft.com/detail/9wzdncrdm86r",
+     "domain": "apps.microsoft.com",
+     "title": "apps.microsoft.com",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.transunion.com/calculators/simple-loan-calculator",
+     "domain": "www.transunion.com",
+     "title": "Loan Payment Calculator*",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://finance.yahoo.com/markets/options/articles/calculate-loan-payments-costs-225352200.html",
+     "domain": "finance.yahoo.com",
+     "title": "How to calculate loan payments and costs ·bankrate_626",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://chrome.google.com/webstore/detail/payment-calculator/joflaogkkphflpdpalbioebaoaochdpj/reviews",
+     "domain": "chrome.google.com",
+     "title": "A Simple Ammortization Calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.size.ly/payment-calculator",
+     "domain": "www.size.ly",
+     "title": "payment calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.creditdonkey.com/payment-calculator.html",
+     "domain": "www.creditdonkey.com",
+     "title": "Payment Calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://accuratecalculators.com/payment-calculator",
+     "domain": "accuratecalculators.com",
+     "title": "payment calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://www.bankrate.com/mortgages/mortgage-loan-payoff-calculator",
+     "domain": "www.bankrate.com",
+     "title": "mortgage loan payoff calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://www.bankrate.com/glossary/s/simple-interest-loan",
+     "domain": "www.bankrate.com",
+     "title": "Simple loan payment calculator",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://demonstrations.wolfram.com/LoanPaymentCalculator/",
+     "domain": "demonstrations.wolfram.com",
+     "title": "Loan Payment Calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://www.nerdwallet.com/personal-loans/calculators/loan-calculator",
+     "domain": "www.nerdwallet.com",
+     "title": "Loan Calculator: Estimate Your Repayment",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://apps.apple.com/af/app/payment-caiculator/id6478268391",
+     "domain": "apps.apple.com",
+     "title": "Payment CaIculator",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://www.omnicalculator.com/finance/loan-payment",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://cs.thomsonreuters.com/ua/toolbox/cs_us_en/Calculator_screen_overviews/csh_standardloanpaymentscreen.htm",
+     "domain": "cs.thomsonreuters.com",
+     "title": "Standard Loan Payment Schedule Calculator",
+     "description": null
+    }
+   ]
+  },
+  "payment calculator [restricted to accessible domains]": {
+   "fetchedAt": "2026-11-21T19:12:02.449Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch-restricted",
+   "rankNote": "order within a search limited to accessible domains — not a Google rank, not the open result list",
+   "fileVolume": 74000,
+   "fileKd": 16,
+   "fileIntent": "C",
+   "semrushCompetitor": {
+    "position": 9,
+    "url": "www.calculator.net/"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.calculator.io/payment-calculator/",
+     "domain": "www.calculator.io",
+     "title": "Payment Calculator: Car, Auto & Monthly Loan Payments",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.calculator.net/repayment-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Repayment Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.inchcalculator.com/loan-payment-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Loan Payment Calculator - Calculate Monthly Payments",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.calculatorsoup.com/calculators/financial/loan-calculator-simple.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Simple Loan Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.calculatorsoup.com/calculators/financial/loan-calculator-advanced.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Advanced Loan Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.calculator.net/personal-loan-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Personal Loan Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.calculatorsoup.com/calculators/financial/loan-calculator.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Loan Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.calculatorsoup.com/calculators/financial/index-loan-calculators.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Loan Calculators",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.calculator.net/mortgage-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Mortgage Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.calculator.net/amortization-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Amortization Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "payment-calculator",
+ "name": "Payment Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-21T19:12:02.449Z",
+ "topCompetitors": [
+  {
+   "domain": "calculator.net",
+   "bestRank": 1,
+   "keywords": 6,
+   "urls": [
+    "https://www.calculator.net/payment-calculator.htmlpayment",
+    "https://www.calculator.net/payment-calculator.html",
+    "https://www.calculator.net/repayment-calculator.html",
+    "https://www.calculator.net/personal-loan-calculator.html",
+    "https://www.calculator.net/mortgage-calculator.html",
+    "https://www.calculator.net/amortization-calculator.html"
+   ]
+  },
+  {
+   "domain": "calculatorsoup.com",
+   "bestRank": 4,
+   "keywords": 4,
+   "urls": [
+    "https://www.calculatorsoup.com/calculators/financial/loan-calculator-simple.php",
+    "https://www.calculatorsoup.com/calculators/financial/loan-calculator-advanced.php",
+    "https://www.calculatorsoup.com/calculators/financial/loan-calculator.php",
+    "https://www.calculatorsoup.com/calculators/financial/index-loan-calculators.php"
+   ]
+  },
+  {
+   "domain": "dallasfed.org",
+   "bestRank": 4,
+   "keywords": 2,
+   "urls": [
+    "https://www.dallasfed.org/en/educate/calculators/open-calc",
+    "https://www.dallasfed.org/educate/calculators/open-calc.aspx"
+   ]
+  },
+  {
+   "domain": "transunion.com",
+   "bestRank": 6,
+   "keywords": 2,
+   "urls": [
+    "https://www.transunion.com/tools/loan-payment-calculator",
+    "https://www.transunion.com/calculators/simple-loan-calculator"
+   ]
+  },
+  {
+   "domain": "bankrate.com",
+   "bestRank": 14,
+   "keywords": 2,
+   "urls": [
+    "https://www.bankrate.com/mortgages/mortgage-loan-payoff-calculator",
+    "https://www.bankrate.com/glossary/s/simple-interest-loan"
+   ]
+  },
+  {
+   "domain": "calculator.io",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculator.io/payment-calculator/"
+   ]
+  },
+  {
+   "domain": "usbank.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://uat3.www.usbank.com/vehicle-loans/payment-calculators.html"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/loan-payment-calculator/"
+   ]
+  },
+  {
+   "domain": "microsoft.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://apps.microsoft.com/detail/9wzdncrdm86r"
+   ]
+  },
+  {
+   "domain": "yahoo.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://finance.yahoo.com/markets/options/articles/calculate-loan-payments-costs-225352200.html"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1601 @@
+{
+ "pages": {
+  "https://www.inchcalculator.com/square-footage-calculator/": {
+   "url": "https://www.inchcalculator.com/square-footage-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/square-footage-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-21T19:29:23.464Z",
+   "title": "Square Footage Calculator - Inch Calculator",
+   "metaDescription": "Find the square footage of an area, property, building, or shape and calculate project costs by entering the price per square foot.",
+   "canonical": "https://www.inchcalculator.com/square-footage-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Square Footage Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Result: Total Square Feet",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate Square Footage",
+    "How to Find the Square Footage of a Room",
+    "How to Calculate the Square Feet of a Home or Residence",
+    "How to Convert to Square Feet",
+    "Frequently Asked Questions",
+    "Similar Measurement Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Total Price",
+    "Steps to Calculate Square Feet",
+    "Square Footage Formulas",
+    "How to Calculate Price per Sq Ft",
+    "Are square feet and feet the same?",
+    "What does 1 square foot look like?",
+    "When do you use square feet?",
+    "How many square feet is a 12x12 room?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Square Footage Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Result: Total Square Feet"
+    },
+    {
+     "level": 3,
+     "text": "Total Price"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Square Footage"
+    },
+    {
+     "level": 3,
+     "text": "Steps to Calculate Square Feet"
+    },
+    {
+     "level": 3,
+     "text": "Square Footage Formulas"
+    },
+    {
+     "level": 4,
+     "text": "Rectangle"
+    },
+    {
+     "level": 4,
+     "text": "Rectangular Border"
+    },
+    {
+     "level": 4,
+     "text": "Circle"
+    },
+    {
+     "level": 4,
+     "text": "Triangle"
+    },
+    {
+     "level": 2,
+     "text": "How to Find the Square Footage of a Room"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate the Square Feet of a Home or Residence"
+    },
+    {
+     "level": 3,
+     "text": "How to Calculate Price per Sq Ft"
+    },
+    {
+     "level": 2,
+     "text": "How to Convert to Square Feet"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "Are square feet and feet the same?"
+    },
+    {
+     "level": 3,
+     "text": "What does 1 square foot look like?"
+    },
+    {
+     "level": 3,
+     "text": "When do you use square feet?"
+    },
+    {
+     "level": 3,
+     "text": "How many square feet is a 12x12 room?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Measurement Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 1654,
+   "avgSentenceWords": 26,
+   "faqs": [
+    "Are square feet and feet the same?",
+    "What does 1 square foot look like?",
+    "When do you use square feet?",
+    "How many square feet is a 12x12 room?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "square",
+     "weight": 62
+    },
+    {
+     "term": "area",
+     "weight": 40
+    },
+    {
+     "term": "square footage",
+     "weight": 39
+    },
+    {
+     "term": "feet",
+     "weight": 36
+    },
+    {
+     "term": "square feet",
+     "weight": 32
+    },
+    {
+     "term": "width",
+     "weight": 31
+    },
+    {
+     "term": "side",
+     "weight": 30
+    },
+    {
+     "term": "footage",
+     "weight": 26
+    },
+    {
+     "term": "length",
+     "weight": 24
+    },
+    {
+     "term": "room",
+     "weight": 24
+    },
+    {
+     "term": "calculate",
+     "weight": 22
+    },
+    {
+     "term": "border",
+     "weight": 21
+    },
+    {
+     "term": "length width",
+     "weight": 17
+    },
+    {
+     "term": "price",
+     "weight": 16
+    },
+    {
+     "term": "shape length",
+     "weight": 15
+    },
+    {
+     "term": "width diameter",
+     "weight": 15
+    },
+    {
+     "term": "diameter side",
+     "weight": 15
+    },
+    {
+     "term": "border border",
+     "weight": 15
+    },
+    {
+     "term": "border width",
+     "weight": 15
+    },
+    {
+     "term": "width quantity",
+     "weight": 15
+    },
+    {
+     "term": "home",
+     "weight": 15
+    },
+    {
+     "term": "find",
+     "weight": 14
+    },
+    {
+     "term": "quantity room",
+     "weight": 14
+    },
+    {
+     "term": "room area",
+     "weight": 14
+    },
+    {
+     "term": "shape",
+     "weight": 13
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "total",
+     "weight": 12
+    },
+    {
+     "term": "diameter",
+     "weight": 12
+    },
+    {
+     "term": "quantity",
+     "weight": 10
+    },
+    {
+     "term": "total square",
+     "weight": 9
+    }
+   ],
+   "claims": [
+    "One square foot is equal to a square area with a length and width of 1 foot, or 12 inches.",
+    "For example, to calculate the square footage using measurements in inches or another measurement, first convert the length and width measurements to feet by dividing by 12, then multiply them together.",
+    "For example, let’s find the square feet of a room that is 12′ wide by 16′ long.",
+    "area = 12′ × 16′ area = 192 sq ft Square Footage Formulas Use the formulas below to find the area in square feet for various shapes.",
+    "price per ft2 = total price ÷ total ft2 You can also use our unit price calculator to calculate the price per square foot.",
+    "price per ft2 = $200,000 ÷ 2,000 ft2 price per ft2 = $100 How to Convert to Square Feet You can also calculate square feet by converting a known area that’s in different units of measure.",
+    "Square Inches: sq ft = sq in ÷ 144 Square Yards: sq ft = sq yds × 9 Square Meters: sq ft = sq m × 10.764 You can use an area converter to convert any area measurement to sq ft.",
+    "One square foot is equal to the space taken up by a 1 ft by 1 ft square.",
+    "You can visualize this by making a square out of 4 standard 12-inch rulers."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 4,
+   "images": 78,
+   "videos": 0,
+   "calculatorInputs": [
+    "Shape",
+    "Length",
+    "Length Units",
+    "Width",
+    "Width Units",
+    "Diameter",
+    "Diameter Units",
+    "Side a",
+    "Side a Units",
+    "Side b",
+    "Side b Units",
+    "Side c",
+    "Side c Units",
+    "Border",
+    "Border Width",
+    "Border Width Units",
+    "Quantity",
+    "Shape",
+    "Length",
+    "Length Units",
+    "Width",
+    "Width Units",
+    "Diameter",
+    "Diameter Units",
+    "Side a",
+    "Side a Units",
+    "Side b",
+    "Side b Units",
+    "Side c",
+    "Side c Units",
+    "Border",
+    "Border Width",
+    "Border Width Units",
+    "Quantity",
+    "Shape",
+    "Length",
+    "Length Units",
+    "Width",
+    "Width Units",
+    "Diameter"
+   ],
+   "selectOptionsSample": "rectangle square circle triangle in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m rectangle square circle triangle in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m rectangle square circle triangle in ft",
+   "unitToggle": true,
+   "wordsBeforeTool": 30,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2015-02-24",
+    "modified": "2025-08-21T20:22:25+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 253,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 65,
+    "external": 14,
+    "contentInternal": 41,
+    "contentExternal": 8,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate Square Footage",
+     "Steps to Calculate Square Feet",
+     "Square Footage Formulas",
+     "How to Find the Square Footage of a Room",
+     "How to Calculate the Square Feet of a Home or Residence",
+     "How to Calculate Price per Sq Ft",
+     "How to Convert to Square Feet",
+     "Frequently Asked Questions",
+     "References",
+     "Full bio",
+     "Square Footage Calculator",
+     "carpeting",
+     "hardwood flooring",
+     "tiling",
+     "drywalling",
+     "painting",
+     "rectangle"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/square-footage-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/square-footage/",
+     "https://www.inchcalculator.com/square-footage-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/square-footage-calculator/#idx_how_to_calculate_square_footage",
+     "https://www.inchcalculator.com/square-footage-calculator/#idx_steps_to_calculate_square_feet",
+     "https://www.inchcalculator.com/square-footage-calculator/#idx_calculate_sq_ft_for_shapes",
+     "https://www.inchcalculator.com/square-footage-calculator/#idx_how_to_find_the_square_footage_of_a_room",
+     "https://www.inchcalculator.com/square-footage-calculator/#idx_how_to_calculate_the_square_feet_of_a_home_or_residence",
+     "https://www.inchcalculator.com/square-footage-calculator/#idx_how_to_calculate_price_per_sq_ft",
+     "https://www.inchcalculator.com/square-footage-calculator/#idx_how_to_convert_to_square_feet",
+     "https://www.inchcalculator.com/square-footage-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/square-footage-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/ethan-dederick/",
+     "https://www.inchcalculator.com/square-footage-calculator/",
+     "https://www.inchcalculator.com/carpet-calculator/",
+     "https://www.inchcalculator.com/flooring-calculator/",
+     "https://www.inchcalculator.com/tile-calculator/",
+     "https://www.inchcalculator.com/drywall-calculator/",
+     "https://www.inchcalculator.com/paint-calculator/",
+     "https://www.inchcalculator.com/rectangle-calculator/",
+     "https://www.inchcalculator.com/convert/inch-to-foot/",
+     "https://www.inchcalculator.com/convert/yard-to-foot/",
+     "https://www.inchcalculator.com/convert/meter-to-foot/",
+     "https://www.inchcalculator.com/radius-calculator/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fsquare-footage-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fsquare-footage-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fsquare-footage-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fsquare-footage-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fsquare-footage-calculator%2F&text=Square+Footage+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fsquare-footage-calculator%2F&text=Square+Footage+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://singlefamily.fanniemae.com/media/30266/display"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.thecalculatorsite.com/misc/square-footage-calculator.php": {
+   "url": "https://www.thecalculatorsite.com/misc/square-footage-calculator.php",
+   "finalUrl": "https://www.thecalculatorsite.com/misc/square-footage-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.thecalculatorsite.com",
+   "fetchedAt": "2026-11-21T19:29:34.329Z",
+   "title": "Square Footage Calculator",
+   "metaDescription": "Calculate square footage instantly with our free calculator. Measure rooms, properties, and areas using feet, inches, or meters.",
+   "canonical": "https://www.thecalculatorsite.com/misc/square-footage-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Square Footage Calculator"
+   ],
+   "h2": [
+    "How to calculate square footage",
+    "Calculations for 'L' shaped rooms or areas",
+    "Adding 10% surplus for materials",
+    "Calculating square footage for walls",
+    "Calculating the square footage of a house",
+    "Triangular and circular shapes",
+    "Summary of calculations"
+   ],
+   "h3": [
+    "Example calculation",
+    "Example calculation",
+    "Waste percentages by material type",
+    "Square footage of a triangle shape",
+    "Square footage of a circular shape",
+    "References"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Square Footage Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate square footage"
+    },
+    {
+     "level": 3,
+     "text": "Example calculation"
+    },
+    {
+     "level": 2,
+     "text": "Calculations for 'L' shaped rooms or areas"
+    },
+    {
+     "level": 3,
+     "text": "Example calculation"
+    },
+    {
+     "level": 2,
+     "text": "Adding 10% surplus for materials"
+    },
+    {
+     "level": 3,
+     "text": "Waste percentages by material type"
+    },
+    {
+     "level": 2,
+     "text": "Calculating square footage for walls"
+    },
+    {
+     "level": 2,
+     "text": "Calculating the square footage of a house"
+    },
+    {
+     "level": 2,
+     "text": "Triangular and circular shapes"
+    },
+    {
+     "level": 3,
+     "text": "Square footage of a triangle shape"
+    },
+    {
+     "level": 3,
+     "text": "Square footage of a circular shape"
+    },
+    {
+     "level": 2,
+     "text": "Summary of calculations"
+    },
+    {
+     "level": 3,
+     "text": "References"
+    },
+    {
+     "level": 4,
+     "text": "Finance"
+    },
+    {
+     "level": 4,
+     "text": "Home & Garden"
+    },
+    {
+     "level": 4,
+     "text": "Cooking"
+    },
+    {
+     "level": 4,
+     "text": "Website"
+    }
+   ],
+   "wordCount": 2183,
+   "avgSentenceWords": 26,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "calculator",
+     "weight": 64
+    },
+    {
+     "term": "square",
+     "weight": 53
+    },
+    {
+     "term": "square footage",
+     "weight": 47
+    },
+    {
+     "term": "feet",
+     "weight": 40
+    },
+    {
+     "term": "footage",
+     "weight": 31
+    },
+    {
+     "term": "area",
+     "weight": 23
+    },
+    {
+     "term": "grams",
+     "weight": 19
+    },
+    {
+     "term": "length",
+     "weight": 18
+    },
+    {
+     "term": "square feet",
+     "weight": 18
+    },
+    {
+     "term": "calculate",
+     "weight": 16
+    },
+    {
+     "term": "measure",
+     "weight": 16
+    },
+    {
+     "term": "room",
+     "weight": 16
+    },
+    {
+     "term": "cubic",
+     "weight": 15
+    },
+    {
+     "term": "house",
+     "weight": 14
+    },
+    {
+     "term": "width",
+     "weight": 13
+    },
+    {
+     "term": "cubic feet",
+     "weight": 12
+    },
+    {
+     "term": "cups",
+     "weight": 11
+    },
+    {
+     "term": "add",
+     "weight": 10
+    },
+    {
+     "term": "need",
+     "weight": 10
+    },
+    {
+     "term": "calculators",
+     "weight": 9
+    },
+    {
+     "term": "pounds",
+     "weight": 9
+    },
+    {
+     "term": "cubic yards",
+     "weight": 9
+    },
+    {
+     "term": "materials",
+     "weight": 9
+    },
+    {
+     "term": "calculator cubic",
+     "weight": 9
+    },
+    {
+     "term": "calculation",
+     "weight": 9
+    },
+    {
+     "term": "space",
+     "weight": 9
+    },
+    {
+     "term": "height",
+     "weight": 8
+    },
+    {
+     "term": "meters",
+     "weight": 8
+    },
+    {
+     "term": "it's",
+     "weight": 8
+    },
+    {
+     "term": "floor plan",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "If a bedroom measures 16 feet by 12 feet, the calculation would be 16 multiplied by 12, resulting in a square footage of 192 (16 × 12 = 192).",
+    "Now, add both values to calculate the square footage of the room: 140 sq.ft.",
+    "Adding 10% surplus for materials Once you've calculated the your square footage, and know how much material you need to order for your project, it's worth considering adjusting it to account for waste.",
+    "It's common practice to order about 10% more than you think you'll need rather than the exact square footage.",
+    "ft from above, our square feet calculation including 10% waste might look like this: 170 sq.ft.",
+    "Divide your diameter by 2 and then square it (multiply it by itself)."
+   ],
+   "schemaTypes": [],
+   "schemaFormats": [],
+   "tables": 1,
+   "lists": 36,
+   "images": 6,
+   "videos": 1,
+   "calculatorInputs": [
+    "I want to calculate/convert...",
+    "shapeType",
+    "shapeType",
+    "shapeType",
+    "shapeType",
+    "shapeType",
+    "no",
+    "yes",
+    "feet",
+    "in",
+    "yd",
+    "m",
+    "cm",
+    "mm",
+    "Length:",
+    "0",
+    "Width:",
+    "0",
+    "Length 2:",
+    "0",
+    "Width 2:",
+    "0",
+    "Border width:",
+    "0",
+    "currency",
+    "Cost of materials:",
+    "priceUnit",
+    "Quantity:"
+   ],
+   "selectOptionsSample": "$ € £ ₹ ¥ per square foot per square yard per square meter",
+   "unitToggle": false,
+   "wordsBeforeTool": 7,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 339,
+    "adNetworks": [
+     "gpt",
+     "adthrive",
+     "ezoic"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 170,
+    "external": 6,
+    "contentInternal": 170,
+    "contentExternal": 6,
+    "internalAnchors": [
+     "Finance Calculators",
+     "Compound Interest",
+     "Compound Interest (Daily)",
+     "Amortization Calculator",
+     "APY Calculator",
+     "CAGR Calculator",
+     "Car Loan Calculator",
+     "Cash Back Calculator",
+     "Currency Converter",
+     "Forex Compounding",
+     "Future Value Calculator",
+     "How Long to Save",
+     "Interest Rate Calculator",
+     "Investment Calculator",
+     "IRR Calculator",
+     "Loan Calculator",
+     "Loan Payoff Calculator",
+     "Margin Calculator",
+     "Million to Billion Converter",
+     "MMA Calculator"
+    ],
+    "internalSample": [
+     "https://www.thecalculatorsite.com/",
+     "https://www.thecalculatorsite.com/finance/",
+     "https://www.thecalculatorsite.com/finance/calculators/compoundinterestcalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/daily-compound-interest.php",
+     "https://www.thecalculatorsite.com/finance/calculators/amortization-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/apy-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/cagr-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/carloancalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/cash-back.php",
+     "https://www.thecalculatorsite.com/finance/calculators/currencyconverter.php",
+     "https://www.thecalculatorsite.com/finance/calculators/forex-compound-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/future-value-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/how-long-to-save",
+     "https://www.thecalculatorsite.com/finance/calculators/interest-rate-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/investment-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/irr-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/loancalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/loan-payoff-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/margin-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/million-billion",
+     "https://www.thecalculatorsite.com/finance/calculators/money-market-account.php",
+     "https://www.thecalculatorsite.com/finance/calculators/money-counter.php",
+     "https://www.thecalculatorsite.com/finance/calculators/price-per-sqft.php",
+     "https://www.thecalculatorsite.com/finance/calculators/savings-calculators.php",
+     "https://www.thecalculatorsite.com/finance/calculators/savings-goal-calculator.php"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=thecalculatorsite.com",
+     "https://www.edinarealty.com/real-estate-advice/what-counts-finished-square-footage",
+     "https://flooring365.co.uk/blog/post/how-much-flooring-wastage-do-you-need-to-account-for-when-ordering-new-floors.html#:~:text=1.%20Straight,complex%20rooms%3A",
+     "https://impactfloorsqld.com.au/carpet-flooring/information/how-is-carpet-area-calculated",
+     "https://www.uptownfloors.com/preparation/measuring.htm",
+     "https://designertrapped.com/how-much-paint-do-i-need-for-my-room/"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-21T19:29:37.551Z",
+   "title": "Square Footage Calculator",
+   "metaDescription": "Calculate square footage, square meters, square yards and acres for a house, room, roof or land parcel. How to measure and calculate square feet for flooring, carpet, painting or tile projects. Enter measurements in US or metric units. Calculate project cost based on price per square foot, square yard or square meter.",
+   "canonical": "https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Square Footage Calculator"
+   ],
+   "h2": [
+    "Rectangle Area",
+    "Use the Calculator to Calculate Square Feet",
+    "Calculate Cost of Materials",
+    "How to Calculate Square Footage",
+    "Basic Formula for Area",
+    "Area Conversion",
+    "Area Formulas for Different Shapes",
+    "Frequently Asked Questions"
+   ],
+   "h3": [
+    "Basic Length Conversion",
+    "Square Shape",
+    "Rectangle Shape",
+    "Rectangle Border Shape",
+    "Wall and Window Shape",
+    "Cathedral Wall",
+    "Circle Shape",
+    "Circle Border Shape",
+    "Annulus Shape",
+    "Triangle Shape",
+    "Triangle Shape",
+    "Trapezoid Shape",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Square Footage Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Rectangle Area"
+    },
+    {
+     "level": 2,
+     "text": "Use the Calculator to Calculate Square Feet"
+    },
+    {
+     "level": 2,
+     "text": "Calculate Cost of Materials"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Square Footage"
+    },
+    {
+     "level": 2,
+     "text": "Basic Formula for Area"
+    },
+    {
+     "level": 3,
+     "text": "Basic Length Conversion"
+    },
+    {
+     "level": 2,
+     "text": "Area Conversion"
+    },
+    {
+     "level": 2,
+     "text": "Area Formulas for Different Shapes"
+    },
+    {
+     "level": 3,
+     "text": "Square Shape"
+    },
+    {
+     "level": 4,
+     "text": "Calculate square footage of a square"
+    },
+    {
+     "level": 3,
+     "text": "Rectangle Shape"
+    },
+    {
+     "level": 4,
+     "text": "Calculate square footage of a rectangle"
+    },
+    {
+     "level": 3,
+     "text": "Rectangle Border Shape"
+    },
+    {
+     "level": 4,
+     "text": "Calculate square footage of a rectangle border"
+    },
+    {
+     "level": 3,
+     "text": "Wall and Window Shape"
+    },
+    {
+     "level": 4,
+     "text": "Calculate square footage of a wall minus window"
+    },
+    {
+     "level": 3,
+     "text": "Cathedral Wall"
+    },
+    {
+     "level": 4,
+     "text": "Calculate square footage of a cathedral wall (right trapezoid)"
+    },
+    {
+     "level": 3,
+     "text": "Circle Shape"
+    },
+    {
+     "level": 4,
+     "text": "Calculate square footage of a circle"
+    },
+    {
+     "level": 3,
+     "text": "Circle Border Shape"
+    },
+    {
+     "level": 4,
+     "text": "Calculate square footage of a circle border"
+    },
+    {
+     "level": 3,
+     "text": "Annulus Shape"
+    },
+    {
+     "level": 4,
+     "text": "Calculate square footage of an annulus"
+    },
+    {
+     "level": 3,
+     "text": "Triangle Shape"
+    },
+    {
+     "level": 4,
+     "text": "Calculate square footage of a triangle"
+    },
+    {
+     "level": 3,
+     "text": "Triangle Shape"
+    },
+    {
+     "level": 4,
+     "text": "Calculate square footage of a triangle using base and height"
+    },
+    {
+     "level": 3,
+     "text": "Trapezoid Shape"
+    },
+    {
+     "level": 4,
+     "text": "Calculate square footage of a trapezoid"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 1510,
+   "avgSentenceWords": 25,
+   "faqs": [
+    "How do I calculate square footage for different shapes?",
+    "Can I convert between square feet and other units using this calculator?",
+    "How do I measure for a construction project?",
+    "Can this calculator help with landscaping projects?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "square",
+     "weight": 67
+    },
+    {
+     "term": "area",
+     "weight": 59
+    },
+    {
+     "term": "feet",
+     "weight": 40
+    },
+    {
+     "term": "square footage",
+     "weight": 39
+    },
+    {
+     "term": "calculator",
+     "weight": 26
+    },
+    {
+     "term": "footage",
+     "weight": 26
+    },
+    {
+     "term": "calculate",
+     "weight": 26
+    },
+    {
+     "term": "shape",
+     "weight": 24
+    },
+    {
+     "term": "width",
+     "weight": 22
+    },
+    {
+     "term": "square feet",
+     "weight": 21
+    },
+    {
+     "term": "calculate square",
+     "weight": 21
+    },
+    {
+     "term": "click image",
+     "weight": 18
+    },
+    {
+     "term": "length",
+     "weight": 17
+    },
+    {
+     "term": "enlarge calculate",
+     "weight": 17
+    },
+    {
+     "term": "shape click",
+     "weight": 15
+    },
+    {
+     "term": "image",
+     "weight": 14
+    },
+    {
+     "term": "measurements",
+     "weight": 14
+    },
+    {
+     "term": "click",
+     "weight": 13
+    },
+    {
+     "term": "footage calculator",
+     "weight": 12
+    },
+    {
+     "term": "wall",
+     "weight": 12
+    },
+    {
+     "term": "enlarge",
+     "weight": 12
+    },
+    {
+     "term": "window",
+     "weight": 11
+    },
+    {
+     "term": "feet area",
+     "weight": 11
+    },
+    {
+     "term": "meters",
+     "weight": 10
+    },
+    {
+     "term": "border",
+     "weight": 10
+    },
+    {
+     "term": "diameter",
+     "weight": 10
+    },
+    {
+     "term": "length width",
+     "weight": 9
+    },
+    {
+     "term": "unit",
+     "weight": 9
+    },
+    {
+     "term": "enter",
+     "weight": 9
+    },
+    {
+     "term": "triangle",
+     "weight": 9
+    }
+   ],
+   "claims": [
+    "\"Square\" in front of any unit of measure simply means that you are measuring a flat 2-dimensional space and not 1-dimensional line, or a 3-dimensional volume.",
+    "Circle Shape click image to enlarge Calculate square footage of a circle Using measurements in feet: Area (ft²) = pi × (Diameter ÷ 2)² pi = 3.14 This calculation uses diameter, the width of your circle."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 13,
+   "videos": 0,
+   "calculatorInputs": [
+    "Area or Shape:",
+    "Length =",
+    "length feet part",
+    "length inch part",
+    "length unit",
+    "Width =",
+    "width feet part",
+    "width inch part",
+    "width unit",
+    "Quantity =",
+    "Add an extra",
+    "currency",
+    "price",
+    "per",
+    "square unit",
+    "reset"
+   ],
+   "selectOptionsSample": "known area room wall with window cathedral wall square rectangle rectangle border circle circle border annulus triangle triangle, 1/2 b×h trapezoid ft & in in ft yd miles mm cm m km ft & in in ft yd miles mm cm m km $ € £ ₹ 元 ¥ r ¤ square inches, in² square feet, ft² square yards, yd² square meters,",
+   "unitToggle": true,
+   "wordsBeforeTool": 48,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "December 24, 2025",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 91,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 43,
+    "external": 0,
+    "contentInternal": 33,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Construction",
+     "Square Footage Calculator",
+     "Rectangle Image",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "calculator for cubic yards and cubic meters",
+     "Area Formulas for Different Shapes.",
+     "Distance Conversion Calculator",
+     "Area Conversion Calculator",
+     "square",
+     "rectangle",
+     "rectangle border",
+     "wall minus window",
+     "cathedral wall (right trapezoid)",
+     "circle",
+     "circle border",
+     "annulus"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/construction/",
+     "https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php",
+     "https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php#calculationImage",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=construction%2F&folderName=Construction&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php&h1=Square+Footage+Calculator&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/construction/cubic-yards-calculator.php",
+     "https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php#areaShapes",
+     "https://www.calculatorsoup.com/calculators/conversions/distance.php",
+     "https://www.calculatorsoup.com/calculators/conversions/area.php",
+     "https://www.calculatorsoup.com/images/calculators/construction/sq_ft_square.svg",
+     "https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php?given_data=square",
+     "https://www.calculatorsoup.com/images/calculators/construction/sq_ft_rectangle.svg",
+     "https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php?given_data=rectangle",
+     "https://www.calculatorsoup.com/images/calculators/construction/sq_ft_rectangle_border.svg",
+     "https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php?given_data=rectangle-border",
+     "https://www.calculatorsoup.com/images/calculators/construction/sq_ft_wall_minus_window.svg",
+     "https://www.calculatorsoup.com/images/calculators/construction/sq_ft_wall_minus_window_x3.svg",
+     "https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php?given_data=wall-minus-window",
+     "https://www.calculatorsoup.com/images/calculators/construction/sq_ft_trapezoid_right.svg",
+     "https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php?given_data=trapezoid",
+     "https://www.calculatorsoup.com/images/calculators/construction/sq_ft_circle.svg",
+     "https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php?given_data=circle",
+     "https://www.calculatorsoup.com/images/calculators/construction/sq_ft_circle_border.svg"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/construction/wall-square-footage": {
+   "url": "https://www.omnicalculator.com/construction/wall-square-footage",
+   "finalUrl": "https://www.omnicalculator.com/construction/wall-square-footage",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-21T19:29:40.777Z",
+   "title": "Wall Square Footage Calculator",
+   "metaDescription": "Our wall square footage calculator is a simple tool that allows you to calculate the area of yours walls and the amount of wallcovering needed to cover them.",
+   "canonical": "https://www.omnicalculator.com/construction/wall-square-footage",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Wall Square Footage Calculator"
+   ],
+   "h2": [
+    "How to calculate square footage of a wall? The wall square footage calculator",
+    "How to figure square footage of a wall?",
+    "DIY walls design",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I calculate wall square footage?",
+    "How many square feet is a 10x10 wall?",
+    "How many square feet is a 12x12 wall?",
+    "Is 12 inches by 12 inches a square foot?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Wall Square Footage Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate square footage of a wall? The wall square footage calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to figure square footage of a wall?"
+    },
+    {
+     "level": 2,
+     "text": "DIY walls design"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate wall square footage?"
+    },
+    {
+     "level": 3,
+     "text": "How many square feet is a 10x10 wall?"
+    },
+    {
+     "level": 3,
+     "text": "How many square feet is a 12x12 wall?"
+    },
+    {
+     "level": 3,
+     "text": "Is 12 inches by 12 inches a square foot?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1030,
+   "avgSentenceWords": 17,
+   "faqs": [
+    "How do I calculate wall square footage?",
+    "How many square feet is a 10x10 wall?",
+    "How many square feet is a 12x12 wall?",
+    "Is 12 inches by 12 inches a square foot?",
+    "Decorating or renovating?",
+    "what's your next step?",
+    "How to figure square footage of a wall?",
+    "with doors and windows?",
+    "why not to go wild?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "wall",
+     "weight": 41
+    },
+    {
+     "term": "square",
+     "weight": 36
+    },
+    {
+     "term": "square footage",
+     "weight": 26
+    },
+    {
+     "term": "square feet",
+     "weight": 21
+    },
+    {
+     "term": "footage",
+     "weight": 19
+    },
+    {
+     "term": "feet",
+     "weight": 16
+    },
+    {
+     "term": "wall square",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "doors",
+     "weight": 10
+    },
+    {
+     "term": "windows",
+     "weight": 10
+    },
+    {
+     "term": "calculate",
+     "weight": 10
+    },
+    {
+     "term": "walls",
+     "weight": 10
+    },
+    {
+     "term": "height",
+     "weight": 8
+    },
+    {
+     "term": "length",
+     "weight": 7
+    },
+    {
+     "term": "find",
+     "weight": 7
+    },
+    {
+     "term": "ceiling",
+     "weight": 6
+    },
+    {
+     "term": "number",
+     "weight": 6
+    },
+    {
+     "term": "it's",
+     "weight": 6
+    },
+    {
+     "term": "tape",
+     "weight": 6
+    },
+    {
+     "term": "foot",
+     "weight": 6
+    },
+    {
+     "term": "room's",
+     "weight": 5
+    },
+    {
+     "term": "area",
+     "weight": 5
+    },
+    {
+     "term": "room",
+     "weight": 5
+    },
+    {
+     "term": "multiply",
+     "weight": 5
+    },
+    {
+     "term": "inches",
+     "weight": 5
+    },
+    {
+     "term": "footage calculator",
+     "weight": 5
+    },
+    {
+     "term": "calculate square",
+     "weight": 5
+    },
+    {
+     "term": "square foot",
+     "weight": 5
+    },
+    {
+     "term": "add",
+     "weight": 4
+    },
+    {
+     "term": "have",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "Wall Square Footage Calculator Your room's shape #1 Wall length #2 Wall length Ceiling height No.",
+    "A ten feet wide by ten feet tall wall has a square footage (or area) of 100 square feet.",
+    "Since a foot is 12 inches, and a square foot is the area a foot-wide by a foot-long object covers, 12 inches by 12 inches is indeed a square foot."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 16,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Łucja Zaborowska",
+    "published": "2020-08-12T08:51:56.992Z",
+    "modified": "2026-08-14T17:00:37.229Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 483,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 25,
+    "external": 1,
+    "contentInternal": 9,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "area calculator",
+     "wallpaper calculator",
+     "vinyl siding calculator",
+     "shiplap calculator",
+     "drywall calculator",
+     "concrete block wall calculator",
+     "brick calculator",
+     "Stone Weight Calculator",
+     "Board and Batten Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/math/area",
+     "https://www.omnicalculator.com/construction/wallpaper",
+     "https://www.omnicalculator.com/construction/vinyl-siding",
+     "https://www.omnicalculator.com/construction/shiplap",
+     "https://www.omnicalculator.com/construction/drywall",
+     "https://www.omnicalculator.com/construction/concrete-block",
+     "https://www.omnicalculator.com/construction/brick",
+     "https://www.omnicalculator.com/construction/stone",
+     "https://www.omnicalculator.com/construction/board-and-batten"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.homedepot.com/c/ah/how-to-calculate-square-footage/9ba683603be9fa5395fab90647548f6": [
+   "disallowed by robots.txt"
+  ],
+  "https://www.chase.com/personal/mortgage/education/owning-a-home/how-to-calculate-square-footage": [
+   "unreachable (fetch failed)"
+  ],
+  "https://blog.remax.ca/how-to-calculate-square-footage/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.newhomesource.com/learn/how-to-calculate-house-square-footage": [
+   "unreachable (fetch failed)"
+  ],
+  "https://angi.com/articles/how-to-figure-out-square-footage.htm": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.homedepot.ca/en/home/ideas-how-to/floors/how-to-calculate-square-footage.html": [
+   "unreachable (fetch failed)"
+  ],
+  "https://aol.com/calculate-square-feet-why-home-193420808.html": [
+   "unreachable (fetch failed)"
+  ],
+  "https://bankrate.com/real-estate/determine-square-footage-of-home": [
+   "unreachable (fetch failed)"
+  ],
+  "https://thecalculatorsite.com/articles/units/how-to-calculate-square-footage.php": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.homedit.com/calculators/how-to-calculate-square-footage": [
+   "unreachable (fetch failed)"
+  ],
+  "https://chase.com/personal/mortgage/education/owning-a-home/calculating-square-footage": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.masterclass.com/articles/how-to-measure-square-footage-of-a-house": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.redfin.com/blog/how-to-calculate-the-square-footage-of-your-home/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://homeserve.com/en-us/blog/how-to/calculate-square-footage": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.houzz.in/ideabooks/109244980/thumbs/do-you-know-how-to-calculate-a-home-s-square-footage": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

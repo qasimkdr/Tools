@@ -2,20 +2,22 @@
  "items": [
   {
    "id": "days-from-today",
-   "keyword": "14 days from today",
-   "vol": 110000,
-   "kd": 17,
+   "keyword": "90 days from today",
+   "vol": 246000,
+   "kd": 29,
    "status": "done",
    "pages": 4,
-   "updatedAt": "2026-11-21T18:53:36.363Z"
+   "updatedAt": "2026-11-21T19:25:53.671Z",
+   "roadmapKeyword": "14 days from today"
   },
   {
    "id": "payment-calculator",
    "keyword": "payment calculator",
    "vol": 74000,
    "kd": 16,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "done",
+   "pages": 4,
+   "updatedAt": "2026-11-21T19:26:41.804Z"
   },
   {
    "id": "proportion-calculator",
@@ -99,11 +101,13 @@
   },
   {
    "id": "army-body-fat-calculator",
-   "keyword": "army fitness calculator body fat",
+   "keyword": "army body fat calculator",
    "vol": 12100,
-   "kd": 13,
-   "status": "needs-serp",
-   "pages": 0
+   "kd": 16,
+   "status": "done",
+   "pages": 4,
+   "updatedAt": "2026-11-21T19:27:31.665Z",
+   "roadmapKeyword": "army fitness calculator body fat"
   },
   {
    "id": "401k-calculator",
@@ -131,11 +135,13 @@
   },
   {
    "id": "ap-world-history-score-calculator",
-   "keyword": "ap world calculator",
+   "keyword": "ap world score calculator",
    "vol": 6600,
    "kd": 4,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "partial",
+   "pages": 1,
+   "updatedAt": "2026-11-21T19:28:10.404Z",
+   "roadmapKeyword": "ap world calculator"
   },
   {
    "id": "gpa-calculator",
@@ -304,7 +310,7 @@
    "kd": 40,
    "status": "done",
    "pages": 4,
-   "updatedAt": "2026-11-21T18:54:10.553Z"
+   "updatedAt": "2026-11-21T19:28:49.761Z"
   },
   {
    "id": "npv-calculator",
@@ -2945,6 +2951,26 @@
    "kd": 49,
    "status": "needs-serp",
    "pages": 0
+  },
+  {
+   "id": "how-to-calculate-square-footage",
+   "keyword": "how to calculate square footage",
+   "page": "square-footage-calculator",
+   "vol": 22200,
+   "kd": 34,
+   "status": "done",
+   "pages": 4,
+   "updatedAt": "2026-11-21T19:29:43.383Z"
+  },
+  {
+   "id": "how-many-cubic-feet-in-a-cubic-yard",
+   "keyword": "how many cubic feet in a cubic yard",
+   "page": "cubic-yard-calculator",
+   "vol": 22200,
+   "kd": 38,
+   "status": "done",
+   "pages": 4,
+   "updatedAt": "2026-11-21T19:30:28.331Z"
   }
  ]
 }

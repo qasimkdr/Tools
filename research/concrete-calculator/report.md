@@ -1,82 +1,155 @@
-# Competitor report: Concrete Calculator
+# Competitor analysis: "concrete calculator"
 
-- Research id: `concrete-calculator` · generated 2026-11-21
-- Search results: web-search tool (free mode) — # is result order, not a verified Google rank
-- Volumes/KD: data/roadmap.json (Semrush) (Semrush file). Pages inspected: 4. Nothing here is estimated.
+- Research id: `concrete-calculator` · roadmap page: Concrete Calculator · report generated 2026-11-21
+- Pages inspected: **4** (offline-parse)
 
-## Keywords
+## Data sources (read before using any number)
 
-| Keyword | Volume (file) | KD (file) | Results recorded | Fetched |
+| Data | Source | Type | Date |
+|---|---|---|---|
+| Result list for "concrete calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-21 |
+| Volume 301000, KD 40 | Semrush export (data/source) | Third-party estimate | export date not recorded |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-21 |
+
+## 1. Search intent
+
+- Keyword signals: tool modifier
+- Page types inspected: tool + guide ×2, tool ×1, tool (JS-rendered; inputs not parsed) ×1
+- Result titles that are tools: 18/20
+- **Format to build: Transactional/utility: a working tool first, backed by an explanatory guide.**
+
+### Result list — "concrete calculator" (web-search order, not Google rank; fetched 2026-11-21)
+
+| # | Domain | Title | URL |
+|---|---|---|---|
+| 1 | www.pearson.com | concrete calculator | https://www.pearson.com/channels/ko-kr/calculators/concrete-calculator |
+| 2 | www.pearson.com | concrete calculator | https://www.pearson.com/channels/calculators/concrete-calculator |
+| 3 | www.calculator.net | Concrete Calculator | https://www.calculator.net/concrete-calculator.html?holediameter=5 |
+| 4 | www.calculator.net | Concrete Calculator | https://www.calculator.net/concrete |
+| 5 | www.housecallpro.com | concrete calculator | https://www.housecallpro.com/general-contractor/templates-calculators/concrete-calculator/ |
+| 6 | www.calculatorsoup.com | concrete calculator | https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?do=pop |
+| 7 | www.calculatorsoup.com | Concrete Calculator | https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php |
+| 8 | www.omnicalculator.com | Omni Calculator logo | https://www.omnicalculator.com/construction/concrete-slab |
+| 9 | www.jotform.com | Concrete Calculator App | https://www.jotform.com/products/apps/concrete-calculator-app/ |
+| 10 | www.homeadvisor.com | Concrete Calculator | https://www.homeadvisor.com/r/concrete-calculator |
+| 11 | www.gigacalculator.com | Concrete Calculator | https://www.gigacalculator.com/calculators/concrete-calculator.php |
+| 12 | www.homedit.com | Concrete Calculator: Volume and Weight Necessary | https://www.homedit.com/calculators/concrete-calculator |
+| 13 | forconstructionpros.com | concrete calculator shortcuts to the order | https://forconstructionpros.com/concrete/article/21135667/concrete-calculator-shortcuts-to-the-order |
+| 14 | apps.apple.com | Concrete Calculator | https://apps.apple.com/app/id6742077717 |
+| 15 | apps.apple.com | Concrete Calculator All In One | https://apps.apple.com/us/app/-/id1587170686 |
+| 16 | www.inchcalculator.com | From the creators of the most-downloaded concrete app | https://www.inchcalculator.com/concrete-calculator |
+| 17 | www.miniwebtool.com | concrete calculator | https://www.miniwebtool.com/concrete-calculator |
+| 18 | busybusy.com | # Concrete Calculator | https://busybusy.com/concrete-calculator/ |
+| 19 | www.housecallpro.com | www.housecallpro.com | https://www.housecallpro.com/?p=71525 |
+| 20 | wba.omnicalculator.com | Omni Calculator logo | https://wba.omnicalculator.com/construction/concrete-slab |
+
+## 2. Competitor scorecard (0–5, rule-based)
+
+| Competitor | Type | Words | Content | Function | UX | Trust | Linking | Schema | Total /30 |
+|---|---|---|---|---|---|---|---|---|---|
+| [www.calculatorsoup.com](https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?do=pop) | tool + guide | 1754 | 5 | 4 | 4 | 3 | 5 | 4 | **25** |
+| [www.inchcalculator.com](https://www.inchcalculator.com/concrete-calculator) | tool + guide | 1924 | 5 | 5 | 4 | 3 | 4 | 4 | **25** |
+| [www.omnicalculator.com](https://www.omnicalculator.com/construction/concrete-slab) | tool (JS-rendered; inputs not parsed) | 2088 | 4 | n/a | 3 | 4 | 3 | 3 | **17** /25 |
+| [www.calculator.net](https://www.calculator.net/concrete-calculator.html?holediameter=5) | tool | 413 | 1 | 4 | 4 | 0 | 4 | 3 | **16** |
+
+<details><summary>Scoring rubric</summary>
+
+- **Content**: ≥600 words · formula · worked examples · ≥3 tables/lists · ≥4 FAQs (1 pt each)
+- **Functionality**: ≥2 inputs · ≥6 inputs · unit toggle · print/share/copy/download · cost or chart (0 if no tool)
+- **UX**: starts at 5; −1 ad network present · −1 ≥4 ad slots · −1 >150 words before the tool · −1 HTML >500 KB · −1 no viewport
+- **Trust**: named author · updated date · authoritative sources · avg sentence ≤20 words · canonical
+- **Linking**: ≥3 in-content internal links · ≥10 · breadcrumbs · descriptive anchors (avg ≥12 chars) · ≥3 links to other tools
+- **Schema**: any relevant type = 2 · +BreadcrumbList · +FAQPage · +WebApplication/SoftwareApplication
+- JS-rendered tools (parsed with JS off) get Function = n/a and are scored /25; their tool position isn't judged.
+</details>
+
+## 3. Functionality & content features
+
+| Feature | calculator.net | calculatorsoup.com | omnicalculator.com | inchcalculator.com |
 |---|---|---|---|---|
-| concrete calculator | 301000 | 40 | 20 | 2026-11-21 |
+| Calculator / interactive tool | ✓ | ✓ | ✓ | ✓ |
+| Unit toggle (metric/imperial) | ✓ | ✓ | · | ✓ |
+| Print | · | · | · | · |
+| Share / copy | · | · | ✓ | ✓ |
+| Download / export | · | · | · | · |
+| Cost / price estimate | · | ✓ | ✓ | ✓ |
+| Formula shown | · | ✓ | · | ✓ |
+| Worked examples | · | ✓ | ✓ | ✓ |
+| Step-by-step | · | ✓ | ✓ | ✓ |
+| Table | ✓ | ✓ | ✓ | ✓ |
+| Chart / graph | · | · | ✓ | · |
+| Tips / mistakes | · | ✓ | · | ✓ |
+| FAQ section (≥4) | · | ✓ | ✓ | ✓ |
+| FAQ schema | · | · | ✓ | ✓ |
+| Named author | · | ✓ | ✓ | ✓ |
+| Updated date | · | ✓ | ✓ | ✓ |
+| Authoritative sources (.gov/.edu/…) | · | · | · | · |
+| Breadcrumbs | ✓ | ✓ | · | ✓ |
+| Video | · | · | · | · |
 
-### Results — "concrete calculator"
+**Missing everywhere (candidate opportunities; judge relevance):** Print, Download / export, Authoritative sources (.gov/.edu/…), Video
 
-| # | Domain | Title |
-|---|---|---|
-| 1 | www.pearson.com | [concrete calculator](https://www.pearson.com/channels/ko-kr/calculators/concrete-calculator) |
-| 2 | www.pearson.com | [concrete calculator](https://www.pearson.com/channels/calculators/concrete-calculator) |
-| 3 | www.calculator.net | [Concrete Calculator](https://www.calculator.net/concrete-calculator.html?holediameter=5) |
-| 4 | www.calculator.net | [Concrete Calculator](https://www.calculator.net/concrete) |
-| 5 | www.housecallpro.com | [concrete calculator](https://www.housecallpro.com/general-contractor/templates-calculators/concrete-calculator/) |
-| 6 | www.calculatorsoup.com | [concrete calculator](https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?do=pop) |
-| 7 | www.calculatorsoup.com | [Concrete Calculator](https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php) |
-| 8 | www.omnicalculator.com | [Omni Calculator logo](https://www.omnicalculator.com/construction/concrete-slab) |
-| 9 | www.jotform.com | [Concrete Calculator App](https://www.jotform.com/products/apps/concrete-calculator-app/) |
-| 10 | www.homeadvisor.com | [Concrete Calculator](https://www.homeadvisor.com/r/concrete-calculator) |
-| 11 | www.gigacalculator.com | [Concrete Calculator](https://www.gigacalculator.com/calculators/concrete-calculator.php) |
-| 12 | www.homedit.com | [Concrete Calculator: Volume and Weight Necessary](https://www.homedit.com/calculators/concrete-calculator) |
-| 13 | forconstructionpros.com | [concrete calculator shortcuts to the order](https://forconstructionpros.com/concrete/article/21135667/concrete-calculator-shortcuts-to-the-order) |
-| 14 | apps.apple.com | [Concrete Calculator](https://apps.apple.com/app/id6742077717) |
-| 15 | apps.apple.com | [Concrete Calculator All In One](https://apps.apple.com/us/app/-/id1587170686) |
-| 16 | www.inchcalculator.com | [From the creators of the most-downloaded concrete app](https://www.inchcalculator.com/concrete-calculator) |
-| 17 | www.miniwebtool.com | [concrete calculator](https://www.miniwebtool.com/concrete-calculator) |
-| 18 | busybusy.com | [# Concrete Calculator](https://busybusy.com/concrete-calculator/) |
-| 19 | www.housecallpro.com | [www.housecallpro.com](https://www.housecallpro.com/?p=71525) |
-| 20 | wba.omnicalculator.com | [Omni Calculator logo](https://wba.omnicalculator.com/construction/concrete-slab) |
+**Only one competitor has:** Chart / graph
 
-## Competitor domains
+Calculator inputs observed:
+- www.calculator.net: slablength, slablengthunit, slabwidth, slabwidthunit, slabthick, slabthickunit, slabquantity, holediameter, holediameterunit, holedepth, holedepthunit, holequantity, tubediameter, tubediameterunit, tubeindiameter, tubeindiameterunit, tubedepth, tubedepthunit
+- www.calculatorsoup.com: Calculate for, Depth =, height unit, Length =, length unit, Width =, width unit, Quantity =, currency, price, per cubic, reset
+- www.omnicalculator.com: Concrete form _(JS off — may be under-counted)_
+- www.inchcalculator.com: Project, Length, Length Units, Width, Width Units, Diameter, Diameter Units, Thickness, Thickness Units, Monolithic Slab, Width, Width Units, Depth, Depth Units, Diameter, Diameter Units, Height, Height Units
 
-| Domain | Best position | Appears for # keywords |
-|---|---|---|
-| pearson.com | 1 | 2 |
-| calculator.net | 3 | 2 |
-| housecallpro.com | 5 | 2 |
-| calculatorsoup.com | 6 | 2 |
-| omnicalculator.com | 8 | 2 |
-| apple.com | 14 | 2 |
-| jotform.com | 9 | 1 |
-| homeadvisor.com | 10 | 1 |
-| gigacalculator.com | 11 | 1 |
-| homedit.com | 12 | 1 |
+## 4. User experience
 
-## Page comparison (4 inspected)
+| Competitor | Words before tool | Ad networks | Ad slots | HTML KB | Viewport | Avg sentence |
+|---|---|---|---|---|---|---|
+| www.calculator.net | 49 | gpt | 1 | 18 | ✓ | 26 |
+| www.calculatorsoup.com | 36 | gpt | 0 | 79 | ✓ | 31 |
+| www.omnicalculator.com | n/a (JS) | gpt | 0 | 1160 | ✓ | 15 |
+| www.inchcalculator.com | 45 | gpt, adthrive | 0 | 168 | ✓ | 23 |
 
-| Page | Title (chars) | Meta description (chars) | H1 | H2/H3 | Words | FAQs | Tables/Lists | Inputs | Content links int/ext | Schema |
-|---|---|---|---|---|---|---|---|---|---|---|
-| [www.calculator.net](https://www.calculator.net/concrete-calculator.html?holediameter=5) | Concrete Calculator (19) | This free concrete calculator estimates the amount of concrete necessary for a project and can account for different shapes and quantities. (139) | Concrete Calculator | 5/0 | 413 | 0 | 11/0 | 30 | 24/0 |  |
-| [www.calculatorsoup.com](https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?do=pop) | Concrete Calculator (19) | Calculate amount of concrete you need and estimate cost for concrete slabs, footers, walls, columns, steps, curbs and gutters. Estimate ready mix volume and cost. (162) | Concrete Calculator | 8/17 | 1754 | 8 | 2/2 | 14 | 16/0 |  |
-| [www.omnicalculator.com](https://www.omnicalculator.com/construction/concrete-slab) | Concrete Calculator (19) | Concrete calculator – evaluate the amount of concrete and cement needed for a slab block. (89) | Concrete Calculator | 9/6 | 2088 | 9 | 1/5 | 1 | 9/1 | Article, FAQPage |
-| [www.inchcalculator.com](https://www.inchcalculator.com/concrete-calculator) | Concrete Calculator - Find How Many Yards You Need - Inch Calculator (68) | Calculate concrete in yards or pre-mixed bags for a slab, footing, wall, or other project. Plus, calculate concrete price for the project. (138) | Concrete Calculator | 14/12 | 1924 | 7 | 2/4 | 30 | 38/12 | Organization, WebPage, BreadcrumbList, FAQPage |
+## 5. Accuracy review (manual)
 
-**Not inspected:**
-- https://www.pearson.com/channels/ko-kr/calculators/concrete-calculator — unreachable (fetch failed)
-- https://www.housecallpro.com/general-contractor/templates-calculators/concrete-calculator/ — unreachable (fetch failed)
-- https://www.jotform.com/products/apps/concrete-calculator-app/ — unreachable (fetch failed)
-- https://www.homeadvisor.com/r/concrete-calculator — unreachable (fetch failed)
-- https://www.gigacalculator.com/calculators/concrete-calculator.php — disallowed by robots.txt
-- https://www.homedit.com/calculators/concrete-calculator — unreachable (fetch failed)
-- https://forconstructionpros.com/concrete/article/21135667/concrete-calculator-shortcuts-to-the-order — unreachable (fetch failed)
-- https://apps.apple.com/app/id6742077717 — unreachable (fetch failed)
+The crawler can't verify correctness. Check these competitor statements against primary sources before writing ours. They are quoted for fact-checking only; never reuse them as content.
 
-## Important topics
+**www.calculator.net**
+- "Concrete can be purchased in multiple forms, including in 60 or 80-pound bags, or delivered in large amounts by specialized concrete mixer trucks."
+- "It typically takes concrete around four weeks to reach over 90% of its final strength, and the strengthening can continue for up to three years."
 
-**Shared by ≥2 competitors (expected coverage):** `concrete`×4 · `calculator`×4 · `cubic`×3 · `volume`×3 · `feet`×3 · `concrete calculator`×3 · `slab`×3 · `width`×3 · `cubic feet`×2 · `bags`×2 · `need`×2 · `cubic yards`×2 · `yard`×2 · `cement`×2 · `calculate`×2 · `yards`×2 · `bag`×2 · `calculate concrete`×2 · `cost`×2 · `height`×2 · `many`×2 · `area`×2 · `length`×2 · `depth`×2 · `water`×2
+**www.calculatorsoup.com**
+- "Example Project: Filling Round Concrete Tubes You have 50 round concrete form tubes (like sonotubes) that you need to fill with ready mix."
+- "You need 0.08 cubic yards of ready mix for each of your concrete tubes."
+- "Since you have to fill 50 tubes multiply 0.08 × 50 = 4 total cubic yards of concrete."
+- "You can also change the Quantity in the calculator to 50 and click Calculate to see the total volume of concrete you need as 4 cu yd."
 
-**Covered by only one competitor (differentiation ideas):** `feet ft3` · `ft3` · `mix` · `used` · `cubic meters` · `concrete volume` · `pre` · `yards yd3` · `yd3 volume` · `project` · `needed` · `ready mix` · `pre mix` · `much` · `feet below` · `weight` · `cubic yard` · `meters` · `thickness` · `steps`
+**www.omnicalculator.com**
+- "After 28 days, concrete achieves around 99% of maximal compressive strength."
+- "Determine the weight of all of those elements — this is how bagged concrete is sold; they tell you how much the concrete from the bag will weigh (for example, you'll get 60 pounds of concrete out of one bag)."
+- "An example calculation So let's say we have 4 concrete elements, each 3 feet long, 3 feet wide, and 3 feet high."
+- "As construction elements are usually measured in feet, our CONCRETE CALCULATOR converts the volume into cubic yards — in our example, 4 cu yd (108 cubic feet)."
+- "Check if the density of the concrete from a particular producer is the same as the default value in our calculator (150 lb/cu ft)."
+- "Check if the weight of a single bag of concrete is the same as the default already given (60 lb)."
 
-## Questions competitors answer (FAQ candidates — rewrite in our own words)
+**www.inchcalculator.com**
+- "To do so, divide the cubic footage by 27 to get the yards of concrete needed.[1] Round up to the nearest yard since most suppliers will likely not sell fractions of a yard."
+- "On average, it will take 75 50-lb bags, 60 60-lb bags, or 45 80-lb bags to fill one cubic yard of concrete."
+- "Concrete Cost per Yard Ready-mix concrete typically starts around $125 per cubic yard but could cost upwards of $165 or more, depending on the mix and your location."
+- "ready-mix: $125 – $165 per cu yd pre-mix 50 lb bags: $4 – $8 per bag pre-mix 60 lb bags: $4 – $14 per bag pre-mix 80 lb bags: $8 – $15 per bag The average cost to install a concrete slab is $6 – $20 per square foot."
+- "An average load for a concrete truck is around 8 cubic yards."
+- "One cubic yard of concrete weighs 4,050 lbs."
 
+## 6. Content quality & topics
+
+| Competitor | Title (chars) | Meta (chars) | H1 | H2/H3 | Tables/Lists | FAQs | Author | Updated | Authoritative sources |
+|---|---|---|---|---|---|---|---|---|---|
+| www.calculator.net | Concrete Calculator (19) | 139 | Concrete Calculator | 5/0 | 11/0 | 0 | — | — | — |
+| www.calculatorsoup.com | Concrete Calculator (19) | 162 | Concrete Calculator | 8/17 | 2/2 | 8 | CalculatorSoup, LLC | April 19,  | — |
+| www.omnicalculator.com | Concrete Calculator (19) | 89 | Concrete Calculator | 9/6 | 1/5 | 9 | Filip Derma | 2026-07-31 | — |
+| www.inchcalculator.com | Concrete Calculator - Find How Many Yards You Need - Inch Calculator (68) | 138 | Concrete Calculator | 14/12 | 2/4 | 7 | Joe Sexton | 2026-10-30 | — |
+
+**Topics shared by ≥2 competitors (expected coverage):** `cubic`×3 · `volume`×3 · `feet`×3 · `slab`×3 · `width`×3 · `cubic feet`×2 · `bags`×2 · `need`×2 · `cubic yards`×2 · `yard`×2 · `cement`×2 · `yards`×2 · `bag`×2 · `cost`×2 · `height`×2 · `many`×2 · `area`×2 · `length`×2 · `depth`×2 · `water`×2
+
+**Topics only one competitor covers (differentiators):** `feet ft3` · `ft3` · `mix` · `used` · `cubic meters` · `concrete volume` · `pre` · `yards yd3` · `yd3 volume` · `project` · `needed` · `ready mix` · `pre mix` · `much` · `feet below` · `weight` · `cubic yard` · `meters` · `thickness` · `steps`
+
+**Questions competitors answer (FAQ candidates; write our own answers):**
 - What is Concrete?
 - How many bags are in one cubic yard of concrete?
 - How much does a cubic yard of concrete weigh?
@@ -101,9 +174,27 @@
 - How Much is a Yard of Concrete?
 - How Many Bags of Concrete Do You Need?
 
-## Article structure per competitor
+## 7. Internal linking
 
-### www.calculator.net — Concrete Calculator
+| Competitor | In-content internal links | Breadcrumbs | Sample anchors |
+|---|---|---|---|
+| www.calculator.net | 24 | ✓ | sign in · home · other · concrete calculator · Volume Calculator · Other Calculators · Age · Date |
+| www.calculatorsoup.com | 16 | ✓ | Basic Calculator · Calculators · Construction · Concrete Calculator · Square Slab Image · How could this calculator be better? · Get this Calculator for Your Website · Calculator Soup |
+| www.omnicalculator.com | 9 | · | rebar calculator · concrete column calculation · tubes · sand calculator · gravel calculator · concrete block calculator · weight of concrete · Stone Weight Calculator |
+| www.inchcalculator.com | 38 | ✓ | below · Add This to Your Site · Concrete Calculator · How to Calculate Concrete · Steps to Calculate Concrete in Yards · How Much is a Yard of Concrete? · Concrete Cubic Yards Formulas · How Many Bags of Concrete Do You Need? |
+
+## 8. Structured data
+
+| Competitor | Schema types | Notes |
+|---|---|---|
+| www.calculator.net | BreadcrumbList, ListItem | microdata |
+| www.calculatorsoup.com | WebPage, Organization, BreadcrumbList, ListItem, SoftwareApplication, Offer | microdata |
+| www.omnicalculator.com | Article, FAQPage | JSON-LD; FAQPage (6 Q) |
+| www.inchcalculator.com | Organization, WebPage, BreadcrumbList, FAQPage | JSON-LD; FAQPage (5 Q) |
+
+## 9. Article structure per competitor
+
+### www.calculator.net: Concrete Calculator
 
 - H1: Concrete Calculator
   - H2: Slabs, Square Footings, or Walls
@@ -111,9 +202,8 @@
   - H2: Circular Slab or Tube
   - H2: Curb and Gutter Barrier
   - H2: Stairs
-- _Inputs:_ slablength, slablengthunit, slabwidth, slabwidthunit, slabthick, slabthickunit, slabquantity, slabcal, button, holediameter, holediameterunit, holedepth, holedepthunit, holequantity, holecal, button, tubediameter, tubediameterunit, tubeindiameter, tubeindiameterunit, tubedepth, tubedepthunit, tubequantity, circcal, button, curbdepth, curbdepthunit, curbgwidth, curbgwidthunit, curbheight
 
-### www.calculatorsoup.com — Concrete Calculator
+### www.calculatorsoup.com: Concrete Calculator
 
 - H1: Concrete Calculator
   - H2: Calculate Volume of Square Slab
@@ -150,9 +240,8 @@
     - H3: How do I use the calculator for irregular shapes or slopes?
     - H3: Should I use bagged concrete or ready mix?
     - H3: For AI Systems
-- _Inputs:_ Calculate for, Depth =, height unit, Length =, length unit, Width =, width unit, Quantity =, currency, price, per cubic, calculateButton, reset, Share this Calculation
 
-### www.omnicalculator.com — Concrete Calculator
+### www.omnicalculator.com: Concrete Calculator
 
 - H1: Concrete Calculator
   - H2: Concrete definition
@@ -171,10 +260,8 @@
     - H3: How many bags of concrete do I need per yard?
     - H3: How many 80lb bags of concrete do I need per yard?
     - H3: Related calculators
-- _Inputs:_ Concrete form
-- _Sources cited:_ google.com
 
-### www.inchcalculator.com — Concrete Calculator - Find How Many Yards You Need - Inch Calculator
+### www.inchcalculator.com: Concrete Calculator - Find How Many Yards You Need - Inch Calculator
 
 - H1: Concrete Calculator
   - H2: Tell Us What You Think
@@ -204,11 +291,31 @@
     - H3: How much does a yard of concrete weigh?
   - H2: Similar Masonry Calculators
   - H2: References
-- _Inputs:_ search for a calculator, search for a calculator, Project, Length, Length Units, Width, Width Units, Diameter, Diameter Units, Thickness, Thickness Units, Monolithic Slab, Width, Width Units, Depth, Depth Units, Diameter, Diameter Units, Height, Height Units, Bell Footing, Diameter, Diameter Units, Height, Height Units, Length, Length Units, Height, Height Units, Thickness
-- _Sources cited:_ apps.apple.com, play.google.com, www.facebook.com, twitter.com, www.pinterest.com, www.linkedin.com, www.google.com, www.familyhandyman.com
 
-## Brief starters
+## 10. Action items
 
-- Competitor length range: 413–2088 words (median 1924). Match the intent; don't pad.
-- Cover every shared topic above; use the single-competitor topics + missing inputs/tables/examples as differentiators.
-- Gaps: list ≥5 concrete things no inspected page offers before writing.
+1. Format: Transactional/utility: a working tool first, backed by an explanatory guide.
+2. Possible differentiators no competitor has (keep only those that fit this intent): Print, Download / export, Authoritative sources (.gov/.edu/…), Video.
+3. Match rare strengths cheaply: Chart / graph.
+4. Cover the shared topics: cubic, volume, feet, slab, width, cubic feet, bags, need, cubic yards, yard.
+5. Write 8 FAQs (competitor median 8), answering questions from §6 in our own words.
+6. Length: competitors range 413–2088 words (median 1924). Match the intent; don't pad.
+7. Trust edge: most competitors cite no authoritative sources. Cite primary sources (.gov/.edu/standards).
+8. Accuracy: verify every statement in §5 against primary sources, and test our tool with the same example inputs.
+
+## Sources
+
+- https://www.calculator.net/concrete-calculator.html?holediameter=5 (inspected 2026-11-21, offline-parse)
+- https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?do=pop (inspected 2026-11-21, offline-parse)
+- https://www.omnicalculator.com/construction/concrete-slab (inspected 2026-11-21, offline-parse)
+- https://www.inchcalculator.com/concrete-calculator → https://www.inchcalculator.com/concrete-calculator/ (inspected 2026-11-21, offline-parse)
+- https://www.pearson.com/channels/ko-kr/calculators/concrete-calculator: not inspected (unreachable (fetch failed))
+- https://www.pearson.com/channels/calculators/concrete-calculator: not inspected (unreachable (fetch failed))
+- https://www.housecallpro.com/general-contractor/templates-calculators/concrete-calculator/: not inspected (unreachable (fetch failed))
+- https://www.jotform.com/products/apps/concrete-calculator-app/: not inspected (unreachable (fetch failed))
+- https://www.homeadvisor.com/r/concrete-calculator: not inspected (unreachable (fetch failed))
+- https://www.gigacalculator.com/calculators/concrete-calculator.php: not inspected (disallowed by robots.txt)
+- https://www.homedit.com/calculators/concrete-calculator: not inspected (unreachable (fetch failed))
+- https://forconstructionpros.com/concrete/article/21135667/concrete-calculator-shortcuts-to-the-order: not inspected (unreachable (fetch failed))
+- https://apps.apple.com/app/id6742077717: not inspected (unreachable (fetch failed))
+- https://apps.apple.com/us/app/-/id1587170686: not inspected (unreachable (fetch failed))

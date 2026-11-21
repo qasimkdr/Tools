@@ -20,6 +20,22 @@ Run per tool/article, in batches of ≤5 pages. Live data only: if a step can't 
 `research/<id>/serp.json` (recorded results) · `competitors.json` (page structure, no full text) · `report.md` (comparison).
 `research/_queue.json` = batch state · `research/INDEX.md` = progress table. Tool briefs/decisions stay in `docs/research/<slug>.md`.
 
+### What every report contains (validated 2026-11-21, see `research/QUALITY-ASSESSMENT.md`)
+Data-source table (web-search order vs Semrush-reported Google position vs restricted list, all dated) · search intent
+(keyword signals, page-type mix, open-list tool share, **sample-bias warning**) · scorecard 0–5 for content, functionality,
+UX, trust, internal linking and schema (rubric in the report; JS-rendered tools get functionality n/a) · feature matrix +
+candidate gaps (filtered by category) · UX/ads · accuracy claims to fact-check · topics · competitor FAQs · internal-link
+anchors · schema (JSON-LD, microdata, RDFa) · heading outlines · action items · sources with dates.
+
+### Getting 4 accessible competitors
+- The scraper tries every relevant candidate in order: the open list first, then supplementary lists. It keeps one page
+  per competitor domain and skips off-topic results (title/URL must contain distinctive keyword words).
+- When fewer than 4 open-list competitors are reachable, run a **supplementary WebSearch restricted to reachable domains**
+  (`allowed_domains`) and record it with `--restricted`. It's stored and labelled separately and never mixed into the open list.
+- Question keywords that aren't roadmap pages: `npm run seo:batch -- add --id <id> --kw "<keyword>" --page <roadmap-slug>`,
+  and pass `--page` to `seo:record` so Semrush volume and positions attach.
+- Re-analyse with new extractor features: `npm run seo:batch -- run --refresh --ids a,b,c`.
+
 ### One keyword
 ```bash
 # 1) agent runs WebSearch("<keyword>") and records the returned list verbatim (order kept, max 20)

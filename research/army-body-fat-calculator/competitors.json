@@ -1,0 +1,1250 @@
+{
+ "pages": {
+  "https://inchcalculator.com/army-body-fat-calculator": {
+   "url": "https://inchcalculator.com/army-body-fat-calculator",
+   "finalUrl": "https://www.inchcalculator.com/army-body-fat-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-21T19:26:47.861Z",
+   "title": "Army Body Fat Calculator - Inch Calculator",
+   "metaDescription": "Calculate your body fat percentage per US Army standards using a simple calculator to see if you meet Army body composition standards.",
+   "canonical": "https://www.inchcalculator.com/army-body-fat-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Army Body Fat Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Body Fat Percentage",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate Body Fat",
+    "US Army Body Fat Standards",
+    "Similar Health Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Body Fat Formula for Males",
+    "Body Fat Formula for Females"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Army Body Fat Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Body Fat Percentage"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Body Fat"
+    },
+    {
+     "level": 3,
+     "text": "Body Fat Formula for Males"
+    },
+    {
+     "level": 3,
+     "text": "Body Fat Formula for Females"
+    },
+    {
+     "level": 2,
+     "text": "US Army Body Fat Standards"
+    },
+    {
+     "level": 2,
+     "text": "Similar Health Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 765,
+   "avgSentenceWords": 32,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "body fat",
+     "weight": 42
+    },
+    {
+     "term": "body",
+     "weight": 33
+    },
+    {
+     "term": "fat",
+     "weight": 28
+    },
+    {
+     "term": "army",
+     "weight": 18
+    },
+    {
+     "term": "fat percentage",
+     "weight": 18
+    },
+    {
+     "term": "percentage",
+     "weight": 13
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "standards",
+     "weight": 10
+    },
+    {
+     "term": "height",
+     "weight": 10
+    },
+    {
+     "term": "army body",
+     "weight": 9
+    },
+    {
+     "term": "calculate",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "log10",
+     "weight": 8
+    },
+    {
+     "term": "calculate body",
+     "weight": 8
+    },
+    {
+     "term": "neck",
+     "weight": 7
+    },
+    {
+     "term": "fat calculator",
+     "weight": 6
+    },
+    {
+     "term": "waist",
+     "weight": 6
+    },
+    {
+     "term": "fat formula",
+     "weight": 6
+    },
+    {
+     "term": "formula",
+     "weight": 6
+    },
+    {
+     "term": "circumference",
+     "weight": 6
+    },
+    {
+     "term": "times log10",
+     "weight": 6
+    },
+    {
+     "term": "below",
+     "weight": 5
+    },
+    {
+     "term": "fitness",
+     "weight": 5
+    },
+    {
+     "term": "male",
+     "weight": 5
+    },
+    {
+     "term": "female",
+     "weight": 5
+    },
+    {
+     "term": "body composition",
+     "weight": 5
+    },
+    {
+     "term": "neck circumference",
+     "weight": 5
+    },
+    {
+     "term": "maximum body",
+     "weight": 5
+    },
+    {
+     "term": "defined",
+     "weight": 4
+    },
+    {
+     "term": "age",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "Army Body Fat Calculator Calculate body fat according to the standards defined in US Army Regulation 600-9 using the calculator below.",
+    "While there is no maximum weight, AR 600-9[1] defines specific body fat percentage standards for a soldier’s age and gender that need to be met if a soldier’s weight exceeds the limit for their height.",
+    "US Army Body Fat Standards The standards for maximum body fat percentage, as defined in AR 600-9 are shown in the table below.",
+    "AR 40-501[2] defines the body fat percentage standards to join the Army."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 3,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "Gender",
+    "Age",
+    "Height",
+    "Height Units",
+    "Neck",
+    "Neck Units",
+    "Waist",
+    "Waist Units",
+    "Hip",
+    "Hip Units"
+   ],
+   "selectOptionsSample": "male female in ft cm m in cm in cm in cm",
+   "unitToggle": true,
+   "wordsBeforeTool": 22,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2021-01-07",
+    "modified": "2025-09-28T20:06:06+00:00",
+    "authoritativeSources": [
+     "https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/ARN7779_AR600-9_FINAL.pdf",
+     "https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/ARN8673_AR40_501_FINAL_WEB.pdf"
+    ]
+   },
+   "ux": {
+    "htmlKB": 119,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 44,
+    "external": 15,
+    "contentInternal": 20,
+    "contentExternal": 9,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate Body Fat",
+     "Body Fat Formula for Males",
+     "Body Fat Formula for Females",
+     "US Army Body Fat Standards",
+     "References",
+     "Full bio",
+     "Army Body Fat Calculator",
+     "Army Fitness Test",
+     "calculate body fat percentage",
+     "percentage",
+     "Navy body fat calculator",
+     "Army Fitness Test Calculator",
+     "Ideal Body Weight Calculator",
+     "Height Converter",
+     "Height Calculator",
+     "Sleep Calculator",
+     "See All"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/army-body-fat-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/army-body-fat/",
+     "https://www.inchcalculator.com/army-body-fat-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/army-body-fat-calculator/#idx_how_to_calculate_body_fat",
+     "https://www.inchcalculator.com/army-body-fat-calculator/#idx_body_fat_formula_for_males",
+     "https://www.inchcalculator.com/army-body-fat-calculator/#idx_body_fat_formula_for_females",
+     "https://www.inchcalculator.com/army-body-fat-calculator/#idx_us_army_body_fat_standards",
+     "https://www.inchcalculator.com/army-body-fat-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/elise-harlow/",
+     "https://www.inchcalculator.com/army-body-fat-calculator/",
+     "https://www.inchcalculator.com/aft-calculator/",
+     "https://www.inchcalculator.com/body-fat-calculator/",
+     "https://www.inchcalculator.com/percentage-calculator/",
+     "https://www.inchcalculator.com/navy-body-fat-calculator/",
+     "https://www.inchcalculator.com/ideal-body-weight-calculator/",
+     "https://www.inchcalculator.com/height-converter/",
+     "https://www.inchcalculator.com/height-calculator/",
+     "https://www.inchcalculator.com/sleep-calculator/",
+     "https://www.inchcalculator.com/body-measurement-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Farmy-body-fat-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Farmy-body-fat-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Farmy-body-fat-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Farmy-body-fat-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Farmy-body-fat-calculator%2F&text=Army+Body+Fat+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Farmy-body-fat-calculator%2F&text=Army+Body+Fat+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/ARN7779_AR600-9_FINAL.pdf",
+     "https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/ARN8673_AR40_501_FINAL_WEB.pdf"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/fitness/army-body-fat": {
+   "url": "https://www.omnicalculator.com/fitness/army-body-fat",
+   "finalUrl": "https://www.omnicalculator.com/health/army-body-fat",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-21T19:27:15.390Z",
+   "title": "Army Body Fat Calculator (Height, Weight, Tape)",
+   "metaDescription": "The army body fat calculator estimates the fat content in one's body with a  formula used by the US Army.",
+   "canonical": "https://www.omnicalculator.com/health/army-body-fat",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Army Body Fat Calculator"
+   ],
+   "h2": [
+    "What are the necessary measurements?",
+    "What formula does the American Army body fat calculator use?",
+    "The US Army body fat percentage standards",
+    "FAQs"
+   ],
+   "h3": [
+    "How much body fat is allowed in the army?",
+    "How does the army calculate body fat percentage?",
+    "What is the maximum body fat percentage for the army?",
+    "What is the army body fat of a 6 feet male?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Army Body Fat Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What are the necessary measurements?"
+    },
+    {
+     "level": 2,
+     "text": "What formula does the American Army body fat calculator use?"
+    },
+    {
+     "level": 2,
+     "text": "The US Army body fat percentage standards"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How much body fat is allowed in the army?"
+    },
+    {
+     "level": 3,
+     "text": "How does the army calculate body fat percentage?"
+    },
+    {
+     "level": 3,
+     "text": "What is the maximum body fat percentage for the army?"
+    },
+    {
+     "level": 3,
+     "text": "What is the army body fat of a 6 feet male?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 761,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "How much body fat is allowed in the army?",
+    "How does the army calculate body fat percentage?",
+    "What is the maximum body fat percentage for the army?",
+    "What is the army body fat of a 6 feet male?",
+    "What are the necessary measurements?",
+    "What formula does the American Army body fat calculator use?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "body fat",
+     "weight": 42
+    },
+    {
+     "term": "body",
+     "weight": 32
+    },
+    {
+     "term": "fat",
+     "weight": 29
+    },
+    {
+     "term": "army",
+     "weight": 25
+    },
+    {
+     "term": "army body",
+     "weight": 18
+    },
+    {
+     "term": "fat percentage",
+     "weight": 17
+    },
+    {
+     "term": "age",
+     "weight": 13
+    },
+    {
+     "term": "percentage",
+     "weight": 13
+    },
+    {
+     "term": "fat calculator",
+     "weight": 11
+    },
+    {
+     "term": "calculator",
+     "weight": 10
+    },
+    {
+     "term": "females",
+     "weight": 9
+    },
+    {
+     "term": "females age",
+     "weight": 9
+    },
+    {
+     "term": "males",
+     "weight": 8
+    },
+    {
+     "term": "neck",
+     "weight": 7
+    },
+    {
+     "term": "circumference",
+     "weight": 7
+    },
+    {
+     "term": "waist",
+     "weight": 7
+    },
+    {
+     "term": "height",
+     "weight": 6
+    },
+    {
+     "term": "women",
+     "weight": 6
+    },
+    {
+     "term": "percentage standards",
+     "weight": 6
+    },
+    {
+     "term": "check",
+     "weight": 5
+    },
+    {
+     "term": "standards",
+     "weight": 5
+    },
+    {
+     "term": "measurements",
+     "weight": 5
+    },
+    {
+     "term": "men",
+     "weight": 5
+    },
+    {
+     "term": "neck circumference",
+     "weight": 5
+    },
+    {
+     "term": "military service",
+     "weight": 5
+    },
+    {
+     "term": "regulation 600",
+     "weight": 5
+    },
+    {
+     "term": "service",
+     "weight": 4
+    },
+    {
+     "term": "formula",
+     "weight": 4
+    },
+    {
+     "term": "regulation",
+     "weight": 4
+    },
+    {
+     "term": "log10",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "According to the US Army Regulation 600-9, the tape should be made of a non-stretchable material, preferably fiberglass.",
+    "The equation is described in the Army Regulation 600-9 - The Army Body Composition Program.",
+    "Body fat allowed by the army ranges between 24% and 30% for men, depending on the age group."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 5,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": true,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Małgorzata Koperska",
+    "published": "2015-12-31T14:40:45.441Z",
+    "modified": "2026-08-17T11:47:48.528Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 482,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 21,
+    "external": 1,
+    "contentInternal": 5,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "US Navy body fat calculator",
+     "body fat calculator",
+     "body shape",
+     "AFT calculator",
+     "ACFT Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/health/navy-body-fat",
+     "https://www.omnicalculator.com/health/body-fat",
+     "https://www.omnicalculator.com/health/body-shape",
+     "https://www.omnicalculator.com/health/aft",
+     "https://www.omnicalculator.com/health/acft"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/army-body-fat-calculator.html": {
+   "url": "https://www.calculator.net/army-body-fat-calculator.html",
+   "finalUrl": "https://www.calculator.net/army-body-fat-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-21T19:27:25.997Z",
+   "title": "Army Body Fat Calculator",
+   "metaDescription": "This calculator computes body fat percentage using methods from the Army Body Fat Assessment of the Army Body Composition Program.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Army Body Fat Calculator"
+   ],
+   "h2": [
+    "Reference"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Army Body Fat Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Reference"
+    }
+   ],
+   "wordCount": 558,
+   "avgSentenceWords": 33,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "body fat",
+     "weight": 32
+    },
+    {
+     "term": "body",
+     "weight": 31
+    },
+    {
+     "term": "fat",
+     "weight": 21
+    },
+    {
+     "term": "army",
+     "weight": 18
+    },
+    {
+     "term": "army body",
+     "weight": 17
+    },
+    {
+     "term": "fat assessment",
+     "weight": 12
+    },
+    {
+     "term": "body composition",
+     "weight": 11
+    },
+    {
+     "term": "calculator",
+     "weight": 8
+    },
+    {
+     "term": "assessment",
+     "weight": 8
+    },
+    {
+     "term": "fitness",
+     "weight": 7
+    },
+    {
+     "term": "composition",
+     "weight": 7
+    },
+    {
+     "term": "composition program",
+     "weight": 6
+    },
+    {
+     "term": "supplemental body",
+     "weight": 6
+    },
+    {
+     "term": "health",
+     "weight": 5
+    },
+    {
+     "term": "weight",
+     "weight": 5
+    },
+    {
+     "term": "circumference",
+     "weight": 5
+    },
+    {
+     "term": "soldiers",
+     "weight": 5
+    },
+    {
+     "term": "fat calculator",
+     "weight": 5
+    },
+    {
+     "term": "abdominal circumference",
+     "weight": 5
+    },
+    {
+     "term": "program",
+     "weight": 4
+    },
+    {
+     "term": "supplemental",
+     "weight": 4
+    },
+    {
+     "term": "fitness health",
+     "weight": 3
+    },
+    {
+     "term": "based",
+     "weight": 3
+    },
+    {
+     "term": "three measurements",
+     "weight": 3
+    },
+    {
+     "term": "measurements",
+     "weight": 3
+    },
+    {
+     "term": "nearest",
+     "weight": 3
+    },
+    {
+     "term": "nearest pound",
+     "weight": 3
+    },
+    {
+     "term": "male female",
+     "weight": 3
+    },
+    {
+     "term": "abdominal",
+     "weight": 3
+    },
+    {
+     "term": "level",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "sign in home / fitness & health / army body fat calculator Army Body Fat Calculator The Army Body Fat Calculator is based on the Army Body Fat Assessment for the Army Body Composition Program, published on June 12, 2023.",
+    "In 2021, Army senior leaders conducted a comprehensive study on the relationship between Army Combat Fitness Test (ACFT) scores and Army body-composition standards.",
+    "According to this directive, all soldiers who score 540 or higher on the record ACFT, with a minimum of 80 points in each event, are exempt from the body-fat assessment."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 5,
+   "lists": 1,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "male",
+    "female",
+    "cage",
+    "cweight",
+    "cwaistfeet",
+    "cwaistinch"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 62,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 10,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 23,
+    "external": 0,
+    "contentInternal": 23,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "fitness & health",
+     "army body fat calculator",
+     "Army Body Fat Assessment for the Army Body Composition Program",
+     "BMI Calculator",
+     "Calorie Calculator",
+     "Ideal Weight Calculator",
+     "Fitness and Health Calculators",
+     "BMI",
+     "Calorie",
+     "Body Fat",
+     "BMR",
+     "Macro",
+     "Ideal Weight",
+     "Pregnancy",
+     "Pregnancy Weight Gain",
+     "Pregnancy Conception",
+     "Due Date",
+     "Pace"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/army-body-fat-calculator.html",
+     "https://www.calculator.net/pdf/alaract-046-2023.pdf",
+     "https://www.calculator.net/bmi-calculator.html",
+     "https://www.calculator.net/calorie-calculator.html",
+     "https://www.calculator.net/ideal-weight-calculator.html",
+     "https://www.calculator.net/body-fat-calculator.html",
+     "https://www.calculator.net/bmr-calculator.html",
+     "https://www.calculator.net/macro-calculator.html",
+     "https://www.calculator.net/pregnancy-calculator.html",
+     "https://www.calculator.net/pregnancy-weight-gain-calculator.html",
+     "https://www.calculator.net/pregnancy-conception-calculator.html",
+     "https://www.calculator.net/due-date-calculator.html",
+     "https://www.calculator.net/pace-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.io/army-body-fat-calculator/": {
+   "url": "https://www.calculator.io/army-body-fat-calculator/",
+   "finalUrl": "https://www.calculator.io/army-body-fat-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.calculator.io",
+   "fetchedAt": "2026-11-21T19:27:29.083Z",
+   "title": "Army Body Fat Calculator",
+   "metaDescription": "Easily calculate your body fat percentage with our Army Body Fat Calculator. Check if you meet the official U.S. Army AR 600-9 composition standards today.",
+   "canonical": "https://www.calculator.io/army-body-fat-calculator/",
+   "robotsMeta": "index, follow",
+   "lang": "en",
+   "h1": [
+    "Army Body Fat Calculator"
+   ],
+   "h2": [
+    "How to Measure Body Fat and Meet U.S. Army AR 600-9 Standards",
+    "Table of Contents",
+    "What an Army Body Fat Calculator is",
+    "How an Army Body Fat Calculator Works",
+    "Example",
+    "Tips for Achieving Your Fat Loss Goals",
+    "Mistakes to Avoid"
+   ],
+   "h3": [
+    "1. Setting Unrealistic Goals",
+    "2. Starving Yourself",
+    "3. Avoiding the Weight Room"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Army Body Fat Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to Measure Body Fat and Meet U.S. Army AR 600-9 Standards"
+    },
+    {
+     "level": 2,
+     "text": "Table of Contents"
+    },
+    {
+     "level": 2,
+     "text": "What an Army Body Fat Calculator is"
+    },
+    {
+     "level": 2,
+     "text": "How an Army Body Fat Calculator Works"
+    },
+    {
+     "level": 2,
+     "text": "Example"
+    },
+    {
+     "level": 2,
+     "text": "Tips for Achieving Your Fat Loss Goals"
+    },
+    {
+     "level": 2,
+     "text": "Mistakes to Avoid"
+    },
+    {
+     "level": 3,
+     "text": "1. Setting Unrealistic Goals"
+    },
+    {
+     "level": 3,
+     "text": "2. Starving Yourself"
+    },
+    {
+     "level": 3,
+     "text": "3. Avoiding the Weight Room"
+    }
+   ],
+   "wordCount": 1655,
+   "avgSentenceWords": 23,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "body fat",
+     "weight": 56
+    },
+    {
+     "term": "fat",
+     "weight": 50
+    },
+    {
+     "term": "body",
+     "weight": 43
+    },
+    {
+     "term": "calculator",
+     "weight": 28
+    },
+    {
+     "term": "army",
+     "weight": 22
+    },
+    {
+     "term": "fat percentage",
+     "weight": 21
+    },
+    {
+     "term": "army body",
+     "weight": 20
+    },
+    {
+     "term": "fat calculator",
+     "weight": 18
+    },
+    {
+     "term": "calculator health",
+     "weight": 15
+    },
+    {
+     "term": "percentage",
+     "weight": 14
+    },
+    {
+     "term": "health",
+     "weight": 14
+    },
+    {
+     "term": "fat loss",
+     "weight": 14
+    },
+    {
+     "term": "military",
+     "weight": 13
+    },
+    {
+     "term": "ask",
+     "weight": 12
+    },
+    {
+     "term": "standards",
+     "weight": 11
+    },
+    {
+     "term": "loss",
+     "weight": 11
+    },
+    {
+     "term": "instant answers",
+     "weight": 9
+    },
+    {
+     "term": "calculation try",
+     "weight": 9
+    },
+    {
+     "term": "try ask",
+     "weight": 9
+    },
+    {
+     "term": "age",
+     "weight": 9
+    },
+    {
+     "term": "fitness",
+     "weight": 9
+    },
+    {
+     "term": "meet",
+     "weight": 8
+    },
+    {
+     "term": "goals",
+     "weight": 8
+    },
+    {
+     "term": "weight",
+     "weight": 8
+    },
+    {
+     "term": "tool",
+     "weight": 8
+    },
+    {
+     "term": "calculation",
+     "weight": 7
+    },
+    {
+     "term": "while",
+     "weight": 7
+    },
+    {
+     "term": "physical",
+     "weight": 7
+    },
+    {
+     "term": "instant",
+     "weight": 6
+    },
+    {
+     "term": "answers",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Army AR 600-9 composition standards today.",
+    "ALLOWABLE BODY FAT PERCENTAGE TO JOIN Age Male Female 17-20 24% 30% 21-27 26% 32% 28-39 28% 34% 40 and over 30% 36% MAX.",
+    "BODY FAT PERCENTAGE STANDARD AFTER ENTRY Age Male Female 17-20 20% 30% 21-27 22% 32% 28-39 24% 34% 40 and over 26% 36% There was an error with your calculation.",
+    "Army AR 600-9 Standards Last updated: July 21, 2026 Table of Contents What an Army Body Fat Calculator is How an Army Body Fat Calculator Works Example Tips for Achieving Your Fat Loss Goals Mistakes to Avoid 1.",
+    "Army, the maximum allowable body fat percentages for enlistment are 24% for men and 30% for women, according to Army Regulation 600-9.",
+    "Navy has its own set of standards that use a maximum body fat percentage of 23% for men and 34% for women for ages 18-21, with different standards for different age groups.",
+    "Air Force has a maximum body fat percentage of 20% for men and 28% for women for ages 17-29.",
+    "Marine Corps standards dictate 18% body fat for males and 26% for females for new recruits, though these percentages change with age.",
+    "After measuring his neck and waist and inputting his data, he receives an estimated body fat measurement of 23%.",
+    "If you need to drop 5% body fat to meet Army standards, aim to lose about 1% per week rather than attempting to crash diet and lose it all in seven days."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "BreadcrumbList",
+    "WebApplication"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 4,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Link"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 108,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": "2026-07-21T20:51:30+05:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 86,
+    "adNetworks": [
+     "adsense"
+    ],
+    "adSlots": 6,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 57,
+    "external": 1,
+    "contentInternal": 17,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "BMI Calculator Health",
+     "Calorie Calculator Health",
+     "BMR Calculator Health",
+     "Body Fat Percentage Health",
+     "TDEE Calculator Health",
+     "How Much Should I Weigh Health",
+     "Calories Burned Calculator Health",
+     "Body Shape Calculator Health",
+     "What an Army Body Fat Calculator is",
+     "How an Army Body Fat Calculator Works",
+     "Example",
+     "Tips for Achieving Your Fat Loss Goals",
+     "Mistakes to Avoid",
+     "1. Setting Unrealistic Goals",
+     "2. Starving Yourself",
+     "3. Avoiding the Weight Room"
+    ],
+    "internalSample": [
+     "https://www.calculator.io/ask-ai/",
+     "https://www.calculator.io/bmi-calculator/",
+     "https://www.calculator.io/calorie-calculator/",
+     "https://www.calculator.io/bmr-calculator/",
+     "https://www.calculator.io/body-fat-percentage-calculator/",
+     "https://www.calculator.io/tdee-calculator/",
+     "https://www.calculator.io/ideal-weight-calculator/",
+     "https://www.calculator.io/calories-burned-calculator/",
+     "https://www.calculator.io/body-type-calculator/",
+     "https://www.calculator.io/army-body-fat-calculator/#what-an-army-body-fat-calculator-is-1",
+     "https://www.calculator.io/army-body-fat-calculator/#how-an-army-body-fat-calculator-works-2",
+     "https://www.calculator.io/army-body-fat-calculator/#example-3",
+     "https://www.calculator.io/army-body-fat-calculator/#tips-for-achieving-your-fat-loss-goals-4",
+     "https://www.calculator.io/army-body-fat-calculator/#mistakes-to-avoid-5",
+     "https://www.calculator.io/army-body-fat-calculator/#1-setting-unrealistic-goals-6",
+     "https://www.calculator.io/army-body-fat-calculator/#2-starving-yourself-7",
+     "https://www.calculator.io/army-body-fat-calculator/#3-avoiding-the-weight-room-8"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://calculator.net/army-body-fat-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://Calculator.net/army-body-fat-calculator.html": [
+   "unreachable (fetch failed)"
+  ],
+  "https://guyru.github.io/calculators/army-body-fat-calculator.html": [
+   "unreachable (fetch failed)"
+  ],
+  "https://legionathletics.com/army-body-fat-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.gigacalculator.com/calculators/army-body-fat-calculator.php": [
+   "disallowed by robots.txt"
+  ],
+  "https://www.stylecraze.com/tools/army-body-fat-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://online.visual-paradigm.com/tabular/calculator/health/army-body-fat-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://online.visual-paradigm.com/spreadsheet-editor/calculator/army-body-fat-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://calculator.io/army-body-fat-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://thecalculatortoolbox.odoo.com/army-body-fat-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://ameblo.jp/unitcalculatortool/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://size.ly/calculator/army-body-fat-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://miniwebtool.com/army-body-fat-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.fitbudd.com/calculators/army-body-fat-calculator": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

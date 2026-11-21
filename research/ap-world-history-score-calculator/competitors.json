@@ -1,0 +1,342 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/other/ap-world": {
+   "url": "https://www.omnicalculator.com/other/ap-world",
+   "finalUrl": "https://www.omnicalculator.com/other/ap-world",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-21T19:27:37.765Z",
+   "title": "AP® World Calculator​",
+   "metaDescription": "Use the AP® World calculator​ to estimate your ​AP® score based on the points you get from each section of this history exam.",
+   "canonical": "https://www.omnicalculator.com/other/ap-world",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "AP® World Calculator​"
+   ],
+   "h2": [
+    "What is AP® World?",
+    "How to use the AP® World calculator​",
+    "AP® World score distribution",
+    "How to calculate AP® World score",
+    "What are AP® world units​?",
+    "FAQs"
+   ],
+   "h3": [
+    "How long is the AP® World History exam​?",
+    "When do AP® World scores come out?",
+    "Is AP® World history hard​?",
+    "How do I calculate AP® World score?",
+    "Is 4 a good AP® World score?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "AP® World Calculator​"
+    },
+    {
+     "level": 2,
+     "text": "What is AP® World?"
+    },
+    {
+     "level": 2,
+     "text": "How to use the AP® World calculator​"
+    },
+    {
+     "level": 2,
+     "text": "AP® World score distribution"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate AP® World score"
+    },
+    {
+     "level": 2,
+     "text": "What are AP® world units​?"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How long is the AP® World History exam​?"
+    },
+    {
+     "level": 3,
+     "text": "When do AP® World scores come out?"
+    },
+    {
+     "level": 3,
+     "text": "Is AP® World history hard​?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate AP® World score?"
+    },
+    {
+     "level": 3,
+     "text": "Is 4 a good AP® World score?"
+    }
+   ],
+   "wordCount": 1142,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "What is AP® World?",
+    "How long is the AP® World History exam​?",
+    "When do AP® World scores come out?",
+    "Is AP® World history hard​?",
+    "How do I calculate AP® World score?",
+    "Is 4 a good AP® World score?",
+    "What are AP® world units​?"
+   ],
+   "faqSchemaCount": 6,
+   "topics": [
+    {
+     "term": "world",
+     "weight": 45
+    },
+    {
+     "term": "score",
+     "weight": 38
+    },
+    {
+     "term": "world history",
+     "weight": 26
+    },
+    {
+     "term": "world score",
+     "weight": 24
+    },
+    {
+     "term": "history",
+     "weight": 19
+    },
+    {
+     "term": "calculator",
+     "weight": 15
+    },
+    {
+     "term": "exam",
+     "weight": 15
+    },
+    {
+     "term": "composite score",
+     "weight": 11
+    },
+    {
+     "term": "question",
+     "weight": 10
+    },
+    {
+     "term": "points",
+     "weight": 10
+    },
+    {
+     "term": "world calculator",
+     "weight": 9
+    },
+    {
+     "term": "college",
+     "weight": 9
+    },
+    {
+     "term": "college board",
+     "weight": 9
+    },
+    {
+     "term": "unit",
+     "weight": 9
+    },
+    {
+     "term": "questions",
+     "weight": 8
+    },
+    {
+     "term": "short answer",
+     "weight": 8
+    },
+    {
+     "term": "history score",
+     "weight": 8
+    },
+    {
+     "term": "composite",
+     "weight": 7
+    },
+    {
+     "term": "students",
+     "weight": 7
+    },
+    {
+     "term": "multiple choice",
+     "weight": 6
+    },
+    {
+     "term": "short",
+     "weight": 6
+    },
+    {
+     "term": "board",
+     "weight": 6
+    },
+    {
+     "term": "units",
+     "weight": 6
+    },
+    {
+     "term": "score distribution",
+     "weight": 6
+    },
+    {
+     "term": "score calculator",
+     "weight": 6
+    },
+    {
+     "term": "points scaled",
+     "weight": 6
+    },
+    {
+     "term": "answer",
+     "weight": 5
+    },
+    {
+     "term": "based",
+     "weight": 5
+    },
+    {
+     "term": "long",
+     "weight": 5
+    },
+    {
+     "term": "test",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Its full name is AP® World History: Modern, and it covers material from 1200 C.E.",
+    "The exam includes multiple-choice and free-response questions, with varying weights that contribute to the AP® World score ranging from 1 to 5.",
+    "View your results, including: Composite score (0-130); and Predicted AP® World score (1-5).",
+    "For 2025, the mean AP® World score was 3.16, with 64.3% of students earning a score of 3 or higher.",
+    "For more details, refer to the official AP® World History score distribution​ for 2025 below, or the official College Board past distributions.",
+    "Here’s how we do it in the AP® World History calculator​: 55 multiple-choice questions (MCQ) — max.",
+    "The AP® World History exam lasts 3 hrs and 15 min in total: Section I includes multiple-choice questions (55 questions, 55 min) and short-answer questions (3 questions, 40 min).",
+    "AP® World History scores are typically released in early July, about 8-9 weeks after the exam.",
+    "Many students find it difficult because it covers more than 800 years of global history in 9 AP® World units​ and requires them to analyze historical developments across different regions and time periods.",
+    "Yes, a 4 is a strong AP® World History score."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 3,
+   "lists": 5,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Dominik Czernia",
+    "published": "2026-06-13T14:39:17.660Z",
+    "modified": "2026-06-16T20:16:27.394Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 496,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 20,
+    "external": 1,
+    "contentInternal": 4,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "test grade calculator",
+     "SAT® score calculator",
+     "AP® Lang score calculator",
+     "GMAT score calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/other/test-grade",
+     "https://www.omnicalculator.com/everyday-life/sat-score",
+     "https://www.omnicalculator.com/other/ap-lang-score",
+     "https://www.omnicalculator.com/everyday-life/gmat-score"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://fiveable.me/ap-score-calculator/ap-world": [
+   "unreachable (fetch failed)"
+  ],
+  "https://fiveable.me/ap-world/ap-score-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.albert.io/blog/ap-world-history-score-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.collegetransitions.com/blog/ap-world-history-score-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.remnote.com/score-calculator/ap-world-history": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.albert.io/blog/ap-world-history": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.test-ninjas.com/ap-world-history-score-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.collegevine.com/faq/121956/ap-world-history-test-score-calculation": [
+   "unreachable (fetch failed)"
+  ],
+  "https://scholarly.so/tools/ap-world-history-score-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.revisiondojo.com/blog/ap-world-history-score-calculator-predict-your-ap-world-exam-score-or-revisiondojo": [
+   "unreachable (fetch failed)"
+  ],
+  "https://admissionsight.com/ap-world-history-score-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.revisiondojo.com/blog/ap-world-calculator-score-prediction-tool-for-ap-world-history-or-revisiondojo": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.studocu.com/tools/calculators/apworld": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

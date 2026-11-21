@@ -5,10 +5,11 @@
    "finalUrl": "https://www.calculator.net/concrete-calculator.html?holediameter=5",
    "mode": "offline-parse",
    "domain": "www.calculator.net",
-   "fetchedAt": "2026-11-21T18:53:39.467Z",
+   "fetchedAt": "2026-11-21T19:28:16.334Z",
    "title": "Concrete Calculator",
    "metaDescription": "This free concrete calculator estimates the amount of concrete necessary for a project and can account for different shapes and quantities.",
    "canonical": null,
+   "robotsMeta": null,
    "lang": "en",
    "h1": [
     "Concrete Calculator"
@@ -48,7 +49,9 @@
     }
    ],
    "wordCount": 413,
+   "avgSentenceWords": 26,
    "faqs": [],
+   "faqSchemaCount": 0,
    "topics": [
     {
      "term": "concrete",
@@ -119,7 +122,17 @@
      "weight": 3
     }
    ],
-   "schemaTypes": [],
+   "claims": [
+    "Concrete can be purchased in multiple forms, including in 60 or 80-pound bags, or delivered in large amounts by specialized concrete mixer trucks.",
+    "It typically takes concrete around four weeks to reach over 90% of its final strength, and the strengthening can continue for up to three years."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
    "tables": 11,
    "lists": 0,
    "images": 6,
@@ -132,15 +145,11 @@
     "slabthick",
     "slabthickunit",
     "slabquantity",
-    "slabcal",
-    "button",
     "holediameter",
     "holediameterunit",
     "holedepth",
     "holedepthunit",
     "holequantity",
-    "holecal",
-    "button",
     "tubediameter",
     "tubediameterunit",
     "tubeindiameter",
@@ -148,19 +157,88 @@
     "tubedepth",
     "tubedepthunit",
     "tubequantity",
-    "circcal",
-    "button",
     "curbdepth",
     "curbdepthunit",
     "curbgwidth",
     "curbgwidthunit",
-    "curbheight"
+    "curbheight",
+    "curbheightunit",
+    "curbfthick",
+    "curbfthickunit",
+    "curblength",
+    "curblengthunit",
+    "curbquantity",
+    "stairrun",
+    "stairrununit",
+    "stairrise",
+    "stairriseunit",
+    "stairwidth",
+    "stairwidthunit",
+    "stairpdepth",
+    "stairpdepthunit",
+    "stairquantity"
    ],
+   "selectOptionsSample": "feet inches yards meters centimeters feet inches yards meters centimeters feet inches yards meters centimeters feet inches yards meters centimeters feet inches yards meters centimeters feet inches yards meters centimeters feet inches yards meters centimeters feet inches yards meters centimeters feet",
+   "unitToggle": true,
+   "wordsBeforeTool": 49,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 18,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
    "links": {
     "internal": 24,
     "external": 0,
     "contentInternal": 24,
     "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "other",
+     "concrete calculator",
+     "Volume Calculator",
+     "Other Calculators",
+     "Age",
+     "Date",
+     "Time",
+     "Hours",
+     "GPA",
+     "Grade",
+     "Height",
+     "Concrete",
+     "IP Subnet",
+     "Bra Size",
+     "Password Generator",
+     "Dice Roller",
+     "Conversion",
+     "More Other Calculators"
+    ],
     "internalSample": [
      "https://www.calculator.net/",
      "https://www.calculator.net/my-account/sign-in.php",
@@ -188,17 +266,22 @@
      "https://www.calculator.net/about-us.html#privacy"
     ],
     "externalSample": []
-   }
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
   },
   "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?do=pop": {
    "url": "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?do=pop",
    "finalUrl": "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?do=pop",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-21T18:53:45.120Z",
+   "fetchedAt": "2026-11-21T19:28:21.937Z",
    "title": "Concrete Calculator",
    "metaDescription": "Calculate amount of concrete you need and estimate cost for concrete slabs, footers, walls, columns, steps, curbs and gutters. Estimate ready mix volume and cost.",
    "canonical": "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php",
+   "robotsMeta": null,
    "lang": "en",
    "h1": [
     "Concrete Calculator"
@@ -375,6 +458,7 @@
     }
    ],
    "wordCount": 1754,
+   "avgSentenceWords": 31,
    "faqs": [
     "What is Concrete?",
     "How many bags are in one cubic yard of concrete?",
@@ -385,6 +469,7 @@
     "How do I use the calculator for irregular shapes or slopes?",
     "Should I use bagged concrete or ready mix?"
    ],
+   "faqSchemaCount": 0,
    "topics": [
     {
      "term": "volume",
@@ -507,7 +592,23 @@
      "weight": 8
     }
    ],
-   "schemaTypes": [],
+   "claims": [
+    "Example Project: Filling Round Concrete Tubes You have 50 round concrete form tubes (like sonotubes) that you need to fill with ready mix.",
+    "You need 0.08 cubic yards of ready mix for each of your concrete tubes.",
+    "Since you have to fill 50 tubes multiply 0.08 × 50 = 4 total cubic yards of concrete.",
+    "You can also change the Quantity in the calculator to 50 and click Calculate to see the total volume of concrete you need as 4 cu yd."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
    "tables": 2,
    "lists": 2,
    "images": 10,
@@ -524,15 +625,67 @@
     "currency",
     "price",
     "per cubic",
-    "calculateButton",
-    "reset",
-    "Share this Calculation"
+    "reset"
    ],
+   "selectOptionsSample": "square slab round slab wall footer square column round column tube steps curb & gutter in ft cm m in ft cm m in ft cm m $ € £ ₹ 元 ¥ r ¤ foot (ft³) yard (yd³) meter (m³)",
+   "unitToggle": true,
+   "wordsBeforeTool": 36,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "April 19, 2026",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 79,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
    "links": {
     "internal": 27,
     "external": 0,
     "contentInternal": 16,
     "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Construction",
+     "Concrete Calculator",
+     "Square Slab Image",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "square slab",
+     "round slab",
+     "wall",
+     "footer",
+     "square column",
+     "round column",
+     "tube",
+     "steps",
+     "curbs and gutters",
+     "https://www.calculatorsoup.com"
+    ],
     "internalSample": [
      "https://www.calculatorsoup.com/calculators/math/basic.php",
      "https://www.calculatorsoup.com/",
@@ -552,17 +705,22 @@
      "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?given_data=curb"
     ],
     "externalSample": []
-   }
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
   },
   "https://www.omnicalculator.com/construction/concrete-slab": {
    "url": "https://www.omnicalculator.com/construction/concrete-slab",
    "finalUrl": "https://www.omnicalculator.com/construction/concrete-slab",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-21T18:53:48.272Z",
+   "fetchedAt": "2026-11-21T19:28:25.011Z",
    "title": "Concrete Calculator",
    "metaDescription": "Concrete calculator – evaluate the amount of concrete and cement needed for a slab block.",
    "canonical": "https://www.omnicalculator.com/construction/concrete-slab",
+   "robotsMeta": null,
    "lang": "en",
    "h1": [
     "Concrete Calculator"
@@ -657,6 +815,7 @@
     }
    ],
    "wordCount": 2088,
+   "avgSentenceWords": 15,
    "faqs": [
     "What is concrete made of?",
     "When was concrete invented?",
@@ -668,6 +827,7 @@
     "How much concrete do I need?",
     "How to make concrete?"
    ],
+   "faqSchemaCount": 6,
    "topics": [
     {
      "term": "concrete",
@@ -790,9 +950,24 @@
      "weight": 6
     }
    ],
+   "claims": [
+    "After 28 days, concrete achieves around 99% of maximal compressive strength.",
+    "Determine the weight of all of those elements — this is how bagged concrete is sold; they tell you how much the concrete from the bag will weigh (for example, you'll get 60 pounds of concrete out of one bag).",
+    "An example calculation So let's say we have 4 concrete elements, each 3 feet long, 3 feet wide, and 3 feet high.",
+    "As construction elements are usually measured in feet, our CONCRETE CALCULATOR converts the volume into cubic yards — in our example, 4 cu yd (108 cubic feet).",
+    "Check if the density of the concrete from a particular producer is the same as the default value in our calculator (150 lb/cu ft).",
+    "Check if the weight of a single bag of concrete is the same as the default already given (60 lb).",
+    "We need 4 cubic yards of concrete; our producer sells concrete in bags weighing 60 lb with a 150 lb/cu ft density.",
+    "The total weight of concrete that we need is 16,201.03 lb.",
+    "Lightweight concrete — density lower than 1920 kg/m³.",
+    "Modern concrete was invented in 1824 by Joseph Aspdin."
+   ],
    "schemaTypes": [
     "Article",
     "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
    ],
    "tables": 1,
    "lists": 5,
@@ -801,11 +976,56 @@
    "calculatorInputs": [
     "Concrete form"
    ],
+   "selectOptionsSample": "select slab wall footer column curb, gutter barrier stairs",
+   "unitToggle": false,
+   "wordsBeforeTool": 4,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Filip Derma",
+    "published": "2015-11-24T11:13:56.209Z",
+    "modified": "2026-07-31T23:32:57.056Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 1160,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
    "links": {
     "internal": 25,
     "external": 1,
     "contentInternal": 9,
     "contentExternal": 1,
+    "internalAnchors": [
+     "rebar calculator",
+     "concrete column calculation",
+     "tubes",
+     "sand calculator",
+     "gravel calculator",
+     "concrete block calculator",
+     "weight of concrete",
+     "Stone Weight Calculator",
+     "Board and Batten Calculator"
+    ],
     "internalSample": [
      "https://www.omnicalculator.com/construction/rebar",
      "https://www.omnicalculator.com/construction/concrete-column",
@@ -820,17 +1040,22 @@
     "externalSample": [
      "https://google.com/preferences/source?q=omnicalculator.com"
     ]
-   }
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
   },
   "https://www.inchcalculator.com/concrete-calculator": {
    "url": "https://www.inchcalculator.com/concrete-calculator",
    "finalUrl": "https://www.inchcalculator.com/concrete-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-21T18:54:07.948Z",
+   "fetchedAt": "2026-11-21T19:28:47.174Z",
    "title": "Concrete Calculator - Find How Many Yards You Need - Inch Calculator",
    "metaDescription": "Calculate concrete in yards or pre-mixed bags for a slab, footing, wall, or other project. Plus, calculate concrete price for the project.",
    "canonical": "https://www.inchcalculator.com/concrete-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
    "lang": "en",
    "h1": [
     "Concrete Calculator"
@@ -980,6 +1205,7 @@
     }
    ],
    "wordCount": 1924,
+   "avgSentenceWords": 23,
    "faqs": [
     "How much does a yard of concrete cover?",
     "How much concrete is in a truck?",
@@ -989,6 +1215,7 @@
     "How Much is a Yard of Concrete?",
     "How Many Bags of Concrete Do You Need?"
    ],
+   "faqSchemaCount": 5,
    "topics": [
     {
      "term": "concrete",
@@ -1111,19 +1338,28 @@
      "weight": 8
     }
    ],
+   "claims": [
+    "To do so, divide the cubic footage by 27 to get the yards of concrete needed.[1] Round up to the nearest yard since most suppliers will likely not sell fractions of a yard.",
+    "On average, it will take 75 50-lb bags, 60 60-lb bags, or 45 80-lb bags to fill one cubic yard of concrete.",
+    "Concrete Cost per Yard Ready-mix concrete typically starts around $125 per cubic yard but could cost upwards of $165 or more, depending on the mix and your location.",
+    "ready-mix: $125 – $165 per cu yd pre-mix 50 lb bags: $4 – $8 per bag pre-mix 60 lb bags: $4 – $14 per bag pre-mix 80 lb bags: $8 – $15 per bag The average cost to install a concrete slab is $6 – $20 per square foot.",
+    "An average load for a concrete truck is around 8 cubic yards.",
+    "One cubic yard of concrete weighs 4,050 lbs."
+   ],
    "schemaTypes": [
     "Organization",
     "WebPage",
     "BreadcrumbList",
     "FAQPage"
    ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
    "tables": 2,
    "lists": 4,
    "images": 20,
    "videos": 0,
    "calculatorInputs": [
-    "search for a calculator",
-    "search for a calculator",
     "Project",
     "Length",
     "Length Units",
@@ -1151,13 +1387,82 @@
     "Length Units",
     "Height",
     "Height Units",
-    "Thickness"
+    "Thickness",
+    "Thickness Units",
+    "Width",
+    "Width Units",
+    "Depth",
+    "Depth Units",
+    "Stem Wall",
+    "Thickness",
+    "Thickness Units",
+    "Height",
+    "Height Units",
+    "Curb Depth",
+    "Curb Depth Units"
    ],
+   "selectOptionsSample": "slab (rectangle) slab (circle) footing column / pier wall curb & gutter steps in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm ",
+   "unitToggle": true,
+   "wordsBeforeTool": 45,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2015-03-03",
+    "modified": "2026-10-30T14:34:56+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 168,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
    "links": {
     "internal": 62,
     "external": 18,
     "contentInternal": 38,
     "contentExternal": 12,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Concrete Calculator",
+     "How to Calculate Concrete",
+     "Steps to Calculate Concrete in Yards",
+     "How Much is a Yard of Concrete?",
+     "Concrete Cubic Yards Formulas",
+     "How Many Bags of Concrete Do You Need?",
+     "How to Calculate Concrete Costs",
+     "Tips for Preparing for a Ready-Mix Concrete Pour",
+     "Frequently Asked Questions",
+     "References",
+     "Full bio",
+     "mix",
+     "footing",
+     "rectangle",
+     "inches",
+     "yards",
+     "meters",
+     "volume calculator"
+    ],
     "internalSample": [
      "https://www.inchcalculator.com/concrete-calculator/#idx_how_calculator_works",
      "https://www.inchcalculator.com/widgets/w/concrete/",
@@ -1199,11 +1504,18 @@
      "https://www.liveabout.com/ready-mix-concrete-ordering-tips-844454",
      "https://onthehouse.com/buying-concrete-12-tips-determing-project-success/"
     ]
-   }
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
   }
  },
  "failed": {
   "https://www.pearson.com/channels/ko-kr/calculators/concrete-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.pearson.com/channels/calculators/concrete-calculator": [
    "unreachable (fetch failed)"
   ],
   "https://www.housecallpro.com/general-contractor/templates-calculators/concrete-calculator/": [
@@ -1225,6 +1537,9 @@
    "unreachable (fetch failed)"
   ],
   "https://apps.apple.com/app/id6742077717": [
+   "unreachable (fetch failed)"
+  ],
+  "https://apps.apple.com/us/app/-/id1587170686": [
    "unreachable (fetch failed)"
   ]
  }
