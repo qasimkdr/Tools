@@ -2,19 +2,42 @@
 
 Run per tool/article, in batches of ≤5 pages. Live data only: if a step can't get real data, stop and report. Never fill gaps with guesses.
 
-## FREE MODE (current default — no paid APIs)
-1. **SERP:** run the agent's WebSearch tool (standard mode) for the primary keyword + 1–2 top secondary keywords.
-   Record each result list **exactly in the returned order** (no added/removed URLs):
-   `npm run seo:record -- --slug <slug> --kw "<keyword>" --results '[{"url":"…","title":"…"}, …]'`
-   Position = web-search order, not a verified Google rank; the report labels it. No People Also Ask in free mode, so use
-   competitor FAQs, keyword-cluster questions and WebSearch queries like "<keyword> how to" for FAQ ideas.
-2. **Competitor pages:** `npm run seo:scrape -- --slug <slug> --count 4` (free; Playwright). If a competitor host is
-   blocked by the cloud network, propose adding that exact host with the environment tools (free), or pick the next result.
-3. **Report:** `npm run seo:report -- --slug <slug>`, then write the brief in `docs/research/<slug>.md`.
-4. **Our own rankings (free):** Google Search Console Performance report (owner exports queries/positions) is the
-   source of truth for how we rank after launch.
+## FREE MODE (current default — $0: no paid APIs, proxies, VPS or extra subscriptions)
 
-Never scrape google.com result pages directly (against Google's terms and blocked quickly).
+### What this cloud session can do (checked 2026-11-21, `npm run seo:check`)
+- Playwright 1.63 + headless Chromium are preinstalled (`/opt/pw-browsers`); JS, DOM and screenshots work. 4 CPU / 15 GB RAM.
+- No display server is needed; `xvfb-run` exists for headed debugging.
+- Outbound traffic goes through an allowlist proxy. Competitor sites on the allowlist are fetched by Node (normal TLS
+  verification) and parsed by Chromium offline with JS off (`scripts/seo/browser.mjs`). JS-only content can be missed in
+  this mode; locally (no proxy) Chromium loads pages directly with JS on.
+- **Search engines (Google, Bing, DuckDuckGo, Mojeek, Brave) are not reachable**, and their robots.txt files disallow
+  automated `/search` requests anyway. So search results come from the agent's built-in **WebSearch tool** (part of the
+  Claude Code session, no extra cost), recorded verbatim with `seo:record`. Never scrape search engines directly.
+- A competitor host that isn't allowlisted shows `unreachable`; the scraper skips it and uses the next result. Add
+  frequently needed hosts to the environment allowlist (free).
+
+### Folder layout
+`research/<id>/serp.json` (recorded results) · `competitors.json` (page structure, no full text) · `report.md` (comparison).
+`research/_queue.json` = batch state · `research/INDEX.md` = progress table. Tool briefs/decisions stay in `docs/research/<slug>.md`.
+
+### One keyword
+```bash
+# 1) agent runs WebSearch("<keyword>") and records the returned list verbatim (order kept, max 20)
+npm run seo:record -- --slug <id> --kw "<keyword>" --file results.json    # or --results '<json>'
+npm run seo:scrape -- --slug <id> --count 4                                 # ≥4 competitor pages, robots.txt respected
+npm run seo:report -- --slug <id>                                            # → research/<id>/report.md
+```
+
+### Hundreds of keywords (batches of 5)
+```bash
+npm run seo:batch -- init --from roadmap           # or: init --csv data/source/semrush.csv
+npm run seo:batch -- next --size 5                 # which keywords need search results
+#   agent: WebSearch each → seo:record
+npm run seo:batch -- run --size 5                  # scrape + report for every ready id (resumable, cached)
+npm run seo:batch -- status                        # progress → research/INDEX.md
+```
+Items with fewer than 4 inspectable pages become `partial`. Add hosts or pass `--urls` to `seo:scrape`, then `run --retry`.
+Rate: one page at a time with a 2.5 s delay. A batch of 5 keywords takes about 2–4 minutes.
 
 ## Paid mode (later, optional)
 
@@ -32,10 +55,10 @@ npm run seo:research -- --slug concrete-calculator          # serp + scrape + re
 npm run seo:serp -- --slug concrete-calculator --max 3      # top-10 for primary + 2 secondary keywords (cached)
 npm run seo:serp -- --csv data/source/semrush.csv --slug x  # keywords from a Semrush CSV export instead
 npm run seo:scrape -- --slug concrete-calculator --count 4  # inspect ≥4 competitor pages (robots.txt respected, 2.5s delay)
-npm run seo:report -- --slug concrete-calculator            # → docs/research/<slug>.report.md
+npm run seo:report -- --slug concrete-calculator            # → research/<slug>/report.md
 npm run build && npm run test:e2e                            # verify pages (desktop + mobile)
 ```
-Raw data is stored in `data/research/<slug>/serp.json` and `competitors.json`. Both are committed, so results are reproducible and nobody pays for the same SERP twice.
+Raw data is stored in `research/<slug>/serp.json` and `competitors.json`. Both are committed, so results are reproducible and nobody pays for the same SERP twice.
 
 ## What each step extracts
 - **SERP** (`serp.mjs`): top 10 organic results (rank, URL, title, snippet), SERP features, featured-snippet URL, People Also Ask,

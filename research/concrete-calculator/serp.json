@@ -1,0 +1,252 @@
+{
+ "keywords": {
+  "concrete calculator": {
+   "fetchedAt": "2026-11-21T18:53:35.847Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 301000,
+   "fileKd": 40,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.pearson.com/channels/ko-kr/calculators/concrete-calculator",
+     "domain": "www.pearson.com",
+     "title": "concrete calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.pearson.com/channels/calculators/concrete-calculator",
+     "domain": "www.pearson.com",
+     "title": "concrete calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.calculator.net/concrete-calculator.html?holediameter=5",
+     "domain": "www.calculator.net",
+     "title": "Concrete Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.calculator.net/concrete",
+     "domain": "www.calculator.net",
+     "title": "Concrete Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.housecallpro.com/general-contractor/templates-calculators/concrete-calculator/",
+     "domain": "www.housecallpro.com",
+     "title": "concrete calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?do=pop",
+     "domain": "www.calculatorsoup.com",
+     "title": "concrete calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Concrete Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.omnicalculator.com/construction/concrete-slab",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.jotform.com/products/apps/concrete-calculator-app/",
+     "domain": "www.jotform.com",
+     "title": "Concrete Calculator App",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.homeadvisor.com/r/concrete-calculator",
+     "domain": "www.homeadvisor.com",
+     "title": "Concrete Calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.gigacalculator.com/calculators/concrete-calculator.php",
+     "domain": "www.gigacalculator.com",
+     "title": "Concrete Calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.homedit.com/calculators/concrete-calculator",
+     "domain": "www.homedit.com",
+     "title": "Concrete Calculator: Volume and Weight Necessary",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://forconstructionpros.com/concrete/article/21135667/concrete-calculator-shortcuts-to-the-order",
+     "domain": "forconstructionpros.com",
+     "title": "concrete calculator shortcuts to the order",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://apps.apple.com/app/id6742077717",
+     "domain": "apps.apple.com",
+     "title": "Concrete Calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://apps.apple.com/us/app/-/id1587170686",
+     "domain": "apps.apple.com",
+     "title": "Concrete Calculator All In One",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://www.inchcalculator.com/concrete-calculator",
+     "domain": "www.inchcalculator.com",
+     "title": "From the creators of the most-downloaded concrete app",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://www.miniwebtool.com/concrete-calculator",
+     "domain": "www.miniwebtool.com",
+     "title": "concrete calculator",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://busybusy.com/concrete-calculator/",
+     "domain": "busybusy.com",
+     "title": "# Concrete Calculator",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://www.housecallpro.com/?p=71525",
+     "domain": "www.housecallpro.com",
+     "title": "www.housecallpro.com",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://wba.omnicalculator.com/construction/concrete-slab",
+     "domain": "wba.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "concrete-calculator",
+ "name": "Concrete Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-21T18:53:35.848Z",
+ "topCompetitors": [
+  {
+   "domain": "pearson.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://www.pearson.com/channels/ko-kr/calculators/concrete-calculator",
+    "https://www.pearson.com/channels/calculators/concrete-calculator"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 3,
+   "keywords": 2,
+   "urls": [
+    "https://www.calculator.net/concrete-calculator.html?holediameter=5",
+    "https://www.calculator.net/concrete"
+   ]
+  },
+  {
+   "domain": "housecallpro.com",
+   "bestRank": 5,
+   "keywords": 2,
+   "urls": [
+    "https://www.housecallpro.com/general-contractor/templates-calculators/concrete-calculator/",
+    "https://www.housecallpro.com/?p=71525"
+   ]
+  },
+  {
+   "domain": "calculatorsoup.com",
+   "bestRank": 6,
+   "keywords": 2,
+   "urls": [
+    "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?do=pop",
+    "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 8,
+   "keywords": 2,
+   "urls": [
+    "https://www.omnicalculator.com/construction/concrete-slab",
+    "https://wba.omnicalculator.com/construction/concrete-slab"
+   ]
+  },
+  {
+   "domain": "apple.com",
+   "bestRank": 14,
+   "keywords": 2,
+   "urls": [
+    "https://apps.apple.com/app/id6742077717",
+    "https://apps.apple.com/us/app/-/id1587170686"
+   ]
+  },
+  {
+   "domain": "jotform.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://www.jotform.com/products/apps/concrete-calculator-app/"
+   ]
+  },
+  {
+   "domain": "homeadvisor.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://www.homeadvisor.com/r/concrete-calculator"
+   ]
+  },
+  {
+   "domain": "gigacalculator.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://www.gigacalculator.com/calculators/concrete-calculator.php"
+   ]
+  },
+  {
+   "domain": "homedit.com",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://www.homedit.com/calculators/concrete-calculator"
+   ]
+  }
+ ]
+}

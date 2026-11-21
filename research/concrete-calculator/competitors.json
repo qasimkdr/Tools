@@ -1,0 +1,1231 @@
+{
+ "pages": {
+  "https://www.calculator.net/concrete-calculator.html?holediameter=5": {
+   "url": "https://www.calculator.net/concrete-calculator.html?holediameter=5",
+   "finalUrl": "https://www.calculator.net/concrete-calculator.html?holediameter=5",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-21T18:53:39.467Z",
+   "title": "Concrete Calculator",
+   "metaDescription": "This free concrete calculator estimates the amount of concrete necessary for a project and can account for different shapes and quantities.",
+   "canonical": null,
+   "lang": "en",
+   "h1": [
+    "Concrete Calculator"
+   ],
+   "h2": [
+    "Slabs, Square Footings, or Walls",
+    "Hole, Column, or Round Footings",
+    "Circular Slab or Tube",
+    "Curb and Gutter Barrier",
+    "Stairs"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Concrete Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Slabs, Square Footings, or Walls"
+    },
+    {
+     "level": 2,
+     "text": "Hole, Column, or Round Footings"
+    },
+    {
+     "level": 2,
+     "text": "Circular Slab or Tube"
+    },
+    {
+     "level": 2,
+     "text": "Curb and Gutter Barrier"
+    },
+    {
+     "level": 2,
+     "text": "Stairs"
+    }
+   ],
+   "wordCount": 413,
+   "faqs": [],
+   "topics": [
+    {
+     "term": "concrete",
+     "weight": 23
+    },
+    {
+     "term": "cement",
+     "weight": 6
+    },
+    {
+     "term": "calculator",
+     "weight": 5
+    },
+    {
+     "term": "concrete calculator",
+     "weight": 5
+    },
+    {
+     "term": "height",
+     "weight": 4
+    },
+    {
+     "term": "quantity",
+     "weight": 4
+    },
+    {
+     "term": "calculator concrete",
+     "weight": 3
+    },
+    {
+     "term": "concrete slabs",
+     "weight": 3
+    },
+    {
+     "term": "length",
+     "weight": 3
+    },
+    {
+     "term": "width",
+     "weight": 3
+    },
+    {
+     "term": "diameter",
+     "weight": 3
+    },
+    {
+     "term": "depth",
+     "weight": 3
+    },
+    {
+     "term": "curb",
+     "weight": 3
+    },
+    {
+     "term": "materials",
+     "weight": 3
+    },
+    {
+     "term": "water",
+     "weight": 3
+    },
+    {
+     "term": "financial fitness",
+     "weight": 3
+    },
+    {
+     "term": "health math",
+     "weight": 3
+    }
+   ],
+   "schemaTypes": [],
+   "tables": 11,
+   "lists": 0,
+   "images": 6,
+   "videos": 0,
+   "calculatorInputs": [
+    "slablength",
+    "slablengthunit",
+    "slabwidth",
+    "slabwidthunit",
+    "slabthick",
+    "slabthickunit",
+    "slabquantity",
+    "slabcal",
+    "button",
+    "holediameter",
+    "holediameterunit",
+    "holedepth",
+    "holedepthunit",
+    "holequantity",
+    "holecal",
+    "button",
+    "tubediameter",
+    "tubediameterunit",
+    "tubeindiameter",
+    "tubeindiameterunit",
+    "tubedepth",
+    "tubedepthunit",
+    "tubequantity",
+    "circcal",
+    "button",
+    "curbdepth",
+    "curbdepthunit",
+    "curbgwidth",
+    "curbgwidthunit",
+    "curbheight"
+   ],
+   "links": {
+    "internal": 24,
+    "external": 0,
+    "contentInternal": 24,
+    "contentExternal": 0,
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/concrete-calculator.html",
+     "https://www.calculator.net/volume-calculator.html",
+     "https://www.calculator.net/age-calculator.html",
+     "https://www.calculator.net/date-calculator.html",
+     "https://www.calculator.net/time-calculator.html",
+     "https://www.calculator.net/hours-calculator.html",
+     "https://www.calculator.net/gpa-calculator.html",
+     "https://www.calculator.net/grade-calculator.html",
+     "https://www.calculator.net/height-calculator.html",
+     "https://www.calculator.net/ip-subnet-calculator.html",
+     "https://www.calculator.net/bra-size-calculator.html",
+     "https://www.calculator.net/password-generator.html",
+     "https://www.calculator.net/dice-roller.html",
+     "https://www.calculator.net/conversion-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   }
+  },
+  "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?do=pop": {
+   "url": "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?do=pop",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?do=pop",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-21T18:53:45.120Z",
+   "title": "Concrete Calculator",
+   "metaDescription": "Calculate amount of concrete you need and estimate cost for concrete slabs, footers, walls, columns, steps, curbs and gutters. Estimate ready mix volume and cost.",
+   "canonical": "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php",
+   "lang": "en",
+   "h1": [
+    "Concrete Calculator"
+   ],
+   "h2": [
+    "Calculate Volume of Square Slab",
+    "Example Project: Filling Round Concrete Tubes",
+    "What is Concrete?",
+    "Use a Concrete Calculator to Estimate Common Projects",
+    "Recommended Thickness Guide",
+    "Tips for Accurate Estimates",
+    "Concrete Volume Formulas and Forms",
+    "Frequently Asked Questions"
+   ],
+   "h3": [
+    "Square Slab",
+    "Round Slab",
+    "Wall",
+    "Footer",
+    "Square Column",
+    "Round Column",
+    "Tube",
+    "Steps",
+    "Curbs and Gutters",
+    "How many bags are in one cubic yard of concrete?",
+    "How much does a cubic yard of concrete weigh?",
+    "How much extra concrete should I order?",
+    "How long does concrete take to cure?",
+    "What weather is best for pouring concrete?",
+    "How do I use the calculator for irregular shapes or slopes?",
+    "Should I use bagged concrete or ready mix?",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Concrete Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Calculate Volume of Square Slab"
+    },
+    {
+     "level": 2,
+     "text": "Example Project: Filling Round Concrete Tubes"
+    },
+    {
+     "level": 2,
+     "text": "What is Concrete?"
+    },
+    {
+     "level": 2,
+     "text": "Use a Concrete Calculator to Estimate Common Projects"
+    },
+    {
+     "level": 2,
+     "text": "Recommended Thickness Guide"
+    },
+    {
+     "level": 2,
+     "text": "Tips for Accurate Estimates"
+    },
+    {
+     "level": 2,
+     "text": "Concrete Volume Formulas and Forms"
+    },
+    {
+     "level": 3,
+     "text": "Square Slab"
+    },
+    {
+     "level": 4,
+     "text": "Calculate concrete volume of a square slab"
+    },
+    {
+     "level": 3,
+     "text": "Round Slab"
+    },
+    {
+     "level": 4,
+     "text": "Calculate concrete volume of a round slab"
+    },
+    {
+     "level": 3,
+     "text": "Wall"
+    },
+    {
+     "level": 4,
+     "text": "Calculate concrete volume of a wall"
+    },
+    {
+     "level": 3,
+     "text": "Footer"
+    },
+    {
+     "level": 4,
+     "text": "Calculate concrete volume of a footer"
+    },
+    {
+     "level": 3,
+     "text": "Square Column"
+    },
+    {
+     "level": 4,
+     "text": "Calculate concrete volume of a square column"
+    },
+    {
+     "level": 3,
+     "text": "Round Column"
+    },
+    {
+     "level": 4,
+     "text": "Calculate concrete volume of a round column"
+    },
+    {
+     "level": 3,
+     "text": "Tube"
+    },
+    {
+     "level": 4,
+     "text": "Calculate concrete volume of a tube"
+    },
+    {
+     "level": 3,
+     "text": "Steps"
+    },
+    {
+     "level": 4,
+     "text": "Calculate concrete volume of steps"
+    },
+    {
+     "level": 3,
+     "text": "Curbs and Gutters"
+    },
+    {
+     "level": 4,
+     "text": "Calculate concrete volume of curbs and gutters"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "How many bags are in one cubic yard of concrete?"
+    },
+    {
+     "level": 3,
+     "text": "How much does a cubic yard of concrete weigh?"
+    },
+    {
+     "level": 3,
+     "text": "How much extra concrete should I order?"
+    },
+    {
+     "level": 3,
+     "text": "How long does concrete take to cure?"
+    },
+    {
+     "level": 3,
+     "text": "What weather is best for pouring concrete?"
+    },
+    {
+     "level": 3,
+     "text": "How do I use the calculator for irregular shapes or slopes?"
+    },
+    {
+     "level": 3,
+     "text": "Should I use bagged concrete or ready mix?"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 1754,
+   "faqs": [
+    "What is Concrete?",
+    "How many bags are in one cubic yard of concrete?",
+    "How much does a cubic yard of concrete weigh?",
+    "How much extra concrete should I order?",
+    "How long does concrete take to cure?",
+    "What weather is best for pouring concrete?",
+    "How do I use the calculator for irregular shapes or slopes?",
+    "Should I use bagged concrete or ready mix?"
+   ],
+   "topics": [
+    {
+     "term": "volume",
+     "weight": 73
+    },
+    {
+     "term": "cubic",
+     "weight": 65
+    },
+    {
+     "term": "concrete",
+     "weight": 54
+    },
+    {
+     "term": "cubic feet",
+     "weight": 54
+    },
+    {
+     "term": "feet",
+     "weight": 47
+    },
+    {
+     "term": "feet ft3",
+     "weight": 38
+    },
+    {
+     "term": "ft3",
+     "weight": 25
+    },
+    {
+     "term": "calculator",
+     "weight": 22
+    },
+    {
+     "term": "cubic yards",
+     "weight": 20
+    },
+    {
+     "term": "concrete calculator",
+     "weight": 18
+    },
+    {
+     "term": "calculate",
+     "weight": 15
+    },
+    {
+     "term": "cubic meters",
+     "weight": 15
+    },
+    {
+     "term": "concrete volume",
+     "weight": 15
+    },
+    {
+     "term": "calculate concrete",
+     "weight": 14
+    },
+    {
+     "term": "yards yd3",
+     "weight": 14
+    },
+    {
+     "term": "yd3 volume",
+     "weight": 14
+    },
+    {
+     "term": "yards",
+     "weight": 13
+    },
+    {
+     "term": "feet below",
+     "weight": 12
+    },
+    {
+     "term": "meters",
+     "weight": 11
+    },
+    {
+     "term": "thickness",
+     "weight": 11
+    },
+    {
+     "term": "area",
+     "weight": 11
+    },
+    {
+     "term": "steps",
+     "weight": 10
+    },
+    {
+     "term": "slab",
+     "weight": 10
+    },
+    {
+     "term": "width",
+     "weight": 9
+    },
+    {
+     "term": "round",
+     "weight": 9
+    },
+    {
+     "term": "below",
+     "weight": 9
+    },
+    {
+     "term": "measure",
+     "weight": 9
+    },
+    {
+     "term": "feet volume",
+     "weight": 9
+    },
+    {
+     "term": "yd3",
+     "weight": 9
+    },
+    {
+     "term": "depth",
+     "weight": 8
+    }
+   ],
+   "schemaTypes": [],
+   "tables": 2,
+   "lists": 2,
+   "images": 10,
+   "videos": 0,
+   "calculatorInputs": [
+    "Calculate for",
+    "Depth =",
+    "height unit",
+    "Length =",
+    "length unit",
+    "Width =",
+    "width unit",
+    "Quantity =",
+    "currency",
+    "price",
+    "per cubic",
+    "calculateButton",
+    "reset",
+    "Share this Calculation"
+   ],
+   "links": {
+    "internal": 27,
+    "external": 0,
+    "contentInternal": 16,
+    "contentExternal": 0,
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/construction/",
+     "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php",
+     "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?do=pop#calculationImage",
+     "https://www.calculatorsoup.com/suggest-calculator.php?pageurl=https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php&do=pop",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=construction%2F&folderName=Construction&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php&h1=Concrete+Calculator&pop_w=400&pop_h=800",
+     "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?given_data=slab-square",
+     "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?given_data=slab-round",
+     "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?given_data=wall",
+     "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?given_data=footer",
+     "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?given_data=column-square",
+     "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?given_data=column-round",
+     "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?given_data=tube",
+     "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?given_data=steps",
+     "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?given_data=curb"
+    ],
+    "externalSample": []
+   }
+  },
+  "https://www.omnicalculator.com/construction/concrete-slab": {
+   "url": "https://www.omnicalculator.com/construction/concrete-slab",
+   "finalUrl": "https://www.omnicalculator.com/construction/concrete-slab",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-21T18:53:48.272Z",
+   "title": "Concrete Calculator",
+   "metaDescription": "Concrete calculator – evaluate the amount of concrete and cement needed for a slab block.",
+   "canonical": "https://www.omnicalculator.com/construction/concrete-slab",
+   "lang": "en",
+   "h1": [
+    "Concrete Calculator"
+   ],
+   "h2": [
+    "Concrete definition",
+    "Why use the CONCRETE CALCULATOR?",
+    "How much concrete do I need?",
+    "An example calculation",
+    "Concrete slab cost",
+    "How to make concrete?",
+    "Concrete vs. cement",
+    "Types of concrete",
+    "FAQs"
+   ],
+   "h3": [
+    "What is concrete made of?",
+    "When was concrete invented?",
+    "How long does concrete take to dry?",
+    "How much does a yard of concrete weigh?",
+    "How many bags of concrete do I need per yard?",
+    "How many 80lb bags of concrete do I need per yard?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Concrete Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Concrete definition"
+    },
+    {
+     "level": 2,
+     "text": "Why use the CONCRETE CALCULATOR?"
+    },
+    {
+     "level": 2,
+     "text": "How much concrete do I need?"
+    },
+    {
+     "level": 2,
+     "text": "An example calculation"
+    },
+    {
+     "level": 2,
+     "text": "Concrete slab cost"
+    },
+    {
+     "level": 2,
+     "text": "How to make concrete?"
+    },
+    {
+     "level": 2,
+     "text": "Concrete vs. cement"
+    },
+    {
+     "level": 2,
+     "text": "Types of concrete"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What is concrete made of?"
+    },
+    {
+     "level": 3,
+     "text": "When was concrete invented?"
+    },
+    {
+     "level": 3,
+     "text": "How long does concrete take to dry?"
+    },
+    {
+     "level": 3,
+     "text": "How much does a yard of concrete weigh?"
+    },
+    {
+     "level": 3,
+     "text": "How many bags of concrete do I need per yard?"
+    },
+    {
+     "level": 3,
+     "text": "How many 80lb bags of concrete do I need per yard?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 2088,
+   "faqs": [
+    "What is concrete made of?",
+    "When was concrete invented?",
+    "How long does concrete take to dry?",
+    "How much does a yard of concrete weigh?",
+    "How many bags of concrete do I need per yard?",
+    "How many 80lb bags of concrete do I need per yard?",
+    "Why use the CONCRETE CALCULATOR?",
+    "How much concrete do I need?",
+    "How to make concrete?"
+   ],
+   "topics": [
+    {
+     "term": "concrete",
+     "weight": 114
+    },
+    {
+     "term": "need",
+     "weight": 25
+    },
+    {
+     "term": "cement",
+     "weight": 22
+    },
+    {
+     "term": "used",
+     "weight": 19
+    },
+    {
+     "term": "calculator",
+     "weight": 17
+    },
+    {
+     "term": "bag",
+     "weight": 16
+    },
+    {
+     "term": "bags",
+     "weight": 16
+    },
+    {
+     "term": "feet",
+     "weight": 14
+    },
+    {
+     "term": "much",
+     "weight": 13
+    },
+    {
+     "term": "weight",
+     "weight": 12
+    },
+    {
+     "term": "cost",
+     "weight": 12
+    },
+    {
+     "term": "cubic",
+     "weight": 12
+    },
+    {
+     "term": "concrete calculator",
+     "weight": 9
+    },
+    {
+     "term": "much concrete",
+     "weight": 9
+    },
+    {
+     "term": "many",
+     "weight": 9
+    },
+    {
+     "term": "have",
+     "weight": 9
+    },
+    {
+     "term": "volume",
+     "weight": 8
+    },
+    {
+     "term": "density",
+     "weight": 8
+    },
+    {
+     "term": "you'll",
+     "weight": 8
+    },
+    {
+     "term": "water",
+     "weight": 8
+    },
+    {
+     "term": "yard",
+     "weight": 8
+    },
+    {
+     "term": "cubic feet",
+     "weight": 8
+    },
+    {
+     "term": "check",
+     "weight": 7
+    },
+    {
+     "term": "paste",
+     "weight": 7
+    },
+    {
+     "term": "area",
+     "weight": 6
+    },
+    {
+     "term": "slab",
+     "weight": 6
+    },
+    {
+     "term": "slab cost",
+     "weight": 6
+    },
+    {
+     "term": "estimate",
+     "weight": 6
+    },
+    {
+     "term": "many bags",
+     "weight": 6
+    },
+    {
+     "term": "concrete slab",
+     "weight": 6
+    }
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "tables": 1,
+   "lists": 5,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "Concrete form"
+   ],
+   "links": {
+    "internal": 25,
+    "external": 1,
+    "contentInternal": 9,
+    "contentExternal": 1,
+    "internalSample": [
+     "https://www.omnicalculator.com/construction/rebar",
+     "https://www.omnicalculator.com/construction/concrete-column",
+     "https://www.omnicalculator.com/construction/concrete-tube",
+     "https://www.omnicalculator.com/construction/sand",
+     "https://www.omnicalculator.com/construction/gravel",
+     "https://www.omnicalculator.com/construction/concrete-block",
+     "https://www.omnicalculator.com/construction/concrete-weight",
+     "https://www.omnicalculator.com/construction/stone",
+     "https://www.omnicalculator.com/construction/board-and-batten"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   }
+  },
+  "https://www.inchcalculator.com/concrete-calculator": {
+   "url": "https://www.inchcalculator.com/concrete-calculator",
+   "finalUrl": "https://www.inchcalculator.com/concrete-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-21T18:54:07.948Z",
+   "title": "Concrete Calculator - Find How Many Yards You Need - Inch Calculator",
+   "metaDescription": "Calculate concrete in yards or pre-mixed bags for a slab, footing, wall, or other project. Plus, calculate concrete price for the project.",
+   "canonical": "https://www.inchcalculator.com/concrete-calculator/",
+   "lang": "en",
+   "h1": [
+    "Concrete Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Concrete Needed",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate Concrete",
+    "How Many Bags of Concrete Do You Need?",
+    "How to Calculate Concrete Costs",
+    "Tips for Preparing for a Ready-Mix Concrete Pour",
+    "Frequently Asked Questions",
+    "Similar Masonry Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Pre-mixed Bags",
+    "Estimated Cost",
+    "Steps to Calculate Concrete in Yards",
+    "How Much is a Yard of Concrete?",
+    "Concrete Cubic Yards Formulas",
+    "Concrete Cost per Yard",
+    "Cost per Bag",
+    "How much does a yard of concrete cover?",
+    "How much concrete is in a truck?",
+    "How many bags of concrete make a yard?",
+    "What is the correct mix for concrete?",
+    "How much does a yard of concrete weigh?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Concrete Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Concrete Needed"
+    },
+    {
+     "level": 3,
+     "text": "Pre-mixed Bags"
+    },
+    {
+     "level": 3,
+     "text": "Estimated Cost"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Concrete"
+    },
+    {
+     "level": 3,
+     "text": "Steps to Calculate Concrete in Yards"
+    },
+    {
+     "level": 3,
+     "text": "How Much is a Yard of Concrete?"
+    },
+    {
+     "level": 3,
+     "text": "Concrete Cubic Yards Formulas"
+    },
+    {
+     "level": 4,
+     "text": "Square and Rectangular Areas"
+    },
+    {
+     "level": 4,
+     "text": "Circular and Cylindrical Areas"
+    },
+    {
+     "level": 4,
+     "text": "Complex Shapes"
+    },
+    {
+     "level": 2,
+     "text": "How Many Bags of Concrete Do You Need?"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Concrete Costs"
+    },
+    {
+     "level": 3,
+     "text": "Concrete Cost per Yard"
+    },
+    {
+     "level": 3,
+     "text": "Cost per Bag"
+    },
+    {
+     "level": 2,
+     "text": "Tips for Preparing for a Ready-Mix Concrete Pour"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "How much does a yard of concrete cover?"
+    },
+    {
+     "level": 3,
+     "text": "How much concrete is in a truck?"
+    },
+    {
+     "level": 3,
+     "text": "How many bags of concrete make a yard?"
+    },
+    {
+     "level": 3,
+     "text": "What is the correct mix for concrete?"
+    },
+    {
+     "level": 3,
+     "text": "How much does a yard of concrete weigh?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Masonry Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 1924,
+   "faqs": [
+    "How much does a yard of concrete cover?",
+    "How much concrete is in a truck?",
+    "How many bags of concrete make a yard?",
+    "What is the correct mix for concrete?",
+    "How much does a yard of concrete weigh?",
+    "How Much is a Yard of Concrete?",
+    "How Many Bags of Concrete Do You Need?"
+   ],
+   "topics": [
+    {
+     "term": "concrete",
+     "weight": 70
+    },
+    {
+     "term": "bags",
+     "weight": 36
+    },
+    {
+     "term": "mix",
+     "weight": 22
+    },
+    {
+     "term": "cubic",
+     "weight": 21
+    },
+    {
+     "term": "yard",
+     "weight": 21
+    },
+    {
+     "term": "calculator",
+     "weight": 16
+    },
+    {
+     "term": "pre",
+     "weight": 15
+    },
+    {
+     "term": "project",
+     "weight": 14
+    },
+    {
+     "term": "height",
+     "weight": 14
+    },
+    {
+     "term": "needed",
+     "weight": 14
+    },
+    {
+     "term": "ready mix",
+     "weight": 14
+    },
+    {
+     "term": "pre mix",
+     "weight": 14
+    },
+    {
+     "term": "calculate",
+     "weight": 13
+    },
+    {
+     "term": "yards",
+     "weight": 13
+    },
+    {
+     "term": "cubic yard",
+     "weight": 12
+    },
+    {
+     "term": "volume",
+     "weight": 12
+    },
+    {
+     "term": "width",
+     "weight": 11
+    },
+    {
+     "term": "cubic yards",
+     "weight": 11
+    },
+    {
+     "term": "ready",
+     "weight": 10
+    },
+    {
+     "term": "cost",
+     "weight": 10
+    },
+    {
+     "term": "need",
+     "weight": 9
+    },
+    {
+     "term": "pour",
+     "weight": 9
+    },
+    {
+     "term": "concrete needed",
+     "weight": 9
+    },
+    {
+     "term": "bag",
+     "weight": 9
+    },
+    {
+     "term": "calculate concrete",
+     "weight": 9
+    },
+    {
+     "term": "many",
+     "weight": 9
+    },
+    {
+     "term": "feet",
+     "weight": 9
+    },
+    {
+     "term": "slab",
+     "weight": 8
+    },
+    {
+     "term": "length",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    }
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "tables": 2,
+   "lists": 4,
+   "images": 20,
+   "videos": 0,
+   "calculatorInputs": [
+    "search for a calculator",
+    "search for a calculator",
+    "Project",
+    "Length",
+    "Length Units",
+    "Width",
+    "Width Units",
+    "Diameter",
+    "Diameter Units",
+    "Thickness",
+    "Thickness Units",
+    "Monolithic Slab",
+    "Width",
+    "Width Units",
+    "Depth",
+    "Depth Units",
+    "Diameter",
+    "Diameter Units",
+    "Height",
+    "Height Units",
+    "Bell Footing",
+    "Diameter",
+    "Diameter Units",
+    "Height",
+    "Height Units",
+    "Length",
+    "Length Units",
+    "Height",
+    "Height Units",
+    "Thickness"
+   ],
+   "links": {
+    "internal": 62,
+    "external": 18,
+    "contentInternal": 38,
+    "contentExternal": 12,
+    "internalSample": [
+     "https://www.inchcalculator.com/concrete-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/concrete/",
+     "https://www.inchcalculator.com/concrete-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/concrete-calculator/#idx_how_to_calculate_concrete",
+     "https://www.inchcalculator.com/concrete-calculator/#idx_steps_to_calculate_concrete_in_yards",
+     "https://www.inchcalculator.com/concrete-calculator/#idx_how_much_is_a_yard_of_concrete",
+     "https://www.inchcalculator.com/concrete-calculator/#idx_concrete_cubic_yards_formulas",
+     "https://www.inchcalculator.com/concrete-calculator/#idx_how_to_estimate_premix",
+     "https://www.inchcalculator.com/concrete-calculator/#idx_how_to_calculate_concrete_costs",
+     "https://www.inchcalculator.com/concrete-calculator/#idx_tips_for_preparing_for_a_ready-mix_concrete_pour",
+     "https://www.inchcalculator.com/concrete-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/concrete-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/sarabeth-asaff-south/",
+     "https://www.inchcalculator.com/concrete-calculator/",
+     "https://www.inchcalculator.com/concrete-mix-calculator/",
+     "https://www.inchcalculator.com/concrete-footing-calculator/",
+     "https://www.inchcalculator.com/rectangle-calculator/",
+     "https://www.inchcalculator.com/convert/inch-to-foot/",
+     "https://www.inchcalculator.com/convert/yard-to-foot/",
+     "https://www.inchcalculator.com/convert/meter-to-foot/",
+     "https://www.inchcalculator.com/volume-calculator/",
+     "https://www.inchcalculator.com/concrete-calculator/#idx_premix_to_yards",
+     "https://www.inchcalculator.com/get-free-home-repair-estimates/?preset_project_type=Concrete%2C+Stone%2C+%26+Brick&preset_service_id=",
+     "https://www.inchcalculator.com/cubic-yards-calculator/"
+    ],
+    "externalSample": [
+     "https://apps.apple.com/app/concrete-calculator-plus/id1494386815",
+     "https://play.google.com/store/apps/details?id=com.inchcalculator.concrete_calculator",
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fconcrete-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fconcrete-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fconcrete-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fconcrete-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fconcrete-calculator%2F&text=Concrete+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fconcrete-calculator%2F&text=Concrete+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://www.familyhandyman.com/article/how-to-estimate-a-concrete-order/",
+     "https://www.liveabout.com/ready-mix-concrete-ordering-tips-844454",
+     "https://onthehouse.com/buying-concrete-12-tips-determing-project-success/"
+    ]
+   }
+  }
+ },
+ "failed": {
+  "https://www.pearson.com/channels/ko-kr/calculators/concrete-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.housecallpro.com/general-contractor/templates-calculators/concrete-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.jotform.com/products/apps/concrete-calculator-app/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.homeadvisor.com/r/concrete-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.gigacalculator.com/calculators/concrete-calculator.php": [
+   "disallowed by robots.txt"
+  ],
+  "https://www.homedit.com/calculators/concrete-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://forconstructionpros.com/concrete/article/21135667/concrete-calculator-shortcuts-to-the-order": [
+   "unreachable (fetch failed)"
+  ],
+  "https://apps.apple.com/app/id6742077717": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

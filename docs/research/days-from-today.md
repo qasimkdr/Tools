@@ -9,7 +9,7 @@
   omnicalculator `/everyday-life/90-day`, `/6-month`, `/120-day`, `/week` and calculator.net `/day-counter.html`.
   → `/days-from-today/<n>/`, `/weeks-from-today/<n>/`, `/months-from-today/<n>/` for values with ≥ ~1K volume (105 pages).
 
-## Competitor notes (verified 2026-11-21 with `npm run seo:scrape`; raw data: `data/research/days-from-today/competitors.json`, report: `days-from-today.report.md`)
+## Competitor notes (verified 2026-11-21 with `npm run seo:scrape`; raw data + report: `research/days-from-today/`)
 Live Google rankings/PAA not fetched: DataForSEO not configured. URLs below come from the Semrush file + SERP titles seen earlier.
 | Page | Words | Title (len) | Schema | Notable |
 |---|---|---|---|---|

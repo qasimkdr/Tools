@@ -2,7 +2,7 @@
 // Step 1–3: Google US organic SERPs for a page's keywords → top-10 competitors.
 // Usage: node scripts/seo/serp.mjs --slug concrete-calculator [--max 3] [--device desktop|mobile] [--refresh]
 //        node scripts/seo/serp.mjs --csv path/semrush.csv --slug my-page
-// Output: data/research/<slug>/serp.json (cached; re-run with --refresh). Live API data only — nothing is estimated.
+// Output: research/<id>/serp.json (cached; re-run with --refresh). Live API data only — nothing is estimated.
 import path from "node:path";
 import { args, dfs, dirFor, loadKeywords, readJSON, writeJSON, isCompetitor, rootDomain, sleep } from "./lib.mjs";
 

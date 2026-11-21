@@ -4,7 +4,7 @@
 //   npm run seo:record -- --slug concrete-calculator --kw "concrete calculator" \
 //     --results '[{"url":"https://www.calculator.net/concrete-calculator.html","title":"Concrete Calculator"}, ...]'
 //   (or --file results.json containing the same array)
-// Writes into data/research/<slug>/serp.json in the same shape as serp.mjs, so scrape.mjs/report.mjs work unchanged.
+// Writes into research/<id>/serp.json in the same shape as serp.mjs, so scrape.mjs/report.mjs work unchanged.
 // HONESTY RULES: list results in the exact order the search returned them; never add URLs that weren't returned;
 // `rank` here = position in web-search output, NOT a verified Google rank (the report labels it that way).
 import fs from "node:fs";
@@ -29,7 +29,7 @@ cache.keywords[a.kw] = {
   provider: "agent-websearch", rankNote: "position in web-search output, not a verified Google rank",
   fileVolume: kwData?.vol ?? null, fileKd: kwData?.kd ?? null,
   seResultsCount: null, features: [], featuredSnippet: null, peopleAlsoAsk: [], relatedSearches: [],
-  organic: list.slice(0, 10).map((r, i) => ({ rank: i + 1, url: r.url, domain: new URL(r.url).hostname, title: r.title ?? null, description: r.description ?? null })),
+  organic: list.slice(0, Number(a.max || 20)).map((r, i) => ({ rank: i + 1, url: r.url, domain: new URL(r.url).hostname, title: r.title ?? null, description: r.description ?? null })),
 };
 
 const agg = new Map();

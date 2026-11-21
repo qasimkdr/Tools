@@ -1,0 +1,2950 @@
+{
+ "items": [
+  {
+   "id": "days-from-today",
+   "keyword": "14 days from today",
+   "vol": 110000,
+   "kd": 17,
+   "status": "done",
+   "pages": 4,
+   "updatedAt": "2026-11-21T18:53:36.363Z"
+  },
+  {
+   "id": "payment-calculator",
+   "keyword": "payment calculator",
+   "vol": 74000,
+   "kd": 16,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "proportion-calculator",
+   "keyword": "proportion calculator",
+   "vol": 1200000,
+   "kd": 31,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "interest-rate-calculator",
+   "keyword": "interest rate calculator",
+   "vol": 27100,
+   "kd": 7,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "ratio-calculator",
+   "keyword": "ratio calculator",
+   "vol": 1500000,
+   "kd": 34,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "age-calculator",
+   "keyword": "age calculator",
+   "vol": 1000000,
+   "kd": 29,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "discount-calculator",
+   "keyword": "discount calculator",
+   "vol": 33100,
+   "kd": 11,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "hypotenuse-calculator",
+   "keyword": "pythagoras equation solver",
+   "vol": 18100,
+   "kd": 42,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "period-calculator",
+   "keyword": "period calculator",
+   "vol": 40500,
+   "kd": 16,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "random-number-generator",
+   "keyword": "random 4 digit number generator",
+   "vol": 2900,
+   "kd": 24,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "cubic-yard-calculator",
+   "keyword": "cubic yard calculator",
+   "vol": 27100,
+   "kd": 18,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "gravel-and-stone-calculator",
+   "keyword": "stone calculator",
+   "vol": 12100,
+   "kd": 13,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "army-body-fat-calculator",
+   "keyword": "army fitness calculator body fat",
+   "vol": 12100,
+   "kd": 13,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "401k-calculator",
+   "keyword": "401k calculator",
+   "vol": 135000,
+   "kd": 26,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "sand-calculator",
+   "keyword": "sand calculator",
+   "vol": 8100,
+   "kd": 9,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "right-triangle-calculator",
+   "keyword": "right triangle calculator",
+   "vol": 27100,
+   "kd": 24,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "ap-world-history-score-calculator",
+   "keyword": "ap world calculator",
+   "vol": 6600,
+   "kd": 4,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "gpa-calculator",
+   "keyword": "gpa calculator for middle schoolers",
+   "vol": 9900,
+   "kd": 19,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "square-footage-calculator",
+   "keyword": "square footage calculator",
+   "vol": 74000,
+   "kd": 31,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "hours-calculator",
+   "keyword": "hours from now calculator",
+   "vol": 2900,
+   "kd": 21,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "bench-press-max-calculator",
+   "keyword": "bench press max calculator",
+   "vol": 4400,
+   "kd": 0,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "triangle-calculator",
+   "keyword": "right angle triangle calculator",
+   "vol": 14800,
+   "kd": 20,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "molecular-weight-calculator",
+   "keyword": "molecular weight calculator",
+   "vol": 1000000,
+   "kd": 39,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "bowling-score-calculator",
+   "keyword": "bowling score calculator",
+   "vol": 4400,
+   "kd": 5,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "air-force-pt-test-calculator",
+   "keyword": "air force pt calculator",
+   "vol": 5400,
+   "kd": 8,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "square-root-calculator",
+   "keyword": "racine carree calculator",
+   "vol": 6600,
+   "kd": 10,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "fraction-calculator",
+   "keyword": "mixed fraction calculator",
+   "vol": 9900,
+   "kd": 18,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "how-many-years-calculator",
+   "keyword": "how many years calculator",
+   "vol": 4400,
+   "kd": 2,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "mortgage-calculator",
+   "keyword": "mortgage calculator idaho",
+   "vol": 2400,
+   "kd": 14,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "cylinder-volume-calculator",
+   "keyword": "volume calculator cylinder",
+   "vol": 1600,
+   "kd": 30,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "date-calculator",
+   "keyword": "add days calculator",
+   "vol": 4400,
+   "kd": 33,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "overtime-calculator",
+   "keyword": "overtime calculator",
+   "vol": 14800,
+   "kd": 19,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "paycheck-calculator",
+   "keyword": "hourly wage and tax calculator",
+   "vol": 3600,
+   "kd": 1,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "asphalt-calculator",
+   "keyword": "bitumen calculator",
+   "vol": 14800,
+   "kd": 16,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "ap-biology-score-calculator",
+   "keyword": "ap bio score calculator",
+   "vol": 9900,
+   "kd": 16,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "bmi-women-calculator",
+   "keyword": "women bmi calculator",
+   "vol": 5400,
+   "kd": 9,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "ap-chemistry-score-calculator",
+   "keyword": "ap chemistry score calculator",
+   "vol": 4400,
+   "kd": 3,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "concrete-calculator",
+   "keyword": "concrete calculator",
+   "vol": 301000,
+   "kd": 40,
+   "status": "done",
+   "pages": 4,
+   "updatedAt": "2026-11-21T18:54:10.553Z"
+  },
+  {
+   "id": "npv-calculator",
+   "keyword": "npv calculator",
+   "vol": 4400,
+   "kd": 7,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "weeks-calculator",
+   "keyword": "weeks calculator",
+   "vol": 3600,
+   "kd": 1,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "half-birthday-calculator",
+   "keyword": "half birthday calculator",
+   "vol": 5400,
+   "kd": 10,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "dog-pregnancy-calculator",
+   "keyword": "dog pregnancy calculator",
+   "vol": 3600,
+   "kd": 3,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "binary-calculator",
+   "keyword": "binary converter",
+   "vol": 1200000,
+   "kd": 43,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "pool-salt-calculator",
+   "keyword": "pool salt calculator",
+   "vol": 8100,
+   "kd": 16,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "rafter-length-calculator",
+   "keyword": "rafter length calculator",
+   "vol": 3600,
+   "kd": 8,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "stair-calculator",
+   "keyword": "stairs calculator",
+   "vol": 4400,
+   "kd": 13,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "scientific-notation-calculator",
+   "keyword": "scientific notation converter",
+   "vol": 3600,
+   "kd": 12,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "hr-calculator",
+   "keyword": "hr calculator",
+   "vol": 3600,
+   "kd": 7,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "grade-calculator",
+   "keyword": "final grade calculator",
+   "vol": 165000,
+   "kd": 41,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "time-to-decimal-calculator",
+   "keyword": "hours to decimal calculator",
+   "vol": 6600,
+   "kd": 23,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "modified-adjusted-gross-income-calculator",
+   "keyword": "modified adjusted gross income calculator",
+   "vol": 2900,
+   "kd": 3,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "money-market-calculator",
+   "keyword": "money market calculator",
+   "vol": 4400,
+   "kd": 10,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "confidence-interval-calculator",
+   "keyword": "confidence interval calculator",
+   "vol": 3600,
+   "kd": 10,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "superscript-generator",
+   "keyword": "superscript generator",
+   "vol": 9900,
+   "kd": 20,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "earned-run-average-calculator",
+   "keyword": "era calculator",
+   "vol": 8100,
+   "kd": 18,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "ap-statistics-score-calculator",
+   "keyword": "ap stats grading calculator",
+   "vol": 4400,
+   "kd": 8,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "gcf-calculator",
+   "keyword": "gcf calculator",
+   "vol": 1200000,
+   "kd": 47,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "apr-calculator",
+   "keyword": "apr calculator",
+   "vol": 27100,
+   "kd": 24,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "wire-size-calculator",
+   "keyword": "wire gauge calculator",
+   "vol": 5400,
+   "kd": 16,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "miscarriage-calculator",
+   "keyword": "miscarriage calculator",
+   "vol": 4400,
+   "kd": 9,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "cone-volume-calculator",
+   "keyword": "cone volume calculator",
+   "vol": 2400,
+   "kd": 37,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "normal-cdf-calculator",
+   "keyword": "normal cdf calculator",
+   "vol": 4400,
+   "kd": 11,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "fraction-to-fraction-calculator",
+   "keyword": "fraction to fraction calculator",
+   "vol": 4400,
+   "kd": 11,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "matrix-inverse-calculator",
+   "keyword": "inverse matrix calculator",
+   "vol": 6600,
+   "kd": 15,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "credit-card-payoff-calculator",
+   "keyword": "credit card pay off calculator",
+   "vol": 1900,
+   "kd": 12,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "voltage-drop-calculator",
+   "keyword": "voltage drop calculator",
+   "vol": 22200,
+   "kd": 25,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "circle-skirt-calculator",
+   "keyword": "circle skirt calculator",
+   "vol": 4400,
+   "kd": 11,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "cross-stitch-calculator",
+   "keyword": "cross stitch calculator",
+   "vol": 4400,
+   "kd": 11,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "fill-dirt-calculator",
+   "keyword": "fill dirt calculator",
+   "vol": 2900,
+   "kd": 6,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "hypergeometric-calculator",
+   "keyword": "hypergeometric calculator",
+   "vol": 4400,
+   "kd": 11,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "stud-calculator",
+   "keyword": "stud calculator",
+   "vol": 3600,
+   "kd": 12,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "board-foot-calculator",
+   "keyword": "board feet calculator",
+   "vol": 18100,
+   "kd": 23,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "soffit-calculator",
+   "keyword": "soffit calculator",
+   "vol": 1600,
+   "kd": 10,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "ap-english-language-score-calculator",
+   "keyword": "ap english language and composition score calculator",
+   "vol": 2400,
+   "kd": 4,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "schoology-grade-calculator",
+   "keyword": "schoology grade calculator",
+   "vol": 2400,
+   "kd": 4,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "money-counter",
+   "keyword": "money counter money counter",
+   "vol": 18100,
+   "kd": 21,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "soil-calculator",
+   "keyword": "topsoil calculator",
+   "vol": 8100,
+   "kd": 20,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "ffmi-calculator",
+   "keyword": "ffmi calculator",
+   "vol": 14800,
+   "kd": 21,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "hex-calculator",
+   "keyword": "hex calculator",
+   "vol": 5400,
+   "kd": 20,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "dunk-calculator",
+   "keyword": "dunk calculator",
+   "vol": 4400,
+   "kd": 12,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "horse-gestation-calculator",
+   "keyword": "mare gestation period calculator",
+   "vol": 2900,
+   "kd": 9,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "linear-feet-calculator",
+   "keyword": "linear feet calculator",
+   "vol": 4400,
+   "kd": 14,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "pro-rata-calculator",
+   "keyword": "pro rata calculator",
+   "vol": 2900,
+   "kd": 7,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "water-intake-calculator",
+   "keyword": "water calculator",
+   "vol": 6600,
+   "kd": 31,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "steps-to-miles-calculator",
+   "keyword": "steps to miles calculator",
+   "vol": 14800,
+   "kd": 22,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "minecraft-circle",
+   "keyword": "minecraft circle generator",
+   "vol": 33100,
+   "kd": 29,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "density-altitude-calculator",
+   "keyword": "density altitude calculator",
+   "vol": 2900,
+   "kd": 14,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "height-calculator",
+   "keyword": "khamis-roche method height calculator",
+   "vol": 1600,
+   "kd": 11,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "weighted-mean-calculator",
+   "keyword": "weighted mean calculator",
+   "vol": 3600,
+   "kd": 11,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "one-rep-max-calculator",
+   "keyword": "deadlift calculator",
+   "vol": 1600,
+   "kd": 12,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "standard-deviation-calculator",
+   "keyword": "mean and standard deviation calculator",
+   "vol": 1900,
+   "kd": 5,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "river-rock-calculator",
+   "keyword": "river rock calculator",
+   "vol": 4400,
+   "kd": 14,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "body-fat-calculator",
+   "keyword": "body fat calculator u.s. navy",
+   "vol": 3600,
+   "kd": 26,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "tile-calculator",
+   "keyword": "tile sq ft calculator",
+   "vol": 1000,
+   "kd": 4,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "sourdough-calculator",
+   "keyword": "sourdough calculator",
+   "vol": 1600,
+   "kd": 1,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "pay-raise-calculator",
+   "keyword": "pay raise calculator",
+   "vol": 18100,
+   "kd": 26,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "audiobook-speed-calculator",
+   "keyword": "audiobook speed calculator",
+   "vol": 3600,
+   "kd": 12,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "cd-calculator",
+   "keyword": "cd interest calculator",
+   "vol": 14800,
+   "kd": 26,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "area-calculator",
+   "keyword": "surface area calculator",
+   "vol": 6600,
+   "kd": 22,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "grade-curve-calculator",
+   "keyword": "grade curve calculator",
+   "vol": 1900,
+   "kd": 4,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "btu-calculator",
+   "keyword": "air conditioner size calculator",
+   "vol": 1600,
+   "kd": 12,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "arrow-speed-calculator",
+   "keyword": "arrow speed calculator",
+   "vol": 2900,
+   "kd": 10,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "fd-calculator",
+   "keyword": "fd calculator",
+   "vol": 2400,
+   "kd": 10,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "volume-calculator",
+   "keyword": "pond volume calculator",
+   "vol": 1600,
+   "kd": 12,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "productivity-calculator",
+   "keyword": "productivity calculator",
+   "vol": 2900,
+   "kd": 10,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "date-difference-calculator",
+   "keyword": "time between calculator",
+   "vol": 2900,
+   "kd": 10,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "blood-pressure-by-age-calculator",
+   "keyword": "blood pressure by age calculator",
+   "vol": 2400,
+   "kd": 10,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "calories-burned-calculator",
+   "keyword": "kcal burned walking calculator",
+   "vol": 3600,
+   "kd": 33,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "pine-straw-calculator",
+   "keyword": "pine straw calculator",
+   "vol": 1000,
+   "kd": 0,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "split-calculator",
+   "keyword": "split calculator",
+   "vol": 2400,
+   "kd": 8,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "ohms-law-calculator",
+   "keyword": "ohm calculator",
+   "vol": 1000,
+   "kd": 21,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "fence-post-depth-calculator",
+   "keyword": "fence post depth calculator",
+   "vol": 1600,
+   "kd": 3,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "lead-time-calculator",
+   "keyword": "lead time calculator",
+   "vol": 2900,
+   "kd": 11,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "recessed-light-calculator",
+   "keyword": "recessed light calculator",
+   "vol": 1600,
+   "kd": 6,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "partial-fraction-calculator",
+   "keyword": "partial fraction calculator",
+   "vol": 2400,
+   "kd": 9,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "implicit-differentiation-calculator",
+   "keyword": "implicit differentiation calculator",
+   "vol": 1900,
+   "kd": 7,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "time-off-calculator",
+   "keyword": "time off calculator",
+   "vol": 1900,
+   "kd": 12,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "interest-calculator",
+   "keyword": "interest calculator",
+   "vol": 135000,
+   "kd": 42,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "decimals-calculator",
+   "keyword": "decimals calculator",
+   "vol": 2400,
+   "kd": 12,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "watts-to-amps-calculator",
+   "keyword": "watt wattage",
+   "vol": 5400,
+   "kd": 22,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "epoxy-resin-calculator",
+   "keyword": "epoxy resin calculator",
+   "vol": 1600,
+   "kd": 5,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "convert-eye-prescription-to-20-20-scale-calculator",
+   "keyword": "convert eye prescription to 20/20 scale calculator",
+   "vol": 1900,
+   "kd": 10,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "seller-financing-calculator",
+   "keyword": "seller financing calculator",
+   "vol": 1300,
+   "kd": 6,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "lri-calculator",
+   "keyword": "lri calculator",
+   "vol": 1300,
+   "kd": 2,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "molarity-calculator",
+   "keyword": "molarity calculator",
+   "vol": 18100,
+   "kd": 28,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "garage-door-spring-calculator",
+   "keyword": "garage door spring calculator",
+   "vol": 1000,
+   "kd": 3,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "lawn-mowing-cost-calculator",
+   "keyword": "lawn mowing cost calculator",
+   "vol": 1000,
+   "kd": 1,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "quarter-mile-calculator",
+   "keyword": "1/4 mile calculator",
+   "vol": 2400,
+   "kd": 11,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "how-long-will-retirement-savings-last-calculator",
+   "keyword": "how long will my retirement savings last calculator",
+   "vol": 2400,
+   "kd": 13,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "firewood-calculator",
+   "keyword": "firewood calculator cord",
+   "vol": 1900,
+   "kd": 8,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "nether-portal-calculator",
+   "keyword": "nether portal calculator",
+   "vol": 8100,
+   "kd": 21,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "arv-calculator",
+   "keyword": "arv calculator",
+   "vol": 1300,
+   "kd": 7,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "breastfeeding-calorie-calculator",
+   "keyword": "breastfeeding calorie calculator",
+   "vol": 1300,
+   "kd": 6,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "income-tax-calculator",
+   "keyword": "taxable income calculator",
+   "vol": 6600,
+   "kd": 41,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "vpd-calculator",
+   "keyword": "vpd calculator",
+   "vol": 1300,
+   "kd": 4,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "goat-gestation-calculator",
+   "keyword": "goat gestation calculator",
+   "vol": 2900,
+   "kd": 14,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "markup-calculator",
+   "keyword": "markup calculator",
+   "vol": 14800,
+   "kd": 27,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "50-to-1-gas-oil-mix-calculator",
+   "keyword": "50 to 1 gas oil mix calculator",
+   "vol": 1300,
+   "kd": 5,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "car-lease-vs-buy-calculator",
+   "keyword": "lease vs buy car calculator",
+   "vol": 1600,
+   "kd": 8,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "aspect-ratio-calculator",
+   "keyword": "aspect ratio calculator",
+   "vol": 12100,
+   "kd": 22,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "macro-calculator",
+   "keyword": "macroeconomics calculator",
+   "vol": 1600,
+   "kd": 16,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "vinegar-carbon-dosing-calculator-ml-per-ppm-nitrate",
+   "keyword": "vinegar carbon dosing calculator ml per ppm nitrate",
+   "vol": 1000,
+   "kd": 0,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "simplify-radicals-calculator",
+   "keyword": "simplifying radical expressions solver",
+   "vol": 1900,
+   "kd": 10,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "redacted-text-generator",
+   "keyword": "redacted text generator",
+   "vol": 1000,
+   "kd": 4,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "wedding-alcohol-calculator",
+   "keyword": "liquor calculator wedding",
+   "vol": 1900,
+   "kd": 12,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "mulch-calculator",
+   "keyword": "mulch calculator",
+   "vol": 27100,
+   "kd": 33,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "percent-calculator",
+   "keyword": "percent difference calculator",
+   "vol": 18100,
+   "kd": 37,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "army-fitness-test-aft-calculator",
+   "keyword": "aft calculator",
+   "vol": 18100,
+   "kd": 30,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "cement-block-calculator",
+   "keyword": "cement block calculator",
+   "vol": 1300,
+   "kd": 8,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "basis-point-calculator",
+   "keyword": "bps calculator",
+   "vol": 1900,
+   "kd": 11,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "voo-calculator",
+   "keyword": "voo calculator",
+   "vol": 1900,
+   "kd": 14,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "rounding-calculator",
+   "keyword": "rounding calculator",
+   "vol": 12100,
+   "kd": 29,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "tire-size-calculator",
+   "keyword": "tacoma tire calculator",
+   "vol": 1600,
+   "kd": 17,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "anniversary-calculator",
+   "keyword": "anniversary calculator",
+   "vol": 1300,
+   "kd": 6,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "gc-calculator",
+   "keyword": "gc calculator",
+   "vol": 1300,
+   "kd": 6,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "llc-tax-calculator",
+   "keyword": "llc tax calculator",
+   "vol": 1000,
+   "kd": 12,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "wainscoting-calculator",
+   "keyword": "wainscoting calculator",
+   "vol": 1300,
+   "kd": 9,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "percentage-decrease-calculator",
+   "keyword": "percent decrease calculator",
+   "vol": 12100,
+   "kd": 29,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "ovo-calculator",
+   "keyword": "ovo calculator",
+   "vol": 1900,
+   "kd": 12,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "minecraft-sphere-generator",
+   "keyword": "sphere minecraft generator",
+   "vol": 1900,
+   "kd": 12,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "study-score-calculator",
+   "keyword": "study score calculator",
+   "vol": 1900,
+   "kd": 12,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "rucking-calorie-calculator",
+   "keyword": "rucking calorie calculator",
+   "vol": 1600,
+   "kd": 10,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "sq-ft-to-linear-ft-calculator",
+   "keyword": "sq ft to linear ft calculator",
+   "vol": 1600,
+   "kd": 10,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "roofing-calculator",
+   "keyword": "roof calculator",
+   "vol": 4400,
+   "kd": 22,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "new-jersey-tax-calculator",
+   "keyword": "new jersey tax calculator",
+   "vol": 1300,
+   "kd": 13,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "average-calculator",
+   "keyword": "averages calculator",
+   "vol": 1300,
+   "kd": 18,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "puppy-weight-estimator",
+   "keyword": "puppy weight estimator",
+   "vol": 1300,
+   "kd": 11,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "horsepower-calculator",
+   "keyword": "horsepower calculator",
+   "vol": 1900,
+   "kd": 17,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "ski-din-calculator",
+   "keyword": "ski din calculator",
+   "vol": 1300,
+   "kd": 8,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "bowling-handicap-calculator",
+   "keyword": "bowling handicap calculator",
+   "vol": 1000,
+   "kd": 4,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "chatham-rate-cap-calculator",
+   "keyword": "chatham rate cap calculator",
+   "vol": 1000,
+   "kd": 4,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "halfway-point-between-two-cities-calculator",
+   "keyword": "halfway point between two cities calculator",
+   "vol": 1900,
+   "kd": 13,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "cake-pricing-calculator",
+   "keyword": "cake pricing calculator",
+   "vol": 1300,
+   "kd": 12,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "sheep-gestation-calculator",
+   "keyword": "sheep gestation calculator",
+   "vol": 1300,
+   "kd": 8,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "reputation-calculator",
+   "keyword": "reputation calculator",
+   "vol": 1300,
+   "kd": 9,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "boolean-algebra-calculator",
+   "keyword": "boolean algebra calculator",
+   "vol": 1600,
+   "kd": 11,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "five-number-summary-calculator",
+   "keyword": "five number summary calculator",
+   "vol": 1600,
+   "kd": 11,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "megawatt-calculator",
+   "keyword": "megawatt calculator",
+   "vol": 1600,
+   "kd": 11,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "substitution-calculator",
+   "keyword": "substitution calculator",
+   "vol": 1600,
+   "kd": 12,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "pool-shock-calculator",
+   "keyword": "pool shock calculator",
+   "vol": 1300,
+   "kd": 11,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "btz-calculator",
+   "keyword": "btz calculator",
+   "vol": 1900,
+   "kd": 14,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "reverse-bmi-calculator",
+   "keyword": "reverse bmi calculator",
+   "vol": 1300,
+   "kd": 13,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "cap-rate-calculator",
+   "keyword": "cap rate calculator",
+   "vol": 6600,
+   "kd": 24,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "binding-calculator",
+   "keyword": "binding calculator",
+   "vol": 1300,
+   "kd": 9,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "swim-time-converter",
+   "keyword": "time conversion calculator swimming",
+   "vol": 5400,
+   "kd": 22,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "cpm-calculator",
+   "keyword": "cpm calculator",
+   "vol": 27100,
+   "kd": 36,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "fence-calculator",
+   "keyword": "fence calculator",
+   "vol": 8100,
+   "kd": 39,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "weight-loss-percentage-calculator",
+   "keyword": "weight loss percentage calculator",
+   "vol": 6600,
+   "kd": 26,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "subwoofer-case-calculator",
+   "keyword": "subwoofer case calculator",
+   "vol": 1300,
+   "kd": 13,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "acres-per-hour-calculator",
+   "keyword": "acres per hour calculator",
+   "vol": 1000,
+   "kd": 9,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "nm-to-ft-lb",
+   "keyword": "n-m to ft lbs converter",
+   "vol": 12100,
+   "kd": 30,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "drywall-calculator",
+   "keyword": "drywall calculator",
+   "vol": 12100,
+   "kd": 30,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "credit-union-loan-calculator",
+   "keyword": "credit union loan calculator",
+   "vol": 1000,
+   "kd": 10,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "chocolate-for-dogs-calculator",
+   "keyword": "chocolate for dogs calculator",
+   "vol": 1600,
+   "kd": 13,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "cubic-feet-calculator",
+   "keyword": "cubic feet calculator",
+   "vol": 22200,
+   "kd": 35,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "watt-hour-calculator",
+   "keyword": "watt hour calculator",
+   "vol": 1600,
+   "kd": 13,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "kd-calculator",
+   "keyword": "kd calculator",
+   "vol": 1600,
+   "kd": 13,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "decking-calculator",
+   "keyword": "deck board calculator",
+   "vol": 6600,
+   "kd": 26,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "tsp-growth-calculator",
+   "keyword": "tsp growth calculator",
+   "vol": 1300,
+   "kd": 13,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "generator-birthday",
+   "keyword": "generator birthday",
+   "vol": 1000,
+   "kd": 9,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "fat-intake-calculator",
+   "keyword": "fat intake calculator",
+   "vol": 1300,
+   "kd": 15,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "hpt-calculator",
+   "keyword": "hpt calculator",
+   "vol": 1300,
+   "kd": 13,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "plate-rolling-calculator",
+   "keyword": "plate rolling calculator",
+   "vol": 1000,
+   "kd": 7,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "future-value-calculator",
+   "keyword": "future value calculator",
+   "vol": 33100,
+   "kd": 40,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "decathlon-calculator",
+   "keyword": "decathlon calculator",
+   "vol": 1300,
+   "kd": 11,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "running-record-calculator",
+   "keyword": "running record calculator",
+   "vol": 1300,
+   "kd": 11,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "timecode-calculator",
+   "keyword": "timecode calculator",
+   "vol": 1300,
+   "kd": 11,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "cow-gestation-calculator",
+   "keyword": "cattle gestation calculator",
+   "vol": 6600,
+   "kd": 23,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "drip-calculator-online",
+   "keyword": "drip calculator online",
+   "vol": 1600,
+   "kd": 14,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "exponent-calculator",
+   "keyword": "exponents calculator",
+   "vol": 2400,
+   "kd": 41,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "compound-interest-calculator",
+   "keyword": "cd compound interest calculator",
+   "vol": 1300,
+   "kd": 28,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "rim-offset-calculator",
+   "keyword": "rim offset calculator",
+   "vol": 1300,
+   "kd": 13,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "deadline-calculator",
+   "keyword": "deadline calculator",
+   "vol": 6600,
+   "kd": 33,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "apy-calculator",
+   "keyword": "apy calculator",
+   "vol": 33100,
+   "kd": 40,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "vat-calculator",
+   "keyword": "vat calculator",
+   "vol": 1300,
+   "kd": 12,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "rmd-calculator",
+   "keyword": "rmd calculator",
+   "vol": 74000,
+   "kd": 42,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "speed-calculator",
+   "keyword": "speed calculator",
+   "vol": 6600,
+   "kd": 30,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "tv-mounting-height-calculator",
+   "keyword": "tv mounting height calculator",
+   "vol": 1000,
+   "kd": 11,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "basis-calculator",
+   "keyword": "basis calculator",
+   "vol": 1300,
+   "kd": 13,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "brick-calculator",
+   "keyword": "brick calculator",
+   "vol": 5400,
+   "kd": 25,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "numerical-expression-calculator",
+   "keyword": "numerical expression calculator",
+   "vol": 1000,
+   "kd": 9,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "wire-length-calculator",
+   "keyword": "wire length calculator",
+   "vol": 1300,
+   "kd": 14,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "stem-and-leaf-plot-generator",
+   "keyword": "stem and leaf plot generator",
+   "vol": 1000,
+   "kd": 13,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "gear-ratio-calculator",
+   "keyword": "tremec gear ratio calculator",
+   "vol": 1000,
+   "kd": 13,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "cc-in-hp-converter",
+   "keyword": "cc in hp converter",
+   "vol": 1300,
+   "kd": 13,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "battery-run-time-calculator",
+   "keyword": "battery run time calculator",
+   "vol": 1000,
+   "kd": 13,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "bra-size-calculator",
+   "keyword": "bras measurement calculator",
+   "vol": 6600,
+   "kd": 31,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "christmas-tree-light-calculator",
+   "keyword": "christmas tree light calculator",
+   "vol": 1000,
+   "kd": 10,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "ops-calculator",
+   "keyword": "ops calculator",
+   "vol": 1000,
+   "kd": 10,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "binomial-distribution-calculator",
+   "keyword": "binomial distribution calculator",
+   "vol": 5400,
+   "kd": 26,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "missouri-child-support-calculator",
+   "keyword": "missouri child support calculator",
+   "vol": 1300,
+   "kd": 14,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "octagon-calculator",
+   "keyword": "octagon calculator",
+   "vol": 1300,
+   "kd": 14,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "winrate-calculator",
+   "keyword": "winrate calculator",
+   "vol": 1300,
+   "kd": 14,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "matrix-calculator",
+   "keyword": "8x8 calculator",
+   "vol": 4400,
+   "kd": 27,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "decimal-to-fraction-calculator",
+   "keyword": "decimal to fraction calculator",
+   "vol": 9900,
+   "kd": 32,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "blow-in-insulation-calculator",
+   "keyword": "blow in insulation calculator",
+   "vol": 1000,
+   "kd": 14,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "eulers-method-calculator",
+   "keyword": "euler's method calculator",
+   "vol": 1000,
+   "kd": 11,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "log-weight-calculator",
+   "keyword": "log weight calculator",
+   "vol": 1000,
+   "kd": 11,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "roth-ira-calculator",
+   "keyword": "roth ira calculator calculator",
+   "vol": 27100,
+   "kd": 41,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "roman-numeral-converter",
+   "keyword": "roman letters converter",
+   "vol": 18100,
+   "kd": 38,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "prop-slip-calculator",
+   "keyword": "prop slip calculator",
+   "vol": 1000,
+   "kd": 12,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "rc-filter-calculator",
+   "keyword": "rc filter calculator",
+   "vol": 1000,
+   "kd": 12,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "water-fast-weight-loss-calculator",
+   "keyword": "water fast weight loss calculator",
+   "vol": 1000,
+   "kd": 14,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "probability-calculator",
+   "keyword": "probability calculator",
+   "vol": 9900,
+   "kd": 34,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "target-heart-rate-calculator",
+   "keyword": "finding maximum heart rate calculator",
+   "vol": 2900,
+   "kd": 25,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "pension-calculator",
+   "keyword": "pension calculator",
+   "vol": 6600,
+   "kd": 30,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "dilution-ratio-calculator",
+   "keyword": "dilution calculator",
+   "vol": 12100,
+   "kd": 35,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "grams-in-ml-converter",
+   "keyword": "grams and milliliters converter",
+   "vol": 5400,
+   "kd": 28,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "siding-calculator",
+   "keyword": "siding calculator",
+   "vol": 5400,
+   "kd": 28,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "pond-calculator",
+   "keyword": "pond calculator",
+   "vol": 1000,
+   "kd": 13,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "difference-quotient-calculator",
+   "keyword": "difference quotient calculator",
+   "vol": 1000,
+   "kd": 14,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "odds-risk-calculator",
+   "keyword": "odds risk calculator",
+   "vol": 1000,
+   "kd": 13,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "time-lapse-photography-calculator",
+   "keyword": "time lapse photography calculator",
+   "vol": 1000,
+   "kd": 13,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "rate-buydown-calculator",
+   "keyword": "rate buydown calculator",
+   "vol": 720,
+   "kd": 10,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "mean-median-mode-range-calculator",
+   "keyword": "mean median and mode calculator",
+   "vol": 2900,
+   "kd": 26,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "mileage-calculator",
+   "keyword": "mileage calculator",
+   "vol": 27100,
+   "kd": 42,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "savings-calculator",
+   "keyword": "high yield savings account calculator",
+   "vol": 27100,
+   "kd": 40,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "construction-calculator",
+   "keyword": "construction calculator",
+   "vol": 12100,
+   "kd": 36,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "draw-length-calculator",
+   "keyword": "draw length calculator",
+   "vol": 1000,
+   "kd": 14,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "cardiac-output-calculator",
+   "keyword": "cardiac output calculator",
+   "vol": 1000,
+   "kd": 14,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "shelf-life-calculator",
+   "keyword": "shelf life calculator",
+   "vol": 1000,
+   "kd": 14,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "snow-load-calculator",
+   "keyword": "snow load calculator",
+   "vol": 1000,
+   "kd": 14,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "call-put-option-calculator",
+   "keyword": "option profit calculator",
+   "vol": 9900,
+   "kd": 31,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "age-difference-calculator",
+   "keyword": "age calculator difference",
+   "vol": 14800,
+   "kd": 39,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "parallel-resistor-calculator",
+   "keyword": "parallel resistor calculator",
+   "vol": 5400,
+   "kd": 30,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "scrap-silver-calculator",
+   "keyword": "scrap silver calculator",
+   "vol": 9900,
+   "kd": 37,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "z-score-calculator",
+   "keyword": "z value calculator",
+   "vol": 5400,
+   "kd": 33,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "dog-age-calculator",
+   "keyword": "dog age calculator",
+   "vol": 22200,
+   "kd": 43,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "credit-card-fee-calculator",
+   "keyword": "credit card fee calculator",
+   "vol": 590,
+   "kd": 13,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "ira-calculator",
+   "keyword": "ira calculator",
+   "vol": 22200,
+   "kd": 43,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "first-lien-heloc-calculator",
+   "keyword": "first lien heloc calculator",
+   "vol": 590,
+   "kd": 14,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "annuity-calculator",
+   "keyword": "annuity payout calculator",
+   "vol": 8100,
+   "kd": 38,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "business-loan-calculator",
+   "keyword": "business calculator",
+   "vol": 1900,
+   "kd": 21,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "circumference-calculator",
+   "keyword": "circumference calculator",
+   "vol": 14800,
+   "kd": 40,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "body-type-calculator",
+   "keyword": "body shape calculator",
+   "vol": 14800,
+   "kd": 40,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "pace-calculator",
+   "keyword": "treadmill pace calculator",
+   "vol": 1300,
+   "kd": 21,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "circle-calculator",
+   "keyword": "area of a circle calculator",
+   "vol": 4400,
+   "kd": 34,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "ounces-to-pounds-converter",
+   "keyword": "oz pounds converter",
+   "vol": 8100,
+   "kd": 43,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "pizza-party-calculator",
+   "keyword": "pizza calculator",
+   "vol": 14800,
+   "kd": 40,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "conversion-calculator",
+   "keyword": "metric to inches calculator",
+   "vol": 1600,
+   "kd": 24,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "electricity-calculator",
+   "keyword": "power usage calculator",
+   "vol": 1600,
+   "kd": 24,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "eigenvalue-eigenvector-calculator",
+   "keyword": "eigenvalue calculator",
+   "vol": 6600,
+   "kd": 30,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "credit-card-calculator",
+   "keyword": "credit card calculator",
+   "vol": 9900,
+   "kd": 39,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "percent-error-calculator",
+   "keyword": "percentage error calculator",
+   "vol": 1900,
+   "kd": 26,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "paver-calculator",
+   "keyword": "paver calculator",
+   "vol": 8100,
+   "kd": 36,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "midpoint-calculator",
+   "keyword": "midpoint calculator",
+   "vol": 5400,
+   "kd": 33,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "walking-calorie-calculator",
+   "keyword": "treadmill calorie calculator",
+   "vol": 5400,
+   "kd": 33,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "seller-net-sheet-calculator",
+   "keyword": "seller net sheet calculator",
+   "vol": 590,
+   "kd": 13,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "percentage-change-calculator",
+   "keyword": "change calculator",
+   "vol": 8100,
+   "kd": 42,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "dew-point-calculator",
+   "keyword": "dew point calculator",
+   "vol": 12100,
+   "kd": 41,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "golf-handicap-calculator",
+   "keyword": "golf handicap calculator",
+   "vol": 9900,
+   "kd": 40,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "steps-to-calories-calculator",
+   "keyword": "steps to calories calculator",
+   "vol": 5400,
+   "kd": 34,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "lottery-annuity-calculator",
+   "keyword": "lottery annuity calculator",
+   "vol": 5400,
+   "kd": 34,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "mobile-home-calculator",
+   "keyword": "mobile home calculator",
+   "vol": 480,
+   "kd": 11,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "height-in-inches-calculator",
+   "keyword": "inches calculator",
+   "vol": 6600,
+   "kd": 36,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "salary-calculator",
+   "keyword": "annual income estimator",
+   "vol": 1300,
+   "kd": 27,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "feet-and-inches-calculator",
+   "keyword": "inches to feet calculator",
+   "vol": 9900,
+   "kd": 38,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "long-division-calculator",
+   "keyword": "dividing decimals calculator",
+   "vol": 1000,
+   "kd": 21,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "kilometers-to-miles",
+   "keyword": "converter kn to miles",
+   "vol": 9900,
+   "kd": 47,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "permutation-and-combination-calculator",
+   "keyword": "permutation calculator",
+   "vol": 3600,
+   "kd": 33,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "sig-fig-calculator",
+   "keyword": "sig fig calculator",
+   "vol": 9900,
+   "kd": 40,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "log-calculator",
+   "keyword": "calculate log calculator",
+   "vol": 9900,
+   "kd": 42,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "fuel-cost-calculator",
+   "keyword": "gas calculator trip",
+   "vol": 2900,
+   "kd": 38,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "sphere-volume-calculator",
+   "keyword": "volume calculator for a sphere",
+   "vol": 1900,
+   "kd": 36,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "time-calculator",
+   "keyword": "add time calculator",
+   "vol": 8100,
+   "kd": 43,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "big-number-calculator",
+   "keyword": "big number calculator",
+   "vol": 4400,
+   "kd": 36,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "mm-to-inches-conversion-calculator",
+   "keyword": "mm to inches calculator",
+   "vol": 9900,
+   "kd": 38,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "tip-calculator",
+   "keyword": "geekzilla.io tip calculator",
+   "vol": 4400,
+   "kd": 39,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "scientific-calculator",
+   "keyword": "physics calculator",
+   "vol": 1900,
+   "kd": 31,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "trigonometry-calculator",
+   "keyword": "calculator trigonometri",
+   "vol": 18100,
+   "kd": 46,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "love-calculator",
+   "keyword": "love calculator paper",
+   "vol": 1900,
+   "kd": 30,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "slope-calculator",
+   "keyword": "rise over run calculator",
+   "vol": 1900,
+   "kd": 30,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "simple-interest-calculator",
+   "keyword": "interest and simple interest",
+   "vol": 8100,
+   "kd": 42,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "rental-property-calculator",
+   "keyword": "investment property calculator",
+   "vol": 1300,
+   "kd": 27,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "resistor-calculator",
+   "keyword": "resistor calculator",
+   "vol": 4400,
+   "kd": 37,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "bond-calculator",
+   "keyword": "i bond value calculator",
+   "vol": 1000,
+   "kd": 24,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "quadratic-formula-calculator",
+   "keyword": "quadratic calculator",
+   "vol": 3600,
+   "kd": 34,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "mass-calculator",
+   "keyword": "calculator of mass",
+   "vol": 1300,
+   "kd": 27,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "carbohydrate-calculator",
+   "keyword": "net carb calculator",
+   "vol": 1600,
+   "kd": 26,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "lcm-calculator",
+   "keyword": "least common multiple calculator",
+   "vol": 9900,
+   "kd": 44,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "percentage-increase-calculator",
+   "keyword": "increase calculator",
+   "vol": 9900,
+   "kd": 47,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "weight-watchers-points-calculator",
+   "keyword": "weight watchers calculator",
+   "vol": 2400,
+   "kd": 34,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "paint-calculator",
+   "keyword": "paint calculator",
+   "vol": 12100,
+   "kd": 42,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "dice-roller-calculator",
+   "keyword": "dice calculator",
+   "vol": 3600,
+   "kd": 36,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "vo2-max-calculator",
+   "keyword": "estimate vo2 max calculator",
+   "vol": 12100,
+   "kd": 46,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "monthly-income-calculator",
+   "keyword": "monthly income calculator",
+   "vol": 12100,
+   "kd": 46,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "remainder",
+   "keyword": "remainder solver",
+   "vol": 5400,
+   "kd": 40,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "new-york-tax-calculator",
+   "keyword": "nyc income tax calculator",
+   "vol": 12100,
+   "kd": 43,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "commission-calculator",
+   "keyword": "commission calculator",
+   "vol": 2900,
+   "kd": 36,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "bmr-calculator",
+   "keyword": "harris benedict calculator",
+   "vol": 1300,
+   "kd": 32,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "title-case",
+   "keyword": "title case converter",
+   "vol": 6600,
+   "kd": 43,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "pregnancy-calculator",
+   "keyword": "pregnancy test calculator",
+   "vol": 4400,
+   "kd": 40,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "conception-calculator",
+   "keyword": "implantation estimator",
+   "vol": 3600,
+   "kd": 40,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "correlation-calculator",
+   "keyword": "correlation coefficient calculator",
+   "vol": 5400,
+   "kd": 42,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "shoe-size-conversion-calculator",
+   "keyword": "foot size calculator",
+   "vol": 1300,
+   "kd": 35,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "margin-calculator",
+   "keyword": "gm calculator",
+   "vol": 1900,
+   "kd": 37,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "sum-of-series-calculator",
+   "keyword": "summation calculator",
+   "vol": 5400,
+   "kd": 40,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "bac-calculator",
+   "keyword": "most accurate bac calculator",
+   "vol": 1900,
+   "kd": 36,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "auto-lease-calculator",
+   "keyword": "lease buyout calculator",
+   "vol": 1300,
+   "kd": 31,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "systems-of-equations-calculator",
+   "keyword": "systems of equations calculator",
+   "vol": 6600,
+   "kd": 41,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "currency-calculator",
+   "keyword": "money calculator online",
+   "vol": 1300,
+   "kd": 32,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "protein-calculator",
+   "keyword": "protein calculator in food",
+   "vol": 1000,
+   "kd": 32,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "rent-vs-buy-calculator",
+   "keyword": "rent vs buy calculator nyt",
+   "vol": 4400,
+   "kd": 42,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "half-life-calculator",
+   "keyword": "half life converter",
+   "vol": 1900,
+   "kd": 37,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "acreage-calculator",
+   "keyword": "acreage calculator",
+   "vol": 5400,
+   "kd": 44,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "budget-calculator",
+   "keyword": "bill calculator",
+   "vol": 1000,
+   "kd": 31,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "debt-payoff-calculator",
+   "keyword": "debt avalanche calculator",
+   "vol": 1000,
+   "kd": 29,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "lean-body-mass-calculator",
+   "keyword": "lbm calculator",
+   "vol": 1600,
+   "kd": 37,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "roi-calculator",
+   "keyword": "annualized return calculator",
+   "vol": 1600,
+   "kd": 36,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "investment-calculator",
+   "keyword": "appreciation calculator",
+   "vol": 1600,
+   "kd": 37,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "finance-calculator",
+   "keyword": "tvm solver",
+   "vol": 1900,
+   "kd": 37,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "sales-tax-calculator",
+   "keyword": "texas state tax calculator",
+   "vol": 2400,
+   "kd": 42,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "present-value-calculator",
+   "keyword": "present day value calculator",
+   "vol": 1300,
+   "kd": 37,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "auto-loan-calculator",
+   "keyword": "car payoff calculator",
+   "vol": 8100,
+   "kd": 47,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "integer-calculator",
+   "keyword": "integer calculator step by step",
+   "vol": 5400,
+   "kd": 44,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "feet-to-inches-calculator",
+   "keyword": "conversion calculator feet to inches",
+   "vol": 5400,
+   "kd": 44,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "distance-calculator",
+   "keyword": "distance formula calculator",
+   "vol": 5400,
+   "kd": 49,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "rent-calculator",
+   "keyword": "rent budget calculator",
+   "vol": 2400,
+   "kd": 46,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "density-calculator",
+   "keyword": "density calculator",
+   "vol": 5400,
+   "kd": 49,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "bpm-calculator",
+   "keyword": "bpm calculator",
+   "vol": 5400,
+   "kd": 45,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "prime-factorization-calculator",
+   "keyword": "prime factorization calculator",
+   "vol": 2900,
+   "kd": 46,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "mutual-fund-calculator",
+   "keyword": "mf calculator",
+   "vol": 1600,
+   "kd": 42,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "calorie-calculator",
+   "keyword": "kcal calories converter",
+   "vol": 1600,
+   "kd": 43,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "amortization-calculator",
+   "keyword": "auto loan calculator with extra payments",
+   "vol": 2900,
+   "kd": 49,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "ip-subnet-calculator",
+   "keyword": "ipv6 subnet calculator",
+   "vol": 1000,
+   "kd": 39,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "number-sequence-calculator",
+   "keyword": "arithmetic sequence calculator",
+   "vol": 1000,
+   "kd": 40,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "bandwidth-calculator",
+   "keyword": "bandwidth calculator",
+   "vol": 1300,
+   "kd": 48,
+   "status": "needs-serp",
+   "pages": 0
+  },
+  {
+   "id": "student-loan-calculator",
+   "keyword": "student loan amortization calculator",
+   "vol": 1000,
+   "kd": 49,
+   "status": "needs-serp",
+   "pages": 0
+  }
+ ]
+}

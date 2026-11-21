@@ -18,7 +18,7 @@ You get: primary keyword, volume, KD, all merged keywords (≤40), competitor UR
 
 ## Step 2 — SERP & competitor research (3–4 competitors minimum)
 **Free mode (current):** WebSearch → `npm run seo:record` → `npm run seo:scrape` → `npm run seo:report`
-(see `07-SEO-RESEARCH-PIPELINE.md`). This writes `docs/research/<slug>.report.md` with real competitor structure.
+(see `07-SEO-RESEARCH-PIPELINE.md`). This writes `research/<slug>/report.md` with real competitor structure.
 
 1. `WebSearch` the primary keyword + 1–2 top secondary keywords (standard mode). Record the top 10 URLs and the SERP
    features shown (featured snippet, People Also Ask, AI Overview, video, calculators-in-SERP).

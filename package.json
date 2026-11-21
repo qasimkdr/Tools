@@ -9,11 +9,13 @@
     "lint": "tsc --noEmit",
     "roadmap": "python3 -I scripts/build-roadmap.py",
     "test:e2e": "playwright test",
-    "seo:serp": "NODE_USE_ENV_PROXY=1 node scripts/seo/serp.mjs",
-    "seo:scrape": "NODE_USE_ENV_PROXY=1 node scripts/seo/scrape.mjs",
-    "seo:report": "NODE_USE_ENV_PROXY=1 node scripts/seo/report.mjs",
-    "seo:research": "NODE_USE_ENV_PROXY=1 node scripts/seo/research.mjs",
-    "seo:record": "node scripts/seo/serp-record.mjs"
+    "seo:serp": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 node scripts/seo/serp.mjs",
+    "seo:scrape": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 node scripts/seo/scrape.mjs",
+    "seo:report": "node scripts/seo/report.mjs",
+    "seo:research": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 node scripts/seo/research.mjs",
+    "seo:record": "node scripts/seo/serp-record.mjs",
+    "seo:check": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 node scripts/seo/browser-check.mjs",
+    "seo:batch": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 node scripts/seo/batch.mjs"
   },
   "dependencies": {
     "next": "^16.4.6",

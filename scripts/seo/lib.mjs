@@ -4,7 +4,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..");
-export const RESEARCH_DIR = path.join(ROOT, "data/research");
+export const RESEARCH_DIR = path.join(ROOT, "research"); // one folder per research id: serp.json, competitors.json, report.md
 
 export function args() {
   const out = {};
