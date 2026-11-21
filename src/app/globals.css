@@ -1,0 +1,144 @@
+@import "tailwindcss";
+
+/* ── Design tokens (see docs/05-DESIGN-SYSTEM.md). One accent (indigo→violet), gray neutrals. ── */
+@theme {
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --color-brand-50: #eef2ff;
+  --color-brand-100: #e0e7ff;
+  --color-brand-400: #818cf8;
+  --color-brand-500: #6366f1;
+  --color-brand-600: #4f46e5;
+  --color-brand-700: #4338ca;
+  --color-accent-500: #8b5cf6;
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+:root {
+  --bg: #f8fafc;
+  --surface: #ffffff;
+  --surface-2: #f1f5f9;
+  --text: #0f172a;
+  --muted: #475569;
+  --subtle: #64748b;
+  --border: #e2e8f0;
+  --ring: rgb(99 102 241 / 0.35);
+  --glass: rgb(255 255 255 / 0.72);
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0b1020;
+    --surface: #111833;
+    --surface-2: #172042;
+    --text: #e8ecf8;
+    --muted: #a5b0cc;
+    --subtle: #8390b0;
+    --border: #243056;
+    --ring: rgb(129 140 248 / 0.45);
+    --glass: rgb(17 24 51 / 0.72);
+    color-scheme: dark;
+  }
+}
+
+html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+body { background: var(--bg); color: var(--text); font-family: var(--font-sans); }
+::selection { background: var(--color-brand-100); color: #1e1b4b; }
+
+/* ── Reusable primitives ── */
+@layer components {
+  .container-x { @apply mx-auto w-full max-w-6xl px-4 sm:px-6; }
+  .card { background: var(--surface); border: 1px solid var(--border); @apply rounded-2xl; }
+  .glass {
+    background: var(--glass);
+    border: 1px solid var(--border);
+    backdrop-filter: blur(14px) saturate(140%);
+    -webkit-backdrop-filter: blur(14px) saturate(140%);
+    @apply rounded-3xl;
+    box-shadow: 0 1px 0 rgb(255 255 255 / 0.06) inset, 0 20px 50px -20px rgb(79 70 229 / 0.25);
+  }
+  .muted { color: var(--muted); }
+  .subtle { color: var(--subtle); }
+  .field {
+    background: var(--surface); border: 1px solid var(--border); color: var(--text);
+    @apply w-full rounded-xl px-3.5 py-2.5 text-base outline-none transition-[border-color,box-shadow] duration-150;
+  }
+  .field:focus { border-color: var(--color-brand-500); box-shadow: 0 0 0 4px var(--ring); }
+  .label { color: var(--muted); @apply mb-1.5 block text-sm font-medium; }
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold transition-all duration-150 select-none;
+  }
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold transition-all duration-150 select-none text-white;
+    background: linear-gradient(135deg, var(--color-brand-600), var(--color-accent-500));
+    box-shadow: 0 8px 20px -8px rgb(79 70 229 / 0.6);
+  }
+  .btn-primary:hover { transform: translateY(-1px); box-shadow: 0 12px 24px -10px rgb(79 70 229 / 0.7); }
+  .btn-ghost { @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold transition-all duration-150 select-none; background: var(--surface-2); color: var(--text); border: 1px solid var(--border); }
+  .btn-ghost:hover { border-color: var(--color-brand-400); }
+  .chip {
+    background: var(--surface-2); border: 1px solid var(--border); color: var(--muted);
+    @apply rounded-full px-3 py-1 text-sm font-medium transition-colors duration-150 tabular-nums;
+  }
+  .chip:hover, .chip[aria-pressed="true"] { border-color: var(--color-brand-500); color: var(--color-brand-600); }
+  .text-gradient {
+    background: linear-gradient(120deg, var(--color-brand-600), var(--color-accent-500) 60%, #ec4899);
+    -webkit-background-clip: text; background-clip: text; color: transparent;
+  }
+
+  /* Long-form article typography (no plugin needed) */
+  .prose-sp { color: var(--text); @apply text-[1.0625rem] leading-relaxed; }
+  .prose-sp h2 { @apply mt-12 mb-4 text-2xl font-bold tracking-tight sm:text-3xl; scroll-margin-top: 6rem; }
+  .prose-sp h3 { @apply mt-8 mb-3 text-xl font-semibold tracking-tight; }
+  .prose-sp p { @apply my-4; color: var(--muted); }
+  .prose-sp ul, .prose-sp ol { @apply my-4 space-y-2 pl-6; color: var(--muted); }
+  .prose-sp ul { list-style: disc; }
+  .prose-sp ol { list-style: decimal; }
+  .prose-sp a { color: var(--color-brand-600); @apply font-medium underline decoration-2 underline-offset-2; text-decoration-color: rgb(99 102 241 / 0.3); }
+  .prose-sp a:hover { text-decoration-color: currentColor; }
+  .prose-sp strong { color: var(--text); @apply font-semibold; }
+  .prose-sp table { @apply my-6 w-full border-collapse text-sm tabular-nums; }
+  .prose-sp th { background: var(--surface-2); @apply px-3 py-2 text-left font-semibold; }
+  .prose-sp td { border-top: 1px solid var(--border); color: var(--muted); @apply px-3 py-2; }
+  .prose-sp code { background: var(--surface-2); @apply rounded px-1.5 py-0.5 text-[0.9em]; }
+  .formula { background: var(--surface-2); border-left: 4px solid var(--color-brand-500); @apply my-6 rounded-r-xl px-5 py-4 font-mono text-sm; color: var(--text); }
+}
+
+/* ── Motion: scroll reveal with fade-in AND fade-out (Reveal.tsx toggles .is-in) ── */
+.reveal { opacity: 0; transform: translate3d(0, 28px, 0) scale(0.985); transition: opacity 0.7s var(--ease-out-expo), transform 0.8s var(--ease-out-expo); will-change: opacity, transform; }
+.reveal.is-in { opacity: 1; transform: none; }
+.reveal[data-delay="1"] { transition-delay: 80ms; }
+.reveal[data-delay="2"] { transition-delay: 160ms; }
+.reveal[data-delay="3"] { transition-delay: 240ms; }
+/* No-JS / crawler safety: content is visible unless JS has booted (html.js set inline in layout). */
+html:not(.js) .reveal { opacity: 1; transform: none; }
+
+/* ── 3D tilt cards (Tilt.tsx sets --rx/--ry) ── */
+.tilt { transform-style: preserve-3d; transform: perspective(900px) rotateX(var(--rx, 0deg)) rotateY(var(--ry, 0deg)) translateZ(0); transition: transform 0.35s var(--ease-out-expo), box-shadow 0.35s; }
+.tilt:hover { box-shadow: 0 24px 48px -20px rgb(79 70 229 / 0.35); }
+.tilt .lift { transform: translateZ(28px); }
+.tilt .shine { background: radial-gradient(600px circle at var(--mx, 50%) var(--my, 50%), rgb(255 255 255 / 0.14), transparent 40%); }
+
+/* ── Hero backdrop: animated aurora orbs + perspective grid, pure CSS (no WebGL → LCP-safe) ── */
+.aurora { position: absolute; inset: 0; overflow: hidden; pointer-events: none; z-index: 0; }
+.aurora::before, .aurora::after, .aurora > i {
+  content: ""; position: absolute; border-radius: 9999px; filter: blur(70px); opacity: 0.55;
+  animation: float 18s ease-in-out infinite alternate;
+}
+.aurora::before { width: 42vmax; height: 42vmax; left: -10vmax; top: -18vmax; background: radial-gradient(circle, #818cf8, transparent 65%); }
+.aurora::after { width: 36vmax; height: 36vmax; right: -12vmax; top: -8vmax; background: radial-gradient(circle, #c084fc, transparent 65%); animation-duration: 22s; }
+.aurora > i { width: 28vmax; height: 28vmax; left: 35%; top: 10%; background: radial-gradient(circle, #38bdf8, transparent 65%); opacity: 0.35; animation-duration: 26s; }
+.grid-3d {
+  position: absolute; inset: auto -50% -40% -50%; height: 80%; pointer-events: none; z-index: 0;
+  background-image: linear-gradient(var(--border) 1px, transparent 1px), linear-gradient(90deg, var(--border) 1px, transparent 1px);
+  background-size: 48px 48px; transform: perspective(600px) rotateX(62deg);
+  mask-image: linear-gradient(to top, black 10%, transparent 75%); opacity: 0.6;
+}
+@keyframes float { 0% { transform: translate3d(0, 0, 0) scale(1); } 100% { transform: translate3d(6vmax, 4vmax, 0) scale(1.12); } }
+@keyframes pop { 0% { opacity: 0; transform: translateY(8px) scale(0.98); } 100% { opacity: 1; transform: none; } }
+.animate-pop { animation: pop 0.45s var(--ease-out-expo) both; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+  .reveal { opacity: 1; transform: none; }
+  .tilt { transform: none !important; }
+}

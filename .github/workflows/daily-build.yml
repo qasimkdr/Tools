@@ -1,0 +1,29 @@
+# Rebuilds the static site every day so date-based pages ("90 days from today") are correct in the HTML Google sees.
+# Deploys to Cloudflare Pages when CLOUDFLARE_API_TOKEN + CLOUDFLARE_ACCOUNT_ID secrets exist (recommended host: free, global CDN).
+name: daily-build
+on:
+  schedule: [{ cron: "7 0 * * *" }] # 00:07 UTC daily
+  push: { branches: [main] }
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - run: npm ci
+      - run: npm run build
+        env:
+          NEXT_PUBLIC_SITE_URL: ${{ vars.SITE_URL || 'https://solvepilot.com' }}
+          NEXT_PUBLIC_ADSENSE_CLIENT: ${{ vars.ADSENSE_CLIENT }}
+          NEXT_PUBLIC_AD_SLOT_INARTICLE: ${{ vars.AD_SLOT_INARTICLE }}
+          NEXT_PUBLIC_AD_SLOT_SIDEBAR: ${{ vars.AD_SLOT_SIDEBAR }}
+      - name: Deploy to Cloudflare Pages
+        if: ${{ env.CF_TOKEN != '' }}
+        env: { CF_TOKEN: "${{ secrets.CLOUDFLARE_API_TOKEN }}" }
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy out --project-name=solvepilot
