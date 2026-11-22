@@ -6479,7 +6479,7 @@
     "www.omnicalculator.com/sports/earned-run-average"
    ],
    "category": "education",
-   "status": "todo",
+   "status": "live",
    "order": 49,
    "batch": 5
   },
@@ -6553,7 +6553,7 @@
    ],
    "competitors": [],
    "category": "education",
-   "status": "todo",
+   "status": "live",
    "order": 50,
    "batch": 5
   },
@@ -6610,7 +6610,7 @@
     "www.calculator.net/common-factor-calculator.html"
    ],
    "category": "math",
-   "status": "todo",
+   "status": "live",
    "order": 51,
    "batch": 6
   },
@@ -6666,7 +6666,7 @@
     "www.calculator.net/savings-calculator.html"
    ],
    "category": "finance",
-   "status": "todo",
+   "status": "live",
    "order": 52,
    "batch": 6
   },
@@ -6705,7 +6705,7 @@
     "www.omnicalculator.com/physics/wire-size"
    ],
    "category": "science",
-   "status": "todo",
+   "status": "live",
    "order": 53,
    "batch": 6
   },

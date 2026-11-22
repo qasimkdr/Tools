@@ -52,11 +52,11 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 12 on policy hold).
 | 46 | 5 | live | Money Market Calculator | `money-market-calculator` | finance | money market calculator | 4400 | 10 | 5400 | 2 |
 | 47 | 5 | live | Confidence Interval Calculator | `confidence-interval-calculator` | math | confidence interval calculator | 3600 | 10 | 10000 | 1 |
 | 48 | 5 | live | Superscript Generator | `superscript-generator` | text | superscript generator | 9900 | 20 | 9900 | 1 |
-| 49 | 5 | todo | Earned Run Average Calculator | `earned-run-average-calculator` | education | era calculator | 8100 | 18 | 8100 | 1 |
-| 50 | 5 | todo | AP Statistics Score Calculator | `ap-statistics-score-calculator` | education | ap stats grading calculator | 4400 | 8 | 15300 | 6 |
-| 51 | 6 | todo | Gcf Calculator | `gcf-calculator` | math | gcf calculator | 1200000 | 47 | 1212400 | 2 |
-| 52 | 6 | todo | APR Calculator | `apr-calculator` | finance | apr calculator | 27100 | 24 | 34100 | 1 |
-| 53 | 6 | todo | Wire Size Calculator | `wire-size-calculator` | science | wire gauge calculator | 5400 | 16 | 10800 | 1 |
+| 49 | 5 | live | Earned Run Average Calculator | `earned-run-average-calculator` | education | era calculator | 8100 | 18 | 8100 | 1 |
+| 50 | 5 | live | AP Statistics Score Calculator | `ap-statistics-score-calculator` | education | ap stats grading calculator | 4400 | 8 | 15300 | 6 |
+| 51 | 6 | live | Gcf Calculator | `gcf-calculator` | math | gcf calculator | 1200000 | 47 | 1212400 | 2 |
+| 52 | 6 | live | APR Calculator | `apr-calculator` | finance | apr calculator | 27100 | 24 | 34100 | 1 |
+| 53 | 6 | live | Wire Size Calculator | `wire-size-calculator` | science | wire gauge calculator | 5400 | 16 | 10800 | 1 |
 | 54 | 6 | todo | Miscarriage Calculator | `miscarriage-calculator` | health | miscarriage calculator | 4400 | 9 | 4400 | 1 |
 | 55 | 6 | todo | Cone Volume Calculator | `cone-volume-calculator` | math | cone volume calculator | 2400 | 37 | 1337600 | 1 |
 | 56 | 6 | todo | Normal Cdf Calculator | `normal-cdf-calculator` | math | normal cdf calculator | 4400 | 11 | 4400 | 1 |

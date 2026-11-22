@@ -1,0 +1,596 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/sports/earned-run-average": {
+   "url": "https://www.omnicalculator.com/sports/earned-run-average",
+   "finalUrl": "https://www.omnicalculator.com/sports/earned-run-average",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T12:41:22.928Z",
+   "title": "ERA Calculator – Earned Run Average",
+   "metaDescription": "ERA calculator (earned run average) measures a pitcher's effectiveness in baseball.",
+   "canonical": "https://www.omnicalculator.com/sports/earned-run-average",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "ERA Calculator – Earned Run Average"
+   ],
+   "h2": [
+    "What is ERA in baseball?",
+    "How to calculate ERA",
+    "Baseball history",
+    "Major League Baseball",
+    "Baseball field",
+    "Baseball bat",
+    "MLB ERA leaders",
+    "Let's play baseball!",
+    "FAQs"
+   ],
+   "h3": [
+    "National League",
+    "American League",
+    "How do I calculate earned run average?",
+    "What does earned run average of 0.5 mean?",
+    "What is considered a good earned run average?",
+    "What is the ERA if the earned runs were 5?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "ERA Calculator – Earned Run Average"
+    },
+    {
+     "level": 2,
+     "text": "What is ERA in baseball?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate ERA"
+    },
+    {
+     "level": 2,
+     "text": "Baseball history"
+    },
+    {
+     "level": 2,
+     "text": "Major League Baseball"
+    },
+    {
+     "level": 2,
+     "text": "Baseball field"
+    },
+    {
+     "level": 2,
+     "text": "Baseball bat"
+    },
+    {
+     "level": 2,
+     "text": "MLB ERA leaders"
+    },
+    {
+     "level": 3,
+     "text": "National League"
+    },
+    {
+     "level": 3,
+     "text": "American League"
+    },
+    {
+     "level": 2,
+     "text": "Let's play baseball!"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate earned run average?"
+    },
+    {
+     "level": 3,
+     "text": "What does earned run average of 0.5 mean?"
+    },
+    {
+     "level": 3,
+     "text": "What is considered a good earned run average?"
+    },
+    {
+     "level": 3,
+     "text": "What is the ERA if the earned runs were 5?"
+    }
+   ],
+   "wordCount": 2221,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "How do I calculate earned run average?",
+    "What does earned run average of 0.5 mean?",
+    "What is considered a good earned run average?",
+    "What is the ERA if the earned runs were 5?",
+    "What is ERA in baseball?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "baseball",
+     "weight": 37
+    },
+    {
+     "term": "era",
+     "weight": 34
+    },
+    {
+     "term": "earned",
+     "weight": 23
+    },
+    {
+     "term": "league",
+     "weight": 22
+    },
+    {
+     "term": "earned run",
+     "weight": 20
+    },
+    {
+     "term": "run average",
+     "weight": 20
+    },
+    {
+     "term": "innings",
+     "weight": 19
+    },
+    {
+     "term": "average",
+     "weight": 18
+    },
+    {
+     "term": "run",
+     "weight": 15
+    },
+    {
+     "term": "earned runs",
+     "weight": 15
+    },
+    {
+     "term": "game",
+     "weight": 15
+    },
+    {
+     "term": "inches",
+     "weight": 15
+    },
+    {
+     "term": "innings pitched",
+     "weight": 14
+    },
+    {
+     "term": "runs",
+     "weight": 12
+    },
+    {
+     "term": "pitched",
+     "weight": 12
+    },
+    {
+     "term": "home plate",
+     "weight": 12
+    },
+    {
+     "term": "plate",
+     "weight": 11
+    },
+    {
+     "term": "major league",
+     "weight": 11
+    },
+    {
+     "term": "league baseball",
+     "weight": 11
+    },
+    {
+     "term": "los angeles",
+     "weight": 11
+    },
+    {
+     "term": "angeles dodgers",
+     "weight": 11
+    },
+    {
+     "term": "calculator",
+     "weight": 10
+    },
+    {
+     "term": "major",
+     "weight": 9
+    },
+    {
+     "term": "has",
+     "weight": 9
+    },
+    {
+     "term": "era score",
+     "weight": 9
+    },
+    {
+     "term": "pitcher",
+     "weight": 8
+    },
+    {
+     "term": "professional",
+     "weight": 8
+    },
+    {
+     "term": "home",
+     "weight": 8
+    },
+    {
+     "term": "clayton kershaw",
+     "weight": 8
+    },
+    {
+     "term": "pitcher's",
+     "weight": 7
+    }
+   ],
+   "claims": [
+    "The lowest career earned run average in history is 1.82, held by Ed Walsh, who played from 1904 to 1917.",
+    "After the rules changed post-1920, the lowest career ERA score now belongs to Mariano Rivera (2.21), who played baseball from 1995–2013.",
+    "Input these values to the ERA formula: ERA = (earned runs / innings pitched) × game innings ERA = (15 / 65.67) × 9 ERA = 2.06 The ERA score of this pitcher is equal to 2.06.",
+    "The year 1920 brought a new baseball era with a significant change in rules (i.e., the introduction of the power hitter).",
+    "MLB ERA leaders As mentioned above, there are two players with the best career ERA-score in history: Ed Walsh (1.82) and, after the change in rules, Mariano Rivera (2.21).",
+    "An earned run average (ERA) of 0.5 signifies a highly effective pitcher.",
+    "The all-time lowest career earned run average is 1.82, a record held by Ed Walsh, who played from 1904 to 1917.",
+    "An ERA falling between 2.00 and 3.00 is considered excellent and is typically achieved by the top pitchers in the league.",
+    "A range from 3 to 4 is above average, while a range from 4 to 5 is considered average.",
+    "Assuming the game had 10 innings pitched and five earned runs, the earned run average (ERA) would be 4.50, which is considered an average result."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 3,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": true,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Bogna Szyk",
+    "published": "2017-03-31T08:08:57.703Z",
+    "modified": "2026-08-20T19:18:02.829Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 490,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 21,
+    "external": 1,
+    "contentInternal": 5,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "winning percentage calculator",
+     "FIP calculator",
+     "fielding percentage calculator",
+     "WHIP calculator",
+     "WAR calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/sports/winning-percentage",
+     "https://www.omnicalculator.com/sports/fip",
+     "https://www.omnicalculator.com/sports/fpct",
+     "https://www.omnicalculator.com/sports/whip-baseball",
+     "https://www.omnicalculator.com/sports/war"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/games/era-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/games/era-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/games/era-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T12:41:26.154Z",
+   "title": "ERA Calculator | Earned Run Average",
+   "metaDescription": "Calculate earned run average, ERA for a pitcher. Enter earned runs and innings pitched, and the ERA calculator finds the average earned runs allowed by a pitcher.",
+   "canonical": "https://www.calculatorsoup.com/calculators/games/era-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "ERA Calculator | Earned Run Average"
+   ],
+   "h2": [],
+   "h3": [
+    "ERA Formula",
+    "How to Calculate ERA",
+    "Decimal Innings Pitched Notation",
+    "ERA Examples",
+    "References",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "ERA Calculator | Earned Run Average"
+    },
+    {
+     "level": 3,
+     "text": "ERA Formula"
+    },
+    {
+     "level": 3,
+     "text": "How to Calculate ERA"
+    },
+    {
+     "level": 3,
+     "text": "Decimal Innings Pitched Notation"
+    },
+    {
+     "level": 3,
+     "text": "ERA Examples"
+    },
+    {
+     "level": 3,
+     "text": "References"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 641,
+   "avgSentenceWords": 22,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "era",
+     "weight": 31
+    },
+    {
+     "term": "innings",
+     "weight": 28
+    },
+    {
+     "term": "earned",
+     "weight": 24
+    },
+    {
+     "term": "innings pitched",
+     "weight": 21
+    },
+    {
+     "term": "earned run",
+     "weight": 18
+    },
+    {
+     "term": "run average",
+     "weight": 18
+    },
+    {
+     "term": "earned runs",
+     "weight": 18
+    },
+    {
+     "term": "pitched",
+     "weight": 16
+    },
+    {
+     "term": "calculator",
+     "weight": 15
+    },
+    {
+     "term": "runs",
+     "weight": 15
+    },
+    {
+     "term": "game",
+     "weight": 15
+    },
+    {
+     "term": "average",
+     "weight": 14
+    },
+    {
+     "term": "era calculator",
+     "weight": 12
+    },
+    {
+     "term": "run",
+     "weight": 12
+    },
+    {
+     "term": "baseball",
+     "weight": 12
+    },
+    {
+     "term": "calculator earned",
+     "weight": 11
+    },
+    {
+     "term": "pitcher",
+     "weight": 10
+    },
+    {
+     "term": "inning",
+     "weight": 9
+    },
+    {
+     "term": "text",
+     "weight": 8
+    },
+    {
+     "term": "com",
+     "weight": 8
+    },
+    {
+     "term": "average era",
+     "weight": 8
+    },
+    {
+     "term": "com glossary",
+     "weight": 8
+    },
+    {
+     "term": "calculators",
+     "weight": 6
+    },
+    {
+     "term": "pitcher allows",
+     "weight": 6
+    },
+    {
+     "term": "partial innings",
+     "weight": 6
+    },
+    {
+     "term": "text innings",
+     "weight": 6
+    },
+    {
+     "term": "decimal",
+     "weight": 6
+    },
+    {
+     "term": "mlb com",
+     "weight": 6
+    },
+    {
+     "term": "allows",
+     "weight": 5
+    },
+    {
+     "term": "glossary",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "ERA Examples Single-game example: A pitcher allows 3 earned runs in 6⅔ innings pitched in a 9-inning baseball game.",
+    "ERA = (65 × 9) ÷ 200 ERA = 585 ÷ 200 ERA = (65 × 9) ÷ 200 = 2.93 (rounded from 2.925) References Major League Baseball."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 4,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Earned Runs (ER)",
+    "Full Innings Pitched",
+    "Partial Innings Pitched",
+    "Innings per Game",
+    "reset"
+   ],
+   "selectOptionsSample": "0 1 out 2 outs 9 7 6",
+   "unitToggle": false,
+   "wordsBeforeTool": 62,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "October 1, 2026",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 55,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 16,
+    "external": 3,
+    "contentInternal": 6,
+    "contentExternal": 3,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Games",
+     "ERA Calculator | Earned Run Average",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "https://www.calculatorsoup.com/calculators/games/era-calculator.php",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/games/",
+     "https://www.calculatorsoup.com/calculators/games/era-calculator.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=games%2F&folderName=Games&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/games/era-calculator.php&h1=ERA+Calculator+%7C+Earned+Run+Average&pop_w=400&pop_h=600"
+    ],
+    "externalSample": [
+     "https://www.mlb.com/glossary/standard-stats/earned-run-average",
+     "https://www.mlb.com/glossary/standard-stats/innings-pitched",
+     "https://www.baseball-reference.com/glossary/earned-run-average/"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

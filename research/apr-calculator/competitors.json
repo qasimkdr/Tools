@@ -1,0 +1,1240 @@
+{
+ "pages": {
+  "https://www.calculator.net/apr-calculator.html": {
+   "url": "https://www.calculator.net/apr-calculator.html",
+   "finalUrl": "https://www.calculator.net/apr-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T12:41:46.591Z",
+   "title": "APR Calculator",
+   "metaDescription": "Free calculator to find out the real APR of a loan, considering all the fees and extra charges. There is also a version specially designed for mortgage loans.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "APR Calculator"
+   ],
+   "h2": [
+    "General APR Calculator",
+    "Real APR: 6.563%",
+    "Mortgage APR Calculator",
+    "Real APR: 6.367%"
+   ],
+   "h3": [
+    "Limitations of the APR",
+    "Types of APRs",
+    "APR vs. APY"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "APR Calculator"
+    },
+    {
+     "level": 2,
+     "text": "General APR Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Real APR: 6.563%"
+    },
+    {
+     "level": 2,
+     "text": "Mortgage APR Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Real APR: 6.367%"
+    },
+    {
+     "level": 3,
+     "text": "Limitations of the APR"
+    },
+    {
+     "level": 3,
+     "text": "Types of APRs"
+    },
+    {
+     "level": 3,
+     "text": "APR vs. APY"
+    }
+   ],
+   "wordCount": 1177,
+   "avgSentenceWords": 24,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "apr",
+     "weight": 28
+    },
+    {
+     "term": "loan",
+     "weight": 28
+    },
+    {
+     "term": "interest",
+     "weight": 27
+    },
+    {
+     "term": "fees",
+     "weight": 26
+    },
+    {
+     "term": "rates",
+     "weight": 20
+    },
+    {
+     "term": "rate",
+     "weight": 18
+    },
+    {
+     "term": "borrowers",
+     "weight": 14
+    },
+    {
+     "term": "calculator",
+     "weight": 10
+    },
+    {
+     "term": "mortgage",
+     "weight": 10
+    },
+    {
+     "term": "aprs",
+     "weight": 10
+    },
+    {
+     "term": "variable",
+     "weight": 10
+    },
+    {
+     "term": "apy",
+     "weight": 10
+    },
+    {
+     "term": "interest rates",
+     "weight": 9
+    },
+    {
+     "term": "interest rate",
+     "weight": 9
+    },
+    {
+     "term": "pay",
+     "weight": 8
+    },
+    {
+     "term": "loans",
+     "weight": 8
+    },
+    {
+     "term": "year",
+     "weight": 8
+    },
+    {
+     "term": "financial",
+     "weight": 6
+    },
+    {
+     "term": "apr calculator",
+     "weight": 6
+    },
+    {
+     "term": "costs",
+     "weight": 6
+    },
+    {
+     "term": "lenders",
+     "weight": 6
+    },
+    {
+     "term": "real apr",
+     "weight": 6
+    },
+    {
+     "term": "payments",
+     "weight": 6
+    },
+    {
+     "term": "fixed",
+     "weight": 6
+    },
+    {
+     "term": "variable aprs",
+     "weight": 6
+    },
+    {
+     "term": "annual",
+     "weight": 5
+    },
+    {
+     "term": "amount",
+     "weight": 5
+    },
+    {
+     "term": "term",
+     "weight": 5
+    },
+    {
+     "term": "upfront",
+     "weight": 5
+    },
+    {
+     "term": "total",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "In comparison, if a $100 savings account includes an APY of 10.47%, the interest received at the end of the year is: $100 × 10.47% = $10.47 Despite appearances, 10% APR is equivalent to 10.47% APY."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 10,
+   "lists": 3,
+   "images": 6,
+   "videos": 0,
+   "calculatorInputs": [
+    "cloanamount",
+    "cloanterm",
+    "cloantermmonth",
+    "cinterestrate",
+    "ccompound",
+    "cpayback",
+    "cloanedfees",
+    "cfrontfees",
+    "c2housevalue",
+    "c2downpayment",
+    "c2loanterm",
+    "c2interestrate",
+    "c2loanfees",
+    "c2points",
+    "c2pmi"
+   ],
+   "selectOptionsSample": "annually semi-annually quarterly monthly semi-monthly biweekly weekly daily continuously every day every week every 2 weeks every half month every month every quarter every 6 months every year",
+   "unitToggle": false,
+   "wordsBeforeTool": 88,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 25,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 30,
+    "external": 0,
+    "contentInternal": 30,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "financial",
+     "apr calculator",
+     "View Amortization Table",
+     "Interest Calculator",
+     "Loan Calculator",
+     "Mortgage Calculator",
+     "Compound Interest Calculator",
+     "Financial Calculators",
+     "Mortgage",
+     "Loan",
+     "Auto Loan",
+     "Interest",
+     "Payment",
+     "Retirement",
+     "Amortization",
+     "Investment",
+     "Currency",
+     "Inflation"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/apr-calculator.html",
+     "https://www.calculator.net/apr-calculator.html#",
+     "https://www.calculator.net/interest-calculator.html",
+     "https://www.calculator.net/loan-calculator.html",
+     "https://www.calculator.net/mortgage-calculator.html",
+     "https://www.calculator.net/compound-interest-calculator.html",
+     "https://www.calculator.net/auto-loan-calculator.html",
+     "https://www.calculator.net/payment-calculator.html",
+     "https://www.calculator.net/retirement-calculator.html",
+     "https://www.calculator.net/amortization-calculator.html",
+     "https://www.calculator.net/investment-calculator.html",
+     "https://www.calculator.net/currency-calculator.html",
+     "https://www.calculator.net/inflation-calculator.html",
+     "https://www.calculator.net/finance-calculator.html",
+     "https://www.calculator.net/mortgage-payoff-calculator.html",
+     "https://www.calculator.net/tax-calculator.html",
+     "https://www.calculator.net/salary-calculator.html",
+     "https://www.calculator.net/401k-calculator.html",
+     "https://www.calculator.net/interest-rate-calculator.html",
+     "https://www.calculator.net/sales-tax-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/financial/apr-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/financial/apr-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/financial/apr-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T12:41:49.634Z",
+   "title": "APR Calculator",
+   "metaDescription": "Calculate the Annual Percentage Rate (APR) of a loan or mortgage. What is the APR? Calculate APR from loan amount, finance and non-finance charges.",
+   "canonical": "https://www.calculatorsoup.com/calculators/financial/apr-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "APR Calculator"
+   ],
+   "h2": [
+    "What is APR?"
+   ],
+   "h3": [
+    "APR Examples",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "APR Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is APR?"
+    },
+    {
+     "level": 3,
+     "text": "APR Examples"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 589,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "What is APR?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "apr",
+     "weight": 26
+    },
+    {
+     "term": "loan",
+     "weight": 22
+    },
+    {
+     "term": "apr calculator",
+     "weight": 17
+    },
+    {
+     "term": "calculator",
+     "weight": 16
+    },
+    {
+     "term": "interest",
+     "weight": 16
+    },
+    {
+     "term": "rate",
+     "weight": 13
+    },
+    {
+     "term": "interest rate",
+     "weight": 12
+    },
+    {
+     "term": "fees",
+     "weight": 10
+    },
+    {
+     "term": "payments",
+     "weight": 8
+    },
+    {
+     "term": "payment",
+     "weight": 8
+    },
+    {
+     "term": "year",
+     "weight": 8
+    },
+    {
+     "term": "financing fees",
+     "weight": 8
+    },
+    {
+     "term": "financing",
+     "weight": 7
+    },
+    {
+     "term": "calculators",
+     "weight": 6
+    },
+    {
+     "term": "amount",
+     "weight": 6
+    },
+    {
+     "term": "total",
+     "weight": 6
+    },
+    {
+     "term": "financial",
+     "weight": 5
+    },
+    {
+     "term": "number",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators financial",
+     "weight": 5
+    },
+    {
+     "term": "calculator apr",
+     "weight": 5
+    },
+    {
+     "term": "loan amount",
+     "weight": 5
+    },
+    {
+     "term": "payment frequency",
+     "weight": 5
+    },
+    {
+     "term": "additional fees",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "compounding",
+     "weight": 4
+    },
+    {
+     "term": "frequency",
+     "weight": 4
+    },
+    {
+     "term": "additional",
+     "weight": 4
+    },
+    {
+     "term": "annual",
+     "weight": 4
+    },
+    {
+     "term": "apr apr",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "(Some fees are not considered \"financing charges\" so you should check with your lending institution.) If you take a mortgage for $100,000 at an interest rate i with no additional fees then i is likely your APR.",
+    "APR Examples Suppose you lend me $20 for a year at 10% interest.",
+    "This is a one-year loan at an interest rate of 10% and an APR of 10%.",
+    "This is a one-year loan at an interest rate of 10% and an APR of 25%."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 0,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Loan Amount: $",
+    "Interest Rate: %",
+    "Compounding:",
+    "Number of Payments:",
+    "Payment Frequency:",
+    "Non-Financing Fees: $ Added to the loan (0)",
+    "Financing Fees: $ Added to the loan (1)",
+    "Prepaid Financing Fees: $ Prepaid separately (2)",
+    "reset"
+   ],
+   "selectOptionsSample": "daily (365/yr) daily (360/yr) weekly biweekly semimonthly monthly bimonthly quarterly semiannually annually daily (365/yr) daily (360/yr) weekly biweekly semimonthly monthly bimonthly quarterly semiannually annually",
+   "unitToggle": false,
+   "wordsBeforeTool": 19,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "August 1, 2025",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 57,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 19,
+    "external": 0,
+    "contentInternal": 9,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Financial",
+     "Interest & APR",
+     "APR Calculator",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Basic APR Calculator",
+     "equivalent rate",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/financial/",
+     "https://www.calculatorsoup.com/calculators/financial/index-interest-apr-calculators.php",
+     "https://www.calculatorsoup.com/calculators/financial/apr-calculator.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=financial%2F&folderName=Financial&folder2=financial%2Findex-interest-apr-calculators.php&folderName2=Interest+%26amp%3B+APR&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/financial/apr-calculator.php&h1=APR+Calculator&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/financial/apr-calculator-basic.php",
+     "https://www.calculatorsoup.com/calculators/financial/equivalent-interest-rate-calculator.php"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/finance/apr": {
+   "url": "https://www.omnicalculator.com/finance/apr",
+   "finalUrl": "https://www.omnicalculator.com/finance/apr",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T12:41:52.708Z",
+   "title": "APR Calculator",
+   "metaDescription": "The APR calculator is designed to estimate the percentage of the borrowed money you have to pay in every year, taking into account all financial costs related to the borrowing over the whole course of the loan.",
+   "canonical": "https://www.omnicalculator.com/finance/apr",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "APR Calculator"
+   ],
+   "h2": [
+    "What is APR - Introducing the Annual Percentage Rate",
+    "APR in the context of interest rates",
+    "Using the APR calculator - Variables and financial terms",
+    "How to calculate APR - An example with the applied formulas",
+    "What is a good APR for a credit card",
+    "References"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "APR Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is APR - Introducing the Annual Percentage Rate"
+    },
+    {
+     "level": 2,
+     "text": "APR in the context of interest rates"
+    },
+    {
+     "level": 2,
+     "text": "Using the APR calculator - Variables and financial terms"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate APR - An example with the applied formulas"
+    },
+    {
+     "level": 2,
+     "text": "What is a good APR for a credit card"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 3143,
+   "avgSentenceWords": 25,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "rate",
+     "weight": 77
+    },
+    {
+     "term": "apr",
+     "weight": 73
+    },
+    {
+     "term": "loan",
+     "weight": 68
+    },
+    {
+     "term": "interest",
+     "weight": 68
+    },
+    {
+     "term": "interest rate",
+     "weight": 48
+    },
+    {
+     "term": "annual",
+     "weight": 32
+    },
+    {
+     "term": "compounding",
+     "weight": 27
+    },
+    {
+     "term": "amount",
+     "weight": 25
+    },
+    {
+     "term": "calculator",
+     "weight": 24
+    },
+    {
+     "term": "annual percentage",
+     "weight": 24
+    },
+    {
+     "term": "percentage",
+     "weight": 23
+    },
+    {
+     "term": "loan amount",
+     "weight": 23
+    },
+    {
+     "term": "nominal interest",
+     "weight": 23
+    },
+    {
+     "term": "percentage rate",
+     "weight": 21
+    },
+    {
+     "term": "fees",
+     "weight": 21
+    },
+    {
+     "term": "effective",
+     "weight": 21
+    },
+    {
+     "term": "interest rates",
+     "weight": 20
+    },
+    {
+     "term": "payment",
+     "weight": 19
+    },
+    {
+     "term": "effective annual",
+     "weight": 18
+    },
+    {
+     "term": "annual rate",
+     "weight": 18
+    },
+    {
+     "term": "cost",
+     "weight": 17
+    },
+    {
+     "term": "rates",
+     "weight": 17
+    },
+    {
+     "term": "apr calculator",
+     "weight": 17
+    },
+    {
+     "term": "credit",
+     "weight": 16
+    },
+    {
+     "term": "nominal",
+     "weight": 16
+    },
+    {
+     "term": "financial",
+     "weight": 16
+    },
+    {
+     "term": "credit card",
+     "weight": 15
+    },
+    {
+     "term": "additional",
+     "weight": 15
+    },
+    {
+     "term": "periodic",
+     "weight": 13
+    },
+    {
+     "term": "rate apr",
+     "weight": 12
+    }
+   ],
+   "claims": [
+    "According to CreditCards.com, the average credit card APR is 17.73 percent as of May 22, 2019."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 18,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Payment",
+    "Compounding"
+   ],
+   "selectOptionsSample": "select yearly semi-annually quarterly monthly weekly bi-weekly daily select yearly semi-annually quarterly monthly weekly bi-weekly daily",
+   "unitToggle": false,
+   "wordsBeforeTool": 38,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Tibor Pál",
+    "published": "2019-02-26T16:23:30.981Z",
+    "modified": "2026-09-30T16:00:17.634Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 1047,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 25,
+    "external": 1,
+    "contentInternal": 9,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "simple interest calculator",
+     "compound interest calculator",
+     "APY calculator",
+     "student loan calculator",
+     "Present value",
+     "Loan payment",
+     "Prorated Rent Calculator",
+     "Emergency Fund Calculator",
+     "Full-time Equivalent (FTE) Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/finance/simple-interest",
+     "https://www.omnicalculator.com/finance/compound-interest",
+     "https://www.omnicalculator.com/finance/apy",
+     "https://www.omnicalculator.com/finance/student-loan",
+     "https://www.omnicalculator.com/finance/present-value",
+     "https://www.omnicalculator.com/finance/loan-payment",
+     "https://www.omnicalculator.com/finance/prorated-rent",
+     "https://www.omnicalculator.com/finance/emergency-fund",
+     "https://www.omnicalculator.com/finance/full-time-equivalent"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/apr-calculator/": {
+   "url": "https://www.inchcalculator.com/apr-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/apr-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T12:41:55.619Z",
+   "title": "APR Calculator - Inch Calculator",
+   "metaDescription": "Calculate the annual percentage rate for a loan using our APR calculator. Learn the formula used to find APR given rate, payment, and term.",
+   "canonical": "https://www.inchcalculator.com/apr-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "APR Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Annual Percentage Rate (APR)",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate the Annual Percentage Rate",
+    "Annual Percentage Rate Explained",
+    "APR vs. the Nominal Interest Rate",
+    "APR vs. APY",
+    "Frequently Asked Questions",
+    "Similar Finance Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "APR Formula",
+    "APR on Loans",
+    "APR on Credit Cards",
+    "Types of APRs",
+    "What does APR mean?",
+    "Does 0% APR mean no interest?",
+    "Why is your APR so high with good credit?",
+    "How can you lower your APR?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "APR Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Annual Percentage Rate (APR)"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate the Annual Percentage Rate"
+    },
+    {
+     "level": 3,
+     "text": "APR Formula"
+    },
+    {
+     "level": 2,
+     "text": "Annual Percentage Rate Explained"
+    },
+    {
+     "level": 3,
+     "text": "APR on Loans"
+    },
+    {
+     "level": 4,
+     "text": "Loan Payment Formula"
+    },
+    {
+     "level": 3,
+     "text": "APR on Credit Cards"
+    },
+    {
+     "level": 3,
+     "text": "Types of APRs"
+    },
+    {
+     "level": 2,
+     "text": "APR vs. the Nominal Interest Rate"
+    },
+    {
+     "level": 2,
+     "text": "APR vs. APY"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "What does APR mean?"
+    },
+    {
+     "level": 3,
+     "text": "Does 0% APR mean no interest?"
+    },
+    {
+     "level": 3,
+     "text": "Why is your APR so high with good credit?"
+    },
+    {
+     "level": 3,
+     "text": "How can you lower your APR?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Finance Calculators"
+    }
+   ],
+   "wordCount": 2143,
+   "avgSentenceWords": 22,
+   "faqs": [
+    "What does APR mean?",
+    "Does 0% APR mean no interest?",
+    "Why is your APR so high with good credit?",
+    "How can you lower your APR?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "apr",
+     "weight": 83
+    },
+    {
+     "term": "interest",
+     "weight": 60
+    },
+    {
+     "term": "loan",
+     "weight": 42
+    },
+    {
+     "term": "rate",
+     "weight": 41
+    },
+    {
+     "term": "interest rate",
+     "weight": 38
+    },
+    {
+     "term": "fees",
+     "weight": 31
+    },
+    {
+     "term": "credit",
+     "weight": 25
+    },
+    {
+     "term": "frac",
+     "weight": 20
+    },
+    {
+     "term": "calculator",
+     "weight": 18
+    },
+    {
+     "term": "credit cards",
+     "weight": 18
+    },
+    {
+     "term": "bank",
+     "weight": 17
+    },
+    {
+     "term": "financing fees",
+     "weight": 17
+    },
+    {
+     "term": "left frac",
+     "weight": 17
+    },
+    {
+     "term": "annual percentage",
+     "weight": 15
+    },
+    {
+     "term": "total",
+     "weight": 15
+    },
+    {
+     "term": "total interest",
+     "weight": 15
+    },
+    {
+     "term": "apr left",
+     "weight": 15
+    },
+    {
+     "term": "right times",
+     "weight": 15
+    },
+    {
+     "term": "times 365",
+     "weight": 15
+    },
+    {
+     "term": "credit card",
+     "weight": 15
+    },
+    {
+     "term": "financing",
+     "weight": 14
+    },
+    {
+     "term": "percentage rate",
+     "weight": 14
+    },
+    {
+     "term": "365 apr",
+     "weight": 14
+    },
+    {
+     "term": "annual",
+     "weight": 12
+    },
+    {
+     "term": "loans",
+     "weight": 12
+    },
+    {
+     "term": "cards",
+     "weight": 12
+    },
+    {
+     "term": "simple interest",
+     "weight": 12
+    },
+    {
+     "term": "left",
+     "weight": 12
+    },
+    {
+     "term": "frac frac",
+     "weight": 12
+    },
+    {
+     "term": "right",
+     "weight": 12
+    }
+   ],
+   "claims": [
+    "Interest for Bank A: i = \\$10,000 × 0.05 (5\\%) × 4 i = \\$2,000 Interest for Bank B: i = \\$10,000 × 0.04 (4\\%) × 4 i = \\$1,600 Now that we know the total interest, let’s calculate the APR for each loan.",
+    "0% APR is usually offered on credit card loans for a certain period of time, on certain types of transactions, or both.",
+    "It’s best to read the fine print on any 0% APR loan because 0% APR is usually not offered for the life of a loan, otherwise the lender would not be compensated for providing the loan and taking on the risk."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 3,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "Loan Amount",
+    "Interest Rate",
+    "Term",
+    "Financed Fees",
+    "Prepaid Fees"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 14,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joseph Rich",
+    "published": "2022-04-05",
+    "modified": "2023-05-02T17:12:45+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 141,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 52,
+    "external": 13,
+    "contentInternal": 28,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate the Annual Percentage Rate",
+     "APR Formula",
+     "Annual Percentage Rate Explained",
+     "APR on Loans",
+     "APR on Credit Cards",
+     "Types of APRs",
+     "APR vs. the Nominal Interest Rate",
+     "APR vs. APY",
+     "Frequently Asked Questions",
+     "Full bio",
+     "APR Calculator",
+     "simple interest formula",
+     "auto loan calculator",
+     "interest",
+     "pay off",
+     "APY calculator",
+     "compound interest"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/apr-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/apr/",
+     "https://www.inchcalculator.com/apr-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/apr-calculator/#idx_how_to_calculate_the_annual_percentage_rate",
+     "https://www.inchcalculator.com/apr-calculator/#idx_apr_formula",
+     "https://www.inchcalculator.com/apr-calculator/#idx_annual_percentage_rate_explained",
+     "https://www.inchcalculator.com/apr-calculator/#idx_apr_on_loans",
+     "https://www.inchcalculator.com/apr-calculator/#idx_apr_on_credit_cards",
+     "https://www.inchcalculator.com/apr-calculator/#idx_types_of_aprs",
+     "https://www.inchcalculator.com/apr-calculator/#idx_apr_vs_the_nominal_interest_rate",
+     "https://www.inchcalculator.com/apr-calculator/#idx_apr_vs_apy",
+     "https://www.inchcalculator.com/apr-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/joseph-rich/",
+     "https://www.inchcalculator.com/author/laura-deimling/",
+     "https://www.inchcalculator.com/apr-calculator/",
+     "https://www.inchcalculator.com/simple-interest-calculator/",
+     "https://www.inchcalculator.com/auto-loan-calculator/",
+     "https://www.inchcalculator.com/credit-card-interest-calculator/",
+     "https://www.inchcalculator.com/credit-card-payoff-calculator/",
+     "https://www.inchcalculator.com/apy-calculator/",
+     "https://www.inchcalculator.com/compound-interest-calculator/",
+     "https://www.inchcalculator.com/apr-to-apy-calculator/",
+     "https://www.inchcalculator.com/interest-calculator/",
+     "https://www.inchcalculator.com/atv-loan-calculator/",
+     "https://www.inchcalculator.com/boat-loan-calculator/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fapr-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fapr-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fapr-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fapr-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fapr-calculator%2F&text=APR+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fapr-calculator%2F&text=APR+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

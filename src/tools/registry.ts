@@ -47,13 +47,18 @@ import magi from "./modified-adjusted-gross-income-calculator/meta";
 import moneyMarket from "./money-market-calculator/meta";
 import confInt from "./confidence-interval-calculator/meta";
 import superscript from "./superscript-generator/meta";
+import era from "./earned-run-average-calculator/meta";
+import apStats from "./ap-statistics-score-calculator/meta";
+import gcf from "./gcf-calculator/meta";
+import apr from "./apr-calculator/meta";
+import wire from "./wire-size-calculator/meta";
 
 /**
  * Registry of PUBLISHED tools only (never list unbuilt tools → no broken links, no thin pages).
  * Add a tool: create src/tools/<slug>/meta.ts, import it here, add to TOOLS. That's the only wiring needed
  * for sitemap, category hubs, /tools/ index, home page and related-tool links.
  */
-export const TOOLS: ToolMeta[] = [daysFromToday, payment, interestRate, discount, ratio, proportion, hypotenuse, rng, rightTriangle, age, hours, period, armyBodyFat, bench, cubicYard, gravel, sand, sqft, k401, mortgage, gpa, apWorld, bowling, fraction, sqrt, molWeight, cylinder, overtime, paycheck, asphalt, apBio, bmiWomen, apChem, concrete, npvCalc, halfBday, dogPreg, binary, poolSalt, rafter, stair, sciNot, gradeCalc, magi, moneyMarket, confInt, superscript];
+export const TOOLS: ToolMeta[] = [daysFromToday, payment, interestRate, discount, ratio, proportion, hypotenuse, rng, rightTriangle, age, hours, period, armyBodyFat, bench, cubicYard, gravel, sand, sqft, k401, mortgage, gpa, apWorld, bowling, fraction, sqrt, molWeight, cylinder, overtime, paycheck, asphalt, apBio, bmiWomen, apChem, concrete, npvCalc, halfBday, dogPreg, binary, poolSalt, rafter, stair, sciNot, gradeCalc, magi, moneyMarket, confInt, superscript, era, apStats, gcf, apr, wire];
 
 const bySlug = new Map(TOOLS.map((t) => [t.slug, t]));
 export const getTool = (slug: string) => {

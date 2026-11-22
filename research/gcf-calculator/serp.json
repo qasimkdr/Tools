@@ -1,0 +1,257 @@
+{
+ "keywords": {
+  "gcf calculator": {
+   "fetchedAt": "2026-11-22T12:41:21.043Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1200000,
+   "fileKd": 47,
+   "fileIntent": "C",
+   "semrushCompetitor": {
+    "position": 2,
+    "url": "www.calculator.net/gcf-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.omnicalculator.com/math/gcf",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.omnicalculator.com/math/gcf?c=INR",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.pearson.com/channels/calculators/gcf-lcm-calculator",
+     "domain": "www.pearson.com",
+     "title": "gcf lcm calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.pearson.com/channels/ko-kr/calculators/gcf-lcm-calculator",
+     "domain": "www.pearson.com",
+     "title": "gcf lcm calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://coddy.tech/math/calculators/gcf-calculator",
+     "domain": "coddy.tech",
+     "title": "gcf calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://calculator.io/gcf-calculator",
+     "domain": "calculator.io",
+     "title": "Math Calculators",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.cuemath.com/calculators/gcf-calculator",
+     "domain": "www.cuemath.com",
+     "title": "GCF Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.calculator.net/gcf-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Greatest Common Factor Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.calculator.net/gcf",
+     "domain": "www.calculator.net",
+     "title": "Greatest Common Factor Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://dqydj.com/?p=16240",
+     "domain": "dqydj.com",
+     "title": "Greatest Common Factor Calculator (GCF or GCD)",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://miniwebtool.com/greatest-common-factor-calculator/",
+     "domain": "miniwebtool.com",
+     "title": "greatest common factor calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.calculatorsoup.com/calculators/math/gcf.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Greatest Common Factor (GCF, HCF, GCD) Calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.vedantu.com/maths/greatest-common-factor-calculator",
+     "domain": "www.vedantu.com",
+     "title": "greatest common factor calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://www.vedantu.com/calculator/gcf",
+     "domain": "www.vedantu.com",
+     "title": "www.vedantu.com",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://www.mathsisfun.com/greatest-common-factor-tool.html",
+     "domain": "www.mathsisfun.com",
+     "title": "Greatest Common Factor Calculator",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://thecalculatortoolbox.odoo.com/greatest-common-factor-calculator",
+     "domain": "thecalculatortoolbox.odoo.com",
+     "title": "Greatest Common Factor Calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://github.com/pub-calculator-io/gcf-calculator",
+     "domain": "github.com",
+     "title": "gcf calculator",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://www.inchcalculator.com/gcf-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "GCF Calculator (Greatest Common Factor)",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://mathcheck.net/calculators/gcf",
+     "domain": "mathcheck.net",
+     "title": "mathcheck.net",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://www.easyunitconverter.com/gcf-calculator",
+     "domain": "www.easyunitconverter.com",
+     "title": "gcf calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "gcf-calculator",
+ "page": "gcf-calculator",
+ "category": "math",
+ "name": "Gcf Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T12:41:21.043Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://www.omnicalculator.com/math/gcf",
+    "https://www.omnicalculator.com/math/gcf?c=INR"
+   ]
+  },
+  {
+   "domain": "pearson.com",
+   "bestRank": 3,
+   "keywords": 2,
+   "urls": [
+    "https://www.pearson.com/channels/calculators/gcf-lcm-calculator",
+    "https://www.pearson.com/channels/ko-kr/calculators/gcf-lcm-calculator"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 8,
+   "keywords": 2,
+   "urls": [
+    "https://www.calculator.net/gcf-calculator.html",
+    "https://www.calculator.net/gcf"
+   ]
+  },
+  {
+   "domain": "vedantu.com",
+   "bestRank": 13,
+   "keywords": 2,
+   "urls": [
+    "https://www.vedantu.com/maths/greatest-common-factor-calculator",
+    "https://www.vedantu.com/calculator/gcf"
+   ]
+  },
+  {
+   "domain": "coddy.tech",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://coddy.tech/math/calculators/gcf-calculator"
+   ]
+  },
+  {
+   "domain": "calculator.io",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://calculator.io/gcf-calculator"
+   ]
+  },
+  {
+   "domain": "cuemath.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.cuemath.com/calculators/gcf-calculator"
+   ]
+  },
+  {
+   "domain": "dqydj.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://dqydj.com/?p=16240"
+   ]
+  },
+  {
+   "domain": "miniwebtool.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://miniwebtool.com/greatest-common-factor-calculator/"
+   ]
+  },
+  {
+   "domain": "calculatorsoup.com",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculatorsoup.com/calculators/math/gcf.php"
+   ]
+  }
+ ]
+}

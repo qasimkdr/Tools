@@ -1,0 +1,256 @@
+{
+ "keywords": {
+  "wire gauge calculator": {
+   "fetchedAt": "2026-11-22T12:41:21.267Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 5400,
+   "fileKd": 16,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 4,
+    "url": "www.omnicalculator.com/physics/wire-size"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.omnicalculator.com/other/wire-gauge",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.omnicalculator.com/physics/wire-gauge",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.google.co.il/amp/s/www.engineeringtoolbox.com/amp/awg-wire-gauge-calculator-d_818.html",
+     "domain": "www.google.co.il",
+     "title": "Online Wire Gauge - AWG - Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.inchcalculator.com/wire-gauge-size-and-resistance-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Wire Size Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.inchcalculator.com/wire-size-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Wire Size Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://rapidtables.com/calc/wire/wire-gauge-chart.html",
+     "domain": "rapidtables.com",
+     "title": "Wire Gauge Size Chart",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.miniwebtool.com/wire-gauge-calculator/",
+     "domain": "www.miniwebtool.com",
+     "title": "wire gauge calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://en.wikipedia.org/wiki/Wire_gauge",
+     "domain": "en.wikipedia.org",
+     "title": "Wire gauge",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://littlebirdelectronics.com.au/calculators/wire-gauge-awg-calculator",
+     "domain": "littlebirdelectronics.com.au",
+     "title": "wire gauge awg calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://calctool.org/electronics/wire-gauge",
+     "domain": "calctool.org",
+     "title": "Wire Gauge Calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://international.projectwet.org/node/6397",
+     "domain": "international.projectwet.org",
+     "title": "WIRE GAUGE CALCULATOR",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.firgelliauto.com/es/blogs/engineering-calculators/wire-size-calculator",
+     "domain": "www.firgelliauto.com",
+     "title": "Wire Size Interactive Calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.futureelectronics.com/conversion-calculators/wire-size-conversion-calculator",
+     "domain": "www.futureelectronics.com",
+     "title": "text.skipToContent",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://www.electricaltechnology.org/?p=43465",
+     "domain": "www.electricaltechnology.org",
+     "title": "American Wire Gauge AWG Calculator - AWG Size Chart & Table",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://www.newark.com/pt-BR/calculadora-de-conversao-awg",
+     "domain": "www.newark.com",
+     "title": "American Wire Gauge Conversion Calculator",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://www.vcalc.com/wiki/wire-gauge-for-voltage-drop",
+     "domain": "www.vcalc.com",
+     "title": "wire gauge for voltage drop",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://www.firgelliauto.com/es/blogs/engineering-calculators/amp-to-wire-size-calculator",
+     "domain": "www.firgelliauto.com",
+     "title": "Amp To Wire Size Interactive Calculator",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://engineeringtoolbox.com/amp/awg-wire-gauge-calculator-d_818.html",
+     "domain": "engineeringtoolbox.com",
+     "title": "awg wire gauge calculator d 818",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://circuitcalculator.com/wordpress/2007/09",
+     "domain": "circuitcalculator.com",
+     "title": "jump to navigation",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://powerwerx.com/help/recommended-wire-gauge-calculator",
+     "domain": "powerwerx.com",
+     "title": "recommended wire gauge calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "wire-size-calculator",
+ "page": "wire-size-calculator",
+ "category": "science",
+ "name": "Wire Size Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T12:41:21.267Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://www.omnicalculator.com/other/wire-gauge",
+    "https://www.omnicalculator.com/physics/wire-gauge"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 4,
+   "keywords": 2,
+   "urls": [
+    "https://www.inchcalculator.com/wire-gauge-size-and-resistance-calculator/",
+    "https://www.inchcalculator.com/wire-size-calculator/"
+   ]
+  },
+  {
+   "domain": "firgelliauto.com",
+   "bestRank": 12,
+   "keywords": 2,
+   "urls": [
+    "https://www.firgelliauto.com/es/blogs/engineering-calculators/wire-size-calculator",
+    "https://www.firgelliauto.com/es/blogs/engineering-calculators/amp-to-wire-size-calculator"
+   ]
+  },
+  {
+   "domain": "google.co.il",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.google.co.il/amp/s/www.engineeringtoolbox.com/amp/awg-wire-gauge-calculator-d_818.html"
+   ]
+  },
+  {
+   "domain": "rapidtables.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://rapidtables.com/calc/wire/wire-gauge-chart.html"
+   ]
+  },
+  {
+   "domain": "miniwebtool.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.miniwebtool.com/wire-gauge-calculator/"
+   ]
+  },
+  {
+   "domain": "wikipedia.org",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://en.wikipedia.org/wiki/Wire_gauge"
+   ]
+  },
+  {
+   "domain": "littlebirdelectronics.com.au",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://littlebirdelectronics.com.au/calculators/wire-gauge-awg-calculator"
+   ]
+  },
+  {
+   "domain": "calctool.org",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://calctool.org/electronics/wire-gauge"
+   ]
+  },
+  {
+   "domain": "projectwet.org",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://international.projectwet.org/node/6397"
+   ]
+  }
+ ]
+}

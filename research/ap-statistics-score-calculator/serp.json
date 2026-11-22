@@ -1,0 +1,221 @@
+{
+ "keywords": {
+  "ap stats grading calculator": {
+   "fetchedAt": "2026-11-22T12:41:20.919Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 4400,
+   "fileKd": 8,
+   "fileIntent": "C",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://fiveable.me/ap-stats/ap-score-calculator",
+     "domain": "fiveable.me",
+     "title": "ap score calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://albert.io/blog/?p=26583",
+     "domain": "albert.io",
+     "title": "Icon for Tools & Calculators",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.albert.io/blog/ap-statistics-score-calculator",
+     "domain": "www.albert.io",
+     "title": "ap statistics score calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.albert.io/blog/calculator-sat/ap-statistics",
+     "domain": "www.albert.io",
+     "title": "ap statistics",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.albert.io/blog/ap-statistics",
+     "domain": "www.albert.io",
+     "title": "ap statistics",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.collegetransitions.com/?p=14678",
+     "domain": "www.collegetransitions.com",
+     "title": "AP Statistics (AP Stats) Score Calculator - 2026",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.collegetransitions.com/blog/ap-stats-score-calculator/",
+     "domain": "www.collegetransitions.com",
+     "title": "AP Statistics (AP Stats) Score Calculator - 2026",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.test-ninjas.com/ap-statistics-score-calculator",
+     "domain": "www.test-ninjas.com",
+     "title": "ap statistics score calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://achievable.me/exams/ap-statistics/score-calculator/",
+     "domain": "achievable.me",
+     "title": "Achievable logo",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.remnote.com/score-calculator/ap-statistics",
+     "domain": "www.remnote.com",
+     "title": "All AP Score Calculators",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://collegeprep.uworld.com/ap-statistics/scores-and-calculator",
+     "domain": "collegeprep.uworld.com",
+     "title": "SAT Courses Ship FREE",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://collegeprep.uworld.com/?p=50363",
+     "domain": "collegeprep.uworld.com",
+     "title": "AP Statistics Exam Scoring Guide",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.collegevine.com/faq/122480/grasping-ap-statistics-calculation-for-successful-pass",
+     "domain": "www.collegevine.com",
+     "title": "grasping ap statistics calculation for successful pass",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://www.albert.io/blog/ap-statistics-faq/",
+     "domain": "www.albert.io",
+     "title": "Maximize your score with these resources:",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://fiveable.me/ap-score-calculator/ap-calc",
+     "domain": "fiveable.me",
+     "title": "ap calc",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://voip.puri.sm/?p=1288948",
+     "domain": "voip.puri.sm",
+     "title": "Ap Stats Grading Calculator Simplifying Assessment and Feedback",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "ap-statistics-score-calculator",
+ "page": "ap-statistics-score-calculator",
+ "category": "education",
+ "name": "AP Statistics Score Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T12:41:20.920Z",
+ "topCompetitors": [
+  {
+   "domain": "albert.io",
+   "bestRank": 2,
+   "keywords": 5,
+   "urls": [
+    "https://albert.io/blog/?p=26583",
+    "https://www.albert.io/blog/ap-statistics-score-calculator",
+    "https://www.albert.io/blog/calculator-sat/ap-statistics",
+    "https://www.albert.io/blog/ap-statistics",
+    "https://www.albert.io/blog/ap-statistics-faq/"
+   ]
+  },
+  {
+   "domain": "fiveable.me",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://fiveable.me/ap-stats/ap-score-calculator",
+    "https://fiveable.me/ap-score-calculator/ap-calc"
+   ]
+  },
+  {
+   "domain": "collegetransitions.com",
+   "bestRank": 6,
+   "keywords": 2,
+   "urls": [
+    "https://www.collegetransitions.com/?p=14678",
+    "https://www.collegetransitions.com/blog/ap-stats-score-calculator/"
+   ]
+  },
+  {
+   "domain": "uworld.com",
+   "bestRank": 11,
+   "keywords": 2,
+   "urls": [
+    "https://collegeprep.uworld.com/ap-statistics/scores-and-calculator",
+    "https://collegeprep.uworld.com/?p=50363"
+   ]
+  },
+  {
+   "domain": "test-ninjas.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.test-ninjas.com/ap-statistics-score-calculator"
+   ]
+  },
+  {
+   "domain": "achievable.me",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://achievable.me/exams/ap-statistics/score-calculator/"
+   ]
+  },
+  {
+   "domain": "remnote.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://www.remnote.com/score-calculator/ap-statistics"
+   ]
+  },
+  {
+   "domain": "collegevine.com",
+   "bestRank": 13,
+   "keywords": 1,
+   "urls": [
+    "https://www.collegevine.com/faq/122480/grasping-ap-statistics-calculation-for-successful-pass"
+   ]
+  },
+  {
+   "domain": "puri.sm",
+   "bestRank": 16,
+   "keywords": 1,
+   "urls": [
+    "https://voip.puri.sm/?p=1288948"
+   ]
+  }
+ ]
+}

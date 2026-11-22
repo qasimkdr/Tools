@@ -1,0 +1,1298 @@
+{
+ "pages": {
+  "https://www.calculator.net/gcf-calculator.html": {
+   "url": "https://www.calculator.net/gcf-calculator.html",
+   "finalUrl": "https://www.calculator.net/gcf-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T12:41:33.878Z",
+   "title": "Greatest Common Factor Calculator",
+   "metaDescription": "This free GCF calculator determines the greatest common factor of a given set of numbers. Also, learn more about several methods for finding the GCF.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Greatest Common Factor Calculator"
+   ],
+   "h2": [],
+   "h3": [
+    "What is the Greatest Common Factor (GCF)?",
+    "Prime Factorization Method",
+    "Euclidean Algorithm"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Greatest Common Factor Calculator"
+    },
+    {
+     "level": 3,
+     "text": "What is the Greatest Common Factor (GCF)?"
+    },
+    {
+     "level": 3,
+     "text": "Prime Factorization Method"
+    },
+    {
+     "level": 3,
+     "text": "Euclidean Algorithm"
+    }
+   ],
+   "wordCount": 520,
+   "avgSentenceWords": 24,
+   "faqs": [
+    "What is the Greatest Common Factor (GCF)?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "gcf",
+     "weight": 23
+    },
+    {
+     "term": "greatest common",
+     "weight": 9
+    },
+    {
+     "term": "268442 178296",
+     "weight": 9
+    },
+    {
+     "term": "common",
+     "weight": 8
+    },
+    {
+     "term": "common factor",
+     "weight": 8
+    },
+    {
+     "term": "gcf 268442",
+     "weight": 8
+    },
+    {
+     "term": "integers",
+     "weight": 7
+    },
+    {
+     "term": "greatest",
+     "weight": 6
+    },
+    {
+     "term": "factor",
+     "weight": 6
+    },
+    {
+     "term": "prime factorization",
+     "weight": 6
+    },
+    {
+     "term": "math",
+     "weight": 5
+    },
+    {
+     "term": "calculator",
+     "weight": 5
+    },
+    {
+     "term": "prime",
+     "weight": 5
+    },
+    {
+     "term": "algorithm",
+     "weight": 5
+    },
+    {
+     "term": "result",
+     "weight": 5
+    },
+    {
+     "term": "factor calculator",
+     "weight": 5
+    },
+    {
+     "term": "euclidean algorithm",
+     "weight": 5
+    },
+    {
+     "term": "find",
+     "weight": 4
+    },
+    {
+     "term": "integer",
+     "weight": 4
+    },
+    {
+     "term": "example",
+     "weight": 4
+    },
+    {
+     "term": "factorization",
+     "weight": 4
+    },
+    {
+     "term": "method",
+     "weight": 4
+    },
+    {
+     "term": "number",
+     "weight": 4
+    },
+    {
+     "term": "factor gcf",
+     "weight": 3
+    },
+    {
+     "term": "factors",
+     "weight": 3
+    },
+    {
+     "term": "smaller",
+     "weight": 3
+    },
+    {
+     "term": "larger",
+     "weight": 3
+    },
+    {
+     "term": "euclidean",
+     "weight": 3
+    },
+    {
+     "term": "same process",
+     "weight": 3
+    },
+    {
+     "term": "step",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "EX: GCF(16, 88, 104) 16 = 2 × 2 × 2 × 2 88 = 2 × 2 × 2 × 11 104 = 2 × 2 × 2 × 13 GCF(16, 88, 104) = 2 × 2 × 2 = 8 Prime factorization is only efficient for smaller integer values.",
+    "Once the remainder is 0, the GCF is the remainder from the step preceding the zero result.",
+    "Referring to the previous example, if instead the desired value were GCF(268442, 178296, 66888), after having found that GCF(268442, 178296) is 2, the next step would be to calculate GCF(66888, 2).",
+    "In this particular case, it is clear that the GCF would also be 2, yielding the result of GCF(268442, 178296, 66888) = 2."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 5,
+   "lists": 1,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "numberinputs"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 31,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 8,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 20,
+    "external": 0,
+    "contentInternal": 20,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "math",
+     "greatest common factor calculator",
+     "LCM Calculator",
+     "Factor Calculator",
+     "Math Calculators",
+     "Scientific",
+     "Fraction",
+     "Percentage",
+     "Triangle",
+     "Volume",
+     "Standard Deviation",
+     "Random Number Generator",
+     "More Math Calculators",
+     "Financial",
+     "Fitness and Health",
+     "Math",
+     "Other",
+     "about us"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/gcf-calculator.html",
+     "https://www.calculator.net/lcm-calculator.html",
+     "https://www.calculator.net/factor-calculator.html",
+     "https://www.calculator.net/scientific-calculator.html",
+     "https://www.calculator.net/fraction-calculator.html",
+     "https://www.calculator.net/percent-calculator.html",
+     "https://www.calculator.net/triangle-calculator.html",
+     "https://www.calculator.net/volume-calculator.html",
+     "https://www.calculator.net/standard-deviation-calculator.html",
+     "https://www.calculator.net/random-number-generator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/math/gcf": {
+   "url": "https://www.omnicalculator.com/math/gcf",
+   "finalUrl": "https://www.omnicalculator.com/math/gcf",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T12:41:37.165Z",
+   "title": "GCF Calculator | Greatest Common Factor",
+   "metaDescription": "The GCF calculator helps you find the Greatest Common Factor between numbers in a set.",
+   "canonical": "https://www.omnicalculator.com/math/gcf",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "GCF Calculator – Greatest Common Factor"
+   ],
+   "h2": [
+    "What is the greatest common factor? Definition",
+    "How to find the greatest common factor",
+    "GCF finder – list of factors",
+    "Prime factorization",
+    "Euclidean algorithm",
+    "Binary greatest common divisor algorithm",
+    "Coprime numbers",
+    "Greatest common denominator of more than two numbers",
+    "Least common multiple and GCF calculation",
+    "Properties of GCD",
+    "FAQs"
+   ],
+   "h3": [
+    "Is 2 the GCF of 14 and 42?",
+    "What is the GCF of 8 and 12?",
+    "How to find the GCF of 24 and 36?",
+    "What is the GCF of 30 and 54?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "GCF Calculator – Greatest Common Factor"
+    },
+    {
+     "level": 2,
+     "text": "What is the greatest common factor? Definition"
+    },
+    {
+     "level": 2,
+     "text": "How to find the greatest common factor"
+    },
+    {
+     "level": 2,
+     "text": "GCF finder – list of factors"
+    },
+    {
+     "level": 2,
+     "text": "Prime factorization"
+    },
+    {
+     "level": 2,
+     "text": "Euclidean algorithm"
+    },
+    {
+     "level": 2,
+     "text": "Binary greatest common divisor algorithm"
+    },
+    {
+     "level": 2,
+     "text": "Coprime numbers"
+    },
+    {
+     "level": 2,
+     "text": "Greatest common denominator of more than two numbers"
+    },
+    {
+     "level": 2,
+     "text": "Least common multiple and GCF calculation"
+    },
+    {
+     "level": 2,
+     "text": "Properties of GCD"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "Is 2 the GCF of 14 and 42?"
+    },
+    {
+     "level": 3,
+     "text": "What is the GCF of 8 and 12?"
+    },
+    {
+     "level": 3,
+     "text": "How to find the GCF of 24 and 36?"
+    },
+    {
+     "level": 3,
+     "text": "What is the GCF of 30 and 54?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 3143,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "Is 2 the GCF of 14 and 42?",
+    "What is the GCF of 8 and 12?",
+    "How to find the GCF of 24 and 36?",
+    "What is the GCF of 30 and 54?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "gcf",
+     "weight": 101
+    },
+    {
+     "term": "common",
+     "weight": 56
+    },
+    {
+     "term": "greatest common",
+     "weight": 50
+    },
+    {
+     "term": "numbers",
+     "weight": 47
+    },
+    {
+     "term": "greatest",
+     "weight": 35
+    },
+    {
+     "term": "factors",
+     "weight": 34
+    },
+    {
+     "term": "common factor",
+     "weight": 30
+    },
+    {
+     "term": "factor",
+     "weight": 22
+    },
+    {
+     "term": "prime",
+     "weight": 22
+    },
+    {
+     "term": "find",
+     "weight": 22
+    },
+    {
+     "term": "algorithm",
+     "weight": 18
+    },
+    {
+     "term": "gcd",
+     "weight": 17
+    },
+    {
+     "term": "common divisor",
+     "weight": 17
+    },
+    {
+     "term": "prime factorization",
+     "weight": 15
+    },
+    {
+     "term": "euclidean algorithm",
+     "weight": 15
+    },
+    {
+     "term": "number",
+     "weight": 15
+    },
+    {
+     "term": "divisor",
+     "weight": 14
+    },
+    {
+     "term": "lcm",
+     "weight": 13
+    },
+    {
+     "term": "result",
+     "weight": 13
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "euclidean",
+     "weight": 12
+    },
+    {
+     "term": "both",
+     "weight": 12
+    },
+    {
+     "term": "least common",
+     "weight": 11
+    },
+    {
+     "term": "common multiple",
+     "weight": 11
+    },
+    {
+     "term": "prime factors",
+     "weight": 11
+    },
+    {
+     "term": "factorization",
+     "weight": 10
+    },
+    {
+     "term": "multiple",
+     "weight": 10
+    },
+    {
+     "term": "let's",
+     "weight": 10
+    },
+    {
+     "term": "even",
+     "weight": 10
+    },
+    {
+     "term": "odd",
+     "weight": 10
+    }
+   ],
+   "claims": [
+    "GCF Calculator – Greatest Common Factor #1 #2 #3 Enter at least 2 numbers to calculate the GCF.",
+    "Let's repeat the Euclidean algorithm for our examples using modulo instead of ordinary subtraction: GCF of 72 and 40: 72 mod 40 = 32, GCF of 40 and 32: 40 mod 32 = 8, GCF of 32 and 8: 32 mod 8 = 0 STOP!",
+    "GCF of 35,640 and 33,264: 35,640 mod 33,264 = 2376, GCF of 33,264 and 2376: 33,264 mod 2376 = 0 STOP!",
+    "Two even numbers: gcf(35,640, 33,264) = 2 × gcf(17,820, 16,632) = 2² × gcf(8910, 8316) = 2³ × gcf(4455, 4158) = ….",
+    "One even one odd: … = 2³ × gcf(4455, 2079).",
+    "Two odd: … = 2³ × gcf((4455-2079)/2, 2079) = 2³ × gcf(1188, 2079).",
+    "One even one odd: … = 2³ × gcf(594, 2079) = 2³ × gcf(297, 2079).",
+    "Two odd: … = 2³ × gcf((2079-297)/2, 297) = 2³ × gcf(891, 297).",
+    "Two odd: … = 2³ × gcf((891-297)/2, 297) = 2³ × gcf(297, 297) = 2³ × 297 = 2376.",
+    "In other words, we can write that numbers A and B are coprime if gcf(A,B) = 1."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 20,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Mateusz Mucha",
+    "published": "2015-11-30T11:07:23.793Z",
+    "modified": "2026-07-07T14:19:06.034Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 672,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 23,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "GCF and LCM calculator",
+     "factors",
+     "the prime factorization",
+     "The modulo",
+     "LCM calculator",
+     "Least Common Multiple Calculator",
+     "Absolute Value Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/math/gcf-and-lcm",
+     "https://www.omnicalculator.com/math/factor",
+     "https://www.omnicalculator.com/math/prime-factorization",
+     "https://www.omnicalculator.com/math/modulo",
+     "https://www.omnicalculator.com/math/lcm",
+     "https://www.omnicalculator.com/math/least-common-multiple",
+     "https://www.omnicalculator.com/math/absolute-value"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/math/gcf.php": {
+   "url": "https://www.calculatorsoup.com/calculators/math/gcf.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/math/gcf.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T12:41:40.127Z",
+   "title": "Greatest Common Factor Calculator",
+   "metaDescription": "Calculate the GCF, GCD or HCF and see work with steps. Learn how to find the greatest common factor using factoring, prime factorization and the Euclidean Algorithm. The greatest common factor of two or more whole numbers is the largest whole number that divides evenly into each of the numbers.",
+   "canonical": "https://www.calculatorsoup.com/calculators/math/gcf.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Greatest Common Factor (GCF, HCF, GCD) Calculator"
+   ],
+   "h2": [
+    "What is the Greatest Common Factor?",
+    "Greatest Common Factor of 0",
+    "How to Find the Greatest Common Factor (GCF)",
+    "How to Find the GCF Using Euclid's Algorithm"
+   ],
+   "h3": [
+    "Factoring",
+    "Prime Factorization",
+    "Euclid's Algorithm",
+    "References",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Greatest Common Factor (GCF, HCF, GCD) Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is the Greatest Common Factor?"
+    },
+    {
+     "level": 2,
+     "text": "Greatest Common Factor of 0"
+    },
+    {
+     "level": 2,
+     "text": "How to Find the Greatest Common Factor (GCF)"
+    },
+    {
+     "level": 3,
+     "text": "Factoring"
+    },
+    {
+     "level": 4,
+     "text": "Example: Find the GCF of 18 and 27"
+    },
+    {
+     "level": 4,
+     "text": "Example: Find the GCF of 20, 50 and 120"
+    },
+    {
+     "level": 3,
+     "text": "Prime Factorization"
+    },
+    {
+     "level": 4,
+     "text": "Example: Find the GCF (18, 27)"
+    },
+    {
+     "level": 4,
+     "text": "Example: Find the GCF (20, 50, 120)"
+    },
+    {
+     "level": 3,
+     "text": "Euclid's Algorithm"
+    },
+    {
+     "level": 2,
+     "text": "How to Find the GCF Using Euclid's Algorithm"
+    },
+    {
+     "level": 4,
+     "text": "Example: Find the GCF (18, 27)"
+    },
+    {
+     "level": 4,
+     "text": "Example: Find the GCF (20, 50, 120)"
+    },
+    {
+     "level": 4,
+     "text": "Example: Find the GCF (182664, 154875, 137688) or GCF (GCF(182664, 154875), 137688)"
+    },
+    {
+     "level": 3,
+     "text": "References"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 1366,
+   "avgSentenceWords": 19,
+   "faqs": [
+    "What is the Greatest Common Factor?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "greatest common",
+     "weight": 45
+    },
+    {
+     "term": "gcf",
+     "weight": 44
+    },
+    {
+     "term": "common factor",
+     "weight": 42
+    },
+    {
+     "term": "common",
+     "weight": 40
+    },
+    {
+     "term": "greatest",
+     "weight": 30
+    },
+    {
+     "term": "factor",
+     "weight": 30
+    },
+    {
+     "term": "number",
+     "weight": 23
+    },
+    {
+     "term": "find",
+     "weight": 21
+    },
+    {
+     "term": "factors",
+     "weight": 21
+    },
+    {
+     "term": "calculator",
+     "weight": 17
+    },
+    {
+     "term": "numbers",
+     "weight": 16
+    },
+    {
+     "term": "prime",
+     "weight": 16
+    },
+    {
+     "term": "prime factorization",
+     "weight": 15
+    },
+    {
+     "term": "factorization",
+     "weight": 13
+    },
+    {
+     "term": "factor gcf",
+     "weight": 11
+    },
+    {
+     "term": "example find",
+     "weight": 11
+    },
+    {
+     "term": "example",
+     "weight": 10
+    },
+    {
+     "term": "whole",
+     "weight": 9
+    },
+    {
+     "term": "result",
+     "weight": 9
+    },
+    {
+     "term": "182664 154875",
+     "weight": 9
+    },
+    {
+     "term": "whole number",
+     "weight": 8
+    },
+    {
+     "term": "prime factors",
+     "weight": 8
+    },
+    {
+     "term": "gcd",
+     "weight": 7
+    },
+    {
+     "term": "zero",
+     "weight": 7
+    },
+    {
+     "term": "calculators",
+     "weight": 6
+    },
+    {
+     "term": "hcf",
+     "weight": 6
+    },
+    {
+     "term": "whole numbers",
+     "weight": 6
+    },
+    {
+     "term": "euclid's algorithm",
+     "weight": 6
+    },
+    {
+     "term": "larger number",
+     "weight": 6
+    },
+    {
+     "term": "math",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "For example, for the set of numbers 18, 30 and 42 the GCF = 6.",
+    "GCF(5,0) = 5 and more generally GCF(k,0) = k for any whole number k.",
+    "Example: Find the GCF of 18 and 27 The factors of 18 are 1, 2, 3, 6, 9, 18.",
+    "Example: Find the GCF of 20, 50 and 120 The factors of 20 are 1, 2, 4, 5, 10, 20.",
+    "Example: Find the GCF (18, 27) The prime factorization of 18 is 2 x 3 x 3 = 18.",
+    "Example: Find the GCF (20, 50, 120) The prime factorization of 20 is 2 x 2 x 5 = 20.",
+    "Example: Find the GCF (18, 27) 27 - 18 = 9 18 - 9 - 9 = 0 So, the greatest common factor of 18 and 27 is 9, the smallest result we had before we reached 0.",
+    "Example: Find the GCF (20, 50, 120) Note that the GCF (x,y,z) = GCF (GCF (x,y),z).",
+    "In other words, the GCF of 3 or more numbers can be found by finding the GCF of 2 numbers and using the result along with the next number to find the GCF and so on.",
+    "Let's get the GCF (120,50) first 120 - 50 - 50 = 120 - (50 * 2) = 20 50 - 20 - 20 = 50 - (20 * 2) = 10 20 - 10 - 10 = 20 - (10 * 2) = 0 So, the greatest common factor of 120 and 50 is 10."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 2,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Find the GCF of: enter two or more whole numbersseparated by commas or spaces.",
+    "reset"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 41,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "August 1, 2025",
+    "authoritativeSources": [
+     "https://en.wikipedia.org/wiki/Euclidean_algorithm"
+    ]
+   },
+   "ux": {
+    "htmlKB": 63,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 21,
+    "external": 3,
+    "contentInternal": 11,
+    "contentExternal": 3,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Math",
+     "Greatest Common Factor (GCF, HCF, GCD) Calculator",
+     "Prime Factorization",
+     "Euclid's Algorithm",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Factors Calculator",
+     "Prime Factors Calculator",
+     "Factoring Calculator",
+     "Prime Factorization Calculator",
+     "Euclid's Algorithm Calculator",
+     "Greatest Common Factor Calculator",
+     "https://www.calculatorsoup.com/calculators/math/gcf.php",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/math/",
+     "https://www.calculatorsoup.com/calculators/math/gcf.php",
+     "https://www.calculatorsoup.com/calculators/math/gcf.php#prime",
+     "https://www.calculatorsoup.com/calculators/math/gcf.php#euclid",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=math%2F&folderName=Math&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/math/gcf.php&h1=Greatest+Common+Factor+%28GCF%2C+HCF%2C+GCD%29+Calculator&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/math/factors.php",
+     "https://www.calculatorsoup.com/calculators/math/prime-factors.php",
+     "https://www.calculatorsoup.com/calculators/math/gcf-euclids-algorithm.php"
+    ],
+    "externalSample": [
+     "https://mathworld.wolfram.com/GreatestCommonDivisor.html",
+     "https://www.helpwithfractions.com/greatest-common-factor.html",
+     "https://en.wikipedia.org/wiki/Euclidean_algorithm"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/gcf-calculator/": {
+   "url": "https://www.inchcalculator.com/gcf-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/gcf-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T12:41:43.164Z",
+   "title": "GCF Calculator (Greatest Common Factor) - Inch Calculator",
+   "metaDescription": "Find the greatest common factor, common factors, and all factors for a set of numbers, plus learn three methods to calculate the GCF.",
+   "canonical": "https://www.inchcalculator.com/gcf-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "GCF Calculator (Greatest Common Factor)"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Greatest Common Factor",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Find the Greatest Common Factor",
+    "Frequently Asked Questions",
+    "Similar Math Resources",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Steps to Solve:",
+    "Method One: Find GCF Using Prime Factorization",
+    "Method Two: Find GCF By Finding All Factors",
+    "Method Three: Find GCF Using Euclid’s Algorithm",
+    "How are GCF and LCD different?",
+    "Can you find GCF on a calculator?",
+    "What is the greatest common factor used for?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "GCF Calculator (Greatest Common Factor)"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Greatest Common Factor"
+    },
+    {
+     "level": 3,
+     "text": "Steps to Solve:"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Find the Greatest Common Factor"
+    },
+    {
+     "level": 3,
+     "text": "Method One: Find GCF Using Prime Factorization"
+    },
+    {
+     "level": 3,
+     "text": "Method Two: Find GCF By Finding All Factors"
+    },
+    {
+     "level": 3,
+     "text": "Method Three: Find GCF Using Euclid’s Algorithm"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "How are GCF and LCD different?"
+    },
+    {
+     "level": 3,
+     "text": "Can you find GCF on a calculator?"
+    },
+    {
+     "level": 3,
+     "text": "What is the greatest common factor used for?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Math Resources"
+    }
+   ],
+   "wordCount": 1353,
+   "avgSentenceWords": 19,
+   "faqs": [
+    "How are GCF and LCD different?",
+    "Can you find GCF on a calculator?",
+    "What is the greatest common factor used for?"
+   ],
+   "faqSchemaCount": 3,
+   "topics": [
+    {
+     "term": "common",
+     "weight": 53
+    },
+    {
+     "term": "greatest common",
+     "weight": 47
+    },
+    {
+     "term": "common factor",
+     "weight": 44
+    },
+    {
+     "term": "factors",
+     "weight": 41
+    },
+    {
+     "term": "factor",
+     "weight": 39
+    },
+    {
+     "term": "greatest",
+     "weight": 31
+    },
+    {
+     "term": "find",
+     "weight": 31
+    },
+    {
+     "term": "prime",
+     "weight": 25
+    },
+    {
+     "term": "number",
+     "weight": 24
+    },
+    {
+     "term": "numbers",
+     "weight": 23
+    },
+    {
+     "term": "gcf",
+     "weight": 22
+    },
+    {
+     "term": "prime factors",
+     "weight": 18
+    },
+    {
+     "term": "calculator",
+     "weight": 17
+    },
+    {
+     "term": "set",
+     "weight": 13
+    },
+    {
+     "term": "common factors",
+     "weight": 12
+    },
+    {
+     "term": "find gcf",
+     "weight": 11
+    },
+    {
+     "term": "method",
+     "weight": 9
+    },
+    {
+     "term": "remainder",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "finding",
+     "weight": 8
+    },
+    {
+     "term": "divide",
+     "weight": 8
+    },
+    {
+     "term": "prime factorization",
+     "weight": 8
+    },
+    {
+     "term": "largest",
+     "weight": 7
+    },
+    {
+     "term": "have",
+     "weight": 6
+    },
+    {
+     "term": "let",
+     "weight": 6
+    },
+    {
+     "term": "divisor",
+     "weight": 6
+    },
+    {
+     "term": "both",
+     "weight": 6
+    },
+    {
+     "term": "largest number",
+     "weight": 6
+    },
+    {
+     "term": "factorization",
+     "weight": 5
+    },
+    {
+     "term": "algorithm",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "165 ÷ 90 = 1 remainder 75 90 ÷ 75 = 1 remainder 15 75 ÷ 15 = 5 remainder 0 Because 15 is the divisor in the final step, when the remainder equals 0, the GCF is 15."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 2,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "Numbers"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 25,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2016-05-01",
+    "modified": "2023-03-27T16:51:29+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 121,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 47,
+    "external": 13,
+    "contentInternal": 24,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Greatest Common Factor Calculator",
+     "How to Find the Greatest Common Factor",
+     "Method One: Find GCF Using Prime Factorization",
+     "Method Two: Find GCF By Finding All Factors",
+     "Method Three: Find GCF Using Euclid’s Algorithm",
+     "Frequently Asked Questions",
+     "Full bio",
+     "GCF Calculator (Greatest Common Factor)",
+     "prime factors calculator",
+     "get the quotient and remainder",
+     "Euclidean algorithm calculator",
+     "LCD (Least Common Denominator)",
+     "scientific calculators",
+     "basic calculators",
+     "fraction simplifier",
+     "Vector Calculator",
+     "Binary Calculator & Converter",
+     "Hexadecimal Calculator & Converter"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/gcf-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/greatest-common-factor/",
+     "https://www.inchcalculator.com/gcf-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/gcf-calculator/#idx_how_to_find_the_greatest_common_factor",
+     "https://www.inchcalculator.com/gcf-calculator/#idx_method_one_find_gcf_using_prime_factorization",
+     "https://www.inchcalculator.com/gcf-calculator/#idx_method_two_find_gcf_by_finding_all_factors",
+     "https://www.inchcalculator.com/gcf-calculator/#idx_method_three_find_gcf_using_euclid8217s_algorithm",
+     "https://www.inchcalculator.com/gcf-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/bailey-nelson/",
+     "https://www.inchcalculator.com/gcf-calculator/",
+     "https://www.inchcalculator.com/prime-factors-calculator/",
+     "https://www.inchcalculator.com/remainder-calculator/",
+     "https://www.inchcalculator.com/euclidean-algorithm-calculator/",
+     "https://www.inchcalculator.com/lcd-calculator/",
+     "https://www.inchcalculator.com/scientific-calculator/",
+     "https://www.inchcalculator.com/calculator/",
+     "https://www.inchcalculator.com/fraction-simplifier/",
+     "https://www.inchcalculator.com/vector-calculator/",
+     "https://www.inchcalculator.com/binary-calculator/",
+     "https://www.inchcalculator.com/hex-calculator/",
+     "https://www.inchcalculator.com/triangle-area-calculator/",
+     "https://www.inchcalculator.com/right-triangle-calculator/",
+     "https://www.inchcalculator.com/math-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fgcf-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fgcf-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fgcf-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fgcf-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fgcf-calculator%2F&text=GCF+Calculator+%28Greatest+Common+Factor%29",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fgcf-calculator%2F&text=GCF+Calculator+%28Greatest+Common+Factor%29",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

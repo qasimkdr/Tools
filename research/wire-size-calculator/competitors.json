@@ -1,0 +1,934 @@
+{
+ "pages": {
+  "https://www.inchcalculator.com/wire-size-calculator/": {
+   "url": "https://www.inchcalculator.com/wire-size-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/wire-size-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T12:41:59.290Z",
+   "title": "Wire Size Calculator - Inch Calculator",
+   "metaDescription": "Calculate the wire size needed for a circuit given the voltage and current rating required. Plus, calculate the size of a wire gauge in AWG.",
+   "canonical": "https://www.inchcalculator.com/wire-size-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Wire Size Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Minimum Wire Size",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate Wire Size",
+    "How to Calculate a Wire’s Area and Diameter",
+    "Wire Gauge Chart",
+    "Similar Electrical Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Expected Voltage Drop",
+    "Cross-sectional Area",
+    "Cross-sectional Area",
+    "Minimum Wire Size Formula for Single-Phase Circuits",
+    "Minimum Wire Size Formula for Three-Phase Circuits",
+    "Wire Diameter Formula",
+    "Wire Cross-Sectional Area Formula"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Wire Size Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Minimum Wire Size"
+    },
+    {
+     "level": 3,
+     "text": "Expected Voltage Drop"
+    },
+    {
+     "level": 3,
+     "text": "Cross-sectional Area"
+    },
+    {
+     "level": 3,
+     "text": "Cross-sectional Area"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Wire Size"
+    },
+    {
+     "level": 3,
+     "text": "Minimum Wire Size Formula for Single-Phase Circuits"
+    },
+    {
+     "level": 3,
+     "text": "Minimum Wire Size Formula for Three-Phase Circuits"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate a Wire’s Area and Diameter"
+    },
+    {
+     "level": 3,
+     "text": "Wire Diameter Formula"
+    },
+    {
+     "level": 4,
+     "text": "Steps to Find the Diameter of a Conductor"
+    },
+    {
+     "level": 3,
+     "text": "Wire Cross-Sectional Area Formula"
+    },
+    {
+     "level": 4,
+     "text": "Steps to Find the Cross-Sectional Area of a Conductor"
+    },
+    {
+     "level": 2,
+     "text": "Wire Gauge Chart"
+    },
+    {
+     "level": 2,
+     "text": "Similar Electrical Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 1923,
+   "avgSentenceWords": 60,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "wire",
+     "weight": 54
+    },
+    {
+     "term": "wire size",
+     "weight": 30
+    },
+    {
+     "term": "cross sectional",
+     "weight": 26
+    },
+    {
+     "term": "sectional area",
+     "weight": 26
+    },
+    {
+     "term": "size",
+     "weight": 24
+    },
+    {
+     "term": "area",
+     "weight": 20
+    },
+    {
+     "term": "diameter",
+     "weight": 17
+    },
+    {
+     "term": "cross",
+     "weight": 17
+    },
+    {
+     "term": "sectional",
+     "weight": 17
+    },
+    {
+     "term": "formula",
+     "weight": 16
+    },
+    {
+     "term": "gauge",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "calculate",
+     "weight": 14
+    },
+    {
+     "term": "conductor",
+     "weight": 14
+    },
+    {
+     "term": "wire gauge",
+     "weight": 14
+    },
+    {
+     "term": "find",
+     "weight": 13
+    },
+    {
+     "term": "minimum",
+     "weight": 12
+    },
+    {
+     "term": "voltage drop",
+     "weight": 12
+    },
+    {
+     "term": "square",
+     "weight": 11
+    },
+    {
+     "term": "minimum wire",
+     "weight": 11
+    },
+    {
+     "term": "awg",
+     "weight": 10
+    },
+    {
+     "term": "phase",
+     "weight": 9
+    },
+    {
+     "term": "voltage",
+     "weight": 9
+    },
+    {
+     "term": "electrical",
+     "weight": 9
+    },
+    {
+     "term": "000 000",
+     "weight": 9
+    },
+    {
+     "term": "drop",
+     "weight": 8
+    },
+    {
+     "term": "millimeters",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "current",
+     "weight": 8
+    },
+    {
+     "term": "square millimeters",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "Finding the exponent for 00, 000, and 0000 gauge wire is slightly different.",
+    "Substitute -1, -2, and -3 for the gauge in the formula above instead of the AWG value.",
+    "Third – multiply the value from the second step by either .005 inches or .127 mm to find the diameter of the wire in inches or millimeters, respectively."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 4,
+   "lists": 3,
+   "images": 5,
+   "videos": 0,
+   "calculatorInputs": [
+    "Conductor",
+    "Wire Length",
+    "Wire Length Units",
+    "Phase",
+    "Supply Voltage",
+    "Supply Voltage Units",
+    "Load Rating",
+    "Load Rating Units",
+    "Allowable Voltage Drop",
+    "Wire Gauge",
+    "Wire Diameter",
+    "Wire Diameter Units"
+   ],
+   "selectOptionsSample": "copper aluminum gold silver nickel steel in ft cm m dc single-phase ac three-phase ac volts kilovolts amps milliamps watts kva 2000 kcmil 1750 kcmil 1500 kcmil 1250 kcmil 1000 kcmil 900 kcmil 800 kcmil 750 kcmil 700 kcmil 600 kcmil 500 kcmil 400 kcmil 350 kcmil 300 kcmil 250 kcmil 0000 (4/0) awg 000",
+   "unitToggle": true,
+   "wordsBeforeTool": 42,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2018-04-21",
+    "modified": "2022-10-14T17:06:46+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 142,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 47,
+    "external": 17,
+    "contentInternal": 24,
+    "contentExternal": 11,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Wire Size Calculator",
+     "How to Calculate Wire Size",
+     "Minimum Wire Size Formula for Single-Phase Circuits",
+     "Minimum Wire Size Formula for Three-Phase Circuits",
+     "How to Calculate a Wire’s Area and Diameter",
+     "Wire Diameter Formula",
+     "Wire Cross-Sectional Area Formula",
+     "Wire Gauge Chart",
+     "References",
+     "Full bio",
+     "voltage drop",
+     "required current flows",
+     "convert",
+     "wire ampacity calculator",
+     "chart below",
+     "electricity cost calculator",
+     "lighting cost calculator",
+     "Power Factor Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/wire-size-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/wire-gauge/",
+     "https://www.inchcalculator.com/wire-size-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/wire-size-calculator/#idx_how_to_calculate_wire_size",
+     "https://www.inchcalculator.com/wire-size-calculator/#idx_minimum_wire_size_formula_for_single-phase_circuits",
+     "https://www.inchcalculator.com/wire-size-calculator/#idx_minimum_wire_size_formula_for_three-phase_circuits",
+     "https://www.inchcalculator.com/wire-size-calculator/#idx_how_to_calculate_a_wire8217s_area_and_diameter",
+     "https://www.inchcalculator.com/wire-size-calculator/#idx_wire_diameter_formula",
+     "https://www.inchcalculator.com/wire-size-calculator/#idx_wire_cross-sectional_area_formula",
+     "https://www.inchcalculator.com/wire-size-calculator/#wire_gauge_chart",
+     "https://www.inchcalculator.com/wire-size-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/ahmed-sheikh/",
+     "https://www.inchcalculator.com/wire-size-calculator/",
+     "https://www.inchcalculator.com/voltage-drop-calculator/",
+     "https://www.inchcalculator.com/current-calculator/",
+     "https://www.inchcalculator.com/convert/square-meter-to-square-millimeter/",
+     "https://www.inchcalculator.com/wire-ampacity-calculator/",
+     "https://www.inchcalculator.com/electricity-cost-calculator/",
+     "https://www.inchcalculator.com/lighting-energy-cost-calculator/",
+     "https://www.inchcalculator.com/power-factor-calculator/",
+     "https://www.inchcalculator.com/ohms-law-calculator/",
+     "https://www.inchcalculator.com/series-and-parallel-capacitor-calculator/",
+     "https://www.inchcalculator.com/electrical-calculators/"
+    ],
+    "externalSample": [
+     "https://apps.apple.com/app/electrical-calculator-plus/id6479804242",
+     "https://play.google.com/store/apps/details?id=com.inchcalculator.electrical_calculator",
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fwire-size-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fwire-size-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fwire-size-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fwire-size-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fwire-size-calculator%2F&text=Wire+Size+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fwire-size-calculator%2F&text=Wire+Size+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://www.google.com/books/edition/NFPA_s_Electrical_References/raUyIi7i-asC",
+     "https://www.nfpa.org/News-and-Research/Publications-and-media/Blogs-Landing-Page/NFPA-Today/Blog-Posts/2021/07/21/Determining-Current-Carrying-Capacity-of-Conductors"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/physics/wire-gauge": {
+   "url": "https://www.omnicalculator.com/physics/wire-gauge",
+   "finalUrl": "https://www.omnicalculator.com/physics/wire-gauge",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T12:42:02.432Z",
+   "title": "Wire Gauge Calculator",
+   "metaDescription": "This wire gauge calculator computes the diameter, cross-sectional area, and resistance per unit length of a wire once given a wire gauge number in either the American Wire Gauge (AMG) or Standard Wire Gauge (SWG) systems.",
+   "canonical": "https://www.omnicalculator.com/physics/wire-gauge",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Wire Gauge Calculator"
+   ],
+   "h2": [
+    "The American Wire Gauge (AWG) standard",
+    "The Standard Wire Gauge (SWG)",
+    "Electrical resistance per unit length",
+    "How to use the wire gauge calculator",
+    "Worked example using the American wire gauge calculator – 12 gauge wire"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Wire Gauge Calculator"
+    },
+    {
+     "level": 2,
+     "text": "The American Wire Gauge (AWG) standard"
+    },
+    {
+     "level": 2,
+     "text": "The Standard Wire Gauge (SWG)"
+    },
+    {
+     "level": 2,
+     "text": "Electrical resistance per unit length"
+    },
+    {
+     "level": 2,
+     "text": "How to use the wire gauge calculator"
+    },
+    {
+     "level": 2,
+     "text": "Worked example using the American wire gauge calculator – 12 gauge wire"
+    }
+   ],
+   "wordCount": 1685,
+   "avgSentenceWords": 34,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "wire",
+     "weight": 55
+    },
+    {
+     "term": "gauge",
+     "weight": 39
+    },
+    {
+     "term": "wire gauge",
+     "weight": 36
+    },
+    {
+     "term": "diameter",
+     "weight": 27
+    },
+    {
+     "term": "inch",
+     "weight": 20
+    },
+    {
+     "term": "area",
+     "weight": 18
+    },
+    {
+     "term": "resistance",
+     "weight": 18
+    },
+    {
+     "term": "cross sectional",
+     "weight": 17
+    },
+    {
+     "term": "sectional area",
+     "weight": 17
+    },
+    {
+     "term": "calculator",
+     "weight": 15
+    },
+    {
+     "term": "unit length",
+     "weight": 15
+    },
+    {
+     "term": "length",
+     "weight": 14
+    },
+    {
+     "term": "gauge calculator",
+     "weight": 14
+    },
+    {
+     "term": "unit",
+     "weight": 13
+    },
+    {
+     "term": "awg",
+     "weight": 12
+    },
+    {
+     "term": "cross",
+     "weight": 11
+    },
+    {
+     "term": "sectional",
+     "weight": 11
+    },
+    {
+     "term": "electrical",
+     "weight": 10
+    },
+    {
+     "term": "number",
+     "weight": 10
+    },
+    {
+     "term": "electrical resistance",
+     "weight": 9
+    },
+    {
+     "term": "swg",
+     "weight": 8
+    },
+    {
+     "term": "american wire",
+     "weight": 8
+    },
+    {
+     "term": "standard",
+     "weight": 7
+    },
+    {
+     "term": "material",
+     "weight": 6
+    },
+    {
+     "term": "resistivity",
+     "weight": 6
+    },
+    {
+     "term": "size",
+     "weight": 6
+    },
+    {
+     "term": "system",
+     "weight": 6
+    },
+    {
+     "term": "standard wire",
+     "weight": 6
+    },
+    {
+     "term": "gauge swg",
+     "weight": 6
+    },
+    {
+     "term": "005 inch",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Read on to understand more about these ways of measuring wire sizes The American Wire Gauge (AWG) standard American wire gauge is a logarithmically stepped wire gauge system used mainly in North America since 1857.",
+    "Number 36 AWG wire has a diameter of 0.005 inches, while 0000 (4/0) AWG wire has a diameter of 0.46 inches.",
+    "The ratio of these two diameters is 1:92 and there are 40 gauge sizes between them, giving 39 steps.",
+    "The difference in diameter of each successive gauge is a constant ratio of 921/39.",
+    "Between two steps of gauge number, the ratio difference is 922/39, and so on.",
+    "So, for gauge 00, use 𝑛 = − 1 n=−1; 000, use 𝑛 = − 2 n=−2; and for 0000, use 𝑛 = − 3 n=−3.",
+    "The gauge number defines the diameter of the wire and ranges from the largest, number 7/0 at 500 mil (0.5 inch), to the smallest, number 50 at 1 mil (0.001 inch)."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 2,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "American wire gauge",
+    "Wire material (@ 20 °C)"
+   ],
+   "selectOptionsSample": "select 0000 (4/0) 000 (3/0) 00 (2/0) 0 (1/0) 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 select silver copper gold aluminum nickel carbon steel electrical steel nichrome custom",
+   "unitToggle": true,
+   "wordsBeforeTool": 8,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Steven Wooding",
+    "published": "2020-03-30T14:12:55.899Z",
+    "modified": "2026-09-24T13:45:25.070Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 699,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 22,
+    "external": 1,
+    "contentInternal": 6,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "ring size converter",
+     "square root",
+     "wire resistance calculator",
+     "voltage drop calculator",
+     "breaker size calculator",
+     "wire size calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/everyday-life/ring-size",
+     "https://www.omnicalculator.com/math/square-root",
+     "https://www.omnicalculator.com/physics/wire-resistance",
+     "https://www.omnicalculator.com/physics/voltage-drop",
+     "https://www.omnicalculator.com/physics/breaker-size",
+     "https://www.omnicalculator.com/physics/wire-size"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/voltage-drop-calculator.html": {
+   "url": "https://www.calculator.net/voltage-drop-calculator.html",
+   "finalUrl": "https://www.calculator.net/voltage-drop-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T12:42:05.512Z",
+   "title": "Voltage Drop Calculator",
+   "metaDescription": "This free voltage drop calculator estimates the voltage drop of an electrical circuit based on the wire size, distance, and anticipated load current.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Voltage Drop Calculator"
+   ],
+   "h2": [],
+   "h3": [
+    "Voltage drop calculation",
+    "Typical AWG wire sizes"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Voltage Drop Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Voltage drop calculation"
+    },
+    {
+     "level": 3,
+     "text": "Typical AWG wire sizes"
+    }
+   ],
+   "wordCount": 1670,
+   "avgSentenceWords": 42,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "wire",
+     "weight": 38
+    },
+    {
+     "term": "voltage drop",
+     "weight": 27
+    },
+    {
+     "term": "voltage",
+     "weight": 22
+    },
+    {
+     "term": "drop",
+     "weight": 18
+    },
+    {
+     "term": "current",
+     "weight": 14
+    },
+    {
+     "term": "resistance",
+     "weight": 12
+    },
+    {
+     "term": "wire size",
+     "weight": 9
+    },
+    {
+     "term": "gauge",
+     "weight": 8
+    },
+    {
+     "term": "size",
+     "weight": 7
+    },
+    {
+     "term": "wires",
+     "weight": 7
+    },
+    {
+     "term": "length",
+     "weight": 7
+    },
+    {
+     "term": "electrical",
+     "weight": 6
+    },
+    {
+     "term": "contrary pressure",
+     "weight": 6
+    },
+    {
+     "term": "ampacity",
+     "weight": 6
+    },
+    {
+     "term": "data",
+     "weight": 5
+    },
+    {
+     "term": "material",
+     "weight": 5
+    },
+    {
+     "term": "through",
+     "weight": 5
+    },
+    {
+     "term": "used",
+     "weight": 5
+    },
+    {
+     "term": "diameter",
+     "weight": 5
+    },
+    {
+     "term": "size wire",
+     "weight": 5
+    },
+    {
+     "term": "have less",
+     "weight": 5
+    },
+    {
+     "term": "less voltage",
+     "weight": 5
+    },
+    {
+     "term": "wire sizes",
+     "weight": 5
+    },
+    {
+     "term": "wire gauge",
+     "weight": 5
+    },
+    {
+     "term": "current through",
+     "weight": 5
+    },
+    {
+     "term": "calculator",
+     "weight": 4
+    },
+    {
+     "term": "circuit",
+     "weight": 4
+    },
+    {
+     "term": "factor",
+     "weight": 4
+    },
+    {
+     "term": "contrary",
+     "weight": 4
+    },
+    {
+     "term": "pressure",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "In American wire gauge, every 6-gauge decrease doubles the wire diameter, and every 3-gauge decrease doubles the wire cross sectional area.",
+    "In the Metric Gauge scale, the gauge is 10 times the diameter in millimeters, so a 50 gauge metric wire would be 5 mm in diameter."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 7,
+   "lists": 1,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "necmaterial",
+    "necwiresize",
+    "necconduit",
+    "necpf",
+    "material",
+    "wiresize",
+    "resistance",
+    "resistanceunit",
+    "voltage",
+    "phase",
+    "noofconductor",
+    "distance",
+    "distanceunit",
+    "amperes"
+   ],
+   "selectOptionsSample": "copper aluminum 14 awg 12 awg 10 awg 8 awg 6 awg 4 awg 3 awg 2 awg 1 awg 1/0 awg 2/0 awg 3/0 awg 4/0 awg 250 kcmil 300 kcmil 350 kcmil 400 kcmil 500 kcmil 600 kcmil 750 kcmil 1000 kcmil pvc aluminum steel copper aluminum silver gold 600 kcmil 500 kcmil 400 kcmil 350 kcmil 300 kcmil 250 kcmil 4/0 awg",
+   "unitToggle": true,
+   "wordsBeforeTool": 85,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 26,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 25,
+    "external": 0,
+    "contentInternal": 25,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "other",
+     "voltage drop calculator",
+     "size Wire",
+     "Other",
+     "Other Calculators",
+     "Age",
+     "Date",
+     "Time",
+     "Hours",
+     "GPA",
+     "Grade",
+     "Height",
+     "Concrete",
+     "IP Subnet",
+     "Bra Size",
+     "Password Generator",
+     "Dice Roller",
+     "Conversion"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/voltage-drop-calculator.html",
+     "https://www.calculator.net/voltage-drop-calculator.html#",
+     "https://www.calculator.net/age-calculator.html",
+     "https://www.calculator.net/date-calculator.html",
+     "https://www.calculator.net/time-calculator.html",
+     "https://www.calculator.net/hours-calculator.html",
+     "https://www.calculator.net/gpa-calculator.html",
+     "https://www.calculator.net/grade-calculator.html",
+     "https://www.calculator.net/height-calculator.html",
+     "https://www.calculator.net/concrete-calculator.html",
+     "https://www.calculator.net/ip-subnet-calculator.html",
+     "https://www.calculator.net/bra-size-calculator.html",
+     "https://www.calculator.net/password-generator.html",
+     "https://www.calculator.net/dice-roller.html",
+     "https://www.calculator.net/conversion-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}
