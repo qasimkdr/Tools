@@ -1,0 +1,1393 @@
+{
+ "pages": {
+  "https://www.calculatorsoup.com/calculators/health/bmi-calculator-women.php": {
+   "url": "https://www.calculatorsoup.com/calculators/health/bmi-calculator-women.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/health/bmi-calculator-women.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T10:17:44.712Z",
+   "title": "BMI Calculator for Women",
+   "metaDescription": "BMI Calculator for women finds Body Mass Index given weight and height. To check BMI divide your weight by your height squared. Calculator takes lbs, inches, kg, meters.",
+   "canonical": "https://www.calculatorsoup.com/calculators/health/bmi-calculator-women.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "BMI Calculator for Women"
+   ],
+   "h2": [
+    "The BMI Calculation",
+    "How to Find BMI",
+    "Examples of How to Calculate BMI Using the Formulas",
+    "What is the BMI Test?",
+    "References"
+   ],
+   "h3": [
+    "Example BMI Calculation in Metric Units",
+    "Example BMI Calculation in US Units",
+    "BMI and Normal Weight Range",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "BMI Calculator for Women"
+    },
+    {
+     "level": 2,
+     "text": "The BMI Calculation"
+    },
+    {
+     "level": 2,
+     "text": "How to Find BMI"
+    },
+    {
+     "level": 2,
+     "text": "Examples of How to Calculate BMI Using the Formulas"
+    },
+    {
+     "level": 3,
+     "text": "Example BMI Calculation in Metric Units"
+    },
+    {
+     "level": 3,
+     "text": "Example BMI Calculation in US Units"
+    },
+    {
+     "level": 2,
+     "text": "What is the BMI Test?"
+    },
+    {
+     "level": 3,
+     "text": "BMI and Normal Weight Range"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 940,
+   "avgSentenceWords": 24,
+   "faqs": [
+    "What is the BMI Test?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "bmi",
+     "weight": 64
+    },
+    {
+     "term": "weight",
+     "weight": 31
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "bmi calculator",
+     "weight": 12
+    },
+    {
+     "term": "women",
+     "weight": 11
+    },
+    {
+     "term": "inches",
+     "weight": 11
+    },
+    {
+     "term": "bmi formula",
+     "weight": 9
+    },
+    {
+     "term": "height",
+     "weight": 8
+    },
+    {
+     "term": "bmi calculation",
+     "weight": 8
+    },
+    {
+     "term": "normal weight",
+     "weight": 8
+    },
+    {
+     "term": "overweight",
+     "weight": 7
+    },
+    {
+     "term": "calculation",
+     "weight": 7
+    },
+    {
+     "term": "units",
+     "weight": 7
+    },
+    {
+     "term": "calculators",
+     "weight": 6
+    },
+    {
+     "term": "health",
+     "weight": 6
+    },
+    {
+     "term": "healthy weight",
+     "weight": 6
+    },
+    {
+     "term": "formula",
+     "weight": 6
+    },
+    {
+     "term": "height2",
+     "weight": 6
+    },
+    {
+     "term": "703 bmi",
+     "weight": 6
+    },
+    {
+     "term": "weight range",
+     "weight": 6
+    },
+    {
+     "term": "same",
+     "weight": 5
+    },
+    {
+     "term": "meters",
+     "weight": 5
+    },
+    {
+     "term": "calculate",
+     "weight": 5
+    },
+    {
+     "term": "normal",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators health",
+     "weight": 5
+    },
+    {
+     "term": "adult bmi",
+     "weight": 5
+    },
+    {
+     "term": "bmi chart",
+     "weight": 5
+    },
+    {
+     "term": "example bmi",
+     "weight": 5
+    },
+    {
+     "term": "bmi category",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "For adults over the age of 20 the BMI is calculated by dividing weight by height squared.",
+    "The BMI Calculation If you're using meters and kg the BMI formula is: If your BMI measurements are in cm and kg use the BMI formula above and multiply the result by 10,000.",
+    "The CDC BMI chart uses 4 weight categories to classify adults as underweight, healthy weight, overweight and obese.",
+    "The WHO BMI chart is more descriptive particularly where BMI is over 25.",
+    "The metric BMI formula is: BMI = weight (kg) ÷ height2 (meters) Using US units, where weight is in pounds and height is in inches, divide weight by inches squared.",
+    "The US BMI formula is: BMI = weight (lb) ÷ height2 (inches) * 703 Example BMI Calculation in Metric Units Matilda weighs 64 kg and is 1.9 meters tall.",
+    "Divide 64 kg by 1.92 m BMI = w ÷ h2 BMI = 64 ÷ 1.92 BMI = 64 ÷ 3.61 BMI = 17.7 Referencing the charts above you can see that a BMI of 17.7 puts Matilda in the underweight BMI category.",
+    "Example BMI Calculation in US Units Stella weighs 184 lb and is 5 feet, 10 inches tall.",
+    "For example, in Singapore and Hong Kong a BMI of 23.0 is considered overweight, whereas in the United States a BMI of 25 is considered overweight.",
+    "BMI and Normal Weight Range Normal weight BMI is 18.5 to 24.9."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 1,
+   "lists": 5,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "Weight:",
+    "weight unit",
+    "Height:",
+    "height unit",
+    "inches",
+    "reset"
+   ],
+   "selectOptionsSample": "pounds kilograms stones (+lb) feet inches centimeters meters",
+   "unitToggle": true,
+   "wordsBeforeTool": 19,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "October 28, 2025",
+    "authoritativeSources": [
+     "https://www.cdc.gov/bmi/adult-calculator/bmi-categories.html",
+     "https://en.wikipedia.org/wiki/Body_mass_index",
+     "https://www.cdc.gov/healthy-weight-growth/about/index.html"
+    ]
+   },
+   "ux": {
+    "htmlKB": 62,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 17,
+    "external": 3,
+    "contentInternal": 7,
+    "contentExternal": 3,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Health",
+     "BMI Calculator for Women",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Adult BMI Calculator",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/health/",
+     "https://www.calculatorsoup.com/calculators/health/bmi-calculator-women.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=health%2F&folderName=Health&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/health/bmi-calculator-women.php&h1=BMI+Calculator+for+Women&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/health/bmi-calculator.php"
+    ],
+    "externalSample": [
+     "https://www.cdc.gov/bmi/adult-calculator/bmi-categories.html",
+     "https://en.wikipedia.org/wiki/Body_mass_index",
+     "https://www.cdc.gov/healthy-weight-growth/about/index.html"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/health/bmi-women": {
+   "url": "https://www.omnicalculator.com/health/bmi-women",
+   "finalUrl": "https://www.omnicalculator.com/health/bmi-women",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T10:21:12.611Z",
+   "title": "BMI Calculator for Women | Female BMI Chart",
+   "metaDescription": "Find your BMI using our BMI calculator for women. Get insights into your BMI, its health assessment, and percentile comparison based on WHO guidelines.",
+   "canonical": "https://www.omnicalculator.com/health/bmi-women",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "BMI Calculator for Women"
+   ],
+   "h2": [
+    "How to use the BMI for women calculator and interpret the results",
+    "What is the BMI scale and what it measures?",
+    "Normal BMI for women and why separate it from men",
+    "What is a good BMI for women? – WHO and BMI categories",
+    "BMI percentile and its relevance",
+    "BMI chart for women and BMI Prime",
+    "Healthy BMI for women: how bad is to be in the obese BMI range?",
+    "Differences between male and female BMI percentiles",
+    "Making of the BMI calculator for women",
+    "FAQs"
+   ],
+   "h3": [
+    "What is the best BMI for women?",
+    "Is a BMI of 20 skinny for women?",
+    "Is a BMI of 23 good for a woman?",
+    "How do I calculate BMI for women?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "BMI Calculator for Women"
+    },
+    {
+     "level": 2,
+     "text": "How to use the BMI for women calculator and interpret the results"
+    },
+    {
+     "level": 2,
+     "text": "What is the BMI scale and what it measures?"
+    },
+    {
+     "level": 2,
+     "text": "Normal BMI for women and why separate it from men"
+    },
+    {
+     "level": 2,
+     "text": "What is a good BMI for women? – WHO and BMI categories"
+    },
+    {
+     "level": 2,
+     "text": "BMI percentile and its relevance"
+    },
+    {
+     "level": 2,
+     "text": "BMI chart for women and BMI Prime"
+    },
+    {
+     "level": 2,
+     "text": "Healthy BMI for women: how bad is to be in the obese BMI range?"
+    },
+    {
+     "level": 2,
+     "text": "Differences between male and female BMI percentiles"
+    },
+    {
+     "level": 2,
+     "text": "Making of the BMI calculator for women"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What is the best BMI for women?"
+    },
+    {
+     "level": 3,
+     "text": "Is a BMI of 20 skinny for women?"
+    },
+    {
+     "level": 3,
+     "text": "Is a BMI of 23 good for a woman?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate BMI for women?"
+    }
+   ],
+   "wordCount": 3189,
+   "avgSentenceWords": 19,
+   "faqs": [
+    "What is the best BMI for women?",
+    "Is a BMI of 20 skinny for women?",
+    "Is a BMI of 23 good for a woman?",
+    "How do I calculate BMI for women?",
+    "What is the BMI scale and what it measures?",
+    "Healthy BMI for women: how bad is to be in the obese BMI range?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "bmi",
+     "weight": 151
+    },
+    {
+     "term": "women",
+     "weight": 53
+    },
+    {
+     "term": "calculator",
+     "weight": 26
+    },
+    {
+     "term": "body",
+     "weight": 25
+    },
+    {
+     "term": "men",
+     "weight": 22
+    },
+    {
+     "term": "bmi calculator",
+     "weight": 21
+    },
+    {
+     "term": "have",
+     "weight": 20
+    },
+    {
+     "term": "weight",
+     "weight": 19
+    },
+    {
+     "term": "bmi prime",
+     "weight": 18
+    },
+    {
+     "term": "healthy",
+     "weight": 16
+    },
+    {
+     "term": "female",
+     "weight": 15
+    },
+    {
+     "term": "normal bmi",
+     "weight": 15
+    },
+    {
+     "term": "percentile",
+     "weight": 14
+    },
+    {
+     "term": "normal",
+     "weight": 14
+    },
+    {
+     "term": "range",
+     "weight": 13
+    },
+    {
+     "term": "health",
+     "weight": 13
+    },
+    {
+     "term": "prime",
+     "weight": 12
+    },
+    {
+     "term": "look",
+     "weight": 11
+    },
+    {
+     "term": "between",
+     "weight": 11
+    },
+    {
+     "term": "much",
+     "weight": 11
+    },
+    {
+     "term": "height",
+     "weight": 10
+    },
+    {
+     "term": "age",
+     "weight": 10
+    },
+    {
+     "term": "mass index",
+     "weight": 9
+    },
+    {
+     "term": "them",
+     "weight": 9
+    },
+    {
+     "term": "means",
+     "weight": 9
+    },
+    {
+     "term": "bmi chart",
+     "weight": 9
+    },
+    {
+     "term": "values",
+     "weight": 9
+    },
+    {
+     "term": "healthy bmi",
+     "weight": 9
+    },
+    {
+     "term": "mass",
+     "weight": 8
+    },
+    {
+     "term": "ranges",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "It will show as \"Overweight\" with a BMI Prime of 1.16.",
+    "This means that 75% of the US female population in the age range of 30-39 has a lower BMI than you do.",
+    "In fact, here at Omni Calculator, we have created 5 different BMI calculators, one for each of the four major BMI groups (children, teenagers, women, and men) as well as a general one, for good measure.",
+    "– WHO and BMI categories In the year 2000, the World Health Organization (WHO) published a report called Obesity: preventing and managing the global epidemic.",
+    "On page 9 of this report, there are all the BMI categories recognized by WHO and their BMI ranges.",
+    "For example, if you're in the 75th percentile, it means that 75% of the female population in the USA has a BMI similar to or lower than yours.",
+    "For example, in the USA, women (and men) tend to be overweight, so being placed in the middle (50th) percentile is not exactly a good sign since it probably means you're slightly overweight.",
+    "It typically ranges from 0.5 to 2, while BMI itself has values between 15 and 40.",
+    "The value for a healthy or normal BMI for women is 25, the same as for men.",
+    "An ideal BMI Prime is around 1, which corresponds to a BMI of 25."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": true,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Álvaro Díez",
+    "published": "2019-04-09T07:39:30.090Z",
+    "modified": "2026-08-17T15:23:13.020Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 503,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 24,
+    "external": 1,
+    "contentInternal": 8,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "BMI calculator for kids",
+     "BMI calculator for teenagers",
+     "BMI calculator for men",
+     "BMI weight loss calculator",
+     "skinfold body fat calculator",
+     "fat-free mass index calculator",
+     "geriatric BMI calculator",
+     "Editorial Policies page"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/health/bmi-kids",
+     "https://www.omnicalculator.com/health/bmi-teens",
+     "https://www.omnicalculator.com/health/bmi-men",
+     "https://www.omnicalculator.com/health/bmi-weight-loss",
+     "https://www.omnicalculator.com/health/skinfold-body-fat",
+     "https://www.omnicalculator.com/health/ffmi",
+     "https://www.omnicalculator.com/health/geriatric-bmi",
+     "https://www.omnicalculator.com/editorial-policies"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/bmi-calculator.html": {
+   "url": "https://www.calculator.net/bmi-calculator.html",
+   "finalUrl": "https://www.calculator.net/bmi-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T10:21:15.578Z",
+   "title": "BMI Calculator",
+   "metaDescription": "Free Body Mass Index calculator gives out the BMI value and categorizes BMI based on provided information from WHO and CDC for both adults and children.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "BMI Calculator"
+   ],
+   "h2": [
+    "Result"
+   ],
+   "h3": [
+    "BMI introduction",
+    "BMI table for adults",
+    "BMI chart for adults",
+    "BMI table for children and teens, age 2-20",
+    "BMI chart for children and teens, age 2-20",
+    "Risks associated with being overweight",
+    "Risks associated with being underweight",
+    "Limitations of BMI",
+    "BMI formula",
+    "BMI Prime",
+    "Ponderal Index"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "BMI Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Result"
+    },
+    {
+     "level": 3,
+     "text": "BMI introduction"
+    },
+    {
+     "level": 3,
+     "text": "BMI table for adults"
+    },
+    {
+     "level": 3,
+     "text": "BMI chart for adults"
+    },
+    {
+     "level": 3,
+     "text": "BMI table for children and teens, age 2-20"
+    },
+    {
+     "level": 3,
+     "text": "BMI chart for children and teens, age 2-20"
+    },
+    {
+     "level": 3,
+     "text": "Risks associated with being overweight"
+    },
+    {
+     "level": 3,
+     "text": "Risks associated with being underweight"
+    },
+    {
+     "level": 3,
+     "text": "Limitations of BMI"
+    },
+    {
+     "level": 3,
+     "text": "BMI formula"
+    },
+    {
+     "level": 3,
+     "text": "BMI Prime"
+    },
+    {
+     "level": 3,
+     "text": "Ponderal Index"
+    }
+   ],
+   "wordCount": 1702,
+   "avgSentenceWords": 35,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "bmi",
+     "weight": 69
+    },
+    {
+     "term": "body",
+     "weight": 22
+    },
+    {
+     "term": "weight",
+     "weight": 21
+    },
+    {
+     "term": "bmi prime",
+     "weight": 17
+    },
+    {
+     "term": "fat",
+     "weight": 15
+    },
+    {
+     "term": "body fat",
+     "weight": 14
+    },
+    {
+     "term": "units",
+     "weight": 13
+    },
+    {
+     "term": "healthy",
+     "weight": 13
+    },
+    {
+     "term": "overweight",
+     "weight": 12
+    },
+    {
+     "term": "height",
+     "weight": 11
+    },
+    {
+     "term": "prime",
+     "weight": 11
+    },
+    {
+     "term": "mass",
+     "weight": 11
+    },
+    {
+     "term": "underweight",
+     "weight": 11
+    },
+    {
+     "term": "being",
+     "weight": 11
+    },
+    {
+     "term": "body weight",
+     "weight": 11
+    },
+    {
+     "term": "obese",
+     "weight": 10
+    },
+    {
+     "term": "children",
+     "weight": 10
+    },
+    {
+     "term": "health",
+     "weight": 9
+    },
+    {
+     "term": "age",
+     "weight": 9
+    },
+    {
+     "term": "used",
+     "weight": 9
+    },
+    {
+     "term": "below",
+     "weight": 9
+    },
+    {
+     "term": "obese class",
+     "weight": 9
+    },
+    {
+     "term": "considered",
+     "weight": 9
+    },
+    {
+     "term": "have",
+     "weight": 8
+    },
+    {
+     "term": "disease",
+     "weight": 8
+    },
+    {
+     "term": "metric units",
+     "weight": 8
+    },
+    {
+     "term": "healthy body",
+     "weight": 8
+    },
+    {
+     "term": "normal",
+     "weight": 7
+    },
+    {
+     "term": "based",
+     "weight": 7
+    },
+    {
+     "term": "person",
+     "weight": 7
+    }
+   ],
+   "claims": [
+    "It is used for both men and women, age 20 or older.",
+    "BMI table for children and teens, age 2-20 The Centers for Disease Control and Prevention (CDC) recommends BMI categorization for children and teens between age 2 and 20.",
+    "Generally, a person should try to maintain a BMI below 25 kg/m2, but ideally should consult their doctor to determine whether or not they need to make any changes to their lifestyle in order to be healthier.",
+    "That being said, BMI is fairly indicative of body fat for 90-95% of the population, and can effectively be used along with other measures to help determine an individual's healthy body weight.",
+    "Though it may differ in some countries, such as those in Asia, this upper limit, which will be referred to as BMIupper is 25 kg/m2.",
+    "The BMI prime formula is: BMI prime = BMI 25 Since BMI prime is a ratio of two BMI values, BMI prime is a dimensionless value.",
+    "A person who has a BMI prime less than 0.74 is classified as underweight; from 0.74 to 1 is classified as normal; greater than 1 is classified as overweight; and greater than 1.2 is classified as obese."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 26,
+   "lists": 5,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [
+    "cage",
+    "Male",
+    "Female",
+    "cheightfeet",
+    "cheightinch",
+    "cpound",
+    "cheightmeter",
+    "ckg"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": true,
+   "wordsBeforeTool": 20,
+   "actions": {
+    "print": true,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 27,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 24,
+    "external": 0,
+    "contentInternal": 24,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "fitness & health",
+     "bmi calculator",
+     "Print",
+     "US units",
+     "metric units",
+     "other units",
+     "Chart for boys",
+     "Chart for girls",
+     "Fitness and Health Calculators",
+     "BMI",
+     "Calorie",
+     "Body Fat",
+     "BMR",
+     "Macro",
+     "Ideal Weight",
+     "Pregnancy",
+     "Pregnancy Weight Gain",
+     "Pregnancy Conception"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/bmi-calculator.html",
+     "https://www.calculator.net/bmi-calculator.html#",
+     "https://www.calculator.net/pdf/bmi-chart-boys.pdf",
+     "https://www.calculator.net/pdf/bmi-chart-girls.pdf",
+     "https://www.calculator.net/calorie-calculator.html",
+     "https://www.calculator.net/body-fat-calculator.html",
+     "https://www.calculator.net/bmr-calculator.html",
+     "https://www.calculator.net/macro-calculator.html",
+     "https://www.calculator.net/ideal-weight-calculator.html",
+     "https://www.calculator.net/pregnancy-calculator.html",
+     "https://www.calculator.net/pregnancy-weight-gain-calculator.html",
+     "https://www.calculator.net/pregnancy-conception-calculator.html",
+     "https://www.calculator.net/due-date-calculator.html",
+     "https://www.calculator.net/pace-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/bmi-calculator/": {
+   "url": "https://www.inchcalculator.com/bmi-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/bmi-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T10:21:18.647Z",
+   "title": "BMI Calculator - Body Mass Index for Men and Women - Inch Calculator",
+   "metaDescription": "Calculate your BMI and body mass index classification using a simple calculator. Plus, see how much you need to weigh to reach a target BMI.",
+   "canonical": "https://www.inchcalculator.com/bmi-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "BMI Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Body Mass Index (BMI)",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate BMI",
+    "Body Mass Index Categories",
+    "Is Body Mass Index Accurate?",
+    "How to Calculate BMI for Kids",
+    "BMI in Men and Women",
+    "Only One Aspect of Overall Health",
+    "Similar Health Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "BMI Classification Weight Ranges:[1]",
+    "BMI Formula",
+    "BMI Chart",
+    "Categories for Children Ages 2-19"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "BMI Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Body Mass Index (BMI)"
+    },
+    {
+     "level": 3,
+     "text": "BMI Classification Weight Ranges:[1]"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate BMI"
+    },
+    {
+     "level": 3,
+     "text": "BMI Formula"
+    },
+    {
+     "level": 4,
+     "text": "Imperial Units"
+    },
+    {
+     "level": 2,
+     "text": "Body Mass Index Categories"
+    },
+    {
+     "level": 3,
+     "text": "BMI Chart"
+    },
+    {
+     "level": 2,
+     "text": "Is Body Mass Index Accurate?"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate BMI for Kids"
+    },
+    {
+     "level": 3,
+     "text": "Categories for Children Ages 2-19"
+    },
+    {
+     "level": 2,
+     "text": "BMI in Men and Women"
+    },
+    {
+     "level": 2,
+     "text": "Only One Aspect of Overall Health"
+    },
+    {
+     "level": 2,
+     "text": "Similar Health Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 1729,
+   "avgSentenceWords": 26,
+   "faqs": [
+    "Is Body Mass Index Accurate?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "bmi",
+     "weight": 62
+    },
+    {
+     "term": "body",
+     "weight": 41
+    },
+    {
+     "term": "weight",
+     "weight": 36
+    },
+    {
+     "term": "body mass",
+     "weight": 30
+    },
+    {
+     "term": "mass index",
+     "weight": 30
+    },
+    {
+     "term": "mass",
+     "weight": 24
+    },
+    {
+     "term": "index",
+     "weight": 21
+    },
+    {
+     "term": "height",
+     "weight": 18
+    },
+    {
+     "term": "body weight",
+     "weight": 18
+    },
+    {
+     "term": "ideal body",
+     "weight": 15
+    },
+    {
+     "term": "categories",
+     "weight": 14
+    },
+    {
+     "term": "obesity",
+     "weight": 12
+    },
+    {
+     "term": "https",
+     "weight": 12
+    },
+    {
+     "term": "https www",
+     "weight": 12
+    },
+    {
+     "term": "body fat",
+     "weight": 12
+    },
+    {
+     "term": "calculator",
+     "weight": 11
+    },
+    {
+     "term": "men",
+     "weight": 11
+    },
+    {
+     "term": "women",
+     "weight": 11
+    },
+    {
+     "term": "ideal",
+     "weight": 11
+    },
+    {
+     "term": "calculate",
+     "weight": 10
+    },
+    {
+     "term": "health",
+     "weight": 10
+    },
+    {
+     "term": "cdc",
+     "weight": 10
+    },
+    {
+     "term": "age",
+     "weight": 10
+    },
+    {
+     "term": "have",
+     "weight": 9
+    },
+    {
+     "term": "class",
+     "weight": 9
+    },
+    {
+     "term": "used",
+     "weight": 9
+    },
+    {
+     "term": "fat",
+     "weight": 9
+    },
+    {
+     "term": "disease",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "www",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "Question or Feedback Name (optional) Email (optional) Results: Body Mass Index (BMI) BMI Classification Weight Ranges:[1] Weight ranges for each classification based on height.",
+    "The formula for BMI is: BMI = weight [kg] / height² [m²] Imperial Units BMI = weight [lb] / height² [in²] × 703 Or simply use the calculator above and it will do the work for you!",
+    "For instance, a person with a BMI above 35 or 40 is more likely obese.",
+    "As an example, a 7-year-old boy with a BMI of 20 would fall into the greater than 95th percentile and would be considered obese.",
+    "However, a 15-year-old boy with a BMI of 20 would fall between the 25th and 50th percentile and would be considered to be a healthy weight.",
+    "These BMI charts can be accessed through the CDC website (boys[5] and girls[6]).",
+    "However, a 2016 study found that using a target BMI in the IBW equation gives a more accurate representation of ideal body weight.",
+    "Studies have found that a BMI around 22 confers the lowest morbidity in both men and women.[11] So using this formula, a 5′ 5″ woman targeting a healthy BMI of 22 would have an ideal body weight of 132 pounds.",
+    "B., Universal equation for estimating ideal body weight and body weight at any BMI, The American journal of clinical nutrition, 2016, 103(5), 1197-1203."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 3,
+   "lists": 3,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [
+    "Height",
+    "Height Units",
+    "Weight",
+    "Weight Units"
+   ],
+   "selectOptionsSample": "in cm lb kg st",
+   "unitToggle": true,
+   "wordsBeforeTool": 30,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Holly Smith",
+    "published": "2021-05-19",
+    "modified": "2025-10-02T14:51:39+00:00",
+    "authoritativeSources": [
+     "https://www.who.int/europe/news-room/fact-sheets/item/a-healthy-lifestyle---who-recommendations",
+     "https://www.cdc.gov/bmi/adult-calculator/bmi-categories.html",
+     "https://www.cdc.gov/growthcharts/data/extended-bmi/BMI-Age-percentiles-BOYS.pdf",
+     "https://www.cdc.gov/growthcharts/data/extended-bmi/BMI-Age-percentiles-GIRLS.pdf",
+     "https://www.cdc.gov/growthcharts/extended-bmi.htm",
+     "https://www.cdc.gov/bmi/child-teen-calculator/bmi-categories.html",
+     "https://pubmed.ncbi.nlm.nih.gov/27030535/"
+    ]
+   },
+   "ux": {
+    "htmlKB": 133,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 50,
+    "external": 24,
+    "contentInternal": 26,
+    "contentExternal": 18,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate BMI",
+     "Body Mass Index Categories",
+     "Is Body Mass Index Accurate?",
+     "How to Calculate BMI for Kids",
+     "Categories for Children Ages 2-19",
+     "BMI in Men and Women",
+     "Only One Aspect of Overall Health",
+     "References",
+     "Full bio",
+     "BMI Calculator",
+     "body fat",
+     "lean muscle mass",
+     "young children and adolescents",
+     "ideal body weight",
+     "waist circumference",
+     "waist-to-height ratio",
+     "Ideal Body Weight Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/bmi-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/bmi/",
+     "https://www.inchcalculator.com/bmi-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/bmi-calculator/#idx_how_to_calculate_bmi",
+     "https://www.inchcalculator.com/bmi-calculator/#idx_body_mass_index_categories",
+     "https://www.inchcalculator.com/bmi-calculator/#idx_is_body_mass_index_accurate",
+     "https://www.inchcalculator.com/bmi-calculator/#idx_how_to_calculate_bmi_for_kids",
+     "https://www.inchcalculator.com/bmi-calculator/#idx_categories_for_children_ages_2-19",
+     "https://www.inchcalculator.com/bmi-calculator/#idx_bmi_in_men_and_women",
+     "https://www.inchcalculator.com/bmi-calculator/#idx_only_one_aspect_of_overall_health",
+     "https://www.inchcalculator.com/bmi-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/holly-smith/",
+     "https://www.inchcalculator.com/author/elise-harlow/",
+     "https://www.inchcalculator.com/bmi-calculator/",
+     "https://www.inchcalculator.com/bmi-calculator/#idx_bmi_chart",
+     "https://www.inchcalculator.com/body-fat-calculator/",
+     "https://www.inchcalculator.com/lean-body-mass-calculator/",
+     "https://www.inchcalculator.com/child-bmi-calculator/",
+     "https://www.inchcalculator.com/ideal-body-weight-calculator/",
+     "https://www.inchcalculator.com/waist-to-hip-ratio-calculator/",
+     "https://www.inchcalculator.com/waist-to-height-ratio-calculator/",
+     "https://www.inchcalculator.com/height-converter/",
+     "https://www.inchcalculator.com/height-calculator/",
+     "https://www.inchcalculator.com/sleep-calculator/",
+     "https://www.inchcalculator.com/height-comparison-chart/"
+    ],
+    "externalSample": [
+     "https://www.who.int/europe/news-room/fact-sheets/item/a-healthy-lifestyle---who-recommendations",
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fbmi-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fbmi-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fbmi-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fbmi-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fbmi-calculator%2F&text=BMI+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fbmi-calculator%2F&text=BMI+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://europepmc.org/article/med/4030199",
+     "https://www.cdc.gov/bmi/adult-calculator/bmi-categories.html",
+     "https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1467-789x.2001.00031.x",
+     "https://www.cdc.gov/growthcharts/data/extended-bmi/BMI-Age-percentiles-BOYS.pdf",
+     "https://www.cdc.gov/growthcharts/data/extended-bmi/BMI-Age-percentiles-GIRLS.pdf",
+     "https://www.cdc.gov/growthcharts/extended-bmi.htm",
+     "https://www.cdc.gov/bmi/child-teen-calculator/bmi-categories.html"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://omnicalculator.com/health/bmi-women": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.ramsayhealth.co.uk/treatments/weight-loss-surgery/bmi/bmi-for-women": [
+   "unreachable (fetch failed)"
+  ],
+  "https://health.clevelandclinic.org/bmi-for-women/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://weightwatchers.com/nz/blog/weight-loss/bmi-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.calculate.co.nz/bmi-calculator-for-women.php": [
+   "unreachable (fetch failed)"
+  ],
+  "https://weightwatchers.com/au/blog/weight-loss/bmi-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.codeitbro.com/tool/bmi-calculator-for-women": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.boltpharmacy.co.uk/guide/bmi-calculator-for-women": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.deliveryrank.com/tools/women-bmi-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://apps.apple.com/la/app/bmi-calculator-for-women-men/id1554046740": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.graphcalc.com/?p=1025": [
+   "unreachable (fetch failed)"
+  ],
+  "https://bmi.recipesecrets.net/calculator-for-women": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

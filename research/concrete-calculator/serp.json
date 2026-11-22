@@ -1,13 +1,18 @@
 {
  "keywords": {
   "concrete calculator": {
-   "fetchedAt": "2026-11-21T18:53:35.847Z",
+   "fetchedAt": "2026-11-22T10:17:40.829Z",
    "device": "n/a",
    "location": "United States (web search tool)",
    "provider": "agent-websearch",
    "rankNote": "position in web-search output, not a verified Google rank",
    "fileVolume": 301000,
    "fileKd": 40,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 1,
+    "url": "www.calculator.net/concrete-calculator.html"
+   },
    "seResultsCount": null,
    "features": [],
    "featuredSnippet": null,
@@ -86,23 +91,23 @@
     },
     {
      "rank": 11,
-     "url": "https://www.gigacalculator.com/calculators/concrete-calculator.php",
-     "domain": "www.gigacalculator.com",
-     "title": "Concrete Calculator",
-     "description": null
-    },
-    {
-     "rank": 12,
      "url": "https://www.homedit.com/calculators/concrete-calculator",
      "domain": "www.homedit.com",
      "title": "Concrete Calculator: Volume and Weight Necessary",
      "description": null
     },
     {
-     "rank": 13,
+     "rank": 12,
      "url": "https://forconstructionpros.com/concrete/article/21135667/concrete-calculator-shortcuts-to-the-order",
      "domain": "forconstructionpros.com",
      "title": "concrete calculator shortcuts to the order",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.gigacalculator.com/calculators/concrete-calculator.php",
+     "domain": "www.gigacalculator.com",
+     "title": "Concrete Calculator",
      "description": null
     },
     {
@@ -121,23 +126,23 @@
     },
     {
      "rank": 16,
-     "url": "https://www.inchcalculator.com/concrete-calculator",
-     "domain": "www.inchcalculator.com",
-     "title": "From the creators of the most-downloaded concrete app",
-     "description": null
-    },
-    {
-     "rank": 17,
      "url": "https://www.miniwebtool.com/concrete-calculator",
      "domain": "www.miniwebtool.com",
      "title": "concrete calculator",
      "description": null
     },
     {
+     "rank": 17,
+     "url": "https://www.inchcalculator.com/concrete-calculator",
+     "domain": "www.inchcalculator.com",
+     "title": "From the creators of the most-downloaded concrete app",
+     "description": null
+    },
+    {
      "rank": 18,
      "url": "https://busybusy.com/concrete-calculator/",
      "domain": "busybusy.com",
-     "title": "# Concrete Calculator",
+     "title": "Concrete Calculator",
      "description": null
     },
     {
@@ -160,7 +165,7 @@
  "slug": "concrete-calculator",
  "name": "Concrete Calculator",
  "keywordSource": "data/roadmap.json (Semrush)",
- "updatedAt": "2026-11-21T18:53:35.848Z",
+ "updatedAt": "2026-11-22T10:17:40.830Z",
  "topCompetitors": [
   {
    "domain": "pearson.com",
@@ -233,20 +238,22 @@
    ]
   },
   {
-   "domain": "gigacalculator.com",
-   "bestRank": 11,
-   "keywords": 1,
-   "urls": [
-    "https://www.gigacalculator.com/calculators/concrete-calculator.php"
-   ]
-  },
-  {
    "domain": "homedit.com",
-   "bestRank": 12,
+   "bestRank": 11,
    "keywords": 1,
    "urls": [
     "https://www.homedit.com/calculators/concrete-calculator"
    ]
+  },
+  {
+   "domain": "forconstructionpros.com",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://forconstructionpros.com/concrete/article/21135667/concrete-calculator-shortcuts-to-the-order"
+   ]
   }
- ]
+ ],
+ "page": "concrete-calculator",
+ "category": "construction"
 }

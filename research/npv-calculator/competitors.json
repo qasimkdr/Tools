@@ -1,0 +1,983 @@
+{
+ "pages": {
+  "https://www.calculatorsoup.com/calculators/financial/net-present-value-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/financial/net-present-value-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/financial/net-present-value-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T10:21:26.277Z",
+   "title": "Net Present Value Calculator",
+   "metaDescription": "Calculate the net present value of uneven, or even, cash flows. Finds the present value (PV) of future cash flows that start at the end or beginning of the first period. Similar to Excel function NPV().",
+   "canonical": "https://www.calculatorsoup.com/calculators/financial/net-present-value-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Net Present Value Calculator"
+   ],
+   "h2": [],
+   "h3": [
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Net Present Value Calculator"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 572,
+   "avgSentenceWords": 34,
+   "faqs": [
+    "Line 0 (time 0) 1 Period @ ?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "cash",
+     "weight": 19
+    },
+    {
+     "term": "present value",
+     "weight": 18
+    },
+    {
+     "term": "cash flows",
+     "weight": 17
+    },
+    {
+     "term": "period",
+     "weight": 16
+    },
+    {
+     "term": "value",
+     "weight": 14
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "net present",
+     "weight": 12
+    },
+    {
+     "term": "present",
+     "weight": 12
+    },
+    {
+     "term": "cash flow",
+     "weight": 12
+    },
+    {
+     "term": "flows",
+     "weight": 11
+    },
+    {
+     "term": "value calculator",
+     "weight": 9
+    },
+    {
+     "term": "net",
+     "weight": 8
+    },
+    {
+     "term": "flow",
+     "weight": 8
+    },
+    {
+     "term": "calculators",
+     "weight": 7
+    },
+    {
+     "term": "200 000",
+     "weight": 6
+    },
+    {
+     "term": "rate",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators financial",
+     "weight": 5
+    },
+    {
+     "term": "period cash",
+     "weight": 5
+    },
+    {
+     "term": "187 249",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "financial",
+     "weight": 4
+    },
+    {
+     "term": "compounding",
+     "weight": 4
+    },
+    {
+     "term": "calculator net",
+     "weight": 3
+    },
+    {
+     "term": "value npv",
+     "weight": 3
+    },
+    {
+     "term": "npv",
+     "weight": 3
+    },
+    {
+     "term": "interest rate",
+     "weight": 3
+    },
+    {
+     "term": "rate discount",
+     "weight": 3
+    },
+    {
+     "term": "discount rate",
+     "weight": 3
+    },
+    {
+     "term": "period compounding",
+     "weight": 3
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 0,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Interest Rate: % discount rate per Period",
+    "Compounding: times per Period",
+    "Cash Flows at: of each Period",
+    "Number of Lines:",
+    "values[0]",
+    "periods[1]",
+    "values[1]",
+    "periods[2]",
+    "values[2]",
+    "reset"
+   ],
+   "selectOptionsSample": "beginning end 1 2 3 4 5 6 7 8 9 10 15 20 25 30 35 40 45 50",
+   "unitToggle": false,
+   "wordsBeforeTool": 30,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "August 1, 2025",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 59,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 18,
+    "external": 0,
+    "contentInternal": 8,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Financial",
+     "Time Value of Money",
+     "Net Present Value Calculator",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Present Value Cash Flows Calculator",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/financial/",
+     "https://www.calculatorsoup.com/calculators/financial/index-time-value-of-money-calculators.php",
+     "https://www.calculatorsoup.com/calculators/financial/net-present-value-calculator.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=financial%2F&folderName=Financial&folder2=financial%2Findex-time-value-of-money-calculators.php&folderName2=Time+Value+of+Money&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/financial/net-present-value-calculator.php&h1=Net+Present+Value+Calculator&pop_w=400&pop_h=800",
+     "https://www.calculatorsoup.com/calculators/financial/present-value-cash-flows-calculator.php"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/finance/net-present-value": {
+   "url": "https://www.omnicalculator.com/finance/net-present-value",
+   "finalUrl": "https://www.omnicalculator.com/finance/net-present-value",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T10:21:29.643Z",
+   "title": "NPV Calculator",
+   "metaDescription": "NPV calculator determines the net present value of your investment.",
+   "canonical": "https://www.omnicalculator.com/finance/net-present-value",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "NPV Calculator – Net Present Value"
+   ],
+   "h2": [
+    "What is the net present value?",
+    "How to calculate net present value?",
+    "How to calculate NPV: an example",
+    "What are the expected cash flows?",
+    "Net present value (NPV) and internal rate of return (IRR)",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I calculate NPV?",
+    "What is NPV in finance?",
+    "Can NPV be negative?",
+    "What does NPV equal 1000 mean?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "NPV Calculator – Net Present Value"
+    },
+    {
+     "level": 2,
+     "text": "What is the net present value?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate net present value?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate NPV: an example"
+    },
+    {
+     "level": 2,
+     "text": "What are the expected cash flows?"
+    },
+    {
+     "level": 2,
+     "text": "Net present value (NPV) and internal rate of return (IRR)"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate NPV?"
+    },
+    {
+     "level": 3,
+     "text": "What is NPV in finance?"
+    },
+    {
+     "level": 3,
+     "text": "Can NPV be negative?"
+    },
+    {
+     "level": 3,
+     "text": "What does NPV equal 1000 mean?"
+    }
+   ],
+   "wordCount": 1241,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "How do I calculate NPV?",
+    "What is NPV in finance?",
+    "Can NPV be negative?",
+    "What does NPV equal 1000 mean?",
+    "What is the net present value?",
+    "How to calculate net present value?",
+    "What are the expected cash flows?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "present value",
+     "weight": 41
+    },
+    {
+     "term": "value",
+     "weight": 36
+    },
+    {
+     "term": "npv",
+     "weight": 33
+    },
+    {
+     "term": "cash",
+     "weight": 31
+    },
+    {
+     "term": "present",
+     "weight": 29
+    },
+    {
+     "term": "net present",
+     "weight": 20
+    },
+    {
+     "term": "project",
+     "weight": 18
+    },
+    {
+     "term": "cash flow",
+     "weight": 17
+    },
+    {
+     "term": "discount rate",
+     "weight": 15
+    },
+    {
+     "term": "rate",
+     "weight": 15
+    },
+    {
+     "term": "year",
+     "weight": 15
+    },
+    {
+     "term": "investment",
+     "weight": 15
+    },
+    {
+     "term": "cash flows",
+     "weight": 14
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "net",
+     "weight": 13
+    },
+    {
+     "term": "flow",
+     "weight": 12
+    },
+    {
+     "term": "discount",
+     "weight": 11
+    },
+    {
+     "term": "cash inflows",
+     "weight": 11
+    },
+    {
+     "term": "flows",
+     "weight": 9
+    },
+    {
+     "term": "money",
+     "weight": 9
+    },
+    {
+     "term": "npv calculator",
+     "weight": 8
+    },
+    {
+     "term": "initial investment",
+     "weight": 8
+    },
+    {
+     "term": "calculate npv",
+     "weight": 8
+    },
+    {
+     "term": "initial",
+     "weight": 7
+    },
+    {
+     "term": "calculate",
+     "weight": 7
+    },
+    {
+     "term": "company",
+     "weight": 7
+    },
+    {
+     "term": "inflows",
+     "weight": 7
+    },
+    {
+     "term": "expected",
+     "weight": 6
+    },
+    {
+     "term": "expected cash",
+     "weight": 6
+    },
+    {
+     "term": "negative",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "How to calculate NPV: an example Let's analyze the following example: a company has to choose between two projects that both cost $10,000 to implement.",
+    "This result means that project 1 is profitable because it has a positive NPV.",
+    "Project 2 is not profitable for the company, as it has a negative NPV.",
+    "Calculate NPV - Discount each cash flow to its present value using the formula: PV = Cash Flow / (1 + Discount Rate)^Year.",
+    "Example: For a project with a cash inflow of $1,000 in Year 1 and a discount rate of 10%, NPV = $1,000 / (1 + 0.10)^1 = $909.09.",
+    "If NPV equals 1000, it means: The investment is likely profitable - The project's expected earnings exceed its costs."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 4,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Bogna Szyk",
+    "published": "2017-09-22T10:04:19.200Z",
+    "modified": "2026-09-26T21:27:34.664Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 1109,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 23,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "discounted cash flow calculator",
+     "future value calculator",
+     "present value calculator",
+     "present value of growth opportunities calculator",
+     "profitability index calculator",
+     "IRR calculator",
+     "cost of capital calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/finance/dcf",
+     "https://www.omnicalculator.com/finance/future-value",
+     "https://www.omnicalculator.com/finance/present-value",
+     "https://www.omnicalculator.com/finance/pvgo",
+     "https://www.omnicalculator.com/finance/profitability-index",
+     "https://www.omnicalculator.com/finance/internal-rate-of-return",
+     "https://www.omnicalculator.com/finance/cost-of-capital"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/net-present-value-calculator/": {
+   "url": "https://www.inchcalculator.com/net-present-value-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/net-present-value-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T10:21:32.605Z",
+   "title": "Net Present Value Calculator - Inch Calculator",
+   "metaDescription": "Calculate the net present value of an investment using our NPV calculator. Plus, learn the net present value formula and steps to find it.",
+   "canonical": "https://www.inchcalculator.com/net-present-value-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Net Present Value Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results:",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate Net Present Value",
+    "What is the Difference Between Present Value (PV) and NPV?",
+    "What is the Difference Between NPV and IRR?",
+    "Frequently Asked Questions",
+    "Similar Business Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Net Present Value Formula",
+    "Is NPV still used?",
+    "When should you use NPV?",
+    "Is NPV and DCF the same?",
+    "Can NPV be negative?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Net Present Value Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results:"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Net Present Value"
+    },
+    {
+     "level": 3,
+     "text": "Net Present Value Formula"
+    },
+    {
+     "level": 2,
+     "text": "What is the Difference Between Present Value (PV) and NPV?"
+    },
+    {
+     "level": 2,
+     "text": "What is the Difference Between NPV and IRR?"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "Is NPV still used?"
+    },
+    {
+     "level": 3,
+     "text": "When should you use NPV?"
+    },
+    {
+     "level": 3,
+     "text": "Is NPV and DCF the same?"
+    },
+    {
+     "level": 3,
+     "text": "Can NPV be negative?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Business Calculators"
+    }
+   ],
+   "wordCount": 1818,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "Is NPV still used?",
+    "When should you use NPV?",
+    "Is NPV and DCF the same?",
+    "Can NPV be negative?",
+    "What is the Difference Between Present Value (PV) and NPV?",
+    "What is the Difference Between NPV and IRR?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "present value",
+     "weight": 45
+    },
+    {
+     "term": "npv",
+     "weight": 42
+    },
+    {
+     "term": "cash",
+     "weight": 34
+    },
+    {
+     "term": "value",
+     "weight": 31
+    },
+    {
+     "term": "present",
+     "weight": 30
+    },
+    {
+     "term": "year",
+     "weight": 29
+    },
+    {
+     "term": "net present",
+     "weight": 29
+    },
+    {
+     "term": "discount rate",
+     "weight": 26
+    },
+    {
+     "term": "net",
+     "weight": 24
+    },
+    {
+     "term": "cash flows",
+     "weight": 24
+    },
+    {
+     "term": "investment",
+     "weight": 21
+    },
+    {
+     "term": "rate",
+     "weight": 21
+    },
+    {
+     "term": "calculator",
+     "weight": 20
+    },
+    {
+     "term": "irr",
+     "weight": 19
+    },
+    {
+     "term": "discount",
+     "weight": 17
+    },
+    {
+     "term": "flows",
+     "weight": 16
+    },
+    {
+     "term": "project",
+     "weight": 15
+    },
+    {
+     "term": "initial",
+     "weight": 12
+    },
+    {
+     "term": "initial investment",
+     "weight": 12
+    },
+    {
+     "term": "cash flow",
+     "weight": 12
+    },
+    {
+     "term": "company",
+     "weight": 11
+    },
+    {
+     "term": "example",
+     "weight": 9
+    },
+    {
+     "term": "cash inflows",
+     "weight": 9
+    },
+    {
+     "term": "negative",
+     "weight": 9
+    },
+    {
+     "term": "calculate",
+     "weight": 8
+    },
+    {
+     "term": "flow",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "value calculator",
+     "weight": 8
+    },
+    {
+     "term": "net cash",
+     "weight": 8
+    },
+    {
+     "term": "difference between",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "Anytime the NPV of a project is greater than $0, the company should invest in it.",
+    "Anytime a project’s NPV is below $0, the company should avoid investing in it.",
+    "Given a discount rate of 10%, let’s calculate what the NPV would be By plugging these amounts into the calculator above, we get an NPV of -$71.98.",
+    "Table showing the NPV for a project with a $5,000 cash outflow and $1,300 cash inflows over 5 years.",
+    "Using an NPV or IRR calculator, you can see that the IRR (internal rate of return) is 9.44%.",
+    "This means that any discount rate greater than 9.44% will lead to a negative NPV.",
+    "Any discount rate below 9.44% will lead to a positive NPV.",
+    "Also, if you enter 9.44% for the discount rate, the NPV is $0.",
+    "The IRR is the discount rate that turns the NPV to $0.",
+    "We showed this in the example above when the IRR of 9.435% led to an NPV of $0."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 2,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [
+    "Initial Investment",
+    "Discount Rate",
+    "Year 1",
+    "Year 2",
+    "Year 3",
+    "Year 4",
+    "Year 5",
+    "Year 6",
+    "Year 7",
+    "Year 8",
+    "Year 9",
+    "Year 10",
+    "Year 11",
+    "Year 12",
+    "Year 13",
+    "Year 14",
+    "Year 15",
+    "Year 16",
+    "Year 17",
+    "Year 18",
+    "Year 19",
+    "Year 20",
+    "Year 21",
+    "Year 22",
+    "Year 23",
+    "Year 24",
+    "Year 25"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 20,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Joseph Rich",
+    "published": "2022-04-21",
+    "modified": "2026-10-05T20:06:23+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 146,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 46,
+    "external": 13,
+    "contentInternal": 22,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate Net Present Value",
+     "Net Present Value Formula",
+     "What is the Difference Between Present Value (PV) and NPV?",
+     "What is the Difference Between NPV and IRR?",
+     "Frequently Asked Questions",
+     "Full bio",
+     "Net Present Value Calculator",
+     "return on investment",
+     "present value calculator",
+     "discounted cash flows",
+     "IRR calculator",
+     "Price Per Square Foot Calculator",
+     "Appreciation Calculator",
+     "Cross-Price Elasticity Calculator",
+     "Price Elasticity of Supply Calculator",
+     "Commission Calculator",
+     "See All"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/net-present-value-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/net-present-value/",
+     "https://www.inchcalculator.com/net-present-value-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/net-present-value-calculator/#idx_how_to_calculate_net_present_value",
+     "https://www.inchcalculator.com/net-present-value-calculator/#idx_net_present_value_formula",
+     "https://www.inchcalculator.com/net-present-value-calculator/#idx_what_is_the_difference_between_present_value_pv_and_npv",
+     "https://www.inchcalculator.com/net-present-value-calculator/#idx_what_is_the_difference_between_npv_and_irr",
+     "https://www.inchcalculator.com/net-present-value-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/joseph-rich/",
+     "https://www.inchcalculator.com/author/monica-greer/",
+     "https://www.inchcalculator.com/author/laura-deimling/",
+     "https://www.inchcalculator.com/net-present-value-calculator/",
+     "https://www.inchcalculator.com/roi-calculator/",
+     "https://www.inchcalculator.com/present-value-calculator/",
+     "https://www.inchcalculator.com/discounted-cash-flow-calculator/",
+     "https://www.inchcalculator.com/irr-calculator/",
+     "https://www.inchcalculator.com/price-per-square-foot-calculator/",
+     "https://www.inchcalculator.com/appreciation-calculator/",
+     "https://www.inchcalculator.com/cross-price-elasticity-calculator/",
+     "https://www.inchcalculator.com/price-elasticity-of-supply-calculator/",
+     "https://www.inchcalculator.com/commission-calculator/",
+     "https://www.inchcalculator.com/business-finance-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fnet-present-value-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fnet-present-value-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fnet-present-value-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fnet-present-value-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fnet-present-value-calculator%2F&text=Net+Present+Value+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fnet-present-value-calculator%2F&text=Net+Present+Value+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.pearson.com/channels/calculators/npv-irr-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.pearson.com/channels/it/calculators/npv-irr-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://vertex42.com/Calculators/npv-irr-calculator.html": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.gigacalculator.com/calculators/npv-calculator.php": [
+   "disallowed by robots.txt"
+  ],
+  "https://apps.apple.com/us/app/npv-calculator/id6449587062": [
+   "unreachable (fetch failed)"
+  ],
+  "https://getholdings.com/tools/npv-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://propertymetrics.com/?p=2944": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.scribd.com/doc/268712058/NPV-Calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://openstax.org/books/principles-of-finance-2e/pages/16-2-net-present-value-npv-method": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.onesdr.com/npv-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.blackridgeresearch.com/tools/npv-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://miniwebtool.com/npv-calculator/video/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://coefficient.io/calculate/net-present-value-npv": [
+   "unreachable (fetch failed)"
+  ],
+  "https://calculate.co.nz/npv-calculator.php": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

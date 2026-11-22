@@ -1,14 +1,15 @@
 # Competitor analysis: "concrete calculator"
 
-- Research id: `concrete-calculator` · roadmap page: Concrete Calculator · report generated 2026-11-21
+- Research id: `concrete-calculator` · roadmap page: Concrete Calculator · report generated 2026-11-22
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
 
 | Data | Source | Type | Date |
 |---|---|---|---|
-| Result list for "concrete calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-21 |
-| Volume 301000, KD 40 | Semrush export (data/source) | Third-party estimate | export date not recorded |
+| Result list for "concrete calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
+| Volume 301000, KD 40, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
+| Competitor at Google #1: www.calculator.net/concrete-calculator.html | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
 | Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-21 |
 
 ## 1. Search intent
@@ -18,7 +19,7 @@
 - Result titles that are tools: 18/20
 - **Format to build: Transactional/utility: a working tool first, backed by an explanatory guide.**
 
-### Result list — "concrete calculator" (web-search order, not Google rank; fetched 2026-11-21)
+### Result list — "concrete calculator" (web-search order, not Google rank; fetched 2026-11-22)
 
 | # | Domain | Title | URL |
 |---|---|---|---|
@@ -32,14 +33,14 @@
 | 8 | www.omnicalculator.com | Omni Calculator logo | https://www.omnicalculator.com/construction/concrete-slab |
 | 9 | www.jotform.com | Concrete Calculator App | https://www.jotform.com/products/apps/concrete-calculator-app/ |
 | 10 | www.homeadvisor.com | Concrete Calculator | https://www.homeadvisor.com/r/concrete-calculator |
-| 11 | www.gigacalculator.com | Concrete Calculator | https://www.gigacalculator.com/calculators/concrete-calculator.php |
-| 12 | www.homedit.com | Concrete Calculator: Volume and Weight Necessary | https://www.homedit.com/calculators/concrete-calculator |
-| 13 | forconstructionpros.com | concrete calculator shortcuts to the order | https://forconstructionpros.com/concrete/article/21135667/concrete-calculator-shortcuts-to-the-order |
+| 11 | www.homedit.com | Concrete Calculator: Volume and Weight Necessary | https://www.homedit.com/calculators/concrete-calculator |
+| 12 | forconstructionpros.com | concrete calculator shortcuts to the order | https://forconstructionpros.com/concrete/article/21135667/concrete-calculator-shortcuts-to-the-order |
+| 13 | www.gigacalculator.com | Concrete Calculator | https://www.gigacalculator.com/calculators/concrete-calculator.php |
 | 14 | apps.apple.com | Concrete Calculator | https://apps.apple.com/app/id6742077717 |
 | 15 | apps.apple.com | Concrete Calculator All In One | https://apps.apple.com/us/app/-/id1587170686 |
-| 16 | www.inchcalculator.com | From the creators of the most-downloaded concrete app | https://www.inchcalculator.com/concrete-calculator |
-| 17 | www.miniwebtool.com | concrete calculator | https://www.miniwebtool.com/concrete-calculator |
-| 18 | busybusy.com | # Concrete Calculator | https://busybusy.com/concrete-calculator/ |
+| 16 | www.miniwebtool.com | concrete calculator | https://www.miniwebtool.com/concrete-calculator |
+| 17 | www.inchcalculator.com | From the creators of the most-downloaded concrete app | https://www.inchcalculator.com/concrete-calculator |
+| 18 | busybusy.com | Concrete Calculator | https://busybusy.com/concrete-calculator/ |
 | 19 | www.housecallpro.com | www.housecallpro.com | https://www.housecallpro.com/?p=71525 |
 | 20 | wba.omnicalculator.com | Omni Calculator logo | https://wba.omnicalculator.com/construction/concrete-slab |
 

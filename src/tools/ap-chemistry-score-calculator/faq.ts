@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How is the AP Chemistry exam scored?", a: "There are two sections worth 50% each: 60 multiple-choice questions and 7 free-response questions. The free-response section has three long questions worth 10 points each and four short questions worth 4 points each, 46 points in all. Your weighted composite is converted to a 1–5 score." },
+  { q: "What composite score do you need for a 5 on AP Chem?", a: "The College Board doesn't publish cutoffs, and they shift with each exam. Popular calculators estimate a 5 at about 72 of 100 composite points, a 4 at 58 and a 3 at 42, though some put the 5 cutoff closer to 78–80. Treat any cutoff as an estimate." },
+  { q: "Is AP Chemistry hard to pass?", a: "In 2025, 77.9% of students scored 3 or higher and 17.9% earned a 5, according to the College Board's score distribution. The free-response questions are where most students lose points: the 2025 average was about 20 of 46 points." },
+  { q: "Which matters more, multiple choice or free response?", a: "Each section is half your score. One multiple-choice question is worth about 0.83 composite points and one free-response point about 1.09, so a long free-response question (10 points) is worth almost 11% of the exam." },
+  { q: "Is there a penalty for guessing?", a: "No. AP exams don't take off points for wrong answers, so answer every multiple-choice question." },
+  { q: "Do colleges give credit for AP Chemistry?", a: "Many colleges award credit or placement for a 3 or higher, and some science and engineering programs require a 4 or 5 to skip general chemistry. Check each college's AP credit policy." },
+];

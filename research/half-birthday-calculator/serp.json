@@ -1,0 +1,357 @@
+{
+ "keywords": {
+  "half birthday calculator": {
+   "fetchedAt": "2026-11-22T10:17:41.065Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 5400,
+   "fileKd": 10,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 2,
+    "url": "www.omnicalculator.com/everyday-life/half-birthday"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.omnicalculator.com/everyday-life/half-birthday",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://miniwebtool.com/half-birthday-calculator/",
+     "domain": "miniwebtool.com",
+     "title": "half birthday calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.scarymommy.com/parenting/half-birthday-calculator",
+     "domain": "www.scarymommy.com",
+     "title": "half birthday calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.scarymommy.com/half-birthday-calculator/",
+     "domain": "www.scarymommy.com",
+     "title": "half birthday calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://mafilom.github.io/Half-Birthday-Calculator/",
+     "domain": "mafilom.github.io",
+     "title": "Half Birthday Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.thewordfinder.com/calculators/half-birthday-calculator/",
+     "domain": "www.thewordfinder.com",
+     "title": "Half Birthday Calculator The date exactly six months from your birthday",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://en.wikipedia.org/wiki/Half-birthday",
+     "domain": "en.wikipedia.org",
+     "title": "Half-birthday",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://calculator.academy/half-birthday-calculator/",
+     "domain": "calculator.academy",
+     "title": "half birthday calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://calculator.academy/when-is-my-half-birthday-calculator/",
+     "domain": "calculator.academy",
+     "title": "when is my half birthday calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://bushe.co/tools/half-birthday-calculator/",
+     "domain": "bushe.co",
+     "title": "half birthday calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://calculators.sg/half-birthday-calculator",
+     "domain": "calculators.sg",
+     "title": "Half Birthday Calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://track.ctrader.com/calendar/half-birthday-calendar.html",
+     "domain": "track.ctrader.com",
+     "title": "Half Birthday Calendar",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://sourcetable.com/calculate/how-to-calculate-half-birthday",
+     "domain": "sourcetable.com",
+     "title": "how to calculate half birthday",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://sourcetable.com/calculate/when-is-your-half-birthday-calculator",
+     "domain": "sourcetable.com",
+     "title": "Calculate Your Half Birthday with Our Online Calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://totalcalchub.com/us/utilities/half-birthday-calculator",
+     "domain": "totalcalchub.com",
+     "title": "Half Birthday Calculator 2026",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://salt-django.crmcloud.infor.com/half-birthday-calculator",
+     "domain": "salt-django.crmcloud.infor.com",
+     "title": "Calculate Your Half Birthday with Our Easy Online Calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://howoldamitoday-gh.pages.dev/half-birthday",
+     "domain": "howoldamitoday-gh.pages.dev",
+     "title": "Half Birthday Calculator: When Is My Half Birthday?",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://ganaknextjs.pages.dev/calculators/half-birthday-calculator/",
+     "domain": "ganaknextjs.pages.dev",
+     "title": "Half Birthday Calculator",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://everycalculators.com/how-to-calculate-half-birthday.html",
+     "domain": "everycalculators.com",
+     "title": "Calculate Your Half Birthday",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://everycalculators.com/calculate-half-birthday.html",
+     "domain": "everycalculators.com",
+     "title": "Half Birthday Calculator",
+     "description": null
+    }
+   ]
+  },
+  "half birthday calculator [restricted to accessible domains]": {
+   "fetchedAt": "2026-11-22T10:21:11.430Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch-restricted",
+   "rankNote": "order within a search limited to accessible domains — not a Google rank, not the open result list",
+   "fileVolume": 5400,
+   "fileKd": 10,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 2,
+    "url": "www.omnicalculator.com/everyday-life/half-birthday"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.omnicalculator.com/everyday-life/half-birthday",
+     "domain": "www.omnicalculator.com",
+     "title": "Half Birthday Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.omnicalculator.com/everyday-life",
+     "domain": "www.omnicalculator.com",
+     "title": "Everyday life Calculators",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.omnicalculator.com/all",
+     "domain": "www.omnicalculator.com",
+     "title": "All calculators",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.thecalculatorsite.com/misc/birthday-calculator.php",
+     "domain": "www.thecalculatorsite.com",
+     "title": "Birthday Calculator - Your Age, Day of Birth, Birthstone and more",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.thecalculatorsite.com/conversions/height/5ft-11in",
+     "domain": "www.thecalculatorsite.com",
+     "title": "What is 5 11 in Centimeters?",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.thecalculatorsite.com/conversions/height/5ft-10in",
+     "domain": "www.thecalculatorsite.com",
+     "title": "What is 5 10 in Centimeters?",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.thecalculatorsite.com/conversions/common/square-feet-cubic-yards.php",
+     "domain": "www.thecalculatorsite.com",
+     "title": "Square Feet to Cubic Yards Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.thecalculatorsite.com/conversions/height/5ft-8in",
+     "domain": "www.thecalculatorsite.com",
+     "title": "What is 5 8 in Centimeters?",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.thecalculatorsite.com/conversions/height/5ft-4in",
+     "domain": "www.thecalculatorsite.com",
+     "title": "What is 5 4 in Centimeters?",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.thecalculatorsite.com/time/age-difference.php",
+     "domain": "www.thecalculatorsite.com",
+     "title": "Age Difference Calculator - Measure Age Gaps",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "half-birthday-calculator",
+ "page": "half-birthday-calculator",
+ "category": "time-date",
+ "name": "Half Birthday Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T10:21:11.430Z",
+ "topCompetitors": [
+  {
+   "domain": "thecalculatorsite.com",
+   "bestRank": 4,
+   "keywords": 7,
+   "urls": [
+    "https://www.thecalculatorsite.com/misc/birthday-calculator.php",
+    "https://www.thecalculatorsite.com/conversions/height/5ft-11in",
+    "https://www.thecalculatorsite.com/conversions/height/5ft-10in",
+    "https://www.thecalculatorsite.com/conversions/common/square-feet-cubic-yards.php",
+    "https://www.thecalculatorsite.com/conversions/height/5ft-8in",
+    "https://www.thecalculatorsite.com/conversions/height/5ft-4in",
+    "https://www.thecalculatorsite.com/time/age-difference.php"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 4,
+   "urls": [
+    "https://www.omnicalculator.com/everyday-life/half-birthday",
+    "https://www.omnicalculator.com/everyday-life",
+    "https://www.omnicalculator.com/all"
+   ]
+  },
+  {
+   "domain": "scarymommy.com",
+   "bestRank": 3,
+   "keywords": 2,
+   "urls": [
+    "https://www.scarymommy.com/parenting/half-birthday-calculator",
+    "https://www.scarymommy.com/half-birthday-calculator/"
+   ]
+  },
+  {
+   "domain": "calculator.academy",
+   "bestRank": 8,
+   "keywords": 2,
+   "urls": [
+    "https://calculator.academy/half-birthday-calculator/",
+    "https://calculator.academy/when-is-my-half-birthday-calculator/"
+   ]
+  },
+  {
+   "domain": "sourcetable.com",
+   "bestRank": 13,
+   "keywords": 2,
+   "urls": [
+    "https://sourcetable.com/calculate/how-to-calculate-half-birthday",
+    "https://sourcetable.com/calculate/when-is-your-half-birthday-calculator"
+   ]
+  },
+  {
+   "domain": "pages.dev",
+   "bestRank": 17,
+   "keywords": 2,
+   "urls": [
+    "https://howoldamitoday-gh.pages.dev/half-birthday",
+    "https://ganaknextjs.pages.dev/calculators/half-birthday-calculator/"
+   ]
+  },
+  {
+   "domain": "everycalculators.com",
+   "bestRank": 19,
+   "keywords": 2,
+   "urls": [
+    "https://everycalculators.com/how-to-calculate-half-birthday.html",
+    "https://everycalculators.com/calculate-half-birthday.html"
+   ]
+  },
+  {
+   "domain": "miniwebtool.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://miniwebtool.com/half-birthday-calculator/"
+   ]
+  },
+  {
+   "domain": "github.io",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://mafilom.github.io/Half-Birthday-Calculator/"
+   ]
+  },
+  {
+   "domain": "thewordfinder.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.thewordfinder.com/calculators/half-birthday-calculator/"
+   ]
+  }
+ ]
+}

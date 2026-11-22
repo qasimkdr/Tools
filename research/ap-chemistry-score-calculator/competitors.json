@@ -1,0 +1,348 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/other/ap-chem-score": {
+   "url": "https://www.omnicalculator.com/other/ap-chem-score",
+   "finalUrl": "https://www.omnicalculator.com/other/ap-chem-score",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T10:21:22.494Z",
+   "title": "AP® Chem Score Calculator",
+   "metaDescription": "Use the AP® Chem score calculator to predict your AP® Chem results based on the number of points you may obtain.",
+   "canonical": "https://www.omnicalculator.com/other/ap-chem-score",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "AP® Chem Score Calculator"
+   ],
+   "h2": [
+    "What is AP® Chemistry​?",
+    "AP® Chem score distribution",
+    "AP® chem score breakdown",
+    "How to use the AP® Chem score calculator",
+    "FAQs"
+   ],
+   "h3": [
+    "When do AP® Chem scores come out?",
+    "How long is the AP® Chem exam​?",
+    "Is AP® Chem hard​?",
+    "How many units are in AP® Chemistry​?",
+    "Is 4 a good AP® Chem score?",
+    "How do I calculate AP® Chem score?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "AP® Chem Score Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is AP® Chemistry​?"
+    },
+    {
+     "level": 2,
+     "text": "AP® Chem score distribution"
+    },
+    {
+     "level": 2,
+     "text": "AP® chem score breakdown"
+    },
+    {
+     "level": 2,
+     "text": "How to use the AP® Chem score calculator"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "When do AP® Chem scores come out?"
+    },
+    {
+     "level": 3,
+     "text": "How long is the AP® Chem exam​?"
+    },
+    {
+     "level": 3,
+     "text": "Is AP® Chem hard​?"
+    },
+    {
+     "level": 3,
+     "text": "How many units are in AP® Chemistry​?"
+    },
+    {
+     "level": 3,
+     "text": "Is 4 a good AP® Chem score?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate AP® Chem score?"
+    }
+   ],
+   "wordCount": 1126,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "What is AP® Chemistry​?",
+    "When do AP® Chem scores come out?",
+    "How long is the AP® Chem exam​?",
+    "Is AP® Chem hard​?",
+    "How many units are in AP® Chemistry​?",
+    "Is 4 a good AP® Chem score?",
+    "How do I calculate AP® Chem score?"
+   ],
+   "faqSchemaCount": 7,
+   "topics": [
+    {
+     "term": "score",
+     "weight": 48
+    },
+    {
+     "term": "chem score",
+     "weight": 36
+    },
+    {
+     "term": "chem",
+     "weight": 31
+    },
+    {
+     "term": "score calculator",
+     "weight": 17
+    },
+    {
+     "term": "calculator",
+     "weight": 16
+    },
+    {
+     "term": "chemistry",
+     "weight": 16
+    },
+    {
+     "term": "exam",
+     "weight": 13
+    },
+    {
+     "term": "questions",
+     "weight": 13
+    },
+    {
+     "term": "composite score",
+     "weight": 11
+    },
+    {
+     "term": "multiple choice",
+     "weight": 9
+    },
+    {
+     "term": "college board",
+     "weight": 9
+    },
+    {
+     "term": "college",
+     "weight": 8
+    },
+    {
+     "term": "chemistry exam",
+     "weight": 8
+    },
+    {
+     "term": "chemistry score",
+     "weight": 8
+    },
+    {
+     "term": "free response",
+     "weight": 8
+    },
+    {
+     "term": "response questions",
+     "weight": 8
+    },
+    {
+     "term": "long",
+     "weight": 7
+    },
+    {
+     "term": "question",
+     "weight": 7
+    },
+    {
+     "term": "short",
+     "weight": 7
+    },
+    {
+     "term": "composite",
+     "weight": 7
+    },
+    {
+     "term": "points",
+     "weight": 7
+    },
+    {
+     "term": "students",
+     "weight": 7
+    },
+    {
+     "term": "multiple",
+     "weight": 6
+    },
+    {
+     "term": "choice",
+     "weight": 6
+    },
+    {
+     "term": "short question",
+     "weight": 6
+    },
+    {
+     "term": "board",
+     "weight": 6
+    },
+    {
+     "term": "based",
+     "weight": 6
+    },
+    {
+     "term": "score breakdown",
+     "weight": 6
+    },
+    {
+     "term": "well qualified",
+     "weight": 6
+    },
+    {
+     "term": "qualified",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "The AP® Chem score is reported on a scale from 1 (no recommendation) to 5 (extremely well qualified).",
+    "In 2025, the mean AP® Chemistry score was 3.36, which is relatively high compared to previous years, where the average was closer to 2.8.",
+    "AP® Chem score Percentage of students 5 17.9% 4 28.6% 3 31.4% 2 15.9% 1 6.2% The above numbers come from the official College Board past exams data.",
+    "The AP® Chem score calculator uses exactly this formula for composite score: MCQ × 50/60 + FRQ × 50/46 The composite score is then matched to a score using the AP® Chem score breakdown table.",
+    "If you need guidance, here’s an instruction on how to use the AP® Chem calculator: Estimate your raw score for the multiple-choice part and for each of the 7 free-response questions.",
+    "The AP® Chem score usually appears on students’ College Board accounts in the first week of July, which is 8-9 weeks after the May exams.",
+    "The AP® Chemistry exam lasts 3 hours and 15 minutes total.",
+    "AP® Chemistry has 9 units, ranging from atomic structure and properties to chemical reactions, thermodynamics, and chemical applications.",
+    "Yes, a 4 is a strong AP® Chemistry score that gives you the very well qualified grade by the College Board.",
+    "This is above the mean of 3.36 on the 2025 AP® Chemistry exam, since only 46.5% of students scored 4 or higher."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 7,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Dominik Czernia",
+    "published": "2026-06-11T11:36:28.992Z",
+    "modified": "2026-06-16T09:26:20.126Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 504,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 20,
+    "external": 1,
+    "contentInternal": 4,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "AP® Bio score calculator",
+     "AP® Lang score calculator",
+     "normal distribution calculator",
+     "scale calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/other/ap-bio-score",
+     "https://www.omnicalculator.com/other/ap-lang-score",
+     "https://www.omnicalculator.com/statistics/normal-distribution",
+     "https://www.omnicalculator.com/conversion/scale-conversion"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://fiveable.me/ap-chem/ap-score-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://fiveable.me/ap-score-calculator/ap-chem": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.albert.io/blog/ap-chemistry-score-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.remnote.com/score-calculator/ap-chemistry": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.collegetransitions.com/?p=14710": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.collegetransitions.com/blog/ap-chem-score-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://test-ninjas.com/ap-chemistry-score-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://scholarly.so/tools/ap-chemistry-score-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.collegevine.com/faq/23228/need-help-with-ap-chemistry-exam-score-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://smartcgpa.com/ap-score-calculator/ap-chemistry": [
+   "unreachable (fetch failed)"
+  ],
+  "https://admissionsight.com/ap-chemistry-score-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://num8ers.com/score-calculator/ap-chemistry-score-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://testprepkart.com/self-study/ap/pages/ap-chemistry-score-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.collegevine.com/faq/25170/ap-chemistry-score-calculator-reliable-for-predictions": [
+   "unreachable (fetch failed)"
+  ],
+  "https://collegeprep.uworld.com/ap-chemistry/scores-and-score-calculator/": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

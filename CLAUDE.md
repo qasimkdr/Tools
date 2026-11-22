@@ -22,7 +22,7 @@ Rows with status `hold` are policy-sensitive: never build without the owner's OK
 ## Architecture (token-saving: reuse, don't rewrite)
 - `src/components/ToolLayout.tsx` = the page template for EVERY tool (hero, calculator card, article, FAQ, related, schema, ads).
 - A tool = `src/tools/<slug>/{meta.ts, Calculator.tsx, Content.tsx, faq.ts}` + `src/app/<slug>/page.tsx` (≈15 lines, copy `src/app/days-from-today/page.tsx`).
-- Register in `src/tools/registry.ts` → sitemap, hubs, home, related links update automatically.
+- Register in `src/tools/registry.ts` → sitemap, hubs, home, related links and the header search (`SiteSearch` + `src/lib/search.ts`, typo-tolerant, uses name/keywords/short) update automatically.
 - Shared math/date helpers in `src/lib/` (`date.ts`, add `money.ts`, `units.ts` … as needed). Pure functions only.
 - Server components by default; only the interactive calculator is `"use client"`.
 

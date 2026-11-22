@@ -1,11 +1,16 @@
 import Link from "next/link";
 import { SITE, CATEGORIES, type CategoryId } from "@/lib/site";
-import { toolsInCategory } from "@/tools/registry";
+import { TOOLS, toolsInCategory } from "@/tools/registry";
+import SiteSearch from "@/components/SiteSearch";
+import type { SearchDoc } from "@/lib/search";
 
 // Only link categories that have published tools (no 404s / empty hubs).
 const LIVE = (Object.keys(CATEGORIES) as CategoryId[]).filter((c) => toolsInCategory(c).length > 0);
 
 const NAV: CategoryId[] = ["time-date", "finance", "math", "health", "construction"];
+
+// Search index: only published tools (the registry), a few KB of JSON.
+const DOCS: SearchDoc[] = TOOLS.map((t) => ({ slug: t.slug, name: t.name, short: t.short, keywords: [t.primaryKw, ...t.keywords], category: CATEGORIES[t.category].name, icon: t.icon }));
 
 export default function Header() {
   return (
@@ -15,7 +20,7 @@ export default function Header() {
           <Logo />
           <span className="text-lg">Solve<span className="text-gradient">Pilot</span></span>
         </Link>
-        <nav aria-label="Primary" className="hidden items-center gap-1 md:flex">
+        <nav aria-label="Primary" className="hidden items-center gap-1 md:order-2 md:flex">
           {NAV.filter((c) => LIVE.includes(c)).map((c) => (
             <Link key={c} href={`/category/${c}/`} className="rounded-lg px-3 py-2 text-sm font-medium muted transition-colors hover:bg-[var(--surface-2)] hover:text-[var(--text)]">
               {CATEGORIES[c].name}
@@ -23,6 +28,8 @@ export default function Header() {
           ))}
           <Link href="/tools/" className="btn-primary ml-2 !py-2">All tools</Link>
         </nav>
+        <div className="ml-auto flex items-center gap-2 md:order-1">
+          <SiteSearch docs={DOCS} />
         {/* Mobile menu: zero-JS disclosure */}
         <details className="relative md:hidden">
           <summary className="btn-ghost list-none !px-3" aria-label="Open menu">☰</summary>
@@ -35,6 +42,7 @@ export default function Header() {
             <Link href="/tools/" className="mt-1 block rounded-lg px-3 py-2.5 text-sm font-semibold text-[var(--color-brand-600)]">All tools →</Link>
           </div>
         </details>
+        </div>
       </div>
     </header>
   );

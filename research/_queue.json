@@ -327,16 +327,18 @@
    "keyword": "women bmi calculator",
    "vol": 5400,
    "kd": 9,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "partial",
+   "pages": 1,
+   "updatedAt": "2026-11-22T10:18:17.642Z"
   },
   {
    "id": "ap-chemistry-score-calculator",
    "keyword": "ap chemistry score calculator",
    "vol": 4400,
    "kd": 3,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "partial",
+   "pages": 0,
+   "updatedAt": "2026-11-22T10:18:58.757Z"
   },
   {
    "id": "concrete-calculator",
@@ -345,15 +347,16 @@
    "kd": 40,
    "status": "done",
    "pages": 4,
-   "updatedAt": "2026-11-21T19:28:49.761Z"
+   "updatedAt": "2026-11-22T10:18:58.817Z"
   },
   {
    "id": "npv-calculator",
    "keyword": "npv calculator",
    "vol": 4400,
    "kd": 7,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "partial",
+   "pages": 0,
+   "updatedAt": "2026-11-22T10:19:37.648Z"
   },
   {
    "id": "weeks-calculator",
@@ -368,8 +371,9 @@
    "keyword": "half birthday calculator",
    "vol": 5400,
    "kd": 10,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "partial",
+   "pages": 1,
+   "updatedAt": "2026-11-22T10:20:33.291Z"
   },
   {
    "id": "dog-pregnancy-calculator",

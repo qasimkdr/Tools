@@ -1,0 +1,248 @@
+{
+ "keywords": {
+  "ap chemistry score calculator": {
+   "fetchedAt": "2026-11-22T10:17:40.718Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 4400,
+   "fileKd": 3,
+   "fileIntent": "C",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://fiveable.me/ap-chem/ap-score-calculator",
+     "domain": "fiveable.me",
+     "title": "AP Chem Score Calculator 2027 (AP Chemistry)",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://fiveable.me/ap-score-calculator/ap-chem",
+     "domain": "fiveable.me",
+     "title": "AP Chem Score Calculator 2027 (AP Chemistry)",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.omnicalculator.com/other/ap-chem-score",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.albert.io/blog/ap-chemistry-score-calculator/",
+     "domain": "www.albert.io",
+     "title": "AP Chemistry",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://tools.odoo.com/ap-chem-score-calculator",
+     "domain": "tools.odoo.com",
+     "title": "ap chem score calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.remnote.com/score-calculator/ap-chemistry",
+     "domain": "www.remnote.com",
+     "title": "All AP Score Calculators",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.collegetransitions.com/?p=14710",
+     "domain": "www.collegetransitions.com",
+     "title": "AP Chemistry (AP Chem) Score Calculator - 2025",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.collegetransitions.com/blog/ap-chem-score-calculator/",
+     "domain": "www.collegetransitions.com",
+     "title": "AP Chemistry (AP Chem) Score Calculator - 2026",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://albert.io/blog/tools-calculators/4",
+     "domain": "albert.io",
+     "title": "albert.io",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://test-ninjas.com/ap-chemistry-score-calculator",
+     "domain": "test-ninjas.com",
+     "title": "AP Chemistry notes & practice questions",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://scholarly.so/tools/ap-chemistry-score-calculator",
+     "domain": "scholarly.so",
+     "title": "AP Chem Score Calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.collegevine.com/faq/23228/need-help-with-ap-chemistry-exam-score-calculator",
+     "domain": "www.collegevine.com",
+     "title": "need help with ap chemistry exam score calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://smartcgpa.com/ap-score-calculator/ap-chemistry",
+     "domain": "smartcgpa.com",
+     "title": "AP Exam Score Calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://collegevine.com/faq/70575/how-does-the-ap-chem-exam-score-calculator-work",
+     "domain": "collegevine.com",
+     "title": "What are your chances of acceptance?",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://admissionsight.com/ap-chemistry-score-calculator/",
+     "domain": "admissionsight.com",
+     "title": "AP Chemistry Score Calculator 2026 | AdmissionSight",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://num8ers.com/score-calculator/ap-chemistry-score-calculator",
+     "domain": "num8ers.com",
+     "title": "AP Chemistry Score Calculator 2026",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://testprepkart.com/self-study/ap/pages/ap-chemistry-score-calculator",
+     "domain": "testprepkart.com",
+     "title": "AP Chemistry Score Calculator",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://www.collegevine.com/faq/25170/ap-chemistry-score-calculator-reliable-for-predictions",
+     "domain": "www.collegevine.com",
+     "title": "ap chemistry score calculator reliable for predictions",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://collegeprep.uworld.com/ap-chemistry/scores-and-score-calculator/",
+     "domain": "collegeprep.uworld.com",
+     "title": "NEW! SAT + ACT Course Combo",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "ap-chemistry-score-calculator",
+ "page": "ap-chemistry-score-calculator",
+ "category": "education",
+ "name": "AP Chemistry Score Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T10:17:40.718Z",
+ "topCompetitors": [
+  {
+   "domain": "collegevine.com",
+   "bestRank": 12,
+   "keywords": 3,
+   "urls": [
+    "https://www.collegevine.com/faq/23228/need-help-with-ap-chemistry-exam-score-calculator",
+    "https://collegevine.com/faq/70575/how-does-the-ap-chem-exam-score-calculator-work",
+    "https://www.collegevine.com/faq/25170/ap-chemistry-score-calculator-reliable-for-predictions"
+   ]
+  },
+  {
+   "domain": "fiveable.me",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://fiveable.me/ap-chem/ap-score-calculator",
+    "https://fiveable.me/ap-score-calculator/ap-chem"
+   ]
+  },
+  {
+   "domain": "albert.io",
+   "bestRank": 4,
+   "keywords": 2,
+   "urls": [
+    "https://www.albert.io/blog/ap-chemistry-score-calculator/",
+    "https://albert.io/blog/tools-calculators/4"
+   ]
+  },
+  {
+   "domain": "collegetransitions.com",
+   "bestRank": 7,
+   "keywords": 2,
+   "urls": [
+    "https://www.collegetransitions.com/?p=14710",
+    "https://www.collegetransitions.com/blog/ap-chem-score-calculator/"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/other/ap-chem-score"
+   ]
+  },
+  {
+   "domain": "odoo.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://tools.odoo.com/ap-chem-score-calculator"
+   ]
+  },
+  {
+   "domain": "remnote.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.remnote.com/score-calculator/ap-chemistry"
+   ]
+  },
+  {
+   "domain": "test-ninjas.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://test-ninjas.com/ap-chemistry-score-calculator"
+   ]
+  },
+  {
+   "domain": "scholarly.so",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://scholarly.so/tools/ap-chemistry-score-calculator"
+   ]
+  },
+  {
+   "domain": "smartcgpa.com",
+   "bestRank": 13,
+   "keywords": 1,
+   "urls": [
+    "https://smartcgpa.com/ap-score-calculator/ap-chemistry"
+   ]
+  }
+ ]
+}
