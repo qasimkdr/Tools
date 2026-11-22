@@ -1,0 +1,258 @@
+{
+ "keywords": {
+  "gpa calculator": {
+   "fetchedAt": "2026-11-22T08:41:15.255Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 673000,
+   "fileKd": 44,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 1,
+    "url": "www.calculator.net/gpa-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.pearson.com/channels/it/calculators/gpa-calculator",
+     "domain": "www.pearson.com",
+     "title": "gpa calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.pearson.com/channels/ko-kr/calculators/gpa-calculator",
+     "domain": "www.pearson.com",
+     "title": "gpa calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://umkc.edu/Registrar/student-records/grades-gpa/gpa-calculator.html",
+     "domain": "umkc.edu",
+     "title": "gpa calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.calculator.net/gpa",
+     "domain": "www.calculator.net",
+     "title": "GPA Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.smu.ca/academics/gpa-calculator.html",
+     "domain": "www.smu.ca",
+     "title": "GPA Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://und.edu/academics/registrar/gpa-calculator.html",
+     "domain": "und.edu",
+     "title": "gpa calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.calculator.net/gpa-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "GPA Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://warrington.ufl.edu/current-students/gpa-calculator/",
+     "domain": "warrington.ufl.edu",
+     "title": "gpa calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://ualberta.ca/augustana/student-life/academic/resources/gpa-calculator.html",
+     "domain": "ualberta.ca",
+     "title": "GPA Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.ualberta.ca/augustana/services/academic/resources/gpa-calculator",
+     "domain": "www.ualberta.ca",
+     "title": "GPA Calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://web.cs.dal.ca/~mcallist/gpa2.html",
+     "domain": "web.cs.dal.ca",
+     "title": "GPA Calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://myhighered.mn.gov/gpa-calculator",
+     "domain": "myhighered.mn.gov",
+     "title": "We've provided this GPA calculator to help you understand what your high school class grades mean",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://omnicalculator.com/other/gpa",
+     "domain": "omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://inchcalculator.com/gpa-calculator",
+     "domain": "inchcalculator.com",
+     "title": "GPA Calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://reslife.berkeley.edu/gpa-calculator",
+     "domain": "reslife.berkeley.edu",
+     "title": "gpa calculator",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://www.binghamton.edu/decker/advising/gpa-calculator.html",
+     "domain": "www.binghamton.edu",
+     "title": "GPA calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://onlinemasters.jou.ufl.edu/current-students/gpa-calculator/",
+     "domain": "onlinemasters.jou.ufl.edu",
+     "title": "GPA Calculator",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://www.omnicalculator.com/education/gpa",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://www.jmu.edu/advising/acadplan/semester-gpa.shtml",
+     "domain": "www.jmu.edu",
+     "title": "Tips for Using the GPA Calculator",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://www.calculator.io/gpa-calculator",
+     "domain": "www.calculator.io",
+     "title": "gpa calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "gpa-calculator",
+ "page": "gpa-calculator",
+ "category": "education",
+ "name": "GPA Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T08:41:15.256Z",
+ "topCompetitors": [
+  {
+   "domain": "pearson.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://www.pearson.com/channels/it/calculators/gpa-calculator",
+    "https://www.pearson.com/channels/ko-kr/calculators/gpa-calculator"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 4,
+   "keywords": 2,
+   "urls": [
+    "https://www.calculator.net/gpa",
+    "https://www.calculator.net/gpa-calculator.html"
+   ]
+  },
+  {
+   "domain": "ufl.edu",
+   "bestRank": 8,
+   "keywords": 2,
+   "urls": [
+    "https://warrington.ufl.edu/current-students/gpa-calculator/",
+    "https://onlinemasters.jou.ufl.edu/current-students/gpa-calculator/"
+   ]
+  },
+  {
+   "domain": "ualberta.ca",
+   "bestRank": 9,
+   "keywords": 2,
+   "urls": [
+    "https://ualberta.ca/augustana/student-life/academic/resources/gpa-calculator.html",
+    "https://www.ualberta.ca/augustana/services/academic/resources/gpa-calculator"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 13,
+   "keywords": 2,
+   "urls": [
+    "https://omnicalculator.com/other/gpa",
+    "https://www.omnicalculator.com/education/gpa"
+   ]
+  },
+  {
+   "domain": "umkc.edu",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://umkc.edu/Registrar/student-records/grades-gpa/gpa-calculator.html"
+   ]
+  },
+  {
+   "domain": "smu.ca",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.smu.ca/academics/gpa-calculator.html"
+   ]
+  },
+  {
+   "domain": "und.edu",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://und.edu/academics/registrar/gpa-calculator.html"
+   ]
+  },
+  {
+   "domain": "dal.ca",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://web.cs.dal.ca/~mcallist/gpa2.html"
+   ]
+  },
+  {
+   "domain": "mn.gov",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://myhighered.mn.gov/gpa-calculator"
+   ]
+  }
+ ]
+}

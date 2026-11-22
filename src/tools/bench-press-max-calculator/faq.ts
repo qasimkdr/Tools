@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How do I calculate my bench press max without maxing out?", a: "Lift a weight for as many clean reps as you can (ideally 2–10), then use a one-rep-max formula. The Epley formula is weight × (1 + reps ÷ 30): 225 lb for 5 reps estimates about 262 lb. The calculator shows three formulas and their average." },
+  { q: "Which 1RM formula is most accurate?", a: "No single formula is best for everyone. Most agree closely at low reps and drift apart as reps increase. Estimates are most reliable from sets of about 3–6 reps; beyond 10 reps they become much less accurate, so test with a heavier weight for fewer reps." },
+  { q: "How many reps of 225 do I need to bench 315?", a: "By the Epley formula, 315 = 225 × (1 + reps ÷ 30), which works out to 12 reps. By Brzycki it's about 11. Endurance and strength don't convert perfectly, so treat it as a rough guide." },
+  { q: "What percentage of my max should I train at?", a: "As a rough guide, about 85–95% of 1RM suits low-rep strength work (2–5 reps), 70–85% suits hypertrophy (6–12 reps), and 60–70% suits technique and endurance. The table below the result converts each percentage to a weight." },
+  { q: "How do I test my 1RM safely?", a: "Warm up thoroughly, work up in small jumps over several sets, always use a spotter or safety arms, and stop if your form breaks down. If you're new to lifting, estimate your max from a submaximal set instead of attempting a true max." },
+  { q: "How do I load plates for a given weight?", a: "Subtract the bar (usually 45 lb or 20 kg), divide by two for each side, then fill each side with the largest plates first. For 225 lb: (225 − 45) ÷ 2 = 90 lb per side, which is two 45 lb plates." },
+];

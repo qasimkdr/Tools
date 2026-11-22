@@ -1,0 +1,1024 @@
+{
+ "pages": {
+  "https://inchcalculator.com/bench-press-calculator": {
+   "url": "https://inchcalculator.com/bench-press-calculator",
+   "finalUrl": "https://www.inchcalculator.com/bench-press-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T08:43:33.634Z",
+   "title": "Bench Press Calculator - Inch Calculator",
+   "metaDescription": "Calculate your max bench press using our 1RM calculator. Plus, learn several formulas to calculate a one-rep max for the bench press.",
+   "canonical": "https://www.inchcalculator.com/bench-press-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Bench Press Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Bench Press Max",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate Your Max Bench Press",
+    "Tips For Improving Your Bench Press Max",
+    "Similar Fitness Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "One-Rep Max Formula",
+    "Alternate One-Rep Max Formulas"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Bench Press Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Bench Press Max"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Your Max Bench Press"
+    },
+    {
+     "level": 3,
+     "text": "One-Rep Max Formula"
+    },
+    {
+     "level": 3,
+     "text": "Alternate One-Rep Max Formulas"
+    },
+    {
+     "level": 4,
+     "text": "Epley Formula:"
+    },
+    {
+     "level": 4,
+     "text": "Lombardi Formula:"
+    },
+    {
+     "level": 4,
+     "text": "O’Conner Formula:"
+    },
+    {
+     "level": 2,
+     "text": "Tips For Improving Your Bench Press Max"
+    },
+    {
+     "level": 2,
+     "text": "Similar Fitness Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 1355,
+   "avgSentenceWords": 26,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "max",
+     "weight": 24
+    },
+    {
+     "term": "bench press",
+     "weight": 23
+    },
+    {
+     "term": "weight",
+     "weight": 18
+    },
+    {
+     "term": "rep max",
+     "weight": 17
+    },
+    {
+     "term": "press",
+     "weight": 16
+    },
+    {
+     "term": "bench",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "formula",
+     "weight": 14
+    },
+    {
+     "term": "rep",
+     "weight": 11
+    },
+    {
+     "term": "strength",
+     "weight": 11
+    },
+    {
+     "term": "reps",
+     "weight": 9
+    },
+    {
+     "term": "training",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "1rm",
+     "weight": 8
+    },
+    {
+     "term": "weight lifted",
+     "weight": 8
+    },
+    {
+     "term": "calculate",
+     "weight": 7
+    },
+    {
+     "term": "formulas",
+     "weight": 7
+    },
+    {
+     "term": "lift",
+     "weight": 7
+    },
+    {
+     "term": "sleep",
+     "weight": 7
+    },
+    {
+     "term": "press max",
+     "weight": 6
+    },
+    {
+     "term": "brzycki",
+     "weight": 6
+    },
+    {
+     "term": "brzycki formula",
+     "weight": 6
+    },
+    {
+     "term": "https",
+     "weight": 6
+    },
+    {
+     "term": "https www",
+     "weight": 6
+    },
+    {
+     "term": "body",
+     "weight": 6
+    },
+    {
+     "term": "estimate",
+     "weight": 6
+    },
+    {
+     "term": "1rm weight",
+     "weight": 6
+    },
+    {
+     "term": "sets",
+     "weight": 6
+    },
+    {
+     "term": "while",
+     "weight": 5
+    },
+    {
+     "term": "repetitions",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "The Brzycki formula is as follows: 1RM = weight lifted × 36 / 37 – reps This formula was developed by Matt Brzycki and is a popular method to estimate a lifter’s one-rep max.",
+    "Alternate One-Rep Max Formulas While the Brzycki formula is widely used, there are several other formulas that can also be used to estimate a 1RM.",
+    "It’s important to note that these formulas provide an estimate for the max weight lifted, but are usually accurate to within a few pounds when used with 3-5RM tests.",
+    "However, the estimates are much less accurate as the number of reps for the test increase.[4] You can also use these formulas to calculate your squat max and deadlift max.",
+    "Wong, D., Ngo, KL., Tse, M., Smith, A., Using bench press load to predict upper body exercise loads in physically active individuals, Journal of Sports Science Medicine, March 1, 2013, 12(1), 38-43.",
+    "et al., Validity of one-repetition maximum predictive equations in men with spinal cord injury, Spinal Cord, 2017, 55, 950–95."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 4,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "Weight",
+    "Weight Units",
+    "Reps"
+   ],
+   "selectOptionsSample": "lb kg 1 2 3 4 5 6 7 8 9 10 11 12",
+   "unitToggle": true,
+   "wordsBeforeTool": 15,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2023-09-25",
+    "modified": "2026-11-20T15:02:35+00:00",
+    "authoritativeSources": [
+     "https://pubmed.ncbi.nlm.nih.gov/24149723/",
+     "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9465738/"
+    ]
+   },
+   "ux": {
+    "htmlKB": 123,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 49,
+    "external": 18,
+    "contentInternal": 25,
+    "contentExternal": 12,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate Your Max Bench Press",
+     "One-Rep Max Formula",
+     "Alternate One-Rep Max Formulas",
+     "Tips For Improving Your Bench Press Max",
+     "References",
+     "Full bio",
+     "Bench Press Calculator",
+     "strength training",
+     "determine your one-rep max",
+     "squat max",
+     "deadlift max",
+     "push-ups",
+     "calories burned lifting calculator",
+     "protein intake",
+     "carbohydrates",
+     "quality sleep",
+     "target heart rate calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/bench-press-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/one-rep-max/",
+     "https://www.inchcalculator.com/bench-press-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/bench-press-calculator/#idx_how_to_calculate_your_max_bench_press",
+     "https://www.inchcalculator.com/bench-press-calculator/#idx_one-rep_max_formula",
+     "https://www.inchcalculator.com/bench-press-calculator/#idx_alternate_one-rep_max_formulas",
+     "https://www.inchcalculator.com/bench-press-calculator/#idx_tips_for_improving_your_bench_press_max",
+     "https://www.inchcalculator.com/bench-press-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/joseph-kelly/",
+     "https://www.inchcalculator.com/bench-press-calculator/",
+     "https://www.inchcalculator.com/lifting-strength-calculator/",
+     "https://www.inchcalculator.com/one-rep-max-calculator/",
+     "https://www.inchcalculator.com/squat-max-calculator/",
+     "https://www.inchcalculator.com/deadlift-max-calculator/",
+     "https://www.inchcalculator.com/push-ups-calorie-calculator/",
+     "https://www.inchcalculator.com/calories-burned-weight-lifting-calculator/",
+     "https://www.inchcalculator.com/protein-calculator/",
+     "https://www.inchcalculator.com/carbohydrate-calculator/",
+     "https://www.inchcalculator.com/sleep-calculator/",
+     "https://www.inchcalculator.com/target-heart-rate-calculator/",
+     "https://www.inchcalculator.com/pace-distance-calculator/",
+     "https://www.inchcalculator.com/zone-2-heart-rate-calculator/",
+     "https://www.inchcalculator.com/steps-to-calories-calculator/",
+     "https://www.inchcalculator.com/fitness-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fbench-press-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fbench-press-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fbench-press-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fbench-press-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fbench-press-calculator%2F&text=Bench+Press+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fbench-press-calculator%2F&text=Bench+Press+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://pubmed.ncbi.nlm.nih.gov/24149723/",
+     "https://www.nature.com/articles/sc201749",
+     "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9465738/",
+     "https://www.nsca.com/education/articles/ptq/httpswww.nsca.comeducationarticlesptqpost-workout_nutrition_nutrient_timing_and_the_anabolic_window_u2014nutrient_timing_and_the_anabolic_window_/",
+     "https://aasm.org/seven-or-more-hours-of-sleep-per-night-a-health-necessity-for-adults/"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/fitness/bench-press": {
+   "url": "https://www.omnicalculator.com/fitness/bench-press",
+   "finalUrl": "https://www.omnicalculator.com/sports/bench-press",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T08:43:42.579Z",
+   "title": "Bench Press Calculator / Max Bench Calculator (1 Rep Max)",
+   "metaDescription": "This bench press calculator helps you find your one-rep maximum for any lifting movement, such as your squat max, deadlift max, or shoulder press max.",
+   "canonical": "https://www.omnicalculator.com/sports/bench-press",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Bench Press Calculator - Find Your 1RM"
+   ],
+   "h2": [
+    "Why use a one rep max calculator?",
+    "How the 1RM calculator works",
+    "The max bench calculator formula",
+    "Bench press form",
+    "Incline bench press",
+    "Decline bench press",
+    "World record bench press",
+    "Other considerations",
+    "FAQs"
+   ],
+   "h3": [
+    "How much should I bench press for my weight?",
+    "What does PR mean in weight lifting?",
+    "How many reps of 225 lb to bench 315 lb?",
+    "Does bench press work biceps?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Bench Press Calculator - Find Your 1RM"
+    },
+    {
+     "level": 2,
+     "text": "Why use a one rep max calculator?"
+    },
+    {
+     "level": 2,
+     "text": "How the 1RM calculator works"
+    },
+    {
+     "level": 2,
+     "text": "The max bench calculator formula"
+    },
+    {
+     "level": 2,
+     "text": "Bench press form"
+    },
+    {
+     "level": 2,
+     "text": "Incline bench press"
+    },
+    {
+     "level": 2,
+     "text": "Decline bench press"
+    },
+    {
+     "level": 2,
+     "text": "World record bench press"
+    },
+    {
+     "level": 2,
+     "text": "Other considerations"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How much should I bench press for my weight?"
+    },
+    {
+     "level": 3,
+     "text": "What does PR mean in weight lifting?"
+    },
+    {
+     "level": 3,
+     "text": "How many reps of 225 lb to bench 315 lb?"
+    },
+    {
+     "level": 3,
+     "text": "Does bench press work biceps?"
+    }
+   ],
+   "wordCount": 2226,
+   "avgSentenceWords": 17,
+   "faqs": [
+    "How much should I bench press for my weight?",
+    "What does PR mean in weight lifting?",
+    "How many reps of 225 lb to bench 315 lb?",
+    "Does bench press work biceps?",
+    "Why use a one rep max calculator?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "bench",
+     "weight": 58
+    },
+    {
+     "term": "bench press",
+     "weight": 50
+    },
+    {
+     "term": "press",
+     "weight": 42
+    },
+    {
+     "term": "calculator",
+     "weight": 25
+    },
+    {
+     "term": "weight",
+     "weight": 25
+    },
+    {
+     "term": "rep max",
+     "weight": 23
+    },
+    {
+     "term": "max",
+     "weight": 20
+    },
+    {
+     "term": "bar",
+     "weight": 18
+    },
+    {
+     "term": "rep",
+     "weight": 17
+    },
+    {
+     "term": "1rm",
+     "weight": 15
+    },
+    {
+     "term": "chest",
+     "weight": 14
+    },
+    {
+     "term": "lift",
+     "weight": 12
+    },
+    {
+     "term": "incline",
+     "weight": 12
+    },
+    {
+     "term": "flat",
+     "weight": 11
+    },
+    {
+     "term": "press calculator",
+     "weight": 11
+    },
+    {
+     "term": "flat bench",
+     "weight": 11
+    },
+    {
+     "term": "record",
+     "weight": 9
+    },
+    {
+     "term": "number",
+     "weight": 9
+    },
+    {
+     "term": "incline bench",
+     "weight": 9
+    },
+    {
+     "term": "decline bench",
+     "weight": 9
+    },
+    {
+     "term": "pounds",
+     "weight": 9
+    },
+    {
+     "term": "find",
+     "weight": 8
+    },
+    {
+     "term": "reps",
+     "weight": 8
+    },
+    {
+     "term": "pressing",
+     "weight": 8
+    },
+    {
+     "term": "elbows",
+     "weight": 8
+    },
+    {
+     "term": "upper",
+     "weight": 8
+    },
+    {
+     "term": "world record",
+     "weight": 8
+    },
+    {
+     "term": "shoulder",
+     "weight": 7
+    },
+    {
+     "term": "decline",
+     "weight": 7
+    },
+    {
+     "term": "strength",
+     "weight": 7
+    }
+   ],
+   "claims": [
+    "Bench Press Calculator - Find Your 1RM Hello athlete!",
+    "🥇 Add your last bench press record 💪 Weight lifted Number of repetitions Below, you see your one-rep max, the maximum weight you could lift at 1 repetition 😎, your 100% effort.",
+    "Check out 4 similar weightlifting calculators 🏋️ One-rep max Wilks 531 lifting Build your calculator with Builder Add as preferred on Google With the bench press calculator, you can find your one-rep max.",
+    "Using a bench press calculator is necessary to determine this number because it's difficult to accurately guess the exact weight, taking into account the fatigue you may experience from trying multiple 1RM.",
+    "Then, knowing the 1 rep max, try the 90% value.",
+    "For example, if I lift 80 kg and manage to do 8 reps today, my 90% of one rep max is 91 kg, according to our bench press calculator.",
+    "The max bench calculator formula The formula for the max bench calculator uses the following variables: 1 R M 1RM – One-rep max; 𝑤 w – Weight; and 𝑟 r – Number of repetitions (reps).",
+    "It is a \"submaximal\" method of finding your one-rep max, as it may underestimate or overestimate your 1RM because it is only a prediction.",
+    "When the bench is set at an incline (15-30 degrees), it allows for more shoulder activation than the flat bench press itself.",
+    "Form and technique of proper incline bench pressing: Set a bench incline at 15-30 degrees."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 6,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Filip Derma",
+    "published": "2015-11-05T12:06:22.784Z",
+    "modified": "2026-08-20T20:07:40.697Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 580,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 21,
+    "external": 1,
+    "contentInternal": 5,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "5/3/1 calculator",
+     "Wilks calculator",
+     "one-rep max calculator",
+     "max heart rate calculator",
+     "lean body mass calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/sports/531-lifting",
+     "https://www.omnicalculator.com/sports/wilks",
+     "https://www.omnicalculator.com/sports/one-rep-max",
+     "https://www.omnicalculator.com/sports/max-heart-rate",
+     "https://www.omnicalculator.com/health/lean-body-mass"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/one-rep-max-calculator.html": {
+   "url": "https://www.calculator.net/one-rep-max-calculator.html",
+   "finalUrl": "https://www.calculator.net/one-rep-max-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T08:46:14.843Z",
+   "title": "One Rep Max Calculator",
+   "metaDescription": "This free calculator estimates a person's one rep max (1RM) based on the number of repetitions they can perform with a given weight.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "One Rep Max Calculator"
+   ],
+   "h2": [
+    "How to use this calculator to save (and improve) your 1RM",
+    "Why one rep max is important",
+    "How to measure one rep max",
+    "How to use one rep max",
+    "How to improve one rep max"
+   ],
+   "h3": [
+    "How to directly measure one rep max",
+    "How to estimate one rep max"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "One Rep Max Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to use this calculator to save (and improve) your 1RM"
+    },
+    {
+     "level": 2,
+     "text": "Why one rep max is important"
+    },
+    {
+     "level": 2,
+     "text": "How to measure one rep max"
+    },
+    {
+     "level": 3,
+     "text": "How to directly measure one rep max"
+    },
+    {
+     "level": 3,
+     "text": "How to estimate one rep max"
+    },
+    {
+     "level": 2,
+     "text": "How to use one rep max"
+    },
+    {
+     "level": 2,
+     "text": "How to improve one rep max"
+    }
+   ],
+   "wordCount": 2991,
+   "avgSentenceWords": 22,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "rep max",
+     "weight": 74
+    },
+    {
+     "term": "rep",
+     "weight": 49
+    },
+    {
+     "term": "max",
+     "weight": 49
+    },
+    {
+     "term": "weight",
+     "weight": 44
+    },
+    {
+     "term": "1rm",
+     "weight": 37
+    },
+    {
+     "term": "strength",
+     "weight": 24
+    },
+    {
+     "term": "reps",
+     "weight": 23
+    },
+    {
+     "term": "exercise",
+     "weight": 19
+    },
+    {
+     "term": "estimation methods",
+     "weight": 18
+    },
+    {
+     "term": "number",
+     "weight": 17
+    },
+    {
+     "term": "direct measurement",
+     "weight": 17
+    },
+    {
+     "term": "repetitions",
+     "weight": 15
+    },
+    {
+     "term": "formulas",
+     "weight": 15
+    },
+    {
+     "term": "form",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "methods",
+     "weight": 14
+    },
+    {
+     "term": "proper form",
+     "weight": 14
+    },
+    {
+     "term": "muscles",
+     "weight": 13
+    },
+    {
+     "term": "estimation",
+     "weight": 12
+    },
+    {
+     "term": "training",
+     "weight": 12
+    },
+    {
+     "term": "set",
+     "weight": 12
+    },
+    {
+     "term": "injury",
+     "weight": 12
+    },
+    {
+     "term": "sets",
+     "weight": 12
+    },
+    {
+     "term": "estimate",
+     "weight": 11
+    },
+    {
+     "term": "lift",
+     "weight": 11
+    },
+    {
+     "term": "accurate",
+     "weight": 11
+    },
+    {
+     "term": "proper",
+     "weight": 11
+    },
+    {
+     "term": "since",
+     "weight": 11
+    },
+    {
+     "term": "direct",
+     "weight": 11
+    },
+    {
+     "term": "measurement",
+     "weight": 11
+    }
+   ],
+   "claims": [
+    "Weight Lifted Repeated times (1-10) + Settings A \"one rep max\" (one-repetition maximum) is the maximum weight a person can lift for one complete repetition of a specific exercise while maintaining proper form.",
+    "Usually, the estimates are within 10% or so of a person's actual one rep max, though in some cases it can vary to a larger degree.",
+    "Like direct measurement of 1RM, there are advantages and disadvantages to using formulas to estimate one rep max.",
+    "50-60% of one rep max for 3-5 reps (4-6 sets)—Lifting a lower number of reps at a lighter weight can help with promoting explosive power.",
+    "~70% of one rep max for 10-15 reps (4-6 sets)—Lifting at around 70% of your 1RM for more repetitions helps promote muscle endurance.",
+    "70-80% of one rep max for 7-12 reps (3-5 sets)—Lifting in this range can help with muscle growth.",
+    "80-100% of one rep max for 1-3 reps (3-4 sets)—Lifting in this range promotes a combination of muscle growth, power, and overall strength.",
+    "Adjust weight and repetitions appropriately—When trying to improve one rep max, you should try to train at 85%-100% of your one rep max."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 3,
+   "lists": 11,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "clift",
+    "cliftunit",
+    "crepeat",
+    "Kilogram",
+    "Pound",
+    "Epley",
+    "Brzycki",
+    "Lombardi"
+   ],
+   "selectOptionsSample": "kilograms pounds",
+   "unitToggle": false,
+   "wordsBeforeTool": 88,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 26,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 24,
+    "external": 0,
+    "contentInternal": 24,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "fitness & health",
+     "one rep max calculator",
+     "Estimation methods",
+     "+ Settings",
+     "Fitness and Health Calculators",
+     "BMI",
+     "Calorie",
+     "Body Fat",
+     "BMR",
+     "Macro",
+     "Ideal Weight",
+     "Pregnancy",
+     "Pregnancy Weight Gain",
+     "Pregnancy Conception",
+     "Due Date",
+     "Pace",
+     "More Fitness and Health Calculators",
+     "Financial"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/one-rep-max-calculator.html",
+     "https://www.calculator.net/one-rep-max-calculator.html#emethods",
+     "https://www.calculator.net/one-rep-max-calculator.html#",
+     "https://www.calculator.net/bmi-calculator.html",
+     "https://www.calculator.net/calorie-calculator.html",
+     "https://www.calculator.net/body-fat-calculator.html",
+     "https://www.calculator.net/bmr-calculator.html",
+     "https://www.calculator.net/macro-calculator.html",
+     "https://www.calculator.net/ideal-weight-calculator.html",
+     "https://www.calculator.net/pregnancy-calculator.html",
+     "https://www.calculator.net/pregnancy-weight-gain-calculator.html",
+     "https://www.calculator.net/pregnancy-conception-calculator.html",
+     "https://www.calculator.net/due-date-calculator.html",
+     "https://www.calculator.net/pace-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.topendsports.com/testing/tests/1rm-bench-press.htm": [
+   "unreachable (fetch failed)"
+  ],
+  "https://strengthlevel.com/bench-press-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.muscleandstrength.com/tools/bench-press-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.muscleandstrength.com/tools/bench-press-calculator?page=2": [
+   "unreachable (fetch failed)"
+  ],
+  "https://new.topendsports.com/testing/tests/1rm-bench-press.htm": [
+   "unreachable (fetch failed)"
+  ],
+  "https://fitnessvolt.com/bench-press-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://legionathletics.com/tools/bench-press-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://fitnessvolt.com/rpe-training/bench-press-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://fallback.topendsports.com/testing/tests/max-bench-press.htm": [
+   "unreachable (fetch failed)"
+  ],
+  "https://gymgeek.com/calculators/max-bench-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.miniwebtool.com/bench-press-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://goodcalculators.com/bench-press-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.stylecraze.com/tools/bench-press-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://legionathletics.com/bench-press-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.goodcalculators.com/bench-press-calculator/": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

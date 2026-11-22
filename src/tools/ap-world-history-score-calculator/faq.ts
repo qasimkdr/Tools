@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How is the AP World History exam scored?", a: "The exam has four parts with fixed weights: 55 multiple-choice questions (40%), 3 short-answer questions (20%), the document-based question or DBQ (25%) and the long essay question or LEQ (15%). The weighted points form a composite score, which the College Board converts to a 1–5 AP score." },
+  { q: "How many points is each written question worth?", a: "Each short-answer question is scored out of 3 points (9 in total), the DBQ out of 7 points and the LEQ out of 6 points, using the College Board's rubrics. Multiple choice is one point per correct answer, with no penalty for wrong answers." },
+  { q: "What score do I need to get a 5?", a: "The College Board doesn't publish fixed cutoffs; they're set after each exam to keep scores comparable across years. Score calculators commonly estimate that roughly three-quarters of the weighted points earns a 5. Treat any prediction, including this one, as an estimate." },
+  { q: "Is there a penalty for guessing on AP multiple choice?", a: "No. Your multiple-choice score is the number of questions you answer correctly, so never leave a question blank." },
+  { q: "Is a 3 a passing score on AP World History?", a: "The College Board describes a 3 as 'qualified'. Many colleges award credit or placement for a 3 or higher, but some require a 4 or 5. Check each college's AP credit policy." },
+  { q: "Why might my real score differ from the estimate?", a: "Cutoffs move from year to year with exam difficulty, and it's hard to self-score essays exactly. Use the range shown, especially if you're near a boundary, and practice with released free-response questions and scoring guidelines." },
+];

@@ -1,0 +1,345 @@
+{
+ "keywords": {
+  "bench press max calculator": {
+   "fetchedAt": "2026-11-22T08:41:15.623Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 4400,
+   "fileKd": 0,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://inchcalculator.com/bench-press-calculator",
+     "domain": "inchcalculator.com",
+     "title": "Bench Press Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://learn.athleanx.com/?p=95298",
+     "domain": "learn.athleanx.com",
+     "title": "Bench Press Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://learn.athleanx.com/calculators/bench-press-calculator",
+     "domain": "learn.athleanx.com",
+     "title": "Bench Press Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.topendsports.com/testing/tests/1rm-bench-press.htm",
+     "domain": "www.topendsports.com",
+     "title": "1-RM Bench Press Test Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://strengthlevel.com/bench-press-calculator",
+     "domain": "strengthlevel.com",
+     "title": "Bench Press Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.omnicalculator.com/fitness/bench-press",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.muscleandstrength.com/tools/bench-press-calculator",
+     "domain": "www.muscleandstrength.com",
+     "title": "bench press calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://omnicalculator.com/sports/bench-press",
+     "domain": "omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.muscleandstrength.com/tools/bench-press-calculator?page=2",
+     "domain": "www.muscleandstrength.com",
+     "title": "bench press calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://new.topendsports.com/testing/tests/1rm-bench-press.htm",
+     "domain": "new.topendsports.com",
+     "title": "1-RM Bench Press Test Calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://apps.microsoft.com/detail/9wzdncrcwkrq",
+     "domain": "apps.microsoft.com",
+     "title": "apps.microsoft.com",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://fitnessvolt.com/bench-press-calculator/",
+     "domain": "fitnessvolt.com",
+     "title": "bench press calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://legionathletics.com/tools/bench-press-calculator/",
+     "domain": "legionathletics.com",
+     "title": "bench press calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://fitnessvolt.com/rpe-training/bench-press-calculator/",
+     "domain": "fitnessvolt.com",
+     "title": "Bench Press One Rep Max Calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://fallback.topendsports.com/testing/tests/max-bench-press.htm",
+     "domain": "fallback.topendsports.com",
+     "title": "Maximum Bench Press Test Calculator",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://gymgeek.com/calculators/max-bench-calculator/",
+     "domain": "gymgeek.com",
+     "title": "max bench calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://www.miniwebtool.com/bench-press-calculator/",
+     "domain": "www.miniwebtool.com",
+     "title": "bench press calculator",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://goodcalculators.com/bench-press-calculator/",
+     "domain": "goodcalculators.com",
+     "title": "Bench Press Calculator",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://www.stylecraze.com/tools/bench-press-calculator/",
+     "domain": "www.stylecraze.com",
+     "title": "Bench Press Calculator",
+     "description": null
+    }
+   ]
+  },
+  "bench press max calculator [restricted to accessible domains]": {
+   "fetchedAt": "2026-11-22T08:44:39.714Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch-restricted",
+   "rankNote": "order within a search limited to accessible domains — not a Google rank, not the open result list",
+   "fileVolume": 4400,
+   "fileKd": 0,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.omnicalculator.com/sports/bench-press",
+     "domain": "www.omnicalculator.com",
+     "title": "Bench Press Calculator / Max Bench Calculator (1 Rep Max)",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://legionathletics.com/bench-press-calculator/",
+     "domain": "legionathletics.com",
+     "title": "Bench Press Max Calculator: Calculate Your 1RM Bench Press",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://goodcalculators.com/bench-press-calculator/",
+     "domain": "goodcalculators.com",
+     "title": "Bench Press Calculator: Calculate Your One Rep Max",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.inchcalculator.com/bench-press-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Bench Press Calculator - Inch Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.inchcalculator.com/one-rep-max-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "One-Rep Max Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://legionathletics.com/one-rep-max/",
+     "domain": "legionathletics.com",
+     "title": "What Is a One-Rep Max and How Do You Find Yours?",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://legionathletics.com/strength-standards/",
+     "domain": "legionathletics.com",
+     "title": "Strength Standards: Lifting Standards by Age & Weight",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://legionathletics.com/rpe-scale/",
+     "domain": "legionathletics.com",
+     "title": "This Is the Best Guide to the RPE Scale on the Internet",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.omnicalculator.com/sports",
+     "domain": "www.omnicalculator.com",
+     "title": "Sports Calculators",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://legionathletics.com/tools/",
+     "domain": "legionathletics.com",
+     "title": "17+ Free Legion Fitness Tools",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "bench-press-max-calculator",
+ "page": "bench-press-max-calculator",
+ "category": "health",
+ "name": "Bench Press Max Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T08:44:39.714Z",
+ "topCompetitors": [
+  {
+   "domain": "legionathletics.com",
+   "bestRank": 2,
+   "keywords": 6,
+   "urls": [
+    "https://legionathletics.com/tools/bench-press-calculator/",
+    "https://legionathletics.com/bench-press-calculator/",
+    "https://legionathletics.com/one-rep-max/",
+    "https://legionathletics.com/strength-standards/",
+    "https://legionathletics.com/rpe-scale/",
+    "https://legionathletics.com/tools/"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 4,
+   "urls": [
+    "https://www.omnicalculator.com/fitness/bench-press",
+    "https://omnicalculator.com/sports/bench-press",
+    "https://www.omnicalculator.com/sports/bench-press",
+    "https://www.omnicalculator.com/sports"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 1,
+   "keywords": 3,
+   "urls": [
+    "https://inchcalculator.com/bench-press-calculator",
+    "https://www.inchcalculator.com/bench-press-calculator/",
+    "https://www.inchcalculator.com/one-rep-max-calculator/"
+   ]
+  },
+  {
+   "domain": "topendsports.com",
+   "bestRank": 4,
+   "keywords": 3,
+   "urls": [
+    "https://www.topendsports.com/testing/tests/1rm-bench-press.htm",
+    "https://new.topendsports.com/testing/tests/1rm-bench-press.htm",
+    "https://fallback.topendsports.com/testing/tests/max-bench-press.htm"
+   ]
+  },
+  {
+   "domain": "goodcalculators.com",
+   "bestRank": 3,
+   "keywords": 2,
+   "urls": [
+    "https://goodcalculators.com/bench-press-calculator/"
+   ]
+  },
+  {
+   "domain": "muscleandstrength.com",
+   "bestRank": 7,
+   "keywords": 2,
+   "urls": [
+    "https://www.muscleandstrength.com/tools/bench-press-calculator",
+    "https://www.muscleandstrength.com/tools/bench-press-calculator?page=2"
+   ]
+  },
+  {
+   "domain": "fitnessvolt.com",
+   "bestRank": 12,
+   "keywords": 2,
+   "urls": [
+    "https://fitnessvolt.com/bench-press-calculator/",
+    "https://fitnessvolt.com/rpe-training/bench-press-calculator/"
+   ]
+  },
+  {
+   "domain": "strengthlevel.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://strengthlevel.com/bench-press-calculator"
+   ]
+  },
+  {
+   "domain": "microsoft.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://apps.microsoft.com/detail/9wzdncrcwkrq"
+   ]
+  },
+  {
+   "domain": "gymgeek.com",
+   "bestRank": 16,
+   "keywords": 1,
+   "urls": [
+    "https://gymgeek.com/calculators/max-bench-calculator/"
+   ]
+  }
+ ]
+}

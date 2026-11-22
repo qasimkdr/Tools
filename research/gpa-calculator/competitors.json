@@ -1,0 +1,1328 @@
+{
+ "pages": {
+  "https://www.calculator.net/gpa": {
+   "url": "https://www.calculator.net/gpa",
+   "finalUrl": "https://www.calculator.net/gpa-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T08:41:25.723Z",
+   "title": "GPA Calculator",
+   "metaDescription": "This GPA calculator computes GPA and generates a report based on course credits and the achieved grade. It accepts both numerical and letter grades.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "GPA Calculator"
+   ],
+   "h2": [
+    "GPA Planning Calculator",
+    "Guidelines for raising GPA"
+   ],
+   "h3": [
+    "Letter grade and the numerical equivalents used for this calculator",
+    "Actively attending classes:",
+    "Planning:"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "GPA Calculator"
+    },
+    {
+     "level": 2,
+     "text": "GPA Planning Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Letter grade and the numerical equivalents used for this calculator"
+    },
+    {
+     "level": 2,
+     "text": "Guidelines for raising GPA"
+    },
+    {
+     "level": 3,
+     "text": "Actively attending classes:"
+    },
+    {
+     "level": 3,
+     "text": "Planning:"
+    }
+   ],
+   "wordCount": 1254,
+   "avgSentenceWords": 28,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "gpa",
+     "weight": 25
+    },
+    {
+     "term": "grade",
+     "weight": 23
+    },
+    {
+     "term": "grade points",
+     "weight": 21
+    },
+    {
+     "term": "points",
+     "weight": 15
+    },
+    {
+     "term": "course",
+     "weight": 12
+    },
+    {
+     "term": "calculator",
+     "weight": 10
+    },
+    {
+     "term": "learning",
+     "weight": 10
+    },
+    {
+     "term": "information",
+     "weight": 10
+    },
+    {
+     "term": "work",
+     "weight": 9
+    },
+    {
+     "term": "class",
+     "weight": 8
+    },
+    {
+     "term": "courses",
+     "weight": 7
+    },
+    {
+     "term": "student",
+     "weight": 7
+    },
+    {
+     "term": "grades",
+     "weight": 6
+    },
+    {
+     "term": "well",
+     "weight": 6
+    },
+    {
+     "term": "person",
+     "weight": 6
+    },
+    {
+     "term": "attending",
+     "weight": 6
+    },
+    {
+     "term": "notes",
+     "weight": 6
+    },
+    {
+     "term": "have",
+     "weight": 5
+    },
+    {
+     "term": "classes",
+     "weight": 5
+    },
+    {
+     "term": "used",
+     "weight": 5
+    },
+    {
+     "term": "there",
+     "weight": 5
+    },
+    {
+     "term": "while",
+     "weight": 5
+    },
+    {
+     "term": "important",
+     "weight": 5
+    },
+    {
+     "term": "grade point",
+     "weight": 5
+    },
+    {
+     "term": "average gpa",
+     "weight": 5
+    },
+    {
+     "term": "course credit",
+     "weight": 5
+    },
+    {
+     "term": "attending class",
+     "weight": 5
+    },
+    {
+     "term": "average",
+     "weight": 4
+    },
+    {
+     "term": "credits",
+     "weight": 4
+    },
+    {
+     "term": "planning",
+     "weight": 4
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 13,
+   "lists": 1,
+   "images": 5,
+   "videos": 0,
+   "calculatorInputs": [
+    "da1",
+    "ca1",
+    "la1",
+    "sa1",
+    "da2",
+    "ca2",
+    "la2",
+    "sa2",
+    "da3",
+    "ca3",
+    "la3",
+    "sa3",
+    "da4",
+    "ca4",
+    "la4",
+    "sa4",
+    "da5",
+    "ca5",
+    "la5",
+    "sa5",
+    "pgpa",
+    "pcredit",
+    "Letter",
+    "Percentage",
+    "Point Value",
+    "Add GPA of prior semesters",
+    "Group courses into semesters",
+    "grcCurrentGPA",
+    "grcTargetGPA",
+    "grcCurrentCredit",
+    "grcAdditionalCredit"
+   ],
+   "selectOptionsSample": "- a+ a a- b+ b b- c+ c c- d+ d d- f p np - a+ a a- b+ b b- c+ c c- d+ d d- f p np - a+ a a- b+ b b- c+ c c- d+ d d- f p np - a+ a a- b+ b b- c+ c c- d+ d d- f p np - a+ a a- b+ b b- c+ c c- d+ d d- f p np",
+   "unitToggle": false,
+   "wordsBeforeTool": 70,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 26,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 24,
+    "external": 0,
+    "contentInternal": 24,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "other",
+     "gpa calculator",
+     "+ add more courses",
+     "+ add a semester",
+     "Settings",
+     "Grade Calculator",
+     "Other Calculators",
+     "Age",
+     "Date",
+     "Time",
+     "Hours",
+     "GPA",
+     "Grade",
+     "Height",
+     "Concrete",
+     "IP Subnet",
+     "Bra Size",
+     "Password Generator"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/gpa-calculator.html",
+     "https://www.calculator.net/gpa-calculator.html#",
+     "https://www.calculator.net/grade-calculator.html",
+     "https://www.calculator.net/age-calculator.html",
+     "https://www.calculator.net/date-calculator.html",
+     "https://www.calculator.net/time-calculator.html",
+     "https://www.calculator.net/hours-calculator.html",
+     "https://www.calculator.net/height-calculator.html",
+     "https://www.calculator.net/concrete-calculator.html",
+     "https://www.calculator.net/ip-subnet-calculator.html",
+     "https://www.calculator.net/bra-size-calculator.html",
+     "https://www.calculator.net/password-generator.html",
+     "https://www.calculator.net/dice-roller.html",
+     "https://www.calculator.net/conversion-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://inchcalculator.com/gpa-calculator": {
+   "url": "https://inchcalculator.com/gpa-calculator",
+   "finalUrl": "https://www.inchcalculator.com/gpa-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T08:41:50.805Z",
+   "title": "GPA Calculator - Inch Calculator",
+   "metaDescription": "Use our GPA calculator to find your grade point average. Plus, learn the formula to calculate a GPA and the steps to use it.",
+   "canonical": "https://www.inchcalculator.com/gpa-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "GPA Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: GPA",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate Your GPA",
+    "Weighted GPAs",
+    "Difference between High School and University GPAs",
+    "Popular Grade Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Total Credits",
+    "Step One: Assign A GPA to Each Grade",
+    "Step Two: Find the Weighted Grade",
+    "Step Three: Calculate the GPA"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "GPA Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: GPA"
+    },
+    {
+     "level": 3,
+     "text": "Total Credits"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Your GPA"
+    },
+    {
+     "level": 3,
+     "text": "Step One: Assign A GPA to Each Grade"
+    },
+    {
+     "level": 3,
+     "text": "Step Two: Find the Weighted Grade"
+    },
+    {
+     "level": 3,
+     "text": "Step Three: Calculate the GPA"
+    },
+    {
+     "level": 2,
+     "text": "Weighted GPAs"
+    },
+    {
+     "level": 2,
+     "text": "Difference between High School and University GPAs"
+    },
+    {
+     "level": 2,
+     "text": "Popular Grade Calculators"
+    }
+   ],
+   "wordCount": 1098,
+   "avgSentenceWords": 33,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "credits course",
+     "weight": 74
+    },
+    {
+     "term": "course",
+     "weight": 63
+    },
+    {
+     "term": "credits",
+     "weight": 56
+    },
+    {
+     "term": "gpa",
+     "weight": 40
+    },
+    {
+     "term": "grade",
+     "weight": 27
+    },
+    {
+     "term": "credit hours",
+     "weight": 17
+    },
+    {
+     "term": "weighted",
+     "weight": 14
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "hours",
+     "weight": 12
+    },
+    {
+     "term": "step",
+     "weight": 11
+    },
+    {
+     "term": "credit",
+     "weight": 11
+    },
+    {
+     "term": "gpa calculator",
+     "weight": 11
+    },
+    {
+     "term": "letter grade",
+     "weight": 11
+    },
+    {
+     "term": "calculate",
+     "weight": 10
+    },
+    {
+     "term": "weighted grade",
+     "weight": 9
+    },
+    {
+     "term": "courses",
+     "weight": 9
+    },
+    {
+     "term": "point",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "high",
+     "weight": 7
+    },
+    {
+     "term": "letter",
+     "weight": 7
+    },
+    {
+     "term": "points",
+     "weight": 7
+    },
+    {
+     "term": "high school",
+     "weight": 6
+    },
+    {
+     "term": "add",
+     "weight": 5
+    },
+    {
+     "term": "has",
+     "weight": 5
+    },
+    {
+     "term": "number",
+     "weight": 5
+    },
+    {
+     "term": "grade point",
+     "weight": 5
+    },
+    {
+     "term": "point average",
+     "weight": 5
+    },
+    {
+     "term": "point value",
+     "weight": 5
+    },
+    {
+     "term": "grade points",
+     "weight": 5
+    },
+    {
+     "term": "total number",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Letter Grade GPA A+ 4.33 A 4.0 A- 3.67 B+ 3.33 B 3.0 B- 2.67 C+ 2.33 C 2.0 C- 1.67 D+ 1.33 D 1.0 D- 0.67 F 0.0 You can also use our letter grade to GPA converter to find the point value for each course.",
+    "Generally, you can add 0.5 points to the GPA for honors courses and 1 point for AP or IB courses."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 3,
+   "lists": 6,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "Weighted",
+    "Course 1:",
+    "Credits",
+    "uc_ct1",
+    "Course 2:",
+    "Credits",
+    "uc_ct2",
+    "Course 3:",
+    "Credits",
+    "uc_ct3",
+    "Course 4:",
+    "Credits",
+    "uc_ct4",
+    "Course 5:",
+    "Credits",
+    "uc_ct5",
+    "Course 6:",
+    "Credits",
+    "uc_ct6",
+    "Course 7:",
+    "Credits",
+    "uc_ct7",
+    "Course 8:",
+    "Credits",
+    "uc_ct8",
+    "Course 9:",
+    "Credits",
+    "uc_ct9",
+    "Course 10:",
+    "Credits",
+    "uc_ct10",
+    "Course 11:",
+    "Credits",
+    "uc_ct11",
+    "Course 12:",
+    "Credits",
+    "uc_ct12",
+    "Course 13:",
+    "Credits",
+    "uc_ct13"
+   ],
+   "selectOptionsSample": "- a+ a a- b+ b b- c+ c c- d+ d d- f regular honors ap ib college - a+ a a- b+ b b- c+ c c- d+ d d- f regular honors ap ib college - a+ a a- b+ b b- c+ c c- d+ d d- f regular honors ap ib college - a+ a a- b+ b b- c+ c c- d+ d d- f regular honors ap ib college - a+ a a- b+ b b- c+ c c- d+ d d- f regu",
+   "unitToggle": false,
+   "wordsBeforeTool": 19,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2023-09-15",
+    "modified": "2023-09-15T15:50:02+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 223,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 44,
+    "external": 13,
+    "contentInternal": 20,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate Your GPA",
+     "Step One: Assign A GPA to Each Grade",
+     "Step Two: Find the Weighted Grade",
+     "Step Three: Calculate the GPA",
+     "Weighted GPAs",
+     "Difference between High School and University GPAs",
+     "Full bio",
+     "GPA Calculator",
+     "grade",
+     "letter grade to GPA converter",
+     "weighted grade formula",
+     "high school GPA",
+     "college GPA",
+     "College GPA Calculator",
+     "High School GPA Calculator",
+     "GPA to Letter Grade Calculator",
+     "Letter Grade to GPA Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/gpa-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/gpa-calculator/",
+     "https://www.inchcalculator.com/gpa-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/gpa-calculator/#idx_how_to_calculate_your_gpa",
+     "https://www.inchcalculator.com/gpa-calculator/#idx_step_one_assign_a_gpa_to_each_grade",
+     "https://www.inchcalculator.com/gpa-calculator/#idx_step_two_find_the_weighted_grade",
+     "https://www.inchcalculator.com/gpa-calculator/#idx_step_three_calculate_the_gpa",
+     "https://www.inchcalculator.com/gpa-calculator/#idx_weighted_gpas",
+     "https://www.inchcalculator.com/gpa-calculator/#idx_difference_between_high_school_and_university_gpas",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/pateakia-heath/",
+     "https://www.inchcalculator.com/gpa-calculator/",
+     "https://www.inchcalculator.com/grade-calculator/",
+     "https://www.inchcalculator.com/letter-grade-to-gpa-calculator/",
+     "https://www.inchcalculator.com/weighted-grade-calculator/",
+     "https://www.inchcalculator.com/high-school-gpa-calculator/",
+     "https://www.inchcalculator.com/college-gpa-calculator/",
+     "https://www.inchcalculator.com/gpa-to-letter-grade-calculator/",
+     "https://www.inchcalculator.com/final-grade-calculator/",
+     "https://www.inchcalculator.com/grade-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fgpa-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fgpa-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fgpa-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fgpa-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fgpa-calculator%2F&text=GPA+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fgpa-calculator%2F&text=GPA+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/education/gpa": {
+   "url": "https://www.omnicalculator.com/education/gpa",
+   "finalUrl": "https://www.omnicalculator.com/other/gpa",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T08:42:02.486Z",
+   "title": "GPA Calculator",
+   "metaDescription": "Calculate your GPA easily with Omni Calculator's free and accurate GPA calculator. Supports multiple grading scales and course weights.",
+   "canonical": "https://www.omnicalculator.com/other/gpa",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "GPA Calculator"
+   ],
+   "h2": [
+    "What is GPA? GPA meaning",
+    "GPA scale — GPA converter chart",
+    "How to calculate my GPA",
+    "Cumulative GPA",
+    "Grade Point Average calculator — how to use",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I calculate GPA?",
+    "What is a good GPA?",
+    "What does GPA stand for?",
+    "How do I calculate cumulative GPA?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "GPA Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is GPA? GPA meaning"
+    },
+    {
+     "level": 2,
+     "text": "GPA scale — GPA converter chart"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate my GPA"
+    },
+    {
+     "level": 2,
+     "text": "Cumulative GPA"
+    },
+    {
+     "level": 2,
+     "text": "Grade Point Average calculator — how to use"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate GPA?"
+    },
+    {
+     "level": 3,
+     "text": "What is a good GPA?"
+    },
+    {
+     "level": 3,
+     "text": "What does GPA stand for?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate cumulative GPA?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 2233,
+   "avgSentenceWords": 25,
+   "faqs": [
+    "How do I calculate GPA?",
+    "What is a good GPA?",
+    "What does GPA stand for?",
+    "How do I calculate cumulative GPA?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "gpa",
+     "weight": 102
+    },
+    {
+     "term": "grade",
+     "weight": 43
+    },
+    {
+     "term": "courses",
+     "weight": 41
+    },
+    {
+     "term": "cumulative gpa",
+     "weight": 35
+    },
+    {
+     "term": "credits",
+     "weight": 30
+    },
+    {
+     "term": "grade point",
+     "weight": 27
+    },
+    {
+     "term": "cumulative",
+     "weight": 25
+    },
+    {
+     "term": "course",
+     "weight": 23
+    },
+    {
+     "term": "total",
+     "weight": 22
+    },
+    {
+     "term": "high school",
+     "weight": 21
+    },
+    {
+     "term": "point",
+     "weight": 21
+    },
+    {
+     "term": "school",
+     "weight": 19
+    },
+    {
+     "term": "course grade",
+     "weight": 17
+    },
+    {
+     "term": "calculator",
+     "weight": 16
+    },
+    {
+     "term": "have",
+     "weight": 16
+    },
+    {
+     "term": "calculate",
+     "weight": 15
+    },
+    {
+     "term": "high",
+     "weight": 14
+    },
+    {
+     "term": "weighted",
+     "weight": 13
+    },
+    {
+     "term": "need",
+     "weight": 11
+    },
+    {
+     "term": "average",
+     "weight": 11
+    },
+    {
+     "term": "gpa calculator",
+     "weight": 11
+    },
+    {
+     "term": "point equivalent",
+     "weight": 11
+    },
+    {
+     "term": "college",
+     "weight": 10
+    },
+    {
+     "term": "gpe",
+     "weight": 10
+    },
+    {
+     "term": "fall",
+     "weight": 10
+    },
+    {
+     "term": "spring",
+     "weight": 10
+    },
+    {
+     "term": "point average",
+     "weight": 9
+    },
+    {
+     "term": "points",
+     "weight": 9
+    },
+    {
+     "term": "gpa cumulative",
+     "weight": 9
+    },
+    {
+     "term": "you're",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "Notice that GPA is usually rounded to 2 digits.",
+    "GPAno creditscollege​​​=∑courses∑GPE​=44.0+2.3+3+3.7​=413​=3.25.​ If you want to learn more about estimating your college GPA and how to interpret your results, make sure to check our college GPA calculator.",
+    "≈ 3.75 GPAcumulative​​=333.65×15​+333.83×18​=3354.75+68.94​=3.748181...≈3.75​ Your cumulative GPA is 3.75.",
+    "And there you go — in the blink of an eye, our GPA calculator displays your results: You've entered 4 courses.",
+    "(Of course, you'd get the same result if you calculated the result manually.) Your cumulative GPA is 3.56.",
+    "Generally, a GPA of 3.0 or above is considered good, with 3.5 to 4.0 being excellent.",
+    "A GPA closer to 4.0 is often seen as ideal for highly competitive programs or schools.",
+    "Your GPA is calculated by taking the average of these points, giving you a number that typically ranges from 0 to 4.0, showing how well you've performed academically."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 7,
+   "lists": 14,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "✔️ #1 Course Grade",
+    "✔️ #2 Course Grade"
+   ],
+   "selectOptionsSample": "select a+ a a- b+ b b- c+ c c- d+ d d- e/f select a+ a a- b+ b b- c+ c c- d+ d d- e/f",
+   "unitToggle": false,
+   "wordsBeforeTool": 37,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Hanna Pamuła",
+    "published": "2020-01-08T13:01:32.989Z",
+    "modified": "2026-09-26T04:59:10.815Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 1156,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 25,
+    "external": 1,
+    "contentInternal": 9,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Final grade calculator",
+     "Test grade calculator",
+     "weighted average",
+     "GPA calculator for Pakistan",
+     "high school GPA calculator",
+     "college GPA calculator",
+     "grade calculator",
+     "Poker Odds Calculator",
+     "RAID Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/other/final-grade",
+     "https://www.omnicalculator.com/other/test-grade",
+     "https://www.omnicalculator.com/math/weighted-average",
+     "https://www.omnicalculator.com/other/gpa-pakistan",
+     "https://www.omnicalculator.com/other/high-school-gpa",
+     "https://www.omnicalculator.com/other/college-gpa",
+     "https://www.omnicalculator.com/other/grade",
+     "https://www.omnicalculator.com/other/poker-odds",
+     "https://www.omnicalculator.com/other/raid"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.io/gpa-calculator": {
+   "url": "https://www.calculator.io/gpa-calculator",
+   "finalUrl": "https://www.calculator.io/gpa-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.calculator.io",
+   "fetchedAt": "2026-11-22T08:42:08.807Z",
+   "title": "GPA Calculator",
+   "metaDescription": "Calculate your high school or college GPA in seconds. Our free GPA calculator computes your cumulative Grade Point Average using letter or number grades.",
+   "canonical": "https://www.calculator.io/gpa-calculator/",
+   "robotsMeta": "index, follow",
+   "lang": "en",
+   "h1": [
+    "GPA Calculator"
+   ],
+   "h2": [
+    "How to Calculate Your GPA and Raise Your Grade Point Average",
+    "Table of Contents",
+    "GPA Planning Calculator",
+    "Letter Grades and Their Numerical Counterparts",
+    "Examples",
+    "Improve Your GPA"
+   ],
+   "h3": [
+    "Regular Class Attendance",
+    "Planning"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "GPA Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Your GPA and Raise Your Grade Point Average"
+    },
+    {
+     "level": 2,
+     "text": "Table of Contents"
+    },
+    {
+     "level": 2,
+     "text": "GPA Planning Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Letter Grades and Their Numerical Counterparts"
+    },
+    {
+     "level": 2,
+     "text": "Examples"
+    },
+    {
+     "level": 2,
+     "text": "Improve Your GPA"
+    },
+    {
+     "level": 3,
+     "text": "Regular Class Attendance"
+    },
+    {
+     "level": 3,
+     "text": "Planning"
+    }
+   ],
+   "wordCount": 1146,
+   "avgSentenceWords": 25,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "grade",
+     "weight": 43
+    },
+    {
+     "term": "gpa",
+     "weight": 24
+    },
+    {
+     "term": "grade points",
+     "weight": 23
+    },
+    {
+     "term": "calculator",
+     "weight": 16
+    },
+    {
+     "term": "grade point",
+     "weight": 15
+    },
+    {
+     "term": "course",
+     "weight": 15
+    },
+    {
+     "term": "points",
+     "weight": 15
+    },
+    {
+     "term": "grade grade",
+     "weight": 14
+    },
+    {
+     "term": "point average",
+     "weight": 12
+    },
+    {
+     "term": "grades",
+     "weight": 11
+    },
+    {
+     "term": "point",
+     "weight": 10
+    },
+    {
+     "term": "average",
+     "weight": 10
+    },
+    {
+     "term": "ask",
+     "weight": 10
+    },
+    {
+     "term": "credit",
+     "weight": 9
+    },
+    {
+     "term": "calculation",
+     "weight": 8
+    },
+    {
+     "term": "instant answers",
+     "weight": 8
+    },
+    {
+     "term": "calculation try",
+     "weight": 8
+    },
+    {
+     "term": "try ask",
+     "weight": 8
+    },
+    {
+     "term": "course credits",
+     "weight": 8
+    },
+    {
+     "term": "planning",
+     "weight": 7
+    },
+    {
+     "term": "academic",
+     "weight": 7
+    },
+    {
+     "term": "instant",
+     "weight": 6
+    },
+    {
+     "term": "answers",
+     "weight": 6
+    },
+    {
+     "term": "credits",
+     "weight": 6
+    },
+    {
+     "term": "credits grade",
+     "weight": 6
+    },
+    {
+     "term": "calculator math",
+     "weight": 6
+    },
+    {
+     "term": "calculator statistics",
+     "weight": 6
+    },
+    {
+     "term": "course credit",
+     "weight": 6
+    },
+    {
+     "term": "gpa planning",
+     "weight": 6
+    },
+    {
+     "term": "letter grades",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "We only have 24 hours in a day, and overextending yourself by taking on too many credit hours can quickly overwhelm you, ultimately damaging your GPA."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "BreadcrumbList",
+    "WebApplication"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 3,
+   "lists": 3,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Link",
+    "select-one",
+    "select-one",
+    "select-one",
+    "select-one"
+   ],
+   "selectOptionsSample": "a+ a a- b+ b b- c+ c c- d+ d d- f a+ a a- b+ b b- c+ c c- d+ d d- f a+ a a- b+ b b- c+ c c- d+ d d- f a+ a a- b+ b b- c+ c c- d+ d d- f",
+   "unitToggle": false,
+   "wordsBeforeTool": 106,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": "2026-07-21T20:51:30+05:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 87,
+    "adNetworks": [
+     "adsense"
+    ],
+    "adSlots": 5,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 52,
+    "external": 1,
+    "contentInternal": 12,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Percentage Calculator Math",
+     "Grade Calculator Miscellaneous",
+     "Average Calculator Statistics",
+     "Rounding Calculator Math",
+     "Mean Calculator Statistics",
+     "GPA Planning Calculator",
+     "Letter Grades and Their Numerical Counterparts",
+     "Examples",
+     "Improve Your GPA",
+     "Regular Class Attendance",
+     "Planning"
+    ],
+    "internalSample": [
+     "https://www.calculator.io/ask-ai/",
+     "https://www.calculator.io/percentage-calculator/",
+     "https://www.calculator.io/grade-calculator/",
+     "https://www.calculator.io/average-calculator/",
+     "https://www.calculator.io/rounding-calculator/",
+     "https://www.calculator.io/mean-calculator/",
+     "https://www.calculator.io/gpa-calculator/#gpa-planning-calculator-1",
+     "https://www.calculator.io/gpa-calculator/#letter-grades-and-their-numerical-counterparts-2",
+     "https://www.calculator.io/gpa-calculator/#examples-3",
+     "https://www.calculator.io/gpa-calculator/#improve-your-gpa-4",
+     "https://www.calculator.io/gpa-calculator/#regular-class-attendance-5",
+     "https://www.calculator.io/gpa-calculator/#planning-6"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.pearson.com/channels/it/calculators/gpa-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.pearson.com/channels/ko-kr/calculators/gpa-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://umkc.edu/Registrar/student-records/grades-gpa/gpa-calculator.html": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.smu.ca/academics/gpa-calculator.html": [
+   "unreachable (fetch failed)"
+  ],
+  "https://und.edu/academics/registrar/gpa-calculator.html": [
+   "unreachable (fetch failed)"
+  ],
+  "https://warrington.ufl.edu/current-students/gpa-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://ualberta.ca/augustana/student-life/academic/resources/gpa-calculator.html": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.ualberta.ca/augustana/services/academic/resources/gpa-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://web.cs.dal.ca/~mcallist/gpa2.html": [
+   "unreachable (fetch failed)"
+  ],
+  "https://myhighered.mn.gov/gpa-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://omnicalculator.com/other/gpa": [
+   "unreachable (fetch failed)"
+  ],
+  "https://reslife.berkeley.edu/gpa-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.binghamton.edu/decker/advising/gpa-calculator.html": [
+   "unreachable (fetch failed)"
+  ],
+  "https://onlinemasters.jou.ufl.edu/current-students/gpa-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.jmu.edu/advising/acadplan/semester-gpa.shtml": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

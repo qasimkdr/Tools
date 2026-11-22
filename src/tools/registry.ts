@@ -16,13 +16,18 @@ import armyBodyFat from "./army-body-fat-calculator/meta";
 import k401 from "./401k-calculator/meta";
 import sand from "./sand-calculator/meta";
 import rightTriangle from "./right-triangle-calculator/meta";
+import apWorld from "./ap-world-history-score-calculator/meta";
+import gpa from "./gpa-calculator/meta";
+import sqft from "./square-footage-calculator/meta";
+import hours from "./hours-calculator/meta";
+import bench from "./bench-press-max-calculator/meta";
 
 /**
  * Registry of PUBLISHED tools only (never list unbuilt tools → no broken links, no thin pages).
  * Add a tool: create src/tools/<slug>/meta.ts, import it here, add to TOOLS. That's the only wiring needed
  * for sitemap, category hubs, /tools/ index, home page and related-tool links.
  */
-export const TOOLS: ToolMeta[] = [daysFromToday, payment, interestRate, discount, ratio, proportion, hypotenuse, rng, rightTriangle, age, period, armyBodyFat, cubicYard, gravel, sand, k401];
+export const TOOLS: ToolMeta[] = [daysFromToday, payment, interestRate, discount, ratio, proportion, hypotenuse, rng, rightTriangle, age, hours, period, armyBodyFat, bench, cubicYard, gravel, sand, sqft, k401, gpa, apWorld];
 
 const bySlug = new Map(TOOLS.map((t) => [t.slug, t]));
 export const getTool = (slug: string) => {

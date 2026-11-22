@@ -1,0 +1,331 @@
+{
+ "keywords": {
+  "hours calculator": {
+   "fetchedAt": "2026-11-22T08:41:15.504Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": null,
+   "fileKd": null,
+   "fileIntent": null,
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.inchcalculator.com/hours-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Hours Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://everhour.com/calculators/hours-worked-calculator",
+     "domain": "everhour.com",
+     "title": "Hours worked calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.getharvest.com/time-tracking/hours-worked-calculator",
+     "domain": "www.getharvest.com",
+     "title": "hours worked calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.getharvest.com/calculators/hours-worked-calculator",
+     "domain": "www.getharvest.com",
+     "title": "hours worked calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://clockify.me/work-time-calculator",
+     "domain": "clockify.me",
+     "title": "FREE WORK TIME CALCULATOR",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.inchcalculator.com/work-hours-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Work Time Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://everhour.com/calculators/hours-worked-formula",
+     "domain": "everhour.com",
+     "title": "Hours worked formula",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://everhour.com/time-tracking/hours-worked-calculator",
+     "domain": "everhour.com",
+     "title": "Hours worked calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.getharvest.com/calculators/hours-calculator",
+     "domain": "www.getharvest.com",
+     "title": "hours calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://everhour.com/calculators/how-to-calculate-hours-worked",
+     "domain": "everhour.com",
+     "title": "How to calculate hours worked",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.zippia.com/advice/?p=50702",
+     "domain": "www.zippia.com",
+     "title": "Explore Jobs",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.clicktime.com/calculator-timesheet",
+     "domain": "www.clicktime.com",
+     "title": "Free timesheet calculator: Calculate work hours instantly",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.getharvest.com/time-tracking/work-hours-calculator",
+     "domain": "www.getharvest.com",
+     "title": "work hours calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://www.getharvest.com/calculators/simple-work-hours-calculator",
+     "domain": "www.getharvest.com",
+     "title": "simple work hours calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://clickup.com/blog/how-to-calculate-hours-worked/",
+     "domain": "clickup.com",
+     "title": "How to Calculate Work Hours Efficiently with Modern Tools",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://quickbooks.intuit.com/r/employee-management/how-to-calculate-hours-worked/",
+     "domain": "quickbooks.intuit.com",
+     "title": "QuickBooks Blog",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://www.hostinger.com/ph/tutorials/how-to-calculate-hours-worked/",
+     "domain": "www.hostinger.com",
+     "title": "In this article",
+     "description": null
+    }
+   ]
+  },
+  "hours calculator [restricted to accessible domains]": {
+   "fetchedAt": "2026-11-22T08:44:39.592Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch-restricted",
+   "rankNote": "order within a search limited to accessible domains — not a Google rank, not the open result list",
+   "fileVolume": null,
+   "fileKd": null,
+   "fileIntent": null,
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.calculator.net/time-duration-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Time Duration Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.calculator.net/hours-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Hours Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.calculatorsoup.com/calculators/time/hours.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Hours Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.omnicalculator.com/everyday-life/hours-between-two-times",
+     "domain": "www.omnicalculator.com",
+     "title": "Hours Between Two Times Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.omnicalculator.com/everyday-life/time-difference",
+     "domain": "www.omnicalculator.com",
+     "title": "Time Difference Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.omnicalculator.com/everyday-life/hour-countdown",
+     "domain": "www.omnicalculator.com",
+     "title": "Hour Countdown Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.calculator.io/hours-and-minutes-calculator/",
+     "domain": "www.calculator.io",
+     "title": "Hours and Minutes Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.omnicalculator.com/everyday-life/hours",
+     "domain": "www.omnicalculator.com",
+     "title": "Hours Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.omnicalculator.com/everyday-life/time-duration",
+     "domain": "www.omnicalculator.com",
+     "title": "Time Duration Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.omnicalculator.com/everyday-life/elapsed-time",
+     "domain": "www.omnicalculator.com",
+     "title": "Elapsed Time Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "hours-calculator",
+ "page": "hours-calculator",
+ "category": "time-date",
+ "name": "Hours Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T08:44:39.593Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 4,
+   "keywords": 6,
+   "urls": [
+    "https://www.omnicalculator.com/everyday-life/hours-between-two-times",
+    "https://www.omnicalculator.com/everyday-life/time-difference",
+    "https://www.omnicalculator.com/everyday-life/hour-countdown",
+    "https://www.omnicalculator.com/everyday-life/hours",
+    "https://www.omnicalculator.com/everyday-life/time-duration",
+    "https://www.omnicalculator.com/everyday-life/elapsed-time"
+   ]
+  },
+  {
+   "domain": "getharvest.com",
+   "bestRank": 3,
+   "keywords": 5,
+   "urls": [
+    "https://www.getharvest.com/time-tracking/hours-worked-calculator",
+    "https://www.getharvest.com/calculators/hours-worked-calculator",
+    "https://www.getharvest.com/calculators/hours-calculator",
+    "https://www.getharvest.com/time-tracking/work-hours-calculator",
+    "https://www.getharvest.com/calculators/simple-work-hours-calculator"
+   ]
+  },
+  {
+   "domain": "everhour.com",
+   "bestRank": 2,
+   "keywords": 4,
+   "urls": [
+    "https://everhour.com/calculators/hours-worked-calculator",
+    "https://everhour.com/calculators/hours-worked-formula",
+    "https://everhour.com/time-tracking/hours-worked-calculator",
+    "https://everhour.com/calculators/how-to-calculate-hours-worked"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://www.inchcalculator.com/hours-calculator/",
+    "https://www.inchcalculator.com/work-hours-calculator/"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://www.calculator.net/time-duration-calculator.html",
+    "https://www.calculator.net/hours-calculator.html"
+   ]
+  },
+  {
+   "domain": "calculatorsoup.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculatorsoup.com/calculators/time/hours.php"
+   ]
+  },
+  {
+   "domain": "clockify.me",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://clockify.me/work-time-calculator"
+   ]
+  },
+  {
+   "domain": "calculator.io",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculator.io/hours-and-minutes-calculator/"
+   ]
+  },
+  {
+   "domain": "zippia.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://www.zippia.com/advice/?p=50702"
+   ]
+  },
+  {
+   "domain": "clicktime.com",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://www.clicktime.com/calculator-timesheet"
+   ]
+  }
+ ]
+}

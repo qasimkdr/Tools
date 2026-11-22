@@ -161,35 +161,41 @@
   },
   {
    "id": "gpa-calculator",
-   "keyword": "gpa calculator for middle schoolers",
-   "vol": 9900,
-   "kd": 19,
-   "status": "needs-serp",
-   "pages": 0
+   "keyword": "gpa calculator",
+   "vol": 673000,
+   "kd": 44,
+   "status": "done",
+   "pages": 4,
+   "roadmapKeyword": "gpa calculator for middle schoolers",
+   "updatedAt": "2026-11-22T08:42:11.402Z"
   },
   {
    "id": "square-footage-calculator",
    "keyword": "square footage calculator",
    "vol": 74000,
    "kd": 31,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "done",
+   "pages": 4,
+   "updatedAt": "2026-11-22T08:42:54.052Z"
   },
   {
    "id": "hours-calculator",
-   "keyword": "hours from now calculator",
+   "keyword": "hours calculator",
    "vol": 2900,
    "kd": 21,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "done",
+   "pages": 4,
+   "roadmapKeyword": "hours from now calculator",
+   "updatedAt": "2026-11-22T08:45:24.870Z"
   },
   {
    "id": "bench-press-max-calculator",
    "keyword": "bench press max calculator",
    "vol": 4400,
    "kd": 0,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "partial",
+   "pages": 3,
+   "updatedAt": "2026-11-22T08:46:03.425Z"
   },
   {
    "id": "triangle-calculator",

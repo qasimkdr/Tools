@@ -2854,7 +2854,7 @@
     "www.omnicalculator.com/other/ap-world"
    ],
    "category": "education",
-   "status": "todo",
+   "status": "live",
    "order": 17,
    "batch": 2
   },
@@ -3198,7 +3198,7 @@
     "www.calculator.net/grade-calculator.html"
    ],
    "category": "education",
-   "status": "todo",
+   "status": "live",
    "order": 18,
    "batch": 2
   },
@@ -3545,7 +3545,7 @@
     "www.omnicalculator.com/conversion/square-meters-to-square-feet-converter"
    ],
    "category": "construction",
-   "status": "todo",
+   "status": "live",
    "order": 19,
    "batch": 2
   },
@@ -3664,7 +3664,7 @@
     "www.calculator.net/hours-calculator.html"
    ],
    "category": "time-date",
-   "status": "todo",
+   "status": "live",
    "order": 20,
    "batch": 2
   },
@@ -3693,7 +3693,7 @@
    ],
    "competitors": [],
    "category": "health",
-   "status": "todo",
+   "status": "live",
    "order": 21,
    "batch": 3
   },

@@ -1,0 +1,256 @@
+{
+ "keywords": {
+  "square footage calculator": {
+   "fetchedAt": "2026-11-22T08:41:15.381Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 74000,
+   "fileKd": 31,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 2,
+    "url": "www.calculator.net/square-footage-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.inchcalculator.com/square-footage-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Square Footage Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "square footage calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php?do=pop",
+     "domain": "www.calculatorsoup.com",
+     "title": "square footage calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.thecalculatorsite.com/misc/square-footage-calculator.php",
+     "domain": "www.thecalculatorsite.com",
+     "title": "square footage calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.homedepot.com/c/ah/how-to-calculate-square-footage/9ba683603be9fa5395fab90647548f6",
+     "domain": "www.homedepot.com",
+     "title": "How to Calculate Square Footage",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.housecallpro.com/general-contractor/templates-calculators/square-footage-calculator/",
+     "domain": "www.housecallpro.com",
+     "title": "square footage calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://calculator.net/square-footage-calculator.html",
+     "domain": "calculator.net",
+     "title": "Square Footage Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.homeadvisor.com/article.show.Calculating-Square-Footage.14155.html",
+     "domain": "www.homeadvisor.com",
+     "title": "Square Footage Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.housecallpro.com/?p=71653",
+     "domain": "www.housecallpro.com",
+     "title": "www.housecallpro.com",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.jainuniversity.ac.in/resources/calculator/square-footage-calculator",
+     "domain": "www.jainuniversity.ac.in",
+     "title": "Square Footage Calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.gigacalculator.com/calculators/square-footage-calculator.php",
+     "domain": "www.gigacalculator.com",
+     "title": "Square Footage Calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://omnicalculator.com/construction/square-footage",
+     "domain": "omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.homelight.com/blog/square-footage-calculator/",
+     "domain": "www.homelight.com",
+     "title": "Square Footage Calculator for Homeowners and Homebuyers",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://www.miniwebtool.com/square-footage-calculator/",
+     "domain": "www.miniwebtool.com",
+     "title": "square footage calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://calculator.io/square-footage-calculator",
+     "domain": "calculator.io",
+     "title": "Math Calculators",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://www.livehome3d.com/useful-articles/square-footage-calculators",
+     "domain": "www.livehome3d.com",
+     "title": "Square Footage Calculators",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://www.omnicalculator.com/all/square-footage",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://www.homedit.com/calculators/how-to-calculate-square-footage",
+     "domain": "www.homedit.com",
+     "title": "How to Calculate Square Footage",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://goodcalculators.com/square-footage-calculator/",
+     "domain": "goodcalculators.com",
+     "title": "Square Footage Calculator",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://thecalculatortoolbox.odoo.com/square-footage-calculator",
+     "domain": "thecalculatortoolbox.odoo.com",
+     "title": "square footage calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "square-footage-calculator",
+ "page": "square-footage-calculator",
+ "category": "construction",
+ "name": "Square Footage Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T08:41:15.381Z",
+ "topCompetitors": [
+  {
+   "domain": "calculatorsoup.com",
+   "bestRank": 2,
+   "keywords": 2,
+   "urls": [
+    "https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php",
+    "https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php?do=pop"
+   ]
+  },
+  {
+   "domain": "housecallpro.com",
+   "bestRank": 6,
+   "keywords": 2,
+   "urls": [
+    "https://www.housecallpro.com/general-contractor/templates-calculators/square-footage-calculator/",
+    "https://www.housecallpro.com/?p=71653"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 12,
+   "keywords": 2,
+   "urls": [
+    "https://omnicalculator.com/construction/square-footage",
+    "https://www.omnicalculator.com/all/square-footage"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/square-footage-calculator/"
+   ]
+  },
+  {
+   "domain": "thecalculatorsite.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.thecalculatorsite.com/misc/square-footage-calculator.php"
+   ]
+  },
+  {
+   "domain": "homedepot.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.homedepot.com/c/ah/how-to-calculate-square-footage/9ba683603be9fa5395fab90647548f6"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://calculator.net/square-footage-calculator.html"
+   ]
+  },
+  {
+   "domain": "homeadvisor.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.homeadvisor.com/article.show.Calculating-Square-Footage.14155.html"
+   ]
+  },
+  {
+   "domain": "jainuniversity.ac.in",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://www.jainuniversity.ac.in/resources/calculator/square-footage-calculator"
+   ]
+  },
+  {
+   "domain": "gigacalculator.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://www.gigacalculator.com/calculators/square-footage-calculator.php"
+   ]
+  }
+ ]
+}

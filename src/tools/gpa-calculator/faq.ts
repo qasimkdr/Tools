@@ -1,0 +1,9 @@
+export const faq = [
+  { q: "How do I calculate my GPA?", a: "Convert each letter grade to grade points (A = 4.0, B = 3.0 and so on), multiply by the class's credits, add these 'quality points' together and divide by the total credits. Grades A (3 credits) and B (4 credits) give (12 + 12) ÷ 7 = 3.43." },
+  { q: "What's the difference between weighted and unweighted GPA?", a: "Unweighted GPA uses a 4.0 scale for every class. Weighted GPA adds a bonus for harder classes, commonly +0.5 for Honors and +1.0 for AP, IB or dual-enrollment, so an A in an AP class counts as 5.0. Schools differ, so check your school's policy." },
+  { q: "How do I calculate cumulative GPA?", a: "Multiply your current GPA by the credits it's based on, add this term's quality points, then divide by all credits combined. A 3.2 over 30 credits plus a 3.8 term of 15 credits is (96 + 57) ÷ 45 = 3.40." },
+  { q: "What is a good GPA?", a: "A 3.0 (B average) is often considered solid, and 3.5+ is strong for competitive colleges and scholarships. 'Good' depends on your goals and school, so compare with the requirements of the programs you're aiming for." },
+  { q: "Does an A+ count as 4.3?", a: "Some colleges give an A+ 4.3, but many schools cap it at 4.0. This calculator uses 4.0 for A+, the most common rule. Check your school's grading policy if it uses 4.3." },
+  { q: "Do pass/fail classes count in GPA?", a: "Usually not. Pass/fail, audit and withdrawn courses typically don't affect GPA, although a failing grade sometimes does. Leave those classes out of the calculator unless your school counts them." },
+  { q: "How can I raise my GPA quickly?", a: "Classes with more credits move GPA the most, and early terms are easier to change than late ones because there are fewer credits behind them. Use the target planner to see what grades you'd need, and ask whether your school replaces grades for retaken classes." },
+];
