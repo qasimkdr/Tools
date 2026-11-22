@@ -1,0 +1,349 @@
+{
+ "keywords": {
+  "bowling score calculator": {
+   "fetchedAt": "2026-11-22T09:23:09.352Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 4400,
+   "fileKd": 5,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://apps.apple.com/us/app/id363594412",
+     "domain": "apps.apple.com",
+     "title": "Bowling Score Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://apps.apple.com/app/id363594412",
+     "domain": "apps.apple.com",
+     "title": "Bowling Score Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://en.wikipedia.org/wiki/Automatic_scorer",
+     "domain": "en.wikipedia.org",
+     "title": "Automatic scorer",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://miniwebtool.com/bowling-score-calculator/",
+     "domain": "miniwebtool.com",
+     "title": "bowling score calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.codeproject.com/Articles/1212051/Bowling-Calculator",
+     "domain": "www.codeproject.com",
+     "title": "Bowling Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://js-bsc.sourceforge.net/more.html",
+     "domain": "js-bsc.sourceforge.net",
+     "title": "How to Use the Bowling Score Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://fl-bsc.sourceforge.net/more.html",
+     "domain": "fl-bsc.sourceforge.net",
+     "title": "How to Use the Bowling Score Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://elysiatools.com/en/tools/bowling-score",
+     "domain": "elysiatools.com",
+     "title": "Bowling Score Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://milford.lib.de.us/2020/09/28/calculate-your-score-during-bowling",
+     "domain": "milford.lib.de.us",
+     "title": "calculate your score during bowling",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://calculator.academy/bowling-score-calculator/",
+     "domain": "calculator.academy",
+     "title": "bowling score calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://hakaru.io/tools/bowling-score-calculator",
+     "domain": "hakaru.io",
+     "title": "bowling score calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://cdcalculators.com/bowling-score-calculator/",
+     "domain": "cdcalculators.com",
+     "title": "Bowling Score Calculator 2026 | USBC Scoring & Handicap ★★★★★",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://calculators.sg/bowling-score-calculator",
+     "domain": "calculators.sg",
+     "title": "Bowling Score Calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://www.myexcelonline.com/blog/bowling-score-calculator-in-excel/",
+     "domain": "www.myexcelonline.com",
+     "title": "Pinterest Pixel",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://open.online.uga.edu/bowling/chapter/3-bowling-scoring",
+     "domain": "open.online.uga.edu",
+     "title": "3 bowling scoring",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://hakaru.io/guides/bowling-score-calculator-guide",
+     "domain": "hakaru.io",
+     "title": "Bowling Score Calculator Guide: How to Calculate Your Score",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://legionreport.com/?p=32797",
+     "domain": "legionreport.com",
+     "title": "Bowling Score Calculator: Frame by Frame Scoring",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://awesome.ecosyste.ms/projects/github.com%2Fpunkbit%2Fbowling_calculator",
+     "domain": "awesome.ecosyste.ms",
+     "title": "github.com%2Fpunkbit%2Fbowling calculator",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://agentcalc-cloudflare-public.pages.dev/bowling-score-calculator",
+     "domain": "agentcalc-cloudflare-public.pages.dev",
+     "title": "Bowling Score Calculator",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://mwm.ai/apps/bowling-calculator/1219153440",
+     "domain": "mwm.ai",
+     "title": "Bowling Calculator",
+     "description": null
+    }
+   ]
+  },
+  "bowling score calculator [restricted to accessible domains]": {
+   "fetchedAt": "2026-11-22T09:27:06.226Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch-restricted",
+   "rankNote": "order within a search limited to accessible domains — not a Google rank, not the open result list",
+   "fileVolume": 4400,
+   "fileKd": 5,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://calculatored.com/others/fun/bowling-score-calculator",
+     "domain": "calculatored.com",
+     "title": "Bowling Score Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.omnicalculator.com/sports/bowling-average",
+     "domain": "www.omnicalculator.com",
+     "title": "Bowling Average Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.omnicalculator.com/all",
+     "domain": "www.omnicalculator.com",
+     "title": "All calculators",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.calculatored.com/",
+     "domain": "www.calculatored.com",
+     "title": "Calculatored",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.omnicalculator.com/sports",
+     "domain": "www.omnicalculator.com",
+     "title": "Sports Calculators",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.calculatored.com/kd-calculator",
+     "domain": "www.calculatored.com",
+     "title": "KD Calculator - Calculate Kill to Death Ratio",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://calculatored.com/batting-average-calculator",
+     "domain": "calculatored.com",
+     "title": "Batting Average Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.calculatored.com/weeks-ago-calculator",
+     "domain": "www.calculatored.com",
+     "title": "Weeks Ago Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.calculatored.com/joule-calculator",
+     "domain": "www.calculatored.com",
+     "title": "Joules Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.calculatored.com/accuracy-calculator",
+     "domain": "www.calculatored.com",
+     "title": "Accuracy Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "bowling-score-calculator",
+ "page": "bowling-score-calculator",
+ "category": "education",
+ "name": "Bowling Score Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T09:27:06.226Z",
+ "topCompetitors": [
+  {
+   "domain": "calculatored.com",
+   "bestRank": 1,
+   "keywords": 7,
+   "urls": [
+    "https://calculatored.com/others/fun/bowling-score-calculator",
+    "https://www.calculatored.com/",
+    "https://www.calculatored.com/kd-calculator",
+    "https://calculatored.com/batting-average-calculator",
+    "https://www.calculatored.com/weeks-ago-calculator",
+    "https://www.calculatored.com/joule-calculator",
+    "https://www.calculatored.com/accuracy-calculator"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 2,
+   "keywords": 3,
+   "urls": [
+    "https://www.omnicalculator.com/sports/bowling-average",
+    "https://www.omnicalculator.com/all",
+    "https://www.omnicalculator.com/sports"
+   ]
+  },
+  {
+   "domain": "apple.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://apps.apple.com/us/app/id363594412",
+    "https://apps.apple.com/app/id363594412"
+   ]
+  },
+  {
+   "domain": "sourceforge.net",
+   "bestRank": 6,
+   "keywords": 2,
+   "urls": [
+    "https://js-bsc.sourceforge.net/more.html",
+    "https://fl-bsc.sourceforge.net/more.html"
+   ]
+  },
+  {
+   "domain": "hakaru.io",
+   "bestRank": 11,
+   "keywords": 2,
+   "urls": [
+    "https://hakaru.io/tools/bowling-score-calculator",
+    "https://hakaru.io/guides/bowling-score-calculator-guide"
+   ]
+  },
+  {
+   "domain": "wikipedia.org",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://en.wikipedia.org/wiki/Automatic_scorer"
+   ]
+  },
+  {
+   "domain": "miniwebtool.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://miniwebtool.com/bowling-score-calculator/"
+   ]
+  },
+  {
+   "domain": "codeproject.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.codeproject.com/Articles/1212051/Bowling-Calculator"
+   ]
+  },
+  {
+   "domain": "elysiatools.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://elysiatools.com/en/tools/bowling-score"
+   ]
+  },
+  {
+   "domain": "de.us",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://milford.lib.de.us/2020/09/28/calculate-your-score-during-bowling"
+   ]
+  }
+ ]
+}

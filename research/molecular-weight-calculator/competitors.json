@@ -1,0 +1,1152 @@
+{
+ "pages": {
+  "https://www.calculator.net/molecular-weight-calculator": {
+   "url": "https://www.calculator.net/molecular-weight-calculator",
+   "finalUrl": "https://www.calculator.net/molecular-weight-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T09:23:16.273Z",
+   "title": "Molecular Weight Calculator (Molar Mass)",
+   "metaDescription": "This molecular weight calculator can determine the molecular weight or molar mass of a molecule based on its formula and also provides the percentage of the atoms.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Molecular Weight Calculator (Molar Mass)"
+   ],
+   "h2": [],
+   "h3": [
+    "Term Definitions",
+    "Atomic Weight",
+    "Molecular Weight (relative molecular mass)",
+    "Molar Mass",
+    "Molecular Mass",
+    "Calculate Molecular Weight and Molar Mass",
+    "Table of abridged standard atomic weights"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Molecular Weight Calculator (Molar Mass)"
+    },
+    {
+     "level": 3,
+     "text": "Term Definitions"
+    },
+    {
+     "level": 3,
+     "text": "Atomic Weight"
+    },
+    {
+     "level": 3,
+     "text": "Molecular Weight (relative molecular mass)"
+    },
+    {
+     "level": 3,
+     "text": "Molar Mass"
+    },
+    {
+     "level": 3,
+     "text": "Molecular Mass"
+    },
+    {
+     "level": 3,
+     "text": "Calculate Molecular Weight and Molar Mass"
+    },
+    {
+     "level": 3,
+     "text": "Table of abridged standard atomic weights"
+    }
+   ],
+   "wordCount": 2201,
+   "avgSentenceWords": 41,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "solid",
+     "weight": 84
+    },
+    {
+     "term": "mass",
+     "weight": 40
+    },
+    {
+     "term": "weight",
+     "weight": 35
+    },
+    {
+     "term": "molecular weight",
+     "weight": 35
+    },
+    {
+     "term": "molecular",
+     "weight": 34
+    },
+    {
+     "term": "atomic",
+     "weight": 31
+    },
+    {
+     "term": "molar mass",
+     "weight": 21
+    },
+    {
+     "term": "atomic weight",
+     "weight": 18
+    },
+    {
+     "term": "mol",
+     "weight": 17
+    },
+    {
+     "term": "atomic weights",
+     "weight": 15
+    },
+    {
+     "term": "molar",
+     "weight": 14
+    },
+    {
+     "term": "atoms",
+     "weight": 14
+    },
+    {
+     "term": "molecular mass",
+     "weight": 12
+    },
+    {
+     "term": "gas",
+     "weight": 11
+    },
+    {
+     "term": "molecule",
+     "weight": 10
+    },
+    {
+     "term": "weights",
+     "weight": 10
+    },
+    {
+     "term": "number",
+     "weight": 10
+    },
+    {
+     "term": "standard atomic",
+     "weight": 9
+    },
+    {
+     "term": "element",
+     "weight": 9
+    },
+    {
+     "term": "atomic mass",
+     "weight": 9
+    },
+    {
+     "term": "hydrogen",
+     "weight": 9
+    },
+    {
+     "term": "calculator",
+     "weight": 7
+    },
+    {
+     "term": "atom",
+     "weight": 7
+    },
+    {
+     "term": "have",
+     "weight": 7
+    },
+    {
+     "term": "defined",
+     "weight": 7
+    },
+    {
+     "term": "water",
+     "weight": 7
+    },
+    {
+     "term": "standard",
+     "weight": 6
+    },
+    {
+     "term": "units",
+     "weight": 6
+    },
+    {
+     "term": "example",
+     "weight": 6
+    },
+    {
+     "term": "relative molecular",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "For example, the relative molecular mass of water is 18.015 Da, but a given water molecule may have a molecular mass ranging from 18.0106 Da to 22.0277 Da.",
+    "Atomic Number Symbol Name Atomic Weight (g/mol) Density (g/cm3) Phase at Room Temp."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 4,
+   "lists": 4,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "cmf",
+    "ccc"
+   ],
+   "selectOptionsSample": "-- select -- h2o (water) co2 (carbon dioxide) nh3 (ammonia) nacl (table salt (sodium chloride)) h2so4 (sulfuric acid) hcl (hydrochloric acid) hno3 (nitric acid) nahco3 (sodium bicarbonate (baking soda)) caco3 (calcium carbonate) kcl (potassium chloride) [co(nh3)6]cl3 (hexaamminecobalt(iii) chloride)",
+   "unitToggle": false,
+   "wordsBeforeTool": 63,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 36,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 24,
+    "external": 0,
+    "contentInternal": 24,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "other",
+     "molecular weight calculator",
+     "Other Calculators",
+     "Age",
+     "Date",
+     "Time",
+     "Hours",
+     "GPA",
+     "Grade",
+     "Height",
+     "Concrete",
+     "IP Subnet",
+     "Bra Size",
+     "Password Generator",
+     "Dice Roller",
+     "Conversion",
+     "More Other Calculators",
+     "Financial"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/molecular-weight-calculator.html",
+     "https://www.calculator.net/age-calculator.html",
+     "https://www.calculator.net/date-calculator.html",
+     "https://www.calculator.net/time-calculator.html",
+     "https://www.calculator.net/hours-calculator.html",
+     "https://www.calculator.net/gpa-calculator.html",
+     "https://www.calculator.net/grade-calculator.html",
+     "https://www.calculator.net/height-calculator.html",
+     "https://www.calculator.net/concrete-calculator.html",
+     "https://www.calculator.net/ip-subnet-calculator.html",
+     "https://www.calculator.net/bra-size-calculator.html",
+     "https://www.calculator.net/password-generator.html",
+     "https://www.calculator.net/dice-roller.html",
+     "https://www.calculator.net/conversion-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/chemistry/molecular-weight.php": {
+   "url": "https://www.calculatorsoup.com/calculators/chemistry/molecular-weight.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/chemistry/molecular-weight.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T09:23:38.113Z",
+   "title": "Molecular Weight Calculator",
+   "metaDescription": "Calculate the molecular weight of a formula.  Input the molecular formula and the weight is calculated. Also provides the atomic number, element name, base atomic weight and formula weight for the calcutated molecular formula.",
+   "canonical": "https://www.calculatorsoup.com/calculators/chemistry/molecular-weight.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Molecular Weight Calculator"
+   ],
+   "h2": [
+    "Table of Atomic Elements and Weights"
+   ],
+   "h3": [
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Molecular Weight Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Table of Atomic Elements and Weights"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 743,
+   "avgSentenceWords": 106,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "calculator",
+     "weight": 11
+    },
+    {
+     "term": "molecular weight",
+     "weight": 11
+    },
+    {
+     "term": "weight calculator",
+     "weight": 9
+    },
+    {
+     "term": "molecular",
+     "weight": 8
+    },
+    {
+     "term": "weight",
+     "weight": 8
+    },
+    {
+     "term": "calculators",
+     "weight": 6
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators chemistry",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "chemistry",
+     "weight": 4
+    },
+    {
+     "term": "atomic",
+     "weight": 4
+    },
+    {
+     "term": "chemistry molecular",
+     "weight": 3
+    },
+    {
+     "term": "calculator molecular",
+     "weight": 3
+    },
+    {
+     "term": "247 0703",
+     "weight": 3
+    },
+    {
+     "term": "com",
+     "weight": 3
+    },
+    {
+     "term": "com calculators",
+     "weight": 3
+    },
+    {
+     "term": "https www",
+     "weight": 3
+    },
+    {
+     "term": "www calculatorsoup",
+     "weight": 3
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 0,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Enter a Molecular Formula:",
+    "reset"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 19,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "October 1, 2026",
+    "authoritativeSources": [
+     "http://en.wikipedia.org/wiki/List_of_elements_by_atomic_number"
+    ]
+   },
+   "ux": {
+    "htmlKB": 85,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 16,
+    "external": 1,
+    "contentInternal": 6,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Chemistry",
+     "Molecular Weight Calculator",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/chemistry/",
+     "https://www.calculatorsoup.com/calculators/chemistry/molecular-weight.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=chemistry%2F&folderName=Chemistry&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/chemistry/molecular-weight.php&h1=Molecular+Weight+Calculator&pop_w=400&pop_h=600"
+    ],
+    "externalSample": [
+     "http://en.wikipedia.org/wiki/List_of_elements_by_atomic_number"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/chemistry/molecular-weight": {
+   "url": "https://www.omnicalculator.com/chemistry/molecular-weight",
+   "finalUrl": "https://www.omnicalculator.com/chemistry/molecular-weight",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T09:27:49.065Z",
+   "title": "Molecular Weight Calculator",
+   "metaDescription": "The molecular weight calculator allows you to easily calculate the mass of a given molecule.",
+   "canonical": "https://www.omnicalculator.com/chemistry/molecular-weight",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Molecular Weight Calculator"
+   ],
+   "h2": [
+    "How to use the molecular weight calculator",
+    "Molecular weight vs. molar mass",
+    "How to calculate molecular weight",
+    "Periodic table of elements — curiosities"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Molecular Weight Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to use the molecular weight calculator"
+    },
+    {
+     "level": 2,
+     "text": "Molecular weight vs. molar mass"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate molecular weight"
+    },
+    {
+     "level": 2,
+     "text": "Periodic table of elements — curiosities"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 631,
+   "avgSentenceWords": 17,
+   "faqs": [
+    "How to calculate the molecular mass of glucose?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "mass",
+     "weight": 19
+    },
+    {
+     "term": "molecular weight",
+     "weight": 18
+    },
+    {
+     "term": "molecular",
+     "weight": 16
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "weight",
+     "weight": 13
+    },
+    {
+     "term": "formula",
+     "weight": 9
+    },
+    {
+     "term": "atomic mass",
+     "weight": 9
+    },
+    {
+     "term": "named after",
+     "weight": 9
+    },
+    {
+     "term": "elements",
+     "weight": 8
+    },
+    {
+     "term": "chemical formula",
+     "weight": 8
+    },
+    {
+     "term": "periodic table",
+     "weight": 8
+    },
+    {
+     "term": "molar mass",
+     "weight": 8
+    },
+    {
+     "term": "atomic",
+     "weight": 7
+    },
+    {
+     "term": "weight calculator",
+     "weight": 6
+    },
+    {
+     "term": "table",
+     "weight": 6
+    },
+    {
+     "term": "molecular mass",
+     "weight": 6
+    },
+    {
+     "term": "named",
+     "weight": 6
+    },
+    {
+     "term": "after",
+     "weight": 6
+    },
+    {
+     "term": "chemical",
+     "weight": 5
+    },
+    {
+     "term": "periodic",
+     "weight": 5
+    },
+    {
+     "term": "molar",
+     "weight": 5
+    },
+    {
+     "term": "molarity",
+     "weight": 4
+    },
+    {
+     "term": "mole",
+     "weight": 4
+    },
+    {
+     "term": "know",
+     "weight": 4
+    },
+    {
+     "term": "calculate",
+     "weight": 4
+    },
+    {
+     "term": "atom",
+     "weight": 3
+    },
+    {
+     "term": "atom number",
+     "weight": 3
+    },
+    {
+     "term": "number",
+     "weight": 3
+    },
+    {
+     "term": "given",
+     "weight": 3
+    },
+    {
+     "term": "many",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "Molecular Weight Calculator Atom Number of atoms Atom Number of atoms Molecular weight: 1 u.",
+    "C₆H₁₂O₆ Transform the formula: MW = (6 × C) + (12 × H) + (6 × O) where: MW — molecular weight; C — atomic mass of carbon; H — atomic mass of hydrogen; and O — atomic mass of oxygen.",
+    "Input the values into the molecular weight equation and calculate the result: MW = (6 × 12u) + (12 × 1u) + (6 × 16u) MW = 180 u ✅ We got the right answer — the molecular weight of glucose is equal to 180 u."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 10,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Atom",
+    "Number of atoms",
+    "Atom",
+    "Number of atoms"
+   ],
+   "selectOptionsSample": "select type and select hydrogen (h) helium (he) lithium (li) beryllium (be) boron (b) carbon (c) nitrogen (n) oxygen (o) fluorine (f) neon (ne) sodium (na) magnesium (mg) aluminium (al) silicon (si) phosphorus (p) sulfur (s) chlorine (cl) argon (ar) potassium (k) calcium (ca) scandium (sc) titanium ",
+   "unitToggle": true,
+   "wordsBeforeTool": 4,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Łucja Zaborowska",
+    "published": "2020-07-16T10:11:31.467Z",
+    "modified": "2026-07-22T18:34:01.611Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 661,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 23,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "atomic mass",
+     "molality calculator",
+     "molarity calculator",
+     "mole calculator",
+     "molar mass of gas calculator",
+     "percentage concentration to molarity calculator",
+     "Molar Mass Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/chemistry/atomic-mass",
+     "https://www.omnicalculator.com/chemistry/molality",
+     "https://www.omnicalculator.com/chemistry/molarity",
+     "https://www.omnicalculator.com/chemistry/mole",
+     "https://www.omnicalculator.com/chemistry/molar-mass-of-gas",
+     "https://www.omnicalculator.com/chemistry/percentage-concentration-to-molarity",
+     "https://www.omnicalculator.com/chemistry/molar-mass"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/molar-mass-calculator/": {
+   "url": "https://www.inchcalculator.com/molar-mass-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/molar-mass-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T09:30:30.597Z",
+   "title": "Molar Mass Calculator - Inch Calculator",
+   "metaDescription": "Calculate the molar mass and formula of a compound or substance, plus learn how to find molar mass and molecular weight.",
+   "canonical": "https://www.inchcalculator.com/molar-mass-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Molar Mass Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Molar Mass",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "What is Molar Mass?",
+    "How to Calculate Molar Mass",
+    "Similar Chemistry Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "How is Molar Mass Used?",
+    "Molecular Weight Formula"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Molar Mass Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Molar Mass"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "What is Molar Mass?"
+    },
+    {
+     "level": 3,
+     "text": "How is Molar Mass Used?"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Molar Mass"
+    },
+    {
+     "level": 3,
+     "text": "Molecular Weight Formula"
+    },
+    {
+     "level": 2,
+     "text": "Similar Chemistry Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 829,
+   "avgSentenceWords": 24,
+   "faqs": [
+    "What is Molar Mass?",
+    "How is Molar Mass Used?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "molar mass",
+     "weight": 36
+    },
+    {
+     "term": "mass",
+     "weight": 31
+    },
+    {
+     "term": "molar",
+     "weight": 24
+    },
+    {
+     "term": "molecular weight",
+     "weight": 12
+    },
+    {
+     "term": "weight",
+     "weight": 11
+    },
+    {
+     "term": "calculator",
+     "weight": 10
+    },
+    {
+     "term": "calculate",
+     "weight": 9
+    },
+    {
+     "term": "compound",
+     "weight": 9
+    },
+    {
+     "term": "molecular",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "atomic",
+     "weight": 8
+    },
+    {
+     "term": "moles",
+     "weight": 8
+    },
+    {
+     "term": "formula",
+     "weight": 7
+    },
+    {
+     "term": "mol",
+     "weight": 7
+    },
+    {
+     "term": "element",
+     "weight": 6
+    },
+    {
+     "term": "used",
+     "weight": 6
+    },
+    {
+     "term": "grams",
+     "weight": 6
+    },
+    {
+     "term": "chemistry",
+     "weight": 5
+    },
+    {
+     "term": "substance",
+     "weight": 5
+    },
+    {
+     "term": "mass calculator",
+     "weight": 5
+    },
+    {
+     "term": "atomic masses",
+     "weight": 5
+    },
+    {
+     "term": "national institute",
+     "weight": 5
+    },
+    {
+     "term": "atomic weights",
+     "weight": 5
+    },
+    {
+     "term": "page",
+     "weight": 4
+    },
+    {
+     "term": "https",
+     "weight": 4
+    },
+    {
+     "term": "atoms",
+     "weight": 4
+    },
+    {
+     "term": "h2o",
+     "weight": 4
+    },
+    {
+     "term": "nist",
+     "weight": 4
+    },
+    {
+     "term": "chemical",
+     "weight": 3
+    },
+    {
+     "term": "chemical formula",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "How to Calculate Molar Mass Molecular Weight Formula References By Joe Sexton Joe is the creator of Inch Calculator and has over 20 years of experience in engineering and construction.",
+    "The National Institute of Standards and Technology published the atomic weights for each element and is a good resource to consult.[2] For example, let’s calculate the molar mass of water (H2O).",
+    "The formula to calculate the molecular weight based on the atomic weights looks like this: molar mass = 1.00794 (H) + 1.00794 (H) + 15.9994 (O) Therefore, the molar mass of H2O is 18.01528 g/mol.",
+    "Learn more about calculating the weight of H2O on our water weight calculator."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "Compound",
+    "Element",
+    "Chemical Formula"
+   ],
+   "selectOptionsSample": "[select compound] acetaldehyde [c₂h₄o] acetamide [c₂h₅no] acetic acid [ch₃cooh] acetone [c₃h₆o] acetonitrile [c₂h₃n] aluminium chloride [alcl₃] aluminium nitrate [al(no₃)₃] aluminium sulfate [al₂(so₄)₃] ammonia [nh₃] ammonium acetate [ch₃coonh₄] ammonium carbonate [(nh₄)₂co₃] ammonium chloride [nh₄c",
+   "unitToggle": false,
+   "wordsBeforeTool": 25,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2021-07-14",
+    "modified": "2023-01-30T16:28:48+00:00",
+    "authoritativeSources": [
+     "https://physics.nist.gov/cgi-bin/Compositions/stand_alone.pl",
+     "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-8"
+    ]
+   },
+   "ux": {
+    "htmlKB": 142,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 45,
+    "external": 16,
+    "contentInternal": 21,
+    "contentExternal": 10,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "What is Molar Mass?",
+     "How is Molar Mass Used?",
+     "How to Calculate Molar Mass",
+     "Molecular Weight Formula",
+     "References",
+     "Full bio",
+     "Molar Mass Calculator",
+     "atoms",
+     "water weight calculator",
+     "grams",
+     "moles",
+     "Molarity Calculator",
+     "Ideal Gas Law Calculator",
+     "PPM to mg/L Converter",
+     "mg/L to PPM Converter",
+     "Percent to PPM Converter",
+     "See All"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/molar-mass-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/molar-mass/",
+     "https://www.inchcalculator.com/molar-mass-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/molar-mass-calculator/#idx_what_is_molar_mass",
+     "https://www.inchcalculator.com/molar-mass-calculator/#idx_how_is_molar_mass_used",
+     "https://www.inchcalculator.com/molar-mass-calculator/#idx_how_to_calculate_molar_mass",
+     "https://www.inchcalculator.com/molar-mass-calculator/#idx_molecular_weight_formula",
+     "https://www.inchcalculator.com/molar-mass-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/teresa-michelsen/",
+     "https://www.inchcalculator.com/molar-mass-calculator/",
+     "https://www.inchcalculator.com/atoms-to-moles-calculator/",
+     "https://www.inchcalculator.com/water-weight-calculator/",
+     "https://www.inchcalculator.com/convert/from-gram/",
+     "https://www.inchcalculator.com/mole-calculator/",
+     "https://www.inchcalculator.com/molarity-calculator/",
+     "https://www.inchcalculator.com/ideal-gas-law-calculator/",
+     "https://www.inchcalculator.com/ppm-to-mgl-converter/",
+     "https://www.inchcalculator.com/mgl-to-ppm-converter/",
+     "https://www.inchcalculator.com/percent-to-ppm-converter/",
+     "https://www.inchcalculator.com/chemistry-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fmolar-mass-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fmolar-mass-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fmolar-mass-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fmolar-mass-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fmolar-mass-calculator%2F&text=Molar+Mass+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fmolar-mass-calculator%2F&text=Molar+Mass+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://chem.libretexts.org/@go/page/79550",
+     "https://physics.nist.gov/cgi-bin/Compositions/stand_alone.pl",
+     "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-8"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://Omnicalculator.com/chemistry/molecular-weight": [
+   "unreachable (fetch failed)"
+  ],
+  "https://calculator.net/molecular-weight-calculator.html": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.selleckchem.com/molecular-weight-calculator.html": [
+   "unreachable (fetch failed)"
+  ],
+  "https://testbook.com/calculators/molecular-weight-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://calctool.org/CALC/chem/molecular/mwt": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.lenntech.com/molecular-weight-calculator.htm": [
+   "unreachable (fetch failed)"
+  ],
+  "https://javalab.org/?p=13432": [
+   "unreachable (fetch failed)"
+  ],
+  "https://javalab.org/en/molecular_weight_calculator_en/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://military.tutor.com/resources/resourceframe.aspx?id=367": [
+   "unreachable (fetch failed)"
+  ],
+  "https://pnnl-comp-mass-spec.github.io/Molecular-Weight-Calculator-VB6": [
+   "unreachable (fetch failed)"
+  ],
+  "https://cdn.wba.omnicalculator.com/chemistry/molecular-weight": [
+   "unreachable (fetch failed)"
+  ],
+  "https://testbook.com/amp/calculators/molecular-weight-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.webqc.org/molecular-weight-of-..html": [
+   "unreachable (fetch failed)"
+  ],
+  "https://celnav.de/molwt.htm": [
+   "unreachable (fetch failed)"
+  ],
+  "https://russellcottrell.com/blog/mwCalculator.htm": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.pearson.com/channels/ko-KR/calculators/protein-molecular-weight-calculator": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

@@ -1,0 +1,337 @@
+{
+ "keywords": {
+  "mixed number calculator": {
+   "fetchedAt": "2026-11-22T09:23:09.584Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 12100,
+   "fileKd": 29,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 2,
+    "url": "www.calculator.net/fraction-calculator.html?c2d1=1.2&ctype=2&x=0&y=0"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.inchcalculator.com/mixed-number-calculator",
+     "domain": "www.inchcalculator.com",
+     "title": "Mixed Number Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://omnicalculator.com/math/mixed-number",
+     "domain": "omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://dqydj.com/mixed-number-calculator/",
+     "domain": "dqydj.com",
+     "title": "Mixed Number Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://calculatorsoup.com/calculators/math/mixednumbers.php",
+     "domain": "calculatorsoup.com",
+     "title": "calculatorsoup.com",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://dqydj.com/?p=22651",
+     "domain": "dqydj.com",
+     "title": "Mixed Number Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.mometrix.com/academy/?p=255778",
+     "domain": "www.mometrix.com",
+     "title": "Mixed Number Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.calculator.io/mixed-number-calculator",
+     "domain": "www.calculator.io",
+     "title": "Math Calculators",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.pearson.com/channels/ko-kr/calculators/fraction-calculator",
+     "domain": "www.pearson.com",
+     "title": "fraction calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.pearson.com/channels/it-IT/calculators/fraction-calculator",
+     "domain": "www.pearson.com",
+     "title": "fraction calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.omnicalculator.com/all/fraction",
+     "domain": "www.omnicalculator.com",
+     "title": "Fraction Calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.size.ly/calculator/mixed-fraction-calculator",
+     "domain": "www.size.ly",
+     "title": "mixed fraction calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://mobipalma.mobi/lju43/3-mixed-fraction-calculator",
+     "domain": "mobipalma.mobi",
+     "title": "3 mixed fraction calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://mathcheck.net/calculators/mixed-number-calculator",
+     "domain": "mathcheck.net",
+     "title": "mixed number calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://www.dadsworksheets.com/mixed-number-calculator.html",
+     "domain": "www.dadsworksheets.com",
+     "title": "Mixed Number Calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://www.calculator.io/mixed-fraction-calculator",
+     "domain": "www.calculator.io",
+     "title": "Math Calculators",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://avaesus.saudeemacao.saude.sp.gov.br/local/fraction-calculator",
+     "domain": "avaesus.saudeemacao.saude.sp.gov.br",
+     "title": "Fraction Calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://www.inchcalculator.com/fraction-to-mixed-number-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Improper Fraction to Mixed Number Calculator",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://www.inchcalculator.com/fraction-calculator",
+     "domain": "www.inchcalculator.com",
+     "title": "Fraction Calculator – Ultimate Fraction Solver",
+     "description": null
+    }
+   ]
+  },
+  "mixed number calculator [restricted to accessible domains]": {
+   "fetchedAt": "2026-11-22T09:27:06.480Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch-restricted",
+   "rankNote": "order within a search limited to accessible domains — not a Google rank, not the open result list",
+   "fileVolume": 12100,
+   "fileKd": 29,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 2,
+    "url": "www.calculator.net/fraction-calculator.html?c2d1=1.2&ctype=2&x=0&y=0"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.calculatorsoup.com/calculators/math/mixednumbers.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Mixed Numbers Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.calculator.io/mixed-number-calculator/",
+     "domain": "www.calculator.io",
+     "title": "Mixed Number Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.calculatorsoup.com/calculators/math/fractionscalculators.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Fractions Calculators",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.inchcalculator.com/mixed-number-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Mixed Number Calculator - Inch Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.thecalculatorsite.com/math/fractions-calculator.php",
+     "domain": "www.thecalculatorsite.com",
+     "title": "Fractions Calculator - The Calculator Site",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.calculator.io/mixed-fraction-calculator/",
+     "domain": "www.calculator.io",
+     "title": "Mixed Fraction Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.calculator.io/fraction-calculator/",
+     "domain": "www.calculator.io",
+     "title": "Fraction Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.omnicalculator.com/math/fraction",
+     "domain": "www.omnicalculator.com",
+     "title": "Fraction Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.calculatorsoup.com/calculators/math/complex-fraction-calculator.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Complex Fractions Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "fraction-calculator",
+ "page": "fraction-calculator",
+ "category": "math",
+ "name": "Fraction Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T09:27:06.481Z",
+ "topCompetitors": [
+  {
+   "domain": "calculator.io",
+   "bestRank": 2,
+   "keywords": 5,
+   "urls": [
+    "https://www.calculator.io/mixed-number-calculator",
+    "https://www.calculator.io/mixed-fraction-calculator",
+    "https://www.calculator.io/mixed-number-calculator/",
+    "https://www.calculator.io/mixed-fraction-calculator/",
+    "https://www.calculator.io/fraction-calculator/"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 1,
+   "keywords": 4,
+   "urls": [
+    "https://www.inchcalculator.com/mixed-number-calculator",
+    "https://www.inchcalculator.com/fraction-to-mixed-number-calculator/",
+    "https://www.inchcalculator.com/fraction-calculator",
+    "https://www.inchcalculator.com/mixed-number-calculator/"
+   ]
+  },
+  {
+   "domain": "calculatorsoup.com",
+   "bestRank": 1,
+   "keywords": 4,
+   "urls": [
+    "https://calculatorsoup.com/calculators/math/mixednumbers.php",
+    "https://www.calculatorsoup.com/calculators/math/mixednumbers.php",
+    "https://www.calculatorsoup.com/calculators/math/fractionscalculators.php",
+    "https://www.calculatorsoup.com/calculators/math/complex-fraction-calculator.php"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 2,
+   "keywords": 3,
+   "urls": [
+    "https://omnicalculator.com/math/mixed-number",
+    "https://www.omnicalculator.com/all/fraction",
+    "https://www.omnicalculator.com/math/fraction"
+   ]
+  },
+  {
+   "domain": "dqydj.com",
+   "bestRank": 3,
+   "keywords": 2,
+   "urls": [
+    "https://dqydj.com/mixed-number-calculator/",
+    "https://dqydj.com/?p=22651"
+   ]
+  },
+  {
+   "domain": "pearson.com",
+   "bestRank": 8,
+   "keywords": 2,
+   "urls": [
+    "https://www.pearson.com/channels/ko-kr/calculators/fraction-calculator",
+    "https://www.pearson.com/channels/it-IT/calculators/fraction-calculator"
+   ]
+  },
+  {
+   "domain": "thecalculatorsite.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.thecalculatorsite.com/math/fractions-calculator.php"
+   ]
+  },
+  {
+   "domain": "size.ly",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://www.size.ly/calculator/mixed-fraction-calculator"
+   ]
+  },
+  {
+   "domain": "mobipalma.mobi",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://mobipalma.mobi/lju43/3-mixed-fraction-calculator"
+   ]
+  },
+  {
+   "domain": "mathcheck.net",
+   "bestRank": 13,
+   "keywords": 1,
+   "urls": [
+    "https://mathcheck.net/calculators/mixed-number-calculator"
+   ]
+  }
+ ]
+}

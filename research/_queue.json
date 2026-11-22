@@ -210,56 +210,64 @@
    "keyword": "molecular weight calculator",
    "vol": 1000000,
    "kd": 39,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "done",
+   "pages": 4,
+   "updatedAt": "2026-11-22T09:27:51.687Z"
   },
   {
    "id": "bowling-score-calculator",
    "keyword": "bowling score calculator",
    "vol": 4400,
    "kd": 5,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "partial",
+   "pages": 3,
+   "updatedAt": "2026-11-22T09:28:44.381Z"
   },
   {
    "id": "air-force-pt-test-calculator",
    "keyword": "air force pt calculator",
    "vol": 5400,
    "kd": 8,
-   "status": "needs-serp",
+   "status": "blocked",
    "pages": 0
   },
   {
    "id": "square-root-calculator",
-   "keyword": "racine carree calculator",
+   "keyword": "square root calculator",
    "vol": 6600,
    "kd": 10,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "partial",
+   "pages": 3,
+   "roadmapKeyword": "racine carree calculator",
+   "updatedAt": "2026-11-22T09:29:36.372Z"
   },
   {
    "id": "fraction-calculator",
-   "keyword": "mixed fraction calculator",
-   "vol": 9900,
-   "kd": 18,
-   "status": "needs-serp",
-   "pages": 0
+   "keyword": "mixed number calculator",
+   "vol": 12100,
+   "kd": 29,
+   "status": "done",
+   "pages": 4,
+   "roadmapKeyword": "mixed fraction calculator",
+   "updatedAt": "2026-11-22T09:29:55.418Z"
   },
   {
    "id": "how-many-years-calculator",
    "keyword": "how many years calculator",
    "vol": 4400,
    "kd": 2,
-   "status": "needs-serp",
+   "status": "covered",
    "pages": 0
   },
   {
    "id": "mortgage-calculator",
-   "keyword": "mortgage calculator idaho",
+   "keyword": "monthly mortgage calculator with taxes and insurance",
    "vol": 2400,
-   "kd": 14,
-   "status": "needs-serp",
-   "pages": 0
+   "kd": 2,
+   "status": "done",
+   "pages": 4,
+   "roadmapKeyword": "mortgage calculator idaho",
+   "updatedAt": "2026-11-22T09:30:17.713Z"
   },
   {
    "id": "cylinder-volume-calculator",

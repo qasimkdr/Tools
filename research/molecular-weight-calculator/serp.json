@@ -1,0 +1,359 @@
+{
+ "keywords": {
+  "molecular weight calculator": {
+   "fetchedAt": "2026-11-22T09:23:09.242Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1000000,
+   "fileKd": 39,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 14,
+    "url": "www.calculator.net/molecular-weight-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://Omnicalculator.com/chemistry/molecular-weight",
+     "domain": "omnicalculator.com",
+     "title": "Molecular Weight Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://calculator.net/molecular-weight-calculator.html",
+     "domain": "calculator.net",
+     "title": "Molecular Weight Calculator (Molar Mass)",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.calculator.net/molecular-weight-calculator",
+     "domain": "www.calculator.net",
+     "title": "Molecular Weight Calculator (Molar Mass)",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.selleckchem.com/molecular-weight-calculator.html",
+     "domain": "www.selleckchem.com",
+     "title": "Molecular Weight Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://testbook.com/calculators/molecular-weight-calculator",
+     "domain": "testbook.com",
+     "title": "molecular weight calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://calctool.org/CALC/chem/molecular/mwt",
+     "domain": "calctool.org",
+     "title": "Molecular Weight Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.lenntech.com/molecular-weight-calculator.htm",
+     "domain": "www.lenntech.com",
+     "title": "Molecular Weight Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://javalab.org/?p=13432",
+     "domain": "javalab.org",
+     "title": "Molecular Weight Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://javalab.org/en/molecular_weight_calculator_en/",
+     "domain": "javalab.org",
+     "title": "Molecular Weight Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://military.tutor.com/resources/resourceframe.aspx?id=367",
+     "domain": "military.tutor.com",
+     "title": "Molecular Weight Calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.calculatorsoup.com/calculators/chemistry/molecular-weight.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "molecular weight",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://pnnl-comp-mass-spec.github.io/Molecular-Weight-Calculator-VB6",
+     "domain": "pnnl-comp-mass-spec.github.io",
+     "title": "Molecular Weight Calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://cdn.wba.omnicalculator.com/chemistry/molecular-weight",
+     "domain": "cdn.wba.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://testbook.com/amp/calculators/molecular-weight-calculator",
+     "domain": "testbook.com",
+     "title": "molecular weight calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://inchcalculator.com/molar-mass-calculator",
+     "domain": "inchcalculator.com",
+     "title": "Molar Mass Calculator",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://www.tutor.com/resources/resourceframe.aspx?id=367",
+     "domain": "www.tutor.com",
+     "title": "Lenntech Water treatment & purification Lenntech Water treatment & purification",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://www.webqc.org/molecular-weight-of-..html",
+     "domain": "www.webqc.org",
+     "title": "Printed from https://www.webqc.org",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://celnav.de/molwt.htm",
+     "domain": "celnav.de",
+     "title": "Molecular Weight Calculator 1.07 Copyright © 1999-2008 Henning Umland",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://russellcottrell.com/blog/mwCalculator.htm",
+     "domain": "russellcottrell.com",
+     "title": "Molecular weight calculator",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://www.pearson.com/channels/ko-KR/calculators/protein-molecular-weight-calculator",
+     "domain": "www.pearson.com",
+     "title": "protein molecular weight calculator",
+     "description": null
+    }
+   ]
+  },
+  "molecular weight calculator [restricted to accessible domains]": {
+   "fetchedAt": "2026-11-22T09:27:06.102Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch-restricted",
+   "rankNote": "order within a search limited to accessible domains — not a Google rank, not the open result list",
+   "fileVolume": 1000000,
+   "fileKd": 39,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 14,
+    "url": "www.calculator.net/molecular-weight-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.omnicalculator.com/chemistry/molecular-weight",
+     "domain": "www.omnicalculator.com",
+     "title": "Molecular Weight Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.omnicalculator.com/chemistry/molar-mass",
+     "domain": "www.omnicalculator.com",
+     "title": "Molar Mass Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.inchcalculator.com/molar-mass-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Molar Mass Calculator - Inch Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.calculator.net/molarity-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Molarity Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.omnicalculator.com/chemistry/mole",
+     "domain": "www.omnicalculator.com",
+     "title": "Mole Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.wba.omnicalculator.com/chemistry/molar-mass",
+     "domain": "www.wba.omnicalculator.com",
+     "title": "Molar Mass Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.inchcalculator.com/mole-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Mole Calculator - Inch Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.omnicalculator.com/chemistry/molar-mass-of-gas",
+     "domain": "www.omnicalculator.com",
+     "title": "Molar Mass of Gas Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.omnicalculator.com/chemistry/avogadro",
+     "domain": "www.omnicalculator.com",
+     "title": "Avogadro's Number Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.omnicalculator.com/chemistry/grams-to-moles",
+     "domain": "www.omnicalculator.com",
+     "title": "Grams to Moles Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "molecular-weight-calculator",
+ "page": "molecular-weight-calculator",
+ "category": "science",
+ "name": "Molecular Weight Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T09:27:06.103Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 9,
+   "urls": [
+    "https://Omnicalculator.com/chemistry/molecular-weight",
+    "https://cdn.wba.omnicalculator.com/chemistry/molecular-weight",
+    "https://www.omnicalculator.com/chemistry/molecular-weight",
+    "https://www.omnicalculator.com/chemistry/molar-mass",
+    "https://www.omnicalculator.com/chemistry/mole",
+    "https://www.wba.omnicalculator.com/chemistry/molar-mass",
+    "https://www.omnicalculator.com/chemistry/molar-mass-of-gas",
+    "https://www.omnicalculator.com/chemistry/avogadro",
+    "https://www.omnicalculator.com/chemistry/grams-to-moles"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 2,
+   "keywords": 3,
+   "urls": [
+    "https://calculator.net/molecular-weight-calculator.html",
+    "https://www.calculator.net/molecular-weight-calculator",
+    "https://www.calculator.net/molarity-calculator.html"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 3,
+   "keywords": 3,
+   "urls": [
+    "https://inchcalculator.com/molar-mass-calculator",
+    "https://www.inchcalculator.com/molar-mass-calculator/",
+    "https://www.inchcalculator.com/mole-calculator/"
+   ]
+  },
+  {
+   "domain": "testbook.com",
+   "bestRank": 5,
+   "keywords": 2,
+   "urls": [
+    "https://testbook.com/calculators/molecular-weight-calculator",
+    "https://testbook.com/amp/calculators/molecular-weight-calculator"
+   ]
+  },
+  {
+   "domain": "javalab.org",
+   "bestRank": 8,
+   "keywords": 2,
+   "urls": [
+    "https://javalab.org/?p=13432",
+    "https://javalab.org/en/molecular_weight_calculator_en/"
+   ]
+  },
+  {
+   "domain": "tutor.com",
+   "bestRank": 10,
+   "keywords": 2,
+   "urls": [
+    "https://military.tutor.com/resources/resourceframe.aspx?id=367",
+    "https://www.tutor.com/resources/resourceframe.aspx?id=367"
+   ]
+  },
+  {
+   "domain": "selleckchem.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.selleckchem.com/molecular-weight-calculator.html"
+   ]
+  },
+  {
+   "domain": "calctool.org",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://calctool.org/CALC/chem/molecular/mwt"
+   ]
+  },
+  {
+   "domain": "lenntech.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.lenntech.com/molecular-weight-calculator.htm"
+   ]
+  },
+  {
+   "domain": "calculatorsoup.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculatorsoup.com/calculators/chemistry/molecular-weight.php"
+   ]
+  }
+ ]
+}

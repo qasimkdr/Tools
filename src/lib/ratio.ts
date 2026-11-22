@@ -34,3 +34,31 @@ export const splitTotal = (total: number, terms: number[]) => {
 
 /** Format without float noise: 6.000000001 → "6". */
 export const num = (x: number, max = 6) => (Number.isFinite(x) ? Number(x.toFixed(max)).toLocaleString("en-US", { maximumFractionDigits: max }) : "—");
+
+/** Simplify √[n]{x} for positive integers: returns { outside, inside } with x = outside^n × inside. */
+export function simplifyRoot(x: number, n: number) {
+  if (!Number.isInteger(x) || x <= 0 || !Number.isInteger(n) || n < 2) return null;
+  let outside = 1, inside = x;
+  for (let p = 2; Math.pow(p, n) <= inside; p++) {
+    const pn = Math.pow(p, n);
+    while (inside % pn === 0) { inside /= pn; outside *= p; }
+  }
+  return { outside, inside };
+}
+
+/** Prime factorization as [prime, exponent] pairs. */
+export function primeFactors(x: number): [number, number][] {
+  const out: [number, number][] = []; let v = x;
+  for (let p = 2; p * p <= v; p++) { let e = 0; while (v % p === 0) { v /= p; e++; } if (e) out.push([p, e]); }
+  if (v > 1) out.push([v, 1]);
+  return out;
+}
+
+/** Fraction arithmetic with sign normalisation and reduction. */
+export type Frac = { n: number; d: number };
+export const reduce = ({ n, d }: Frac): Frac => { if (d === 0) return { n: NaN, d: 1 }; const g = gcd(n, d) || 1; const s = d < 0 ? -1 : 1; return { n: (s * n) / g, d: (s * d) / g }; };
+export const fracOp = (a: Frac, b: Frac, op: "+" | "-" | "×" | "÷"): Frac =>
+  reduce(op === "+" ? { n: a.n * b.d + b.n * a.d, d: a.d * b.d } : op === "-" ? { n: a.n * b.d - b.n * a.d, d: a.d * b.d } : op === "×" ? { n: a.n * b.n, d: a.d * b.d } : { n: a.n * b.d, d: a.d * b.n });
+/** Mixed number (whole, numerator, denominator) → improper fraction. Sign taken from the whole part. */
+export const fromMixed = (w: number, n: number, d: number): Frac => { const s = w < 0 ? -1 : 1; return { n: s * (Math.abs(w) * d + n), d }; };
+export const toMixed = (f: Frac) => { const s = f.n < 0 ? -1 : 1, a = Math.abs(f.n); return { sign: s, whole: Math.floor(a / f.d), n: a % f.d, d: f.d }; };

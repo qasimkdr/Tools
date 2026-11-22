@@ -1,0 +1,669 @@
+{
+ "pages": {
+  "https://js-bsc.sourceforge.net/more.html": {
+   "url": "https://js-bsc.sourceforge.net/more.html",
+   "finalUrl": "https://js-bsc.sourceforge.net/more.html",
+   "mode": "offline-parse",
+   "domain": "js-bsc.sourceforge.net",
+   "fetchedAt": "2026-11-22T09:24:11.787Z",
+   "title": "Bowling Score Calculator Help Text",
+   "metaDescription": null,
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": null,
+   "h1": [
+    "How to Use the Bowling Score Calculator"
+   ],
+   "h2": [],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "How to Use the Bowling Score Calculator"
+    }
+   ],
+   "wordCount": 438,
+   "avgSentenceWords": 22,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "score",
+     "weight": 11
+    },
+    {
+     "term": "frame",
+     "weight": 6
+    },
+    {
+     "term": "ball",
+     "weight": 6
+    },
+    {
+     "term": "knocked down",
+     "weight": 6
+    },
+    {
+     "term": "pin",
+     "weight": 5
+    },
+    {
+     "term": "down",
+     "weight": 5
+    },
+    {
+     "term": "enter",
+     "weight": 4
+    },
+    {
+     "term": "bsc",
+     "weight": 4
+    },
+    {
+     "term": "fields",
+     "weight": 4
+    },
+    {
+     "term": "knocked",
+     "weight": 4
+    },
+    {
+     "term": "have",
+     "weight": 4
+    },
+    {
+     "term": "bowling score",
+     "weight": 3
+    },
+    {
+     "term": "score calculator",
+     "weight": 3
+    },
+    {
+     "term": "player",
+     "weight": 3
+    },
+    {
+     "term": "text",
+     "weight": 3
+    },
+    {
+     "term": "allow",
+     "weight": 3
+    },
+    {
+     "term": "first ball",
+     "weight": 3
+    },
+    {
+     "term": "ball fields",
+     "weight": 3
+    },
+    {
+     "term": "second ball",
+     "weight": 3
+    },
+    {
+     "term": "pins",
+     "weight": 3
+    },
+    {
+     "term": "spare",
+     "weight": 3
+    },
+    {
+     "term": "max score",
+     "weight": 3
+    },
+    {
+     "term": "calculated based",
+     "weight": 3
+    },
+    {
+     "term": "based",
+     "weight": 3
+    },
+    {
+     "term": "posted score",
+     "weight": 3
+    },
+    {
+     "term": "sourceforge net",
+     "weight": 3
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [],
+   "schemaFormats": [],
+   "tables": 0,
+   "lists": 0,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 3,
+    "adNetworks": [],
+    "adSlots": 0,
+    "viewport": false,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 0,
+    "external": 2,
+    "contentInternal": 0,
+    "contentExternal": 2,
+    "internalAnchors": [],
+    "internalSample": [],
+    "externalSample": [
+     "http://sourceforge.net/projects/js-bsc",
+     "http://sourceforge.net/"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/sports/bowling-average": {
+   "url": "https://www.omnicalculator.com/sports/bowling-average",
+   "finalUrl": "https://www.omnicalculator.com/sports/bowling-average",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T09:28:41.757Z",
+   "title": "Bowling Average Calculator",
+   "metaDescription": "Use our bowling average calculator to determine how well a cricket bowler has performed.",
+   "canonical": "https://www.omnicalculator.com/sports/bowling-average",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Bowling Average Calculator"
+   ],
+   "h2": [
+    "What is the bowling average?",
+    "How to calculate the bowling average in cricket with this calculator?",
+    "Common bowling average values",
+    "Some other helpful cricket statistics and tools",
+    "FAQs"
+   ],
+   "h3": [
+    "How to calculate the bowling average in cricket?",
+    "What is a good bowling average?",
+    "What's the importance of the bowling average and other cricket statistics?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Bowling Average Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is the bowling average?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate the bowling average in cricket with this calculator?"
+    },
+    {
+     "level": 2,
+     "text": "Common bowling average values"
+    },
+    {
+     "level": 2,
+     "text": "Some other helpful cricket statistics and tools"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How to calculate the bowling average in cricket?"
+    },
+    {
+     "level": 3,
+     "text": "What is a good bowling average?"
+    },
+    {
+     "level": 3,
+     "text": "What's the importance of the bowling average and other cricket statistics?"
+    }
+   ],
+   "wordCount": 800,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "What is the bowling average?",
+    "How to calculate the bowling average in cricket?",
+    "What is a good bowling average?",
+    "What's the importance of the bowling average and other cricket statistics?",
+    "what is a good bowling average?",
+    "How to calculate the bowling average in cricket with this calculator?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "bowling average",
+     "weight": 44
+    },
+    {
+     "term": "bowling",
+     "weight": 39
+    },
+    {
+     "term": "average",
+     "weight": 33
+    },
+    {
+     "term": "cricket",
+     "weight": 25
+    },
+    {
+     "term": "calculator",
+     "weight": 15
+    },
+    {
+     "term": "performance",
+     "weight": 11
+    },
+    {
+     "term": "bowling skills",
+     "weight": 11
+    },
+    {
+     "term": "skills",
+     "weight": 8
+    },
+    {
+     "term": "number",
+     "weight": 8
+    },
+    {
+     "term": "average calculator",
+     "weight": 8
+    },
+    {
+     "term": "runs",
+     "weight": 7
+    },
+    {
+     "term": "batting",
+     "weight": 7
+    },
+    {
+     "term": "conceded",
+     "weight": 6
+    },
+    {
+     "term": "wickets",
+     "weight": 6
+    },
+    {
+     "term": "team",
+     "weight": 6
+    },
+    {
+     "term": "good",
+     "weight": 6
+    },
+    {
+     "term": "good bowling",
+     "weight": 6
+    },
+    {
+     "term": "bowler",
+     "weight": 6
+    },
+    {
+     "term": "cricket statistics",
+     "weight": 6
+    },
+    {
+     "term": "help",
+     "weight": 5
+    },
+    {
+     "term": "runs conceded",
+     "weight": 5
+    },
+    {
+     "term": "run rate",
+     "weight": 5
+    },
+    {
+     "term": "cricket bowling",
+     "weight": 5
+    },
+    {
+     "term": "average bowling",
+     "weight": 5
+    },
+    {
+     "term": "average under",
+     "weight": 5
+    },
+    {
+     "term": "test cricket",
+     "weight": 5
+    },
+    {
+     "term": "calculate",
+     "weight": 4
+    },
+    {
+     "term": "player",
+     "weight": 4
+    },
+    {
+     "term": "statistics",
+     "weight": 4
+    },
+    {
+     "term": "conceded wickets",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "They usually consider that a bowling average under 30 is a good result in cricket."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": true,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Luis Hoyos",
+    "published": "2022-01-04T23:58:56.613Z",
+    "modified": "2024-05-24T17:59:58.414Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 411,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 20,
+    "external": 1,
+    "contentInternal": 4,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Batting Average Calculator",
+     "Run Rate Calculator",
+     "Duckworth Lewis Calculator",
+     "Cricket Follow-On Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/sports/batting-average",
+     "https://www.omnicalculator.com/sports/nrr",
+     "https://www.omnicalculator.com/sports/duckworth-lewis",
+     "https://www.omnicalculator.com/sports/cricket-follow-on"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatored.com/others/fun/bowling-score-calculator": {
+   "url": "https://www.calculatored.com/others/fun/bowling-score-calculator",
+   "finalUrl": "https://www.calculatored.com/others/fun/bowling-score-calculator",
+   "mode": "offline-parse",
+   "domain": "www.calculatored.com",
+   "fetchedAt": "2026-11-22T09:30:35.001Z",
+   "title": "Bowling Score Calculator",
+   "metaDescription": "The bowling score calculator finds the total score of the game that you have scored by throwing balls and knocking down the pins in each of the frame. \n",
+   "canonical": "https://www.calculatored.com/others/fun/bowling-score-calculator",
+   "robotsMeta": "index, follow",
+   "lang": "en",
+   "h1": [
+    "Bowling Score Calculator"
+   ],
+   "h2": [
+    "What Is Bowling Score?",
+    "Rules Of Bowling:",
+    "Score Calculations:",
+    "How Does This Bowling Score Calculator Work?",
+    "FAQs:",
+    "References:"
+   ],
+   "h3": [
+    "Strike:",
+    "Spare:",
+    "Open Frame:",
+    "10th Frame:",
+    "Frame 1:",
+    "Frame 2:",
+    "Frame 3:",
+    "Frame 4:",
+    "Frame 5:",
+    "Frame 6:",
+    "Frame 7:",
+    "Frame 8:",
+    "Frame 9:",
+    "Frame 10:",
+    "What Is Highest Range of Score in Bowling?",
+    "Is There Any Foul In Bowling?",
+    "What Is The Max Score Limit in Bowling?",
+    "Related Calculator"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Bowling Score Calculator"
+    }
+   ],
+   "wordCount": 10,
+   "avgSentenceWords": 10,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [],
+   "claims": [],
+   "schemaTypes": [],
+   "schemaFormats": [],
+   "tables": 1,
+   "lists": 0,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "hp_ref_code",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "input field",
+    "hp_ref_code"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 166,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 103,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 59,
+    "external": 6,
+    "contentInternal": 1,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "New Game"
+    ],
+    "internalSample": [
+     "https://www.calculatored.com/others/fun/bowling-score-calculator"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://apps.apple.com/us/app/id363594412": [
+   "unreachable (fetch failed)"
+  ],
+  "https://apps.apple.com/app/id363594412": [
+   "unreachable (fetch failed)"
+  ],
+  "https://miniwebtool.com/bowling-score-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.codeproject.com/Articles/1212051/Bowling-Calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://elysiatools.com/en/tools/bowling-score": [
+   "unreachable (fetch failed)"
+  ],
+  "https://milford.lib.de.us/2020/09/28/calculate-your-score-during-bowling": [
+   "unreachable (fetch failed)"
+  ],
+  "https://calculator.academy/bowling-score-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://hakaru.io/tools/bowling-score-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://cdcalculators.com/bowling-score-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://calculators.sg/bowling-score-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.myexcelonline.com/blog/bowling-score-calculator-in-excel/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://open.online.uga.edu/bowling/chapter/3-bowling-scoring": [
+   "unreachable (fetch failed)"
+  ],
+  "https://hakaru.io/guides/bowling-score-calculator-guide": [
+   "unreachable (fetch failed)"
+  ],
+  "https://legionreport.com/?p=32797": [
+   "unreachable (fetch failed)"
+  ],
+  "https://awesome.ecosyste.ms/projects/github.com%2Fpunkbit%2Fbowling_calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://agentcalc-cloudflare-public.pages.dev/bowling-score-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://mwm.ai/apps/bowling-calculator/1219153440": [
+   "unreachable (fetch failed)"
+  ],
+  "https://calculatored.com/others/fun/bowling-score-calculator": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

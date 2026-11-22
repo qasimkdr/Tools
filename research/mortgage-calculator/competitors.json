@@ -1,0 +1,1292 @@
+{
+ "pages": {
+  "https://www.calculatorsoup.com/calculators/financial/mortgage-payment-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/financial/mortgage-payment-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/financial/mortgage-payment-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T09:26:22.187Z",
+   "title": "Mortgage Payment Calculator with Taxes and Insurance",
+   "metaDescription": "Calculate total monthly mortgage payments on your home with taxes and insurance. Based on term of your mortgage, interest rate, loan amount, annual taxes and annual insurance, calculate your monthly payments.  Choose mortgage calculations for any number of years, months, amount and interest rate.  Pop up mortgage calculator.",
+   "canonical": "https://www.calculatorsoup.com/calculators/financial/mortgage-payment-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Mortgage Payment Calculator with Taxes and Insurance"
+   ],
+   "h2": [],
+   "h3": [
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Mortgage Payment Calculator with Taxes and Insurance"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 405,
+   "avgSentenceWords": 29,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "mortgage",
+     "weight": 21
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "payment",
+     "weight": 14
+    },
+    {
+     "term": "insurance",
+     "weight": 14
+    },
+    {
+     "term": "taxes",
+     "weight": 13
+    },
+    {
+     "term": "mortgage payment",
+     "weight": 12
+    },
+    {
+     "term": "payment calculator",
+     "weight": 11
+    },
+    {
+     "term": "monthly",
+     "weight": 8
+    },
+    {
+     "term": "calculators",
+     "weight": 7
+    },
+    {
+     "term": "financial",
+     "weight": 7
+    },
+    {
+     "term": "amount",
+     "weight": 6
+    },
+    {
+     "term": "interest",
+     "weight": 6
+    },
+    {
+     "term": "interest rate",
+     "weight": 6
+    },
+    {
+     "term": "rate",
+     "weight": 6
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators financial",
+     "weight": 5
+    },
+    {
+     "term": "insurance mortgage",
+     "weight": 5
+    },
+    {
+     "term": "mortgage term",
+     "weight": 5
+    },
+    {
+     "term": "escrow account",
+     "weight": 5
+    },
+    {
+     "term": "financial institution",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "term",
+     "weight": 4
+    },
+    {
+     "term": "annual",
+     "weight": 4
+    },
+    {
+     "term": "principal",
+     "weight": 4
+    },
+    {
+     "term": "calculating",
+     "weight": 4
+    },
+    {
+     "term": "mortgage amount",
+     "weight": 3
+    },
+    {
+     "term": "principal interest",
+     "weight": 3
+    },
+    {
+     "term": "total",
+     "weight": 3
+    },
+    {
+     "term": "total monthly",
+     "weight": 3
+    },
+    {
+     "term": "monthly payment",
+     "weight": 3
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 0,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Mortgage Amount $",
+    "Mortgage Term",
+    "Mortgage Term units",
+    "Annual Interest Rate %",
+    "Taxes per year $",
+    "Insurance per year $",
+    "reset"
+   ],
+   "selectOptionsSample": "months years",
+   "unitToggle": false,
+   "wordsBeforeTool": 28,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "August 1, 2025",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 51,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 19,
+    "external": 0,
+    "contentInternal": 9,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Financial",
+     "Loans",
+     "Mortgage Payment Calculator with Taxes and Insurance",
+     "Create an Amortization Schedule",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "mortgage calculator",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/financial/",
+     "https://www.calculatorsoup.com/calculators/financial/index-loan-calculators.php",
+     "https://www.calculatorsoup.com/calculators/financial/mortgage-payment-calculator.php",
+     "https://www.calculatorsoup.com/calculators/financial/amortization-schedule-calculator.php?actions=update&ipv=175,000&inper=360&iper=12&irate=4.1250&at=3,200.00&ai=520.00",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=financial%2F&folderName=Financial&folder2=financial%2Findex-loan-calculators.php&folderName2=Loans&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/financial/mortgage-payment-calculator.php&h1=Mortgage+Payment+Calculator+with+Taxes+and+Insurance&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/financial/mortgage-calculator.php"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com:443/finance/mortgage-calculator-with-taxes-and-insurance": {
+   "url": "https://www.omnicalculator.com:443/finance/mortgage-calculator-with-taxes-and-insurance",
+   "finalUrl": "https://www.omnicalculator.com/finance/mortgage",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T09:26:26.177Z",
+   "title": "Mortgage Calculator",
+   "metaDescription": "Mortgage calculator is a simple tool that helps you estimate the cost of your mortgage.",
+   "canonical": "https://www.omnicalculator.com/finance/mortgage",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Mortgage Calculator"
+   ],
+   "h2": [
+    "What is a mortgage?",
+    "How to choose a mortgage",
+    "How to use the mortgage calculator",
+    "Mortgage payment formula",
+    "Fixed vs. variable rate mortgage",
+    "Balloon payment mortgage",
+    "Reverse mortgage"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Mortgage Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is a mortgage?"
+    },
+    {
+     "level": 2,
+     "text": "How to choose a mortgage"
+    },
+    {
+     "level": 2,
+     "text": "How to use the mortgage calculator"
+    },
+    {
+     "level": 2,
+     "text": "Mortgage payment formula"
+    },
+    {
+     "level": 2,
+     "text": "Fixed vs. variable rate mortgage"
+    },
+    {
+     "level": 2,
+     "text": "Balloon payment mortgage"
+    },
+    {
+     "level": 2,
+     "text": "Reverse mortgage"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 4032,
+   "avgSentenceWords": 22,
+   "faqs": [
+    "What is a mortgage?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "mortgage",
+     "weight": 84
+    },
+    {
+     "term": "loan",
+     "weight": 56
+    },
+    {
+     "term": "interest",
+     "weight": 54
+    },
+    {
+     "term": "payment",
+     "weight": 50
+    },
+    {
+     "term": "rate",
+     "weight": 39
+    },
+    {
+     "term": "interest rate",
+     "weight": 24
+    },
+    {
+     "term": "amount",
+     "weight": 22
+    },
+    {
+     "term": "term",
+     "weight": 21
+    },
+    {
+     "term": "payments",
+     "weight": 21
+    },
+    {
+     "term": "monthly",
+     "weight": 21
+    },
+    {
+     "term": "reverse mortgage",
+     "weight": 20
+    },
+    {
+     "term": "calculator",
+     "weight": 18
+    },
+    {
+     "term": "home",
+     "weight": 17
+    },
+    {
+     "term": "value",
+     "weight": 17
+    },
+    {
+     "term": "principal",
+     "weight": 17
+    },
+    {
+     "term": "total",
+     "weight": 16
+    },
+    {
+     "term": "mortgage loan",
+     "weight": 15
+    },
+    {
+     "term": "bank",
+     "weight": 14
+    },
+    {
+     "term": "money",
+     "weight": 14
+    },
+    {
+     "term": "have",
+     "weight": 14
+    },
+    {
+     "term": "pay",
+     "weight": 14
+    },
+    {
+     "term": "down payment",
+     "weight": 14
+    },
+    {
+     "term": "example",
+     "weight": 13
+    },
+    {
+     "term": "property",
+     "weight": 13
+    },
+    {
+     "term": "reverse",
+     "weight": 13
+    },
+    {
+     "term": "need",
+     "weight": 13
+    },
+    {
+     "term": "balloon",
+     "weight": 11
+    },
+    {
+     "term": "years",
+     "weight": 11
+    },
+    {
+     "term": "there",
+     "weight": 11
+    },
+    {
+     "term": "loan term",
+     "weight": 11
+    }
+   ],
+   "claims": [
+    "Mortgage Calculator Home value Down payment Down payment in percentage Loan amount Interest rate Loan term Interest calculation method Payment frequency First day ​ Payment Your mortgage payoff date is 11/21/2056.",
+    "The total of the 360 mortgage payments is $246,249.06.",
+    "The total payable Private Mortgage Insurance (PMI) is $4,106.25, with a $56.25 periodic contribution, that needs to be paid until 11/21/2032.",
+    "Your total payment with all additional costs is $250,355.31.",
+    "Usually, one can take a loan for up to 20 or even 30 years, but some mortgages might last for 40 or 50 years.",
+    "For example, if your monthly payment is 200 dollars, but you decide to pay 100 dollars semi-monthly instead, the only gain comes from the compounding effect mentioned previously.",
+    "The accelerated bi-weekly payments are exactly half of the monthly payment but collected every second week that means on each 14th day of the amortization term.",
+    "For better insight, the below table summarizes the different payment scenarios with the resulting interest savings for a US mortgage of 100,000 dollars with a 5 percent interest rate and 20 years loan term.",
+    "Prepayment Frequency Periodic Payment Annual Payment Amortization Term Interest Savings Monthly $659.96 $7,920 20 years $0 Semi-monthly $329.63 $7,911 20 years $165 Bi-weekly $304.25 $7,911 20 years $177 Acc.",
+    "Real estate mortgage companies in the US typically require to involve in such agreement when the down payment is less than 20 percent of the home value."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 21,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Interest calculation method",
+    "Payment frequency",
+    "First day"
+   ],
+   "selectOptionsSample": "select semi-annually (canada) monthly (us & uk) select monthly semi-monthly bi-weekly accelerated bi-weekly weekly accelerated weekly",
+   "unitToggle": false,
+   "wordsBeforeTool": 19,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Mateusz Mucha",
+    "published": "2015-11-05T12:06:22.784Z",
+    "modified": "2025-10-03T16:54:28.768Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 1820,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 23,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Mortgage Payoff Calculator",
+     "Adjustable-rate mortgages (ARMs)",
+     "Bi-weekly mortgage payment",
+     "partially amortized loan calculator",
+     "Prorated Rent Calculator",
+     "Emergency Fund Calculator",
+     "Full-time Equivalent (FTE) Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/finance/mortgage-payoff",
+     "https://www.omnicalculator.com/finance/arm-mortgage",
+     "https://www.omnicalculator.com/finance/bi-weekly-mortgage-payment",
+     "https://www.omnicalculator.com/finance/partially-amortized-loan",
+     "https://www.omnicalculator.com/finance/prorated-rent",
+     "https://www.omnicalculator.com/finance/emergency-fund",
+     "https://www.omnicalculator.com/finance/full-time-equivalent"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/mortgage-calculator.html": {
+   "url": "https://www.calculator.net/mortgage-calculator.html",
+   "finalUrl": "https://www.calculator.net/mortgage-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T09:30:51.690Z",
+   "title": "Mortgage Calculator",
+   "metaDescription": "Free mortgage calculator to find monthly payment, total home ownership cost, and amortization schedule with options for taxes, PMI, HOA, and early payoff.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Mortgage Calculator"
+   ],
+   "h2": [
+    "Monthly Pay: $2,171.04",
+    "Amortization schedule"
+   ],
+   "h3": [
+    "Mortgages",
+    "Mortgage Calculator Components",
+    "Costs Associated with Home Ownership and Mortgages",
+    "Early Repayment and Extra Payments",
+    "Brief History of Mortgages in the U.S."
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Mortgage Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Monthly Pay: $2,171.04"
+    },
+    {
+     "level": 2,
+     "text": "Amortization schedule"
+    },
+    {
+     "level": 3,
+     "text": "Mortgages"
+    },
+    {
+     "level": 3,
+     "text": "Mortgage Calculator Components"
+    },
+    {
+     "level": 3,
+     "text": "Costs Associated with Home Ownership and Mortgages"
+    },
+    {
+     "level": 3,
+     "text": "Early Repayment and Extra Payments"
+    },
+    {
+     "level": 3,
+     "text": "Brief History of Mortgages in the U.S."
+    }
+   ],
+   "wordCount": 2725,
+   "avgSentenceWords": 21,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "mortgage",
+     "weight": 41
+    },
+    {
+     "term": "interest",
+     "weight": 27
+    },
+    {
+     "term": "costs",
+     "weight": 27
+    },
+    {
+     "term": "loan",
+     "weight": 26
+    },
+    {
+     "term": "payment",
+     "weight": 22
+    },
+    {
+     "term": "property",
+     "weight": 21
+    },
+    {
+     "term": "home",
+     "weight": 18
+    },
+    {
+     "term": "payments",
+     "weight": 18
+    },
+    {
+     "term": "down payment",
+     "weight": 15
+    },
+    {
+     "term": "borrower",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "down",
+     "weight": 14
+    },
+    {
+     "term": "rate",
+     "weight": 14
+    },
+    {
+     "term": "pay",
+     "weight": 14
+    },
+    {
+     "term": "mortgages",
+     "weight": 14
+    },
+    {
+     "term": "borrowers",
+     "weight": 14
+    },
+    {
+     "term": "extra payments",
+     "weight": 14
+    },
+    {
+     "term": "insurance",
+     "weight": 13
+    },
+    {
+     "term": "extra",
+     "weight": 12
+    },
+    {
+     "term": "amount",
+     "weight": 11
+    },
+    {
+     "term": "interest rate",
+     "weight": 11
+    },
+    {
+     "term": "home insurance",
+     "weight": 11
+    },
+    {
+     "term": "financial",
+     "weight": 10
+    },
+    {
+     "term": "cost",
+     "weight": 10
+    },
+    {
+     "term": "monthly",
+     "weight": 10
+    },
+    {
+     "term": "mortgage calculator",
+     "weight": 9
+    },
+    {
+     "term": "term",
+     "weight": 9
+    },
+    {
+     "term": "annual",
+     "weight": 9
+    },
+    {
+     "term": "fee",
+     "weight": 9
+    },
+    {
+     "term": "year",
+     "weight": 9
+    }
+   ],
+   "claims": [
+    "In essence, the lender helps the buyer pay the seller of a house, and the buyer agrees to repay the money borrowed over a period of time, usually 15 or 30 years in the U.S.",
+    "In the U.S., the most common mortgage loan is the conventional 30-year fixed-interest loan, which represents 70% to 90% of all mortgages.",
+    "Typically, mortgage lenders want the borrower to put 20% or more as a down payment.",
+    "If the borrowers make a down payment of less than 20%, they will be required to pay private mortgage insurance (PMI).",
+    "Borrowers need to hold this insurance until the loan's remaining principal dropped below 80% of the home's original purchase price.",
+    "Most fixed-rate mortgages are for 15, 20, or 30-year terms.",
+    "Therefore, the initial interest rates are normally 0.5% to 2% lower than FRM with the same loan term.",
+    "For example, if a mortgage rate is 6% APR, it means the borrower will have to pay 6% divided by twelve, which comes out to 0.5% in interest every month.",
+    "All 50 states impose taxes on property at the local level.",
+    "With 52 weeks in a year, this amounts to 26 payments or 13 months of mortgage repayments during the year."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 8,
+   "lists": 6,
+   "images": 11,
+   "videos": 0,
+   "calculatorInputs": [
+    "chouseprice",
+    "cdownpayment",
+    "cdownpaymentunit",
+    "cloanterm",
+    "cinterestrate",
+    "cstartmonth",
+    "cstartyear",
+    "Include Taxes & Costs Below",
+    "cpropertytaxes",
+    "cpropertytaxesunit",
+    "chomeins",
+    "chomeinsunit",
+    "cpmi",
+    "cpmiunit",
+    "choa",
+    "choaunit",
+    "cothercost",
+    "cothercostunit",
+    "cptinc",
+    "chiinc",
+    "choainc",
+    "cocinc",
+    "cexma",
+    "cexmsm",
+    "cexmsy",
+    "cexya",
+    "cexysm",
+    "cexysy",
+    "cexoa",
+    "cexosm",
+    "cexosy",
+    "xa1",
+    "xm1",
+    "xy1",
+    "xa2",
+    "xm2",
+    "xy2",
+    "xa3",
+    "xm3",
+    "xy3"
+   ],
+   "selectOptionsSample": "% $ jan feb mar apr may jun jul aug sep oct nov dec % $ % $ % $ % $ % $ jan feb mar apr may jun jul aug sep oct nov dec jan feb mar apr may jun jul aug sep oct nov dec jan feb mar apr may jun jul aug sep oct nov dec jan feb mar apr may jun jul aug sep oct nov dec jan feb mar apr may jun jul aug sep ",
+   "unitToggle": false,
+   "wordsBeforeTool": 13,
+   "actions": {
+    "print": true,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 108,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 30,
+    "external": 0,
+    "contentInternal": 30,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "financial",
+     "mortgage calculator",
+     "Print",
+     "+ More Options",
+     "Additional One-Time Payments",
+     "House Affordability Calculator",
+     "Financial Calculators",
+     "Mortgage",
+     "Loan",
+     "Auto Loan",
+     "Interest",
+     "Payment",
+     "Retirement",
+     "Amortization",
+     "Investment",
+     "Currency",
+     "Inflation",
+     "Finance"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/mortgage-calculator.html",
+     "https://www.calculator.net/mortgage-calculator.html#",
+     "https://www.calculator.net/house-affordability-calculator.html",
+     "https://www.calculator.net/loan-calculator.html",
+     "https://www.calculator.net/auto-loan-calculator.html",
+     "https://www.calculator.net/interest-calculator.html",
+     "https://www.calculator.net/payment-calculator.html",
+     "https://www.calculator.net/retirement-calculator.html",
+     "https://www.calculator.net/amortization-calculator.html",
+     "https://www.calculator.net/investment-calculator.html",
+     "https://www.calculator.net/currency-calculator.html",
+     "https://www.calculator.net/inflation-calculator.html",
+     "https://www.calculator.net/finance-calculator.html",
+     "https://www.calculator.net/mortgage-payoff-calculator.html",
+     "https://www.calculator.net/tax-calculator.html",
+     "https://www.calculator.net/compound-interest-calculator.html",
+     "https://www.calculator.net/salary-calculator.html",
+     "https://www.calculator.net/401k-calculator.html",
+     "https://www.calculator.net/interest-rate-calculator.html",
+     "https://www.calculator.net/sales-tax-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.io/mortgage-calculator/": {
+   "url": "https://www.calculator.io/mortgage-calculator/",
+   "finalUrl": "https://www.calculator.io/mortgage-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.calculator.io",
+   "fetchedAt": "2026-11-22T09:30:54.799Z",
+   "title": "Mortgage Calculator",
+   "metaDescription": "Calculate your monthly mortgage payments instantly. Our free mortgage calculator includes taxes, PMI, HOA, and amortization schedules for smarter home buying.",
+   "canonical": "https://www.calculator.io/mortgage-calculator/",
+   "robotsMeta": "index, follow",
+   "lang": "en",
+   "h1": [
+    "Mortgage Calculator"
+   ],
+   "h2": [
+    "A Complete Guide to Mortgages and the True Costs of Homeownership",
+    "Table of Contents",
+    "Mortgages",
+    "Components of a Mortgage Calculator",
+    "Costs of Owning a Home and Getting a Mortgage",
+    "Repayment Ahead of Schedule and Additional Funds",
+    "Strategies for Paying Off Debt Early",
+    "Reasons for paying back a loan early",
+    "The downsides of paying off debts early",
+    "A brief history of mortgages in the United States",
+    "Frequently Asked Questions"
+   ],
+   "h3": [
+    "Recurring Expenses",
+    "Non-recurring expenses",
+    "Extra payments",
+    "Biweekly payment",
+    "Refinancing into a shorter term loan",
+    "What does the mortgage calculator include besides principal and interest?",
+    "When do I have to pay PMI on a mortgage?",
+    "How much down payment do I need for a mortgage?",
+    "Is a 15-year or 30-year mortgage better?",
+    "Can extra mortgage payments help me pay off the loan early?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Mortgage Calculator"
+    },
+    {
+     "level": 2,
+     "text": "A Complete Guide to Mortgages and the True Costs of Homeownership"
+    },
+    {
+     "level": 2,
+     "text": "Table of Contents"
+    },
+    {
+     "level": 2,
+     "text": "Mortgages"
+    },
+    {
+     "level": 2,
+     "text": "Components of a Mortgage Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Costs of Owning a Home and Getting a Mortgage"
+    },
+    {
+     "level": 3,
+     "text": "Recurring Expenses"
+    },
+    {
+     "level": 3,
+     "text": "Non-recurring expenses"
+    },
+    {
+     "level": 2,
+     "text": "Repayment Ahead of Schedule and Additional Funds"
+    },
+    {
+     "level": 2,
+     "text": "Strategies for Paying Off Debt Early"
+    },
+    {
+     "level": 3,
+     "text": "Extra payments"
+    },
+    {
+     "level": 3,
+     "text": "Biweekly payment"
+    },
+    {
+     "level": 3,
+     "text": "Refinancing into a shorter term loan"
+    },
+    {
+     "level": 2,
+     "text": "Reasons for paying back a loan early"
+    },
+    {
+     "level": 2,
+     "text": "The downsides of paying off debts early"
+    },
+    {
+     "level": 2,
+     "text": "A brief history of mortgages in the United States"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "What does the mortgage calculator include besides principal and interest?"
+    },
+    {
+     "level": 3,
+     "text": "When do I have to pay PMI on a mortgage?"
+    },
+    {
+     "level": 3,
+     "text": "How much down payment do I need for a mortgage?"
+    },
+    {
+     "level": 3,
+     "text": "Is a 15-year or 30-year mortgage better?"
+    },
+    {
+     "level": 3,
+     "text": "Can extra mortgage payments help me pay off the loan early?"
+    }
+   ],
+   "wordCount": 8397,
+   "avgSentenceWords": 52,
+   "faqs": [
+    "What does the mortgage calculator include besides principal and interest?",
+    "When do I have to pay PMI on a mortgage?",
+    "How much down payment do I need for a mortgage?",
+    "Is a 15-year or 30-year mortgage better?",
+    "Can extra mortgage payments help me pay off the loan early?"
+   ],
+   "faqSchemaCount": 5,
+   "topics": [
+    {
+     "term": "jun",
+     "weight": 60
+    },
+    {
+     "term": "mortgage",
+     "weight": 59
+    },
+    {
+     "term": "year",
+     "weight": 47
+    },
+    {
+     "term": "loan",
+     "weight": 44
+    },
+    {
+     "term": "interest",
+     "weight": 37
+    },
+    {
+     "term": "apr",
+     "weight": 35
+    },
+    {
+     "term": "payment",
+     "weight": 31
+    },
+    {
+     "term": "jul",
+     "weight": 30
+    },
+    {
+     "term": "aug",
+     "weight": 30
+    },
+    {
+     "term": "sep",
+     "weight": 30
+    },
+    {
+     "term": "oct",
+     "weight": 30
+    },
+    {
+     "term": "nov",
+     "weight": 30
+    },
+    {
+     "term": "dec",
+     "weight": 30
+    },
+    {
+     "term": "jan",
+     "weight": 30
+    },
+    {
+     "term": "feb",
+     "weight": 30
+    },
+    {
+     "term": "mar",
+     "weight": 30
+    },
+    {
+     "term": "end",
+     "weight": 30
+    },
+    {
+     "term": "calculator",
+     "weight": 28
+    },
+    {
+     "term": "home",
+     "weight": 26
+    },
+    {
+     "term": "costs",
+     "weight": 26
+    },
+    {
+     "term": "down payment",
+     "weight": 21
+    },
+    {
+     "term": "payments",
+     "weight": 20
+    },
+    {
+     "term": "down",
+     "weight": 18
+    },
+    {
+     "term": "rate",
+     "weight": 18
+    },
+    {
+     "term": "property",
+     "weight": 18
+    },
+    {
+     "term": "calculator finance",
+     "weight": 18
+    },
+    {
+     "term": "insurance",
+     "weight": 16
+    },
+    {
+     "term": "principal",
+     "weight": 16
+    },
+    {
+     "term": "monthly",
+     "weight": 15
+    },
+    {
+     "term": "finance",
+     "weight": 15
+    }
+   ],
+   "claims": [
+    "The 30-year fixed-rate mortgage is the most prevalent home loan type in the United States.",
+    "Fixed-rate mortgages typically offer repayment terms of 15, 20, or 30 years.",
+    "Shorter repayment terms, such as 15 or 20 years, generally secure lower interest rates and result in far less total interest paid over time.",
+    "Traditional mortgage lenders generally require a down payment of at least 20% of the total loan amount.",
+    "Borrowers will be required to purchase private mortgage insurance (PMI) if their down payment is less than 20%.",
+    "You must maintain this mandatory insurance coverage until the loan’s outstanding principal balance drops below 80% of the home’s initial purchase price.",
+    "Because ARMs shift some of the ongoing interest rate risk to the borrower, their starting rates are typically 0.5-2% lower than those of comparable FRMs with the exact same loan term.",
+    "For example, if your mortgage rate is 6% APR, you will pay 6% divided by twelve, resulting in 0.5% interest charged on your outstanding balance each month.",
+    "In the United States, property tax is typically handled by local or county governments and is levied in all 50 states.",
+    "spend approximately 1.1 percent of their property's assessed value on real estate taxes each year."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "BreadcrumbList",
+    "WebApplication",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 3,
+   "lists": 4,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Link",
+    "date"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": true,
+   "wordsBeforeTool": 106,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": "2026-07-21T20:51:30+05:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 161,
+    "adNetworks": [
+     "adsense"
+    ],
+    "adSlots": 6,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 67,
+    "external": 1,
+    "contentInternal": 27,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Loan Calculator Finance",
+     "Amortization Calculator Finance",
+     "Mortgage Payment Calculator Finance",
+     "Refinance Calculator Finance",
+     "APR Calculator Finance",
+     "Home Loan Calculator Finance",
+     "FHA Loan Calculator Finance",
+     "Mortgages",
+     "Components of a Mortgage Calculator",
+     "Costs of Owning a Home and Getting a Mortgage",
+     "Recurring Expenses",
+     "Non-recurring expenses",
+     "Repayment Ahead of Schedule and Additional Funds",
+     "Strategies for Paying Off Debt Early",
+     "Extra payments",
+     "Biweekly payment",
+     "Refinancing into a shorter term loan",
+     "Reasons for paying back a loan early",
+     "The downsides of paying off debts early",
+     "A brief history of mortgages in the United States"
+    ],
+    "internalSample": [
+     "https://www.calculator.io/ask-ai/",
+     "https://www.calculator.io/loan-calculator/",
+     "https://www.calculator.io/amortization-calculator/",
+     "https://www.calculator.io/mortgage-payment-calculator/",
+     "https://www.calculator.io/refinance-calculator/",
+     "https://www.calculator.io/apr-calculator/",
+     "https://www.calculator.io/home-loan-calculator/",
+     "https://www.calculator.io/fha-loan-calculator/",
+     "https://www.calculator.io/mortgage-calculator/#mortgages-1",
+     "https://www.calculator.io/mortgage-calculator/#components-of-a-mortgage-calculator-2",
+     "https://www.calculator.io/mortgage-calculator/#costs-of-owning-a-home-and-getting-a-mortgage-3",
+     "https://www.calculator.io/mortgage-calculator/#recurring-expenses-4",
+     "https://www.calculator.io/mortgage-calculator/#non-recurring-expenses-5",
+     "https://www.calculator.io/mortgage-calculator/#repayment-ahead-of-schedule-and-additional-funds-6",
+     "https://www.calculator.io/mortgage-calculator/#strategies-for-paying-off-debt-early-7",
+     "https://www.calculator.io/mortgage-calculator/#extra-payments-8",
+     "https://www.calculator.io/mortgage-calculator/#biweekly-payment-9",
+     "https://www.calculator.io/mortgage-calculator/#refinancing-into-a-shorter-term-loan-10",
+     "https://www.calculator.io/mortgage-calculator/#reasons-for-paying-back-a-loan-early-11",
+     "https://www.calculator.io/mortgage-calculator/#the-downsides-of-paying-off-debts-early-12",
+     "https://www.calculator.io/mortgage-calculator/#a-brief-history-of-mortgages-in-the-united-states-13",
+     "https://www.calculator.io/mortgage-calculator/#frequently-asked-questions-14",
+     "https://www.calculator.io/mortgage-calculator/#what-does-the-mortgage-calculator-include-besides-principal-and-interest-15",
+     "https://www.calculator.io/mortgage-calculator/#when-do-i-have-to-pay-pmi-on-a-mortgage-16",
+     "https://www.calculator.io/mortgage-calculator/#how-much-down-payment-do-i-need-for-a-mortgage-17"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.lendingtree.com/home/mortgage/mortgage-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.sofi.com/mortgage-calculator-with-taxes-and-insurance/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.dev.lendingtree.com/home/mortgage/mortgage-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.sofi.com/mortgage-calculator-taxes/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.movoto.com/blog/?p=50274": [
+   "unreachable (fetch failed)"
+  ],
+  "https://trulia.com/blog/3-reasons-to-use-a-mortgage-calculator-with-insurance-and-taxes": [
+   "unreachable (fetch failed)"
+  ],
+  "https://smartasset.com/mortgage/mortgage-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.nerdwallet.com/mortgages/calculators/mortgage-calculator?trk=nw_gn_5.0": [
+   "disallowed by robots.txt"
+  ]
+ }
+}

@@ -1,0 +1,1009 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/math/square-root": {
+   "url": "https://www.omnicalculator.com/math/square-root",
+   "finalUrl": "https://www.omnicalculator.com/math/square-root",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T09:25:01.950Z",
+   "title": "Square Root Calculator",
+   "metaDescription": "Square root calculator helps you find the square root of any positive number.",
+   "canonical": "https://www.omnicalculator.com/math/square-root",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Square Root Calculator"
+   ],
+   "h2": [
+    "Square root symbol √",
+    "Why are square roots called this way?",
+    "Square root definition",
+    "How to find the square root",
+    "Square root calculator",
+    "How to simplify square roots",
+    "Adding, subtracting, multiplying and dividing square roots",
+    "Square roots of powers and fractions",
+    "Square root function and graph",
+    "Derivative of the square root",
+    "Square root of a negative number",
+    "FAQs"
+   ],
+   "h3": [
+    "Can a number have more than one square root?",
+    "How do you find the square root without a calculator?",
+    "How can I estimate square roots?",
+    "Is the square root of 2 a rational number?",
+    "How can I get rid of a square root?",
+    "Are square roots rational?",
+    "Is the square root of 5 a rational number?",
+    "Is the square root of 7 a rational number?",
+    "What is the derivative of the square root of x?",
+    "How do you find the square root of a decimal?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Square Root Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Square root symbol √"
+    },
+    {
+     "level": 2,
+     "text": "Why are square roots called this way?"
+    },
+    {
+     "level": 2,
+     "text": "Square root definition"
+    },
+    {
+     "level": 2,
+     "text": "How to find the square root"
+    },
+    {
+     "level": 2,
+     "text": "Square root calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to simplify square roots"
+    },
+    {
+     "level": 2,
+     "text": "Adding, subtracting, multiplying and dividing square roots"
+    },
+    {
+     "level": 2,
+     "text": "Square roots of powers and fractions"
+    },
+    {
+     "level": 2,
+     "text": "Square root function and graph"
+    },
+    {
+     "level": 2,
+     "text": "Derivative of the square root"
+    },
+    {
+     "level": 2,
+     "text": "Square root of a negative number"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "Can a number have more than one square root?"
+    },
+    {
+     "level": 3,
+     "text": "How do you find the square root without a calculator?"
+    },
+    {
+     "level": 3,
+     "text": "How can I estimate square roots?"
+    },
+    {
+     "level": 3,
+     "text": "Is the square root of 2 a rational number?"
+    },
+    {
+     "level": 3,
+     "text": "How can I get rid of a square root?"
+    },
+    {
+     "level": 3,
+     "text": "Are square roots rational?"
+    },
+    {
+     "level": 3,
+     "text": "Is the square root of 5 a rational number?"
+    },
+    {
+     "level": 3,
+     "text": "Is the square root of 7 a rational number?"
+    },
+    {
+     "level": 3,
+     "text": "What is the derivative of the square root of x?"
+    },
+    {
+     "level": 3,
+     "text": "How do you find the square root of a decimal?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 5085,
+   "avgSentenceWords": 19,
+   "faqs": [
+    "Can a number have more than one square root?",
+    "How do you find the square root without a calculator?",
+    "How can I estimate square roots?",
+    "Is the square root of 2 a rational number?",
+    "How can I get rid of a square root?",
+    "Are square roots rational?",
+    "Is the square root of 5 a rational number?",
+    "Is the square root of 7 a rational number?",
+    "What is the derivative of the square root of x?",
+    "How do you find the square root of a decimal?",
+    "Why are square roots called this way?",
+    "Can you simplify √27?",
+    "How about √15?"
+   ],
+   "faqSchemaCount": 10,
+   "topics": [
+    {
+     "term": "square",
+     "weight": 193
+    },
+    {
+     "term": "square root",
+     "weight": 177
+    },
+    {
+     "term": "root",
+     "weight": 144
+    },
+    {
+     "term": "square roots",
+     "weight": 78
+    },
+    {
+     "term": "roots",
+     "weight": 70
+    },
+    {
+     "term": "number",
+     "weight": 64
+    },
+    {
+     "term": "numbers",
+     "weight": 29
+    },
+    {
+     "term": "have",
+     "weight": 22
+    },
+    {
+     "term": "find",
+     "weight": 21
+    },
+    {
+     "term": "answer",
+     "weight": 20
+    },
+    {
+     "term": "simplify",
+     "weight": 20
+    },
+    {
+     "term": "calculator",
+     "weight": 18
+    },
+    {
+     "term": "perfect",
+     "weight": 18
+    },
+    {
+     "term": "first",
+     "weight": 18
+    },
+    {
+     "term": "perfect square",
+     "weight": 17
+    },
+    {
+     "term": "negative",
+     "weight": 16
+    },
+    {
+     "term": "derivative",
+     "weight": 15
+    },
+    {
+     "term": "since",
+     "weight": 15
+    },
+    {
+     "term": "example",
+     "weight": 15
+    },
+    {
+     "term": "symbol",
+     "weight": 13
+    },
+    {
+     "term": "let's",
+     "weight": 13
+    },
+    {
+     "term": "estimate",
+     "weight": 12
+    },
+    {
+     "term": "root symbol",
+     "weight": 12
+    },
+    {
+     "term": "function",
+     "weight": 12
+    },
+    {
+     "term": "result",
+     "weight": 12
+    },
+    {
+     "term": "same",
+     "weight": 12
+    },
+    {
+     "term": "fraction",
+     "weight": 12
+    },
+    {
+     "term": "rational",
+     "weight": 12
+    },
+    {
+     "term": "because",
+     "weight": 11
+    },
+    {
+     "term": "root calculator",
+     "weight": 11
+    }
+   ],
+   "claims": [
+    "Check out 78 similar arithmetic calculators ➗ GCF Modulo Average Build your calculator with Builder Add as preferred on Google Our square root calculator estimates the square root of any positive number you want.",
+    "Thus, square roots are ubiquitous in planar geometry, while cube roots appear frequently in 3-dimensional geometry.",
+    "By contrast, 0 has only one root — itself.",
+    "Let's say that you want to estimate the square root of 52: You know that √49 = 7 and √64 = 8, so √52 should be between 7 and 8.",
+    "Then, you square 7.3, obtaining 7.3² = 53.29 (as the square root formula says), which is higher than 52.",
+    "Let's try and find the square root of 52 again.",
+    "You can simplify it to √52 = 2√13 (you will learn how to simplify square roots in the next section) and then substitute √13 ≈ 3.61.",
+    "For example, if you enter 17 in the second field, you will find out that 289 is a perfect square.",
+    "Suppose that the radicand has a perfect square factor, i.e., 4, 9, 16, 25, 36, 49, 64, and so on (these numbers can be respectively expressed as 2², 3², 4², 5², 6², 7², hence the name).",
+    "Then, you can simplify the square root by following these steps: Write down the radicand as a product of a perfect square and another number: in our case, this would be 8 = 4 × 2 because 4 = 2² is a perfect square."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 18,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Dominik Czernia",
+    "published": "2015-11-23T09:30:35.178Z",
+    "modified": "2026-07-09T09:02:11.214Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 526,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 24,
+    "external": 1,
+    "contentInternal": 8,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "radical calculator",
+     "scientific notation calculator",
+     "cube root",
+     "simplifying radicals calculator",
+     "derivative of the square root",
+     "distance",
+     "Least Common Multiple Calculator",
+     "Absolute Value Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/math/radical",
+     "https://www.omnicalculator.com/math/scientific-notation",
+     "https://www.omnicalculator.com/math/cube-root",
+     "https://www.omnicalculator.com/math/simplify-radicals",
+     "https://www.omnicalculator.com/math/square-root#derivative-of-the-square-root",
+     "https://www.omnicalculator.com/math/distance",
+     "https://www.omnicalculator.com/math/least-common-multiple",
+     "https://www.omnicalculator.com/math/absolute-value"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/algebra/squareroots.php": {
+   "url": "https://www.calculatorsoup.com/calculators/algebra/squareroots.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/algebra/squareroots.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T09:30:38.598Z",
+   "title": "Square Root Calculator",
+   "metaDescription": "Square root calculator and perfect square calculator. Find the square root, or the two roots, including the principal root, of positive and negative real numbers. Calculate the positive principal root and negative root of positive real numbers.  Also tells you if the entered number is a perfect square.",
+   "canonical": "https://www.calculatorsoup.com/calculators/algebra/squareroots.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Square Root Calculator"
+   ],
+   "h2": [
+    "Square Roots, odd and even:",
+    "Perfect Square Calculator",
+    "Example Square Roots:"
+   ],
+   "h3": [
+    "References",
+    "Additional reading on square roots:",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Square Root Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Square Roots, odd and even:"
+    },
+    {
+     "level": 2,
+     "text": "Perfect Square Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Example Square Roots:"
+    },
+    {
+     "level": 3,
+     "text": "References"
+    },
+    {
+     "level": 3,
+     "text": "Additional reading on square roots:"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 546,
+   "avgSentenceWords": 21,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "square",
+     "weight": 35
+    },
+    {
+     "term": "square root",
+     "weight": 32
+    },
+    {
+     "term": "root",
+     "weight": 27
+    },
+    {
+     "term": "calculator",
+     "weight": 17
+    },
+    {
+     "term": "square roots",
+     "weight": 14
+    },
+    {
+     "term": "roots",
+     "weight": 12
+    },
+    {
+     "term": "sqrt",
+     "weight": 11
+    },
+    {
+     "term": "number",
+     "weight": 8
+    },
+    {
+     "term": "root calculator",
+     "weight": 8
+    },
+    {
+     "term": "perfect square",
+     "weight": 8
+    },
+    {
+     "term": "calculators",
+     "weight": 6
+    },
+    {
+     "term": "principal square",
+     "weight": 6
+    },
+    {
+     "term": "real",
+     "weight": 6
+    },
+    {
+     "term": "perfect",
+     "weight": 6
+    },
+    {
+     "term": "2nd root",
+     "weight": 6
+    },
+    {
+     "term": "positive",
+     "weight": 5
+    },
+    {
+     "term": "radical",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators algebra",
+     "weight": 5
+    },
+    {
+     "term": "real numbers",
+     "weight": 5
+    },
+    {
+     "term": "real number",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "algebra",
+     "weight": 4
+    },
+    {
+     "term": "principal",
+     "weight": 4
+    },
+    {
+     "term": "negative",
+     "weight": 4
+    },
+    {
+     "term": "example",
+     "weight": 4
+    },
+    {
+     "term": "2nd",
+     "weight": 4
+    },
+    {
+     "term": "written",
+     "weight": 4
+    },
+    {
+     "term": "calculator square",
+     "weight": 3
+    },
+    {
+     "term": "roots calculator",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "Square Roots, odd and even: There are 2 possible roots for any positive real number.",
+    "Given a number x, the square root of x is a number a such that a2 = x.",
+    "For example, the square roots of 9 are -3 and +3, since (-3)2 = (+3)2 = 9.",
+    "For example, the principal square root of 9 is sqrt(9) = +3, while the other square root of 9 is -sqrt(9) = -3.",
+    "In common usage, unless otherwise specified, \"the\" square root is generally taken to mean the principal square root.\"[1].",
+    "A perfect square is a number x where the square root of x is a number a such that a2 = x and a is an integer.",
+    "For example, 4, 9 and 16 are perfect squares since their square roots, 2, 3 and 4, respectively, are integers."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 1,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "x =",
+    "reset"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 24,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "October 1, 2026",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 52,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 19,
+    "external": 4,
+    "contentInternal": 9,
+    "contentExternal": 4,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Algebra",
+     "Square Root Calculator",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Simplify Radical Expressions Calculator",
+     "roots calculator",
+     "Fractional Exponents",
+     "https://www.calculatorsoup.com/calculators/algebra/squareroots.php",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/algebra/",
+     "https://www.calculatorsoup.com/calculators/algebra/squareroots.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=algebra%2F&folderName=Algebra&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/algebra/squareroots.php&h1=Square+Root+Calculator&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/algebra/radicals-simplify.php",
+     "https://www.calculatorsoup.com/calculators/algebra/radical.php",
+     "https://www.calculatorsoup.com/calculators/algebra/exponent-fractions.php"
+    ],
+    "externalSample": [
+     "http://mathworld.wolfram.com/about/author.html",
+     "http://mathworld.wolfram.com/",
+     "http://mathworld.wolfram.com/SquareRoot.html",
+     "http://www.mathsisfun.com/square-root.html"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/root-calculator.html": {
+   "url": "https://www.calculator.net/root-calculator.html",
+   "finalUrl": "https://www.calculator.net/root-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T09:30:41.593Z",
+   "title": "Root Calculator",
+   "metaDescription": "This free root calculator determines the roots of numbers, including common roots such as a square root or a cubed root.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Root Calculator"
+   ],
+   "h2": [
+    "Square Root Calculator",
+    "Cube Root Calculator",
+    "General Root Calculator"
+   ],
+   "h3": [
+    "Estimating a Root",
+    "Estimating an nth Root"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Root Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Square Root Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Cube Root Calculator"
+    },
+    {
+     "level": 2,
+     "text": "General Root Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Estimating a Root"
+    },
+    {
+     "level": 3,
+     "text": "Estimating an nth Root"
+    }
+   ],
+   "wordCount": 411,
+   "avgSentenceWords": 22,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "root",
+     "weight": 11
+    },
+    {
+     "term": "calculator",
+     "weight": 10
+    },
+    {
+     "term": "number",
+     "weight": 8
+    },
+    {
+     "term": "roots",
+     "weight": 8
+    },
+    {
+     "term": "root calculator",
+     "weight": 8
+    },
+    {
+     "term": "math",
+     "weight": 6
+    },
+    {
+     "term": "nth",
+     "weight": 6
+    },
+    {
+     "term": "nth roots",
+     "weight": 6
+    },
+    {
+     "term": "square",
+     "weight": 5
+    },
+    {
+     "term": "decimal",
+     "weight": 5
+    },
+    {
+     "term": "square roots",
+     "weight": 5
+    },
+    {
+     "term": "decimal places",
+     "weight": 5
+    },
+    {
+     "term": "square root",
+     "weight": 3
+    },
+    {
+     "term": "general root",
+     "weight": 3
+    },
+    {
+     "term": "nth root",
+     "weight": 3
+    },
+    {
+     "term": "estimating",
+     "weight": 3
+    },
+    {
+     "term": "calculating",
+     "weight": 3
+    },
+    {
+     "term": "precise",
+     "weight": 3
+    },
+    {
+     "term": "calculate",
+     "weight": 3
+    },
+    {
+     "term": "method",
+     "weight": 3
+    },
+    {
+     "term": "estimate",
+     "weight": 3
+    },
+    {
+     "term": "desired decimal",
+     "weight": 3
+    },
+    {
+     "term": "decimal place",
+     "weight": 3
+    },
+    {
+     "term": "place stop",
+     "weight": 3
+    },
+    {
+     "term": "stop average",
+     "weight": 3
+    },
+    {
+     "term": "guess",
+     "weight": 3
+    },
+    {
+     "term": "repeat step",
+     "weight": 3
+    },
+    {
+     "term": "places",
+     "weight": 3
+    },
+    {
+     "term": "places guess",
+     "weight": 3
+    },
+    {
+     "term": "calculating nth",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "In equation format: n√a = b bn = a Estimating a Root Some common roots include the square root, where n = 2, and the cubed root, where n = 3."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 6,
+   "lists": 2,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "cvar1",
+    "cvar2",
+    "cvar3",
+    "cvar4"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 14,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": [
+     "https://en.wikipedia.org/wiki/Nth_root"
+    ]
+   },
+   "ux": {
+    "htmlKB": 10,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 20,
+    "external": 1,
+    "contentInternal": 20,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "math",
+     "root calculator",
+     "Exponent Calculator",
+     "Scientific Calculator",
+     "Log Calculator",
+     "Math Calculators",
+     "Scientific",
+     "Fraction",
+     "Percentage",
+     "Triangle",
+     "Volume",
+     "Standard Deviation",
+     "Random Number Generator",
+     "More Math Calculators",
+     "Financial",
+     "Fitness and Health",
+     "Math",
+     "Other"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/root-calculator.html",
+     "https://www.calculator.net/exponent-calculator.html",
+     "https://www.calculator.net/scientific-calculator.html",
+     "https://www.calculator.net/log-calculator.html",
+     "https://www.calculator.net/fraction-calculator.html",
+     "https://www.calculator.net/percent-calculator.html",
+     "https://www.calculator.net/triangle-calculator.html",
+     "https://www.calculator.net/volume-calculator.html",
+     "https://www.calculator.net/standard-deviation-calculator.html",
+     "https://www.calculator.net/random-number-generator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": [
+     "https://en.wikipedia.org/wiki/Nth_root"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://dqydj.com/square-root-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://dqydj.com/?p=16263": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.gigacalculator.com/calculators/square-root-calculator.php": [
+   "disallowed by robots.txt"
+  ],
+  "https://calculatorsoup.com/calculators/algebra/squareroots.php": [
+   "unreachable (fetch failed)"
+  ],
+  "https://online.visual-paradigm.com/tabular/calculator/math/square-root-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://online.visual-paradigm.com/spreadsheet-editor/calculator/square-root-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.miniwebtool.com/square-root-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://lastminuteengineers.com/square-root-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.jainuniversity.ac.in/resources/calculator/square-root-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.cuemath.com/calculators/square-root-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.gigacalculator.com/calculators/square-root-calculator.php?number=3": [
+   "disallowed by robots.txt"
+  ],
+  "https://calculator.io/square-root-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://testbook.com/amp/calculators/square-root-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://github.com/pub-calculator-io/square-root-calculator": [
+   "HTTP 403"
+  ],
+  "https://www.size.ly/calculator/square-root-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://apps.apple.com/us/app/-/id6443969012": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.mathway.com/Calculator/square-root-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://mathgoodies.com/?p=292": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.rapidtables.com/calc/math/square-root-calculator.html": [
+   "disallowed by robots.txt"
+  ],
+  "https://www.inchcalculator.com/square-root-calculator/": [
+   "HTTP 404"
+  ]
+ }
+}

@@ -21,13 +21,18 @@ import gpa from "./gpa-calculator/meta";
 import sqft from "./square-footage-calculator/meta";
 import hours from "./hours-calculator/meta";
 import bench from "./bench-press-max-calculator/meta";
+import molWeight from "./molecular-weight-calculator/meta";
+import bowling from "./bowling-score-calculator/meta";
+import sqrt from "./square-root-calculator/meta";
+import fraction from "./fraction-calculator/meta";
+import mortgage from "./mortgage-calculator/meta";
 
 /**
  * Registry of PUBLISHED tools only (never list unbuilt tools → no broken links, no thin pages).
  * Add a tool: create src/tools/<slug>/meta.ts, import it here, add to TOOLS. That's the only wiring needed
  * for sitemap, category hubs, /tools/ index, home page and related-tool links.
  */
-export const TOOLS: ToolMeta[] = [daysFromToday, payment, interestRate, discount, ratio, proportion, hypotenuse, rng, rightTriangle, age, hours, period, armyBodyFat, bench, cubicYard, gravel, sand, sqft, k401, gpa, apWorld];
+export const TOOLS: ToolMeta[] = [daysFromToday, payment, interestRate, discount, ratio, proportion, hypotenuse, rng, rightTriangle, age, hours, period, armyBodyFat, bench, cubicYard, gravel, sand, sqft, k401, mortgage, gpa, apWorld, bowling, fraction, sqrt, molWeight];
 
 const bySlug = new Map(TOOLS.map((t) => [t.slug, t]));
 export const getTool = (slug: string) => {

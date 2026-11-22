@@ -19,7 +19,7 @@ export async function scrape({ slug, count = 4, urls = [], delay = 2500, refresh
     const GENERIC = new Set(["calculator", "calculators", "calculate", "converter", "how", "what", "many", "much", "the", "for", "and", "online", "free", "score", "find", "from", "with", "your", "tool", "to", "in", "a", "of", "is", "are", "do", "does"]);
     const tokens = keyword.toLowerCase().split(/[^a-z0-9]+/).filter((t) => t.length > 1 && !GENERIC.has(t));
     const stem = (t) => t.replace(/(ies|es|s)$/, "");
-    const relevant = (o) => { const hay = `${o.title || ""} ${decodeURIComponent(o.url)}`.toLowerCase(); const hits = tokens.filter((t) => hay.includes(stem(t))).length; return hits >= Math.min(2, tokens.length); };
+    const relevant = (o) => { const hay = `${o.title || ""} ${decodeURIComponent(o.url)}`.toLowerCase(); const hits = tokens.filter((t) => hay.includes(stem(t))).length; return hits >= (tokens.length >= 4 ? 1 : Math.min(2, tokens.length)); }; // long keywords: one distinctive word is enough
     // All relevant candidates in priority order: open result list(s) by position, then restricted list(s). The loop below
     // skips a competitor domain only once one of its pages succeeded, so a failed URL falls through to the next one.
     const cands = [];

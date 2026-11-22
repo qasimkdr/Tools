@@ -1,0 +1,1351 @@
+{
+ "pages": {
+  "https://www.inchcalculator.com/mixed-number-calculator": {
+   "url": "https://www.inchcalculator.com/mixed-number-calculator",
+   "finalUrl": "https://www.inchcalculator.com/mixed-number-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T09:25:43.630Z",
+   "title": "Mixed Number Calculator - Inch Calculator",
+   "metaDescription": "Use our mixed number calculator to add, subtract, multiply, or divide mixed numbers. Plus, see the full solution with explanation.",
+   "canonical": "https://www.inchcalculator.com/mixed-number-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Mixed Number Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Result",
+    "Result: Decimal Form",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate Mixed Numbers",
+    "Similar Fractions Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Steps to Solve Expression with Fractions:",
+    "Step One: Convert the Mixed Numbers to Improper Fractions",
+    "Step Two: Convert to Fractions with Matching Denominators",
+    "Step Three: Add or Subtract the Numerators",
+    "Step Four: Simplify the Improper Fraction"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Mixed Number Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Result"
+    },
+    {
+     "level": 2,
+     "text": "Result: Decimal Form"
+    },
+    {
+     "level": 3,
+     "text": "Steps to Solve Expression with Fractions:"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Mixed Numbers"
+    },
+    {
+     "level": 3,
+     "text": "Step One: Convert the Mixed Numbers to Improper Fractions"
+    },
+    {
+     "level": 3,
+     "text": "Step Two: Convert to Fractions with Matching Denominators"
+    },
+    {
+     "level": 3,
+     "text": "Step Three: Add or Subtract the Numerators"
+    },
+    {
+     "level": 3,
+     "text": "Step Four: Simplify the Improper Fraction"
+    },
+    {
+     "level": 2,
+     "text": "Similar Fractions Calculators"
+    }
+   ],
+   "wordCount": 1058,
+   "avgSentenceWords": 23,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "fraction",
+     "weight": 32
+    },
+    {
+     "term": "denominator",
+     "weight": 29
+    },
+    {
+     "term": "mixed",
+     "weight": 24
+    },
+    {
+     "term": "number",
+     "weight": 21
+    },
+    {
+     "term": "mixed number",
+     "weight": 18
+    },
+    {
+     "term": "numerator",
+     "weight": 16
+    },
+    {
+     "term": "fractions",
+     "weight": 15
+    },
+    {
+     "term": "improper fraction",
+     "weight": 15
+    },
+    {
+     "term": "mixed numbers",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "common denominator",
+     "weight": 14
+    },
+    {
+     "term": "common",
+     "weight": 13
+    },
+    {
+     "term": "add",
+     "weight": 12
+    },
+    {
+     "term": "whole number",
+     "weight": 12
+    },
+    {
+     "term": "improper",
+     "weight": 12
+    },
+    {
+     "term": "convert",
+     "weight": 11
+    },
+    {
+     "term": "step",
+     "weight": 11
+    },
+    {
+     "term": "numbers",
+     "weight": 10
+    },
+    {
+     "term": "whole",
+     "weight": 9
+    },
+    {
+     "term": "denominators",
+     "weight": 9
+    },
+    {
+     "term": "find",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "number calculator",
+     "weight": 8
+    },
+    {
+     "term": "least common",
+     "weight": 8
+    },
+    {
+     "term": "subtract",
+     "weight": 7
+    },
+    {
+     "term": "result",
+     "weight": 7
+    },
+    {
+     "term": "calculate",
+     "weight": 7
+    },
+    {
+     "term": "greatest common",
+     "weight": 6
+    },
+    {
+     "term": "common factor",
+     "weight": 6
+    },
+    {
+     "term": "factor",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "41 ÷ 1 / 12 ÷ 1=41 / 12 Convert to a mixed fraction by finding the whole number and remainder.",
+    "20 / 12 + 21 / 12 = 20 + 21 / 12 = 41 / 12 Step Four: Simplify the Improper Fraction The final step is to simplify the resulting fraction back into a mixed number.",
+    "For example, the fraction 41/12 is already in its simplest form, but it can still be converted to a whole number.",
+    "41 ÷ 12 = 3 R 5 So, we can rewrite the fraction 41/12 as the mixed number 3 5/12."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 2,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "Whole Number",
+    "Numerator",
+    "Denominator",
+    "Math Operator",
+    "Whole Number",
+    "Numerator",
+    "Denominator"
+   ],
+   "selectOptionsSample": "+ - × ÷",
+   "unitToggle": false,
+   "wordsBeforeTool": 21,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2023-06-25",
+    "modified": "2024-01-12T16:39:59+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 131,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 47,
+    "external": 13,
+    "contentInternal": 23,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "greatest common factor",
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate Mixed Numbers",
+     "Step One: Convert the Mixed Numbers to Improper Fractions",
+     "Step Two: Convert to Fractions with Matching Denominators",
+     "Step Three: Add or Subtract the Numerators",
+     "Step Four: Simplify the Improper Fraction",
+     "Full bio",
+     "Mixed Number Calculator",
+     "calculating fractions",
+     "add",
+     "subtract",
+     "lowest common denominator (LCD)",
+     "simplify the resulting fraction",
+     "long division",
+     "remainder",
+     "improper fraction to mixed number calculator",
+     "Least Common Denominator Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/gcf-calculator/",
+     "https://www.inchcalculator.com/mixed-number-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/mixed-number/",
+     "https://www.inchcalculator.com/mixed-number-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/mixed-number-calculator/#idx_how_to_calculate_mixed_numbers",
+     "https://www.inchcalculator.com/mixed-number-calculator/#idx_step_one_convert_the_mixed_numbers_to_improper_fractions",
+     "https://www.inchcalculator.com/mixed-number-calculator/#idx_step_two_convert_to_fractions_with_matching_denominators",
+     "https://www.inchcalculator.com/mixed-number-calculator/#idx_step_three_add_or_subtract_the_numerators",
+     "https://www.inchcalculator.com/mixed-number-calculator/#idx_step_four_simplify_the_improper_fraction",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/pateakia-heath/",
+     "https://www.inchcalculator.com/mixed-number-calculator/",
+     "https://www.inchcalculator.com/fraction-calculator/",
+     "https://www.inchcalculator.com/add-fractions-calculator/",
+     "https://www.inchcalculator.com/subtract-fractions-calculator/",
+     "https://www.inchcalculator.com/lcd-calculator/",
+     "https://www.inchcalculator.com/fraction-simplifier/",
+     "https://www.inchcalculator.com/long-division-calculator/",
+     "https://www.inchcalculator.com/remainder-calculator/",
+     "https://www.inchcalculator.com/fraction-to-mixed-number-calculator/",
+     "https://www.inchcalculator.com/decimal-to-fraction-calculator/",
+     "https://www.inchcalculator.com/equivalent-fractions-calculator/",
+     "https://www.inchcalculator.com/fraction-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fmixed-number-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fmixed-number-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fmixed-number-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fmixed-number-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fmixed-number-calculator%2F&text=Mixed+Number+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fmixed-number-calculator%2F&text=Mixed+Number+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.io/mixed-number-calculator": {
+   "url": "https://www.calculator.io/mixed-number-calculator",
+   "finalUrl": "https://www.calculator.io/mixed-number-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.calculator.io",
+   "fetchedAt": "2026-11-22T09:25:57.566Z",
+   "title": "Mixed Number Calculator",
+   "metaDescription": "Easily add, subtract, multiply, and divide mixed numbers with our free Mixed Number Calculator. Instantly simplify and convert mixed fractions with ease.",
+   "canonical": "https://www.calculator.io/mixed-number-calculator/",
+   "robotsMeta": "index, follow",
+   "lang": "en",
+   "h1": [
+    "Mixed Number Calculator"
+   ],
+   "h2": [
+    "How to Add, Subtract, Multiply, and Divide Mixed Numbers",
+    "Table of Contents",
+    "Rules for Using the Mixed Number Calculator",
+    "Practical Examples",
+    "Basic Knowledge of Mixed Numbers"
+   ],
+   "h3": [
+    "Adding Mixed Fractions",
+    "Subtracting Mixed Fractions",
+    "Multiplying Mixed Numbers",
+    "Dividing Mixed Numbers"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Mixed Number Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to Add, Subtract, Multiply, and Divide Mixed Numbers"
+    },
+    {
+     "level": 2,
+     "text": "Table of Contents"
+    },
+    {
+     "level": 2,
+     "text": "Rules for Using the Mixed Number Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Practical Examples"
+    },
+    {
+     "level": 3,
+     "text": "Adding Mixed Fractions"
+    },
+    {
+     "level": 3,
+     "text": "Subtracting Mixed Fractions"
+    },
+    {
+     "level": 3,
+     "text": "Multiplying Mixed Numbers"
+    },
+    {
+     "level": 4,
+     "text": "The Process of Multiplying Mixed Numbers"
+    },
+    {
+     "level": 4,
+     "text": "Simplifying the Result"
+    },
+    {
+     "level": 3,
+     "text": "Dividing Mixed Numbers"
+    },
+    {
+     "level": 4,
+     "text": "The Procedure for Dividing Mixed Numbers"
+    },
+    {
+     "level": 2,
+     "text": "Basic Knowledge of Mixed Numbers"
+    }
+   ],
+   "wordCount": 1546,
+   "avgSentenceWords": 21,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "mixed",
+     "weight": 59
+    },
+    {
+     "term": "number",
+     "weight": 38
+    },
+    {
+     "term": "mixed numbers",
+     "weight": 38
+    },
+    {
+     "term": "frac",
+     "weight": 37
+    },
+    {
+     "term": "numbers",
+     "weight": 32
+    },
+    {
+     "term": "mixed number",
+     "weight": 30
+    },
+    {
+     "term": "fraction",
+     "weight": 30
+    },
+    {
+     "term": "fractions",
+     "weight": 25
+    },
+    {
+     "term": "whole number",
+     "weight": 23
+    },
+    {
+     "term": "calculator",
+     "weight": 22
+    },
+    {
+     "term": "whole",
+     "weight": 20
+    },
+    {
+     "term": "denominator",
+     "weight": 18
+    },
+    {
+     "term": "numerator",
+     "weight": 17
+    },
+    {
+     "term": "multiply",
+     "weight": 15
+    },
+    {
+     "term": "mixed fractions",
+     "weight": 15
+    },
+    {
+     "term": "math",
+     "weight": 14
+    },
+    {
+     "term": "number calculator",
+     "weight": 14
+    },
+    {
+     "term": "calculator math",
+     "weight": 12
+    },
+    {
+     "term": "dividing mixed",
+     "weight": 12
+    },
+    {
+     "term": "multiplying mixed",
+     "weight": 11
+    },
+    {
+     "term": "ask",
+     "weight": 10
+    },
+    {
+     "term": "multiplying",
+     "weight": 10
+    },
+    {
+     "term": "dividing",
+     "weight": 10
+    },
+    {
+     "term": "operator",
+     "weight": 10
+    },
+    {
+     "term": "type",
+     "weight": 10
+    },
+    {
+     "term": "improper",
+     "weight": 10
+    },
+    {
+     "term": "fraction calculator",
+     "weight": 9
+    },
+    {
+     "term": "step",
+     "weight": 9
+    },
+    {
+     "term": "improper fraction",
+     "weight": 9
+    },
+    {
+     "term": "add",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "This calculator supports up to 3 digits for each whole number, numerator, or denominator (for example, 112 for the whole number, 324 for the numerator, and 733 for the denominator).",
+    "Adding Mixed Fractions Suppose you need to add two mixed fractions, such as \\$3 \\frac{1}{3}\\$ and \\$7 \\frac{4}{9}\\$.",
+    "Begin with the mixed number on the left side of the subtraction operator (-), which is \\$12 \\frac{3}{5}\\$ (where 12 is the whole number, 3 is the numerator, and 5 is the denominator).",
+    "Next, move to the mixed number on the right side of the subtraction operator (-), which is \\$4 \\frac{1}{2}\\$ (where 4 is the whole number, 1 is the numerator, and 2 is the denominator).",
+    "For instance, to multiply \\$3 \\frac{1}{4}\\$ by \\$2 \\frac{2}{3}\\$, you must first convert these mixed numbers.",
+    "Convert the Mixed Numbers: For \\$3 \\frac{1}{4}\\$, multiply the whole number (3) by the denominator (4) and add the numerator (1).",
+    "Multiply the Numerators: Multiply the top numbers of the fractions (13 and 8), which equals 104.",
+    "Multiply the Denominators: Next, multiply the bottom numbers (4 and 3), which equals 12.",
+    "Using the example above, \\$\\frac{104}{12}\\$ simplifies down to \\$\\frac{26}{3}\\$, or when converted back into a mixed number, \\$8 \\frac{2}{3}\\$."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "BreadcrumbList",
+    "WebApplication"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 7,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Link",
+    "0",
+    "0",
+    "0",
+    "math_operation",
+    "math_operation",
+    "math_operation",
+    "math_operation",
+    "0",
+    "0",
+    "0"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 107,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": "2026-07-17T14:07:33+05:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 79,
+    "adNetworks": [
+     "adsense"
+    ],
+    "adSlots": 5,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 58,
+    "external": 1,
+    "contentInternal": 18,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Fraction Calculator Math",
+     "Decimal to Fraction Math",
+     "Simplifying Fractions Calculator Math",
+     "Fraction to Decimal Math",
+     "Adding Fractions Calculator Math",
+     "Mixed Fraction Calculator Math",
+     "Equivalent Fractions Calculator Math",
+     "Rules for Using the Mixed Number Calculator",
+     "Practical Examples",
+     "Adding Mixed Fractions",
+     "Subtracting Mixed Fractions",
+     "Multiplying Mixed Numbers",
+     "The Process of Multiplying Mixed Numbers",
+     "Simplifying the Result",
+     "Dividing Mixed Numbers",
+     "The Procedure for Dividing Mixed Numbers",
+     "Basic Knowledge of Mixed Numbers"
+    ],
+    "internalSample": [
+     "https://www.calculator.io/ask-ai/",
+     "https://www.calculator.io/fraction-calculator/",
+     "https://www.calculator.io/decimal-to-fraction-calculator/",
+     "https://www.calculator.io/simplifying-fractions-calculator/",
+     "https://www.calculator.io/fraction-to-decimal-calculator/",
+     "https://www.calculator.io/adding-fractions-calculator/",
+     "https://www.calculator.io/mixed-fraction-calculator/",
+     "https://www.calculator.io/equivalent-fractions-calculator/",
+     "https://www.calculator.io/mixed-number-calculator/#rules-for-using-the-mixed-number-calculator-1",
+     "https://www.calculator.io/mixed-number-calculator/#practical-examples-2",
+     "https://www.calculator.io/mixed-number-calculator/#adding-mixed-fractions-3",
+     "https://www.calculator.io/mixed-number-calculator/#subtracting-mixed-fractions-4",
+     "https://www.calculator.io/mixed-number-calculator/#multiplying-mixed-numbers-5",
+     "https://www.calculator.io/mixed-number-calculator/#the-process-of-multiplying-mixed-numbers-6",
+     "https://www.calculator.io/mixed-number-calculator/#simplifying-the-result-7",
+     "https://www.calculator.io/mixed-number-calculator/#dividing-mixed-numbers-8",
+     "https://www.calculator.io/mixed-number-calculator/#the-procedure-for-dividing-mixed-numbers-9",
+     "https://www.calculator.io/mixed-number-calculator/#basic-knowledge-of-mixed-numbers-10"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/math/mixednumbers.php": {
+   "url": "https://www.calculatorsoup.com/calculators/math/mixednumbers.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/math/mixednumbers.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T09:29:52.848Z",
+   "title": "Mixed Numbers Calculator",
+   "metaDescription": "Mixed numbers calculator to add, subtract, multiply and divide mixed numbers (mixed fractions), fractions and integers. Do math with mixed numbers and mixed fractions such as 1 1/2 or 3 5/8.",
+   "canonical": "https://www.calculatorsoup.com/calculators/math/mixednumbers.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Mixed Numbers Calculator"
+   ],
+   "h2": [
+    "What is a Mixed Number?",
+    "Add Mixed Numbers using the Adding Fractions Formula",
+    "Subtract Mixed Numbers using the Subtracting Fractions Formula",
+    "Multiply Mixed Numbers using the Multiplying Fractions Formula",
+    "Divide Mixed Numbers using the Dividing Fractions Formula"
+   ],
+   "h3": [
+    "What Can the Mixed Numbers Calculator Do?",
+    "Equation to Add Fractions",
+    "Example",
+    "Equation to Subtract Fractions",
+    "Example",
+    "Equation to Multiply Fractions",
+    "Example",
+    "Equation to Divide Fractions",
+    "Example",
+    "Related Calculators",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Mixed Numbers Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is a Mixed Number?"
+    },
+    {
+     "level": 3,
+     "text": "What Can the Mixed Numbers Calculator Do?"
+    },
+    {
+     "level": 2,
+     "text": "Add Mixed Numbers using the Adding Fractions Formula"
+    },
+    {
+     "level": 3,
+     "text": "Equation to Add Fractions"
+    },
+    {
+     "level": 3,
+     "text": "Example"
+    },
+    {
+     "level": 2,
+     "text": "Subtract Mixed Numbers using the Subtracting Fractions Formula"
+    },
+    {
+     "level": 3,
+     "text": "Equation to Subtract Fractions"
+    },
+    {
+     "level": 3,
+     "text": "Example"
+    },
+    {
+     "level": 2,
+     "text": "Multiply Mixed Numbers using the Multiplying Fractions Formula"
+    },
+    {
+     "level": 3,
+     "text": "Equation to Multiply Fractions"
+    },
+    {
+     "level": 3,
+     "text": "Example"
+    },
+    {
+     "level": 2,
+     "text": "Divide Mixed Numbers using the Dividing Fractions Formula"
+    },
+    {
+     "level": 3,
+     "text": "Equation to Divide Fractions"
+    },
+    {
+     "level": 3,
+     "text": "Example"
+    },
+    {
+     "level": 3,
+     "text": "Related Calculators"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 868,
+   "avgSentenceWords": 31,
+   "faqs": [
+    "What is a Mixed Number?",
+    "What Can the Mixed Numbers Calculator Do?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "fractions",
+     "weight": 32
+    },
+    {
+     "term": "mixed numbers",
+     "weight": 30
+    },
+    {
+     "term": "mixed",
+     "weight": 28
+    },
+    {
+     "term": "numbers",
+     "weight": 24
+    },
+    {
+     "term": "dfrac",
+     "weight": 21
+    },
+    {
+     "term": "calculator",
+     "weight": 19
+    },
+    {
+     "term": "number",
+     "weight": 16
+    },
+    {
+     "term": "fraction",
+     "weight": 14
+    },
+    {
+     "term": "times",
+     "weight": 14
+    },
+    {
+     "term": "numbers calculator",
+     "weight": 12
+    },
+    {
+     "term": "mixed number",
+     "weight": 11
+    },
+    {
+     "term": "whole number",
+     "weight": 11
+    },
+    {
+     "term": "whole",
+     "weight": 10
+    },
+    {
+     "term": "calculators",
+     "weight": 8
+    },
+    {
+     "term": "math",
+     "weight": 8
+    },
+    {
+     "term": "improper",
+     "weight": 8
+    },
+    {
+     "term": "add",
+     "weight": 8
+    },
+    {
+     "term": "multiply",
+     "weight": 8
+    },
+    {
+     "term": "formula",
+     "weight": 8
+    },
+    {
+     "term": "denominator",
+     "weight": 8
+    },
+    {
+     "term": "improper fraction",
+     "weight": 8
+    },
+    {
+     "term": "reduce",
+     "weight": 7
+    },
+    {
+     "term": "simplify",
+     "weight": 7
+    },
+    {
+     "term": "fractions formula",
+     "weight": 6
+    },
+    {
+     "term": "formula convert",
+     "weight": 6
+    },
+    {
+     "term": "fraction multiply",
+     "weight": 6
+    },
+    {
+     "term": "numerator place",
+     "weight": 6
+    },
+    {
+     "term": "reduce fractions",
+     "weight": 6
+    },
+    {
+     "term": "possible equation",
+     "weight": 6
+    },
+    {
+     "term": "fractions dfrac",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Enter mixed numbers, whole numbers or fractions in the following formats: Mixed numbers: Enter as 1 1/2 which is one and one half or 25 3/32 which is twenty five and three thirty seconds."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 5,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "operand 1",
+    "Operator",
+    "operand 2",
+    "reset"
+   ],
+   "selectOptionsSample": "+ − × ÷ of",
+   "unitToggle": false,
+   "wordsBeforeTool": 24,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "August 1, 2025",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 55,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 21,
+    "external": 0,
+    "contentInternal": 11,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Math",
+     "Fractions",
+     "Mixed Numbers Calculator",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Fractions Calculator",
+     "Simplify Fractions Calculator",
+     "Greatest Common Factor Calculator",
+     "Long Division with Remainders Calculator",
+     "https://www.calculatorsoup.com/calculators/math/mixednumbers.php",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/math/",
+     "https://www.calculatorsoup.com/calculators/math/fractionscalculators.php",
+     "https://www.calculatorsoup.com/calculators/math/mixednumbers.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=math%2F&folderName=Math&folder2=math%2Ffractionscalculators.php&folderName2=Fractions&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/math/mixednumbers.php&h1=Mixed+Numbers+Calculator&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/math/fractions.php",
+     "https://www.calculatorsoup.com/calculators/math/fractionssimplify.php",
+     "https://www.calculatorsoup.com/calculators/math/gcf.php",
+     "https://www.calculatorsoup.com/calculators/math/longdivision.php"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.thecalculatorsite.com/math/fractions-calculator.php": {
+   "url": "https://www.thecalculatorsite.com/math/fractions-calculator.php",
+   "finalUrl": "https://www.thecalculatorsite.com/math/fractions-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.thecalculatorsite.com",
+   "fetchedAt": "2026-11-22T09:30:48.070Z",
+   "title": "Fractions Calculator - The Calculator Site",
+   "metaDescription": "Use this fractions calculator to add, subtract, multiply, divide and simplify fractions, including mixed fractions",
+   "canonical": "https://www.thecalculatorsite.com/math/fractions-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Fractions Calculator"
+   ],
+   "h2": [
+    "Standard fractions",
+    "Mixed fractions calculator",
+    "Simplify a fraction",
+    "How to add fractions",
+    "How to subtract fractions",
+    "How to multiply fractions",
+    "How to divide fractions"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Fractions Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Standard fractions"
+    },
+    {
+     "level": 2,
+     "text": "Mixed fractions calculator"
+    },
+    {
+     "level": 2,
+     "text": "Simplify a fraction"
+    },
+    {
+     "level": 2,
+     "text": "How to add fractions"
+    },
+    {
+     "level": 2,
+     "text": "How to subtract fractions"
+    },
+    {
+     "level": 2,
+     "text": "How to multiply fractions"
+    },
+    {
+     "level": 2,
+     "text": "How to divide fractions"
+    },
+    {
+     "level": 4,
+     "text": "Finance"
+    },
+    {
+     "level": 4,
+     "text": "Home & Garden"
+    },
+    {
+     "level": 4,
+     "text": "Cooking"
+    },
+    {
+     "level": 4,
+     "text": "Website"
+    }
+   ],
+   "wordCount": 1221,
+   "avgSentenceWords": 31,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "calculator",
+     "weight": 59
+    },
+    {
+     "term": "dfrac",
+     "weight": 29
+    },
+    {
+     "term": "fractions",
+     "weight": 21
+    },
+    {
+     "term": "grams",
+     "weight": 19
+    },
+    {
+     "term": "fraction",
+     "weight": 15
+    },
+    {
+     "term": "feet",
+     "weight": 12
+    },
+    {
+     "term": "denominator",
+     "weight": 12
+    },
+    {
+     "term": "cups",
+     "weight": 11
+    },
+    {
+     "term": "calculators",
+     "weight": 9
+    },
+    {
+     "term": "square",
+     "weight": 9
+    },
+    {
+     "term": "pounds",
+     "weight": 9
+    },
+    {
+     "term": "multiply",
+     "weight": 9
+    },
+    {
+     "term": "add",
+     "weight": 8
+    },
+    {
+     "term": "cubic",
+     "weight": 8
+    },
+    {
+     "term": "divide fractions",
+     "weight": 8
+    },
+    {
+     "term": "ounces",
+     "weight": 7
+    },
+    {
+     "term": "weight",
+     "weight": 7
+    },
+    {
+     "term": "numbers",
+     "weight": 7
+    },
+    {
+     "term": "simplify",
+     "weight": 7
+    },
+    {
+     "term": "subtract",
+     "weight": 7
+    },
+    {
+     "term": "interest",
+     "weight": 6
+    },
+    {
+     "term": "converter",
+     "weight": 6
+    },
+    {
+     "term": "inches",
+     "weight": 6
+    },
+    {
+     "term": "cubic feet",
+     "weight": 6
+    },
+    {
+     "term": "calculator cubic",
+     "weight": 6
+    },
+    {
+     "term": "steps",
+     "weight": 6
+    },
+    {
+     "term": "fractions calculator",
+     "weight": 6
+    },
+    {
+     "term": "proportionately",
+     "weight": 6
+    },
+    {
+     "term": "smallest possible",
+     "weight": 6
+    },
+    {
+     "term": "possible denominator",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Mixed fractions calculator Fraction 1: Fraction 2: Simplify a fraction Find the common factor of a fraction and then simplify it to its lowest form."
+   ],
+   "schemaTypes": [],
+   "schemaFormats": [],
+   "tables": 0,
+   "lists": 31,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "I want to calculate/convert...",
+    "num1",
+    "num2",
+    "operator",
+    "num3",
+    "num4",
+    "e.g. 3/4 or 16 3/4",
+    "operator",
+    "e.g. 2/3",
+    "e.g. 3",
+    "e.g. 4"
+   ],
+   "selectOptionsSample": "+ − × ÷ + − × ÷",
+   "unitToggle": false,
+   "wordsBeforeTool": 7,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 298,
+    "adNetworks": [
+     "gpt",
+     "adthrive",
+     "ezoic"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 165,
+    "external": 1,
+    "contentInternal": 165,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Finance Calculators",
+     "Compound Interest",
+     "Compound Interest (Daily)",
+     "Amortization Calculator",
+     "APY Calculator",
+     "CAGR Calculator",
+     "Car Loan Calculator",
+     "Cash Back Calculator",
+     "Currency Converter",
+     "Forex Compounding",
+     "Future Value Calculator",
+     "How Long to Save",
+     "Interest Rate Calculator",
+     "Investment Calculator",
+     "IRR Calculator",
+     "Loan Calculator",
+     "Loan Payoff Calculator",
+     "Margin Calculator",
+     "Million to Billion Converter",
+     "MMA Calculator"
+    ],
+    "internalSample": [
+     "https://www.thecalculatorsite.com/",
+     "https://www.thecalculatorsite.com/finance/",
+     "https://www.thecalculatorsite.com/finance/calculators/compoundinterestcalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/daily-compound-interest.php",
+     "https://www.thecalculatorsite.com/finance/calculators/amortization-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/apy-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/cagr-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/carloancalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/cash-back.php",
+     "https://www.thecalculatorsite.com/finance/calculators/currencyconverter.php",
+     "https://www.thecalculatorsite.com/finance/calculators/forex-compound-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/future-value-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/how-long-to-save",
+     "https://www.thecalculatorsite.com/finance/calculators/interest-rate-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/investment-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/irr-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/loancalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/loan-payoff-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/margin-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/million-billion",
+     "https://www.thecalculatorsite.com/finance/calculators/money-market-account.php",
+     "https://www.thecalculatorsite.com/finance/calculators/money-counter.php",
+     "https://www.thecalculatorsite.com/finance/calculators/price-per-sqft.php",
+     "https://www.thecalculatorsite.com/finance/calculators/savings-calculators.php",
+     "https://www.thecalculatorsite.com/finance/calculators/savings-goal-calculator.php"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=thecalculatorsite.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://omnicalculator.com/math/mixed-number": [
+   "unreachable (fetch failed)"
+  ],
+  "https://dqydj.com/mixed-number-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://calculatorsoup.com/calculators/math/mixednumbers.php": [
+   "unreachable (fetch failed)"
+  ],
+  "https://dqydj.com/?p=22651": [
+   "unreachable (fetch failed)"
+  ],
+  "https://mathcheck.net/calculators/mixed-number-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.dadsworksheets.com/mixed-number-calculator.html": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}
