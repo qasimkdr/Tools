@@ -10,11 +10,11 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 12 on policy hold).
 | 4 | 1 | live | Interest Rate Calculator | `interest-rate-calculator` | finance | interest rate calculator | 27100 | 7 | 52900 | 1 |
 | 5 | 1 | live | Ratio Calculator | `ratio-calculator` | math | ratio calculator | 1500000 | 34 | 1716180 | 1 |
 | 6 | 1 | live | Age Calculator | `age-calculator` | time-date | age calculator | 1000000 | 29 | 1049900 | 1 |
-| 7 | 1 | todo | Discount Calculator | `discount-calculator` | finance | discount calculator | 33100 | 11 | 76100 | 2 |
-| 8 | 1 | todo | Hypotenuse Calculator | `hypotenuse-calculator` | math | pythagoras equation solver | 18100 | 42 | 72600 | 2 |
-| 9 | 1 | todo | Period Calculator | `period-calculator` | health | period calculator | 40500 | 16 | 56000 | 1 |
-| 10 | 1 | todo | Random Number Generator | `random-number-generator` | math | random 4 digit number generator | 2900 | 24 | 119800 | 1 |
-| 11 | 2 | todo | Cubic Yard Calculator | `cubic-yard-calculator` | construction | cubic yard calculator | 27100 | 18 | 70700 | 3 |
+| 7 | 1 | live | Discount Calculator | `discount-calculator` | finance | discount calculator | 33100 | 11 | 76100 | 2 |
+| 8 | 1 | live | Hypotenuse Calculator | `hypotenuse-calculator` | math | pythagoras equation solver | 18100 | 42 | 72600 | 2 |
+| 9 | 1 | live | Period Calculator | `period-calculator` | health | period calculator | 40500 | 16 | 56000 | 1 |
+| 10 | 1 | live | Random Number Generator | `random-number-generator` | math | random 4 digit number generator | 2900 | 24 | 119800 | 1 |
+| 11 | 2 | live | Cubic Yard Calculator | `cubic-yard-calculator` | construction | cubic yard calculator | 27100 | 18 | 70700 | 3 |
 | 12 | 2 | todo | Gravel & Stone Calculator | `gravel-and-stone-calculator` | construction | stone calculator | 12100 | 13 | 114400 | 1 |
 | 13 | 2 | todo | Army Body Fat Calculator | `army-body-fat-calculator` | health | army fitness calculator body fat | 12100 | 13 | 79500 | 1 |
 | 14 | 2 | todo | 401(k) Calculator | `401k-calculator` | finance | 401k calculator | 135000 | 26 | 164900 | 1 |

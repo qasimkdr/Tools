@@ -6,13 +6,18 @@ import proportion from "./proportion-calculator/meta";
 import interestRate from "./interest-rate-calculator/meta";
 import ratio from "./ratio-calculator/meta";
 import age from "./age-calculator/meta";
+import discount from "./discount-calculator/meta";
+import hypotenuse from "./hypotenuse-calculator/meta";
+import period from "./period-calculator/meta";
+import rng from "./random-number-generator/meta";
+import cubicYard from "./cubic-yard-calculator/meta";
 
 /**
  * Registry of PUBLISHED tools only (never list unbuilt tools → no broken links, no thin pages).
  * Add a tool: create src/tools/<slug>/meta.ts, import it here, add to TOOLS. That's the only wiring needed
  * for sitemap, category hubs, /tools/ index, home page and related-tool links.
  */
-export const TOOLS: ToolMeta[] = [daysFromToday, payment, interestRate, ratio, proportion, age];
+export const TOOLS: ToolMeta[] = [daysFromToday, payment, interestRate, discount, ratio, proportion, hypotenuse, rng, age, period, cubicYard];
 
 const bySlug = new Map(TOOLS.map((t) => [t.slug, t]));
 export const getTool = (slug: string) => {

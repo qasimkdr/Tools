@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How do I calculate a percentage off?", a: "Multiply the price by the discount as a decimal to get the savings, then subtract it from the price. For 25% off $80: 80 × 0.25 = $20 off, so you pay $60. A shortcut is price × (1 − discount): 80 × 0.75 = $60." },
+  { q: "How do I work out the discount percentage from two prices?", a: "Subtract the sale price from the original price, divide by the original price and multiply by 100. A $50 item on sale for $35 is (50 − 35) ÷ 50 × 100 = 30% off." },
+  { q: "How do I find the original price before a discount?", a: "Divide the sale price by (1 − discount). If something costs $45 after 25% off, the original price was 45 ÷ 0.75 = $60. Subtracting 25% of $45 would give the wrong answer." },
+  { q: "Is 20% off plus an extra 10% off the same as 30% off?", a: "No. Stacked discounts apply one after the other, so the second discount is taken from the already-reduced price. 20% then 10% off $100 is $100 → $80 → $72, a total of 28% off, not 30%." },
+  { q: "Is sales tax calculated before or after the discount?", a: "In most US states sales tax applies to the discounted price you actually pay, so tax on a $60 sale price at 8% is $4.80, for $64.80 in total. Manufacturer coupons can be treated differently in some states, so check your receipt if the numbers don't match." },
+  { q: "What is a good discount?", a: "It depends on the product and how often it goes on sale. Compare the sale price with the item's usual selling price rather than its list price, because a high 'original' price can make a discount look bigger than it is." },
+];

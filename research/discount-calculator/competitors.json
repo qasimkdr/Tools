@@ -1,0 +1,1264 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/math/discount": {
+   "url": "https://www.omnicalculator.com/math/discount",
+   "finalUrl": "https://www.omnicalculator.com/finance/discount",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T06:01:22.954Z",
+   "title": "Discount Calculator",
+   "metaDescription": "The discount calculator uses a product's original price and discount percentage to find the final price and the amount you save.",
+   "canonical": "https://www.omnicalculator.com/finance/discount",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Discount Calculator"
+   ],
+   "h2": [
+    "How to use the discount calculator",
+    "Discount formula",
+    "How to calculate discount and sale price",
+    "Behind the scenes of the discount calculator",
+    "FAQs"
+   ],
+   "h3": [
+    "What are the types of discount?",
+    "How do I calculate the discount percentage?",
+    "What are fake discounts?",
+    "How do I calculate a 10% discount?",
+    "How do I take 20% off a price?",
+    "How do I calculate 30 percent off?",
+    "Why do clearance sales happen?",
+    "How do I calculate a discount percentage in Excel?",
+    "How do I find the original price?",
+    "What is a percentage discount?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Discount Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to use the discount calculator"
+    },
+    {
+     "level": 2,
+     "text": "Discount formula"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate discount and sale price"
+    },
+    {
+     "level": 2,
+     "text": "Behind the scenes of the discount calculator"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What are the types of discount?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate the discount percentage?"
+    },
+    {
+     "level": 3,
+     "text": "What are fake discounts?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate a 10% discount?"
+    },
+    {
+     "level": 3,
+     "text": "How do I take 20% off a price?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate 30 percent off?"
+    },
+    {
+     "level": 3,
+     "text": "Why do clearance sales happen?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate a discount percentage in Excel?"
+    },
+    {
+     "level": 3,
+     "text": "How do I find the original price?"
+    },
+    {
+     "level": 3,
+     "text": "What is a percentage discount?"
+    }
+   ],
+   "wordCount": 1478,
+   "avgSentenceWords": 16,
+   "faqs": [
+    "What are the types of discount?",
+    "How do I calculate the discount percentage?",
+    "What are fake discounts?",
+    "How do I calculate a 10% discount?",
+    "How do I take 20% off a price?",
+    "How do I calculate 30 percent off?",
+    "Why do clearance sales happen?",
+    "How do I calculate a discount percentage in Excel?",
+    "How do I find the original price?",
+    "What is a percentage discount?"
+   ],
+   "faqSchemaCount": 10,
+   "topics": [
+    {
+     "term": "price",
+     "weight": 55
+    },
+    {
+     "term": "discount",
+     "weight": 54
+    },
+    {
+     "term": "original price",
+     "weight": 27
+    },
+    {
+     "term": "calculator",
+     "weight": 24
+    },
+    {
+     "term": "sale price",
+     "weight": 20
+    },
+    {
+     "term": "original",
+     "weight": 19
+    },
+    {
+     "term": "percentage",
+     "weight": 17
+    },
+    {
+     "term": "discount calculator",
+     "weight": 15
+    },
+    {
+     "term": "calculate",
+     "weight": 15
+    },
+    {
+     "term": "sale",
+     "weight": 15
+    },
+    {
+     "term": "discounts",
+     "weight": 14
+    },
+    {
+     "term": "percentage discount",
+     "weight": 11
+    },
+    {
+     "term": "discounted price",
+     "weight": 11
+    },
+    {
+     "term": "discount percentage",
+     "weight": 11
+    },
+    {
+     "term": "savings",
+     "weight": 10
+    },
+    {
+     "term": "amount",
+     "weight": 9
+    },
+    {
+     "term": "discounted",
+     "weight": 8
+    },
+    {
+     "term": "you're saving",
+     "weight": 8
+    },
+    {
+     "term": "final price",
+     "weight": 8
+    },
+    {
+     "term": "pre sale",
+     "weight": 8
+    },
+    {
+     "term": "final",
+     "weight": 7
+    },
+    {
+     "term": "off",
+     "weight": 7
+    },
+    {
+     "term": "subtract",
+     "weight": 7
+    },
+    {
+     "term": "divide",
+     "weight": 7
+    },
+    {
+     "term": "tax",
+     "weight": 6
+    },
+    {
+     "term": "you're",
+     "weight": 6
+    },
+    {
+     "term": "saving",
+     "weight": 6
+    },
+    {
+     "term": "item",
+     "weight": 6
+    },
+    {
+     "term": "number",
+     "weight": 6
+    },
+    {
+     "term": "price divide",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Find out the final price after that 15% discount code.",
+    "You have options like a simple percentage off, discounts on subsequent products, a fixed amount off, and more complex deals like '2 for 1' or '3 for 2'.",
+    "For instance, if an item priced at $20 comes with a 4% discount and tax is already included, the calculator will show that you pay $19.20, saving you $0.80.",
+    "Determine the discount percentage (for example, 20%).",
+    "Calculate the savings: 20% of $90 = $18 Subtract the savings from the original price to get the sale price: $90 - $18 = $72 You've just applied the discount!",
+    "To compute a 10% discount, follow these steps: Take the item's price.",
+    "This is the amount you're saving thanks to the 10% discount.",
+    "While it's easier to use the Omni Discount Calculator, here are the steps to calculate the discount percentage in Excel: Input the pre-sale price (for example, into cell A1).",
+    "Subtract the post-sale price from the pre-sale price: In C1, input =A1-B1 and label it “discount amount”.",
+    "Divide the new amount by the pre-sale price and multiply it by 100: In D1, input =(C1/A1)*100 and label it “discount rate”."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 11,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "What type of discount?"
+   ],
+   "selectOptionsSample": "select % off % off on 2nd product % off on 3rd product fixed amount off 2 for 1 3 for 2 4 for 3 double discount triple discount on multiple units",
+   "unitToggle": false,
+   "wordsBeforeTool": 6,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Tibor Pál",
+    "published": "2015-11-05T12:06:22.784Z",
+    "modified": "2026-09-03T17:12:43.333Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 1392,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 23,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "simple discount calculator 🇺🇸",
+     "margin with discount calculator",
+     "markdown calculator",
+     "budget calculator",
+     "Black Friday calculator",
+     "percentage decrease formula",
+     "Editorial Policies page"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/finance/percentage-discount",
+     "https://www.omnicalculator.com/finance/margin-discount",
+     "https://www.omnicalculator.com/finance/markdown",
+     "https://www.omnicalculator.com/finance/budget",
+     "https://www.omnicalculator.com/finance/black-friday",
+     "https://www.omnicalculator.com/math/percentage-decrease",
+     "https://www.omnicalculator.com/editorial-policies"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://inchcalculator.com/discount-calculator": {
+   "url": "https://inchcalculator.com/discount-calculator",
+   "finalUrl": "https://www.inchcalculator.com/discount-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T06:01:26.562Z",
+   "title": "Discount Calculator - Calculate the Sale Price - Inch Calculator",
+   "metaDescription": "Use our discount calculator to find the sale price. The calculator supports fixed price and percent-off discounts.",
+   "canonical": "https://www.inchcalculator.com/discount-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Discount Calculator"
+   ],
+   "h2": [
+    "Calculate Price Using a Fixed Discount",
+    "Calculate Price Using Percent Off",
+    "Tell Us What You Think",
+    "Results: Price Results",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate a Discount",
+    "How to Convert a Discount to a Percentage",
+    "How to Calculate the Sale Price",
+    "Sale Prices After Common Discounts",
+    "Frequently Asked Questions",
+    "Similar Personal Finance Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "How to Calculate a Percent Off Sale Price",
+    "How to Calculate a Quantity Discount",
+    "Why is the discount percentage of an item important if I know the discount dollar amount?",
+    "What is a stackable discount?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Discount Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Calculate Price Using a Fixed Discount"
+    },
+    {
+     "level": 2,
+     "text": "Calculate Price Using Percent Off"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Price Results"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate a Discount"
+    },
+    {
+     "level": 2,
+     "text": "How to Convert a Discount to a Percentage"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate the Sale Price"
+    },
+    {
+     "level": 3,
+     "text": "How to Calculate a Percent Off Sale Price"
+    },
+    {
+     "level": 3,
+     "text": "How to Calculate a Quantity Discount"
+    },
+    {
+     "level": 2,
+     "text": "Sale Prices After Common Discounts"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "Why is the discount percentage of an item important if I know the discount dollar amount?"
+    },
+    {
+     "level": 3,
+     "text": "What is a stackable discount?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Personal Finance Calculators"
+    }
+   ],
+   "wordCount": 1345,
+   "avgSentenceWords": 27,
+   "faqs": [
+    "Why is the discount percentage of an item important if I know the discount dollar amount?",
+    "What is a stackable discount?"
+   ],
+   "faqSchemaCount": 2,
+   "topics": [
+    {
+     "term": "price",
+     "weight": 61
+    },
+    {
+     "term": "discount",
+     "weight": 58
+    },
+    {
+     "term": "sale price",
+     "weight": 33
+    },
+    {
+     "term": "sale",
+     "weight": 32
+    },
+    {
+     "term": "off",
+     "weight": 24
+    },
+    {
+     "term": "item",
+     "weight": 22
+    },
+    {
+     "term": "percentage",
+     "weight": 21
+    },
+    {
+     "term": "calculate",
+     "weight": 21
+    },
+    {
+     "term": "original price",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "discount percentage",
+     "weight": 12
+    },
+    {
+     "term": "amount",
+     "weight": 11
+    },
+    {
+     "term": "percent",
+     "weight": 11
+    },
+    {
+     "term": "initial price",
+     "weight": 11
+    },
+    {
+     "term": "original",
+     "weight": 10
+    },
+    {
+     "term": "fixed discount",
+     "weight": 9
+    },
+    {
+     "term": "percent off",
+     "weight": 9
+    },
+    {
+     "term": "decimal",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "find",
+     "weight": 8
+    },
+    {
+     "term": "percentage off",
+     "weight": 8
+    },
+    {
+     "term": "quantity discount",
+     "weight": 8
+    },
+    {
+     "term": "discount amount",
+     "weight": 8
+    },
+    {
+     "term": "example let",
+     "weight": 8
+    },
+    {
+     "term": "initial",
+     "weight": 7
+    },
+    {
+     "term": "fixed",
+     "weight": 7
+    },
+    {
+     "term": "final",
+     "weight": 7
+    },
+    {
+     "term": "results",
+     "weight": 7
+    },
+    {
+     "term": "after",
+     "weight": 7
+    },
+    {
+     "term": "discount calculator",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "For example, let’s calculate the discount on an item that is normally $50 but is on sale for $40.",
+    "discount = $50 – $40 = $10 Thus, the sale price is a $10 discount.",
+    "A $5 reduced price for a $1,000 item is not nearly as significant as it is for a $10 item, even though the dollar amount of the discount is the same.",
+    "Then, multiply by 100 to get the discount percentage.",
+    "For example, let’s calculate the discount percentage of an item that is $25 with a $5 off sale.",
+    "decimal percent = $5 ÷ $25 = 0.2 Then multiply by 100 to get the discount as a percent.",
+    "discount percentage = 0.2 × 100 = 20% So, the result is a 20% discount.",
+    "sale price = $25 – $5 = $20 So, the sale price after the discount is $20.",
+    "First, convert the discount percentage to a decimal number by dividing by 100 (or use a calculator).",
+    "For example, let’s find the sale price of an item that is $20 with a 25% discount."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 3,
+   "lists": 2,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "Price",
+    "Amount Off",
+    "Price",
+    "Percent Off"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 41,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2018-11-12",
+    "modified": "2025-09-19T17:40:53+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 128,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 47,
+    "external": 13,
+    "contentInternal": 23,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Discount Calculator",
+     "How to Calculate a Discount",
+     "How to Convert a Discount to a Percentage",
+     "How to Calculate the Sale Price",
+     "How to Calculate a Percent Off Sale Price",
+     "How to Calculate a Quantity Discount",
+     "Sale Prices After Common Discounts",
+     "Frequently Asked Questions",
+     "Full bio",
+     "percentage",
+     "decimal to percent calculator",
+     "calculator",
+     "percent off calculator",
+     "Pay Raise Calculator",
+     "Overtime Calculator",
+     "Hours Calculator",
+     "Fair Bill Split Calculator",
+     "Bill Splitter – Split Check Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/discount-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/discount/",
+     "https://www.inchcalculator.com/discount-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/discount-calculator/#idx_how_to_calculate_a_discount",
+     "https://www.inchcalculator.com/discount-calculator/#idx_how_to_convert_a_discount_to_a_percentage",
+     "https://www.inchcalculator.com/discount-calculator/#idx_how_to_calculate_the_sale_price",
+     "https://www.inchcalculator.com/discount-calculator/#idx_how_to_calculate_a_percent_off_sale_price",
+     "https://www.inchcalculator.com/discount-calculator/#idx_how_to_calculate_a_quantity_discount",
+     "https://www.inchcalculator.com/discount-calculator/#idx_sale_prices_after_common_discounts",
+     "https://www.inchcalculator.com/discount-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/laura-deimling/",
+     "https://www.inchcalculator.com/discount-calculator/",
+     "https://www.inchcalculator.com/percentage-calculator/",
+     "https://www.inchcalculator.com/decimal-to-percent-calculator/",
+     "https://www.inchcalculator.com/percent-to-decimal-calculator/",
+     "https://www.inchcalculator.com/percent-off-calculator/",
+     "https://www.inchcalculator.com/pay-raise-calculator/",
+     "https://www.inchcalculator.com/overtime-calculator/",
+     "https://www.inchcalculator.com/hours-calculator/",
+     "https://www.inchcalculator.com/fair-bill-split-calculator/",
+     "https://www.inchcalculator.com/split-bill-calculator/",
+     "https://www.inchcalculator.com/personal-finance-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fdiscount-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fdiscount-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fdiscount-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fdiscount-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fdiscount-calculator%2F&text=Discount+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fdiscount-calculator%2F&text=Discount+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/discount-calculator.html": {
+   "url": "https://www.calculator.net/discount-calculator.html",
+   "finalUrl": "https://www.calculator.net/discount-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T06:01:32.761Z",
+   "title": "Discount Calculator",
+   "metaDescription": "Online calculator to determine the final price after discount, the amount saved, or the original price before discount related to a discounted purchase.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Discount Calculator"
+   ],
+   "h2": [],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Discount Calculator"
+    }
+   ],
+   "wordCount": 314,
+   "avgSentenceWords": 29,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "price",
+     "weight": 11
+    },
+    {
+     "term": "off",
+     "weight": 11
+    },
+    {
+     "term": "discount",
+     "weight": 10
+    },
+    {
+     "term": "fixed amount",
+     "weight": 8
+    },
+    {
+     "term": "percent off",
+     "weight": 6
+    },
+    {
+     "term": "financial",
+     "weight": 5
+    },
+    {
+     "term": "percent",
+     "weight": 5
+    },
+    {
+     "term": "fixed",
+     "weight": 5
+    },
+    {
+     "term": "amount",
+     "weight": 5
+    },
+    {
+     "term": "amount off",
+     "weight": 5
+    },
+    {
+     "term": "original price",
+     "weight": 5
+    },
+    {
+     "term": "calculator",
+     "weight": 4
+    },
+    {
+     "term": "example",
+     "weight": 4
+    },
+    {
+     "term": "discount calculator",
+     "weight": 3
+    },
+    {
+     "term": "service",
+     "weight": 3
+    },
+    {
+     "term": "discounts",
+     "weight": 3
+    },
+    {
+     "term": "original",
+     "weight": 3
+    },
+    {
+     "term": "final price",
+     "weight": 3
+    },
+    {
+     "term": "subtracting",
+     "weight": 3
+    },
+    {
+     "term": "financial calculators",
+     "weight": 3
+    },
+    {
+     "term": "financial fitness",
+     "weight": 3
+    },
+    {
+     "term": "health math",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "sign in home / financial / discount calculator Discount Calculator Please provide any 2 values below to calculate.",
+    "There are numerous others that can be more confusing, such as stackable discounts where you can get 20% off the original price, then 15% more off of that discounted price."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 3,
+   "lists": 0,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "pricebefore",
+    "discount",
+    "priceafter",
+    "savedamount",
+    "Percent off",
+    "Fixed amount off"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 21,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 9,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 30,
+    "external": 0,
+    "contentInternal": 30,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "financial",
+     "discount calculator",
+     "Percent Off Calculator",
+     "Financial Calculators",
+     "Mortgage",
+     "Loan",
+     "Auto Loan",
+     "Interest",
+     "Payment",
+     "Retirement",
+     "Amortization",
+     "Investment",
+     "Currency",
+     "Inflation",
+     "Finance",
+     "Mortgage Payoff",
+     "Income Tax",
+     "Compound Interest"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/discount-calculator.html",
+     "https://www.calculator.net/percent-off-calculator.html",
+     "https://www.calculator.net/mortgage-calculator.html",
+     "https://www.calculator.net/loan-calculator.html",
+     "https://www.calculator.net/auto-loan-calculator.html",
+     "https://www.calculator.net/interest-calculator.html",
+     "https://www.calculator.net/payment-calculator.html",
+     "https://www.calculator.net/retirement-calculator.html",
+     "https://www.calculator.net/amortization-calculator.html",
+     "https://www.calculator.net/investment-calculator.html",
+     "https://www.calculator.net/currency-calculator.html",
+     "https://www.calculator.net/inflation-calculator.html",
+     "https://www.calculator.net/finance-calculator.html",
+     "https://www.calculator.net/mortgage-payoff-calculator.html",
+     "https://www.calculator.net/tax-calculator.html",
+     "https://www.calculator.net/compound-interest-calculator.html",
+     "https://www.calculator.net/salary-calculator.html",
+     "https://www.calculator.net/401k-calculator.html",
+     "https://www.calculator.net/interest-rate-calculator.html",
+     "https://www.calculator.net/sales-tax-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/financial/discount-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/financial/discount-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/financial/discount-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T06:01:54.041Z",
+   "title": "Discount Calculator",
+   "metaDescription": "Calculate the discount, list price or sale price and find out the discount amount of money saved.  Enter any two values to find the third. Where the formula is Sale Price = List Price - Discount x List Price.",
+   "canonical": "https://www.calculatorsoup.com/calculators/financial/discount-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Discount Calculator"
+   ],
+   "h2": [],
+   "h3": [
+    "Calculate Discount from List Price and Sale Price",
+    "Calculate Sale Price from List Price and Discount",
+    "Calculate List Price from Discount and Sale Price",
+    "Sample Discount Percentage Calculation",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Discount Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Calculate Discount from List Price and Sale Price"
+    },
+    {
+     "level": 4,
+     "text": "Example"
+    },
+    {
+     "level": 3,
+     "text": "Calculate Sale Price from List Price and Discount"
+    },
+    {
+     "level": 4,
+     "text": "Example"
+    },
+    {
+     "level": 3,
+     "text": "Calculate List Price from Discount and Sale Price"
+    },
+    {
+     "level": 4,
+     "text": "Example"
+    },
+    {
+     "level": 3,
+     "text": "Sample Discount Percentage Calculation"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 512,
+   "avgSentenceWords": 32,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "price",
+     "weight": 31
+    },
+    {
+     "term": "discount",
+     "weight": 25
+    },
+    {
+     "term": "list price",
+     "weight": 23
+    },
+    {
+     "term": "sale price",
+     "weight": 20
+    },
+    {
+     "term": "dfrac",
+     "weight": 16
+    },
+    {
+     "term": "list",
+     "weight": 15
+    },
+    {
+     "term": "sale",
+     "weight": 14
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "discount calculator",
+     "weight": 11
+    },
+    {
+     "term": "times",
+     "weight": 10
+    },
+    {
+     "term": "times 100",
+     "weight": 9
+    },
+    {
+     "term": "calculators",
+     "weight": 7
+    },
+    {
+     "term": "calculate",
+     "weight": 5
+    },
+    {
+     "term": "amount",
+     "weight": 5
+    },
+    {
+     "term": "percentage",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators financial",
+     "weight": 5
+    },
+    {
+     "term": "discount percentage",
+     "weight": 5
+    },
+    {
+     "term": "text amount",
+     "weight": 5
+    },
+    {
+     "term": "amount saved",
+     "weight": 5
+    },
+    {
+     "term": "100 times",
+     "weight": 5
+    },
+    {
+     "term": "lava lamp",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "financial",
+     "weight": 4
+    },
+    {
+     "term": "divided",
+     "weight": 4
+    },
+    {
+     "term": "calculator discount",
+     "weight": 3
+    },
+    {
+     "term": "calculate discount",
+     "weight": 3
+    },
+    {
+     "term": "price minus",
+     "weight": 3
+    },
+    {
+     "term": "minus",
+     "weight": 3
+    },
+    {
+     "term": "example",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "Calculate Discount from List Price and Sale Price The discount is list price minus the sale price then divided by the list price and multiplied by 100 to get a percentage.",
+    "\\[ \\text{Amount Saved} = \\$120 - \\$90 = \\$30 \\] Calculate Sale Price from List Price and Discount The sale price is the list price minus the product of the discount divided by 100 and multiplied by the list price.",
+    "\\[ \\dfrac{165.99 - 89.63}{165.99} \\times 100 = 46 \\] James got a 46% discount on the lava lamp."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 1,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Calculate:",
+    "Discount: %",
+    "Sale Price: $",
+    "reset"
+   ],
+   "selectOptionsSample": "list price discount sale price",
+   "unitToggle": false,
+   "wordsBeforeTool": 15,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "October 5, 2026",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 52,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 17,
+    "external": 0,
+    "contentInternal": 7,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Financial",
+     "Sales",
+     "Discount Calculator",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/financial/",
+     "https://www.calculatorsoup.com/calculators/financial/index-sales-calculators.php",
+     "https://www.calculatorsoup.com/calculators/financial/discount-calculator.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=financial%2F&folderName=Financial&folder2=financial%2Findex-sales-calculators.php&folderName2=Sales&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/financial/discount-calculator.php&h1=Discount+Calculator&pop_w=400&pop_h=600"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.zoho.com/kw/invoice/free-discount-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://chrome.google.com/webstore/detail/discount-calculator/hhgkcfjpojpnpnojmbicnliajhjmhlkd/reviews?hl=en-US": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.zoho.com/en-fr/invoice/free-discount-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.pearson.com/channels/ko-kr/calculators/discount-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://ecommerce-platforms.com/discount-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.pearson.com/channels/calculators/discount-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://ecommerce-platforms.com/?p=80761": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.gigacalculator.com/calculators/discount-calculator.php": [
+   "disallowed by robots.txt"
+  ],
+  "https://www.shadcn.io/tools/discount-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://apps.apple.com/sa/app/id6744504215": [
+   "unreachable (fetch failed)"
+  ],
+  "https://mintlify.com/modernharp/discountcalculator/guides/using-the-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://apps.apple.com/us/app/id6742233623": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.holded.com/tools/calculators-discount": [
+   "unreachable (fetch failed)"
+  ],
+  "https://miniwebtool.com/discount-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://prisync.com/discount-calculator": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

@@ -1,0 +1,1508 @@
+{
+ "pages": {
+  "https://www.inchcalculator.com/cubic-yards-calculator": {
+   "url": "https://www.inchcalculator.com/cubic-yards-calculator",
+   "finalUrl": "https://www.inchcalculator.com/cubic-yards-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T06:03:54.169Z",
+   "title": "Cubic Yard Calculator and Material Estimator - Inch Calculator",
+   "metaDescription": "Use the cubic yard calculator to find the volume of a space. Plus learn how to calculate cubic yards using a simple formula.",
+   "canonical": "https://www.inchcalculator.com/cubic-yards-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Cubic Yard Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Result: Cubic Yards",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate Cubic Yards",
+    "How Much is a Cubic Yard?",
+    "Cubic Yards Volume Formulas",
+    "Frequently Asked Questions",
+    "Similar Measurement Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Estimated Total Price",
+    "Cubic Yards Formula",
+    "Cubic Yards Formula Using Dimensions in Feet",
+    "Rectangular/Cubic Formula",
+    "Round or Cylinder Formula",
+    "How many feet are in a cubic yard?",
+    "How many cubic yards fit in the bed of a truck?",
+    "How much area does a cubic yard cover?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Cubic Yard Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Result: Cubic Yards"
+    },
+    {
+     "level": 3,
+     "text": "Estimated Total Price"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Cubic Yards"
+    },
+    {
+     "level": 3,
+     "text": "Cubic Yards Formula"
+    },
+    {
+     "level": 3,
+     "text": "Cubic Yards Formula Using Dimensions in Feet"
+    },
+    {
+     "level": 2,
+     "text": "How Much is a Cubic Yard?"
+    },
+    {
+     "level": 2,
+     "text": "Cubic Yards Volume Formulas"
+    },
+    {
+     "level": 3,
+     "text": "Rectangular/Cubic Formula"
+    },
+    {
+     "level": 3,
+     "text": "Round or Cylinder Formula"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "How many feet are in a cubic yard?"
+    },
+    {
+     "level": 3,
+     "text": "How many cubic yards fit in the bed of a truck?"
+    },
+    {
+     "level": 3,
+     "text": "How much area does a cubic yard cover?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Measurement Calculators"
+    }
+   ],
+   "wordCount": 1358,
+   "avgSentenceWords": 23,
+   "faqs": [
+    "How many feet are in a cubic yard?",
+    "How many cubic yards fit in the bed of a truck?",
+    "How much area does a cubic yard cover?",
+    "How Much is a Cubic Yard?"
+   ],
+   "faqSchemaCount": 3,
+   "topics": [
+    {
+     "term": "cubic",
+     "weight": 58
+    },
+    {
+     "term": "cubic yards",
+     "weight": 39
+    },
+    {
+     "term": "yards",
+     "weight": 32
+    },
+    {
+     "term": "yard",
+     "weight": 27
+    },
+    {
+     "term": "cubic yard",
+     "weight": 26
+    },
+    {
+     "term": "volume",
+     "weight": 23
+    },
+    {
+     "term": "feet",
+     "weight": 20
+    },
+    {
+     "term": "calculate",
+     "weight": 16
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "depth",
+     "weight": 13
+    },
+    {
+     "term": "cubic feet",
+     "weight": 12
+    },
+    {
+     "term": "formula",
+     "weight": 10
+    },
+    {
+     "term": "inches",
+     "weight": 9
+    },
+    {
+     "term": "length",
+     "weight": 8
+    },
+    {
+     "term": "space",
+     "weight": 8
+    },
+    {
+     "term": "material",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "width",
+     "weight": 7
+    },
+    {
+     "term": "height",
+     "weight": 7
+    },
+    {
+     "term": "length width",
+     "weight": 6
+    },
+    {
+     "term": "area",
+     "weight": 6
+    },
+    {
+     "term": "price",
+     "weight": 6
+    },
+    {
+     "term": "calculate cubic",
+     "weight": 6
+    },
+    {
+     "term": "yards formula",
+     "weight": 6
+    },
+    {
+     "term": "dimensions",
+     "weight": 6
+    },
+    {
+     "term": "cubic yardage",
+     "weight": 6
+    },
+    {
+     "term": "measurements",
+     "weight": 6
+    },
+    {
+     "term": "below",
+     "weight": 5
+    },
+    {
+     "term": "result",
+     "weight": 5
+    },
+    {
+     "term": "much",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Cubic Yards Volume Formulas Frequently Asked Questions By Joe Sexton Joe is the creator of Inch Calculator and has over 20 years of experience in engineering and construction.",
+    "cu yd = Lft × Wft × Hft / 27 The steps to find cubic yards using this method are: Measure the width, length, and height of the space in feet.",
+    "Finally, convert the cubic feet measurement to cubic yards by dividing the result by 27, since cubic yards are equal to cubic feet ÷ 27.",
+    "For example, let’s calculate the cubic yards for a space that is 12 ft long by 14 ft wide by 9 inches deep.",
+    "depth = 9 inches ÷ 12 depth = 0.75 feet Next, calculate the volume in cubic feet.",
+    "cu ft = 12 ft × 14 ft × 0.75 ft cu ft = 126 cu ft Finally, convert the volume in cubic feet to cubic yards.",
+    "cu yds = 126 cu ft ÷ 27 cu yds = 4.67 cu yds If you are calculating yardage for a concrete or landscaping project, understand that suppliers may not sell fractions of a yard of material.",
+    "yds3 = length × width × height Round or Cylinder Formula Calculate the volume in cubic yards of a cylinder using the formula πr2h, where r is the radius of the cylinder’s base and h is its height.",
+    "There are 27 cubic feet in a cubic yard.",
+    "This is variable depending on what kind of truck, but the volume of a 2022 Toyota Tacoma 6-foot truck bed is only 1.252 cubic yards."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 4,
+   "images": 5,
+   "videos": 0,
+   "calculatorInputs": [
+    "Length",
+    "Length Units",
+    "Width",
+    "Width Units",
+    "Depth",
+    "Depth Units",
+    "Price (optional)",
+    "Area",
+    "Area Units",
+    "Depth",
+    "Depth Units",
+    "Price (optional)"
+   ],
+   "selectOptionsSample": "in ft yd cm m in ft yd cm m in ft yd cm m square feet square yards square meters in ft yd cm m",
+   "unitToggle": true,
+   "wordsBeforeTool": 43,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2015-02-27",
+    "modified": "2023-03-08T01:05:17+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 130,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 56,
+    "external": 13,
+    "contentInternal": 32,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Cubic Yards Calculator",
+     "How to Calculate Cubic Yards",
+     "Cubic Yards Formula",
+     "Cubic Yards Formula Using Dimensions in Feet",
+     "How Much is a Cubic Yard?",
+     "Cubic Yards Volume Formulas",
+     "Frequently Asked Questions",
+     "Full bio",
+     "Cubic Yard Calculator",
+     "gravel",
+     "soil",
+     "mulch",
+     "concrete",
+     "yard",
+     "cubic feet",
+     "cubic inches",
+     "convert to feet",
+     "conversion calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/cubic-yards-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/cubic-yards/",
+     "https://www.inchcalculator.com/cubic-yards-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/cubic-yards-calculator/#idx_how_to_calculate_cubic_yards",
+     "https://www.inchcalculator.com/cubic-yards-calculator/#idx_cubic_yards_formula",
+     "https://www.inchcalculator.com/cubic-yards-calculator/#idx_cubic_yards_formula_using_dimensions_in_feet",
+     "https://www.inchcalculator.com/cubic-yards-calculator/#idx_how_much_is_a_cubic_yard",
+     "https://www.inchcalculator.com/cubic-yards-calculator/#idx_cubic_yards_volume_formulas",
+     "https://www.inchcalculator.com/cubic-yards-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/ethan-dederick/",
+     "https://www.inchcalculator.com/cubic-yards-calculator/",
+     "https://www.inchcalculator.com/gravel-calculator/",
+     "https://www.inchcalculator.com/soil-calculator/",
+     "https://www.inchcalculator.com/mulch-calculator/",
+     "https://www.inchcalculator.com/concrete-calculator/",
+     "https://www.inchcalculator.com/convert/from-yard/",
+     "https://www.inchcalculator.com/cubic-footage-calculator/",
+     "https://www.inchcalculator.com/cubic-inches-calculator/",
+     "https://www.inchcalculator.com/convert/inch-to-foot/",
+     "https://www.inchcalculator.com/convert/cubic-foot-to-cubic-yard/",
+     "https://www.inchcalculator.com/rounding-calculator/",
+     "https://www.inchcalculator.com/cubic-yards-to-tons-calculator/",
+     "https://www.inchcalculator.com/cylinder-cubic-yardage-calculator/",
+     "https://www.inchcalculator.com/radius-calculator/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fcubic-yards-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fcubic-yards-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fcubic-yards-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fcubic-yards-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fcubic-yards-calculator%2F&text=Cubic+Yard+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fcubic-yards-calculator%2F&text=Cubic+Yard+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/construction/cubic-yards-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/construction/cubic-yards-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/construction/cubic-yards-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T06:03:57.187Z",
+   "title": "Cubic Yards Calculator",
+   "metaDescription": "Calculate cubic yards, cubic feet or cubic meters for landscape material, mulch, fill, gravel, cement or sand. Enter measurements in US or metric units and get volume conversions to other units. How to calculate cubic yards for rectangular, circular and triangular areas. Calculate project cost based on price per cubic foot, cubic yard or cubic meter.",
+   "canonical": "https://www.calculatorsoup.com/calculators/construction/cubic-yards-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Cubic Yards Calculator"
+   ],
+   "h2": [
+    "Calculate a Rectangle Area",
+    "Converting Cubic Feet to Cubic Yards",
+    "What is a Cubic Yard?",
+    "How to Calculate Cubic Yards Using Feet and Inches",
+    "Cubic Yards in Construction and Landscaping",
+    "Cubic Yard Material Coverage",
+    "Cubic Yards Formulas and Area Calculations",
+    "Frequently Asked Questions"
+   ],
+   "h3": [
+    "Measure",
+    "Convert All of Your Measurements to Feet",
+    "Calculate Cubic Yards",
+    "Coverage per 1 Cubic Yard (by Depth)",
+    "Square Feet to Cubic Yards Given Depth",
+    "Bags per Cubic Yard",
+    "Recommended Depths by Use",
+    "Recommended Waste/Overage",
+    "Square Shape",
+    "Rectangle Shape",
+    "Rectangle Border Shape",
+    "Circle Shape",
+    "Circle Border Shape",
+    "Annulus Shape",
+    "Triangle Shape",
+    "Trapezoid Shape",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Cubic Yards Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Calculate a Rectangle Area"
+    },
+    {
+     "level": 2,
+     "text": "Converting Cubic Feet to Cubic Yards"
+    },
+    {
+     "level": 2,
+     "text": "What is a Cubic Yard?"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Cubic Yards Using Feet and Inches"
+    },
+    {
+     "level": 3,
+     "text": "Measure"
+    },
+    {
+     "level": 3,
+     "text": "Convert All of Your Measurements to Feet"
+    },
+    {
+     "level": 3,
+     "text": "Calculate Cubic Yards"
+    },
+    {
+     "level": 2,
+     "text": "Cubic Yards in Construction and Landscaping"
+    },
+    {
+     "level": 2,
+     "text": "Cubic Yard Material Coverage"
+    },
+    {
+     "level": 3,
+     "text": "Coverage per 1 Cubic Yard (by Depth)"
+    },
+    {
+     "level": 3,
+     "text": "Square Feet to Cubic Yards Given Depth"
+    },
+    {
+     "level": 3,
+     "text": "Bags per Cubic Yard"
+    },
+    {
+     "level": 3,
+     "text": "Recommended Depths by Use"
+    },
+    {
+     "level": 3,
+     "text": "Recommended Waste/Overage"
+    },
+    {
+     "level": 2,
+     "text": "Cubic Yards Formulas and Area Calculations"
+    },
+    {
+     "level": 3,
+     "text": "Square Shape"
+    },
+    {
+     "level": 4,
+     "text": "Calculate cubic yards using depth in a square"
+    },
+    {
+     "level": 3,
+     "text": "Rectangle Shape"
+    },
+    {
+     "level": 4,
+     "text": "Calculate cubic yards using depth in a rectangle"
+    },
+    {
+     "level": 3,
+     "text": "Rectangle Border Shape"
+    },
+    {
+     "level": 4,
+     "text": "Calculate cubic yards using depth in a rectangle border area"
+    },
+    {
+     "level": 3,
+     "text": "Circle Shape"
+    },
+    {
+     "level": 4,
+     "text": "Calculate cubic yards using depth in a circle"
+    },
+    {
+     "level": 3,
+     "text": "Circle Border Shape"
+    },
+    {
+     "level": 4,
+     "text": "Calculate cubic yards using depth in a circle border"
+    },
+    {
+     "level": 3,
+     "text": "Annulus Shape"
+    },
+    {
+     "level": 4,
+     "text": "Calculate cubic yards using depth in an annulus"
+    },
+    {
+     "level": 3,
+     "text": "Triangle Shape"
+    },
+    {
+     "level": 4,
+     "text": "Calculate cubic yards using depth in a triangle"
+    },
+    {
+     "level": 3,
+     "text": "Trapezoid Shape"
+    },
+    {
+     "level": 4,
+     "text": "Calculate cubic yards using depth in a trapezoid"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 1509,
+   "avgSentenceWords": 32,
+   "faqs": [
+    "What is a Cubic Yard?",
+    "Should I add extra for waste or settling?",
+    "How do I measure odd or curved areas?",
+    "Can I use this for concrete yardage?",
+    "Is bulk cheaper than buying bags?",
+    "What’s the difference between square yards and cubic yards?",
+    "Why does my result seem low or high?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "cubic",
+     "weight": 75
+    },
+    {
+     "term": "cubic yards",
+     "weight": 75
+    },
+    {
+     "term": "yards",
+     "weight": 52
+    },
+    {
+     "term": "area",
+     "weight": 41
+    },
+    {
+     "term": "feet",
+     "weight": 36
+    },
+    {
+     "term": "volume",
+     "weight": 30
+    },
+    {
+     "term": "depth",
+     "weight": 28
+    },
+    {
+     "term": "calculate",
+     "weight": 20
+    },
+    {
+     "term": "calculate cubic",
+     "weight": 20
+    },
+    {
+     "term": "calculator",
+     "weight": 18
+    },
+    {
+     "term": "cubic yard",
+     "weight": 17
+    },
+    {
+     "term": "area volume",
+     "weight": 17
+    },
+    {
+     "term": "yards calculator",
+     "weight": 15
+    },
+    {
+     "term": "cubic feet",
+     "weight": 14
+    },
+    {
+     "term": "mulch",
+     "weight": 12
+    },
+    {
+     "term": "depth area",
+     "weight": 12
+    },
+    {
+     "term": "shape calculate",
+     "weight": 12
+    },
+    {
+     "term": "yard",
+     "weight": 11
+    },
+    {
+     "term": "length",
+     "weight": 10
+    },
+    {
+     "term": "width",
+     "weight": 10
+    },
+    {
+     "term": "inches",
+     "weight": 10
+    },
+    {
+     "term": "measurements",
+     "weight": 10
+    },
+    {
+     "term": "material",
+     "weight": 9
+    },
+    {
+     "term": "shape",
+     "weight": 9
+    },
+    {
+     "term": "border",
+     "weight": 9
+    },
+    {
+     "term": "inner",
+     "weight": 9
+    },
+    {
+     "term": "inner area",
+     "weight": 9
+    },
+    {
+     "term": "length width",
+     "weight": 8
+    },
+    {
+     "term": "feet area",
+     "weight": 8
+    },
+    {
+     "term": "construction",
+     "weight": 7
+    }
+   ],
+   "claims": [
+    "A cubic yard equals 27 cubic feet and is a standard unit in construction.",
+    "Multiply them together, then divide by 27 to get cubic yards.",
+    "Divide cubic feet by 27 to get cubic yards."
+   ],
+   "schemaTypes": [
+    "ImageObject",
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "JSON-LD",
+    "microdata"
+   ],
+   "tables": 5,
+   "lists": 6,
+   "images": 9,
+   "videos": 0,
+   "calculatorInputs": [
+    "Enter area or dimensions:",
+    "Depth =",
+    "depth unit",
+    "Length =",
+    "length unit",
+    "Width =",
+    "width unit",
+    "Quantity =",
+    "currency",
+    "price",
+    "per cubic",
+    "reset"
+   ],
+   "selectOptionsSample": "known area square rectangle circle triangle rectangle border circle border annulus trapezoid in ft yds mm cm m in ft mm cm m in ft mm cm m $ € £ ₹ 元 ¥ r ¤ foot (ft³) yard (yd³) meter (m³)",
+   "unitToggle": true,
+   "wordsBeforeTool": 19,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "October 7, 2025",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 92,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 27,
+    "external": 0,
+    "contentInternal": 17,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Construction",
+     "Cubic Yards Calculator",
+     "Rectangle Image",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "concrete calculator",
+     "mulch calculator",
+     "square",
+     "rectangle",
+     "rectangle border area",
+     "circle",
+     "circle border",
+     "annulus",
+     "triangle",
+     "trapezoid",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/construction/",
+     "https://www.calculatorsoup.com/calculators/construction/cubic-yards-calculator.php",
+     "https://www.calculatorsoup.com/calculators/construction/cubic-yards-calculator.php#calculationImage",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=construction%2F&folderName=Construction&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/construction/cubic-yards-calculator.php&h1=Cubic+Yards+Calculator&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php",
+     "https://www.calculatorsoup.com/calculators/construction/mulch-calculator.php",
+     "https://www.calculatorsoup.com/calculators/construction/cubic-yards-calculator.php?given_data=square",
+     "https://www.calculatorsoup.com/calculators/construction/cubic-yards-calculator.php?given_data=rectangle",
+     "https://www.calculatorsoup.com/calculators/construction/cubic-yards-calculator.php?given_data=rectangle-border",
+     "https://www.calculatorsoup.com/calculators/construction/cubic-yards-calculator.php?given_data=circle",
+     "https://www.calculatorsoup.com/calculators/construction/cubic-yards-calculator.php?given_data=circle-border",
+     "https://www.calculatorsoup.com/calculators/construction/cubic-yards-calculator.php?given_data=annulus",
+     "https://www.calculatorsoup.com/calculators/construction/cubic-yards-calculator.php?given_data=triangle",
+     "https://www.calculatorsoup.com/calculators/construction/cubic-yards-calculator.php?given_data=trapezoid"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.thecalculatorsite.com/misc/cubic-yards-calculator.php": {
+   "url": "https://www.thecalculatorsite.com/misc/cubic-yards-calculator.php",
+   "finalUrl": "https://www.thecalculatorsite.com/misc/cubic-yards-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.thecalculatorsite.com",
+   "fetchedAt": "2026-11-22T06:08:30.737Z",
+   "title": "Cubic Yards Calculator and Price Estimator",
+   "metaDescription": "Use this cubic yards calculator to calculate the cubic yardage of an area for materials such as concrete, sand, asphalt, compost, mulch or topsoil",
+   "canonical": "https://www.thecalculatorsite.com/misc/cubic-yards-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Cubic Yards Calculator"
+   ],
+   "h2": [
+    "How to calculate cubic yards",
+    "Example calculation",
+    "How to convert square feet to cubic yards",
+    "How much will my cubic yard of materials weigh?"
+   ],
+   "h3": [
+    "Other useful calculators"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Cubic Yards Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate cubic yards"
+    },
+    {
+     "level": 2,
+     "text": "Example calculation"
+    },
+    {
+     "level": 2,
+     "text": "How to convert square feet to cubic yards"
+    },
+    {
+     "level": 2,
+     "text": "How much will my cubic yard of materials weigh?"
+    },
+    {
+     "level": 3,
+     "text": "Other useful calculators"
+    },
+    {
+     "level": 4,
+     "text": "Finance"
+    },
+    {
+     "level": 4,
+     "text": "Home & Garden"
+    },
+    {
+     "level": 4,
+     "text": "Cooking"
+    },
+    {
+     "level": 4,
+     "text": "Website"
+    }
+   ],
+   "wordCount": 1495,
+   "avgSentenceWords": 31,
+   "faqs": [
+    "How much will my cubic yard of materials weigh?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "calculator",
+     "weight": 66
+    },
+    {
+     "term": "cubic",
+     "weight": 43
+    },
+    {
+     "term": "cubic yards",
+     "weight": 38
+    },
+    {
+     "term": "feet",
+     "weight": 36
+    },
+    {
+     "term": "yards",
+     "weight": 26
+    },
+    {
+     "term": "inches",
+     "weight": 22
+    },
+    {
+     "term": "square",
+     "weight": 20
+    },
+    {
+     "term": "grams",
+     "weight": 19
+    },
+    {
+     "term": "cubic feet",
+     "weight": 15
+    },
+    {
+     "term": "yards calculator",
+     "weight": 12
+    },
+    {
+     "term": "cups",
+     "weight": 11
+    },
+    {
+     "term": "weight",
+     "weight": 11
+    },
+    {
+     "term": "area",
+     "weight": 11
+    },
+    {
+     "term": "mulch",
+     "weight": 11
+    },
+    {
+     "term": "depth",
+     "weight": 11
+    },
+    {
+     "term": "cubic yard",
+     "weight": 11
+    },
+    {
+     "term": "calculators",
+     "weight": 10
+    },
+    {
+     "term": "pounds",
+     "weight": 10
+    },
+    {
+     "term": "length",
+     "weight": 9
+    },
+    {
+     "term": "square feet",
+     "weight": 9
+    },
+    {
+     "term": "calculator cubic",
+     "weight": 9
+    },
+    {
+     "term": "square footage",
+     "weight": 9
+    },
+    {
+     "term": "calculate",
+     "weight": 9
+    },
+    {
+     "term": "materials",
+     "weight": 8
+    },
+    {
+     "term": "figure",
+     "weight": 8
+    },
+    {
+     "term": "ounces",
+     "weight": 7
+    },
+    {
+     "term": "gravel",
+     "weight": 7
+    },
+    {
+     "term": "width",
+     "weight": 7
+    },
+    {
+     "term": "yard",
+     "weight": 7
+    },
+    {
+     "term": "interest",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "How to calculate cubic yards To calculate cubic yards we use the following formula: Cubic yards = Length (ft) x Width (ft) x Depth (ft) ÷ 27 This formula does, of course, assume you've measured the depth in feet.",
+    "Multiply your area figure (from step 1) by your depth figure (from step 3) to get cubic feet.",
+    "Divide your cubic feet figure by 27 to get cubic yards.",
+    "This means our measurements are: Width: 10 feet Length: 15 feet Depth: 0.5 feet To calculate cubic yards, we multiply 10 × 15 × 0.5 to get a total of 75 cubic feet.",
+    "We then divide by 27 to get 2.78 cubic yards.",
+    "Divide your result by 27 to get your cubic yards measurement."
+   ],
+   "schemaTypes": [],
+   "schemaFormats": [],
+   "tables": 2,
+   "lists": 30,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "I want to calculate/convert...",
+    "Length and width",
+    "Known area",
+    "Square ft",
+    "Square yd",
+    "Square m",
+    "Feet",
+    "Yards",
+    "Meters",
+    "Length:",
+    "Width:",
+    "Depth:",
+    "inches",
+    "feet",
+    "cm",
+    "Material type:",
+    "currency",
+    "Price per unit:",
+    "priceUnit"
+   ],
+   "selectOptionsSample": "select material... concrete topsoil mulch gravel sand compost decorative stone asphalt other $ € £ ₹ ¥ cu ft (ft³) cu yd (yd³) cu m (m³)",
+   "unitToggle": true,
+   "wordsBeforeTool": 7,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 308,
+    "adNetworks": [
+     "gpt",
+     "adthrive",
+     "ezoic"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 160,
+    "external": 1,
+    "contentInternal": 160,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Finance Calculators",
+     "Compound Interest",
+     "Compound Interest (Daily)",
+     "Amortization Calculator",
+     "APY Calculator",
+     "CAGR Calculator",
+     "Car Loan Calculator",
+     "Cash Back Calculator",
+     "Currency Converter",
+     "Forex Compounding",
+     "Future Value Calculator",
+     "How Long to Save",
+     "Interest Rate Calculator",
+     "Investment Calculator",
+     "IRR Calculator",
+     "Loan Calculator",
+     "Loan Payoff Calculator",
+     "Margin Calculator",
+     "Million to Billion Converter",
+     "MMA Calculator"
+    ],
+    "internalSample": [
+     "https://www.thecalculatorsite.com/",
+     "https://www.thecalculatorsite.com/finance/",
+     "https://www.thecalculatorsite.com/finance/calculators/compoundinterestcalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/daily-compound-interest.php",
+     "https://www.thecalculatorsite.com/finance/calculators/amortization-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/apy-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/cagr-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/carloancalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/cash-back.php",
+     "https://www.thecalculatorsite.com/finance/calculators/currencyconverter.php",
+     "https://www.thecalculatorsite.com/finance/calculators/forex-compound-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/future-value-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/how-long-to-save",
+     "https://www.thecalculatorsite.com/finance/calculators/interest-rate-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/investment-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/irr-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/loancalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/loan-payoff-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/margin-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/million-billion",
+     "https://www.thecalculatorsite.com/finance/calculators/money-market-account.php",
+     "https://www.thecalculatorsite.com/finance/calculators/money-counter.php",
+     "https://www.thecalculatorsite.com/finance/calculators/price-per-sqft.php",
+     "https://www.thecalculatorsite.com/finance/calculators/savings-calculators.php",
+     "https://www.thecalculatorsite.com/finance/calculators/savings-goal-calculator.php"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=thecalculatorsite.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/construction/cubic-yard": {
+   "url": "https://www.omnicalculator.com/construction/cubic-yard",
+   "finalUrl": "https://www.omnicalculator.com/construction/cubic-yard",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T06:08:50.496Z",
+   "title": "Cubic Yard Calculator",
+   "metaDescription": "Check out this cubic yard calculator to work out the yardage of different shapes of volume.",
+   "canonical": "https://www.omnicalculator.com/construction/cubic-yard",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Cubic Yard Calculator"
+   ],
+   "h2": [
+    "How much is a cubic yard?",
+    "How do I convert cubic feet to cubic yards?",
+    "How do I convert cubic inches to cubic yards?",
+    "How to estimate a volume from square feet to cubic yards?",
+    "How to use cubic yard calculator?",
+    "Yardage calculator in practice",
+    "FAQs"
+   ],
+   "h3": [
+    "How many cubic feet is 2 cubic yards?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Cubic Yard Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How much is a cubic yard?"
+    },
+    {
+     "level": 2,
+     "text": "How do I convert cubic feet to cubic yards?"
+    },
+    {
+     "level": 2,
+     "text": "How do I convert cubic inches to cubic yards?"
+    },
+    {
+     "level": 2,
+     "text": "How to estimate a volume from square feet to cubic yards?"
+    },
+    {
+     "level": 2,
+     "text": "How to use cubic yard calculator?"
+    },
+    {
+     "level": 2,
+     "text": "Yardage calculator in practice"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How many cubic feet is 2 cubic yards?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1457,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "How much is a cubic yard?",
+    "How do I convert cubic feet to cubic yards?",
+    "How do I convert cubic inches to cubic yards?",
+    "How many cubic feet is 2 cubic yards?",
+    "How to estimate a volume from square feet to cubic yards?",
+    "How to use cubic yard calculator?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "cubic",
+     "weight": 62
+    },
+    {
+     "term": "cubic yards",
+     "weight": 39
+    },
+    {
+     "term": "yards",
+     "weight": 28
+    },
+    {
+     "term": "cubic yard",
+     "weight": 24
+    },
+    {
+     "term": "volume",
+     "weight": 23
+    },
+    {
+     "term": "feet",
+     "weight": 20
+    },
+    {
+     "term": "cubic feet",
+     "weight": 17
+    },
+    {
+     "term": "yard",
+     "weight": 16
+    },
+    {
+     "term": "calculator",
+     "weight": 15
+    },
+    {
+     "term": "square",
+     "weight": 14
+    },
+    {
+     "term": "find",
+     "weight": 11
+    },
+    {
+     "term": "want",
+     "weight": 11
+    },
+    {
+     "term": "square feet",
+     "weight": 11
+    },
+    {
+     "term": "area",
+     "weight": 10
+    },
+    {
+     "term": "shape",
+     "weight": 9
+    },
+    {
+     "term": "cubic inches",
+     "weight": 9
+    },
+    {
+     "term": "depth",
+     "weight": 8
+    },
+    {
+     "term": "inches",
+     "weight": 8
+    },
+    {
+     "term": "yard calculator",
+     "weight": 8
+    },
+    {
+     "term": "many cubic",
+     "weight": 8
+    },
+    {
+     "term": "many",
+     "weight": 7
+    },
+    {
+     "term": "convert",
+     "weight": 7
+    },
+    {
+     "term": "square footage",
+     "weight": 6
+    },
+    {
+     "term": "yardage",
+     "weight": 6
+    },
+    {
+     "term": "convert cubic",
+     "weight": 6
+    },
+    {
+     "term": "multiply",
+     "weight": 6
+    },
+    {
+     "term": "area depth",
+     "weight": 6
+    },
+    {
+     "term": "material",
+     "weight": 5
+    },
+    {
+     "term": "price",
+     "weight": 5
+    },
+    {
+     "term": "unit",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "One cubic yard is defined as the volume of a cube with 1 yd long edges.",
+    "One cubic yard is denoted by 1 yd³ or 1 cu yd.",
+    "One cubic foot, ft³ or cu ft, is the volume of a cube with sides 1 ft long.",
+    "Let's find the yardage: The total distance of the paths is 320 ft, and they don't cross one another.",
+    "Convert inches into feet, 20 in × 1/12 = 12/3 ft, and multiply this by the square footage to move from square feet to cubic feet, 1600 ft² × 1 ⅔ ft = 2666 ⅔ ft³.",
+    "It is difficult to move from square feet to cubic yards, so now that we have the cubic feet, multiply it by the conversion ratio 1/27: 2666⅔ ft³ × 1/27 = 98.77 yd³.",
+    "To derive this answer, you need to: Recall the conversion factor: one cubic yard is 27 cubic feet.",
+    "Multiply 2 cubic yards by the conversion factor: 2 × 27 = 54.",
+    "Remember to include the unit: the answer is 54 cubic feet."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 10,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Shape (select from the list)"
+   ],
+   "selectOptionsSample": "select box cube cylinder hollow cuboid / rectangular tube hollow cylinder hemisphere cone pyramid other shape",
+   "unitToggle": true,
+   "wordsBeforeTool": 8,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Wojciech Sas",
+    "published": "2016-01-06T01:11:32.619Z",
+    "modified": "2026-08-15T19:45:57.632Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 1154,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 24,
+    "external": 1,
+    "contentInternal": 8,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "volume calculator",
+     "square feet to cubic yards calculator",
+     "ratio calculator",
+     "volume converter",
+     "gallons per square foot calculator",
+     "cubic yards to tons converter",
+     "Stone Weight Calculator",
+     "Board and Batten Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/math/volume",
+     "https://www.omnicalculator.com/construction/ft2-yd3",
+     "https://www.omnicalculator.com/math/ratio",
+     "https://www.omnicalculator.com/conversion/volume-conversion",
+     "https://www.omnicalculator.com/construction/gallons-per-square-foot",
+     "https://www.omnicalculator.com/conversion/cubic-yards-to-tons",
+     "https://www.omnicalculator.com/construction/stone",
+     "https://www.omnicalculator.com/construction/board-and-batten"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.homedit.com/calculators/cubic-yards-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://omnicalculator.com/construction/cubic-yard": [
+   "unreachable (fetch failed)"
+  ],
+  "https://thecalculatorsite.com/misc/cubic-yards-calculator.php": [
+   "unreachable (fetch failed)"
+  ],
+  "https://todayshomeowner.com/cubic-yard-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.size.ly/calculator/cubic-yards-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://convertcalculator.com/tools/cubic-yard-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://calculator.io/cubic-yards-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://sciencing.com/calculate-cubic-yards-2266389.html": [
+   "unreachable (fetch failed)"
+  ],
+  "https://wpforms.com/templates/cubic-yard-calculator-form-template/?utm_locale=id_ID": [
+   "unreachable (fetch failed)"
+  ],
+  "https://miniwebtool.com/cubic-yard-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.easyunitconverter.com/cubic-yard-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://civils.ai/free-cubic-yard-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://calculator.academy/cubic-yard-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://convertcalculator.com/templates/cubic-yard-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://mycalcbuddy.com/construction/cubic-yard-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://calculator.academy/yard-calculator-cubic-yards-for-soil-mulch-gravel/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.calconic.com/calculator-widgets/cubic-yard-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.soildirect.com/calculator": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

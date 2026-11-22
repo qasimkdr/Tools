@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How many cubic feet are in a cubic yard?", a: "There are 27 cubic feet in a cubic yard. A yard is 3 feet, so a cube 1 yard on each side measures 3 × 3 × 3 = 27 cubic feet. To convert cubic feet to cubic yards, divide by 27." },
+  { q: "How do I calculate cubic yards?", a: "Measure length, width and depth, convert all three to feet, multiply them to get cubic feet, then divide by 27. A bed 12 ft × 14 ft and 9 inches (0.75 ft) deep is 12 × 14 × 0.75 = 126 cubic feet, or 4.67 cubic yards." },
+  { q: "How much area does a cubic yard cover?", a: "One cubic yard covers 324 square feet at 1 inch deep, 162 sq ft at 2 inches, 108 sq ft at 3 inches, 81 sq ft at 4 inches and 54 sq ft at 6 inches. Divide 324 by the depth in inches." },
+  { q: "How much extra should I order?", a: "Add about 5–10% for uneven ground, spillage and settling. Loose materials such as mulch and topsoil compact after spreading, so many people round up to the next half or whole yard, which is also how suppliers usually sell bulk material." },
+  { q: "How many bags equal a cubic yard?", a: "It depends on the bag size: 27 bags of 1 cubic foot, 13.5 bags of 2 cubic feet, or 9 bags of 3 cubic feet make one cubic yard. For more than a couple of yards, bulk delivery is usually cheaper than bags." },
+  { q: "How much does a cubic yard weigh?", a: "It varies a lot by material and moisture. Typical ranges are roughly 0.2–0.4 tons for mulch, 1.0–1.3 tons for topsoil, 1.2–1.5 tons for sand, 1.4–1.7 tons for gravel and about 2 tons for concrete. Check your supplier's figure and your vehicle's payload before hauling it yourself." },
+];

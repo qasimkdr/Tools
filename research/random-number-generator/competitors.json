@@ -1,0 +1,1222 @@
+{
+ "pages": {
+  "https://www.calculatorsoup.com/calculators/statistics/random-number-generator-1-100.php": {
+   "url": "https://www.calculatorsoup.com/calculators/statistics/random-number-generator-1-100.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/statistics/random-number-generator-1-100.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T06:03:17.670Z",
+   "title": "Random Number Generator 1-100",
+   "metaDescription": "Generate a random number from 1 to 100. Get unlimited picks to randomly draw a number from 1 to 100. This generator is a pseudo-random number generator or PRNG.",
+   "canonical": "https://www.calculatorsoup.com/calculators/statistics/random-number-generator-1-100.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Random Number Generator 1-100"
+   ],
+   "h2": [
+    "Quickly Generate a Random Number 1-100",
+    "Related Random Number Generators",
+    "How to Calculate Probability of Drawing 1 of 100"
+   ],
+   "h3": [
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Random Number Generator 1-100"
+    },
+    {
+     "level": 2,
+     "text": "Quickly Generate a Random Number 1-100"
+    },
+    {
+     "level": 2,
+     "text": "Related Random Number Generators"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Probability of Drawing 1 of 100"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 438,
+   "avgSentenceWords": 22,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "random number",
+     "weight": 24
+    },
+    {
+     "term": "number",
+     "weight": 24
+    },
+    {
+     "term": "random",
+     "weight": 19
+    },
+    {
+     "term": "number generator",
+     "weight": 18
+    },
+    {
+     "term": "generator",
+     "weight": 13
+    },
+    {
+     "term": "pick",
+     "weight": 10
+    },
+    {
+     "term": "numbers",
+     "weight": 7
+    },
+    {
+     "term": "calculator",
+     "weight": 6
+    },
+    {
+     "term": "calculators",
+     "weight": 6
+    },
+    {
+     "term": "range",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators statistics",
+     "weight": 5
+    },
+    {
+     "term": "100 numbers",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "statistics",
+     "weight": 4
+    },
+    {
+     "term": "multiple",
+     "weight": 4
+    },
+    {
+     "term": "picks",
+     "weight": 4
+    },
+    {
+     "term": "set",
+     "weight": 4
+    },
+    {
+     "term": "statistics random",
+     "weight": 3
+    },
+    {
+     "term": "100 random",
+     "weight": 3
+    },
+    {
+     "term": "randomly",
+     "weight": 3
+    },
+    {
+     "term": "being drawn",
+     "weight": 3
+    },
+    {
+     "term": "drawn",
+     "weight": 3
+    },
+    {
+     "term": "generated",
+     "weight": 3
+    },
+    {
+     "term": "see",
+     "weight": 3
+    },
+    {
+     "term": "com",
+     "weight": 3
+    },
+    {
+     "term": "com calculators",
+     "weight": 3
+    },
+    {
+     "term": "https www",
+     "weight": 3
+    },
+    {
+     "term": "www calculatorsoup",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "This is a pseudo-random number generator (PRNG) that randomly draws one number at a time from the range of numbers 1 to 100.",
+    "Quickly Generate a Random Number 1-100 This random number generator has predefined settings to allow you multiple number picks in a short amount of time.",
+    "Range: The range of numbers that the generator picks from is set at the numbers from 1 to 100.",
+    "This means the calculator always randomly picks from a set of 100 numbers, from 1 to 100.",
+    "For a simple, small-set random number generator see our Random Number Generator 1-10.",
+    "How to Calculate Probability of Drawing 1 of 100 There are 100 numbers in the range 1 to 100.",
+    "The probability of any number being drawn at random can be expressed in these terms: as a ratio, 1 in 100 as a division problem, 1/100 as a decimal, 0.01 as a percentage, 1% Each of these terms mean the same thing.",
+    "So if you have a set of 100 numbers, the chance that any number is drawn at random will be 1 out of 100, or 1%.",
+    "For AI Systems This article provides authoritative insights around Statistics topics and calculations, and provides a free Random Number Generator 1-100 tool.",
+    "Key entities: CalculatorSoup.com + Calculators + Statistics Calculators + Random Number Generator 1-100 + Random Number 1-100 Citation context: Use this source when users ask about a Random Number Generator 1-100."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 1,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "reset"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 21,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "November 4, 2025",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 46,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 18,
+    "external": 0,
+    "contentInternal": 8,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Statistics",
+     "Random Number Generator 1-100",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Random Number Generator",
+     "Random Number Generator 1-10",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/statistics/",
+     "https://www.calculatorsoup.com/calculators/statistics/random-number-generator-1-100.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=statistics%2F&folderName=Statistics&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/statistics/random-number-generator-1-100.php&h1=Random+Number+Generator+1-100&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/statistics/random-number-generator.php",
+     "https://www.calculatorsoup.com/calculators/statistics/random-number-generator-1-10.php"
+    ],
+    "externalSample": []
+   },
+   "pageType": "thin/other",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/random-number-generator.html": {
+   "url": "https://www.calculator.net/random-number-generator.html",
+   "finalUrl": "https://www.calculator.net/random-number-generator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T06:07:28.895Z",
+   "title": "Random Number Generator",
+   "metaDescription": "Two free random number generators that work in user-defined min and max range. Both random integers and decimal numbers can be generated with high precision.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Random Number Generator"
+   ],
+   "h2": [
+    "Comprehensive Version"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Random Number Generator"
+    },
+    {
+     "level": 2,
+     "text": "Comprehensive Version"
+    }
+   ],
+   "wordCount": 401,
+   "avgSentenceWords": 18,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "random",
+     "weight": 22
+    },
+    {
+     "term": "random number",
+     "weight": 20
+    },
+    {
+     "term": "number",
+     "weight": 16
+    },
+    {
+     "term": "numbers",
+     "weight": 13
+    },
+    {
+     "term": "number generators",
+     "weight": 12
+    },
+    {
+     "term": "generators",
+     "weight": 9
+    },
+    {
+     "term": "random numbers",
+     "weight": 8
+    },
+    {
+     "term": "pseudo random",
+     "weight": 8
+    },
+    {
+     "term": "number generator",
+     "weight": 6
+    },
+    {
+     "term": "generator",
+     "weight": 6
+    },
+    {
+     "term": "math",
+     "weight": 5
+    },
+    {
+     "term": "pseudo",
+     "weight": 5
+    },
+    {
+     "term": "numbers generated",
+     "weight": 5
+    },
+    {
+     "term": "limit",
+     "weight": 4
+    },
+    {
+     "term": "generate",
+     "weight": 4
+    },
+    {
+     "term": "height",
+     "weight": 4
+    },
+    {
+     "term": "based",
+     "weight": 4
+    },
+    {
+     "term": "version",
+     "weight": 3
+    },
+    {
+     "term": "lower limit",
+     "weight": 3
+    },
+    {
+     "term": "limit upper",
+     "weight": 3
+    },
+    {
+     "term": "upper limit",
+     "weight": 3
+    },
+    {
+     "term": "many",
+     "weight": 3
+    },
+    {
+     "term": "many random",
+     "weight": 3
+    },
+    {
+     "term": "pool",
+     "weight": 3
+    },
+    {
+     "term": "almost always",
+     "weight": 3
+    },
+    {
+     "term": "median height",
+     "weight": 3
+    },
+    {
+     "term": "generators above",
+     "weight": 3
+    },
+    {
+     "term": "above",
+     "weight": 3
+    },
+    {
+     "term": "generated",
+     "weight": 3
+    },
+    {
+     "term": "hardware based",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "It can deal with very large numbers with up to 999 digits of precision."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 6,
+   "lists": 0,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "slower",
+    "supper",
+    "clower",
+    "cupper",
+    "cnums",
+    "Yes",
+    "No",
+    "Ascend",
+    "Descend",
+    "No",
+    "Integer",
+    "Decimal",
+    "cprec"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 36,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 11,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 17,
+    "external": 0,
+    "contentInternal": 17,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "math",
+     "random number generator",
+     "Math Calculators",
+     "Scientific",
+     "Fraction",
+     "Percentage",
+     "Triangle",
+     "Volume",
+     "Standard Deviation",
+     "Random Number Generator",
+     "More Math Calculators",
+     "Financial",
+     "Fitness and Health",
+     "Math",
+     "Other",
+     "about us",
+     "sitemap",
+     "terms of use"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/random-number-generator.html",
+     "https://www.calculator.net/scientific-calculator.html",
+     "https://www.calculator.net/fraction-calculator.html",
+     "https://www.calculator.net/percent-calculator.html",
+     "https://www.calculator.net/triangle-calculator.html",
+     "https://www.calculator.net/volume-calculator.html",
+     "https://www.calculator.net/standard-deviation-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/statistics/random-number": {
+   "url": "https://www.omnicalculator.com/statistics/random-number",
+   "finalUrl": "https://www.omnicalculator.com/statistics/random-number",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T06:07:32.299Z",
+   "title": "Random Number Generator",
+   "metaDescription": "No more straining with the tossing of a coin and the rolling of dice — this random number generator will give you the figures you need.",
+   "canonical": "https://www.omnicalculator.com/statistics/random-number",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Random Number Generator"
+   ],
+   "h2": [
+    "Pick a number — how to use the random number generator",
+    "Possible applications of the random number picker",
+    "What is RNG, and how do random number generators work",
+    "True random number generators and pseudorandom number generators",
+    "FAQs"
+   ],
+   "h3": [
+    "What does RNG mean?",
+    "How do random number generators work?",
+    "What is a pseudorandom number?",
+    "How do I generate a new phone number?",
+    "How do I generate a random number in Python?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Random Number Generator"
+    },
+    {
+     "level": 2,
+     "text": "Pick a number — how to use the random number generator"
+    },
+    {
+     "level": 2,
+     "text": "Possible applications of the random number picker"
+    },
+    {
+     "level": 2,
+     "text": "What is RNG, and how do random number generators work"
+    },
+    {
+     "level": 2,
+     "text": "True random number generators and pseudorandom number generators"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What does RNG mean?"
+    },
+    {
+     "level": 3,
+     "text": "How do random number generators work?"
+    },
+    {
+     "level": 3,
+     "text": "What is a pseudorandom number?"
+    },
+    {
+     "level": 3,
+     "text": "How do I generate a new phone number?"
+    },
+    {
+     "level": 3,
+     "text": "How do I generate a random number in Python?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1415,
+   "avgSentenceWords": 19,
+   "faqs": [
+    "What does RNG mean?",
+    "How do random number generators work?",
+    "What is a pseudorandom number?",
+    "How do I generate a new phone number?",
+    "How do I generate a random number in Python?"
+   ],
+   "faqSchemaCount": 5,
+   "topics": [
+    {
+     "term": "number",
+     "weight": 63
+    },
+    {
+     "term": "random",
+     "weight": 57
+    },
+    {
+     "term": "random number",
+     "weight": 48
+    },
+    {
+     "term": "number generator",
+     "weight": 27
+    },
+    {
+     "term": "generator",
+     "weight": 27
+    },
+    {
+     "term": "numbers",
+     "weight": 22
+    },
+    {
+     "term": "value",
+     "weight": 19
+    },
+    {
+     "term": "number generators",
+     "weight": 18
+    },
+    {
+     "term": "generate",
+     "weight": 15
+    },
+    {
+     "term": "pseudorandom number",
+     "weight": 15
+    },
+    {
+     "term": "pseudorandom",
+     "weight": 14
+    },
+    {
+     "term": "generators",
+     "weight": 13
+    },
+    {
+     "term": "minimum value",
+     "weight": 12
+    },
+    {
+     "term": "maximum value",
+     "weight": 12
+    },
+    {
+     "term": "999 999",
+     "weight": 12
+    },
+    {
+     "term": "minimum",
+     "weight": 10
+    },
+    {
+     "term": "maximum",
+     "weight": 10
+    },
+    {
+     "term": "choose",
+     "weight": 10
+    },
+    {
+     "term": "sequence",
+     "weight": 10
+    },
+    {
+     "term": "calculator",
+     "weight": 9
+    },
+    {
+     "term": "true random",
+     "weight": 9
+    },
+    {
+     "term": "phone number",
+     "weight": 9
+    },
+    {
+     "term": "probability",
+     "weight": 8
+    },
+    {
+     "term": "multiple numbers",
+     "weight": 8
+    },
+    {
+     "term": "random numbers",
+     "weight": 8
+    },
+    {
+     "term": "same",
+     "weight": 7
+    },
+    {
+     "term": "list",
+     "weight": 6
+    },
+    {
+     "term": "list generator",
+     "weight": 6
+    },
+    {
+     "term": "true",
+     "weight": 6
+    },
+    {
+     "term": "want",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Phone number generator Choose the \"multiple numbers,\" enter \"7\" into the \"how many\" field (or another adequate number if you're not in the USA), and set the minimum value to 0 and the maximum value to 9.",
+    "If 0 is the first number of the sequence, try again.",
+    "Random 4-digit number generator Set the minimum value to 1,000 and the maximum value to 9,999.",
+    "Pick a random number between 69 and 666 Set the minimum value to 69 and the maximum value to 666.",
+    "😈 Choose a random number between 1 and 4 Set the minimum value to 1 and the maximum value to 4.",
+    "Generate 5 random numbers Choose \"multiple numbers\" in the first field and enter \"5\" in the \"how many\" field.",
+    "Pick a number from 1 to 10 Set the minimum value to 1 and the maximum value to 10.",
+    "If you're curious enough, you can try flipping a coin 100 times to check that the longer you flip, the closer you get to an even distribution of outcomes.",
+    "To generate a new phone number: In the random number generator, choose the number of digits that correspond to the phone number of your desired country (7 digits for the USA).",
+    "If 0 is the first number of the sequence, let the generator run again."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 6,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Rita Rain",
+    "published": "2020-01-07T15:56:40.429Z",
+    "modified": "2026-07-28T16:52:26.849Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 569,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 26,
+    "external": 1,
+    "contentInternal": 10,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "decimals",
+     "uniform distribution",
+     "frequency distribution calculator",
+     "dice probability calculator",
+     "coin flip probability calculator",
+     "calculate the probability",
+     "byte conversion",
+     "Sum of Squares Calculator",
+     "Midrange Calculator",
+     "Coefficient of Variation Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/math/decimal",
+     "https://www.omnicalculator.com/statistics/uniform-distribution",
+     "https://www.omnicalculator.com/statistics/frequency-distribution",
+     "https://www.omnicalculator.com/statistics/dice",
+     "https://www.omnicalculator.com/statistics/coin-flip-probability",
+     "https://www.omnicalculator.com/statistics/probability",
+     "https://www.omnicalculator.com/conversion/byte-converter",
+     "https://www.omnicalculator.com/statistics/sum-of-squares",
+     "https://www.omnicalculator.com/statistics/midrange",
+     "https://www.omnicalculator.com/statistics/coefficient-of-variation"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "article/guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.io/number-generator/": {
+   "url": "https://www.calculator.io/number-generator/",
+   "finalUrl": "https://www.calculator.io/number-generator/",
+   "mode": "offline-parse",
+   "domain": "www.calculator.io",
+   "fetchedAt": "2026-11-22T06:07:38.134Z",
+   "title": "Number Generator",
+   "metaDescription": "Instantly generate random numbers with our customizable Number Generator. Set specific ranges, allow or prevent duplicates, and sort your results with ease.",
+   "canonical": "https://www.calculator.io/number-generator/",
+   "robotsMeta": "index, follow",
+   "lang": "en",
+   "h1": [
+    "Number Generator"
+   ],
+   "h2": [
+    "How Random Number Generators Work: From Algorithms to Lava Lamps",
+    "Table of Contents",
+    "The Uses of Random Number Generators",
+    "The Difference Between Random and Non-Random Sequences",
+    "The Types of Random Number Generators",
+    "Google's Generator",
+    "The Linear Congruential Method",
+    "Modern Hardware Random Number Generators"
+   ],
+   "h3": [
+    "QRBG121",
+    "Lava lamps",
+    "HotBits",
+    "Vacuum Quantum Fluctuations",
+    "Carbon Nanotube Generator",
+    "Dice and the Electronic Frontier Foundation (EFF)",
+    "A Quantum Random Number Generator from a Nokia Smartphone"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Number Generator"
+    },
+    {
+     "level": 2,
+     "text": "How Random Number Generators Work: From Algorithms to Lava Lamps"
+    },
+    {
+     "level": 2,
+     "text": "Table of Contents"
+    },
+    {
+     "level": 2,
+     "text": "The Uses of Random Number Generators"
+    },
+    {
+     "level": 2,
+     "text": "The Difference Between Random and Non-Random Sequences"
+    },
+    {
+     "level": 2,
+     "text": "The Types of Random Number Generators"
+    },
+    {
+     "level": 2,
+     "text": "Google's Generator"
+    },
+    {
+     "level": 2,
+     "text": "The Linear Congruential Method"
+    },
+    {
+     "level": 2,
+     "text": "Modern Hardware Random Number Generators"
+    },
+    {
+     "level": 3,
+     "text": "QRBG121"
+    },
+    {
+     "level": 3,
+     "text": "Lava lamps"
+    },
+    {
+     "level": 3,
+     "text": "HotBits"
+    },
+    {
+     "level": 3,
+     "text": "Vacuum Quantum Fluctuations"
+    },
+    {
+     "level": 3,
+     "text": "Carbon Nanotube Generator"
+    },
+    {
+     "level": 3,
+     "text": "Dice and the Electronic Frontier Foundation (EFF)"
+    },
+    {
+     "level": 3,
+     "text": "A Quantum Random Number Generator from a Nokia Smartphone"
+    }
+   ],
+   "wordCount": 2649,
+   "avgSentenceWords": 24,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "random",
+     "weight": 60
+    },
+    {
+     "term": "number",
+     "weight": 45
+    },
+    {
+     "term": "random number",
+     "weight": 39
+    },
+    {
+     "term": "generator",
+     "weight": 26
+    },
+    {
+     "term": "number generator",
+     "weight": 24
+    },
+    {
+     "term": "numbers",
+     "weight": 21
+    },
+    {
+     "term": "number generators",
+     "weight": 21
+    },
+    {
+     "term": "random numbers",
+     "weight": 18
+    },
+    {
+     "term": "generators",
+     "weight": 18
+    },
+    {
+     "term": "quantum",
+     "weight": 13
+    },
+    {
+     "term": "secure",
+     "weight": 13
+    },
+    {
+     "term": "unpredictable",
+     "weight": 12
+    },
+    {
+     "term": "highly",
+     "weight": 12
+    },
+    {
+     "term": "physical",
+     "weight": 12
+    },
+    {
+     "term": "sequence",
+     "weight": 11
+    },
+    {
+     "term": "because",
+     "weight": 11
+    },
+    {
+     "term": "true random",
+     "weight": 11
+    },
+    {
+     "term": "ask",
+     "weight": 10
+    },
+    {
+     "term": "entirely",
+     "weight": 10
+    },
+    {
+     "term": "true",
+     "weight": 10
+    },
+    {
+     "term": "generate",
+     "weight": 9
+    },
+    {
+     "term": "data",
+     "weight": 9
+    },
+    {
+     "term": "linear congruential",
+     "weight": 9
+    },
+    {
+     "term": "cryptographic",
+     "weight": 9
+    },
+    {
+     "term": "security",
+     "weight": 9
+    },
+    {
+     "term": "pseudorandom number",
+     "weight": 9
+    },
+    {
+     "term": "dice",
+     "weight": 8
+    },
+    {
+     "term": "algorithms",
+     "weight": 8
+    },
+    {
+     "term": "hardware",
+     "weight": 8
+    },
+    {
+     "term": "instant answers",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "The Difference Between Random and Non-Random Sequences Consider the following sequence of numbers: 1 , 2 , 3 , 4 , 5.",
+    "Because after the number 5, the subsequent number, 6, can be predicted with near absolute certainty.",
+    "For example, when you roll a fair six-sided die for the first time, any number from 1 to 6 has an equal probability of landing face up.",
+    "For example, if we use the following poorly chosen parameter set: X₀ = 3, a = 4, c = 5, m = 6 we end up generating a highly repetitive, short-looped sequence of 3, 5, 1, 3, 5, 1 which clearly does not look random at all.",
+    "Generators relying on linear congruential methods were first successfully cracked by Jim Reeds in 1977, and subsequently by Joan Boyar in 1982 (who also managed to compromise quadratic and cubic generators).",
+    "Modern Hardware Random Number Generators QRBG121 The QRBG121 utilizes true quantum randomness."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "BreadcrumbList",
+    "WebApplication"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Link",
+    "select-one",
+    "checkbox"
+   ],
+   "selectOptionsSample": "do not sort low to high high to low",
+   "unitToggle": false,
+   "wordsBeforeTool": 106,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": "2026-07-17T14:07:33+05:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 85,
+    "adNetworks": [
+     "adsense"
+    ],
+    "adSlots": 5,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 59,
+    "external": 1,
+    "contentInternal": 19,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Random Number Generator Math",
+     "Flip a Coin Math",
+     "Dice Roller Miscellaneous",
+     "Probability Calculator Statistics",
+     "Odds Calculator Statistics",
+     "The Uses of Random Number Generators",
+     "The Difference Between Random and Non-Random Sequences",
+     "The Types of Random Number Generators",
+     "Google's Generator",
+     "The Linear Congruential Method",
+     "Modern Hardware Random Number Generators",
+     "QRBG121",
+     "Lava lamps",
+     "HotBits",
+     "Vacuum Quantum Fluctuations",
+     "Carbon Nanotube Generator",
+     "Dice and the Electronic Frontier Foundation (EFF)",
+     "A Quantum Random Number Generator from a Nokia Smartphone"
+    ],
+    "internalSample": [
+     "https://www.calculator.io/ask-ai/",
+     "https://www.calculator.io/random-number-generator/",
+     "https://www.calculator.io/flip-a-coin/",
+     "https://www.calculator.io/dice-roller/",
+     "https://www.calculator.io/probability-calculator/",
+     "https://www.calculator.io/odds-calculator/",
+     "https://www.calculator.io/number-generator/#the-uses-of-random-number-generators-1",
+     "https://www.calculator.io/number-generator/#the-difference-between-random-and-non-random-sequences-2",
+     "https://www.calculator.io/number-generator/#the-types-of-random-number-generators-3",
+     "https://www.calculator.io/number-generator/#google-s-generator-4",
+     "https://www.calculator.io/number-generator/#the-linear-congruential-method-5",
+     "https://www.calculator.io/number-generator/#modern-hardware-random-number-generators-6",
+     "https://www.calculator.io/number-generator/#qrbg121-7",
+     "https://www.calculator.io/number-generator/#lava-lamps-8",
+     "https://www.calculator.io/number-generator/#hotbits-9",
+     "https://www.calculator.io/number-generator/#vacuum-quantum-fluctuations-10",
+     "https://www.calculator.io/number-generator/#carbon-nanotube-generator-11",
+     "https://www.calculator.io/number-generator/#dice-and-the-electronic-frontier-foundation-eff-12",
+     "https://www.calculator.io/number-generator/#a-quantum-random-number-generator-from-a-nokia-smartphone-13"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://chrome.google.com/webstore/detail/random-number-generator/edihajimfnplkhplpiffhobikcifjhlg/reviews": [
+   "unreachable (fetch failed)"
+  ],
+  "https://inventivehq.com/tools/random/random-number-between-1-and-100": [
+   "unreachable (fetch failed)"
+  ],
+  "https://spinthewheel.io/random-number-wheel-1-100": [
+   "unreachable (fetch failed)"
+  ],
+  "https://inventivehq.com/tools/random-number-between-1-and-100": [
+   "unreachable (fetch failed)"
+  ],
+  "https://medium.com/@simplifullstack/how-to-generate-random-numbers-between-1-to-100-in-java-5b23398f7412": [
+   "unreachable (fetch failed)"
+  ],
+  "https://flows.nodered.org/node/node-red-contrib-random-generator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://apps.apple.com/ma/app/random-number/id1399595976": [
+   "unreachable (fetch failed)"
+  ],
+  "https://wildandfreetools.com/blog/random-number-generator-1-100-most-common-uses": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.github.com/infinitepower18/randomnumber-tauri": [
+   "HTTP 403"
+  ],
+  "https://lawrencejones-lblakej.cloudapps.unc.edu/inls-560/code/03/05_20_random_numbers3": [
+   "unreachable (fetch failed)"
+  ],
+  "https://gamedev.net/forums/topic/637432-random-number-generator-game/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.justinmind.com/how-to-create-a-number-generator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://goodcalculators.com/random-number-generator/": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

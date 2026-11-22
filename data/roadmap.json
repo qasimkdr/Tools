@@ -1345,7 +1345,7 @@
     "www.omnicalculator.com/finance/discount"
    ],
    "category": "finance",
-   "status": "todo",
+   "status": "live",
    "order": 7,
    "batch": 1
   },
@@ -1523,7 +1523,7 @@
     "www.calculator.net/right-triangle-calculator.html"
    ],
    "category": "math",
-   "status": "todo",
+   "status": "live",
    "order": 8,
    "batch": 1
   },
@@ -1619,7 +1619,7 @@
     "www.calculator.net/period-calculator.html"
    ],
    "category": "health",
-   "status": "todo",
+   "status": "live",
    "order": 9,
    "batch": 1
   },
@@ -1778,7 +1778,7 @@
     "www.calculator.net/random-number-generator.html"
    ],
    "category": "math",
-   "status": "todo",
+   "status": "live",
    "order": 10,
    "batch": 1
   },
@@ -1860,7 +1860,7 @@
     "www.omnicalculator.com/construction/ft2-yd3"
    ],
    "category": "construction",
-   "status": "todo",
+   "status": "live",
    "order": 11,
    "batch": 2
   },

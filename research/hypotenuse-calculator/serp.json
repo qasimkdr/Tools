@@ -1,0 +1,343 @@
+{
+ "keywords": {
+  "hypotenuse calculator": {
+   "fetchedAt": "2026-11-22T06:01:00.732Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 12100,
+   "fileKd": 5,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 11,
+    "url": "www.omnicalculator.com/math/pythagorean-theorem"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://omnicalculator.com/math/hypotenuse",
+     "domain": "omnicalculator.com",
+     "title": "Hypotenuse Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://inchcalculator.com/triangle-hypotenuse-calculator",
+     "domain": "inchcalculator.com",
+     "title": "Hypotenuse Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://miniwebtool.com/hypotenuse-calculator/?a=2&b=3",
+     "domain": "miniwebtool.com",
+     "title": "hypotenuse calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://cuemath.com/calculators/hypotenuse-calculator",
+     "domain": "cuemath.com",
+     "title": "Hypotenuse Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.geeksforgeeks.org/hypotenuse-of-a-triangle-calculator/",
+     "domain": "www.geeksforgeeks.org",
+     "title": "Hypotenuse of a Triangle Calculator (Pythagorean Theorem Calculator)",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.calculate.co.nz/hypotenuse-calculator.php",
+     "domain": "www.calculate.co.nz",
+     "title": "Hypotenuse Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.pearson.com/channels/ko-kr/calculators/pythagorean-theorem-calculator",
+     "domain": "www.pearson.com",
+     "title": "pythagorean theorem calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.pearson.com/channels/calculators/pythagorean-theorem-calculator",
+     "domain": "www.pearson.com",
+     "title": "pythagorean theorem calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://wba.omnicalculator.com/math/hypotenuse",
+     "domain": "wba.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://miniwebtool.com/hypotenuse-calculator/?a=7&b=9",
+     "domain": "miniwebtool.com",
+     "title": "hypotenuse calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://mathcheck.net/calculators/hypotenuse",
+     "domain": "mathcheck.net",
+     "title": "mathcheck.net",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.inchcalculator.com/widgets/w/triangle-hypotenuse/",
+     "domain": "www.inchcalculator.com",
+     "title": "Hypotenuse Calculator Widget",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://brightchamps.com/en-us/math/calculators/hypotenuse-calculator",
+     "domain": "brightchamps.com",
+     "title": "BrightChamps Logo",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://brightchamps.com/en-ae/math/calculators/hypotenuse-calculator",
+     "domain": "brightchamps.com",
+     "title": "BrightChamps Logo",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://www.jwdittrich.people.ysu.edu/CSIS_2610/hypotenuse.cpp",
+     "domain": "www.jwdittrich.people.ysu.edu",
+     "title": "#include <iostream>",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://www.medcalc.org/en/manual/hypot-function.php",
+     "domain": "www.medcalc.org",
+     "title": "hypot function",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://www.workybooks.com/resources/calculator/hypotenuse-calculator",
+     "domain": "www.workybooks.com",
+     "title": "hypotenuse calculator",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://rapidtables.com/calc/math/pythagorean-calculator.html",
+     "domain": "rapidtables.com",
+     "title": "Pythagorean theorem calculator",
+     "description": null
+    }
+   ]
+  },
+  "hypotenuse calculator [restricted to accessible domains]": {
+   "fetchedAt": "2026-11-22T06:05:40.358Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch-restricted",
+   "rankNote": "order within a search limited to accessible domains — not a Google rank, not the open result list",
+   "fileVolume": 12100,
+   "fileKd": 5,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 11,
+    "url": "www.omnicalculator.com/math/pythagorean-theorem"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.calculatorsoup.com/calculators/geometry-plane/pythagorean-theorem.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Pythagorean Theorem Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.omnicalculator.com/math/pythagorean-theorem",
+     "domain": "www.omnicalculator.com",
+     "title": "Pythagorean Theorem Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.omnicalculator.com/math/hypotenuse",
+     "domain": "www.omnicalculator.com",
+     "title": "Hypotenuse Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.inchcalculator.com/pythagorean-theorem-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Pythagorean Theorem Calculator - Steps to Solve - Inch Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.inchcalculator.com/triangle-hypotenuse-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Hypotenuse Calculator - Six Hypotenuse Formulas - Inch Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.omnicalculator.com/math/isosceles-right-triangle-hypotenuse",
+     "domain": "www.omnicalculator.com",
+     "title": "Isosceles Right Triangle Hypotenuse Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.calculator.io/pythagorean-theorem-calculator/",
+     "domain": "www.calculator.io",
+     "title": "Pythagorean Theorem Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.calculator.io/right-triangle-calculator/",
+     "domain": "www.calculator.io",
+     "title": "Right Triangle Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.omnicalculator.com/math/right-triangle",
+     "domain": "www.omnicalculator.com",
+     "title": "Right Triangle Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.omnicalculator.com/math/right-triangle-side-angle",
+     "domain": "www.omnicalculator.com",
+     "title": "Right Triangle Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "hypotenuse-calculator",
+ "page": "hypotenuse-calculator",
+ "category": "math",
+ "name": "Hypotenuse Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T06:05:40.358Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 7,
+   "urls": [
+    "https://omnicalculator.com/math/hypotenuse",
+    "https://wba.omnicalculator.com/math/hypotenuse",
+    "https://www.omnicalculator.com/math/pythagorean-theorem",
+    "https://www.omnicalculator.com/math/hypotenuse",
+    "https://www.omnicalculator.com/math/isosceles-right-triangle-hypotenuse",
+    "https://www.omnicalculator.com/math/right-triangle",
+    "https://www.omnicalculator.com/math/right-triangle-side-angle"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 2,
+   "keywords": 4,
+   "urls": [
+    "https://inchcalculator.com/triangle-hypotenuse-calculator",
+    "https://www.inchcalculator.com/widgets/w/triangle-hypotenuse/",
+    "https://www.inchcalculator.com/pythagorean-theorem-calculator/",
+    "https://www.inchcalculator.com/triangle-hypotenuse-calculator/"
+   ]
+  },
+  {
+   "domain": "miniwebtool.com",
+   "bestRank": 3,
+   "keywords": 2,
+   "urls": [
+    "https://miniwebtool.com/hypotenuse-calculator/?a=2&b=3",
+    "https://miniwebtool.com/hypotenuse-calculator/?a=7&b=9"
+   ]
+  },
+  {
+   "domain": "pearson.com",
+   "bestRank": 7,
+   "keywords": 2,
+   "urls": [
+    "https://www.pearson.com/channels/ko-kr/calculators/pythagorean-theorem-calculator",
+    "https://www.pearson.com/channels/calculators/pythagorean-theorem-calculator"
+   ]
+  },
+  {
+   "domain": "calculator.io",
+   "bestRank": 7,
+   "keywords": 2,
+   "urls": [
+    "https://www.calculator.io/pythagorean-theorem-calculator/",
+    "https://www.calculator.io/right-triangle-calculator/"
+   ]
+  },
+  {
+   "domain": "brightchamps.com",
+   "bestRank": 13,
+   "keywords": 2,
+   "urls": [
+    "https://brightchamps.com/en-us/math/calculators/hypotenuse-calculator",
+    "https://brightchamps.com/en-ae/math/calculators/hypotenuse-calculator"
+   ]
+  },
+  {
+   "domain": "calculatorsoup.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculatorsoup.com/calculators/geometry-plane/pythagorean-theorem.php"
+   ]
+  },
+  {
+   "domain": "cuemath.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://cuemath.com/calculators/hypotenuse-calculator"
+   ]
+  },
+  {
+   "domain": "geeksforgeeks.org",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.geeksforgeeks.org/hypotenuse-of-a-triangle-calculator/"
+   ]
+  },
+  {
+   "domain": "calculate.co.nz",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculate.co.nz/hypotenuse-calculator.php"
+   ]
+  }
+ ]
+}

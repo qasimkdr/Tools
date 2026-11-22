@@ -1,0 +1,1234 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/health/period": {
+   "url": "https://www.omnicalculator.com/health/period",
+   "finalUrl": "https://www.omnicalculator.com/health/period",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T06:02:36.245Z",
+   "title": "Period Calculator",
+   "metaDescription": "Use the period calculator to analyze your menstrual cycle and determine when your next period is due.",
+   "canonical": "https://www.omnicalculator.com/health/period",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Period Calculator"
+   ],
+   "h2": [
+    "Menstrual calculator principles",
+    "When is my next period?",
+    "Using the period tracker to predict ovulation",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I calculate when my next period will be?",
+    "What is pre period?",
+    "How do I calculate my fertility window?",
+    "When do periods stop?",
+    "How long should my period last?",
+    "How long is my fertility window?",
+    "What age do girls get their first period?",
+    "Do periods sync up?",
+    "Can you get pregnant during your period?",
+    "How much blood is lost during a period?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Period Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Menstrual calculator principles"
+    },
+    {
+     "level": 2,
+     "text": "When is my next period?"
+    },
+    {
+     "level": 2,
+     "text": "Using the period tracker to predict ovulation"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate when my next period will be?"
+    },
+    {
+     "level": 3,
+     "text": "What is pre period?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate my fertility window?"
+    },
+    {
+     "level": 3,
+     "text": "When do periods stop?"
+    },
+    {
+     "level": 3,
+     "text": "How long should my period last?"
+    },
+    {
+     "level": 3,
+     "text": "How long is my fertility window?"
+    },
+    {
+     "level": 3,
+     "text": "What age do girls get their first period?"
+    },
+    {
+     "level": 3,
+     "text": "Do periods sync up?"
+    },
+    {
+     "level": 3,
+     "text": "Can you get pregnant during your period?"
+    },
+    {
+     "level": 3,
+     "text": "How much blood is lost during a period?"
+    }
+   ],
+   "wordCount": 1415,
+   "avgSentenceWords": 16,
+   "faqs": [
+    "How do I calculate when my next period will be?",
+    "What is pre period?",
+    "How do I calculate my fertility window?",
+    "When do periods stop?",
+    "How long should my period last?",
+    "How long is my fertility window?",
+    "What age do girls get their first period?",
+    "Do periods sync up?",
+    "Can you get pregnant during your period?",
+    "How much blood is lost during a period?",
+    "When is my next period?"
+   ],
+   "faqSchemaCount": 10,
+   "topics": [
+    {
+     "term": "period",
+     "weight": 49
+    },
+    {
+     "term": "days",
+     "weight": 21
+    },
+    {
+     "term": "cycle",
+     "weight": 16
+    },
+    {
+     "term": "day",
+     "weight": 15
+    },
+    {
+     "term": "next period",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "next",
+     "weight": 13
+    },
+    {
+     "term": "window",
+     "weight": 13
+    },
+    {
+     "term": "ovulation",
+     "weight": 13
+    },
+    {
+     "term": "fertility window",
+     "weight": 12
+    },
+    {
+     "term": "periods",
+     "weight": 11
+    },
+    {
+     "term": "menstrual cycle",
+     "weight": 11
+    },
+    {
+     "term": "last",
+     "weight": 10
+    },
+    {
+     "term": "duration",
+     "weight": 8
+    },
+    {
+     "term": "menstrual",
+     "weight": 8
+    },
+    {
+     "term": "fertility",
+     "weight": 8
+    },
+    {
+     "term": "period calculator",
+     "weight": 8
+    },
+    {
+     "term": "ovulation day",
+     "weight": 8
+    },
+    {
+     "term": "last period",
+     "weight": 8
+    },
+    {
+     "term": "first",
+     "weight": 7
+    },
+    {
+     "term": "have",
+     "weight": 7
+    },
+    {
+     "term": "pregnant",
+     "weight": 7
+    },
+    {
+     "term": "during",
+     "weight": 7
+    },
+    {
+     "term": "fertile",
+     "weight": 6
+    },
+    {
+     "term": "fertile window",
+     "weight": 6
+    },
+    {
+     "term": "period duration",
+     "weight": 6
+    },
+    {
+     "term": "pregnancy",
+     "weight": 6
+    },
+    {
+     "term": "woman",
+     "weight": 6
+    },
+    {
+     "term": "seven days",
+     "weight": 6
+    },
+    {
+     "term": "average",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "For example, if your last cycle started on November 16th, and it typically lasts for 29 days, you can expect the next period to begin on December 15th.",
+    "For a five-day-long period, you can expect the bleeding to stop on December 19th.",
+    "Pre period, also known as premenstrual syndrome (PMS), is a syndrome that up to 90% of women will experience in their reproductive lives.",
+    "Take your average cycle duration, subtract 14 days from this value, and add the remaining number of days to the date your last period began.",
+    "Periods may last anywhere between 3 and 8 days, but they usually last for 5 days.",
+    "Girls generally get their first period around the age of 10-12, although it can happen as early as 8.",
+    "The chances of getting pregnant during your period are increased if your menstrual cycle is less than 28 days, as your ovulation day is closer to your period.",
+    "The amount of blood lost during a period will vary from woman to woman, but, on average, a woman will lose about 6-8 teaspoons (30-40 ml) of blood per period.",
+    "A loss of 80 ml or more, having a period longer than seven days, or both, is considered heavy."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Cycle duration",
+    "Period duration",
+    "My last period started on..."
+   ],
+   "selectOptionsSample": "select 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 select 3 4 5 6 7 8",
+   "unitToggle": false,
+   "wordsBeforeTool": 18,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Dominika Śmiałek",
+    "published": "2018-06-05T07:30:10.462Z",
+    "modified": "2024-01-18T12:01:25.829Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 666,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 20,
+    "external": 1,
+    "contentInternal": 4,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "hCG levels calculator",
+     "ovulation calculator",
+     "basal body temperature calculator",
+     "pregnancy weight gain calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/health/hcg-levels",
+     "https://www.omnicalculator.com/health/ovulation",
+     "https://www.omnicalculator.com/health/bbt",
+     "https://www.omnicalculator.com/health/pregnancy-weight-gain"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/period-calculator.html": {
+   "url": "https://www.calculator.net/period-calculator.html",
+   "finalUrl": "https://www.calculator.net/period-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T06:02:44.346Z",
+   "title": "Period Calculator",
+   "metaDescription": "This free calculator estimates days in the future during which a person is expected to undergo their period, based on information of previous periods.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Period Calculator"
+   ],
+   "h2": [],
+   "h3": [
+    "Menstrual cycle"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Period Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Menstrual cycle"
+    }
+   ],
+   "wordCount": 452,
+   "avgSentenceWords": 22,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "menstrual cycle",
+     "weight": 15
+    },
+    {
+     "term": "days",
+     "weight": 13
+    },
+    {
+     "term": "cycle",
+     "weight": 13
+    },
+    {
+     "term": "menstrual",
+     "weight": 12
+    },
+    {
+     "term": "period",
+     "weight": 10
+    },
+    {
+     "term": "calculator",
+     "weight": 7
+    },
+    {
+     "term": "ovulation",
+     "weight": 7
+    },
+    {
+     "term": "during",
+     "weight": 7
+    },
+    {
+     "term": "fitness",
+     "weight": 5
+    },
+    {
+     "term": "health",
+     "weight": 5
+    },
+    {
+     "term": "pregnancy",
+     "weight": 5
+    },
+    {
+     "term": "period calculator",
+     "weight": 5
+    },
+    {
+     "term": "period days",
+     "weight": 5
+    },
+    {
+     "term": "probable ovulation",
+     "weight": 5
+    },
+    {
+     "term": "ovulation days",
+     "weight": 5
+    },
+    {
+     "term": "first day",
+     "weight": 5
+    },
+    {
+     "term": "egg",
+     "weight": 4
+    },
+    {
+     "term": "fitness health",
+     "weight": 3
+    },
+    {
+     "term": "probable",
+     "weight": 3
+    },
+    {
+     "term": "first",
+     "weight": 3
+    },
+    {
+     "term": "day",
+     "weight": 3
+    },
+    {
+     "term": "average",
+     "weight": 3
+    },
+    {
+     "term": "occur",
+     "weight": 3
+    },
+    {
+     "term": "woman's",
+     "weight": 3
+    },
+    {
+     "term": "part",
+     "weight": 3
+    },
+    {
+     "term": "usually",
+     "weight": 3
+    },
+    {
+     "term": "between",
+     "weight": 3
+    },
+    {
+     "term": "occurs",
+     "weight": 3
+    },
+    {
+     "term": "lining",
+     "weight": 3
+    },
+    {
+     "term": "uterus",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "Periods also eventually stop permanently during menopause, usually between the ages of 49 and 52, and can be defined as having no vaginal bleeding for a year."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 2,
+   "lists": 0,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "clength",
+    "ccycle"
+   ],
+   "selectOptionsSample": "1 day 2 days 3 days 4 days 5 days 6 days 7 days 8 days 9 days 10 days 22 days 23 days 24 days 25 days 26 days 27 days 28 days 29 days 30 days 31 days 32 days 33 days 34 days 35 days 36 days 37 days 38 days 39 days 40 days 41 days 42 days 43 days 44 days",
+   "unitToggle": false,
+   "wordsBeforeTool": 38,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 9,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 23,
+    "external": 0,
+    "contentInternal": 23,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "fitness & health",
+     "period calculator",
+     "Pregnancy Calculator",
+     "Ovulation Calculator",
+     "Fitness and Health Calculators",
+     "BMI",
+     "Calorie",
+     "Body Fat",
+     "BMR",
+     "Macro",
+     "Ideal Weight",
+     "Pregnancy",
+     "Pregnancy Weight Gain",
+     "Pregnancy Conception",
+     "Due Date",
+     "Pace",
+     "More Fitness and Health Calculators",
+     "Financial"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/period-calculator.html",
+     "https://www.calculator.net/pregnancy-calculator.html",
+     "https://www.calculator.net/ovulation-calculator.html",
+     "https://www.calculator.net/bmi-calculator.html",
+     "https://www.calculator.net/calorie-calculator.html",
+     "https://www.calculator.net/body-fat-calculator.html",
+     "https://www.calculator.net/bmr-calculator.html",
+     "https://www.calculator.net/macro-calculator.html",
+     "https://www.calculator.net/ideal-weight-calculator.html",
+     "https://www.calculator.net/pregnancy-weight-gain-calculator.html",
+     "https://www.calculator.net/pregnancy-conception-calculator.html",
+     "https://www.calculator.net/due-date-calculator.html",
+     "https://www.calculator.net/pace-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/health/period-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/health/period-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/health/period-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T06:02:49.941Z",
+   "title": "Period Calculator | Menstrual Cycle Calendar",
+   "metaDescription": "Free period calculator estimates the start of your next period and tracks your cycle days. Create a 12-month period calendar based on your cycle history.",
+   "canonical": "https://www.calculatorsoup.com/calculators/health/period-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Period Calculator"
+   ],
+   "h2": [
+    "Using the Period Calculator",
+    "Predict Your Next Period",
+    "Why Use a Period Calculator",
+    "Frequently Asked Questions"
+   ],
+   "h3": [
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Period Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Using the Period Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Predict Your Next Period"
+    },
+    {
+     "level": 2,
+     "text": "Why Use a Period Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 863,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "How accurate is a period calculator?",
+    "What if my cycle length varies each month?",
+    "Can I use this calculator if I'm on birth control?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "period",
+     "weight": 47
+    },
+    {
+     "term": "calculator",
+     "weight": 23
+    },
+    {
+     "term": "period calculator",
+     "weight": 21
+    },
+    {
+     "term": "cycle",
+     "weight": 20
+    },
+    {
+     "term": "next",
+     "weight": 13
+    },
+    {
+     "term": "day",
+     "weight": 13
+    },
+    {
+     "term": "next period",
+     "weight": 12
+    },
+    {
+     "term": "first day",
+     "weight": 12
+    },
+    {
+     "term": "cycle length",
+     "weight": 11
+    },
+    {
+     "term": "days",
+     "weight": 10
+    },
+    {
+     "term": "last period",
+     "weight": 9
+    },
+    {
+     "term": "length",
+     "weight": 9
+    },
+    {
+     "term": "calendar",
+     "weight": 8
+    },
+    {
+     "term": "first",
+     "weight": 8
+    },
+    {
+     "term": "last",
+     "weight": 7
+    },
+    {
+     "term": "calculators",
+     "weight": 6
+    },
+    {
+     "term": "menstrual cycle",
+     "weight": 6
+    },
+    {
+     "term": "average cycle",
+     "weight": 6
+    },
+    {
+     "term": "expected period",
+     "weight": 6
+    },
+    {
+     "term": "average",
+     "weight": 5
+    },
+    {
+     "term": "january",
+     "weight": 5
+    },
+    {
+     "term": "date",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators health",
+     "weight": 5
+    },
+    {
+     "term": "sun mon",
+     "weight": 5
+    },
+    {
+     "term": "mon tue",
+     "weight": 5
+    },
+    {
+     "term": "tue wed",
+     "weight": 5
+    },
+    {
+     "term": "wed thu",
+     "weight": 5
+    },
+    {
+     "term": "thu fri",
+     "weight": 5
+    },
+    {
+     "term": "fri sat",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "See a forecast of your upcoming periods with a 12-month period calendar based on your cycle history.",
+    "We provide a calendar feature that shows a preview of your expected period dates 3 months at a time, ahead or in the past.",
+    "You can also print a list or calendar view of your expected period dates for the next 12 months.",
+    "Count from day 1 of one period up until day 1 of the next.",
+    "Example period date calculation: If your last period started on January 1 and your cycle is 29 days long, your next period should start around January 30.",
+    "Add your cycle length to the first day of your last period January 1 + 29 Days = January 30 Why Use a Period Calculator Knowing when to expect your period can help you plan for upcoming events or travel.",
+    "Typically ovulation occurs around 14 days before the start of your next period.",
+    "Just subtract 14 days from your expected period date."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 1,
+   "lists": 3,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "First Day of Last Period:",
+    "Average Period Length:",
+    "Average Cycle Length:",
+    "reset"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 45,
+   "actions": {
+    "print": true,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "April 24, 2026",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 62,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 18,
+    "external": 0,
+    "contentInternal": 8,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Health",
+     "Period Calculator",
+     "Print 12-Month List",
+     "Print 12-Month Calendar",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Period Calculator | Menstrual Cycle Calendar",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/health/",
+     "https://www.calculatorsoup.com/calculators/health/period-calculator.php",
+     "https://www.calculatorsoup.com/calculators/health/period-calculator.php?action=print&eventDate=2026-11-21&period_days=5&cycle_days=28",
+     "https://www.calculatorsoup.com/calculators/health/period-calculator.php?action=print_calendar&eventDate=2026-11-21&period_days=5&cycle_days=28",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=health%2F&folderName=Health&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/health/period-calculator.php&h1=Period+Calculator&pop_w=400&pop_h=600"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.io/period-calculator/": {
+   "url": "https://www.calculator.io/period-calculator/",
+   "finalUrl": "https://www.calculator.io/period-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.calculator.io",
+   "fetchedAt": "2026-11-22T06:06:53.351Z",
+   "title": "Period Calculator",
+   "metaDescription": "Accurately predict your next period, track your menstrual cycle, and estimate ovulation with our free Period Calculator. Take control of your health today!",
+   "canonical": "https://www.calculator.io/period-calculator/",
+   "robotsMeta": "index, follow",
+   "lang": "en",
+   "h1": [
+    "Period Calculator"
+   ],
+   "h2": [
+    "How to Track Your Menstrual Cycle and Predict Your Next Period",
+    "Table of Contents",
+    "Period Calculator Explained",
+    "Changes to the Female Body During the Menstrual Cycle",
+    "The Reasons for Menstrual Cycle Tracking"
+   ],
+   "h3": [
+    "Understanding Your Patterns",
+    "Predicting Ovulation",
+    "Improving Overall Health and Wellness",
+    "Monitoring Sex Drive",
+    "Understanding and Managing Mood Swings",
+    "Helping with Family Planning",
+    "Ovulation Tracking as a Contraceptive",
+    "Tracking Overall Health",
+    "Closing Thoughts"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Period Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to Track Your Menstrual Cycle and Predict Your Next Period"
+    },
+    {
+     "level": 2,
+     "text": "Table of Contents"
+    },
+    {
+     "level": 2,
+     "text": "Period Calculator Explained"
+    },
+    {
+     "level": 2,
+     "text": "Changes to the Female Body During the Menstrual Cycle"
+    },
+    {
+     "level": 2,
+     "text": "The Reasons for Menstrual Cycle Tracking"
+    },
+    {
+     "level": 3,
+     "text": "Understanding Your Patterns"
+    },
+    {
+     "level": 3,
+     "text": "Predicting Ovulation"
+    },
+    {
+     "level": 3,
+     "text": "Improving Overall Health and Wellness"
+    },
+    {
+     "level": 3,
+     "text": "Monitoring Sex Drive"
+    },
+    {
+     "level": 3,
+     "text": "Understanding and Managing Mood Swings"
+    },
+    {
+     "level": 3,
+     "text": "Helping with Family Planning"
+    },
+    {
+     "level": 3,
+     "text": "Ovulation Tracking as a Contraceptive"
+    },
+    {
+     "level": 3,
+     "text": "Tracking Overall Health"
+    },
+    {
+     "level": 3,
+     "text": "Closing Thoughts"
+    }
+   ],
+   "wordCount": 1634,
+   "avgSentenceWords": 25,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "cycle",
+     "weight": 34
+    },
+    {
+     "term": "menstrual cycle",
+     "weight": 27
+    },
+    {
+     "term": "health",
+     "weight": 26
+    },
+    {
+     "term": "ovulation",
+     "weight": 25
+    },
+    {
+     "term": "period",
+     "weight": 22
+    },
+    {
+     "term": "calculator",
+     "weight": 22
+    },
+    {
+     "term": "menstrual",
+     "weight": 19
+    },
+    {
+     "term": "days",
+     "weight": 18
+    },
+    {
+     "term": "tracking",
+     "weight": 18
+    },
+    {
+     "term": "calculator health",
+     "weight": 15
+    },
+    {
+     "term": "period calculator",
+     "weight": 12
+    },
+    {
+     "term": "ask",
+     "weight": 12
+    },
+    {
+     "term": "pregnancy",
+     "weight": 11
+    },
+    {
+     "term": "overall health",
+     "weight": 11
+    },
+    {
+     "term": "instant answers",
+     "weight": 9
+    },
+    {
+     "term": "calculation try",
+     "weight": 9
+    },
+    {
+     "term": "try ask",
+     "weight": 9
+    },
+    {
+     "term": "during",
+     "weight": 9
+    },
+    {
+     "term": "next",
+     "weight": 8
+    },
+    {
+     "term": "window",
+     "weight": 8
+    },
+    {
+     "term": "fertile",
+     "weight": 8
+    },
+    {
+     "term": "calculation",
+     "weight": 7
+    },
+    {
+     "term": "try",
+     "weight": 7
+    },
+    {
+     "term": "body",
+     "weight": 7
+    },
+    {
+     "term": "overall",
+     "weight": 7
+    },
+    {
+     "term": "next period",
+     "weight": 6
+    },
+    {
+     "term": "instant",
+     "weight": 6
+    },
+    {
+     "term": "answers",
+     "weight": 6
+    },
+    {
+     "term": "question",
+     "weight": 6
+    },
+    {
+     "term": "data",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "A woman has officially reached menopause when she has gone 12 consecutive months without a period."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "BreadcrumbList",
+    "WebApplication"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 4,
+   "lists": 2,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Link",
+    "date",
+    "select-one",
+    "select-one"
+   ],
+   "selectOptionsSample": "1 day 2 days 3 days 4 days 5 days 6 days 7 days 8 days 9 days 10 days 22 days 23 days 24 days 25 days 26 days 27 days 28 days 29 days 30 days 31 days 32 days 33 days 34 days 35 days 36 days 37 days 38 days 39 days 40 days 41 days 42 days 43 days 44 days",
+   "unitToggle": false,
+   "wordsBeforeTool": 106,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": "2026-07-21T20:51:30+05:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 84,
+    "adNetworks": [
+     "adsense"
+    ],
+    "adSlots": 6,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 58,
+    "external": 1,
+    "contentInternal": 18,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Due Date Calculator Health",
+     "Ovulation Calculator Health",
+     "Pregnancy Calculator Health",
+     "Conception Calculator Health",
+     "Pregnancy Weight Gain Calculator Health",
+     "Period Calculator Explained",
+     "Changes to the Female Body During the Menstrual Cycle",
+     "The Reasons for Menstrual Cycle Tracking",
+     "Understanding Your Patterns",
+     "Predicting Ovulation",
+     "Improving Overall Health and Wellness",
+     "Monitoring Sex Drive",
+     "Understanding and Managing Mood Swings",
+     "Helping with Family Planning",
+     "Ovulation Tracking as a Contraceptive",
+     "Tracking Overall Health",
+     "Closing Thoughts"
+    ],
+    "internalSample": [
+     "https://www.calculator.io/ask-ai/",
+     "https://www.calculator.io/due-date-calculator/",
+     "https://www.calculator.io/ovulation-calculator/",
+     "https://www.calculator.io/pregnancy-calculator/",
+     "https://www.calculator.io/conception-date-calculator/",
+     "https://www.calculator.io/pregnancy-weight-gain-calculator/",
+     "https://www.calculator.io/period-calculator/#period-calculator-explained-1",
+     "https://www.calculator.io/period-calculator/#changes-to-the-female-body-during-the-menstrual-cycle-2",
+     "https://www.calculator.io/period-calculator/#the-reasons-for-menstrual-cycle-tracking-3",
+     "https://www.calculator.io/period-calculator/#understanding-your-patterns-4",
+     "https://www.calculator.io/period-calculator/#predicting-ovulation-5",
+     "https://www.calculator.io/period-calculator/#improving-overall-health-and-wellness-6",
+     "https://www.calculator.io/period-calculator/#monitoring-sex-drive-7",
+     "https://www.calculator.io/period-calculator/#understanding-and-managing-mood-swings-8",
+     "https://www.calculator.io/period-calculator/#helping-with-family-planning-9",
+     "https://www.calculator.io/period-calculator/#ovulation-tracking-as-a-contraceptive-10",
+     "https://www.calculator.io/period-calculator/#tracking-overall-health-11",
+     "https://www.calculator.io/period-calculator/#closing-thoughts-12"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.naturalcycles.com/cyclematters/period-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://flo.health/tools/period-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://chrome.google.com/webstore/detail/smart-period-calculator/odfcgglnhdongcefchmkddfpmhdkodhe/reviews": [
+   "unreachable (fetch failed)"
+  ],
+  "https://thecalculatortoolbox.odoo.com/period-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.apollohospitals.com/health-calculators/period-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.always.co.uk/en-gb/period-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://amp.flo.health/tools/period-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.hdfcergo.com/health-insurance/wellness-corner/assess-your-wellness/period-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.motherhoodindia.com/?p=84811": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.vedantu.com/calculator/period": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.calkoo.com/en/period-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.ob-tampons.com/period-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://proovtest.com/blogs/blog/what-is-a-period-calculator": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

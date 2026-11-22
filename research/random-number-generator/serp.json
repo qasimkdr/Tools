@@ -1,0 +1,325 @@
+{
+ "keywords": {
+  "random number generator 1-100": {
+   "fetchedAt": "2026-11-22T06:01:00.943Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": null,
+   "fileKd": null,
+   "fileIntent": null,
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.calculatorsoup.com/calculators/statistics/random-number-generator-1-100.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Random Number Generator 1-100",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://chrome.google.com/webstore/detail/random-number-generator/edihajimfnplkhplpiffhobikcifjhlg/reviews",
+     "domain": "chrome.google.com",
+     "title": "Generate random number from the range",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://inventivehq.com/tools/random/random-number-between-1-and-100",
+     "domain": "inventivehq.com",
+     "title": "Random Number Between 1 and 100",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://spinthewheel.io/random-number-wheel-1-100",
+     "domain": "spinthewheel.io",
+     "title": "Random number 1-100",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://inventivehq.com/tools/random-number-between-1-and-100",
+     "domain": "inventivehq.com",
+     "title": "Random Number Between 1 and 100",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://medium.com/@simplifullstack/how-to-generate-random-numbers-between-1-to-100-in-java-5b23398f7412",
+     "domain": "medium.com",
+     "title": "how to generate random numbers between 1 to 100 in java 5b23398f7412",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://flows.nodered.org/node/node-red-contrib-random-generator",
+     "domain": "flows.nodered.org",
+     "title": "node-red-contrib-random-generator 0.0.2",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://apps.apple.com/ma/app/random-number/id1399595976",
+     "domain": "apps.apple.com",
+     "title": "apps.apple.com",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://developers.google.com/edu/c++/solutions/1-4?hl=hi",
+     "domain": "developers.google.com",
+     "title": "developers.google.com",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://wildandfreetools.com/blog/random-number-generator-1-100-most-common-uses",
+     "domain": "wildandfreetools.com",
+     "title": "Random Number Generator 1 to 100: Most Common Uses",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.artima.com/legacy/answers/Feb2002/messages/95.html",
+     "domain": "www.artima.com",
+     "title": "The Artima Developer Community",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://scratch.mit.edu/discuss/post/440799",
+     "domain": "scratch.mit.edu",
+     "title": "Discuss Scratch",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.github.com/infinitepower18/randomnumber-tauri",
+     "domain": "www.github.com",
+     "title": "randomnumber tauri",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://scratch.mit.edu/discuss/post/4919732",
+     "domain": "scratch.mit.edu",
+     "title": "Discuss Scratch",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://lawrencejones-lblakej.cloudapps.unc.edu/inls-560/code/03/05_20_random_numbers3",
+     "domain": "lawrencejones-lblakej.cloudapps.unc.edu",
+     "title": "20 | Random number",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://gamedev.net/forums/topic/637432-random-number-generator-game/",
+     "domain": "gamedev.net",
+     "title": "637432 random number generator game",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://www.justinmind.com/how-to-create-a-number-generator",
+     "domain": "www.justinmind.com",
+     "title": "How to create a number generator",
+     "description": null
+    }
+   ]
+  },
+  "random number generator 1-100 [restricted to accessible domains]": {
+   "fetchedAt": "2026-11-22T06:05:40.576Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch-restricted",
+   "rankNote": "order within a search limited to accessible domains — not a Google rank, not the open result list",
+   "fileVolume": null,
+   "fileKd": null,
+   "fileIntent": null,
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.calculator.net/random-number-generator.html",
+     "domain": "www.calculator.net",
+     "title": "Random Number Generator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.omnicalculator.com/statistics/random-number",
+     "domain": "www.omnicalculator.com",
+     "title": "Random Number Generator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.calculatorsoup.com/calculators/statistics/random-number-generator.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Random Number Generator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.calculatorsoup.com/calculators/statistics/random-number-generator-1-100.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Random Number Generator 1-100",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.calculatorsoup.com/calculators/statistics/random-number-generator-1-10.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Random Number Generator 1-10",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://goodcalculators.com/random-number-generator/",
+     "domain": "goodcalculators.com",
+     "title": "Random Number Generator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.calculator.io/number-generator/",
+     "domain": "www.calculator.io",
+     "title": "Number Generator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.omnicalculator.com/statistics/decimal-random-number-generator",
+     "domain": "www.omnicalculator.com",
+     "title": "Decimal Random Number Generator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.calculatorsoup.com/calculators/games/bingo-number-generator.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Bingo Number Generator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.calculator.io/all-calculators/",
+     "domain": "www.calculator.io",
+     "title": "All Calculators",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "random-number-generator",
+ "page": "random-number-generator",
+ "category": "math",
+ "name": "Random Number Generator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T06:05:40.577Z",
+ "topCompetitors": [
+  {
+   "domain": "calculatorsoup.com",
+   "bestRank": 1,
+   "keywords": 5,
+   "urls": [
+    "https://www.calculatorsoup.com/calculators/statistics/random-number-generator-1-100.php",
+    "https://www.calculatorsoup.com/calculators/statistics/random-number-generator.php",
+    "https://www.calculatorsoup.com/calculators/statistics/random-number-generator-1-10.php",
+    "https://www.calculatorsoup.com/calculators/games/bingo-number-generator.php"
+   ]
+  },
+  {
+   "domain": "google.com",
+   "bestRank": 2,
+   "keywords": 2,
+   "urls": [
+    "https://chrome.google.com/webstore/detail/random-number-generator/edihajimfnplkhplpiffhobikcifjhlg/reviews",
+    "https://developers.google.com/edu/c++/solutions/1-4?hl=hi"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 2,
+   "keywords": 2,
+   "urls": [
+    "https://www.omnicalculator.com/statistics/random-number",
+    "https://www.omnicalculator.com/statistics/decimal-random-number-generator"
+   ]
+  },
+  {
+   "domain": "inventivehq.com",
+   "bestRank": 3,
+   "keywords": 2,
+   "urls": [
+    "https://inventivehq.com/tools/random/random-number-between-1-and-100",
+    "https://inventivehq.com/tools/random-number-between-1-and-100"
+   ]
+  },
+  {
+   "domain": "calculator.io",
+   "bestRank": 7,
+   "keywords": 2,
+   "urls": [
+    "https://www.calculator.io/number-generator/",
+    "https://www.calculator.io/all-calculators/"
+   ]
+  },
+  {
+   "domain": "mit.edu",
+   "bestRank": 12,
+   "keywords": 2,
+   "urls": [
+    "https://scratch.mit.edu/discuss/post/440799",
+    "https://scratch.mit.edu/discuss/post/4919732"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculator.net/random-number-generator.html"
+   ]
+  },
+  {
+   "domain": "spinthewheel.io",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://spinthewheel.io/random-number-wheel-1-100"
+   ]
+  },
+  {
+   "domain": "medium.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://medium.com/@simplifullstack/how-to-generate-random-numbers-between-1-to-100-in-java-5b23398f7412"
+   ]
+  },
+  {
+   "domain": "goodcalculators.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://goodcalculators.com/random-number-generator/"
+   ]
+  }
+ ]
+}

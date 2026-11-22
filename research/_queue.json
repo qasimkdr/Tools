@@ -60,40 +60,47 @@
    "keyword": "discount calculator",
    "vol": 33100,
    "kd": 11,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "done",
+   "pages": 4,
+   "updatedAt": "2026-11-22T06:01:56.605Z"
   },
   {
    "id": "hypotenuse-calculator",
-   "keyword": "pythagoras equation solver",
-   "vol": 18100,
-   "kd": 42,
-   "status": "needs-serp",
-   "pages": 0
+   "keyword": "hypotenuse calculator",
+   "vol": 12100,
+   "kd": 5,
+   "status": "done",
+   "pages": 4,
+   "roadmapKeyword": "pythagoras equation solver",
+   "updatedAt": "2026-11-22T06:06:17.290Z"
   },
   {
    "id": "period-calculator",
    "keyword": "period calculator",
    "vol": 40500,
    "kd": 16,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "done",
+   "pages": 4,
+   "updatedAt": "2026-11-22T06:06:55.967Z"
   },
   {
    "id": "random-number-generator",
-   "keyword": "random 4 digit number generator",
+   "keyword": "random number generator 1-100",
    "vol": 2900,
    "kd": 24,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "done",
+   "pages": 4,
+   "roadmapKeyword": "random 4 digit number generator",
+   "updatedAt": "2026-11-22T06:07:40.698Z"
   },
   {
    "id": "cubic-yard-calculator",
    "keyword": "cubic yard calculator",
    "vol": 27100,
    "kd": 18,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "done",
+   "pages": 4,
+   "updatedAt": "2026-11-22T06:08:33.323Z"
   },
   {
    "id": "gravel-and-stone-calculator",

@@ -1,0 +1,1346 @@
+{
+ "pages": {
+  "https://inchcalculator.com/triangle-hypotenuse-calculator": {
+   "url": "https://inchcalculator.com/triangle-hypotenuse-calculator",
+   "finalUrl": "https://www.inchcalculator.com/triangle-hypotenuse-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T06:02:00.045Z",
+   "title": "Hypotenuse Calculator - Six Hypotenuse Formulas - Inch Calculator",
+   "metaDescription": "Calculate the hypotenuse of a right triangle using the legs and angles and learn six formulas and methods to find the hypotenuse.",
+   "canonical": "https://www.inchcalculator.com/triangle-hypotenuse-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Hypotenuse Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Hypotenuse",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Find the Hypotenuse of a Right Triangle",
+    "How to Find the Hypotenuse for a 45 45 90 Right Triangle",
+    "How to Find the Hypotenuse for a 30 60 90 Right Triangle",
+    "Similar Triangle Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Formula One: Given Two Legs",
+    "Formula Two: Given One Leg and the Adjacent Angle",
+    "Formula Three: Given One Leg and the Opposite Angle",
+    "Formula Four: Given One Leg and the Area"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Hypotenuse Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Hypotenuse"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Find the Hypotenuse of a Right Triangle"
+    },
+    {
+     "level": 3,
+     "text": "Formula One: Given Two Legs"
+    },
+    {
+     "level": 3,
+     "text": "Formula Two: Given One Leg and the Adjacent Angle"
+    },
+    {
+     "level": 3,
+     "text": "Formula Three: Given One Leg and the Opposite Angle"
+    },
+    {
+     "level": 3,
+     "text": "Formula Four: Given One Leg and the Area"
+    },
+    {
+     "level": 2,
+     "text": "How to Find the Hypotenuse for a 45 45 90 Right Triangle"
+    },
+    {
+     "level": 2,
+     "text": "How to Find the Hypotenuse for a 30 60 90 Right Triangle"
+    },
+    {
+     "level": 2,
+     "text": "Similar Triangle Calculators"
+    }
+   ],
+   "wordCount": 885,
+   "avgSentenceWords": 33,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "hypotenuse",
+     "weight": 28
+    },
+    {
+     "term": "triangle",
+     "weight": 25
+    },
+    {
+     "term": "right triangle",
+     "weight": 23
+    },
+    {
+     "term": "length",
+     "weight": 21
+    },
+    {
+     "term": "leg",
+     "weight": 20
+    },
+    {
+     "term": "right",
+     "weight": 18
+    },
+    {
+     "term": "angle",
+     "weight": 18
+    },
+    {
+     "term": "formula",
+     "weight": 17
+    },
+    {
+     "term": "find",
+     "weight": 14
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "given",
+     "weight": 12
+    },
+    {
+     "term": "side",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "opposite",
+     "weight": 8
+    },
+    {
+     "term": "equal",
+     "weight": 8
+    },
+    {
+     "term": "interior angle",
+     "weight": 8
+    },
+    {
+     "term": "legs",
+     "weight": 7
+    },
+    {
+     "term": "area",
+     "weight": 7
+    },
+    {
+     "term": "interior",
+     "weight": 7
+    },
+    {
+     "term": "adjacent angle",
+     "weight": 6
+    },
+    {
+     "term": "angle formula",
+     "weight": 6
+    },
+    {
+     "term": "opposite angle",
+     "weight": 6
+    },
+    {
+     "term": "pythagorean theorem",
+     "weight": 6
+    },
+    {
+     "term": "solve",
+     "weight": 5
+    },
+    {
+     "term": "hypotenuse calculator",
+     "weight": 5
+    },
+    {
+     "term": "shortest leg",
+     "weight": 5
+    },
+    {
+     "term": "adjacent",
+     "weight": 4
+    },
+    {
+     "term": "pythagorean",
+     "weight": 4
+    },
+    {
+     "term": "theorem",
+     "weight": 4
+    },
+    {
+     "term": "times",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "The hypotenuse is labeled as c, and the opposite 90° angle is typically symbolized with the square drawn at the vertex.",
+    "Since this is an isosceles triangle, both legs are equal in length, so you can find the length of the hypotenuse of a 45 45 90 right triangle using a simplified formula derived from the Pythagorean theorem.",
+    "c = a√2 The length of hypotenuse c is equal to the length of leg a times the square root of 2.",
+    "How to Find the Hypotenuse for a 30 60 90 Right Triangle A 30 60 90 triangle is a special right triangle that has one 30° interior angle, one 60° interior angle, and one right interior angle.",
+    "So, given the length of the shortest leg a, the formula to find the hypotenuse is: c = 2a The length of hypotenuse c is equal to 2 times the length of leg a."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 2,
+   "images": 11,
+   "videos": 0,
+   "calculatorInputs": [
+    "Side (a)",
+    "Side (b)",
+    "Side (a)",
+    "Angle (β)",
+    "Angle (β) Units",
+    "Side (a)",
+    "Angle (α)",
+    "Angle (α) Units"
+   ],
+   "selectOptionsSample": "degrees radians degrees radians",
+   "unitToggle": false,
+   "wordsBeforeTool": 43,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2020-09-15",
+    "modified": "2023-02-08T16:05:55+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 131,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 50,
+    "external": 13,
+    "contentInternal": 26,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Find the Hypotenuse of a Right Triangle",
+     "Formula One: Given Two Legs",
+     "Formula Two: Given One Leg and the Adjacent Angle",
+     "Formula Three: Given One Leg and the Opposite Angle",
+     "Formula Four: Given One Leg and the Area",
+     "How to Find the Hypotenuse for a 45 45 90 Right Triangle",
+     "How to Find the Hypotenuse for a 30 60 90 Right Triangle",
+     "Full bio",
+     "Hypotenuse Calculator",
+     "right triangle",
+     "triangle",
+     "Pythagorean theorem",
+     "cosine",
+     "Law of Sines",
+     "sine",
+     "triangle area",
+     "45 45 90 triangle"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/triangle-hypotenuse-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/triangle-hypotenuse/",
+     "https://www.inchcalculator.com/triangle-hypotenuse-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/triangle-hypotenuse-calculator/#idx_how_to_find_the_hypotenuse_of_a_right_triangle",
+     "https://www.inchcalculator.com/triangle-hypotenuse-calculator/#idx_formula_one_given_two_legs",
+     "https://www.inchcalculator.com/triangle-hypotenuse-calculator/#idx_formula_two_given_one_leg_and_the_adjacent_angle",
+     "https://www.inchcalculator.com/triangle-hypotenuse-calculator/#idx_formula_three_given_one_leg_and_the_opposite_angle",
+     "https://www.inchcalculator.com/triangle-hypotenuse-calculator/#idx_formula_four_given_one_leg_and_the_area",
+     "https://www.inchcalculator.com/triangle-hypotenuse-calculator/#idx_how_to_find_the_hypotenuse_for_a_45_45_90_right_triangle",
+     "https://www.inchcalculator.com/triangle-hypotenuse-calculator/#idx_how_to_find_the_hypotenuse_for_a_30_60_90_right_triangle",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/zachary-boeder/",
+     "https://www.inchcalculator.com/triangle-hypotenuse-calculator/",
+     "https://www.inchcalculator.com/right-triangle-calculator/",
+     "https://www.inchcalculator.com/triangle-calculator/",
+     "https://www.inchcalculator.com/pythagorean-theorem-calculator/",
+     "https://www.inchcalculator.com/cosine-calculator/",
+     "https://www.inchcalculator.com/law-of-sines-calculator/",
+     "https://www.inchcalculator.com/sine-calculator/",
+     "https://www.inchcalculator.com/triangle-area-calculator/",
+     "https://www.inchcalculator.com/45-45-90-triangle-calculator/",
+     "https://www.inchcalculator.com/isosceles-triangle-calculator/",
+     "https://www.inchcalculator.com/30-60-90-triangle-calculator/",
+     "https://www.inchcalculator.com/sohcahtoa-calculator/",
+     "https://www.inchcalculator.com/law-of-cosines-calculator/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Ftriangle-hypotenuse-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Ftriangle-hypotenuse-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Ftriangle-hypotenuse-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Ftriangle-hypotenuse-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Ftriangle-hypotenuse-calculator%2F&text=Hypotenuse+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Ftriangle-hypotenuse-calculator%2F&text=Hypotenuse+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/math/hypotenuse": {
+   "url": "https://www.omnicalculator.com/math/hypotenuse",
+   "finalUrl": "https://www.omnicalculator.com/math/hypotenuse",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T06:06:14.668Z",
+   "title": "Hypotenuse Calculator",
+   "metaDescription": "How to find the hypotenuse of a right triangle? What is the hypotenuse of a right triangle formula? Answer these questions with this hypotenuse calculator.",
+   "canonical": "https://www.omnicalculator.com/math/hypotenuse",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Hypotenuse Calculator"
+   ],
+   "h2": [
+    "How to use this hypotenuse calculator",
+    "What is the hypotenuse of a triangle?",
+    "Hypotenuse of a triangle formula",
+    "Ladder example — How to find the hypotenuse of a right triangle with this hypotenuse calculator",
+    "Creating the hypotenuse calculator",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I find hypotenuse with sin?",
+    "Is the hypotenuse always the longest side?",
+    "How do I find the hypotenuse adjacent and opposite?",
+    "How do you find the altitude of a hypotenuse?",
+    "What should I do if the hypotenuse is the opposite?",
+    "How do I construct a line perpendicular to the hypotenuse?",
+    "How do I find the hypotenuse of isosceles right triangle?",
+    "What is the hypotenuse angle theorem?",
+    "Where does the word hypotenuse come from?",
+    "How do I solve a right triangle with only the hypotenuse?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Hypotenuse Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to use this hypotenuse calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is the hypotenuse of a triangle?"
+    },
+    {
+     "level": 2,
+     "text": "Hypotenuse of a triangle formula"
+    },
+    {
+     "level": 2,
+     "text": "Ladder example — How to find the hypotenuse of a right triangle with this hypotenuse calculator"
+    },
+    {
+     "level": 2,
+     "text": "Creating the hypotenuse calculator"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I find hypotenuse with sin?"
+    },
+    {
+     "level": 3,
+     "text": "Is the hypotenuse always the longest side?"
+    },
+    {
+     "level": 3,
+     "text": "How do I find the hypotenuse adjacent and opposite?"
+    },
+    {
+     "level": 3,
+     "text": "How do you find the altitude of a hypotenuse?"
+    },
+    {
+     "level": 3,
+     "text": "What should I do if the hypotenuse is the opposite?"
+    },
+    {
+     "level": 3,
+     "text": "How do I construct a line perpendicular to the hypotenuse?"
+    },
+    {
+     "level": 3,
+     "text": "How do I find the hypotenuse of isosceles right triangle?"
+    },
+    {
+     "level": 3,
+     "text": "What is the hypotenuse angle theorem?"
+    },
+    {
+     "level": 3,
+     "text": "Where does the word hypotenuse come from?"
+    },
+    {
+     "level": 3,
+     "text": "How do I solve a right triangle with only the hypotenuse?"
+    }
+   ],
+   "wordCount": 1432,
+   "avgSentenceWords": 15,
+   "faqs": [
+    "How do I find hypotenuse with sin?",
+    "Is the hypotenuse always the longest side?",
+    "How do I find the hypotenuse adjacent and opposite?",
+    "How do you find the altitude of a hypotenuse?",
+    "What should I do if the hypotenuse is the opposite?",
+    "How do I construct a line perpendicular to the hypotenuse?",
+    "How do I find the hypotenuse of isosceles right triangle?",
+    "What is the hypotenuse angle theorem?",
+    "Where does the word hypotenuse come from?",
+    "How do I solve a right triangle with only the hypotenuse?",
+    "What is the hypotenuse of a triangle?"
+   ],
+   "faqSchemaCount": 10,
+   "topics": [
+    {
+     "term": "hypotenuse",
+     "weight": 49
+    },
+    {
+     "term": "triangle",
+     "weight": 29
+    },
+    {
+     "term": "angle",
+     "weight": 25
+    },
+    {
+     "term": "right",
+     "weight": 25
+    },
+    {
+     "term": "side",
+     "weight": 24
+    },
+    {
+     "term": "right triangle",
+     "weight": 23
+    },
+    {
+     "term": "calculator",
+     "weight": 20
+    },
+    {
+     "term": "length",
+     "weight": 16
+    },
+    {
+     "term": "find",
+     "weight": 14
+    },
+    {
+     "term": "hypotenuse calculator",
+     "weight": 11
+    },
+    {
+     "term": "ladder",
+     "weight": 10
+    },
+    {
+     "term": "triangles",
+     "weight": 9
+    },
+    {
+     "term": "opposite",
+     "weight": 8
+    },
+    {
+     "term": "longest side",
+     "weight": 8
+    },
+    {
+     "term": "area",
+     "weight": 7
+    },
+    {
+     "term": "pythagorean theorem",
+     "weight": 6
+    },
+    {
+     "term": "theorem",
+     "weight": 6
+    },
+    {
+     "term": "right angle",
+     "weight": 6
+    },
+    {
+     "term": "right angled",
+     "weight": 6
+    },
+    {
+     "term": "sides",
+     "weight": 6
+    },
+    {
+     "term": "longest",
+     "weight": 5
+    },
+    {
+     "term": "enter",
+     "weight": 5
+    },
+    {
+     "term": "given",
+     "weight": 5
+    },
+    {
+     "term": "leg",
+     "weight": 5
+    },
+    {
+     "term": "roof",
+     "weight": 5
+    },
+    {
+     "term": "result",
+     "weight": 5
+    },
+    {
+     "term": "angled triangles",
+     "weight": 5
+    },
+    {
+     "term": "hypotenuse draw",
+     "weight": 5
+    },
+    {
+     "term": "main triangle",
+     "weight": 5
+    },
+    {
+     "term": "pythagorean",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "When we enter these values, the calculator instantly determines that: Side b = 2.887 cm; Angle β = 30°; and Hypotenuse c = 5.774 cm.",
+    "Suppose you must find an unknown side using the hypotenuse (13 cm) and a known side (12 cm).",
+    "Enter the hypotenuse c = 13 cm and side a = 12 cm.",
+    "Ladder example — How to find the hypotenuse of a right triangle with this hypotenuse calculator Let's calculate how long the ladder should be if we want to rescue a kitten from a 10 ft roof."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 15,
+   "images": 6,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Hanna Pamuła",
+    "published": "2018-08-22T14:41:55.420Z",
+    "modified": "2026-07-13T21:18:51.147Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 552,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 22,
+    "external": 1,
+    "contentInternal": 6,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "right triangle calculator",
+     "Pythagorean theorem calculator",
+     "law of sines calculator",
+     "area of a right triangle calculator",
+     "right triangle side and angle calculator",
+     "Editorial Policies"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/math/right-triangle",
+     "https://www.omnicalculator.com/math/pythagorean-theorem",
+     "https://www.omnicalculator.com/math/law-of-sines",
+     "https://www.omnicalculator.com/math/right-triangle-area",
+     "https://www.omnicalculator.com/math/right-triangle-side-angle",
+     "https://www.omnicalculator.com/editorial-policies"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/geometry-plane/pythagorean-theorem.php": {
+   "url": "https://www.calculatorsoup.com/calculators/geometry-plane/pythagorean-theorem.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/geometry-plane/pythagorean-theorem.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T06:08:43.750Z",
+   "title": "Pythagorean Theorem Calculator",
+   "metaDescription": "Pythagorean Theorem Calculator uses the Pythagorean formula to find hypotenuse c, side a, side b, and area of a right triangle. Pythagorean triples explained.",
+   "canonical": "https://www.calculatorsoup.com/calculators/geometry-plane/pythagorean-theorem.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Pythagorean Theorem Calculator"
+   ],
+   "h2": [
+    "Pythagorean Theorem for Right Triangles",
+    "What is the Pythagorean Theorem?",
+    "Pythagorean Theorem Formula",
+    "What are Pythagorean Triples?",
+    "References:"
+   ],
+   "h3": [
+    "Solve for the Length of the Hypotenuse c",
+    "Solve for Length of Side a",
+    "Solve for the Length of Side b",
+    "Solve for Area A of the Right Triangle",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Pythagorean Theorem Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Pythagorean Theorem for Right Triangles"
+    },
+    {
+     "level": 2,
+     "text": "What is the Pythagorean Theorem?"
+    },
+    {
+     "level": 2,
+     "text": "Pythagorean Theorem Formula"
+    },
+    {
+     "level": 3,
+     "text": "Solve for the Length of the Hypotenuse c"
+    },
+    {
+     "level": 3,
+     "text": "Solve for Length of Side a"
+    },
+    {
+     "level": 3,
+     "text": "Solve for the Length of Side b"
+    },
+    {
+     "level": 3,
+     "text": "Solve for Area A of the Right Triangle"
+    },
+    {
+     "level": 2,
+     "text": "What are Pythagorean Triples?"
+    },
+    {
+     "level": 2,
+     "text": "References:"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 578,
+   "avgSentenceWords": 25,
+   "faqs": [
+    "What is the Pythagorean Theorem?",
+    "What are Pythagorean Triples?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "pythagorean theorem",
+     "weight": 36
+    },
+    {
+     "term": "pythagorean",
+     "weight": 29
+    },
+    {
+     "term": "theorem",
+     "weight": 25
+    },
+    {
+     "term": "side",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "right",
+     "weight": 11
+    },
+    {
+     "term": "length",
+     "weight": 11
+    },
+    {
+     "term": "theorem calculator",
+     "weight": 11
+    },
+    {
+     "term": "hypotenuse",
+     "weight": 10
+    },
+    {
+     "term": "right triangle",
+     "weight": 9
+    },
+    {
+     "term": "theorem formula",
+     "weight": 9
+    },
+    {
+     "term": "formula",
+     "weight": 8
+    },
+    {
+     "term": "sides",
+     "weight": 7
+    },
+    {
+     "term": "triangle",
+     "weight": 7
+    },
+    {
+     "term": "calculators",
+     "weight": 6
+    },
+    {
+     "term": "right triangles",
+     "weight": 6
+    },
+    {
+     "term": "area",
+     "weight": 6
+    },
+    {
+     "term": "solve",
+     "weight": 5
+    },
+    {
+     "term": "squared",
+     "weight": 5
+    },
+    {
+     "term": "square",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators geometry",
+     "weight": 5
+    },
+    {
+     "term": "square root",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "geometry",
+     "weight": 4
+    },
+    {
+     "term": "sqrt",
+     "weight": 4
+    },
+    {
+     "term": "triangles",
+     "weight": 4
+    },
+    {
+     "term": "geometry plane",
+     "weight": 3
+    },
+    {
+     "term": "plane pythagorean",
+     "weight": 3
+    },
+    {
+     "term": "calculator pythagorean",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "\\[ c = \\sqrt{a^{2} + b^{2}} \\] Solve for Length of Side a The length of side a is the square root of the squared hypotenuse minus the square of side b.",
+    "\\[ a = \\sqrt{c^{2} - b^{2}} \\] Solve for the Length of Side b The length of side b is the square root of the squared hypotenuse minus the square of side a.",
+    "A Pythagorean triple is a set of 3 positive integers for sides a and b and hypotenuse c that satisfy the Pythagorean Theorem formula a2 + b2 = c2 The smallest known Pythagorean triple is 3, 4, and 5."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 0,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Solve for:",
+    "side a =",
+    "side b =",
+    "Units",
+    "Significant Figures",
+    "reset"
+   ],
+   "selectOptionsSample": "side a side b hypotenuse c area a none km m cm mm mi yd ft in auto 3 4 5 6 7 8 9",
+   "unitToggle": true,
+   "wordsBeforeTool": 19,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "October 1, 2026",
+    "authoritativeSources": [
+     "https://en.wikipedia.org/wiki/Pythagorean_theorem"
+    ]
+   },
+   "ux": {
+    "htmlKB": 56,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 18,
+    "external": 4,
+    "contentInternal": 8,
+    "contentExternal": 4,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Geometry",
+     "Plane",
+     "Pythagorean Theorem Calculator",
+     "Pythagorean Theorem for Right Triangles",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/geometry-calculators.php",
+     "https://www.calculatorsoup.com/calculators/geometry-plane/",
+     "https://www.calculatorsoup.com/calculators/geometry-plane/pythagorean-theorem.php",
+     "https://www.calculatorsoup.com/calculators/geometry-plane/pythagorean-theorem.php#calculationImage",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=geometry-calculators.php&folderName=Geometry&folder2=geometry-plane%2F&folderName2=Plane&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/geometry-plane/pythagorean-theorem.php&h1=Pythagorean+Theorem+Calculator&pop_w=400&pop_h=600"
+    ],
+    "externalSample": [
+     "https://mathworld.wolfram.com/about/author.html",
+     "https://mathworld.wolfram.com/",
+     "https://mathworld.wolfram.com/PythagoreanTheorem.html",
+     "https://en.wikipedia.org/wiki/Pythagorean_theorem"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.io/pythagorean-theorem-calculator/": {
+   "url": "https://www.calculator.io/pythagorean-theorem-calculator/",
+   "finalUrl": "https://www.calculator.io/pythagorean-theorem-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.calculator.io",
+   "fetchedAt": "2026-11-22T06:08:46.854Z",
+   "title": "Pythagorean Theorem Calculator",
+   "metaDescription": "Easily find the missing side, hypotenuse, angles, area, and perimeter of any right triangle with our fast and accurate Pythagorean Theorem Calculator.",
+   "canonical": "https://www.calculator.io/pythagorean-theorem-calculator/",
+   "robotsMeta": "index, follow",
+   "lang": "en",
+   "h1": [
+    "Pythagorean Theorem"
+   ],
+   "h2": [
+    "Understanding the Pythagorean Theorem: Formulas, Proof, and Examples",
+    "Table of Contents",
+    "Directions for use",
+    "Pythagorean Theorem",
+    "Proof of the Pythagorean theorem",
+    "Calculation algorithms",
+    "Real-life examples",
+    "Additional calculations"
+   ],
+   "h3": [
+    "Finding the sides of a right triangle",
+    "Finding the angles of a right triangle",
+    "Area of a right triangle",
+    "Perimeter of a right triangle",
+    "Altitude to hypotenuse",
+    "Fitting objects"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Pythagorean Theorem"
+    },
+    {
+     "level": 2,
+     "text": "Understanding the Pythagorean Theorem: Formulas, Proof, and Examples"
+    },
+    {
+     "level": 2,
+     "text": "Table of Contents"
+    },
+    {
+     "level": 2,
+     "text": "Directions for use"
+    },
+    {
+     "level": 2,
+     "text": "Pythagorean Theorem"
+    },
+    {
+     "level": 2,
+     "text": "Proof of the Pythagorean theorem"
+    },
+    {
+     "level": 2,
+     "text": "Calculation algorithms"
+    },
+    {
+     "level": 3,
+     "text": "Finding the sides of a right triangle"
+    },
+    {
+     "level": 3,
+     "text": "Finding the angles of a right triangle"
+    },
+    {
+     "level": 3,
+     "text": "Area of a right triangle"
+    },
+    {
+     "level": 3,
+     "text": "Perimeter of a right triangle"
+    },
+    {
+     "level": 3,
+     "text": "Altitude to hypotenuse"
+    },
+    {
+     "level": 2,
+     "text": "Real-life examples"
+    },
+    {
+     "level": 3,
+     "text": "Fitting objects"
+    },
+    {
+     "level": 2,
+     "text": "Additional calculations"
+    }
+   ],
+   "wordCount": 1307,
+   "avgSentenceWords": 34,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "right triangle",
+     "weight": 35
+    },
+    {
+     "term": "triangle",
+     "weight": 34
+    },
+    {
+     "term": "right",
+     "weight": 27
+    },
+    {
+     "term": "pythagorean theorem",
+     "weight": 24
+    },
+    {
+     "term": "pythagorean",
+     "weight": 17
+    },
+    {
+     "term": "theorem",
+     "weight": 17
+    },
+    {
+     "term": "side",
+     "weight": 16
+    },
+    {
+     "term": "hypotenuse",
+     "weight": 16
+    },
+    {
+     "term": "area",
+     "weight": 16
+    },
+    {
+     "term": "sides",
+     "weight": 14
+    },
+    {
+     "term": "length",
+     "weight": 12
+    },
+    {
+     "term": "square",
+     "weight": 11
+    },
+    {
+     "term": "ask",
+     "weight": 10
+    },
+    {
+     "term": "math",
+     "weight": 10
+    },
+    {
+     "term": "arcsin",
+     "weight": 10
+    },
+    {
+     "term": "calculation",
+     "weight": 9
+    },
+    {
+     "term": "formula math",
+     "weight": 9
+    },
+    {
+     "term": "angle",
+     "weight": 8
+    },
+    {
+     "term": "instant answers",
+     "weight": 8
+    },
+    {
+     "term": "calculation try",
+     "weight": 8
+    },
+    {
+     "term": "try ask",
+     "weight": 8
+    },
+    {
+     "term": "formula",
+     "weight": 7
+    },
+    {
+     "term": "sqrt",
+     "weight": 7
+    },
+    {
+     "term": "meters",
+     "weight": 7
+    },
+    {
+     "term": "perimeter",
+     "weight": 6
+    },
+    {
+     "term": "triangle area",
+     "weight": 6
+    },
+    {
+     "term": "lengths",
+     "weight": 6
+    },
+    {
+     "term": "calculated",
+     "weight": 6
+    },
+    {
+     "term": "leg",
+     "weight": 6
+    },
+    {
+     "term": "angle opposite",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Therefore, in our case a = 4, b = 3, and we need to find the hypotenuse c: $$c=\\sqrt{a²+b²}=\\sqrt{4²+3²}=\\sqrt{16+9}=\\sqrt{25}=5$$ The hypotenuse of a right triangle with legs a = 4 and b = 3 is c = 5.",
+    "Let's look at the expanded results for our moving truck triangle with sides a = 4, b = 3, and hypotenuse c = 5."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "BreadcrumbList",
+    "WebApplication"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 7,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "Link"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 107,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": "2026-07-28T19:01:43+05:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 73,
+    "adNetworks": [
+     "adsense"
+    ],
+    "adSlots": 5,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 58,
+    "external": 1,
+    "contentInternal": 18,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Slope Formula Math",
+     "Triangle Area Formula Math",
+     "Right Triangle Math",
+     "Square Root Math",
+     "Distance Formula Math",
+     "Directions for use",
+     "Pythagorean Theorem",
+     "Proof of the Pythagorean theorem",
+     "Calculation algorithms",
+     "Finding the sides of a right triangle",
+     "Finding the angles of a right triangle",
+     "Area of a right triangle",
+     "Perimeter of a right triangle",
+     "Altitude to hypotenuse",
+     "Real-life examples",
+     "Fitting objects",
+     "Additional calculations"
+    ],
+    "internalSample": [
+     "https://www.calculator.io/ask-ai/",
+     "https://www.calculator.io/slope-calculator/",
+     "https://www.calculator.io/triangle-calculator/",
+     "https://www.calculator.io/right-triangle-calculator/",
+     "https://www.calculator.io/square-root-calculator/",
+     "https://www.calculator.io/distance-formula-calculator/",
+     "https://www.calculator.io/pythagorean-theorem-calculator/#directions-for-use-1",
+     "https://www.calculator.io/pythagorean-theorem-calculator/#pythagorean-theorem-2",
+     "https://www.calculator.io/pythagorean-theorem-calculator/#proof-of-the-pythagorean-theorem-3",
+     "https://www.calculator.io/pythagorean-theorem-calculator/#calculation-algorithms-4",
+     "https://www.calculator.io/pythagorean-theorem-calculator/#finding-the-sides-of-a-right-triangle-5",
+     "https://www.calculator.io/pythagorean-theorem-calculator/#finding-the-angles-of-a-right-triangle-6",
+     "https://www.calculator.io/pythagorean-theorem-calculator/#area-of-a-right-triangle-7",
+     "https://www.calculator.io/pythagorean-theorem-calculator/#perimeter-of-a-right-triangle-8",
+     "https://www.calculator.io/pythagorean-theorem-calculator/#altitude-to-hypotenuse-9",
+     "https://www.calculator.io/pythagorean-theorem-calculator/#real-life-examples-10",
+     "https://www.calculator.io/pythagorean-theorem-calculator/#fitting-objects-11",
+     "https://www.calculator.io/pythagorean-theorem-calculator/#additional-calculations-12"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://omnicalculator.com/math/hypotenuse": [
+   "unreachable (fetch failed)"
+  ],
+  "https://miniwebtool.com/hypotenuse-calculator/?a=2&b=3": [
+   "unreachable (fetch failed)"
+  ],
+  "https://cuemath.com/calculators/hypotenuse-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.geeksforgeeks.org/hypotenuse-of-a-triangle-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.calculate.co.nz/hypotenuse-calculator.php": [
+   "unreachable (fetch failed)"
+  ],
+  "https://wba.omnicalculator.com/math/hypotenuse": [
+   "unreachable (fetch failed)"
+  ],
+  "https://miniwebtool.com/hypotenuse-calculator/?a=7&b=9": [
+   "unreachable (fetch failed)"
+  ],
+  "https://mathcheck.net/calculators/hypotenuse": [
+   "unreachable (fetch failed)"
+  ],
+  "https://brightchamps.com/en-us/math/calculators/hypotenuse-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://brightchamps.com/en-ae/math/calculators/hypotenuse-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.jwdittrich.people.ysu.edu/CSIS_2610/hypotenuse.cpp": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.workybooks.com/resources/calculator/hypotenuse-calculator": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

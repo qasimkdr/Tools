@@ -1,0 +1,258 @@
+{
+ "keywords": {
+  "discount calculator": {
+   "fetchedAt": "2026-11-22T06:01:00.600Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 33100,
+   "fileKd": 11,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 15,
+    "url": "www.calculator.net/percent-off-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.zoho.com/kw/invoice/free-discount-calculator/",
+     "domain": "www.zoho.com",
+     "title": "Discount Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://chrome.google.com/webstore/detail/discount-calculator/hhgkcfjpojpnpnojmbicnliajhjmhlkd/reviews?hl=en-US",
+     "domain": "chrome.google.com",
+     "title": "Discount Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.zoho.com/en-fr/invoice/free-discount-calculator/",
+     "domain": "www.zoho.com",
+     "title": "Discount Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.pearson.com/channels/ko-kr/calculators/discount-calculator",
+     "domain": "www.pearson.com",
+     "title": "discount calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://ecommerce-platforms.com/discount-calculator",
+     "domain": "ecommerce-platforms.com",
+     "title": "Discount Calculator – A Simple Way to Calculate Powerful Discounts",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.pearson.com/channels/calculators/discount-calculator",
+     "domain": "www.pearson.com",
+     "title": "discount calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://ecommerce-platforms.com/?p=80761",
+     "domain": "ecommerce-platforms.com",
+     "title": "Discount Calculator – A Simple Way to Calculate Powerful Discounts",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.omnicalculator.com/math/discount",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.omnicalculator.com/everyday-life/discount",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://inchcalculator.com/discount-calculator",
+     "domain": "inchcalculator.com",
+     "title": "Discount Calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.gigacalculator.com/calculators/discount-calculator.php",
+     "domain": "www.gigacalculator.com",
+     "title": "Discount Calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.calculator.net/discount-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Discount Calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.shadcn.io/tools/discount-calculator",
+     "domain": "www.shadcn.io",
+     "title": "discount calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://apps.apple.com/sa/app/id6744504215",
+     "domain": "apps.apple.com",
+     "title": "Discount-Calculator +",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://mintlify.com/modernharp/discountcalculator/guides/using-the-calculator",
+     "domain": "mintlify.com",
+     "title": "using the calculator",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://apps.apple.com/us/app/id6742233623",
+     "domain": "apps.apple.com",
+     "title": "discount calculator - 1Tap",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://www.holded.com/tools/calculators-discount",
+     "domain": "www.holded.com",
+     "title": "calculators discount",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://miniwebtool.com/discount-calculator/",
+     "domain": "miniwebtool.com",
+     "title": "discount calculator",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://prisync.com/discount-calculator",
+     "domain": "prisync.com",
+     "title": "Free Discount Calculator for Ecommerce",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://www.calculatorsoup.com/calculators/financial/discount-calculator.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Discount Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "discount-calculator",
+ "page": "discount-calculator",
+ "category": "finance",
+ "name": "Discount Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T06:01:00.601Z",
+ "topCompetitors": [
+  {
+   "domain": "zoho.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://www.zoho.com/kw/invoice/free-discount-calculator/",
+    "https://www.zoho.com/en-fr/invoice/free-discount-calculator/"
+   ]
+  },
+  {
+   "domain": "pearson.com",
+   "bestRank": 4,
+   "keywords": 2,
+   "urls": [
+    "https://www.pearson.com/channels/ko-kr/calculators/discount-calculator",
+    "https://www.pearson.com/channels/calculators/discount-calculator"
+   ]
+  },
+  {
+   "domain": "ecommerce-platforms.com",
+   "bestRank": 5,
+   "keywords": 2,
+   "urls": [
+    "https://ecommerce-platforms.com/discount-calculator",
+    "https://ecommerce-platforms.com/?p=80761"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 8,
+   "keywords": 2,
+   "urls": [
+    "https://www.omnicalculator.com/math/discount",
+    "https://www.omnicalculator.com/everyday-life/discount"
+   ]
+  },
+  {
+   "domain": "apple.com",
+   "bestRank": 14,
+   "keywords": 2,
+   "urls": [
+    "https://apps.apple.com/sa/app/id6744504215",
+    "https://apps.apple.com/us/app/id6742233623"
+   ]
+  },
+  {
+   "domain": "google.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://chrome.google.com/webstore/detail/discount-calculator/hhgkcfjpojpnpnojmbicnliajhjmhlkd/reviews?hl=en-US"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://inchcalculator.com/discount-calculator"
+   ]
+  },
+  {
+   "domain": "gigacalculator.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://www.gigacalculator.com/calculators/discount-calculator.php"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculator.net/discount-calculator.html"
+   ]
+  },
+  {
+   "domain": "shadcn.io",
+   "bestRank": 13,
+   "keywords": 1,
+   "urls": [
+    "https://www.shadcn.io/tools/discount-calculator"
+   ]
+  }
+ ]
+}

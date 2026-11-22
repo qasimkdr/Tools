@@ -1,0 +1,9 @@
+export const faq = [
+  { q: "How do I calculate when my next period will start?", a: "Add your usual cycle length to the first day of your last period. A cycle is counted from the first day of one period to the day before the next one starts. If your last period began November 1 and your cycle is 28 days, the next is due around November 29." },
+  { q: "What is a normal cycle length?", a: "The U.S. Office on Women's Health considers cycles of 24 to 38 days regular for adults; about 28 days is average. Cycles are often longer and less predictable in the first few years after periods start, and around perimenopause." },
+  { q: "How accurate is a period calculator?", a: "It's an estimate based on averages. It works best if your cycles are regular. Stress, illness, travel, weight change, breastfeeding and hormonal contraception can all shift your period, so treat the dates as a guide, not a guarantee." },
+  { q: "How is ovulation estimated?", a: "Ovulation usually happens about 12 to 16 days before the next period, so the calculator estimates it as 14 days before your predicted period. The fertile window shown is the 5 days before ovulation plus the day after, because sperm can survive for several days." },
+  { q: "Can I use this to avoid pregnancy?", a: "No. Calendar estimates aren't reliable birth control: ovulation can shift from cycle to cycle, and there's no fully 'safe' day. Talk to a healthcare provider about contraception options." },
+  { q: "When should I see a doctor about my period?", a: "See a healthcare provider if your period stops for 3 months or more (and you're not pregnant), your cycles are consistently shorter than 24 or longer than 38 days, bleeding lasts more than 7–8 days or is very heavy, or you have severe pain or bleeding between periods." },
+  { q: "Is my data saved?", a: "No. The calculation runs entirely in your browser. Nothing you enter is sent to a server or stored by us." },
+];

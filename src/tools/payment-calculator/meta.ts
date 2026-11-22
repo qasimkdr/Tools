@@ -9,7 +9,7 @@ const meta: ToolMeta = {
   category: "finance",
   primaryKw: "payment calculator",
   keywords: ["loan payment calculator", "monthly payment calculator", "extra car payment calculator", "annual payment calculator", "amortization", "payoff time", "total interest"],
-  related: ["interest-rate-calculator", "mortgage-calculator", "amortization-calculator", "auto-loan-calculator", "apr-calculator", "credit-card-payoff-calculator"],
+  related: ["interest-rate-calculator", "discount-calculator", "mortgage-calculator", "amortization-calculator", "auto-loan-calculator", "apr-calculator", "credit-card-payoff-calculator"],
   published: "2026-11-21",
   updated: "2026-11-21",
   icon: "💳",

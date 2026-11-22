@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "Is this random number generator truly random?", a: "It uses your browser's cryptographically secure random source (the Web Crypto API), the same kind of randomness used for encryption keys, and removes 'modulo bias' so every number in the range is equally likely. It's not a physical device such as radioactive decay, but it's unpredictable for any practical purpose." },
+  { q: "How do I pick a random number between 1 and 100?", a: "Set the minimum to 1 and the maximum to 100 (or tap the 1–100 preset) and press Generate. Each number has exactly a 1 in 100 chance on every draw." },
+  { q: "How do I generate numbers without repeats?", a: "Turn on 'No repeats'. Each number can then appear only once per draw, like drawing raffle tickets from a hat. You can't ask for more unique numbers than the range contains (for example, 11 unique numbers from 1–10)." },
+  { q: "Can I generate a random 4-digit number?", a: "Yes. Tap the 4-digit preset (1000–9999) for numbers that always have four digits, or set 0–9999 if leading zeros are allowed, such as for a PIN. For real passwords or PINs, use a dedicated password manager." },
+  { q: "Can I use this for a raffle or giveaway?", a: "Yes. Number the entries, set the range to match, turn on 'No repeats' and draw the number of winners you need. For transparency, screen-record or share the draw. Check local rules for prize draws and lotteries." },
+  { q: "Does the same number come up more often?", a: "No. With repeats allowed, every draw is independent, so a number can appear twice in a row just by chance. Streaks are normal in random data and don't mean the generator is biased." },
+];
