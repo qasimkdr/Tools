@@ -65,6 +65,10 @@ You get: primary keyword, volume, KD, all merged keywords (≤40), competitor UR
 - Set `status: "live"` for the slug in `data/roadmap.json`, run `npm run roadmap`.
 - Commit: `feat(tool): <Name>` with the research highlights in the body. Push to the Claude session branch, then fast-forward merge to `main` automatically when lint + build + e2e all pass (owner standing approval, 2026-11-22). If anything fails, don't merge.
 - Tell the owner: URL to submit in Search Console.
+- **End every batch report with a "Competitors we beat" section** (owner request, 2026-11-22). Per tool: the competitor
+  pages actually researched (domain + their score /30 from `research/<slug>/report.md`), then 2–4 concrete things our page
+  does that they don't (from the brief's "Gaps beaten"). Facts only from the report; say "partial research (N pages)" when
+  fewer than 4. Never claim we outrank anyone — rankings aren't known until Search Console data exists.
 
 ## Pace
 Target **5–10 finished tools per working session**, not 50/day. See `00-PROJECT-SUMMARY.md` §Publishing pace.

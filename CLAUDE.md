@@ -55,3 +55,5 @@ Rows with status `hold` are policy-sensitive: never build without the owner's OK
    keyword lists with live tools. If a todo page has the same intent as a live tool, set its `status` to `"covered"` with a
    `note` ("covered by /<slug>/ (why)") in `data/roadmap.json` and skip it — do not build it and do not extend the live tool.
    Overlaps between two not-yet-built pages: merge them into one new tool (your call).
+10. Owner rule (2026-11-22): every batch report ends with **"Competitors we beat"**: per tool, the researched competitor
+   pages with their scores and what our page does better (format: `docs/03-TOOL-BUILD-WORKFLOW.md` Step 7).
