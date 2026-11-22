@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How do I calculate cross stitch fabric size?", a: "Divide the design's stitch count by the fabric count to get the design size in inches, then add your margin on every side. A 140 × 100-stitch design on 14-count Aida is 10 × 7.14 inches; with 3-inch margins, cut fabric 16 × 13.14 inches." },
+  { q: "What does fabric count mean?", a: "Count is the number of stitches (for Aida) or threads (for evenweave and linen) per inch. Higher counts mean smaller stitches and a smaller finished piece: the same design is 12.7 inches wide on 11-count but 7.8 inches on 18-count." },
+  { q: "What does stitching over two mean?", a: "On evenweave and linen, each cross usually covers two threads in each direction, so the effective stitch count is half the thread count. 28-count linen stitched over two gives 14 stitches per inch, the same size as 14-count Aida." },
+  { q: "How much margin should I leave?", a: "2 to 3 inches on each side is a common allowance for hooping, framing or mounting; larger pieces and those going into deep frames may need more. Small ornaments or patches need less. It's always easier to trim extra fabric than to add it." },
+  { q: "What is the most common Aida count?", a: "14-count Aida is the most popular for beginners and most kits. 11-count is easier on the eyes with bigger stitches, while 16 and 18-count give finer detail." },
+  { q: "Where do I find the stitch count?", a: "Most patterns list the design size in stitches (for example, 140w × 100h). If not, count the squares across the widest and tallest parts of the chart, including backstitch and border areas." },
+];

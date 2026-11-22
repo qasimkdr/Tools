@@ -7063,7 +7063,7 @@
    ],
    "competitors": [],
    "category": "everyday",
-   "status": "todo",
+   "status": "live",
    "order": 59,
    "batch": 6
   },
@@ -7092,7 +7092,7 @@
    ],
    "competitors": [],
    "category": "construction",
-   "status": "todo",
+   "status": "live",
    "order": 60,
    "batch": 6
   },
@@ -7121,7 +7121,7 @@
    ],
    "competitors": [],
    "category": "math",
-   "status": "todo",
+   "status": "live",
    "order": 61,
    "batch": 7
   },
@@ -7159,7 +7159,7 @@
    ],
    "competitors": [],
    "category": "construction",
-   "status": "todo",
+   "status": "live",
    "order": 62,
    "batch": 7
   },
@@ -7206,7 +7206,7 @@
     "www.omnicalculator.com/construction/board-foot"
    ],
    "category": "construction",
-   "status": "todo",
+   "status": "live",
    "order": 63,
    "batch": 7
   },

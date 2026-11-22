@@ -1,0 +1,296 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/everyday-life/cross-stitch": {
+   "url": "https://www.omnicalculator.com/everyday-life/cross-stitch",
+   "finalUrl": "https://www.omnicalculator.com/everyday-life/cross-stitch",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T14:38:27.133Z",
+   "title": "Cross-stitch Calculator",
+   "metaDescription": "Our easy-to-use cross-stitch calculator can estimate your stitched area and total fabric size. It also includes some stitching tips!",
+   "canonical": "https://www.omnicalculator.com/everyday-life/cross-stitch",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Cross-stitch Calculator"
+   ],
+   "h2": [
+    "What is cross-stitch?",
+    "What are the different counted cross-stitch fabrics and what is fabric count?",
+    "What counted cross-stitch needle to use",
+    "How to use the counted cross-stitch calculator",
+    "Example: how to calculate cross-stitch size",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I calculate cross-stitch size?",
+    "How many cross-stitches are in 1 cm?",
+    "Which is better, 11CT or 14CT for cross-stitch?",
+    "What is the best needle for cross-stitch?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Cross-stitch Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is cross-stitch?"
+    },
+    {
+     "level": 2,
+     "text": "What are the different counted cross-stitch fabrics and what is fabric count?"
+    },
+    {
+     "level": 2,
+     "text": "What counted cross-stitch needle to use"
+    },
+    {
+     "level": 2,
+     "text": "How to use the counted cross-stitch calculator"
+    },
+    {
+     "level": 2,
+     "text": "Example: how to calculate cross-stitch size"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate cross-stitch size?"
+    },
+    {
+     "level": 3,
+     "text": "How many cross-stitches are in 1 cm?"
+    },
+    {
+     "level": 3,
+     "text": "Which is better, 11CT or 14CT for cross-stitch?"
+    },
+    {
+     "level": 3,
+     "text": "What is the best needle for cross-stitch?"
+    }
+   ],
+   "wordCount": 1138,
+   "avgSentenceWords": 18,
+   "faqs": [
+    "How do I calculate cross-stitch size?",
+    "How many cross-stitches are in 1 cm?",
+    "Which is better, 11CT or 14CT for cross-stitch?",
+    "What is the best needle for cross-stitch?",
+    "What is cross-stitch?",
+    "What are the different counted cross-stitch fabrics and what is fabric count?",
+    "How many cross-stitches are in 1 cm?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "cross stitch",
+     "weight": 53
+    },
+    {
+     "term": "cross",
+     "weight": 43
+    },
+    {
+     "term": "stitch",
+     "weight": 43
+    },
+    {
+     "term": "fabric",
+     "weight": 35
+    },
+    {
+     "term": "count",
+     "weight": 29
+    },
+    {
+     "term": "size",
+     "weight": 25
+    },
+    {
+     "term": "stitches",
+     "weight": 17
+    },
+    {
+     "term": "counted cross",
+     "weight": 15
+    },
+    {
+     "term": "needle",
+     "weight": 14
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "stitching",
+     "weight": 12
+    },
+    {
+     "term": "counted",
+     "weight": 11
+    },
+    {
+     "term": "stitch fabric",
+     "weight": 11
+    },
+    {
+     "term": "threads",
+     "weight": 9
+    },
+    {
+     "term": "aida",
+     "weight": 9
+    },
+    {
+     "term": "number",
+     "weight": 9
+    },
+    {
+     "term": "pattern",
+     "weight": 9
+    },
+    {
+     "term": "count size",
+     "weight": 9
+    },
+    {
+     "term": "inches",
+     "weight": 9
+    },
+    {
+     "term": "stitch calculator",
+     "weight": 8
+    },
+    {
+     "term": "fabric count",
+     "weight": 8
+    },
+    {
+     "term": "cross stitching",
+     "weight": 8
+    },
+    {
+     "term": "inch",
+     "weight": 7
+    },
+    {
+     "term": "count fabric",
+     "weight": 6
+    },
+    {
+     "term": "count aida",
+     "weight": 6
+    },
+    {
+     "term": "stitch needle",
+     "weight": 6
+    },
+    {
+     "term": "needle size",
+     "weight": 6
+    },
+    {
+     "term": "width",
+     "weight": 5
+    },
+    {
+     "term": "height",
+     "weight": 5
+    },
+    {
+     "term": "fabrics",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "For example, when you stitch a pattern on a 28-count cross-stitch fabric over two threads, you create the same finished size as stitching it on a 14-count Aida fabric for cross-stitch, with each cross worked on a square.",
+    "For instance, 16-count Aida fabric means 16 stitches per inch, whereas for linen or evenweave, 16 stitches per inch might mean a 32-count fabric.",
+    "Example: how to calculate cross-stitch size Suppose you're stitching a floral pattern that is 100 stitches wide by 80 stitches high using a 14-count Aida fabric.",
+    "Leave the default value of 1 thread (for aida) from the \"Each stitch covers\" dropdown menu.",
+    "For example: 140 stitches wide / 14-count aida = 10 inches wide.",
+    "Around 5.5 stitches, assuming you have a 14-count fabric.",
+    "Indeed, 1 inch equals 2.54 cm, so there are 14 stitches per 2.54 cm.",
+    "This will give you approximately 5.5 stitches per cm.",
+    "However, an 11-count fabric has larger stitches, making it easier to see and embroider."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 9,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Each stitch covers:"
+   ],
+   "selectOptionsSample": "select 1 thread (for aida) 2 threads (for linen) 3 4",
+   "unitToggle": false,
+   "wordsBeforeTool": 9,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Claudia Herambourg",
+    "published": "2025-06-30T08:16:22.930Z",
+    "modified": "2026-08-29T19:36:46.848Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 527,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 19,
+    "external": 1,
+    "contentInternal": 3,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "fabric",
+     "circle skirt calculator",
+     "quilt calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/everyday-life/fabric",
+     "https://www.omnicalculator.com/everyday-life/circle-skirt",
+     "https://www.omnicalculator.com/everyday-life/quilt"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "What is the hypergeometric distribution?", a: "It gives the probability of drawing a certain number of successes when you sample without replacement from a finite group, such as dealing cards from a deck or picking lottery numbers. Each draw changes what's left, which is why it differs from the binomial distribution." },
+  { q: "What is the hypergeometric formula?", a: "P(X = k) = C(K, k) × C(N − K, n − k) ÷ C(N, n), where N is the population size, K the number of successes in it, n the sample size and k the successes you want, and C is 'choose'. For exactly 2 aces in a 5-card hand: C(4,2) × C(48,3) ÷ C(52,5) = 6 × 17,296 ÷ 2,598,960 ≈ 0.0399." },
+  { q: "How do I calculate 'at least one'?", a: "Use the complement: P(X ≥ 1) = 1 − P(X = 0). With 4 copies of a card in a 60-card deck, the chance of at least one in a 7-card opening hand is 1 − C(56,7) ÷ C(60,7) ≈ 0.3995, about 40%." },
+  { q: "When should I use hypergeometric instead of binomial?", a: "Use hypergeometric when sampling without replacement from a small population, where each draw noticeably changes the odds. If the population is very large compared with the sample (say, more than 20 times bigger), the binomial distribution gives almost the same answer." },
+  { q: "What are the odds of winning a 6/49 lottery?", a: "Matching all 6 numbers is C(6,6) × C(43,0) ÷ C(49,6) = 1 in 13,983,816. Matching exactly 3 is about 1.77%, or roughly 1 in 57." },
+  { q: "What are the mean and variance?", a: "Mean = n × K ÷ N. Variance = n × (K/N) × (1 − K/N) × (N − n) ÷ (N − 1). The last factor, the finite population correction, makes the variance smaller than for the binomial." },
+];

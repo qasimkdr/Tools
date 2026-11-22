@@ -1,0 +1,233 @@
+{
+ "keywords": {
+  "fill dirt calculator": {
+   "fetchedAt": "2026-11-22T14:38:25.454Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 2900,
+   "fileKd": 6,
+   "fileIntent": "C",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://hellogravel.com/calculators/products/fill-dirt/",
+     "domain": "hellogravel.com",
+     "title": "Loading the fill dirt calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://hellogravel.com/fill-dirt-calculator-calculate-cubic-yards-needed-instantly",
+     "domain": "hellogravel.com",
+     "title": "Fill Dirt Calculator - Calculate Cubic Yards Needed Instantly",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://calculator.academy/fill-dirt-calculator/",
+     "domain": "calculator.academy",
+     "title": "Fill Dirt Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.inchcalculator.com/soil-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "From the creators of the top landscaping app",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://totalcalchub.com/us/home-improvement/dirt-fill-calculator",
+     "domain": "totalcalchub.com",
+     "title": "Calculate Dirt Fill: 2026 Fill Dirt Calculator & Volume Estimator USA",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://mygravelmonkey.com/fill-dirt-calculator/",
+     "domain": "mygravelmonkey.com",
+     "title": "Premium Driveway Gravel and More at Your Door",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.angi.com/articles/dirt-calculator-yards.htm",
+     "domain": "www.angi.com",
+     "title": "Dirt Yards Calculator: How Many Yards of Dirt Do I Need?",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://mathcentral.uregina.ca/QandQ/topics/dirt",
+     "domain": "mathcentral.uregina.ca",
+     "title": "uregina.ca",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.mysiteplan.com/blogs/news/swimming-pool-fill-dirt-calculator",
+     "domain": "www.mysiteplan.com",
+     "title": "swimming pool fill dirt calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://mathgyro.pages.dev/fill-dirt-calculator/",
+     "domain": "mathgyro.pages.dev",
+     "title": "Fill Dirt Calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://calculatorsoup.com/calculators/construction/roadway.php",
+     "domain": "calculatorsoup.com",
+     "title": "calculatorsoup.com",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://figurecalc.pages.dev/landscape/fill-dirt-calculator",
+     "domain": "figurecalc.pages.dev",
+     "title": "fill dirt calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://landscape-calcs.pages.dev/fill-dirt-calculator",
+     "domain": "landscape-calcs.pages.dev",
+     "title": "Fill Dirt Calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://sourcetable.com/calculate/how-to-calculate-fill-dirt",
+     "domain": "sourcetable.com",
+     "title": "how to calculate fill dirt",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://calcbee.pages.dev/calculators/construction/earthwork/fill-dirt-calculator",
+     "domain": "calcbee.pages.dev",
+     "title": "Fill Dirt Calculator",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://everycalculators.com/calculate-fill-dirt.html",
+     "domain": "everycalculators.com",
+     "title": "Fill Dirt Volume & Cost Calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://constructlytools.com/material-calculators/fill-dirt-calculator/",
+     "domain": "constructlytools.com",
+     "title": "Fill Dirt Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "fill-dirt-calculator",
+ "page": "fill-dirt-calculator",
+ "category": "construction",
+ "name": "Fill Dirt Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T14:38:25.455Z",
+ "topCompetitors": [
+  {
+   "domain": "pages.dev",
+   "bestRank": 10,
+   "keywords": 4,
+   "urls": [
+    "https://mathgyro.pages.dev/fill-dirt-calculator/",
+    "https://figurecalc.pages.dev/landscape/fill-dirt-calculator",
+    "https://landscape-calcs.pages.dev/fill-dirt-calculator",
+    "https://calcbee.pages.dev/calculators/construction/earthwork/fill-dirt-calculator"
+   ]
+  },
+  {
+   "domain": "hellogravel.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://hellogravel.com/calculators/products/fill-dirt/",
+    "https://hellogravel.com/fill-dirt-calculator-calculate-cubic-yards-needed-instantly"
+   ]
+  },
+  {
+   "domain": "calculator.academy",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://calculator.academy/fill-dirt-calculator/"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/soil-calculator/"
+   ]
+  },
+  {
+   "domain": "totalcalchub.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://totalcalchub.com/us/home-improvement/dirt-fill-calculator"
+   ]
+  },
+  {
+   "domain": "mygravelmonkey.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://mygravelmonkey.com/fill-dirt-calculator/"
+   ]
+  },
+  {
+   "domain": "angi.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.angi.com/articles/dirt-calculator-yards.htm"
+   ]
+  },
+  {
+   "domain": "uregina.ca",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://mathcentral.uregina.ca/QandQ/topics/dirt"
+   ]
+  },
+  {
+   "domain": "mysiteplan.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://www.mysiteplan.com/blogs/news/swimming-pool-fill-dirt-calculator"
+   ]
+  },
+  {
+   "domain": "calculatorsoup.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://calculatorsoup.com/calculators/construction/roadway.php"
+   ]
+  }
+ ]
+}

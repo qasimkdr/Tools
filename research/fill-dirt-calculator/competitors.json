@@ -1,0 +1,734 @@
+{
+ "pages": {
+  "https://www.inchcalculator.com/soil-calculator/": {
+   "url": "https://www.inchcalculator.com/soil-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/soil-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T14:38:30.997Z",
+   "title": "Soil Calculator - Estimate Topsoil - Inch Calculator",
+   "metaDescription": "Calculate how much soil you need for a landscaping project. Find how many bags, cubic feet, or yards of soil or dirt will fill the area.",
+   "canonical": "https://www.inchcalculator.com/soil-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Soil Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Soil Needed",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How Much Topsoil Do You Need?",
+    "How to Estimate Soil in Tons",
+    "How to Calculate Soil Amendment",
+    "Frequently Asked Questions",
+    "Similar Landscaping Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Bags of Soil Needed",
+    "Material Weight (dry, loose or packed)",
+    "Material Weight (compacted)",
+    "Material Weight (wet)",
+    "How to Measure for Soil",
+    "How to Calculate Soil Volume",
+    "How Much Does a Yard of Topsoil Weigh?",
+    "Calculate the Total Weight",
+    "Calculating Soil Amendment by Weight",
+    "Calculating Soil Amendment by Volume",
+    "Do you buy soil by the yard or ton?",
+    "Is there a difference between soil and topsoil?",
+    "Are soil and dirt the same thing?",
+    "Do you need to amend your soil?",
+    "What is soil made of?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Soil Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Soil Needed"
+    },
+    {
+     "level": 3,
+     "text": "Bags of Soil Needed"
+    },
+    {
+     "level": 3,
+     "text": "Material Weight (dry, loose or packed)"
+    },
+    {
+     "level": 3,
+     "text": "Material Weight (compacted)"
+    },
+    {
+     "level": 3,
+     "text": "Material Weight (wet)"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How Much Topsoil Do You Need?"
+    },
+    {
+     "level": 3,
+     "text": "How to Measure for Soil"
+    },
+    {
+     "level": 3,
+     "text": "How to Calculate Soil Volume"
+    },
+    {
+     "level": 4,
+     "text": "How Much is a Yard of Dirt?"
+    },
+    {
+     "level": 2,
+     "text": "How to Estimate Soil in Tons"
+    },
+    {
+     "level": 3,
+     "text": "How Much Does a Yard of Topsoil Weigh?"
+    },
+    {
+     "level": 3,
+     "text": "Calculate the Total Weight"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Soil Amendment"
+    },
+    {
+     "level": 3,
+     "text": "Calculating Soil Amendment by Weight"
+    },
+    {
+     "level": 3,
+     "text": "Calculating Soil Amendment by Volume"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "Do you buy soil by the yard or ton?"
+    },
+    {
+     "level": 3,
+     "text": "Is there a difference between soil and topsoil?"
+    },
+    {
+     "level": 3,
+     "text": "Are soil and dirt the same thing?"
+    },
+    {
+     "level": 3,
+     "text": "Do you need to amend your soil?"
+    },
+    {
+     "level": 3,
+     "text": "What is soil made of?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Landscaping Calculators"
+    }
+   ],
+   "wordCount": 1745,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "Do you buy soil by the yard or ton?",
+    "Is there a difference between soil and topsoil?",
+    "Are soil and dirt the same thing?",
+    "Do you need to amend your soil?",
+    "What is soil made of?",
+    "How Much Topsoil Do You Need?",
+    "How Much is a Yard of Dirt?",
+    "How Much Does a Yard of Topsoil Weigh?"
+   ],
+   "faqSchemaCount": 5,
+   "topics": [
+    {
+     "term": "soil",
+     "weight": 52
+    },
+    {
+     "term": "need",
+     "weight": 20
+    },
+    {
+     "term": "cubic",
+     "weight": 20
+    },
+    {
+     "term": "calculator",
+     "weight": 18
+    },
+    {
+     "term": "yard",
+     "weight": 17
+    },
+    {
+     "term": "calculate",
+     "weight": 15
+    },
+    {
+     "term": "tons",
+     "weight": 14
+    },
+    {
+     "term": "amendment",
+     "weight": 14
+    },
+    {
+     "term": "feet",
+     "weight": 13
+    },
+    {
+     "term": "volume",
+     "weight": 12
+    },
+    {
+     "term": "number",
+     "weight": 10
+    },
+    {
+     "term": "soil calculator",
+     "weight": 9
+    },
+    {
+     "term": "space",
+     "weight": 9
+    },
+    {
+     "term": "measure",
+     "weight": 9
+    },
+    {
+     "term": "weight",
+     "weight": 9
+    },
+    {
+     "term": "cubic feet",
+     "weight": 9
+    },
+    {
+     "term": "yards",
+     "weight": 9
+    },
+    {
+     "term": "cubic yard",
+     "weight": 9
+    },
+    {
+     "term": "cubic yards",
+     "weight": 9
+    },
+    {
+     "term": "topsoil",
+     "weight": 8
+    },
+    {
+     "term": "dirt",
+     "weight": 8
+    },
+    {
+     "term": "square",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "much",
+     "weight": 8
+    },
+    {
+     "term": "garden",
+     "weight": 8
+    },
+    {
+     "term": "square feet",
+     "weight": 8
+    },
+    {
+     "term": "fill",
+     "weight": 7
+    },
+    {
+     "term": "needed",
+     "weight": 7
+    },
+    {
+     "term": "depth",
+     "weight": 7
+    },
+    {
+     "term": "have",
+     "weight": 7
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 4,
+   "images": 6,
+   "videos": 0,
+   "calculatorInputs": [
+    "Length",
+    "Length Units",
+    "Width",
+    "Width Units",
+    "Depth",
+    "Depth Units",
+    "Area",
+    "Area Units",
+    "Depth",
+    "Depth Units"
+   ],
+   "selectOptionsSample": "in ft yd cm m in ft yd cm m in ft yd cm m sq ft sq yds sq m in ft yd cm m",
+   "unitToggle": true,
+   "wordsBeforeTool": 53,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2016-03-03",
+    "modified": "2026-03-08T19:05:55+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 135,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 52,
+    "external": 15,
+    "contentInternal": 28,
+    "contentExternal": 9,
+    "internalAnchors": [
+     "below",
+     "find square feet",
+     "Add This to Your Site",
+     "Soil Calculator",
+     "How Much Topsoil Do You Need?",
+     "How to Measure for Soil",
+     "How to Calculate Soil Volume",
+     "How to Estimate Soil in Tons",
+     "How to Calculate Soil Amendment",
+     "Frequently Asked Questions",
+     "Full bio",
+     "tape measure",
+     "soil calculator",
+     "total cubic inches",
+     "cubic feet",
+     "cubic yards calculator",
+     "mulch calculator",
+     "gravel calculator",
+     "cubic yards to tons calculator",
+     "stone"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/soil-calculator/#estimating-soil-volume",
+     "https://www.inchcalculator.com/square-footage-calculator/",
+     "https://www.inchcalculator.com/soil-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/soil/",
+     "https://www.inchcalculator.com/soil-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/soil-calculator/#idx_how_to_measure_for_soil",
+     "https://www.inchcalculator.com/soil-calculator/#idx_how_to_calculate_soil_volume",
+     "https://www.inchcalculator.com/soil-calculator/#idx_how_to_estimate_soil_in_tons",
+     "https://www.inchcalculator.com/soil-calculator/#idx_how_to_calculate_soil_amendment",
+     "https://www.inchcalculator.com/soil-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/sarabeth-asaff-south/",
+     "https://www.inchcalculator.com/soil-calculator/",
+     "https://www.inchcalculator.com/how-to-use-tape-measure/",
+     "https://www.inchcalculator.com/cubic-inches-calculator/",
+     "https://www.inchcalculator.com/cubic-footage-calculator/",
+     "https://www.inchcalculator.com/cubic-yards-calculator/",
+     "https://www.inchcalculator.com/mulch-calculator/",
+     "https://www.inchcalculator.com/gravel-calculator/",
+     "https://www.inchcalculator.com/cubic-yards-to-tons-calculator/",
+     "https://www.inchcalculator.com/stone-calculator/",
+     "https://www.inchcalculator.com/sand-calculator/",
+     "https://www.inchcalculator.com/ph-calculator/",
+     "https://www.inchcalculator.com/rounding-calculator/",
+     "https://www.inchcalculator.com/gravel-driveway-calculator/"
+    ],
+    "externalSample": [
+     "https://apps.apple.com/app/soil-calculator-plus/id1505408033",
+     "https://play.google.com/store/apps/details?id=com.inchcalculator.soil_calculator",
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fsoil-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fsoil-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fsoil-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fsoil-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fsoil-calculator%2F&text=Soil+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fsoil-calculator%2F&text=Soil+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/construction/roadway.php": {
+   "url": "https://www.calculatorsoup.com/calculators/construction/roadway.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/construction/roadway.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T14:38:34.187Z",
+   "title": "Road Base Calculator | Roadway Fill Volume",
+   "metaDescription": "Calculate road base fill given length, width and depth of base material. Find volume, weight and price of roadway sub base for asphalt, clay, gravel, sand or dirt.",
+   "canonical": "https://www.calculatorsoup.com/calculators/construction/roadway.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Road Base Calculator"
+   ],
+   "h2": [
+    "Finding Area of Complex Shapes",
+    "Steps to Calculate Road Base Volume",
+    "Example: Calculate Material Volume for a Driveway Base",
+    "Road Base Material Densities Used in this Calculator",
+    "Choosing a Road Base Material",
+    "Road Base Terms to Know",
+    "Frequently Asked Questions"
+   ],
+   "h3": [
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Road Base Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Finding Area of Complex Shapes"
+    },
+    {
+     "level": 2,
+     "text": "Steps to Calculate Road Base Volume"
+    },
+    {
+     "level": 2,
+     "text": "Example: Calculate Material Volume for a Driveway Base"
+    },
+    {
+     "level": 2,
+     "text": "Road Base Material Densities Used in this Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Choosing a Road Base Material"
+    },
+    {
+     "level": 2,
+     "text": "Road Base Terms to Know"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 1287,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "What does the road base calculator do?",
+    "How do I use the road base calculator?",
+    "What depth should I choose?",
+    "Can the road base calculator handle odd shapes?",
+    "Which density should I use?",
+    "Should I add extra for compaction and waste?",
+    "Can I estimate cost with the road base calculator?",
+    "What materials can I use?",
+    "What’s the basic formula for calculating road base volume?",
+    "What’s the difference between base, sub-base and surface?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "base",
+     "weight": 49
+    },
+    {
+     "term": "road base",
+     "weight": 36
+    },
+    {
+     "term": "road",
+     "weight": 29
+    },
+    {
+     "term": "calculator",
+     "weight": 25
+    },
+    {
+     "term": "material",
+     "weight": 21
+    },
+    {
+     "term": "volume",
+     "weight": 19
+    },
+    {
+     "term": "base calculator",
+     "weight": 18
+    },
+    {
+     "term": "density",
+     "weight": 15
+    },
+    {
+     "term": "tons",
+     "weight": 13
+    },
+    {
+     "term": "base material",
+     "weight": 11
+    },
+    {
+     "term": "calculate",
+     "weight": 10
+    },
+    {
+     "term": "gravel",
+     "weight": 10
+    },
+    {
+     "term": "feet",
+     "weight": 10
+    },
+    {
+     "term": "dry",
+     "weight": 9
+    },
+    {
+     "term": "area",
+     "weight": 8
+    },
+    {
+     "term": "cost",
+     "weight": 8
+    },
+    {
+     "term": "cubic",
+     "weight": 8
+    },
+    {
+     "term": "depth",
+     "weight": 7
+    },
+    {
+     "term": "compaction",
+     "weight": 7
+    },
+    {
+     "term": "weight",
+     "weight": 7
+    },
+    {
+     "term": "calculators",
+     "weight": 6
+    },
+    {
+     "term": "estimate",
+     "weight": 6
+    },
+    {
+     "term": "asphalt",
+     "weight": 6
+    },
+    {
+     "term": "clay",
+     "weight": 6
+    },
+    {
+     "term": "dirt",
+     "weight": 6
+    },
+    {
+     "term": "sand",
+     "weight": 6
+    },
+    {
+     "term": "cubic yards",
+     "weight": 6
+    },
+    {
+     "term": "material density",
+     "weight": 6
+    },
+    {
+     "term": "enter",
+     "weight": 5
+    },
+    {
+     "term": "extra",
+     "weight": 5
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 2,
+   "lists": 2,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Calculate for a",
+    "Material (help me choose)",
+    "Length =",
+    "length unit",
+    "Width =",
+    "width unit",
+    "Depth =",
+    "depth unit",
+    "Compaction = Typically 5-30% extra",
+    "Waste & Overrun = Typically 5-15% extra",
+    "currency",
+    "price",
+    "per",
+    "reset"
+   ],
+   "selectOptionsSample": "known area roadway rectangle circle triangle asphalt, 2200 kg/m³ asphalt, 2300 kg/m³ asphalt, 2400 kg/m³ asphalt, 2500 kg/m³ clay, dry clay, wet clay, dry lump clay, compacted dirt, dry loam dirt, moist dirt, wet dirt, dense dirt, packed granite, broken gravel, dry, loose gravel, natural with sand g",
+   "unitToggle": true,
+   "wordsBeforeTool": 53,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "February 25, 2026",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 84,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 18,
+    "external": 0,
+    "contentInternal": 8,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Construction",
+     "Road Base Calculator",
+     "help me choose",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Gravel Volume Calculator",
+     "Road Base Calculator | Roadway Fill Volume",
+     "https://www.calculatorsoup.com/calculators/construction/roadway.php",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/construction/",
+     "https://www.calculatorsoup.com/calculators/construction/roadway.php",
+     "https://www.calculatorsoup.com/calculators/construction/roadway.php#roadBaseTables",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=construction%2F&folderName=Construction&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/construction/roadway.php&h1=Road+Base+Calculator&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/construction/gravel-calculator.php"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.omnicalculator.com/construction/dirt": [
+   "HTTP 404"
+  ]
+ }
+}

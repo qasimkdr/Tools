@@ -1,0 +1,242 @@
+{
+ "keywords": {
+  "stud calculator": {
+   "fetchedAt": "2026-11-22T14:38:25.672Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 3600,
+   "fileKd": 12,
+   "fileIntent": "C",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.inchcalculator.com/framing-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Framing Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.homedit.com/calculators/stud-calculator",
+     "domain": "www.homedit.com",
+     "title": "Stud Calculator - Number of Studs Required",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.miniwebtool.com/stud-wall-framing-calculator/",
+     "domain": "www.miniwebtool.com",
+     "title": "stud wall framing calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.omnicalculator.com/construction/framing",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.housecallpro.com/?p=71540",
+     "domain": "www.housecallpro.com",
+     "title": "www.housecallpro.com",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://wba.omnicalculator.com/construction/framing",
+     "domain": "wba.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.housecallpro.com/general-contractor/templates-calculators/framing-calculator/",
+     "domain": "www.housecallpro.com",
+     "title": "framing calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://cdn.wba.omnicalculator.com/construction/framing",
+     "domain": "cdn.wba.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://strucalc.com/?p=5935",
+     "domain": "strucalc.com",
+     "title": "Stud Wall Calculator: Analyze Framing Efficiently",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.vcalc.com/wiki/studs-in-wall-calculator",
+     "domain": "www.vcalc.com",
+     "title": "studs in wall calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://strucalc.com/blog/learning/stud-wall-calculator-analyze-framing-efficiently/",
+     "domain": "strucalc.com",
+     "title": "Stud Wall Calculator: Analyze Framing Efficiently",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.blocklayer.com/wall-framing-openingseng",
+     "domain": "www.blocklayer.com",
+     "title": "wall framing openingseng",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.blocklayer.com/wall-framing-openings",
+     "domain": "www.blocklayer.com",
+     "title": "wall framing openings",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://www.angi.com/articles/framing-calculator.htm",
+     "domain": "www.angi.com",
+     "title": "framing calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://buildbook.co/calculators/framing-calculator",
+     "domain": "buildbook.co",
+     "title": "Construction Measurements",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://www.easyunitconverter.com/framing-calculator",
+     "domain": "www.easyunitconverter.com",
+     "title": "Framing Calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://www.angi.com/articles/lumber-calculator.htm",
+     "domain": "www.angi.com",
+     "title": "Lumber Calculator: How Much Lumber Do I Need?",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://calculator.academy/framing-calculator/",
+     "domain": "calculator.academy",
+     "title": "Framing Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "stud-calculator",
+ "page": "stud-calculator",
+ "category": "construction",
+ "name": "Stud Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T14:38:25.673Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 4,
+   "keywords": 3,
+   "urls": [
+    "https://www.omnicalculator.com/construction/framing",
+    "https://wba.omnicalculator.com/construction/framing",
+    "https://cdn.wba.omnicalculator.com/construction/framing"
+   ]
+  },
+  {
+   "domain": "housecallpro.com",
+   "bestRank": 5,
+   "keywords": 2,
+   "urls": [
+    "https://www.housecallpro.com/?p=71540",
+    "https://www.housecallpro.com/general-contractor/templates-calculators/framing-calculator/"
+   ]
+  },
+  {
+   "domain": "strucalc.com",
+   "bestRank": 9,
+   "keywords": 2,
+   "urls": [
+    "https://strucalc.com/?p=5935",
+    "https://strucalc.com/blog/learning/stud-wall-calculator-analyze-framing-efficiently/"
+   ]
+  },
+  {
+   "domain": "blocklayer.com",
+   "bestRank": 12,
+   "keywords": 2,
+   "urls": [
+    "https://www.blocklayer.com/wall-framing-openingseng",
+    "https://www.blocklayer.com/wall-framing-openings"
+   ]
+  },
+  {
+   "domain": "angi.com",
+   "bestRank": 14,
+   "keywords": 2,
+   "urls": [
+    "https://www.angi.com/articles/framing-calculator.htm",
+    "https://www.angi.com/articles/lumber-calculator.htm"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/framing-calculator/"
+   ]
+  },
+  {
+   "domain": "homedit.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.homedit.com/calculators/stud-calculator"
+   ]
+  },
+  {
+   "domain": "miniwebtool.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.miniwebtool.com/stud-wall-framing-calculator/"
+   ]
+  },
+  {
+   "domain": "vcalc.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://www.vcalc.com/wiki/studs-in-wall-calculator"
+   ]
+  },
+  {
+   "domain": "buildbook.co",
+   "bestRank": 15,
+   "keywords": 1,
+   "urls": [
+    "https://buildbook.co/calculators/framing-calculator"
+   ]
+  }
+ ]
+}

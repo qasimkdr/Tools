@@ -1,0 +1,650 @@
+{
+ "pages": {
+  "https://www.inchcalculator.com/framing-calculator/": {
+   "url": "https://www.inchcalculator.com/framing-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/framing-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T14:38:48.311Z",
+   "title": "Framing Calculator - Inch Calculator",
+   "metaDescription": "Calculate how many studs you need for a wall using our framing calculator. Plus, learn how to estimate material for a 2x4 or 2x6 wall.",
+   "canonical": "https://www.inchcalculator.com/framing-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Framing Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Lumber Needed",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate How Many Studs You Need",
+    "Types of Studs",
+    "Similar Carpentry Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Step One: Measure the Wall",
+    "Step Two: Determine the Stud Spacing",
+    "Step Three: Calculate the Number of Studs Needed",
+    "Step Four: Account for Corners",
+    "Step Five: Calculate Top and Bottom Plates"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Framing Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Lumber Needed"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate How Many Studs You Need"
+    },
+    {
+     "level": 3,
+     "text": "Step One: Measure the Wall"
+    },
+    {
+     "level": 3,
+     "text": "Step Two: Determine the Stud Spacing"
+    },
+    {
+     "level": 3,
+     "text": "Step Three: Calculate the Number of Studs Needed"
+    },
+    {
+     "level": 3,
+     "text": "Step Four: Account for Corners"
+    },
+    {
+     "level": 3,
+     "text": "Step Five: Calculate Top and Bottom Plates"
+    },
+    {
+     "level": 2,
+     "text": "Types of Studs"
+    },
+    {
+     "level": 2,
+     "text": "Similar Carpentry Calculators"
+    }
+   ],
+   "wordCount": 1311,
+   "avgSentenceWords": 25,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "studs",
+     "weight": 35
+    },
+    {
+     "term": "wall",
+     "weight": 30
+    },
+    {
+     "term": "stud",
+     "weight": 21
+    },
+    {
+     "term": "framing",
+     "weight": 14
+    },
+    {
+     "term": "spacing",
+     "weight": 14
+    },
+    {
+     "term": "need",
+     "weight": 13
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "top",
+     "weight": 12
+    },
+    {
+     "term": "step",
+     "weight": 12
+    },
+    {
+     "term": "calculate",
+     "weight": 11
+    },
+    {
+     "term": "bottom",
+     "weight": 11
+    },
+    {
+     "term": "length",
+     "weight": 10
+    },
+    {
+     "term": "bottom plates",
+     "weight": 9
+    },
+    {
+     "term": "plates",
+     "weight": 9
+    },
+    {
+     "term": "jack",
+     "weight": 9
+    },
+    {
+     "term": "number",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "inches",
+     "weight": 8
+    },
+    {
+     "term": "framing calculator",
+     "weight": 8
+    },
+    {
+     "term": "jack stud",
+     "weight": 8
+    },
+    {
+     "term": "support",
+     "weight": 7
+    },
+    {
+     "term": "walls",
+     "weight": 7
+    },
+    {
+     "term": "opening",
+     "weight": 7
+    },
+    {
+     "term": "many studs",
+     "weight": 6
+    },
+    {
+     "term": "stud spacing",
+     "weight": 6
+    },
+    {
+     "term": "add",
+     "weight": 6
+    },
+    {
+     "term": "measure",
+     "weight": 6
+    },
+    {
+     "term": "center",
+     "weight": 6
+    },
+    {
+     "term": "jack studs",
+     "weight": 6
+    },
+    {
+     "term": "frame",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "General stud spacing for interior walls tends to be around 16 inches on center, while exterior walls may be up to 24 inches on center.",
+    "The most common spacing for wall studs is 16 inches on center (16″ OC), which means that the center of each stud is spaced exactly 16 inches apart.",
+    "156″ ÷ 16″ = 9.75 Be sure to round up to the nearest whole stud, so in this case, you’ll round up to 10 studs.",
+    "Then, add one more stud for the final corner stud, meaning you’ll need 11 studs for this wall.",
+    "Note that because center spacing is used, you can use this formula for any width stud, which means that even though a 2×4 does not measure 2″ wide, this formula still works.",
+    "You will need two or more Jack studs if you are framing an opening more than 5 feet wide."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 2,
+   "images": 6,
+   "videos": 0,
+   "calculatorInputs": [
+    "Wall Length",
+    "Wall Length Units",
+    "Stud Spacing",
+    "Stud Spacing Units",
+    "Wall Ends",
+    "Result Unit",
+    "Result Unit"
+   ],
+   "selectOptionsSample": "in ft yd cm m in cm 1 stud 2 studs 3 studs 8 ft 10 ft 12 ft 8 ft 10 ft 12 ft",
+   "unitToggle": true,
+   "wordsBeforeTool": 36,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2023-04-12",
+    "modified": "2023-06-26T19:02:14+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 127,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 49,
+    "external": 13,
+    "contentInternal": 25,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate How Many Studs You Need",
+     "Step One: Measure the Wall",
+     "Step Two: Determine the Stud Spacing",
+     "Step Three: Calculate the Number of Studs Needed",
+     "Step Four: Account for Corners",
+     "Step Five: Calculate Top and Bottom Plates",
+     "Types of Studs",
+     "Full bio",
+     "Framing Calculator",
+     "Get Free Estimates",
+     "tape measure",
+     "round up to the nearest whole stud",
+     "a 2×4 does not measure 2″ wide",
+     "drywall",
+     "plywood",
+     "Feet and Inches Length Calculator",
+     "Board and Batten Siding Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/framing-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/framing/",
+     "https://www.inchcalculator.com/framing-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/framing-calculator/#idx_how_to_calculate_how_many_studs_you_need",
+     "https://www.inchcalculator.com/framing-calculator/#idx_step_one_measure_the_wall",
+     "https://www.inchcalculator.com/framing-calculator/#idx_step_two_determine_the_stud_spacing",
+     "https://www.inchcalculator.com/framing-calculator/#idx_step_three_calculate_the_number_of_studs_needed",
+     "https://www.inchcalculator.com/framing-calculator/#idx_step_four_account_for_corners",
+     "https://www.inchcalculator.com/framing-calculator/#idx_step_five_calculate_top_and_bottom_plates",
+     "https://www.inchcalculator.com/framing-calculator/#idx_types_of_studs",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/sarabeth-asaff-south/",
+     "https://www.inchcalculator.com/framing-calculator/",
+     "https://www.inchcalculator.com/get-free-home-repair-estimates/?preset_project_type=Carpentry&preset_service_id=",
+     "https://www.inchcalculator.com/how-to-use-tape-measure/",
+     "https://www.inchcalculator.com/rounding-calculator/",
+     "https://www.inchcalculator.com/actual-size-of-dimensional-lumber/",
+     "https://www.inchcalculator.com/drywall-calculator/",
+     "https://www.inchcalculator.com/plywood-calculator/",
+     "https://www.inchcalculator.com/feet-inches-calculator/",
+     "https://www.inchcalculator.com/board-batten-siding-calculator/",
+     "https://www.inchcalculator.com/wainscoting-layout-calculator/",
+     "https://www.inchcalculator.com/trim-moulding-calculator/",
+     "https://www.inchcalculator.com/convert/length/",
+     "https://www.inchcalculator.com/carpentry-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fframing-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fframing-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fframing-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fframing-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fframing-calculator%2F&text=Framing+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fframing-calculator%2F&text=Framing+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/construction/framing": {
+   "url": "https://www.omnicalculator.com/construction/framing",
+   "finalUrl": "https://www.omnicalculator.com/construction/framing",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T14:38:51.339Z",
+   "title": "Framing Calculator | Stud count",
+   "metaDescription": "With our framing calculator, you can easily compute the number of studs needed to build a given section of wall.",
+   "canonical": "https://www.omnicalculator.com/construction/framing",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Framing Calculator"
+   ],
+   "h2": [
+    "How to use the framing calculator",
+    "How many studs do I need?",
+    "2x4 walls",
+    "FAQs"
+   ],
+   "h3": [
+    "What is framing in construction?",
+    "What size nails should I use for framing?",
+    "How do I build a frame for a wall?",
+    "What is a framing square?",
+    "How do I use a framing square?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Framing Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to use the framing calculator"
+    },
+    {
+     "level": 2,
+     "text": "How many studs do I need?"
+    },
+    {
+     "level": 2,
+     "text": "2x4 walls"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What is framing in construction?"
+    },
+    {
+     "level": 3,
+     "text": "What size nails should I use for framing?"
+    },
+    {
+     "level": 3,
+     "text": "How do I build a frame for a wall?"
+    },
+    {
+     "level": 3,
+     "text": "What is a framing square?"
+    },
+    {
+     "level": 3,
+     "text": "How do I use a framing square?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 979,
+   "avgSentenceWords": 17,
+   "faqs": [
+    "What is framing in construction?",
+    "What size nails should I use for framing?",
+    "How do I build a frame for a wall?",
+    "What is a framing square?",
+    "How do I use a framing square?",
+    "How many studs do I need?"
+   ],
+   "faqSchemaCount": 5,
+   "topics": [
+    {
+     "term": "framing",
+     "weight": 19
+    },
+    {
+     "term": "calculator",
+     "weight": 19
+    },
+    {
+     "term": "wall",
+     "weight": 15
+    },
+    {
+     "term": "studs",
+     "weight": 14
+    },
+    {
+     "term": "stud",
+     "weight": 13
+    },
+    {
+     "term": "framing square",
+     "weight": 9
+    },
+    {
+     "term": "need",
+     "weight": 8
+    },
+    {
+     "term": "square",
+     "weight": 8
+    },
+    {
+     "term": "framing calculator",
+     "weight": 8
+    },
+    {
+     "term": "spacing",
+     "weight": 7
+    },
+    {
+     "term": "cut",
+     "weight": 7
+    },
+    {
+     "term": "length",
+     "weight": 6
+    },
+    {
+     "term": "construction",
+     "weight": 6
+    },
+    {
+     "term": "top",
+     "weight": 6
+    },
+    {
+     "term": "building",
+     "weight": 5
+    },
+    {
+     "term": "frame",
+     "weight": 5
+    },
+    {
+     "term": "2x4",
+     "weight": 5
+    },
+    {
+     "term": "measure",
+     "weight": 5
+    },
+    {
+     "term": "plates",
+     "weight": 5
+    },
+    {
+     "term": "nails",
+     "weight": 5
+    },
+    {
+     "term": "arm",
+     "weight": 5
+    },
+    {
+     "term": "cost",
+     "weight": 4
+    },
+    {
+     "term": "check",
+     "weight": 4
+    },
+    {
+     "term": "add",
+     "weight": 4
+    },
+    {
+     "term": "center",
+     "weight": 4
+    },
+    {
+     "term": "studs needed",
+     "weight": 3
+    },
+    {
+     "term": "needed",
+     "weight": 3
+    },
+    {
+     "term": "price",
+     "weight": 3
+    },
+    {
+     "term": "estimated",
+     "weight": 3
+    },
+    {
+     "term": "total",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "Remember: The regular OC stud spacing is 16, 19.2, or 24 inches.",
+    "The equation is as follows: Studs needed = (length of the wall / OC spacing) + 1 OC (on-center) spacing - the spacing between the center of one stud, and the center of the next stud.",
+    "2x4 stands for a system using 2-inch-by-4-inch studs made out of wood or steel."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 7,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Łucja Zaborowska",
+    "published": "2020-05-02T19:25:15.262Z",
+    "modified": "2026-07-31T20:18:13.695Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 594,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 26,
+    "external": 1,
+    "contentInternal": 10,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "tile calculator",
+     "drywall calculator",
+     "flooring calculator",
+     "floor joist calculator",
+     "lumber calculator",
+     "concrete calculator",
+     "brick calculator",
+     "door header size calculator",
+     "Stone Weight Calculator",
+     "Board and Batten Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/construction/tile",
+     "https://www.omnicalculator.com/construction/drywall",
+     "https://www.omnicalculator.com/construction/flooring",
+     "https://www.omnicalculator.com/construction/floor-joist",
+     "https://www.omnicalculator.com/construction/lumber",
+     "https://www.omnicalculator.com/construction/concrete-slab",
+     "https://www.omnicalculator.com/construction/brick",
+     "https://www.omnicalculator.com/construction/door-header-size",
+     "https://www.omnicalculator.com/construction/stone",
+     "https://www.omnicalculator.com/construction/board-and-batten"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

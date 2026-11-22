@@ -1,0 +1,613 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/statistics/hypergeometric-distribution": {
+   "url": "https://www.omnicalculator.com/statistics/hypergeometric-distribution",
+   "finalUrl": "https://www.omnicalculator.com/statistics/hypergeometric-distribution",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T14:38:41.580Z",
+   "title": "Hypergeometric Distribution Calculator",
+   "metaDescription": "Use the hypergeometric distribution calculator to find the probability (or cumulative probability) associated with the hypergeometric distribution.",
+   "canonical": "https://www.omnicalculator.com/statistics/hypergeometric-distribution",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Hypergeometric Distribution Calculator"
+   ],
+   "h2": [
+    "What is hypergeometric distribution?",
+    "The properties of the hypergeometric distribution",
+    "Hypergeometric distribution formula",
+    "How to use this hypergeometric distribution calculator?",
+    "Example of the hypergeometric distribution",
+    "Hypergeometric distribution vs. binomial distribution"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Hypergeometric Distribution Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is hypergeometric distribution?"
+    },
+    {
+     "level": 2,
+     "text": "The properties of the hypergeometric distribution"
+    },
+    {
+     "level": 4,
+     "text": "Mean"
+    },
+    {
+     "level": 4,
+     "text": "Standard deviation"
+    },
+    {
+     "level": 4,
+     "text": "Variance"
+    },
+    {
+     "level": 2,
+     "text": "Hypergeometric distribution formula"
+    },
+    {
+     "level": 4,
+     "text": "The mean and variance of the hypergeometric distribution"
+    },
+    {
+     "level": 2,
+     "text": "How to use this hypergeometric distribution calculator?"
+    },
+    {
+     "level": 2,
+     "text": "Example of the hypergeometric distribution"
+    },
+    {
+     "level": 2,
+     "text": "Hypergeometric distribution vs. binomial distribution"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1079,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "What is hypergeometric distribution?",
+    "How to use this hypergeometric distribution calculator?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "hypergeometric distribution",
+     "weight": 65
+    },
+    {
+     "term": "distribution",
+     "weight": 55
+    },
+    {
+     "term": "hypergeometric",
+     "weight": 47
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "probability",
+     "weight": 14
+    },
+    {
+     "term": "number",
+     "weight": 12
+    },
+    {
+     "term": "binomial distribution",
+     "weight": 12
+    },
+    {
+     "term": "population",
+     "weight": 11
+    },
+    {
+     "term": "distribution calculator",
+     "weight": 11
+    },
+    {
+     "term": "binomial",
+     "weight": 10
+    },
+    {
+     "term": "size",
+     "weight": 9
+    },
+    {
+     "term": "success",
+     "weight": 8
+    },
+    {
+     "term": "sample",
+     "weight": 8
+    },
+    {
+     "term": "mean",
+     "weight": 8
+    },
+    {
+     "term": "variance",
+     "weight": 8
+    },
+    {
+     "term": "formula",
+     "weight": 7
+    },
+    {
+     "term": "items",
+     "weight": 7
+    },
+    {
+     "term": "replacement",
+     "weight": 7
+    },
+    {
+     "term": "population size",
+     "weight": 6
+    },
+    {
+     "term": "sample size",
+     "weight": 6
+    },
+    {
+     "term": "distribution formula",
+     "weight": 6
+    },
+    {
+     "term": "without replacement",
+     "weight": 6
+    },
+    {
+     "term": "standard deviation",
+     "weight": 6
+    },
+    {
+     "term": "chocolate bars",
+     "weight": 6
+    },
+    {
+     "term": "example",
+     "weight": 5
+    },
+    {
+     "term": "without",
+     "weight": 5
+    },
+    {
+     "term": "sampling",
+     "weight": 5
+    },
+    {
+     "term": "there",
+     "weight": 5
+    },
+    {
+     "term": "bars",
+     "weight": 5
+    },
+    {
+     "term": "trial",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "For example, the hypergeometric distribution appears in Fisher's exact test, which we use to test the difference between two proportions when the sample size is small (<=50).",
+    "So we apply the hypergeometric distribution formula and obtain: P(X = 4) = 12!×36!×10!×38!",
+    "√1.5160 ≈ 1.2313 You can check these results with our hypergeometric distribution calculator!"
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 10,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Anna Szczepanek",
+    "published": "2020-07-27T13:52:20.615Z",
+    "modified": "2025-06-17T05:40:08.611Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 589,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 24,
+    "external": 1,
+    "contentInternal": 8,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Fisher's exact test calculator",
+     "last section",
+     "binomial distribution calculator",
+     "binomial coefficients",
+     "factorial calculator",
+     "Sum of Squares Calculator",
+     "Midrange Calculator",
+     "Coefficient of Variation Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/statistics/fishers-exact-test",
+     "https://www.omnicalculator.com/statistics/hypergeometric-distribution#hypergeometric-distribution-vs-binomial-distribution",
+     "https://www.omnicalculator.com/statistics/binomial-distribution",
+     "https://www.omnicalculator.com/math/binomial-coefficient",
+     "https://www.omnicalculator.com/math/factorial",
+     "https://www.omnicalculator.com/statistics/sum-of-squares",
+     "https://www.omnicalculator.com/statistics/midrange",
+     "https://www.omnicalculator.com/statistics/coefficient-of-variation"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/probability-calculator.html": {
+   "url": "https://www.calculator.net/probability-calculator.html",
+   "finalUrl": "https://www.calculator.net/probability-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T14:38:44.639Z",
+   "title": "Probability Calculator",
+   "metaDescription": "This calculator can calculate the probability of two events, as well as that of a normal distribution. Also, learn more about different types of probabilities.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Probability Calculator"
+   ],
+   "h2": [
+    "Probability of Two Events",
+    "Probability Solver for Two Events",
+    "Probability of a Series of Independent Events",
+    "Probability of a Normal Distribution",
+    "Probability of Two Events",
+    "Normal Distribution"
+   ],
+   "h3": [
+    "Complement of A and B",
+    "Intersection of A and B",
+    "Union of A and B",
+    "Exclusive OR of A and B"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Probability Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Probability of Two Events"
+    },
+    {
+     "level": 2,
+     "text": "Probability Solver for Two Events"
+    },
+    {
+     "level": 2,
+     "text": "Probability of a Series of Independent Events"
+    },
+    {
+     "level": 2,
+     "text": "Probability of a Normal Distribution"
+    },
+    {
+     "level": 2,
+     "text": "Probability of Two Events"
+    },
+    {
+     "level": 3,
+     "text": "Complement of A and B"
+    },
+    {
+     "level": 3,
+     "text": "Intersection of A and B"
+    },
+    {
+     "level": 3,
+     "text": "Union of A and B"
+    },
+    {
+     "level": 3,
+     "text": "Exclusive OR of A and B"
+    },
+    {
+     "level": 2,
+     "text": "Normal Distribution"
+    }
+   ],
+   "wordCount": 3031,
+   "avgSentenceWords": 45,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "probability",
+     "weight": 61
+    },
+    {
+     "term": "events",
+     "weight": 23
+    },
+    {
+     "term": "normal distribution",
+     "weight": 20
+    },
+    {
+     "term": "event",
+     "weight": 18
+    },
+    {
+     "term": "calculator",
+     "weight": 16
+    },
+    {
+     "term": "distribution",
+     "weight": 16
+    },
+    {
+     "term": "normal",
+     "weight": 15
+    },
+    {
+     "term": "mutually exclusive",
+     "weight": 15
+    },
+    {
+     "term": "between",
+     "weight": 13
+    },
+    {
+     "term": "number",
+     "weight": 13
+    },
+    {
+     "term": "case",
+     "weight": 12
+    },
+    {
+     "term": "exclusive",
+     "weight": 12
+    },
+    {
+     "term": "standard",
+     "weight": 11
+    },
+    {
+     "term": "marble",
+     "weight": 11
+    },
+    {
+     "term": "both",
+     "weight": 10
+    },
+    {
+     "term": "mutually",
+     "weight": 10
+    },
+    {
+     "term": "given",
+     "weight": 10
+    },
+    {
+     "term": "example",
+     "weight": 10
+    },
+    {
+     "term": "probabilities",
+     "weight": 9
+    },
+    {
+     "term": "above",
+     "weight": 9
+    },
+    {
+     "term": "black marble",
+     "weight": 9
+    },
+    {
+     "term": "table",
+     "weight": 9
+    },
+    {
+     "term": "value",
+     "weight": 9
+    },
+    {
+     "term": "values",
+     "weight": 8
+    },
+    {
+     "term": "occur",
+     "weight": 8
+    },
+    {
+     "term": "confidence",
+     "weight": 8
+    },
+    {
+     "term": "mean",
+     "weight": 8
+    },
+    {
+     "term": "black",
+     "weight": 8
+    },
+    {
+     "term": "blue",
+     "weight": 8
+    },
+    {
+     "term": "standard deviation",
+     "weight": 8
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 16,
+   "lists": 0,
+   "images": 9,
+   "videos": 0,
+   "calculatorInputs": [
+    "cal1pa",
+    "cal1pb",
+    "cal3pa",
+    "cal3pb",
+    "cal3na",
+    "cal3nb",
+    "cal3and",
+    "cal3or",
+    "cal3xor",
+    "cal3nab",
+    "cal4pa",
+    "cal4par",
+    "cal4pb",
+    "cal4pbr",
+    "val2mean",
+    "val2deviation",
+    "val2lb",
+    "val2rb"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 32,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 31,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 20,
+    "external": 0,
+    "contentInternal": 20,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "math",
+     "probability calculator",
+     "Standard Deviation Calculator",
+     "Sample Size Calculator",
+     "Statistics Calculator",
+     "standard deviation",
+     "Sample Size Calculator for Proportions",
+     "Math Calculators",
+     "Scientific",
+     "Fraction",
+     "Percentage",
+     "Triangle",
+     "Volume",
+     "Standard Deviation",
+     "Random Number Generator",
+     "More Math Calculators",
+     "Financial",
+     "Fitness and Health"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/probability-calculator.html",
+     "https://www.calculator.net/standard-deviation-calculator.html",
+     "https://www.calculator.net/sample-size-calculator.html",
+     "https://www.calculator.net/statistics-calculator.html",
+     "https://www.calculator.net/scientific-calculator.html",
+     "https://www.calculator.net/fraction-calculator.html",
+     "https://www.calculator.net/percent-calculator.html",
+     "https://www.calculator.net/triangle-calculator.html",
+     "https://www.calculator.net/volume-calculator.html",
+     "https://www.calculator.net/random-number-generator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

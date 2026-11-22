@@ -62,11 +62,11 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 13 on policy hold).
 | 56 | 6 | live | Matrix Inverse Calculator | `matrix-inverse-calculator` | math | inverse matrix calculator | 6600 | 15 | 6600 | 1 |
 | 57 | 6 | live | Credit Card Payoff Calculator | `credit-card-payoff-calculator` | finance | credit card pay off calculator | 1900 | 12 | 38300 | 1 |
 | 58 | 6 | live | Circle Skirt Calculator | `circle-skirt-calculator` | math | circle skirt calculator | 4400 | 11 | 4400 | 1 |
-| 59 | 6 | todo | Cross Stitch Calculator | `cross-stitch-calculator` | everyday | cross stitch calculator | 4400 | 11 | 5400 | 2 |
-| 60 | 6 | todo | Fill Dirt Calculator | `fill-dirt-calculator` | construction | fill dirt calculator | 2900 | 6 | 2900 | 1 |
-| 61 | 7 | todo | Hypergeometric Calculator | `hypergeometric-calculator` | math | hypergeometric calculator | 4400 | 11 | 4400 | 1 |
-| 62 | 7 | todo | Stud Calculator | `stud-calculator` | construction | stud calculator | 3600 | 12 | 6000 | 2 |
-| 63 | 7 | todo | Board Foot Calculator | `board-foot-calculator` | construction | board feet calculator | 18100 | 23 | 30100 | 1 |
+| 59 | 6 | live | Cross Stitch Calculator | `cross-stitch-calculator` | everyday | cross stitch calculator | 4400 | 11 | 5400 | 2 |
+| 60 | 6 | live | Fill Dirt Calculator | `fill-dirt-calculator` | construction | fill dirt calculator | 2900 | 6 | 2900 | 1 |
+| 61 | 7 | live | Hypergeometric Calculator | `hypergeometric-calculator` | math | hypergeometric calculator | 4400 | 11 | 4400 | 1 |
+| 62 | 7 | live | Stud Calculator | `stud-calculator` | construction | stud calculator | 3600 | 12 | 6000 | 2 |
+| 63 | 7 | live | Board Foot Calculator | `board-foot-calculator` | construction | board feet calculator | 18100 | 23 | 30100 | 1 |
 | 64 | 7 | todo | Soffit Calculator | `soffit-calculator` | construction | soffit calculator | 1600 | 10 | 1600 | 1 |
 | 65 | 7 | todo | AP English Language Score Calculator | `ap-english-language-score-calculator` | education | ap english language and composition score calculator | 2400 | 4 | 7500 | 4 |
 | 66 | 7 | todo | Schoology Grade Calculator | `schoology-grade-calculator` | education | schoology grade calculator | 2400 | 4 | 2400 | 1 |

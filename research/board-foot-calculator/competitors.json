@@ -1,0 +1,746 @@
+{
+ "pages": {
+  "https://www.inchcalculator.com/board-footage-calculator/": {
+   "url": "https://www.inchcalculator.com/board-footage-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/board-footage-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T14:38:55.124Z",
+   "title": "Board Foot Calculator - How to Figure Board Feet - Inch Calculator",
+   "metaDescription": "Use the board foot calculator to find board feet for one or more pieces of lumber. Plus, learn how to calculate board feet with formulas.",
+   "canonical": "https://www.inchcalculator.com/board-footage-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Board Foot Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Board Footage",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "What is a Board Foot?",
+    "How to Calculate Board Feet",
+    "How to Calculate the Board Footage of a Log",
+    "Board Feet Charts",
+    "Frequently Asked Questions",
+    "Similar Carpentry Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Using Length in Inches",
+    "Using Length in Feet",
+    "4/4 Lumber (1″ Thick)",
+    "8/4 Lumber (2″ Thick)",
+    "Why is lumber sold in board feet?",
+    "What is the difference between board feet and linear feet?",
+    "How many board feet are in a 2x4x8?",
+    "Why do wider boards cost more per board foot?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Board Foot Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Board Footage"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "What is a Board Foot?"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Board Feet"
+    },
+    {
+     "level": 3,
+     "text": "Using Length in Inches"
+    },
+    {
+     "level": 3,
+     "text": "Using Length in Feet"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate the Board Footage of a Log"
+    },
+    {
+     "level": 2,
+     "text": "Board Feet Charts"
+    },
+    {
+     "level": 3,
+     "text": "4/4 Lumber (1″ Thick)"
+    },
+    {
+     "level": 3,
+     "text": "8/4 Lumber (2″ Thick)"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "Why is lumber sold in board feet?"
+    },
+    {
+     "level": 3,
+     "text": "What is the difference between board feet and linear feet?"
+    },
+    {
+     "level": 3,
+     "text": "How many board feet are in a 2x4x8?"
+    },
+    {
+     "level": 3,
+     "text": "Why do wider boards cost more per board foot?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Carpentry Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 1597,
+   "avgSentenceWords": 29,
+   "faqs": [
+    "Why is lumber sold in board feet?",
+    "What is the difference between board feet and linear feet?",
+    "How many board feet are in a 2x4x8?",
+    "Why do wider boards cost more per board foot?",
+    "What is a Board Foot?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "board",
+     "weight": 68
+    },
+    {
+     "term": "length",
+     "weight": 32
+    },
+    {
+     "term": "feet",
+     "weight": 27
+    },
+    {
+     "term": "lumber",
+     "weight": 25
+    },
+    {
+     "term": "board foot",
+     "weight": 24
+    },
+    {
+     "term": "board feet",
+     "weight": 23
+    },
+    {
+     "term": "foot",
+     "weight": 21
+    },
+    {
+     "term": "thickness",
+     "weight": 21
+    },
+    {
+     "term": "width",
+     "weight": 20
+    },
+    {
+     "term": "thickness width",
+     "weight": 18
+    },
+    {
+     "term": "board footage",
+     "weight": 17
+    },
+    {
+     "term": "width length",
+     "weight": 17
+    },
+    {
+     "term": "lumber price",
+     "weight": 17
+    },
+    {
+     "term": "inches",
+     "weight": 16
+    },
+    {
+     "term": "dimensions thickness",
+     "weight": 15
+    },
+    {
+     "term": "length lumber",
+     "weight": 15
+    },
+    {
+     "term": "price optional",
+     "weight": 15
+    },
+    {
+     "term": "quantity board",
+     "weight": 14
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "price",
+     "weight": 13
+    },
+    {
+     "term": "dimensions",
+     "weight": 13
+    },
+    {
+     "term": "wood",
+     "weight": 13
+    },
+    {
+     "term": "optional",
+     "weight": 12
+    },
+    {
+     "term": "footage",
+     "weight": 11
+    },
+    {
+     "term": "calculate",
+     "weight": 11
+    },
+    {
+     "term": "quantity",
+     "weight": 10
+    },
+    {
+     "term": "log",
+     "weight": 10
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "scale",
+     "weight": 8
+    },
+    {
+     "term": "calculate board",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "This board foot calculator uses inches in decimal format or in quarters (e.g., 4/4).",
+    "One board foot is equal to 144 cubic inches and is equivalent to a 1-inch thick board that is 1 square foot in size.",
+    "For example, a board that is 4/4 × 4″ × 8′ has the same amount of wood as a board that is 4/4 × 8″ × 4′.",
+    "Unlike 2x4s and dimensional lumber, which are measured using nominal measurements, hardwood thickness is often measured in quarters of an inch, so you would refer to a 1″ board as four-quarters, expressed as 4/4.",
+    "Using Length in Inches You can calculate board feet by multiplying the board’s thickness in inches by the width in inches by the length in inches and then dividing the result by 144.",
+    "Thus, the formula to calculate board footage is (thickness × width × length) ÷ 144.",
+    "BF = Thickness [in] × Width [in] × Length [in] / 144 Using Length in Feet You can also find the board footage of a board if your length dimension is in feet.",
+    "Multiply the thickness of a board in inches by the width of the board in inches by the length of the board in feet, and then divide the result by 12.",
+    "BF = Thickness [in] × Width [in] × Length [ft] / 12 If you need help converting to inches, convert feet to inches, convert yards to inches, or convert centimeters to inches.",
+    "Board Feet Charts Refer to the charts below to quickly calculate the board feet for 4/4 and 8/4 stock."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 3,
+   "lists": 3,
+   "images": 5,
+   "videos": 0,
+   "calculatorInputs": [
+    "Thickness",
+    "Thickness Units",
+    "Width",
+    "Width Units",
+    "Length",
+    "Length Units",
+    "Lumber Price (optional)",
+    "Quantity",
+    "Thickness",
+    "Thickness Units",
+    "Width",
+    "Width Units",
+    "Length",
+    "Length Units",
+    "Lumber Price (optional)",
+    "Quantity",
+    "Thickness",
+    "Thickness Units",
+    "Width",
+    "Width Units",
+    "Length",
+    "Length Units",
+    "Lumber Price (optional)",
+    "Quantity",
+    "Thickness",
+    "Thickness Units",
+    "Width",
+    "Width Units",
+    "Length",
+    "Length Units",
+    "Lumber Price (optional)",
+    "Quantity",
+    "Thickness",
+    "Thickness Units",
+    "Width",
+    "Width Units",
+    "Length",
+    "Length Units",
+    "Lumber Price (optional)",
+    "Quantity"
+   ],
+   "selectOptionsSample": "in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft ",
+   "unitToggle": true,
+   "wordsBeforeTool": 30,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2015-03-10",
+    "modified": "2025-09-28T20:13:11+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 171,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 50,
+    "external": 14,
+    "contentInternal": 26,
+    "contentExternal": 8,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Board Foot Calculator",
+     "What is a Board Foot?",
+     "How to Calculate Board Feet",
+     "Using Length in Inches",
+     "Using Length in Feet",
+     "How to Calculate the Board Footage of a Log",
+     "Board Feet Charts",
+     "Frequently Asked Questions",
+     "References",
+     "Full bio",
+     "convert decimal measurements to fractions",
+     "Get Free Estimates",
+     "dimensional lumber",
+     "convert feet to inches",
+     "convert yards to inches",
+     "convert centimeters to inches",
+     "Feet and Inches Length Calculator",
+     "Board and Batten Siding Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/board-footage-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/board-footage/",
+     "https://www.inchcalculator.com/board-footage-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/board-footage-calculator/#idx_what_is_a_board_foot",
+     "https://www.inchcalculator.com/board-footage-calculator/#idx_how_to_calculate_board_feet",
+     "https://www.inchcalculator.com/board-footage-calculator/#idx_using_length_in_inches",
+     "https://www.inchcalculator.com/board-footage-calculator/#idx_using_length_in_feet",
+     "https://www.inchcalculator.com/board-footage-calculator/#idx_how_to_calculate_the_board_footage_of_a_log",
+     "https://www.inchcalculator.com/board-footage-calculator/#idx_board_feet_charts",
+     "https://www.inchcalculator.com/board-footage-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/board-footage-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/sarabeth-asaff-south/",
+     "https://www.inchcalculator.com/board-footage-calculator/",
+     "https://www.inchcalculator.com/inch-fraction-calculator/",
+     "https://www.inchcalculator.com/get-free-home-repair-estimates/?preset_project_type=Carpentry&preset_service_id=",
+     "https://www.inchcalculator.com/actual-size-of-dimensional-lumber/",
+     "https://www.inchcalculator.com/convert/foot-to-inch/",
+     "https://www.inchcalculator.com/convert/yard-to-inch/",
+     "https://www.inchcalculator.com/convert/centimeter-to-inch/",
+     "https://www.inchcalculator.com/feet-inches-calculator/",
+     "https://www.inchcalculator.com/board-batten-siding-calculator/",
+     "https://www.inchcalculator.com/wainscoting-layout-calculator/",
+     "https://www.inchcalculator.com/trim-moulding-calculator/",
+     "https://www.inchcalculator.com/convert/length/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fboard-footage-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fboard-footage-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fboard-footage-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fboard-footage-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fboard-footage-calculator%2F&text=Board+Foot+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fboard-footage-calculator%2F&text=Board+Foot+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://www.globaltimberinc.com/doyle-scale.html"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/other/board-foot": {
+   "url": "https://www.omnicalculator.com/other/board-foot",
+   "finalUrl": "https://www.omnicalculator.com/construction/board-foot",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T14:38:59.168Z",
+   "title": "Board Foot Calculator",
+   "metaDescription": "The board foot calculator determines the volume of lumber in board footage.",
+   "canonical": "https://www.omnicalculator.com/construction/board-foot",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Board Foot Calculator"
+   ],
+   "h2": [
+    "What is a board foot?",
+    "How to calculate board feet?",
+    "Using the lumber calculator: an example",
+    "FAQs"
+   ],
+   "h3": [
+    "How do you calculate the board feet in a log?",
+    "How do you measure a board foot?",
+    "How many board feet are in a 2x4?",
+    "What is the difference between a board foot and a linear foot?",
+    "What is a board foot insulation?",
+    "How much does a board foot of oak weigh?",
+    "How many board feet are there in 320 square feet?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Board Foot Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is a board foot?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate board feet?"
+    },
+    {
+     "level": 2,
+     "text": "Using the lumber calculator: an example"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do you calculate the board feet in a log?"
+    },
+    {
+     "level": 3,
+     "text": "How do you measure a board foot?"
+    },
+    {
+     "level": 3,
+     "text": "How many board feet are in a 2x4?"
+    },
+    {
+     "level": 3,
+     "text": "What is the difference between a board foot and a linear foot?"
+    },
+    {
+     "level": 3,
+     "text": "What is a board foot insulation?"
+    },
+    {
+     "level": 3,
+     "text": "How much does a board foot of oak weigh?"
+    },
+    {
+     "level": 3,
+     "text": "How many board feet are there in 320 square feet?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 931,
+   "avgSentenceWords": 18,
+   "faqs": [
+    "How do you calculate the board feet in a log?",
+    "How do you measure a board foot?",
+    "How many board feet are in a 2x4?",
+    "What is the difference between a board foot and a linear foot?",
+    "What is a board foot insulation?",
+    "How much does a board foot of oak weigh?",
+    "How many board feet are there in 320 square feet?",
+    "What is a board foot?",
+    "How to calculate board feet?"
+   ],
+   "faqSchemaCount": 7,
+   "topics": [
+    {
+     "term": "board",
+     "weight": 46
+    },
+    {
+     "term": "board foot",
+     "weight": 36
+    },
+    {
+     "term": "foot",
+     "weight": 31
+    },
+    {
+     "term": "feet",
+     "weight": 29
+    },
+    {
+     "term": "board feet",
+     "weight": 26
+    },
+    {
+     "term": "measure",
+     "weight": 13
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "length",
+     "weight": 11
+    },
+    {
+     "term": "lumber",
+     "weight": 9
+    },
+    {
+     "term": "square",
+     "weight": 9
+    },
+    {
+     "term": "volume",
+     "weight": 9
+    },
+    {
+     "term": "inches",
+     "weight": 9
+    },
+    {
+     "term": "square feet",
+     "weight": 8
+    },
+    {
+     "term": "foot calculator",
+     "weight": 6
+    },
+    {
+     "term": "thickness",
+     "weight": 6
+    },
+    {
+     "term": "width",
+     "weight": 6
+    },
+    {
+     "term": "footage",
+     "weight": 6
+    },
+    {
+     "term": "cubic",
+     "weight": 6
+    },
+    {
+     "term": "linear foot",
+     "weight": 6
+    },
+    {
+     "term": "boards",
+     "weight": 5
+    },
+    {
+     "term": "log",
+     "weight": 5
+    },
+    {
+     "term": "square footage",
+     "weight": 5
+    },
+    {
+     "term": "board footage",
+     "weight": 5
+    },
+    {
+     "term": "feet length",
+     "weight": 5
+    },
+    {
+     "term": "320 square",
+     "weight": 5
+    },
+    {
+     "term": "number",
+     "weight": 4
+    },
+    {
+     "term": "total",
+     "weight": 4
+    },
+    {
+     "term": "example",
+     "weight": 4
+    },
+    {
+     "term": "hardwood",
+     "weight": 4
+    },
+    {
+     "term": "want",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "All you need to do is use the board foot formula below: board feet = length (ft) × width (in) × thickness (in) / 12 Pay special attention to the units!",
+    "For example, a piece of hardwood can be 8 feet long, 10 inches wide, and 1.25 inches thick.",
+    "Assuming one board foot of lumber costs $4.15, then: cost = 41.67 × $4.15 = $172.92 💡 If you need to cover walls or flooring in plywood, check out our plywood calculator.",
+    "You can also measure in feet; if so, don’t divide by 12 in step 5.",
+    "A board foot is a volume of 1 ft × 1 ft × 1 in, so estimate the volume you need to fill before buying your spray foam insulation by finding the square footage of the space.",
+    "A board foot of oak weighs anywhere between 3.08-4.67 lb (1.42-2.12 kg), but on average, one weighs 3.875 lb (1.77 kg).",
+    "There are no board feet in 320 square feet, as board feet is a measure of volume and square feet is a measure of area.",
+    "However, for an area that is 320 square feet with a depth of 1 inch, there are 320 board feet present."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 4,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Bogna Szyk",
+    "published": "2018-04-23T15:08:23.067Z",
+    "modified": "2026-08-15T19:33:44.275Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 658,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 23,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "cubic yard calculator",
+     "square footage",
+     "flooring calculator",
+     "decking calculator",
+     "plywood calculator",
+     "Stone Weight Calculator",
+     "Board and Batten Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/construction/cubic-yard",
+     "https://www.omnicalculator.com/construction/square-footage",
+     "https://www.omnicalculator.com/construction/flooring",
+     "https://www.omnicalculator.com/construction/decking",
+     "https://www.omnicalculator.com/construction/plywood",
+     "https://www.omnicalculator.com/construction/stone",
+     "https://www.omnicalculator.com/construction/board-and-batten"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.calculatorsoup.com/calculators/construction/board-feet-calculator.php": [
+   "HTTP 404"
+  ]
+ }
+}

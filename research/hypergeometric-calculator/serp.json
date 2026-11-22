@@ -1,0 +1,254 @@
+{
+ "keywords": {
+  "hypergeometric calculator": {
+   "fetchedAt": "2026-11-22T14:38:25.559Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 4400,
+   "fileKd": 11,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://journal.r-project.org/archive/2015-2/hankin.pdf",
+     "domain": "journal.r-project.org",
+     "title": "r-project.org",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://journal.r-project.org/articles/RJ-2015-022",
+     "domain": "journal.r-project.org",
+     "title": "Numerical Evaluation of the Gauss Hypergeometric Function with the hypergeo Package",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://mirror.las.iastate.edu/CRAN/web/packages/hypergeo/vignettes/hypergeometric.Rnw",
+     "domain": "mirror.las.iastate.edu",
+     "title": "mirror.las.iastate.edu",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://ftp.kaist.ac.kr/CRAN/web/packages/hypergeo/vignettes/hypergeometric.pdf",
+     "domain": "ftp.kaist.ac.kr",
+     "title": "ftp.kaist.ac.kr",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.vps.fmvz.usp.br/CRAN/web/packages/hypergeo/hypergeo.pdf",
+     "domain": "www.vps.fmvz.usp.br",
+     "title": "www.vps.fmvz.usp.br",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://arxiv.org/abs/1606.06977",
+     "domain": "arxiv.org",
+     "title": "arxiv.org",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://erised.las.iastate.edu/CRAN/web/packages/hypergeo/refman/hypergeo.html",
+     "domain": "erised.las.iastate.edu",
+     "title": "Package hypergeo",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://mirror.linux.duke.edu/pub/cran/web/packages/hypergeo/hypergeo.pdf",
+     "domain": "mirror.linux.duke.edu",
+     "title": "mirror.linux.duke.edu",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://brieger.esalq.usp.br/CRAN/web/packages/hypergeo/hypergeo.pdf",
+     "domain": "brieger.esalq.usp.br",
+     "title": "brieger.esalq.usp.br",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://statisticsbyjim.com/calculators/hypergeometric-distribution-calculator/",
+     "domain": "statisticsbyjim.com",
+     "title": "Skip to secondary menu",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://de.wolframalpha.com/calculators/mathematics-statistics-probability-distributions-probabilities-for-the-hypergeometric-distribution-calculator",
+     "domain": "de.wolframalpha.com",
+     "title": "hypergeometric distribution calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://hackage.haskell.org/package/hypergeometric-0.1.2.0/docs/hypergeometric.txt",
+     "domain": "hackage.haskell.org",
+     "title": "hackage.haskell.org",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://stattrek.com/online-calculator/hypergeometric",
+     "domain": "stattrek.com",
+     "title": "stattrek.com",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://planetcalc.com/7702/?license=1",
+     "domain": "planetcalc.com",
+     "title": "Hypergeometric Distribution",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://mpmath.org/doc/0.18/functions/hypergeometric.html",
+     "domain": "mpmath.org",
+     "title": "Hypergeometric functions",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://sites.google.com/view/esme-rosen/ehmm-calculator",
+     "domain": "sites.google.com",
+     "title": "The Explicit Hypergeometric Modularity Calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://hpmuseum.org/forum/printthread.php?tid=20742",
+     "domain": "hpmuseum.org",
+     "title": "hpmuseum.org",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://robinhankin.r-universe.dev/hypergeo/doc/manual.html",
+     "domain": "robinhankin.r-universe.dev",
+     "title": "The Gauss Hypergeometric Function",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://planetcalc.com/7702/",
+     "domain": "planetcalc.com",
+     "title": "Hypergeometric Distribution",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://www.rdocumentation.org/packages/hypergeo/versions/1.2-1",
+     "domain": "www.rdocumentation.org",
+     "title": "1.2 1",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "hypergeometric-calculator",
+ "page": "hypergeometric-calculator",
+ "category": "math",
+ "name": "Hypergeometric Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T14:38:25.560Z",
+ "topCompetitors": [
+  {
+   "domain": "r-project.org",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://journal.r-project.org/archive/2015-2/hankin.pdf",
+    "https://journal.r-project.org/articles/RJ-2015-022"
+   ]
+  },
+  {
+   "domain": "iastate.edu",
+   "bestRank": 3,
+   "keywords": 2,
+   "urls": [
+    "https://mirror.las.iastate.edu/CRAN/web/packages/hypergeo/vignettes/hypergeometric.Rnw",
+    "https://erised.las.iastate.edu/CRAN/web/packages/hypergeo/refman/hypergeo.html"
+   ]
+  },
+  {
+   "domain": "usp.br",
+   "bestRank": 5,
+   "keywords": 2,
+   "urls": [
+    "https://www.vps.fmvz.usp.br/CRAN/web/packages/hypergeo/hypergeo.pdf",
+    "https://brieger.esalq.usp.br/CRAN/web/packages/hypergeo/hypergeo.pdf"
+   ]
+  },
+  {
+   "domain": "planetcalc.com",
+   "bestRank": 14,
+   "keywords": 2,
+   "urls": [
+    "https://planetcalc.com/7702/?license=1",
+    "https://planetcalc.com/7702/"
+   ]
+  },
+  {
+   "domain": "kaist.ac.kr",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://ftp.kaist.ac.kr/CRAN/web/packages/hypergeo/vignettes/hypergeometric.pdf"
+   ]
+  },
+  {
+   "domain": "arxiv.org",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://arxiv.org/abs/1606.06977"
+   ]
+  },
+  {
+   "domain": "duke.edu",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://mirror.linux.duke.edu/pub/cran/web/packages/hypergeo/hypergeo.pdf"
+   ]
+  },
+  {
+   "domain": "statisticsbyjim.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://statisticsbyjim.com/calculators/hypergeometric-distribution-calculator/"
+   ]
+  },
+  {
+   "domain": "wolframalpha.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://de.wolframalpha.com/calculators/mathematics-statistics-probability-distributions-probabilities-for-the-hypergeometric-distribution-calculator"
+   ]
+  },
+  {
+   "domain": "haskell.org",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://hackage.haskell.org/package/hypergeometric-0.1.2.0/docs/hypergeometric.txt"
+   ]
+  }
+ ]
+}
