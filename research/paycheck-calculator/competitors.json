@@ -1,0 +1,1293 @@
+{
+ "pages": {
+  "https://www.calculator.net/take-home-pay-calculator.html": {
+   "url": "https://www.calculator.net/take-home-pay-calculator.html",
+   "finalUrl": "https://www.calculator.net/take-home-pay-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T09:58:33.156Z",
+   "title": "Take-Home-Paycheck Calculator",
+   "metaDescription": "Free calculator to find the actual paycheck amount taken home after taxes and deductions from salary, or to learn more about income tax in the U.S.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Take-Home-Paycheck Calculator"
+   ],
+   "h2": [
+    "2026 Tax Brackets",
+    "2025 Tax Brackets",
+    "2024 Tax Brackets",
+    "2023 Tax Brackets",
+    "2022 Tax Brackets",
+    "2021 Tax Brackets",
+    "2020 Tax Brackets",
+    "2019 Tax Brackets",
+    "2018 Tax Brackets",
+    "2017 Tax Brackets"
+   ],
+   "h3": [
+    "Income Tax",
+    "FICA Tax",
+    "Take Home Pay",
+    "How to Increase a Take Home Paycheck"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Take-Home-Paycheck Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Income Tax"
+    },
+    {
+     "level": 3,
+     "text": "FICA Tax"
+    },
+    {
+     "level": 3,
+     "text": "Take Home Pay"
+    },
+    {
+     "level": 3,
+     "text": "How to Increase a Take Home Paycheck"
+    },
+    {
+     "level": 2,
+     "text": "2026 Tax Brackets"
+    },
+    {
+     "level": 2,
+     "text": "2025 Tax Brackets"
+    },
+    {
+     "level": 2,
+     "text": "2024 Tax Brackets"
+    },
+    {
+     "level": 2,
+     "text": "2023 Tax Brackets"
+    },
+    {
+     "level": 2,
+     "text": "2022 Tax Brackets"
+    },
+    {
+     "level": 2,
+     "text": "2021 Tax Brackets"
+    },
+    {
+     "level": 2,
+     "text": "2020 Tax Brackets"
+    },
+    {
+     "level": 2,
+     "text": "2019 Tax Brackets"
+    },
+    {
+     "level": 2,
+     "text": "2018 Tax Brackets"
+    },
+    {
+     "level": 2,
+     "text": "2017 Tax Brackets"
+    }
+   ],
+   "wordCount": 4067,
+   "avgSentenceWords": 31,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "tax",
+     "weight": 75
+    },
+    {
+     "term": "income",
+     "weight": 66
+    },
+    {
+     "term": "deductions",
+     "weight": 40
+    },
+    {
+     "term": "single joint",
+     "weight": 30
+    },
+    {
+     "term": "joint head",
+     "weight": 30
+    },
+    {
+     "term": "single",
+     "weight": 29
+    },
+    {
+     "term": "pay",
+     "weight": 28
+    },
+    {
+     "term": "income tax",
+     "weight": 27
+    },
+    {
+     "term": "tax rate",
+     "weight": 26
+    },
+    {
+     "term": "year",
+     "weight": 25
+    },
+    {
+     "term": "joint",
+     "weight": 25
+    },
+    {
+     "term": "head",
+     "weight": 24
+    },
+    {
+     "term": "household",
+     "weight": 24
+    },
+    {
+     "term": "rate",
+     "weight": 21
+    },
+    {
+     "term": "taxable income",
+     "weight": 20
+    },
+    {
+     "term": "tax brackets",
+     "weight": 18
+    },
+    {
+     "term": "paycheck",
+     "weight": 15
+    },
+    {
+     "term": "filing",
+     "weight": 15
+    },
+    {
+     "term": "brackets taxable",
+     "weight": 15
+    },
+    {
+     "term": "income single",
+     "weight": 15
+    },
+    {
+     "term": "household tax",
+     "weight": 15
+    },
+    {
+     "term": "exemptions",
+     "weight": 15
+    },
+    {
+     "term": "exemptions single",
+     "weight": 15
+    },
+    {
+     "term": "household standard",
+     "weight": 15
+    },
+    {
+     "term": "standard deductions",
+     "weight": 15
+    },
+    {
+     "term": "taxable",
+     "weight": 14
+    },
+    {
+     "term": "standard",
+     "weight": 14
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "brackets",
+     "weight": 13
+    },
+    {
+     "term": "federal",
+     "weight": 13
+    }
+   ],
+   "claims": [
+    "It can also be used to help fill steps 3 and 4 of a W-4 form.",
+    "The calculation is based on the 2026 tax brackets and the new W-4, which reflect the changes introduced by the One Big Beautiful Bill.",
+    "Pretax deductions withheld /year 401k, health insurance, HSA, etc.",
+    "The standard deduction dollar amount is $16,100 for single households and $32,200 for married couples filing jointly for the tax year 2026.",
+    "However, they apply only to tax years 2025 through 2028 and will expire after 2028 unless further legislation extends them.",
+    "This deduction phases out for taxpayers with a modified adjusted gross income over $150,000 ($300,000 for joint filers).",
+    "Overtime compensation—Qualified overtime compensation of up to $12,500 per year for single filers and $25,000 per year for joint filers may be deducted.",
+    "This deduction phases out for taxpayers with a modified adjusted gross income over $150,000 ($300,000 for joint filers).",
+    "This deduction phases out for taxpayers with a modified adjusted gross income over $100,000 ($200,000 for joint filers).",
+    "Deduction for seniors—Individuals aged 65 and older may claim an additional deduction of $6,000 per year for single filers, or a total of $12,000 per year for married couples in which both spouses qualify."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 26,
+   "lists": 1,
+   "images": 5,
+   "videos": 0,
+   "calculatorInputs": [
+    "cannualincome",
+    "cpayfrequency",
+    "cfilestatus",
+    "cchildren",
+    "cotherdep",
+    "cnonjobincome",
+    "chelddeduction",
+    "cnothelddeduction",
+    "Yes",
+    "No",
+    "cjobincome2",
+    "cjobincome3",
+    "cstatetax",
+    "ccitytax",
+    "Yes",
+    "No",
+    "Yes",
+    "No",
+    "ctips",
+    "covertime",
+    "cloaninterest",
+    "cgifts",
+    "Yes",
+    "No"
+   ],
+   "selectOptionsSample": "daily weekly bi-weekly semi-monthly monthly quarterly semi-annually annually single filing jointly or qualified widow married filing separately head of household",
+   "unitToggle": false,
+   "wordsBeforeTool": 83,
+   "actions": {
+    "print": true,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": [
+     "https://en.wikipedia.org/wiki/State_income_tax"
+    ]
+   },
+   "ux": {
+    "htmlKB": 46,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 34,
+    "external": 1,
+    "contentInternal": 34,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "financial",
+     "take-home-paycheck calculator",
+     "Print",
+     "2026 tax brackets",
+     "Income Tax Calculator",
+     "Budget Calculator",
+     "Social Security Calculator",
+     "Salary Calculator",
+     "Time Card Calculator",
+     "Financial Calculators",
+     "Mortgage",
+     "Loan",
+     "Auto Loan",
+     "Interest",
+     "Payment",
+     "Retirement",
+     "Amortization",
+     "Investment"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/take-home-pay-calculator.html",
+     "https://www.calculator.net/take-home-pay-calculator.html#",
+     "https://www.calculator.net/take-home-pay-calculator.html#taxbrackets",
+     "https://www.calculator.net/tax-calculator.html",
+     "https://www.calculator.net/budget-calculator.html",
+     "https://www.calculator.net/social-security-calculator.html",
+     "https://www.calculator.net/salary-calculator.html",
+     "https://www.calculator.net/time-card-calculator.html",
+     "https://www.calculator.net/mortgage-calculator.html",
+     "https://www.calculator.net/loan-calculator.html",
+     "https://www.calculator.net/auto-loan-calculator.html",
+     "https://www.calculator.net/interest-calculator.html",
+     "https://www.calculator.net/payment-calculator.html",
+     "https://www.calculator.net/retirement-calculator.html",
+     "https://www.calculator.net/amortization-calculator.html",
+     "https://www.calculator.net/investment-calculator.html",
+     "https://www.calculator.net/currency-calculator.html",
+     "https://www.calculator.net/inflation-calculator.html",
+     "https://www.calculator.net/finance-calculator.html",
+     "https://www.calculator.net/mortgage-payoff-calculator.html",
+     "https://www.calculator.net/compound-interest-calculator.html",
+     "https://www.calculator.net/401k-calculator.html"
+    ],
+    "externalSample": [
+     "https://en.wikipedia.org/wiki/State_income_tax"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.io/paycheck-calculator/": {
+   "url": "https://www.calculator.io/paycheck-calculator/",
+   "finalUrl": "https://www.calculator.io/paycheck-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.calculator.io",
+   "fetchedAt": "2026-11-22T09:58:36.103Z",
+   "title": "Paycheck Calculator",
+   "metaDescription": "Discover your true take-home pay with our free Paycheck Calculator. Easily calculate your net salary after US income taxes and deductions. Try it now!",
+   "canonical": "https://www.calculator.io/paycheck-calculator/",
+   "robotsMeta": "index, follow",
+   "lang": "en",
+   "h1": [
+    "Paycheck Calculator"
+   ],
+   "h2": [
+    "How to Calculate Your Take-Home Pay After Taxes and Deductions",
+    "Table of Contents",
+    "Income Before and After Tax",
+    "Pay Frequency",
+    "Tax Filing Status",
+    "Income Taxes on Earnings",
+    "The Internal Revenue Service (IRS)",
+    "State Income Taxes",
+    "Local and Municipal Income Taxes",
+    "FICA Tax",
+    "Social Security Benefits",
+    "Medicare",
+    "Take-Home Pay",
+    "How to Boost Your Take-Home Pay"
+   ],
+   "h3": [
+    "Ask for a Raise or Promotion",
+    "Re-evaluate Your Payroll Deductions",
+    "Utilize a Flexible Spending Account (FSA)",
+    "Work Overtime Hours",
+    "Cash Out Unused PTO",
+    "Temporarily Suspend 401(k) Contributions"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Paycheck Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Your Take-Home Pay After Taxes and Deductions"
+    },
+    {
+     "level": 2,
+     "text": "Table of Contents"
+    },
+    {
+     "level": 2,
+     "text": "Income Before and After Tax"
+    },
+    {
+     "level": 2,
+     "text": "Pay Frequency"
+    },
+    {
+     "level": 2,
+     "text": "Tax Filing Status"
+    },
+    {
+     "level": 2,
+     "text": "Income Taxes on Earnings"
+    },
+    {
+     "level": 2,
+     "text": "The Internal Revenue Service (IRS)"
+    },
+    {
+     "level": 2,
+     "text": "State Income Taxes"
+    },
+    {
+     "level": 2,
+     "text": "Local and Municipal Income Taxes"
+    },
+    {
+     "level": 2,
+     "text": "FICA Tax"
+    },
+    {
+     "level": 2,
+     "text": "Social Security Benefits"
+    },
+    {
+     "level": 2,
+     "text": "Medicare"
+    },
+    {
+     "level": 2,
+     "text": "Take-Home Pay"
+    },
+    {
+     "level": 2,
+     "text": "How to Boost Your Take-Home Pay"
+    },
+    {
+     "level": 3,
+     "text": "Ask for a Raise or Promotion"
+    },
+    {
+     "level": 3,
+     "text": "Re-evaluate Your Payroll Deductions"
+    },
+    {
+     "level": 3,
+     "text": "Utilize a Flexible Spending Account (FSA)"
+    },
+    {
+     "level": 3,
+     "text": "Work Overtime Hours"
+    },
+    {
+     "level": 3,
+     "text": "Cash Out Unused PTO"
+    },
+    {
+     "level": 3,
+     "text": "Temporarily Suspend 401(k) Contributions"
+    }
+   ],
+   "wordCount": 2573,
+   "avgSentenceWords": 23,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "tax",
+     "weight": 68
+    },
+    {
+     "term": "income",
+     "weight": 55
+    },
+    {
+     "term": "pay",
+     "weight": 37
+    },
+    {
+     "term": "taxes",
+     "weight": 31
+    },
+    {
+     "term": "income tax",
+     "weight": 23
+    },
+    {
+     "term": "deductions",
+     "weight": 21
+    },
+    {
+     "term": "calculator",
+     "weight": 19
+    },
+    {
+     "term": "income taxes",
+     "weight": 18
+    },
+    {
+     "term": "state",
+     "weight": 17
+    },
+    {
+     "term": "take home",
+     "weight": 17
+    },
+    {
+     "term": "home pay",
+     "weight": 15
+    },
+    {
+     "term": "federal",
+     "weight": 15
+    },
+    {
+     "term": "filing",
+     "weight": 15
+    },
+    {
+     "term": "ask",
+     "weight": 14
+    },
+    {
+     "term": "paycheck",
+     "weight": 13
+    },
+    {
+     "term": "home",
+     "weight": 12
+    },
+    {
+     "term": "tax rate",
+     "weight": 12
+    },
+    {
+     "term": "calculator finance",
+     "weight": 12
+    },
+    {
+     "term": "take",
+     "weight": 11
+    },
+    {
+     "term": "salary",
+     "weight": 11
+    },
+    {
+     "term": "social security",
+     "weight": 11
+    },
+    {
+     "term": "after",
+     "weight": 10
+    },
+    {
+     "term": "status",
+     "weight": 10
+    },
+    {
+     "term": "year",
+     "weight": 10
+    },
+    {
+     "term": "rate",
+     "weight": 10
+    },
+    {
+     "term": "finance",
+     "weight": 10
+    },
+    {
+     "term": "gross",
+     "weight": 10
+    },
+    {
+     "term": "married",
+     "weight": 10
+    },
+    {
+     "term": "standard",
+     "weight": 10
+    },
+    {
+     "term": "net",
+     "weight": 9
+    }
+   ],
+   "claims": [
+    "This tool uses 2026 tax brackets and the updated W-4 form to provide highly accurate estimates.",
+    "You can also use it to help you confidently fill out Steps 3 and 4 of your W-4.",
+    "Common examples include health insurance premiums, 401(k) retirement contributions, health savings account (HSA) funding, union dues, and mandated child support payments.",
+    "For the 2026 tax year, the standard deduction is set at $16,100 for single filers and $32,200 for married couples filing jointly.",
+    "For the 2026 tax year, the top marginal federal income tax rate is 37%.",
+    "California has one of the highest top marginal state tax rates, at 13.30%.",
+    "New Hampshire and Tennessee also do not tax earned wages; New Hampshire's tax on interest and dividend income was repealed effective 2025, and Tennessee's ended in 2021.",
+    "FICA is automatically deducted from a portion of your gross wages, regardless of whether you are a standard W-2 employee or an independent contractor.",
+    "The employee Social Security tax rate is 6.20% (bringing the combined employee-employer total to 12.40%).",
+    "Medicare Medicare is a single-payer federal health insurance program in the United States designed primarily for citizens aged 65 and older."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "BreadcrumbList",
+    "WebApplication"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 3,
+   "lists": 3,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Link",
+    "select-one",
+    "select-one"
+   ],
+   "selectOptionsSample": "daily weekly bi-weekly semi-monthly monthly quarterly semi-annually annually single filing jointly or qualified widow married filing separately head of household",
+   "unitToggle": true,
+   "wordsBeforeTool": 106,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": "2026-07-21T20:51:30+05:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 95,
+    "adNetworks": [
+     "adsense"
+    ],
+    "adSlots": 6,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 65,
+    "external": 1,
+    "contentInternal": 25,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Tax Calculator Finance",
+     "Salary Calculator Finance",
+     "Retirement Calculator Finance",
+     "Hours Calculator Time & Date",
+     "Savings Calculator Finance",
+     "Work Hours Calculator Miscellaneous",
+     "Income Before and After Tax",
+     "Pay Frequency",
+     "Tax Filing Status",
+     "Income Taxes on Earnings",
+     "The Internal Revenue Service (IRS)",
+     "State Income Taxes",
+     "Local and Municipal Income Taxes",
+     "FICA Tax",
+     "Social Security Benefits",
+     "Medicare",
+     "Take-Home Pay",
+     "How to Boost Your Take-Home Pay",
+     "Ask for a Raise or Promotion",
+     "Re-evaluate Your Payroll Deductions"
+    ],
+    "internalSample": [
+     "https://www.calculator.io/ask-ai/",
+     "https://www.calculator.io/tax-calculator/",
+     "https://www.calculator.io/salary-calculator/",
+     "https://www.calculator.io/retirement-calculator/",
+     "https://www.calculator.io/hours-calculator/",
+     "https://www.calculator.io/savings-calculator/",
+     "https://www.calculator.io/work-hours-calculator/",
+     "https://www.calculator.io/paycheck-calculator/#income-before-and-after-tax-1",
+     "https://www.calculator.io/paycheck-calculator/#pay-frequency-2",
+     "https://www.calculator.io/paycheck-calculator/#tax-filing-status-3",
+     "https://www.calculator.io/paycheck-calculator/#income-taxes-on-earnings-4",
+     "https://www.calculator.io/paycheck-calculator/#the-internal-revenue-service-irs-5",
+     "https://www.calculator.io/paycheck-calculator/#state-income-taxes-6",
+     "https://www.calculator.io/paycheck-calculator/#local-and-municipal-income-taxes-7",
+     "https://www.calculator.io/paycheck-calculator/#fica-tax-8",
+     "https://www.calculator.io/paycheck-calculator/#social-security-benefits-9",
+     "https://www.calculator.io/paycheck-calculator/#medicare-10",
+     "https://www.calculator.io/paycheck-calculator/#take-home-pay-11",
+     "https://www.calculator.io/paycheck-calculator/#how-to-boost-your-take-home-pay-12",
+     "https://www.calculator.io/paycheck-calculator/#ask-for-a-raise-or-promotion-13",
+     "https://www.calculator.io/paycheck-calculator/#re-evaluate-your-payroll-deductions-14",
+     "https://www.calculator.io/paycheck-calculator/#utilize-a-flexible-spending-account-fsa-15",
+     "https://www.calculator.io/paycheck-calculator/#work-overtime-hours-16",
+     "https://www.calculator.io/paycheck-calculator/#cash-out-unused-pto-17",
+     "https://www.calculator.io/paycheck-calculator/#temporarily-suspend-401-k-contributions-18"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/financial/gross-pay-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/financial/gross-pay-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/financial/gross-pay-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T09:58:38.962Z",
+   "title": "Gross Pay Calculator",
+   "metaDescription": "Calculate the gross amount of pay based on hours worked and rate of pay including overtime. Summary report for total hours and total pay. Free online gross pay salary calculator plus calculators for exponents, math, fractions, factoring, plane geometry, solid geometry, algebra, finance and more",
+   "canonical": "https://www.calculatorsoup.com/calculators/financial/gross-pay-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Gross Pay Calculator"
+   ],
+   "h2": [
+    "Gross Pay or Salary:"
+   ],
+   "h3": [
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Gross Pay Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Gross Pay or Salary:"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 279,
+   "avgSentenceWords": 28,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "pay",
+     "weight": 18
+    },
+    {
+     "term": "gross pay",
+     "weight": 17
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "gross",
+     "weight": 12
+    },
+    {
+     "term": "pay calculator",
+     "weight": 11
+    },
+    {
+     "term": "rate",
+     "weight": 9
+    },
+    {
+     "term": "calculators",
+     "weight": 7
+    },
+    {
+     "term": "hours",
+     "weight": 6
+    },
+    {
+     "term": "taxes",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators financial",
+     "weight": 5
+    },
+    {
+     "term": "calculator gross",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "financial",
+     "weight": 4
+    },
+    {
+     "term": "money",
+     "weight": 3
+    },
+    {
+     "term": "money pay",
+     "weight": 3
+    },
+    {
+     "term": "pay taxes",
+     "weight": 3
+    },
+    {
+     "term": "rate multiplier",
+     "weight": 3
+    },
+    {
+     "term": "calculation",
+     "weight": 3
+    },
+    {
+     "term": "before taxes",
+     "weight": 3
+    },
+    {
+     "term": "com",
+     "weight": 3
+    },
+    {
+     "term": "com calculators",
+     "weight": 3
+    },
+    {
+     "term": "https www",
+     "weight": 3
+    },
+    {
+     "term": "www calculatorsoup",
+     "weight": 3
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 0,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Hours:",
+    "Rate/Hr: $ hourly rate of pay",
+    "OT Hours:",
+    "OT Rate: OT rate multiplier 1.5 is time and a half",
+    "DT Hours:",
+    "DT Rate: DT rate multiplier 2 is double time",
+    "Round hours to:",
+    "reset"
+   ],
+   "selectOptionsSample": "tenths (x.1) hundredths (x.12) thousandths (x.123)",
+   "unitToggle": false,
+   "wordsBeforeTool": 23,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "August 1, 2025",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 53,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 18,
+    "external": 0,
+    "contentInternal": 8,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Financial",
+     "Money, Pay, Taxes",
+     "Gross Pay Calculator",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "time card calculator",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/financial/",
+     "https://www.calculatorsoup.com/calculators/financial/index-money-pay-taxes-calculators.php",
+     "https://www.calculatorsoup.com/calculators/financial/gross-pay-calculator.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=financial%2F&folderName=Financial&folder2=financial%2Findex-money-pay-taxes-calculators.php&folderName2=Money%2C+Pay%2C+Taxes&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/financial/gross-pay-calculator.php&h1=Gross+Pay+Calculator&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/financial/time-card-calculator.php"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/finance/annual-income": {
+   "url": "https://www.omnicalculator.com/finance/annual-income",
+   "finalUrl": "https://www.omnicalculator.com/finance/annual-income",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T09:58:42.253Z",
+   "title": "Annual Income Calculator",
+   "metaDescription": "The annual income calculator determines your yearly salary based on the hourly rate.",
+   "canonical": "https://www.omnicalculator.com/finance/annual-income",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Annual Income Calculator"
+   ],
+   "h2": [
+    "How to use the annual income calculator",
+    "How to calculate annual income by hand",
+    "What is gross annual income? What is net annual income?",
+    "Gross annual income calculator",
+    "Annual net income calculator",
+    "How to find annual income – examples",
+    "Other ways to use the yearly salary calculator",
+    "Creating the annual income calculator",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I calculate my yearly income?",
+    "How long should I work for if I want to earn 100,000 USD a year?",
+    "How much tax do I pay as a percentage?",
+    "How much do I have to charge per hour if I want to earn 100,000 USD a year?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Annual Income Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to use the annual income calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate annual income by hand"
+    },
+    {
+     "level": 2,
+     "text": "What is gross annual income? What is net annual income?"
+    },
+    {
+     "level": 2,
+     "text": "Gross annual income calculator"
+    },
+    {
+     "level": 2,
+     "text": "Annual net income calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to find annual income – examples"
+    },
+    {
+     "level": 2,
+     "text": "Other ways to use the yearly salary calculator"
+    },
+    {
+     "level": 2,
+     "text": "Creating the annual income calculator"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate my yearly income?"
+    },
+    {
+     "level": 3,
+     "text": "How long should I work for if I want to earn 100,000 USD a year?"
+    },
+    {
+     "level": 3,
+     "text": "How much tax do I pay as a percentage?"
+    },
+    {
+     "level": 3,
+     "text": "How much do I have to charge per hour if I want to earn 100,000 USD a year?"
+    }
+   ],
+   "wordCount": 1723,
+   "avgSentenceWords": 17,
+   "faqs": [
+    "How do I calculate my yearly income?",
+    "How long should I work for if I want to earn 100,000 USD a year?",
+    "How much tax do I pay as a percentage?",
+    "How much do I have to charge per hour if I want to earn 100,000 USD a year?",
+    "What is gross annual income? What is net annual income?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "annual income",
+     "weight": 75
+    },
+    {
+     "term": "income",
+     "weight": 71
+    },
+    {
+     "term": "annual",
+     "weight": 61
+    },
+    {
+     "term": "calculator",
+     "weight": 44
+    },
+    {
+     "term": "hourly wage",
+     "weight": 29
+    },
+    {
+     "term": "hourly",
+     "weight": 26
+    },
+    {
+     "term": "net",
+     "weight": 26
+    },
+    {
+     "term": "salary",
+     "weight": 26
+    },
+    {
+     "term": "income calculator",
+     "weight": 26
+    },
+    {
+     "term": "gross",
+     "weight": 21
+    },
+    {
+     "term": "weeks",
+     "weight": 20
+    },
+    {
+     "term": "wage",
+     "weight": 20
+    },
+    {
+     "term": "year",
+     "weight": 19
+    },
+    {
+     "term": "gross annual",
+     "weight": 18
+    },
+    {
+     "term": "hours",
+     "weight": 17
+    },
+    {
+     "term": "yearly",
+     "weight": 16
+    },
+    {
+     "term": "tax",
+     "weight": 15
+    },
+    {
+     "term": "net income",
+     "weight": 15
+    },
+    {
+     "term": "working",
+     "weight": 14
+    },
+    {
+     "term": "yearly salary",
+     "weight": 14
+    },
+    {
+     "term": "salary calculator",
+     "weight": 14
+    },
+    {
+     "term": "week",
+     "weight": 13
+    },
+    {
+     "term": "work",
+     "weight": 13
+    },
+    {
+     "term": "calculate",
+     "weight": 12
+    },
+    {
+     "term": "find",
+     "weight": 11
+    },
+    {
+     "term": "number",
+     "weight": 11
+    },
+    {
+     "term": "working hours",
+     "weight": 11
+    },
+    {
+     "term": "working weeks",
+     "weight": 9
+    },
+    {
+     "term": "net annual",
+     "weight": 9
+    },
+    {
+     "term": "have",
+     "weight": 9
+    }
+   ],
+   "claims": [
+    "For instance, if your hourly wage is $34, you work 40 hours per week, and 52 weeks per year, your annual income would be $70,720.",
+    "If you are taxed at 12%, your net annual income would come to $62,233.60.",
+    "Now we'll multiply the number of weeks by Josh's weekly wage: 50 × 500 = 25,000 His annual income equals $25,000.",
+    "To work out how long you need to work to earn $100,000 a year: Get your hourly wage and find how many weeks per year you will work.",
+    "Multiply the result by 100%, and that's it.",
+    "To calculate how much to charge per hour to earn $100,000 a year: Find how many weeks and hours per week you are willing to work towards such a goal.",
+    "Divide 100,000 USD by the number of weeks and then divide that number by the number of hours per week."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 11,
+   "images": 0,
+   "videos": 1,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Tibor Pál",
+    "published": "2020-11-30T18:33:36.775Z",
+    "modified": "2026-09-03T17:40:11.442Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 695,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 23,
+    "external": 2,
+    "contentInternal": 7,
+    "contentExternal": 2,
+    "internalAnchors": [
+     "salary to hourly calculator",
+     "prorated salary calculator",
+     "examples",
+     "salary calculator",
+     "net to gross calculator",
+     "gross to net calculator",
+     "Editorial Policies"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/finance/salary-to-hourly",
+     "https://www.omnicalculator.com/finance/prorated-salary",
+     "https://www.omnicalculator.com/finance/annual-income#how-to-find-annual-income-examples",
+     "https://www.omnicalculator.com/finance/salary",
+     "https://www.omnicalculator.com/finance/net-to-gross",
+     "https://www.omnicalculator.com/finance/gross-to-net",
+     "https://www.omnicalculator.com/editorial-policies"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com",
+     "https://youtu.be/QbX6kuk4gAk"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://everhour.com/calculators/hourly-wage-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.thesalarycalculator.co.uk/hourly.php": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

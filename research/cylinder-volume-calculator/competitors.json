@@ -1,0 +1,1413 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/geometry/cylinder-volume": {
+   "url": "https://www.omnicalculator.com/geometry/cylinder-volume",
+   "finalUrl": "https://www.omnicalculator.com/math/cylinder-volume",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T09:54:52.902Z",
+   "title": "Volume of a Cylinder Calculator",
+   "metaDescription": "The cylinder volume calculator helps in the calculation of the right, oblique and hollow cylinder volume.",
+   "canonical": "https://www.omnicalculator.com/math/cylinder-volume",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Cylinder Volume Calculator"
+   ],
+   "h2": [
+    "How to calculate volume of a cylinder",
+    "Volume of a hollow cylinder",
+    "Volume of an oblique cylinder",
+    "FAQs"
+   ],
+   "h3": [
+    "Where can you find cylinders in nature?",
+    "How do I draw a cylinder?",
+    "How do you calculate the weight of a cylinder?",
+    "How do you calculate the surface area to volume ratio of a cylinder?",
+    "How do you find the height of a cylinder?",
+    "How do I find the radius of a cylinder?",
+    "How do you find the volume of an oval cylinder?",
+    "How do you find the volume of a slanted cylinder?",
+    "How do you calculate the swept volume of a cylinder?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Cylinder Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate volume of a cylinder"
+    },
+    {
+     "level": 2,
+     "text": "Volume of a hollow cylinder"
+    },
+    {
+     "level": 2,
+     "text": "Volume of an oblique cylinder"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "Where can you find cylinders in nature?"
+    },
+    {
+     "level": 3,
+     "text": "How do I draw a cylinder?"
+    },
+    {
+     "level": 3,
+     "text": "How do you calculate the weight of a cylinder?"
+    },
+    {
+     "level": 3,
+     "text": "How do you calculate the surface area to volume ratio of a cylinder?"
+    },
+    {
+     "level": 3,
+     "text": "How do you find the height of a cylinder?"
+    },
+    {
+     "level": 3,
+     "text": "How do I find the radius of a cylinder?"
+    },
+    {
+     "level": 3,
+     "text": "How do you find the volume of an oval cylinder?"
+    },
+    {
+     "level": 3,
+     "text": "How do you find the volume of a slanted cylinder?"
+    },
+    {
+     "level": 3,
+     "text": "How do you calculate the swept volume of a cylinder?"
+    }
+   ],
+   "wordCount": 1232,
+   "avgSentenceWords": 14,
+   "faqs": [
+    "Where can you find cylinders in nature?",
+    "How do I draw a cylinder?",
+    "How do you calculate the weight of a cylinder?",
+    "How do you calculate the surface area to volume ratio of a cylinder?",
+    "How do you find the height of a cylinder?",
+    "How do I find the radius of a cylinder?",
+    "How do you find the volume of an oval cylinder?",
+    "How do you find the volume of a slanted cylinder?",
+    "How do you calculate the swept volume of a cylinder?",
+    "what is a cylinder?"
+   ],
+   "faqSchemaCount": 9,
+   "topics": [
+    {
+     "term": "cylinder",
+     "weight": 59
+    },
+    {
+     "term": "volume",
+     "weight": 46
+    },
+    {
+     "term": "radius",
+     "weight": 23
+    },
+    {
+     "term": "height",
+     "weight": 17
+    },
+    {
+     "term": "calculate",
+     "weight": 14
+    },
+    {
+     "term": "surface area",
+     "weight": 14
+    },
+    {
+     "term": "cylinder volume",
+     "weight": 12
+    },
+    {
+     "term": "surface",
+     "weight": 11
+    },
+    {
+     "term": "result",
+     "weight": 11
+    },
+    {
+     "term": "area",
+     "weight": 10
+    },
+    {
+     "term": "find",
+     "weight": 10
+    },
+    {
+     "term": "multiply",
+     "weight": 10
+    },
+    {
+     "term": "calculator",
+     "weight": 9
+    },
+    {
+     "term": "hollow cylinder",
+     "weight": 9
+    },
+    {
+     "term": "diameter",
+     "weight": 8
+    },
+    {
+     "term": "same",
+     "weight": 8
+    },
+    {
+     "term": "hollow",
+     "weight": 7
+    },
+    {
+     "term": "square",
+     "weight": 7
+    },
+    {
+     "term": "oval",
+     "weight": 7
+    },
+    {
+     "term": "volume calculator",
+     "weight": 6
+    },
+    {
+     "term": "formula",
+     "weight": 6
+    },
+    {
+     "term": "sides",
+     "weight": 6
+    },
+    {
+     "term": "make",
+     "weight": 6
+    },
+    {
+     "term": "divide",
+     "weight": 6
+    },
+    {
+     "term": "make sure",
+     "weight": 6
+    },
+    {
+     "term": "same units",
+     "weight": 6
+    },
+    {
+     "term": "oval cylinder",
+     "weight": 6
+    },
+    {
+     "term": "cylindrical",
+     "weight": 5
+    },
+    {
+     "term": "cylinders",
+     "weight": 5
+    },
+    {
+     "term": "units",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Find out what's the height of the cylinder; for us, it's 9 cm.",
+    "The volume of a hollow cylinder is equal to 742.2 cm³.",
+    "Find the surface area of the cylinder using the formula 2πrh + 2πr².",
+    "To compute the swept volume of a cylinder: Divide the bore diameter by 2 to get the bore radius."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 12,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Hanna Pamuła",
+    "published": "2018-06-04T12:09:26.309Z",
+    "modified": "2026-07-23T13:18:17.954Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 508,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 20,
+    "external": 1,
+    "contentInternal": 4,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "volume calculator",
+     "volume converter",
+     "potting soil calculator",
+     "cylinder volume quiz"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/math/volume",
+     "https://www.omnicalculator.com/conversion/volume-conversion",
+     "https://www.omnicalculator.com/biology/potting-soil-calculator",
+     "https://www.omnicalculator.com/math/cylinder-volume-quiz"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.io/cylinder-volume-calculator/": {
+   "url": "https://www.calculator.io/cylinder-volume-calculator/",
+   "finalUrl": "https://www.calculator.io/cylinder-volume-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.calculator.io",
+   "fetchedAt": "2026-11-22T09:55:17.503Z",
+   "title": "Cylinder Volume Calculator: Formula, Gallons & Liters",
+   "metaDescription": "Calculate the volume and surface area of any cylinder instantly. Our free Cylinder Volume Calculator also finds lateral, base, and top areas with ease.",
+   "canonical": "https://www.calculator.io/cylinder-volume-calculator/",
+   "robotsMeta": "index, follow",
+   "lang": "en",
+   "h1": [
+    "Cylinder Volume Formula"
+   ],
+   "h2": [
+    "How to Find the Volume and Surface Area of a Cylinder",
+    "Table of Contents",
+    "List of parameters",
+    "Directions for use",
+    "Formulas",
+    "The total surface area of a cylinder",
+    "Calculation algorithms",
+    "Real-life applications"
+   ],
+   "h3": [
+    "Cylinder volume",
+    "Lateral surface area",
+    "Base surface area (and top surface area)",
+    "Example"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Cylinder Volume Formula"
+    },
+    {
+     "level": 2,
+     "text": "How to Find the Volume and Surface Area of a Cylinder"
+    },
+    {
+     "level": 2,
+     "text": "Table of Contents"
+    },
+    {
+     "level": 2,
+     "text": "List of parameters"
+    },
+    {
+     "level": 2,
+     "text": "Directions for use"
+    },
+    {
+     "level": 2,
+     "text": "Formulas"
+    },
+    {
+     "level": 3,
+     "text": "Cylinder volume"
+    },
+    {
+     "level": 3,
+     "text": "Lateral surface area"
+    },
+    {
+     "level": 3,
+     "text": "Base surface area (and top surface area)"
+    },
+    {
+     "level": 2,
+     "text": "The total surface area of a cylinder"
+    },
+    {
+     "level": 2,
+     "text": "Calculation algorithms"
+    },
+    {
+     "level": 2,
+     "text": "Real-life applications"
+    },
+    {
+     "level": 3,
+     "text": "Example"
+    }
+   ],
+   "wordCount": 1361,
+   "avgSentenceWords": 30,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "surface area",
+     "weight": 51
+    },
+    {
+     "term": "area",
+     "weight": 44
+    },
+    {
+     "term": "surface",
+     "weight": 36
+    },
+    {
+     "term": "cylinder",
+     "weight": 30
+    },
+    {
+     "term": "volume",
+     "weight": 28
+    },
+    {
+     "term": "calculator",
+     "weight": 19
+    },
+    {
+     "term": "lateral",
+     "weight": 17
+    },
+    {
+     "term": "base",
+     "weight": 17
+    },
+    {
+     "term": "height",
+     "weight": 17
+    },
+    {
+     "term": "lateral surface",
+     "weight": 17
+    },
+    {
+     "term": "calculate",
+     "weight": 16
+    },
+    {
+     "term": "radius",
+     "weight": 15
+    },
+    {
+     "term": "given",
+     "weight": 14
+    },
+    {
+     "term": "total surface",
+     "weight": 14
+    },
+    {
+     "term": "cylinder volume",
+     "weight": 12
+    },
+    {
+     "term": "calculation",
+     "weight": 11
+    },
+    {
+     "term": "ask",
+     "weight": 10
+    },
+    {
+     "term": "formula",
+     "weight": 9
+    },
+    {
+     "term": "top",
+     "weight": 9
+    },
+    {
+     "term": "total",
+     "weight": 9
+    },
+    {
+     "term": "known",
+     "weight": 8
+    },
+    {
+     "term": "volume calculator",
+     "weight": 8
+    },
+    {
+     "term": "instant answers",
+     "weight": 8
+    },
+    {
+     "term": "calculation try",
+     "weight": 8
+    },
+    {
+     "term": "try ask",
+     "weight": 8
+    },
+    {
+     "term": "calculator math",
+     "weight": 8
+    },
+    {
+     "term": "top surface",
+     "weight": 8
+    },
+    {
+     "term": "base surface",
+     "weight": 8
+    },
+    {
+     "term": "base radius",
+     "weight": 8
+    },
+    {
+     "term": "circle",
+     "weight": 7
+    }
+   ],
+   "claims": [
+    "Assuming that π = 3.14, the volume is calculated as follows: V = πr²h = 3.14 × (2)² × 5 = 3.14 × 4 × 5 = 62.8 Answer The cylindrical water tank has a volume of 62.8 m³."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "BreadcrumbList",
+    "WebApplication"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 6,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "Link",
+    "select-one",
+    "select-one",
+    "select-one",
+    "select-one",
+    "select-one",
+    "select-one",
+    "select-one",
+    "select-one",
+    "select-one",
+    "select-one"
+   ],
+   "selectOptionsSample": "m km cm mm mi yd ft in m km cm mm mi yd ft in m km cm mm mi yd ft in m³ km³ cm³ mm³ mi³ yd³ ft³ in³ m km cm mm mi yd ft in m² km² cm² mm² mi² yd² ft² in² m km cm mm mi yd ft in m² km² cm² mm² mi² yd² ft² in² m km cm mm mi yd ft in m³ km³ cm³ mm³ mi³ yd³ ft³ in³",
+   "unitToggle": true,
+   "wordsBeforeTool": 111,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": "2026-07-28T19:01:43+05:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 89,
+    "adNetworks": [
+     "adsense"
+    ],
+    "adSlots": 5,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 57,
+    "external": 1,
+    "contentInternal": 17,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Concrete Calculator Miscellaneous",
+     "Volume Calculator Math",
+     "Cubic Yards Calculator Miscellaneous",
+     "Density Calculator Math",
+     "Area of a Circle Miscellaneous",
+     "Tank Volume Calculator Math",
+     "List of parameters",
+     "Directions for use",
+     "Formulas",
+     "Cylinder volume",
+     "Lateral surface area",
+     "Base surface area (and top surface area)",
+     "The total surface area of a cylinder",
+     "Calculation algorithms",
+     "Real-life applications",
+     "Example"
+    ],
+    "internalSample": [
+     "https://www.calculator.io/ask-ai/",
+     "https://www.calculator.io/concrete-calculator/",
+     "https://www.calculator.io/volume-calculator/",
+     "https://www.calculator.io/cubic-yards-calculator/",
+     "https://www.calculator.io/density-calculator/",
+     "https://www.calculator.io/circle-calculator/",
+     "https://www.calculator.io/tank-volume-calculator/",
+     "https://www.calculator.io/cylinder-volume-calculator/#list-of-parameters-1",
+     "https://www.calculator.io/cylinder-volume-calculator/#directions-for-use-2",
+     "https://www.calculator.io/cylinder-volume-calculator/#formulas-3",
+     "https://www.calculator.io/cylinder-volume-calculator/#cylinder-volume-4",
+     "https://www.calculator.io/cylinder-volume-calculator/#lateral-surface-area-5",
+     "https://www.calculator.io/cylinder-volume-calculator/#base-surface-area-and-top-surface-area-6",
+     "https://www.calculator.io/cylinder-volume-calculator/#the-total-surface-area-of-a-cylinder-7",
+     "https://www.calculator.io/cylinder-volume-calculator/#calculation-algorithms-8",
+     "https://www.calculator.io/cylinder-volume-calculator/#real-life-applications-9",
+     "https://www.calculator.io/cylinder-volume-calculator/#example-10"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/volume-calculator.html": {
+   "url": "https://www.calculator.net/volume-calculator.html",
+   "finalUrl": "https://www.calculator.net/volume-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T09:58:22.994Z",
+   "title": "Volume Calculator",
+   "metaDescription": "This free volume calculator computes the volumes of common shapes, including sphere, cone, cube, cylinder, capsule, cap, conical frustum, ellipsoid, and more.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Volume Calculator"
+   ],
+   "h2": [
+    "Sphere Volume Calculator",
+    "Cone Volume Calculator",
+    "Cube Volume Calculator",
+    "Cylinder Volume Calculator",
+    "Rectangular Tank Volume Calculator",
+    "Capsule Volume Calculator",
+    "Spherical Cap Volume Calculator",
+    "Conical Frustum Volume Calculator",
+    "Ellipsoid Volume Calculator",
+    "Square Pyramid Volume Calculator",
+    "Tube Volume Calculator"
+   ],
+   "h3": [
+    "Sphere",
+    "Cone",
+    "Cube",
+    "Cylinder",
+    "Rectangular Tank",
+    "Capsule",
+    "Spherical Cap",
+    "Conical Frustum",
+    "Ellipsoid",
+    "Square Pyramid",
+    "Tube Pyramid",
+    "Common Volume Units"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Sphere Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Cone Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Cube Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Cylinder Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Rectangular Tank Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Capsule Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Spherical Cap Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Conical Frustum Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Ellipsoid Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Square Pyramid Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tube Volume Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Sphere"
+    },
+    {
+     "level": 3,
+     "text": "Cone"
+    },
+    {
+     "level": 3,
+     "text": "Cube"
+    },
+    {
+     "level": 3,
+     "text": "Cylinder"
+    },
+    {
+     "level": 3,
+     "text": "Rectangular Tank"
+    },
+    {
+     "level": 3,
+     "text": "Capsule"
+    },
+    {
+     "level": 3,
+     "text": "Spherical Cap"
+    },
+    {
+     "level": 3,
+     "text": "Conical Frustum"
+    },
+    {
+     "level": 3,
+     "text": "Ellipsoid"
+    },
+    {
+     "level": 3,
+     "text": "Square Pyramid"
+    },
+    {
+     "level": 3,
+     "text": "Tube Pyramid"
+    },
+    {
+     "level": 3,
+     "text": "Common Volume Units"
+    }
+   ],
+   "wordCount": 2821,
+   "avgSentenceWords": 36,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "volume",
+     "weight": 77
+    },
+    {
+     "term": "height",
+     "weight": 25
+    },
+    {
+     "term": "radius",
+     "weight": 23
+    },
+    {
+     "term": "calculator",
+     "weight": 20
+    },
+    {
+     "term": "cone",
+     "weight": 20
+    },
+    {
+     "term": "volume calculator",
+     "weight": 20
+    },
+    {
+     "term": "sphere",
+     "weight": 18
+    },
+    {
+     "term": "spherical cap",
+     "weight": 15
+    },
+    {
+     "term": "base",
+     "weight": 14
+    },
+    {
+     "term": "spherical",
+     "weight": 14
+    },
+    {
+     "term": "pyramid",
+     "weight": 14
+    },
+    {
+     "term": "has",
+     "weight": 14
+    },
+    {
+     "term": "cylinder",
+     "weight": 13
+    },
+    {
+     "term": "length",
+     "weight": 12
+    },
+    {
+     "term": "three",
+     "weight": 12
+    },
+    {
+     "term": "equation",
+     "weight": 12
+    },
+    {
+     "term": "below volume",
+     "weight": 12
+    },
+    {
+     "term": "ice cream",
+     "weight": 12
+    },
+    {
+     "term": "below",
+     "weight": 11
+    },
+    {
+     "term": "given",
+     "weight": 11
+    },
+    {
+     "term": "three dimensional",
+     "weight": 11
+    },
+    {
+     "term": "cap",
+     "weight": 10
+    },
+    {
+     "term": "diameter",
+     "weight": 10
+    },
+    {
+     "term": "calculated",
+     "weight": 10
+    },
+    {
+     "term": "calculating",
+     "weight": 10
+    },
+    {
+     "term": "ball",
+     "weight": 9
+    },
+    {
+     "term": "square",
+     "weight": 9
+    },
+    {
+     "term": "cubic",
+     "weight": 9
+    },
+    {
+     "term": "follows volume",
+     "weight": 9
+    },
+    {
+     "term": "shapes",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "The SI unit for volume is the cubic meter, or m3.",
+    "She determines that she has a 15% preference for regular sugar cones over waffle cones and needs to determine whether the potential volume of the waffle cone is ≥ 15% more than that of the sugar cone.",
+    "The equation for calculating the volume of a cylinder is shown below: volume = πr2h where r is the radius and h is the height of the tank EX: Caelum wants to build a sandcastle in the living room of his house.",
+    "The equation for calculating the volume of a spherical cap is derived from that of a spherical segment, where the second radius is 0.",
+    "In reference to the spherical cap shown in the calculator: volume = 1 3 πh2(3R - h) Given two values, the calculator provided computes the third value and the volume.",
+    "Calculating the volume of a tube essentially involves the same formula as a cylinder (volume=pr2h), except that in this case, the diameter is used rather than the radius, and length is used rather than height."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 47,
+   "lists": 0,
+   "images": 12,
+   "videos": 0,
+   "calculatorInputs": [
+    "ballradius",
+    "ballradiusunit",
+    "coneradius",
+    "coneradiusunit",
+    "coneheight",
+    "coneheightunit",
+    "cubeedge",
+    "cubeedgeunit",
+    "ctankradius",
+    "ctankradiusunit",
+    "ctanklength",
+    "ctanklengthunit",
+    "rtanklength",
+    "rtanklengthunit",
+    "rtankwidth",
+    "rtankwidthunit",
+    "rtankheight",
+    "rtankheightunit",
+    "rcapsuleradius",
+    "rcapsuleradiusunit",
+    "rcapsuleheight",
+    "rcapsuleheightunit",
+    "ccapbaseradius",
+    "ccapbaseradiusunit",
+    "ccapballradius",
+    "ccapballradiusunit",
+    "ccapheight",
+    "ccapheightunit",
+    "rconicalfrustumtopradius",
+    "rconicalfrustumtopradiusunit",
+    "rconicalfrustumbottomradius",
+    "rconicalfrustumbottomradiusunit",
+    "rconicalfrustumheight",
+    "rconicalfrustumheightunit",
+    "rellipsoidaxis1",
+    "rellipsoidaxis1unit",
+    "rellipsoidaxis2",
+    "rellipsoidaxis2unit",
+    "rellipsoidaxis3",
+    "rellipsoidaxis3unit"
+   ],
+   "selectOptionsSample": "miles yards feet inches kilometers meters centimeters millimeters micrometers nanometers angstroms miles yards feet inches kilometers meters centimeters millimeters micrometers nanometers angstroms miles yards feet inches kilometers meters centimeters millimeters micrometers nanometers angstroms mil",
+   "unitToggle": true,
+   "wordsBeforeTool": 38,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 48,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 19,
+    "external": 0,
+    "contentInternal": 19,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "math",
+     "volume calculator",
+     "Surface Area Calculator",
+     "Area Calculator",
+     "Math Calculators",
+     "Scientific",
+     "Fraction",
+     "Percentage",
+     "Triangle",
+     "Volume",
+     "Standard Deviation",
+     "Random Number Generator",
+     "More Math Calculators",
+     "Financial",
+     "Fitness and Health",
+     "Math",
+     "Other",
+     "about us"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/volume-calculator.html",
+     "https://www.calculator.net/surface-area-calculator.html",
+     "https://www.calculator.net/area-calculator.html",
+     "https://www.calculator.net/scientific-calculator.html",
+     "https://www.calculator.net/fraction-calculator.html",
+     "https://www.calculator.net/percent-calculator.html",
+     "https://www.calculator.net/triangle-calculator.html",
+     "https://www.calculator.net/standard-deviation-calculator.html",
+     "https://www.calculator.net/random-number-generator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/construction/tank.php": {
+   "url": "https://www.calculatorsoup.com/calculators/construction/tank.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/construction/tank.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T09:58:26.086Z",
+   "title": "Tank Volume Calculator",
+   "metaDescription": "Calculate capacity and fill volumes of common tank shapes for water, oil or other liquids. Estimate gallon or liter capacity and fill percentage for 10 different tank shapes. How to calculate tank volume.",
+   "canonical": "https://www.calculatorsoup.com/calculators/construction/tank.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Tank Volume Calculator"
+   ],
+   "h2": [
+    "Horizontal Cylinderwith flat tank heads",
+    "Methods to calculate the volume of tanks and the volume of a liquid inside a tank"
+   ],
+   "h3": [
+    "Horizontal Cylinder Tank",
+    "Vertical Cylinder Tank",
+    "Rectangle Tank",
+    "Horizontal Oval Tank",
+    "Vertical Oval Tank",
+    "Horizontal Capsule Tank",
+    "Vertical Capsule Tank",
+    "Horizontal 2:1 Elliptical",
+    "Horizontal Dish Ends",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Tank Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Horizontal Cylinderwith flat tank heads"
+    },
+    {
+     "level": 2,
+     "text": "Methods to calculate the volume of tanks and the volume of a liquid inside a tank"
+    },
+    {
+     "level": 3,
+     "text": "Horizontal Cylinder Tank"
+    },
+    {
+     "level": 3,
+     "text": "Vertical Cylinder Tank"
+    },
+    {
+     "level": 3,
+     "text": "Rectangle Tank"
+    },
+    {
+     "level": 3,
+     "text": "Horizontal Oval Tank"
+    },
+    {
+     "level": 3,
+     "text": "Vertical Oval Tank"
+    },
+    {
+     "level": 3,
+     "text": "Horizontal Capsule Tank"
+    },
+    {
+     "level": 3,
+     "text": "Vertical Capsule Tank"
+    },
+    {
+     "level": 3,
+     "text": "Horizontal 2:1 Elliptical"
+    },
+    {
+     "level": 3,
+     "text": "Horizontal Dish Ends"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 1274,
+   "avgSentenceWords": 25,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "tank",
+     "weight": 57
+    },
+    {
+     "term": "volume",
+     "weight": 42
+    },
+    {
+     "term": "fill",
+     "weight": 32
+    },
+    {
+     "term": "cylinder",
+     "weight": 21
+    },
+    {
+     "term": "horizontal",
+     "weight": 17
+    },
+    {
+     "term": "tank volume",
+     "weight": 15
+    },
+    {
+     "term": "filled",
+     "weight": 14
+    },
+    {
+     "term": "height",
+     "weight": 14
+    },
+    {
+     "term": "horizontal cylinder",
+     "weight": 14
+    },
+    {
+     "term": "fill volume",
+     "weight": 14
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "filled volume",
+     "weight": 12
+    },
+    {
+     "term": "calculate",
+     "weight": 12
+    },
+    {
+     "term": "oval tank",
+     "weight": 12
+    },
+    {
+     "term": "segment",
+     "weight": 11
+    },
+    {
+     "term": "cylinder tank",
+     "weight": 11
+    },
+    {
+     "term": "calculate fill",
+     "weight": 11
+    },
+    {
+     "term": "therefore",
+     "weight": 9
+    },
+    {
+     "term": "portion",
+     "weight": 9
+    },
+    {
+     "term": "vertical",
+     "weight": 9
+    },
+    {
+     "term": "capsule",
+     "weight": 9
+    },
+    {
+     "term": "diameter",
+     "weight": 8
+    },
+    {
+     "term": "oval",
+     "weight": 8
+    },
+    {
+     "term": "volume calculator",
+     "weight": 8
+    },
+    {
+     "term": "circular segment",
+     "weight": 8
+    },
+    {
+     "term": "spherical cap",
+     "weight": 8
+    },
+    {
+     "term": "length",
+     "weight": 7
+    },
+    {
+     "term": "gallons",
+     "weight": 7
+    },
+    {
+     "term": "cubic",
+     "weight": 7
+    },
+    {
+     "term": "area",
+     "weight": 7
+    }
+   ],
+   "claims": [
+    "Methods to calculate the volume of tanks and the volume of a liquid inside a tank The methods below will give you cubic measures such as ft3 or m3 depending on your units of measure.",
+    "Therefore: V(tank) = πr2l Calculate the filled volume of a horizontal cylinder tank by first finding the area, A, of a circular segment and multiplying it by the length, l.",
+    "Therefore: V(tank) = πr2h The filled volume of a vertical cylinder tank is just a shorter cylinder with the same radius, r, and diameter, d, but height is now the fill height or f.",
+    "Therefore: V(fill) = πr2f Rectangle Tank Total volume of a rectangular prism shaped tank is length times width times height.",
+    "Therefore: V(tank) = (πr2 + 2ra)l Volume of fill of a horizontal oval tank is best calculated if we assume it is 2 halves of a cylinder separated by a rectangular tank.",
+    "We then calculate fill volume of 1) a Horizontal Cylinder Tank where l = l, f = f, and diameter d = h, and 2) a Rectangle Tank where l = l, f = f, and rectangle width w is a = w - h of the oval tank.",
+    "Therefore: V(tank) = (πr2 + 2ra)l To calculate fill volume of a vertical oval tank it is best if we assume it is 2 halves of a cylinder separated by a rectangular tank.",
+    "Fill, f > r and f < (r+a) The filled volume is exactly 1/2 of the cylinder portion plus the volume of fill inside the rectangular portion.",
+    "V(capsule) = πr2((4/3)r + a) To calculate fill volume of a vertical capsule calculate in a fashion similar to the method used for the Vertical Oval Tank where r = d/2 = height of each hemisphere end.",
+    "Fill, f > r and f < (r+a) The filled volume is exactly 1/2 of the sphere portion plus the volume of fill inside the vertical cylinder portion."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 2,
+   "images": 12,
+   "videos": 0,
+   "calculatorInputs": [
+    "Tank Type:",
+    "Length (l) =",
+    "height unit",
+    "Diameter (d) =",
+    "diameter unit",
+    "Filled Depth (f) = select a unit or %",
+    "filled depth unit",
+    "reset"
+   ],
+   "selectOptionsSample": "horizontal cylinder vertical cylinder rectangle horizontal oval vertical oval horizontal capsule vertical capsule horizontal 2:1 elliptical horizontal dish ends horizontal ellipse in ft yd mm cm m in ft yd mm cm m in ft yd mm cm m %",
+   "unitToggle": true,
+   "wordsBeforeTool": 19,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "August 7, 2026",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 69,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 21,
+    "external": 0,
+    "contentInternal": 11,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Construction",
+     "Tank Volume Calculator",
+     "Horizontal Cylinder Image",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Volume Conversion Calculator",
+     "volume of a cylinder",
+     "volume of a rectangular prism",
+     "shape of a stadium",
+     "https://www.calculatorsoup.com/calculators/construction/tank.php",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/construction/",
+     "https://www.calculatorsoup.com/calculators/construction/tank.php",
+     "https://www.calculatorsoup.com/calculators/construction/tank.php#calculationImage",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=construction%2F&folderName=Construction&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/construction/tank.php&h1=Tank+Volume+Calculator&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/conversions/volume.php",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/cylinder.php",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/rectangularprism.php",
+     "https://www.calculatorsoup.com/calculators/geometry-plane/stadium.php"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://online.visual-paradigm.com/tabular/calculator/math/cylinder-volume-calculator/?t=tabular": [
+   "unreachable (fetch failed)"
+  ],
+  "https://online.visual-paradigm.com/spreadsheet-editor/calculator/cylinder-volume-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.gigacalculator.com/calculators/volume-of-cylinder-calculator.php": [
+   "disallowed by robots.txt"
+  ],
+  "https://www.size.ly/calculator/cylinder-volume-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://cuemath.com/calculators/volume-of-cylinder-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://testbook.com/amp/calculators/volume-of-cylinder-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://goodcalculators.com/cylinder-volume-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.cuemath.com/calculators/volume-of-a-cylinder-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://sdt13.abe.msstate.edu/tools/Volume/cylinder.php": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.firgelliauto.com/en-de/blogs/engineering-calculators/cylinder-volume-calculator-tank-pipe-capacity": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.firgelliauto.com/blogs/engineering-calculators/cylinder-volume-calculator-tank-pipe-capacity": [
+   "unreachable (fetch failed)"
+  ],
+  "https://calctool.org/math-and-statistics/cylinder-volume": [
+   "unreachable (fetch failed)"
+  ],
+  "https://ovacen.com/en/calculator/cylinder-volume/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.vcalc.com/wiki/volume-of-cylinder": [
+   "unreachable (fetch failed)"
+  ],
+  "https://mathcheck.net/calculators/cylinder-volume-calculator": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

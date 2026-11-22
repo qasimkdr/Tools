@@ -4729,7 +4729,7 @@
     "www.calculator.net/surface-area-calculator.html"
    ],
    "category": "math",
-   "status": "todo",
+   "status": "live",
    "order": 28,
    "batch": 3
   },
@@ -4770,7 +4770,7 @@
     "www.calculator.net/"
    ],
    "category": "finance",
-   "status": "todo",
+   "status": "live",
    "order": 29,
    "batch": 3
   },
@@ -4836,7 +4836,7 @@
     "www.calculator.net/take-home-pay-calculator.html"
    ],
    "category": "finance",
-   "status": "todo",
+   "status": "live",
    "order": 30,
    "batch": 3
   },
@@ -4884,7 +4884,7 @@
     "www.omnicalculator.com/construction/asphalt"
    ],
    "category": "construction",
-   "status": "todo",
+   "status": "live",
    "order": 31,
    "batch": 4
   },
@@ -4950,7 +4950,7 @@
     "www.omnicalculator.com/other/ap-bio-score"
    ],
    "category": "education",
-   "status": "todo",
+   "status": "live",
    "order": 32,
    "batch": 4
   },

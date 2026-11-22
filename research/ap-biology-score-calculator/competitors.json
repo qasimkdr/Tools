@@ -1,0 +1,345 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/other/ap-bio-score": {
+   "url": "https://www.omnicalculator.com/other/ap-bio-score",
+   "finalUrl": "https://www.omnicalculator.com/other/ap-bio-score",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T09:57:14.880Z",
+   "title": "AP® Bio Score Calculator",
+   "metaDescription": "Estimate your AP® Biology exam score based on the points you earned in each section using our AP® Bio score Calculator.",
+   "canonical": "https://www.omnicalculator.com/other/ap-bio-score",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "AP® Bio Score Calculator"
+   ],
+   "h2": [
+    "What is AP® Biology score?",
+    "AP® Biology score conversion chart​",
+    "AP® Biology score distribution​",
+    "How to use the AP® Bio score calculator",
+    "FAQs"
+   ],
+   "h3": [
+    "How long is the AP® Bio exam​?",
+    "How hard is AP® Biology​?",
+    "Is 4 a good AP® Bio score?",
+    "When does AP® Bio scores come out?",
+    "How do I calculate AP® Bio score?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "AP® Bio Score Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is AP® Biology score?"
+    },
+    {
+     "level": 2,
+     "text": "AP® Biology score conversion chart​"
+    },
+    {
+     "level": 2,
+     "text": "AP® Biology score distribution​"
+    },
+    {
+     "level": 2,
+     "text": "How to use the AP® Bio score calculator"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How long is the AP® Bio exam​?"
+    },
+    {
+     "level": 3,
+     "text": "How hard is AP® Biology​?"
+    },
+    {
+     "level": 3,
+     "text": "Is 4 a good AP® Bio score?"
+    },
+    {
+     "level": 3,
+     "text": "When does AP® Bio scores come out?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate AP® Bio score?"
+    }
+   ],
+   "wordCount": 1025,
+   "avgSentenceWords": 19,
+   "faqs": [
+    "What is AP® Biology score?",
+    "How long is the AP® Bio exam​?",
+    "How hard is AP® Biology​?",
+    "Is 4 a good AP® Bio score?",
+    "When does AP® Bio scores come out?",
+    "How do I calculate AP® Bio score?"
+   ],
+   "faqSchemaCount": 6,
+   "topics": [
+    {
+     "term": "score",
+     "weight": 49
+    },
+    {
+     "term": "bio",
+     "weight": 25
+    },
+    {
+     "term": "bio score",
+     "weight": 24
+    },
+    {
+     "term": "biology",
+     "weight": 19
+    },
+    {
+     "term": "biology score",
+     "weight": 17
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "exam",
+     "weight": 11
+    },
+    {
+     "term": "score calculator",
+     "weight": 11
+    },
+    {
+     "term": "multiple choice",
+     "weight": 9
+    },
+    {
+     "term": "section",
+     "weight": 9
+    },
+    {
+     "term": "college",
+     "weight": 9
+    },
+    {
+     "term": "college board",
+     "weight": 9
+    },
+    {
+     "term": "composite score",
+     "weight": 8
+    },
+    {
+     "term": "free response",
+     "weight": 8
+    },
+    {
+     "term": "response",
+     "weight": 7
+    },
+    {
+     "term": "multiple",
+     "weight": 6
+    },
+    {
+     "term": "choice",
+     "weight": 6
+    },
+    {
+     "term": "analysis",
+     "weight": 6
+    },
+    {
+     "term": "final",
+     "weight": 6
+    },
+    {
+     "term": "estimate",
+     "weight": 6
+    },
+    {
+     "term": "biology exam",
+     "weight": 6
+    },
+    {
+     "term": "points",
+     "weight": 6
+    },
+    {
+     "term": "board",
+     "weight": 6
+    },
+    {
+     "term": "questions",
+     "weight": 6
+    },
+    {
+     "term": "score distribution",
+     "weight": 6
+    },
+    {
+     "term": "composite",
+     "weight": 5
+    },
+    {
+     "term": "grade",
+     "weight": 5
+    },
+    {
+     "term": "year",
+     "weight": 5
+    },
+    {
+     "term": "find",
+     "weight": 5
+    },
+    {
+     "term": "results",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "The score is based on performance in two sections, each contributing 50% of the total score: Multiple-choice section — 60 questions.",
+    "The College Board combines the results to produce the final AP® score, reported on a 1-5 scale.",
+    "Each section contributes 50% to your final score, and you need to scale it to a maximum of 120 points.",
+    "You can apply the following formula: MCQ + FRQ × 60/36 Use the AP® Bio score breakdown table to find the result in the scale from 1 to 5.",
+    "In 2025, the average AP® Bio score was 3.2.",
+    "In previous years, the mean score typically hovered around 2.9, making 2025 a relatively strong year for test-takers.",
+    "For a deeper look at historical trends, the College Board publishes the AP® Biology score distribution every year since 2002.",
+    "The built-in AP® Biology score conversion chart​ finds your composite score and projected final score on the 1-5 scale automatically.",
+    "Yes, a 4 on the AP® Biology score is considered strong.",
+    "The official College Board recommendation is well qualified for this score, since only approximately 40% of students earn a 4 or 5 on the AP® Bio exam."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 5,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Dominik Czernia",
+    "published": "2026-06-03T20:08:35.609Z",
+    "modified": "2026-06-11T15:22:29.547Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 497,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 20,
+    "external": 1,
+    "contentInternal": 4,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "AP® Lang score calculator",
+     "SAT® score calculator",
+     "high school GPA calculator",
+     "what grade was I in year calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/other/ap-lang-score",
+     "https://www.omnicalculator.com/everyday-life/sat-score",
+     "https://www.omnicalculator.com/other/high-school-gpa",
+     "https://www.omnicalculator.com/other/what-grade-was-i-in-year"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://fiveable.me/ap-bio/ap-score-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://fiveable.me/ap-score-calculator/ap-bio": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.albert.io/blog/ap-biology-score-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://tools.odoo.com/ap-bio-score-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.remnote.com/score-calculator/ap-biology": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.collegetransitions.com/blog/ap-bio-score-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://app.fiveable.me/ap-score-calculator/ap-bio": [
+   "unreachable (fetch failed)"
+  ],
+  "https://test-ninjas.com/ap-biology-score-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.producthunt.com/products/ap-biology-score-calculator-2025/reviews": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.revisiondojo.com/blog/ap-biology-score-calculator-predict-your-ap-bio-exam-score-or-revisiondojo": [
+   "unreachable (fetch failed)"
+  ],
+  "https://scholarly.so/tools/ap-biology-score-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://sites.google.com/view/snowdaycaculators/beyond-ap-bio-using-ap-score-calculators-for-strategic-preparation": [
+   "unreachable (fetch failed)"
+  ],
+  "https://totalcalchub.com/us/academic/ap-bio-score-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.revisiondojo.com/blog/ap-biology-score-calculator-how-to-estimate-your-score": [
+   "unreachable (fetch failed)"
+  ],
+  "https://reviewfriendly.com/?p=9135": [
+   "unreachable (fetch failed)"
+  ],
+  "https://admissionsight.com/ap-biology-score-calculator/": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

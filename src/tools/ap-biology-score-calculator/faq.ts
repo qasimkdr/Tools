@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How is the AP Biology exam scored?", a: "The exam has two sections worth 50% each: 60 multiple-choice questions and 6 free-response questions. In 2025, free-response questions 1 and 2 were worth 9 points each and questions 3–6 were worth 4 points each, 34 points in total. Raw scores are combined into a weighted composite, which the College Board converts to a 1–5 score." },
+  { q: "What percentage do you need for a 5 on AP Bio?", a: "The College Board doesn't publish cutoffs, and they shift each year with exam difficulty. Score calculators commonly estimate a 5 at roughly 77–78% of the weighted composite, a 4 at about 62%, and a 3 at about 43%. Treat any cutoff as an estimate." },
+  { q: "Is there a penalty for wrong answers on AP Bio multiple choice?", a: "No. AP exams don't deduct points for wrong answers, so answer every multiple-choice question, even if you have to guess." },
+  { q: "Which is worth more, multiple choice or free response?", a: "Each section is half the score, but there are fewer free-response points. One FRQ point is worth about 1.47% of the exam, while one multiple-choice question is worth about 0.83%. A single long free-response question (9 points) is worth about 13% of your score." },
+  { q: "Is the AP Biology exam digital?", a: "It's hybrid: you answer multiple-choice questions and read the free-response questions in the Bluebook testing app, then handwrite your free-response answers in a paper booklet that's returned for scoring." },
+  { q: "What score do colleges accept for AP Biology?", a: "Many colleges give credit or placement for a 3 or higher, and selective schools often require a 4 or 5. Policies vary by college and sometimes by major, so check each school's AP credit page." },
+];

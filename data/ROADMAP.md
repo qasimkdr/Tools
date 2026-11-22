@@ -31,11 +31,11 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 12 on policy hold).
 | 25 | 3 | live | Square Root Calculator | `square-root-calculator` | math | racine carree calculator | 6600 | 10 | 17200 | 2 |
 | 26 | 3 | live | Fraction Calculator | `fraction-calculator` | math | mixed fraction calculator | 9900 | 18 | 86300 | 1 |
 | 27 | 3 | live | Mortgage Calculator | `mortgage-calculator` | finance | mortgage calculator idaho | 2400 | 14 | 17350 | 1 |
-| 28 | 3 | todo | Cylinder Volume Calculator | `cylinder-volume-calculator` | math | volume calculator cylinder | 1600 | 30 | 1225200 | 1 |
-| 29 | 3 | todo | Overtime Calculator | `overtime-calculator` | finance | overtime calculator | 14800 | 19 | 24700 | 2 |
-| 30 | 3 | todo | Paycheck Calculator | `paycheck-calculator` | finance | hourly wage and tax calculator | 3600 | 1 | 17400 | 4 |
-| 31 | 4 | todo | Asphalt Calculator | `asphalt-calculator` | construction | bitumen calculator | 14800 | 16 | 17400 | 2 |
-| 32 | 4 | todo | AP Biology Score Calculator | `ap-biology-score-calculator` | education | ap bio score calculator | 9900 | 16 | 19200 | 4 |
+| 28 | 3 | live | Cylinder Volume Calculator | `cylinder-volume-calculator` | math | volume calculator cylinder | 1600 | 30 | 1225200 | 1 |
+| 29 | 3 | live | Overtime Calculator | `overtime-calculator` | finance | overtime calculator | 14800 | 19 | 24700 | 2 |
+| 30 | 3 | live | Paycheck Calculator | `paycheck-calculator` | finance | hourly wage and tax calculator | 3600 | 1 | 17400 | 4 |
+| 31 | 4 | live | Asphalt Calculator | `asphalt-calculator` | construction | bitumen calculator | 14800 | 16 | 17400 | 2 |
+| 32 | 4 | live | AP Biology Score Calculator | `ap-biology-score-calculator` | education | ap bio score calculator | 9900 | 16 | 19200 | 4 |
 | 33 | 4 | todo | Bmi Women Calculator | `bmi-women-calculator` | health | women bmi calculator | 5400 | 9 | 5400 | 1 |
 | 34 | 4 | todo | AP Chemistry Score Calculator | `ap-chemistry-score-calculator` | education | ap chemistry score calculator | 4400 | 3 | 13200 | 6 |
 | 35 | 4 | todo | Concrete Calculator | `concrete-calculator` | construction | concrete calculator | 301000 | 40 | 486900 | 1 |

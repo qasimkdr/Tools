@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "What is the formula for the volume of a cylinder?", a: "V = π × r² × h, where r is the radius (half the diameter) and h is the height. Multiply the area of the circular base by the height. A cylinder 4 ft across and 5 ft tall holds π × 2² × 5 ≈ 62.83 cubic feet." },
+  { q: "How do I find the volume if I only know the diameter?", a: "Halve the diameter to get the radius, or use V = π × d² × h ÷ 4. Using the diameter as the radius is the most common mistake and makes the answer four times too big." },
+  { q: "How many gallons are in a cylinder?", a: "Work out the volume in cubic feet and multiply by 7.48052 for US gallons, or calculate in cubic inches and divide by 231. For liters, multiply cubic feet by 28.3168, or divide cubic centimeters by 1,000." },
+  { q: "How do I calculate the volume of a pipe or hollow cylinder?", a: "Subtract the inner cylinder from the outer one: V = π × (R² − r²) × h, where R is the outer radius and r the inner radius. That gives the volume of the material. The inside capacity (what the pipe holds) is π × r² × h." },
+  { q: "How much liquid is in a partly filled tank?", a: "For a standing tank, use the liquid depth as the height: π × r² × depth. For a tank lying on its side, the liquid's cross-section is a circular segment, so the volume isn't proportional to depth. Choose \"Partly filled tank\" and \"Lying (horizontal)\" to calculate it exactly." },
+  { q: "Does the formula work for slanted (oblique) cylinders?", a: "Yes. By Cavalieri's principle, an oblique cylinder has the same volume as a straight one with the same base and perpendicular height. Measure the height straight up, not along the slanted side." },
+];

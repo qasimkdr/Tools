@@ -274,8 +274,9 @@
    "keyword": "volume calculator cylinder",
    "vol": 1600,
    "kd": 30,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "partial",
+   "pages": 2,
+   "updatedAt": "2026-11-22T09:55:39.599Z"
   },
   {
    "id": "date-calculator",
@@ -290,32 +291,36 @@
    "keyword": "overtime calculator",
    "vol": 14800,
    "kd": 19,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "partial",
+   "pages": 3,
+   "updatedAt": "2026-11-22T09:56:38.510Z"
   },
   {
    "id": "paycheck-calculator",
    "keyword": "hourly wage and tax calculator",
    "vol": 3600,
    "kd": 1,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "partial",
+   "pages": 0,
+   "updatedAt": "2026-11-22T09:56:43.827Z"
   },
   {
    "id": "asphalt-calculator",
    "keyword": "bitumen calculator",
    "vol": 14800,
    "kd": 16,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "partial",
+   "pages": 0,
+   "updatedAt": "2026-11-22T09:57:14.286Z"
   },
   {
    "id": "ap-biology-score-calculator",
    "keyword": "ap bio score calculator",
    "vol": 9900,
    "kd": 16,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "partial",
+   "pages": 1,
+   "updatedAt": "2026-11-22T09:58:01.551Z"
   },
   {
    "id": "bmi-women-calculator",

@@ -1,0 +1,1386 @@
+{
+ "pages": {
+  "https://www.inchcalculator.com/overtime-calculator/": {
+   "url": "https://www.inchcalculator.com/overtime-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/overtime-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T09:55:56.633Z",
+   "title": "Overtime Calculator - Inch Calculator",
+   "metaDescription": "Use our overtime calculator to calculate your overtime pay at time and a half, double-time, triple-time, or any other overtime rate.",
+   "canonical": "https://www.inchcalculator.com/overtime-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Overtime Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Overtime Pay Rate",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate Overtime",
+    "Overtime Pay Chart",
+    "How to Calculate Overtime for a Salaried Employee",
+    "Overtime Pay Eligibility – Can Salary Employees Get Overtime?",
+    "How to Get Overtime",
+    "Frequently Asked Questions",
+    "Similar Personal Finance Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Pay Summary:",
+    "How Much is Overtime?",
+    "Overtime Formula",
+    "Exemptions",
+    "How do you get double-time pay?",
+    "Do you get overtime pay on a holiday?",
+    "Are employees paid by the day eligible for overtime?",
+    "Do you get overtime pay for commissions and bonuses?",
+    "Do I need prior authorization to work overtime?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Overtime Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Overtime Pay Rate"
+    },
+    {
+     "level": 3,
+     "text": "Pay Summary:"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Overtime"
+    },
+    {
+     "level": 3,
+     "text": "How Much is Overtime?"
+    },
+    {
+     "level": 3,
+     "text": "Overtime Formula"
+    },
+    {
+     "level": 2,
+     "text": "Overtime Pay Chart"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Overtime for a Salaried Employee"
+    },
+    {
+     "level": 2,
+     "text": "Overtime Pay Eligibility – Can Salary Employees Get Overtime?"
+    },
+    {
+     "level": 3,
+     "text": "Exemptions"
+    },
+    {
+     "level": 2,
+     "text": "How to Get Overtime"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "How do you get double-time pay?"
+    },
+    {
+     "level": 3,
+     "text": "Do you get overtime pay on a holiday?"
+    },
+    {
+     "level": 3,
+     "text": "Are employees paid by the day eligible for overtime?"
+    },
+    {
+     "level": 3,
+     "text": "Do you get overtime pay for commissions and bonuses?"
+    },
+    {
+     "level": 3,
+     "text": "Do I need prior authorization to work overtime?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Personal Finance Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 1998,
+   "avgSentenceWords": 23,
+   "faqs": [
+    "How do you get double-time pay?",
+    "Do you get overtime pay on a holiday?",
+    "Are employees paid by the day eligible for overtime?",
+    "Do you get overtime pay for commissions and bonuses?",
+    "Do I need prior authorization to work overtime?",
+    "How Much is Overtime?",
+    "Overtime Pay Eligibility – Can Salary Employees Get Overtime?"
+   ],
+   "faqSchemaCount": 5,
+   "topics": [
+    {
+     "term": "overtime",
+     "weight": 103
+    },
+    {
+     "term": "pay",
+     "weight": 77
+    },
+    {
+     "term": "overtime pay",
+     "weight": 56
+    },
+    {
+     "term": "work",
+     "weight": 24
+    },
+    {
+     "term": "hours",
+     "weight": 22
+    },
+    {
+     "term": "rate",
+     "weight": 19
+    },
+    {
+     "term": "calculate",
+     "weight": 14
+    },
+    {
+     "term": "pay rate",
+     "weight": 14
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "hourly",
+     "weight": 13
+    },
+    {
+     "term": "employee",
+     "weight": 12
+    },
+    {
+     "term": "employees",
+     "weight": 12
+    },
+    {
+     "term": "week",
+     "weight": 12
+    },
+    {
+     "term": "calculate overtime",
+     "weight": 11
+    },
+    {
+     "term": "worked",
+     "weight": 10
+    },
+    {
+     "term": "normal",
+     "weight": 10
+    },
+    {
+     "term": "standard pay",
+     "weight": 9
+    },
+    {
+     "term": "normal pay",
+     "weight": 9
+    },
+    {
+     "term": "total pay",
+     "weight": 9
+    },
+    {
+     "term": "paid",
+     "weight": 9
+    },
+    {
+     "term": "multiplier",
+     "weight": 8
+    },
+    {
+     "term": "total",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "salaried",
+     "weight": 8
+    },
+    {
+     "term": "salary",
+     "weight": 8
+    },
+    {
+     "term": "eligible",
+     "weight": 8
+    },
+    {
+     "term": "job",
+     "weight": 8
+    },
+    {
+     "term": "exemption",
+     "weight": 8
+    },
+    {
+     "term": "boss",
+     "weight": 8
+    },
+    {
+     "term": "overtime rate",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "Anytime a worker who is eligible for overtime works more than 40 hours per week, they will earn overtime pay.",
+    "Some states, like California, calculate overtime daily, which means that overtime is paid for any hours worked over 8 in a given day.",
+    "Time and a half means the overtime rate is 1.5 times the worker’s normal pay rate.",
+    "In other words, the worker will receive an hourly rate that is 50% higher than their normal rate for each hour of overtime.",
+    "Their normal pay rate is $30 per hour and they will receive overtime pay of time and a half.",
+    "We can now plug these numbers into the overtime formula: overtime pay = $30 × 1.5 × 10 overtime pay = $450 The overtime pay rate is found by multiplying the hourly rate by the overtime multiplier.",
+    "If you are a salaried employee, make more than $684 per week, and are included in one of these exemptions, then you will most likely not be eligible for overtime pay.",
+    "Whether an employee is paid by the day, hour, salary, or on some other basis, overtime pay is still calculated based on the calculated hourly rate and the number of hours worked that exceed 40 in a standard work week.",
+    "Employees that are eligible for overtime pay and work more than 40 hours per week are still entitled to overtime pay compensation."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 5,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "Normal Pay Rate",
+    "Overtime Multiplier",
+    "Multiplier",
+    "Normal Time Worked (optional)",
+    "Overtime Worked (optional)"
+   ],
+   "selectOptionsSample": "time and a half double-time triple-time quadruple-time other",
+   "unitToggle": false,
+   "wordsBeforeTool": 29,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joseph Rich",
+    "published": "2022-07-27",
+    "modified": "2025-09-19T17:46:16+00:00",
+    "authoritativeSources": [
+     "https://www.dol.gov/agencies/whd/overtime",
+     "https://www.dir.ca.gov/dlse/faq_overtime.htm",
+     "https://www.dol.gov/agencies/whd/fact-sheets/17a-overtime",
+     "https://www.commerce.gov/hr/practitioners/compensation-policies/premium-pay/pay-for-holiday-work"
+    ]
+   },
+   "ux": {
+    "htmlKB": 132,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 51,
+    "external": 17,
+    "contentInternal": 27,
+    "contentExternal": 11,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate Overtime",
+     "How Much is Overtime?",
+     "Overtime Formula",
+     "Overtime Pay Chart",
+     "How to Calculate Overtime for a Salaried Employee",
+     "Overtime Pay Eligibility – Can Salary Employees Get Overtime?",
+     "Exemptions",
+     "How to Get Overtime",
+     "Frequently Asked Questions",
+     "References",
+     "Full bio",
+     "Overtime Calculator",
+     "Time and a half",
+     "hours",
+     "salary to hourly calculator",
+     "hourly to salary calculator",
+     "annual income"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/overtime-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/overtime/",
+     "https://www.inchcalculator.com/overtime-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/overtime-calculator/#idx_how_to_calculate_overtime",
+     "https://www.inchcalculator.com/overtime-calculator/#idx_how_much_is_overtime",
+     "https://www.inchcalculator.com/overtime-calculator/#idx_overtime_formula",
+     "https://www.inchcalculator.com/overtime-calculator/#idx_overtime_pay_chart",
+     "https://www.inchcalculator.com/overtime-calculator/#idx_how_to_calculate_overtime_for_a_salaried_employee",
+     "https://www.inchcalculator.com/overtime-calculator/#idx_overtime_pay_eligibility_8211_can_salary_employees_get_overtime",
+     "https://www.inchcalculator.com/overtime-calculator/#idx_exemptions",
+     "https://www.inchcalculator.com/overtime-calculator/#idx_how_to_get_overtime",
+     "https://www.inchcalculator.com/overtime-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/overtime-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/joseph-rich/",
+     "https://www.inchcalculator.com/author/laura-deimling/",
+     "https://www.inchcalculator.com/overtime-calculator/",
+     "https://www.inchcalculator.com/time-and-a-half-calculator/",
+     "https://www.inchcalculator.com/hours-calculator/",
+     "https://www.inchcalculator.com/salary-to-hourly-calculator/",
+     "https://www.inchcalculator.com/hourly-to-salary-calculator/",
+     "https://www.inchcalculator.com/annual-income-calculator/",
+     "https://www.inchcalculator.com/pay-raise-calculator/",
+     "https://www.inchcalculator.com/commission-calculator/",
+     "https://www.inchcalculator.com/fair-bill-split-calculator/",
+     "https://www.inchcalculator.com/split-bill-calculator/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fovertime-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fovertime-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fovertime-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fovertime-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fovertime-calculator%2F&text=Overtime+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fovertime-calculator%2F&text=Overtime+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://www.dol.gov/agencies/whd/overtime",
+     "https://www.dir.ca.gov/dlse/faq_overtime.htm",
+     "https://www.dol.gov/agencies/whd/fact-sheets/17a-overtime",
+     "https://www.commerce.gov/hr/practitioners/compensation-policies/premium-pay/pay-for-holiday-work"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/finance/overtime": {
+   "url": "https://www.omnicalculator.com/finance/overtime",
+   "finalUrl": "https://www.omnicalculator.com/finance/overtime",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T09:56:32.732Z",
+   "title": "Overtime Calculator",
+   "metaDescription": "The overtime calculator determines your wages, including overtime pay.",
+   "canonical": "https://www.omnicalculator.com/finance/overtime",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Overtime Calculator"
+   ],
+   "h2": [
+    "Overtime – formal definition",
+    "Overtime rules",
+    "What is time and a half?",
+    "Formulas for overtime pay",
+    "How to calculate overtime pay?",
+    "Exemptions from overtime pay",
+    "Exempt employees – formal requirements",
+    "Exempt jobs – examples",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I find my overtime pay?",
+    "How do I calculate my monthly overtime pay?",
+    "How much overtime pay would I get by working 10 hours more monthly?",
+    "What does \"exempt status\" mean?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Overtime Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Overtime – formal definition"
+    },
+    {
+     "level": 2,
+     "text": "Overtime rules"
+    },
+    {
+     "level": 2,
+     "text": "What is time and a half?"
+    },
+    {
+     "level": 2,
+     "text": "Formulas for overtime pay"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate overtime pay?"
+    },
+    {
+     "level": 2,
+     "text": "Exemptions from overtime pay"
+    },
+    {
+     "level": 2,
+     "text": "Exempt employees – formal requirements"
+    },
+    {
+     "level": 2,
+     "text": "Exempt jobs – examples"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I find my overtime pay?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate my monthly overtime pay?"
+    },
+    {
+     "level": 3,
+     "text": "How much overtime pay would I get by working 10 hours more monthly?"
+    },
+    {
+     "level": 3,
+     "text": "What does \"exempt status\" mean?"
+    }
+   ],
+   "wordCount": 1785,
+   "avgSentenceWords": 19,
+   "faqs": [
+    "How do I find my overtime pay?",
+    "How do I calculate my monthly overtime pay?",
+    "How much overtime pay would I get by working 10 hours more monthly?",
+    "What does \"exempt status\" mean?",
+    "What is time and a half?",
+    "How to calculate overtime pay?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "overtime",
+     "weight": 75
+    },
+    {
+     "term": "pay",
+     "weight": 49
+    },
+    {
+     "term": "overtime pay",
+     "weight": 35
+    },
+    {
+     "term": "hours",
+     "weight": 31
+    },
+    {
+     "term": "regular",
+     "weight": 20
+    },
+    {
+     "term": "total",
+     "weight": 17
+    },
+    {
+     "term": "exempt",
+     "weight": 17
+    },
+    {
+     "term": "calculate",
+     "weight": 14
+    },
+    {
+     "term": "hourly",
+     "weight": 13
+    },
+    {
+     "term": "work",
+     "weight": 12
+    },
+    {
+     "term": "overtime hours",
+     "weight": 12
+    },
+    {
+     "term": "salary",
+     "weight": 12
+    },
+    {
+     "term": "monthly",
+     "weight": 12
+    },
+    {
+     "term": "calculator",
+     "weight": 11
+    },
+    {
+     "term": "total overtime",
+     "weight": 11
+    },
+    {
+     "term": "multiplier",
+     "weight": 10
+    },
+    {
+     "term": "employee",
+     "weight": 10
+    },
+    {
+     "term": "regular pay",
+     "weight": 9
+    },
+    {
+     "term": "pay multiplier",
+     "weight": 9
+    },
+    {
+     "term": "total pay",
+     "weight": 9
+    },
+    {
+     "term": "month",
+     "weight": 9
+    },
+    {
+     "term": "jobs",
+     "weight": 9
+    },
+    {
+     "term": "working",
+     "weight": 9
+    },
+    {
+     "term": "employees",
+     "weight": 9
+    },
+    {
+     "term": "find",
+     "weight": 9
+    },
+    {
+     "term": "must",
+     "weight": 9
+    },
+    {
+     "term": "rate",
+     "weight": 8
+    },
+    {
+     "term": "overtime calculator",
+     "weight": 8
+    },
+    {
+     "term": "pay overtime",
+     "weight": 8
+    },
+    {
+     "term": "exempt jobs",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "Learn all you need in 90 seconds with this video we made for you: Watch this on YouTube Overtime – formal definition Almost everybody in the working-age population knows and understands what overtime is.",
+    "The most usual rate for overtime hours is time and a half, and that is 50% more than the employee's standard wage.",
+    "It means that for every hour of overtime, you receive an equivalent of 1.5 the regular hourly rate.",
+    "🙋 Calculate this common 1.5× overtime rate directly with our time and a half calculator.",
+    "Multiply the total overtime hours by the answer in 2.",
+    "To calculate the monthly overtime pay, follow these steps: Find your overtime pay multiplier say 1.5.",
+    "The result is the monthly overtime payment: $93.75.",
+    "To find this number: Calculate the product of the overtime monthly hours and the pay multiplier: 10 × 1.5 = 15."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 8,
+   "images": 0,
+   "videos": 1,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Bogna Szyk",
+    "published": "2017-01-19T12:22:53.679Z",
+    "modified": "2026-09-03T17:42:50.330Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 780,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 21,
+    "external": 2,
+    "contentInternal": 5,
+    "contentExternal": 2,
+    "internalAnchors": [
+     "time and a half calculator",
+     "salary to hourly calculator",
+     "investment calculator",
+     "gross to net calculator",
+     "budget calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/finance/time-and-a-half",
+     "https://www.omnicalculator.com/finance/salary-to-hourly",
+     "https://www.omnicalculator.com/finance/investment",
+     "https://www.omnicalculator.com/finance/gross-to-net",
+     "https://www.omnicalculator.com/finance/budget"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com",
+     "https://youtu.be/QbX6kuk4gAk"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.thecalculatorsite.com/finance/calculators/overtime.php": {
+   "url": "https://www.thecalculatorsite.com/finance/calculators/overtime.php",
+   "finalUrl": "https://www.thecalculatorsite.com/finance/calculators/overtime.php",
+   "mode": "offline-parse",
+   "domain": "www.thecalculatorsite.com",
+   "fetchedAt": "2026-11-22T09:56:35.935Z",
+   "title": "Overtime Calculator For Overtime Pay",
+   "metaDescription": "Work out the overtime pay for your additional working hours or holiday work and see how much money you’ve earned",
+   "canonical": "https://www.thecalculatorsite.com/finance/calculators/overtime.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Overtime Calculator"
+   ],
+   "h2": [
+    "What is overtime pay?",
+    "How does overtime pay work?",
+    "Time and a half",
+    "Double time",
+    "Who is entitled to overtime?",
+    "Further reading"
+   ],
+   "h3": [
+    "How to calculate time and a half",
+    "What is overtime for $15 an hour?",
+    "How to calculate double time",
+    "Calculator references"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Overtime Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is overtime pay?"
+    },
+    {
+     "level": 2,
+     "text": "How does overtime pay work?"
+    },
+    {
+     "level": 2,
+     "text": "Time and a half"
+    },
+    {
+     "level": 3,
+     "text": "How to calculate time and a half"
+    },
+    {
+     "level": 3,
+     "text": "What is overtime for $15 an hour?"
+    },
+    {
+     "level": 2,
+     "text": "Double time"
+    },
+    {
+     "level": 3,
+     "text": "How to calculate double time"
+    },
+    {
+     "level": 2,
+     "text": "Who is entitled to overtime?"
+    },
+    {
+     "level": 2,
+     "text": "Further reading"
+    },
+    {
+     "level": 3,
+     "text": "Calculator references"
+    },
+    {
+     "level": 4,
+     "text": "Finance"
+    },
+    {
+     "level": 4,
+     "text": "Home & Garden"
+    },
+    {
+     "level": 4,
+     "text": "Cooking"
+    },
+    {
+     "level": 4,
+     "text": "Website"
+    }
+   ],
+   "wordCount": 1821,
+   "avgSentenceWords": 24,
+   "faqs": [
+    "What is overtime pay?",
+    "How does overtime pay work?",
+    "What is overtime for $15 an hour?",
+    "Who is entitled to overtime?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "calculator",
+     "weight": 59
+    },
+    {
+     "term": "overtime",
+     "weight": 47
+    },
+    {
+     "term": "pay",
+     "weight": 29
+    },
+    {
+     "term": "hours",
+     "weight": 23
+    },
+    {
+     "term": "overtime pay",
+     "weight": 23
+    },
+    {
+     "term": "rate",
+     "weight": 22
+    },
+    {
+     "term": "grams",
+     "weight": 19
+    },
+    {
+     "term": "hourly",
+     "weight": 16
+    },
+    {
+     "term": "half",
+     "weight": 16
+    },
+    {
+     "term": "work",
+     "weight": 15
+    },
+    {
+     "term": "hour",
+     "weight": 14
+    },
+    {
+     "term": "feet",
+     "weight": 12
+    },
+    {
+     "term": "cups",
+     "weight": 11
+    },
+    {
+     "term": "standard",
+     "weight": 10
+    },
+    {
+     "term": "calculators",
+     "weight": 9
+    },
+    {
+     "term": "square",
+     "weight": 9
+    },
+    {
+     "term": "pounds",
+     "weight": 9
+    },
+    {
+     "term": "hourly rate",
+     "weight": 9
+    },
+    {
+     "term": "cubic",
+     "weight": 8
+    },
+    {
+     "term": "double",
+     "weight": 8
+    },
+    {
+     "term": "interest",
+     "weight": 7
+    },
+    {
+     "term": "ounces",
+     "weight": 7
+    },
+    {
+     "term": "weight",
+     "weight": 7
+    },
+    {
+     "term": "extra",
+     "weight": 7
+    },
+    {
+     "term": "finance",
+     "weight": 6
+    },
+    {
+     "term": "compound interest",
+     "weight": 6
+    },
+    {
+     "term": "interest calculator",
+     "weight": 6
+    },
+    {
+     "term": "salary",
+     "weight": 6
+    },
+    {
+     "term": "inches",
+     "weight": 6
+    },
+    {
+     "term": "cubic feet",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Here's the basic idea: If you usually earn $10 per hour, when you work overtime at time and a half, you'll get paid $15 per hour for those extra hours.",
+    "Time and a half You'll often get a \"time and a half\" rate when you work standard overtime, which means your pay rate is 1.5 times your regular hourly wage.",
+    "The standard overtime rate is 1.5 times an employee's regular hourly wage (\"time and a half\").",
+    "This means that if you earn $15 per hour, your time-and-a-half overtime rate will be $22.50 per hour ($15 × 1.5).",
+    "If you earn double time, your overtime rate will be $30 per hour ($15 × 2).",
+    "In essence, employees who work beyond 40 hours in a single week are entitled to overtime pay.",
+    "3 It's advisable to investigate the overtime laws of your specific state.",
+    "Nevertheless, certain states and territories mandate overtime for any day in which an employee works more than 8 hours.",
+    "4 You can see the overtime laws for individual states listed in this handy article from Patriot Software.",
+    "Additionally, Colorado enforces overtime pay if an employee works more than 12 hours in a day, while Oregon offers time and a half for days exceeding 10 hours but exclusively in the manufacturing sector."
+   ],
+   "schemaTypes": [],
+   "schemaFormats": [],
+   "tables": 1,
+   "lists": 29,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "I want to calculate/convert...",
+    "$",
+    "€",
+    "£",
+    "₹",
+    "¥",
+    "currency",
+    "Hourly",
+    "Daily",
+    "Weekly",
+    "Monthly",
+    "Annual",
+    "Standard hourly pay rate:",
+    "Hours worked per standard day:",
+    "Overtime hours:",
+    "overtimeMultiplier1",
+    "overtimeCustomMultiplier1",
+    "Overtime hours (2):",
+    "overtimeMultiplier2",
+    "overtimeCustomMultiplier2",
+    "Standard hours worked:"
+   ],
+   "selectOptionsSample": "time and a half double time (2x) triple time (3x) custom × custom $ 1.5x (std) 2x (double) 3x (triple) custom × custom $",
+   "unitToggle": false,
+   "wordsBeforeTool": 7,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": [
+     "https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/FairLaborStandAct.pdf",
+     "https://www.dol.gov/agencies/whd/overtime",
+     "https://www.gov.uk/overtime-your-rights",
+     "https://www.dol.gov/general/topic/wages/overtimepay",
+     "https://www.dir.ca.gov/dlse/faq_overtime.htm"
+    ]
+   },
+   "ux": {
+    "htmlKB": 316,
+    "adNetworks": [
+     "gpt",
+     "adthrive",
+     "ezoic"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 171,
+    "external": 9,
+    "contentInternal": 171,
+    "contentExternal": 9,
+    "internalAnchors": [
+     "Finance Calculators",
+     "Compound Interest",
+     "Compound Interest (Daily)",
+     "Amortization Calculator",
+     "APY Calculator",
+     "CAGR Calculator",
+     "Car Loan Calculator",
+     "Cash Back Calculator",
+     "Currency Converter",
+     "Forex Compounding",
+     "Future Value Calculator",
+     "How Long to Save",
+     "Interest Rate Calculator",
+     "Investment Calculator",
+     "IRR Calculator",
+     "Loan Calculator",
+     "Loan Payoff Calculator",
+     "Margin Calculator",
+     "Million to Billion Converter",
+     "MMA Calculator"
+    ],
+    "internalSample": [
+     "https://www.thecalculatorsite.com/",
+     "https://www.thecalculatorsite.com/finance/",
+     "https://www.thecalculatorsite.com/finance/calculators/compoundinterestcalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/daily-compound-interest.php",
+     "https://www.thecalculatorsite.com/finance/calculators/amortization-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/apy-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/cagr-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/carloancalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/cash-back.php",
+     "https://www.thecalculatorsite.com/finance/calculators/currencyconverter.php",
+     "https://www.thecalculatorsite.com/finance/calculators/forex-compound-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/future-value-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/how-long-to-save",
+     "https://www.thecalculatorsite.com/finance/calculators/interest-rate-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/investment-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/irr-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/loancalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/loan-payoff-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/margin-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/million-billion",
+     "https://www.thecalculatorsite.com/finance/calculators/money-market-account.php",
+     "https://www.thecalculatorsite.com/finance/calculators/money-counter.php",
+     "https://www.thecalculatorsite.com/finance/calculators/price-per-sqft.php",
+     "https://www.thecalculatorsite.com/finance/calculators/savings-calculators.php",
+     "https://www.thecalculatorsite.com/finance/calculators/savings-goal-calculator.php"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=thecalculatorsite.com",
+     "https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/FairLaborStandAct.pdf",
+     "https://www.patriotsoftware.com/blog/payroll/overtime-laws-by-state/",
+     "https://www.dol.gov/agencies/whd/overtime",
+     "https://www.gov.uk/overtime-your-rights",
+     "https://www.dol.gov/general/topic/wages/overtimepay",
+     "https://legalaidatwork.org/factsheet/exemptions-from-overtime-pay/",
+     "https://www.shrm.org/resourcesandtools/tools-and-samples/hr-qa/pages/whatstatesrequireovertimetobecalculatedonhoursworkedinexcessofeightperdayinsteadoffortyperweek.aspx",
+     "https://www.dir.ca.gov/dlse/faq_overtime.htm"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/financial/gross-pay-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/financial/gross-pay-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/financial/gross-pay-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T09:58:29.684Z",
+   "title": "Gross Pay Calculator",
+   "metaDescription": "Calculate the gross amount of pay based on hours worked and rate of pay including overtime. Summary report for total hours and total pay. Free online gross pay salary calculator plus calculators for exponents, math, fractions, factoring, plane geometry, solid geometry, algebra, finance and more",
+   "canonical": "https://www.calculatorsoup.com/calculators/financial/gross-pay-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Gross Pay Calculator"
+   ],
+   "h2": [
+    "Gross Pay or Salary:"
+   ],
+   "h3": [
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Gross Pay Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Gross Pay or Salary:"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 279,
+   "avgSentenceWords": 28,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "pay",
+     "weight": 18
+    },
+    {
+     "term": "gross pay",
+     "weight": 17
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "gross",
+     "weight": 12
+    },
+    {
+     "term": "pay calculator",
+     "weight": 11
+    },
+    {
+     "term": "rate",
+     "weight": 9
+    },
+    {
+     "term": "calculators",
+     "weight": 7
+    },
+    {
+     "term": "hours",
+     "weight": 6
+    },
+    {
+     "term": "taxes",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators financial",
+     "weight": 5
+    },
+    {
+     "term": "calculator gross",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "financial",
+     "weight": 4
+    },
+    {
+     "term": "money",
+     "weight": 3
+    },
+    {
+     "term": "money pay",
+     "weight": 3
+    },
+    {
+     "term": "pay taxes",
+     "weight": 3
+    },
+    {
+     "term": "rate multiplier",
+     "weight": 3
+    },
+    {
+     "term": "calculation",
+     "weight": 3
+    },
+    {
+     "term": "before taxes",
+     "weight": 3
+    },
+    {
+     "term": "com",
+     "weight": 3
+    },
+    {
+     "term": "com calculators",
+     "weight": 3
+    },
+    {
+     "term": "https www",
+     "weight": 3
+    },
+    {
+     "term": "www calculatorsoup",
+     "weight": 3
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 0,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Hours:",
+    "Rate/Hr: $ hourly rate of pay",
+    "OT Hours:",
+    "OT Rate: OT rate multiplier 1.5 is time and a half",
+    "DT Hours:",
+    "DT Rate: DT rate multiplier 2 is double time",
+    "Round hours to:",
+    "reset"
+   ],
+   "selectOptionsSample": "tenths (x.1) hundredths (x.12) thousandths (x.123)",
+   "unitToggle": false,
+   "wordsBeforeTool": 23,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "August 1, 2025",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 53,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 18,
+    "external": 0,
+    "contentInternal": 8,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Financial",
+     "Money, Pay, Taxes",
+     "Gross Pay Calculator",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "time card calculator",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/financial/",
+     "https://www.calculatorsoup.com/calculators/financial/index-money-pay-taxes-calculators.php",
+     "https://www.calculatorsoup.com/calculators/financial/gross-pay-calculator.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=financial%2F&folderName=Financial&folder2=financial%2Findex-money-pay-taxes-calculators.php&folderName2=Money%2C+Pay%2C+Taxes&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/financial/gross-pay-calculator.php&h1=Gross+Pay+Calculator&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/financial/time-card-calculator.php"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://clockify.me/overtime-pay-calculators": [
+   "unreachable (fetch failed)"
+  ],
+  "https://workforce.com/news/overtime-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.pearson.com/channels/it-IT/calculators/overtime-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.pearson.com/channels/it/calculators/overtime-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://toggl.com/overtime-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://toggl.com/track/overtime-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://omnicalculator.com/finance/overtime": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.zoho.com/people/hr-toolkit/free-calculators/overtime-calculators.html": [
+   "unreachable (fetch failed)"
+  ],
+  "https://resourceguruapp.com/blog/time-management/overtime-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://connecteam.com/free-tools/overtime-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://resourceguruapp.com/blog/?p=7577": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.timecamp.com/resources/oc/overtime-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://everhour.com/calculators/easy-overtime-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://online.visual-paradigm.com/tabular/calculator/finance/overtime-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://everhour.com/calculators/lightweight-overtime-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://wba.omnicalculator.com/finance/overtime": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.aihr.com/?p=265244098": [
+   "unreachable (fetch failed)"
+  ],
+  "https://zap-hosting.com/en/tools/calculators/overtime-calculator": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

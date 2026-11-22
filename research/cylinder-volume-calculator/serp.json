@@ -1,0 +1,353 @@
+{
+ "keywords": {
+  "volume calculator cylinder": {
+   "fetchedAt": "2026-11-22T09:50:57.132Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1600,
+   "fileKd": 30,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 2,
+    "url": "www.calculator.net/volume-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.omnicalculator.com/geometry/cylinder-volume",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.omnicalculator.com/math/cylinder-volume?c=ARS",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://online.visual-paradigm.com/tabular/calculator/math/cylinder-volume-calculator/?t=tabular",
+     "domain": "online.visual-paradigm.com",
+     "title": "Cylinder Volume Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://online.visual-paradigm.com/spreadsheet-editor/calculator/cylinder-volume-calculator/",
+     "domain": "online.visual-paradigm.com",
+     "title": "Cylinder Volume Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.gigacalculator.com/calculators/volume-of-cylinder-calculator.php",
+     "domain": "www.gigacalculator.com",
+     "title": "Cylinder Volume Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.size.ly/calculator/cylinder-volume-calculator",
+     "domain": "www.size.ly",
+     "title": "cylinder volume calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://cuemath.com/calculators/volume-of-cylinder-calculator",
+     "domain": "cuemath.com",
+     "title": "Volume of Cylinder Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://testbook.com/amp/calculators/volume-of-cylinder-calculator",
+     "domain": "testbook.com",
+     "title": "Volume of cylinder calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://goodcalculators.com/cylinder-volume-calculator/",
+     "domain": "goodcalculators.com",
+     "title": "Cylinder Volume Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.cuemath.com/calculators/volume-of-a-cylinder-calculator",
+     "domain": "www.cuemath.com",
+     "title": "Volume of a Cylinder Calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.calculator.io/cylinder-volume-calculator/",
+     "domain": "www.calculator.io",
+     "title": "Miscellaneous Calculators",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.calculator.net/volume-calculator.html%C2%A0",
+     "domain": "www.calculator.net",
+     "title": "Volume Calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://sdt13.abe.msstate.edu/tools/Volume/cylinder.php",
+     "domain": "sdt13.abe.msstate.edu",
+     "title": "Volume Calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://www.firgelliauto.com/en-de/blogs/engineering-calculators/cylinder-volume-calculator-tank-pipe-capacity",
+     "domain": "www.firgelliauto.com",
+     "title": "cylinder volume calculator tank pipe capacity",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://www.firgelliauto.com/blogs/engineering-calculators/cylinder-volume-calculator-tank-pipe-capacity",
+     "domain": "www.firgelliauto.com",
+     "title": "cylinder volume calculator tank pipe capacity",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://calctool.org/math-and-statistics/cylinder-volume",
+     "domain": "calctool.org",
+     "title": "Cylinder Volume Calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://www.zeusnews.it/link/34453",
+     "domain": "www.zeusnews.it",
+     "title": "www.zeusnews.it",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://ovacen.com/en/calculator/cylinder-volume/",
+     "domain": "ovacen.com",
+     "title": "Cylinder volume",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://www.vcalc.com/wiki/volume-of-cylinder",
+     "domain": "www.vcalc.com",
+     "title": "volume of cylinder",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://mathcheck.net/calculators/cylinder-volume-calculator",
+     "domain": "mathcheck.net",
+     "title": "cylinder volume calculator",
+     "description": null
+    }
+   ]
+  },
+  "cylinder volume calculator [restricted to accessible domains]": {
+   "fetchedAt": "2026-11-22T09:54:50.551Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch-restricted",
+   "rankNote": "order within a search limited to accessible domains — not a Google rank, not the open result list",
+   "fileVolume": null,
+   "fileKd": null,
+   "fileIntent": null,
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.calculator.net/volume-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Volume Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.omnicalculator.com/math/cylinder-volume-liters",
+     "domain": "www.omnicalculator.com",
+     "title": "Cylinder Volume Liters Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.calculatorsoup.com/calculators/construction/tank.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Tank Volume Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.omnicalculator.com/math/volume",
+     "domain": "www.omnicalculator.com",
+     "title": "Volume Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.omnicalculator.com/math/cubic-feet-cylinder",
+     "domain": "www.omnicalculator.com",
+     "title": "Cubic Feet of a Cylinder Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.calculator.io/volume-calculator/",
+     "domain": "www.calculator.io",
+     "title": "Volume Calculator: Cone, Sphere, Cube & Cylinder Formulas",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.inchcalculator.com/cylinder-cubic-footage-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Cylinder Cubic Footage Calculator - Inch Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.inchcalculator.com/cylinder-cubic-yardage-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Cylinder Cubic Yardage Calculator - Inch Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.omnicalculator.com/construction/concrete-cylinder",
+     "domain": "www.omnicalculator.com",
+     "title": "Concrete Cylinder Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.omnicalculator.com/construction/tank-volume",
+     "domain": "www.omnicalculator.com",
+     "title": "Tank Volume Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "cylinder-volume-calculator",
+ "page": "cylinder-volume-calculator",
+ "category": "math",
+ "name": "Cylinder Volume Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T09:54:50.552Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 7,
+   "urls": [
+    "https://www.omnicalculator.com/geometry/cylinder-volume",
+    "https://www.omnicalculator.com/math/cylinder-volume?c=ARS",
+    "https://www.omnicalculator.com/math/cylinder-volume-liters",
+    "https://www.omnicalculator.com/math/volume",
+    "https://www.omnicalculator.com/math/cubic-feet-cylinder",
+    "https://www.omnicalculator.com/construction/concrete-cylinder",
+    "https://www.omnicalculator.com/construction/tank-volume"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://www.calculator.net/volume-calculator.html%C2%A0",
+    "https://www.calculator.net/volume-calculator.html"
+   ]
+  },
+  {
+   "domain": "visual-paradigm.com",
+   "bestRank": 3,
+   "keywords": 2,
+   "urls": [
+    "https://online.visual-paradigm.com/tabular/calculator/math/cylinder-volume-calculator/?t=tabular",
+    "https://online.visual-paradigm.com/spreadsheet-editor/calculator/cylinder-volume-calculator/"
+   ]
+  },
+  {
+   "domain": "calculator.io",
+   "bestRank": 6,
+   "keywords": 2,
+   "urls": [
+    "https://www.calculator.io/cylinder-volume-calculator/",
+    "https://www.calculator.io/volume-calculator/"
+   ]
+  },
+  {
+   "domain": "cuemath.com",
+   "bestRank": 7,
+   "keywords": 2,
+   "urls": [
+    "https://cuemath.com/calculators/volume-of-cylinder-calculator",
+    "https://www.cuemath.com/calculators/volume-of-a-cylinder-calculator"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 7,
+   "keywords": 2,
+   "urls": [
+    "https://www.inchcalculator.com/cylinder-cubic-footage-calculator/",
+    "https://www.inchcalculator.com/cylinder-cubic-yardage-calculator/"
+   ]
+  },
+  {
+   "domain": "firgelliauto.com",
+   "bestRank": 14,
+   "keywords": 2,
+   "urls": [
+    "https://www.firgelliauto.com/en-de/blogs/engineering-calculators/cylinder-volume-calculator-tank-pipe-capacity",
+    "https://www.firgelliauto.com/blogs/engineering-calculators/cylinder-volume-calculator-tank-pipe-capacity"
+   ]
+  },
+  {
+   "domain": "calculatorsoup.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculatorsoup.com/calculators/construction/tank.php"
+   ]
+  },
+  {
+   "domain": "gigacalculator.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.gigacalculator.com/calculators/volume-of-cylinder-calculator.php"
+   ]
+  },
+  {
+   "domain": "size.ly",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.size.ly/calculator/cylinder-volume-calculator"
+   ]
+  }
+ ]
+}
