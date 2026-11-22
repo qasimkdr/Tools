@@ -1,0 +1,688 @@
+{
+ "pages": {
+  "https://www.inchcalculator.com/weighted-average-calculator/": {
+   "url": "https://www.inchcalculator.com/weighted-average-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/weighted-average-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T15:58:26.887Z",
+   "title": "Weighted Average Calculator (with Steps to Solve) - Inch Calculator",
+   "metaDescription": "Find a weighted average easily using our calculator, which shows how to calculate a weighted mean using the formula step-by-step.",
+   "canonical": "https://www.inchcalculator.com/weighted-average-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Weighted Average Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Weighted Average",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Find a Weighted Average",
+    "Frequently Asked Questions",
+    "Similar Statistics Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Steps to Find the Weighted Average:",
+    "Weighted Average Formula",
+    "Why would you use a weighted average instead of a mean?",
+    "How do you know when to use a weighted average?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Weighted Average Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Weighted Average"
+    },
+    {
+     "level": 3,
+     "text": "Steps to Find the Weighted Average:"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Find a Weighted Average"
+    },
+    {
+     "level": 3,
+     "text": "Weighted Average Formula"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "Why would you use a weighted average instead of a mean?"
+    },
+    {
+     "level": 3,
+     "text": "How do you know when to use a weighted average?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Statistics Calculators"
+    }
+   ],
+   "wordCount": 824,
+   "avgSentenceWords": 29,
+   "faqs": [
+    "Why would you use a weighted average instead of a mean?",
+    "How do you know when to use a weighted average?"
+   ],
+   "faqSchemaCount": 2,
+   "topics": [
+    {
+     "term": "weighted average",
+     "weight": 30
+    },
+    {
+     "term": "weighted",
+     "weight": 27
+    },
+    {
+     "term": "average",
+     "weight": 25
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "formula",
+     "weight": 11
+    },
+    {
+     "term": "cdot",
+     "weight": 11
+    },
+    {
+     "term": "right left",
+     "weight": 11
+    },
+    {
+     "term": "left",
+     "weight": 10
+    },
+    {
+     "term": "right",
+     "weight": 10
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "average calculator",
+     "weight": 8
+    },
+    {
+     "term": "mean",
+     "weight": 7
+    },
+    {
+     "term": "value",
+     "weight": 7
+    },
+    {
+     "term": "weights",
+     "weight": 6
+    },
+    {
+     "term": "frac",
+     "weight": 6
+    },
+    {
+     "term": "scroll beyond",
+     "weight": 6
+    },
+    {
+     "term": "beyond screen",
+     "weight": 6
+    },
+    {
+     "term": "average formula",
+     "weight": 6
+    },
+    {
+     "term": "gpa",
+     "weight": 6
+    },
+    {
+     "term": "used",
+     "weight": 5
+    },
+    {
+     "term": "class",
+     "weight": 5
+    },
+    {
+     "term": "data set",
+     "weight": 5
+    },
+    {
+     "term": "weighted mean",
+     "weight": 5
+    },
+    {
+     "term": "frac left",
+     "weight": 5
+    },
+    {
+     "term": "weighted averages",
+     "weight": 5
+    },
+    {
+     "term": "gpa frac",
+     "weight": 5
+    },
+    {
+     "term": "calculate",
+     "weight": 4
+    },
+    {
+     "term": "find",
+     "weight": 4
+    },
+    {
+     "term": "scroll",
+     "weight": 4
+    },
+    {
+     "term": "beyond",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "You can also think of the arithmetic mean as a special case of weighted means where the weights are all equal to 1."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 3,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "x1",
+    "w1",
+    "x2",
+    "w2",
+    "x3",
+    "w3",
+    "x4",
+    "w4",
+    "x5",
+    "w5",
+    "x6",
+    "w6",
+    "x7",
+    "w7",
+    "x8",
+    "w8",
+    "x9",
+    "w9",
+    "x10",
+    "w10",
+    "x11",
+    "w11",
+    "x12",
+    "w12",
+    "x13",
+    "w13",
+    "x14",
+    "w14",
+    "x15",
+    "w15",
+    "x16",
+    "w16",
+    "x17",
+    "w17",
+    "x18",
+    "w18",
+    "x19",
+    "w19",
+    "x20",
+    "w20"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 23,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2021-11-15",
+    "modified": "2026-08-04T18:02:54+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 143,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 45,
+    "external": 13,
+    "contentInternal": 21,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "average calculator",
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Find a Weighted Average",
+     "Weighted Average Formula",
+     "Frequently Asked Questions",
+     "Full bio",
+     "Weighted Average Calculator",
+     "average",
+     "arithmetic mean",
+     "class grades",
+     "GPA",
+     "WACC",
+     "calculating stock cost basis",
+     "expected value",
+     "geometric mean",
+     "Expected Value Calculator",
+     "Winning Percentage Calculator",
+     "Standard Error Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/mean-calculator/",
+     "https://www.inchcalculator.com/weighted-average-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/weighted-average/",
+     "https://www.inchcalculator.com/weighted-average-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/weighted-average-calculator/#idx_how_to_find_a_weighted_average",
+     "https://www.inchcalculator.com/weighted-average-calculator/#idx_weighted_average_formula",
+     "https://www.inchcalculator.com/weighted-average-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/brian-libgober/",
+     "https://www.inchcalculator.com/weighted-average-calculator/",
+     "https://www.inchcalculator.com/average-calculator/",
+     "https://www.inchcalculator.com/grade-calculator/",
+     "https://www.inchcalculator.com/gpa-calculator/",
+     "https://www.inchcalculator.com/wacc-calculator/",
+     "https://www.inchcalculator.com/stock-average-calculator/",
+     "https://www.inchcalculator.com/expected-value-calculator/",
+     "https://www.inchcalculator.com/geometric-mean-calculator/",
+     "https://www.inchcalculator.com/winning-percentage-calculator/",
+     "https://www.inchcalculator.com/standard-error-calculator/",
+     "https://www.inchcalculator.com/central-limit-theorem-calculator/",
+     "https://www.inchcalculator.com/statistics-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fweighted-average-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fweighted-average-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fweighted-average-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fweighted-average-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fweighted-average-calculator%2F&text=Weighted+Average+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fweighted-average-calculator%2F&text=Weighted+Average+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/math/weighted-average": {
+   "url": "https://www.omnicalculator.com/math/weighted-average",
+   "finalUrl": "https://www.omnicalculator.com/math/weighted-average",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T15:58:30.115Z",
+   "title": "Weighted Average Calculator",
+   "metaDescription": "The Weighted average calculator helps you find the average when the values are not weighted equally.",
+   "canonical": "https://www.omnicalculator.com/math/weighted-average",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Weighted Average Calculator"
+   ],
+   "h2": [
+    "Let's start from the beginning: what is a weighted average?",
+    "How to calculate a weighted average",
+    "Weighted average formula",
+    "Weighted vs. unweighted GPA for high school",
+    "Different averages: arithmetic, geometric, harmonic",
+    "FAQs"
+   ],
+   "h3": [
+    "How to calculate my weighted average if my course work is worth 40%?",
+    "How do I calculate weighted average?",
+    "How do I calculate the weighted average of my purchases?",
+    "What is the weighted averages of the cost of my stationary?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Weighted Average Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Let's start from the beginning: what is a weighted average?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate a weighted average"
+    },
+    {
+     "level": 2,
+     "text": "Weighted average formula"
+    },
+    {
+     "level": 2,
+     "text": "Weighted vs. unweighted GPA for high school"
+    },
+    {
+     "level": 2,
+     "text": "Different averages: arithmetic, geometric, harmonic"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How to calculate my weighted average if my course work is worth 40%?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate weighted average?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate the weighted average of my purchases?"
+    },
+    {
+     "level": 3,
+     "text": "What is the weighted averages of the cost of my stationary?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 2854,
+   "avgSentenceWords": 29,
+   "faqs": [
+    "How to calculate my weighted average if my course work is worth 40%?",
+    "How do I calculate weighted average?",
+    "How do I calculate the weighted average of my purchases?",
+    "What is the weighted averages of the cost of my stationary?",
+    "Let's start from the beginning: what is a weighted average?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "weighted",
+     "weight": 61
+    },
+    {
+     "term": "weighted average",
+     "weight": 54
+    },
+    {
+     "term": "average",
+     "weight": 50
+    },
+    {
+     "term": "gpa",
+     "weight": 43
+    },
+    {
+     "term": "credits",
+     "weight": 36
+    },
+    {
+     "term": "grade",
+     "weight": 32
+    },
+    {
+     "term": "course",
+     "weight": 28
+    },
+    {
+     "term": "mean",
+     "weight": 22
+    },
+    {
+     "term": "value",
+     "weight": 21
+    },
+    {
+     "term": "courses",
+     "weight": 19
+    },
+    {
+     "term": "high school",
+     "weight": 18
+    },
+    {
+     "term": "grade value",
+     "weight": 18
+    },
+    {
+     "term": "school gpa",
+     "weight": 17
+    },
+    {
+     "term": "calculate",
+     "weight": 16
+    },
+    {
+     "term": "school",
+     "weight": 15
+    },
+    {
+     "term": "course difficulty",
+     "weight": 15
+    },
+    {
+     "term": "course credits",
+     "weight": 14
+    },
+    {
+     "term": "care",
+     "weight": 13
+    },
+    {
+     "term": "values",
+     "weight": 12
+    },
+    {
+     "term": "have",
+     "weight": 12
+    },
+    {
+     "term": "high",
+     "weight": 12
+    },
+    {
+     "term": "weighted gpa",
+     "weight": 12
+    },
+    {
+     "term": "difficulty",
+     "weight": 11
+    },
+    {
+     "term": "arithmetic mean",
+     "weight": 11
+    },
+    {
+     "term": "calculator",
+     "weight": 10
+    },
+    {
+     "term": "number",
+     "weight": 10
+    },
+    {
+     "term": "grades",
+     "weight": 10
+    },
+    {
+     "term": "physics",
+     "weight": 10
+    },
+    {
+     "term": "weight",
+     "weight": 9
+    },
+    {
+     "term": "arithmetic",
+     "weight": 9
+    }
+   ],
+   "claims": [
+    "Weighted Average Calculator Value 1 Weight 1 Value 2 Weight 2 Value 3 Weight 3 Enter some values!",
+    "(4 + 3 + 4 + 2.3) / 4 = 3.33 Notice how the weighted average changed.",
+    "1 b) Unweighted GPA: we DON'T care about course difficulty, but we DO care about credits.",
+    "2 a) Weighted GPA: we DO care about course difficulty and DON'T care about course credits.",
+    "And finally, we have 2 b) Weighted GPA: we DO care about course difficulty and DO care about course credits."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage",
+    "VideoObject",
+    "LearningResource"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 7,
+   "lists": 21,
+   "images": 0,
+   "videos": 1,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Mateusz Mucha",
+    "published": "2016-01-20T14:38:51.863Z",
+    "modified": "2026-03-06T11:48:41.732Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 912,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 27,
+    "external": 2,
+    "contentInternal": 11,
+    "contentExternal": 2,
+    "internalAnchors": [
+     "average calculator",
+     "how to calculate the weighted mean",
+     "Percents and Ratios: How to Convert and Understand the Difference",
+     "A guide to US School Years and Education System",
+     "WACC calculator",
+     "the high school GPA",
+     "the college GPA calculator",
+     "UK to US School Years: School System Equivalences",
+     "geometric mean calculator",
+     "Least Common Multiple Calculator",
+     "Absolute Value Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/math/average",
+     "https://www.omnicalculator.com/math/weighted-average#how-to-calculate-a-weighted-average",
+     "https://www.omnicalculator.com/percents-and-ratios",
+     "https://www.omnicalculator.com/us-school-years",
+     "https://www.omnicalculator.com/finance/wacc",
+     "https://www.omnicalculator.com/other/high-school-gpa",
+     "https://www.omnicalculator.com/other/college-gpa",
+     "https://www.omnicalculator.com/uk-to-us-school-years",
+     "https://www.omnicalculator.com/math/geometric-mean",
+     "https://www.omnicalculator.com/math/least-common-multiple",
+     "https://www.omnicalculator.com/math/absolute-value"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com",
+     "https://youtu.be/omSqOVwNNVY"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.calculatorsoup.com/calculators/math/weighted-average.php": [
+   "HTTP 404"
+  ]
+ }
+}

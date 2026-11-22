@@ -1,0 +1,295 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/other/minecraft-circle": {
+   "url": "https://www.omnicalculator.com/other/minecraft-circle",
+   "finalUrl": "https://www.omnicalculator.com/other/minecraft-circle",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T15:58:00.529Z",
+   "title": "Minecraft Circle Generator",
+   "metaDescription": "The Minecraft circle generator can generate circles for you to build in Minecraft. Allows for circle diameter and thickness.",
+   "canonical": "https://www.omnicalculator.com/other/minecraft-circle",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Minecraft Circle Generator"
+   ],
+   "h2": [
+    "How do I use the Minecraft circle generator?",
+    "How to make a circle in Minecraft? – Minecraft circle guide",
+    "Some Minecraft circle templates: A Minecraft circle chart",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I make a circle in Minecraft?",
+    "How do I make a semicircle in Minecraft?",
+    "How do I make a perfect circle in Minecraft?",
+    "How many pixels is a Minecraft block?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Minecraft Circle Generator"
+    },
+    {
+     "level": 2,
+     "text": "How do I use the Minecraft circle generator?"
+    },
+    {
+     "level": 2,
+     "text": "How to make a circle in Minecraft? – Minecraft circle guide"
+    },
+    {
+     "level": 2,
+     "text": "Some Minecraft circle templates: A Minecraft circle chart"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I make a circle in Minecraft?"
+    },
+    {
+     "level": 3,
+     "text": "How do I make a semicircle in Minecraft?"
+    },
+    {
+     "level": 3,
+     "text": "How do I make a perfect circle in Minecraft?"
+    },
+    {
+     "level": 3,
+     "text": "How many pixels is a Minecraft block?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 944,
+   "avgSentenceWords": 15,
+   "faqs": [
+    "How do I make a circle in Minecraft?",
+    "How do I make a semicircle in Minecraft?",
+    "How do I make a perfect circle in Minecraft?",
+    "How many pixels is a Minecraft block?",
+    "How do I use the Minecraft circle generator?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "minecraft",
+     "weight": 43
+    },
+    {
+     "term": "circle",
+     "weight": 40
+    },
+    {
+     "term": "minecraft circle",
+     "weight": 24
+    },
+    {
+     "term": "make",
+     "weight": 15
+    },
+    {
+     "term": "circle generator",
+     "weight": 14
+    },
+    {
+     "term": "blocks",
+     "weight": 12
+    },
+    {
+     "term": "circles",
+     "weight": 12
+    },
+    {
+     "term": "build",
+     "weight": 10
+    },
+    {
+     "term": "generator",
+     "weight": 9
+    },
+    {
+     "term": "block",
+     "weight": 9
+    },
+    {
+     "term": "pixels",
+     "weight": 8
+    },
+    {
+     "term": "calculator",
+     "weight": 7
+    },
+    {
+     "term": "perfect circle",
+     "weight": 6
+    },
+    {
+     "term": "minecraft block",
+     "weight": 6
+    },
+    {
+     "term": "need",
+     "weight": 5
+    },
+    {
+     "term": "perfect",
+     "weight": 5
+    },
+    {
+     "term": "many",
+     "weight": 5
+    },
+    {
+     "term": "even",
+     "weight": 5
+    },
+    {
+     "term": "circle chart",
+     "weight": 5
+    },
+    {
+     "term": "full circle",
+     "weight": 5
+    },
+    {
+     "term": "has",
+     "weight": 4
+    },
+    {
+     "term": "circle's",
+     "weight": 4
+    },
+    {
+     "term": "pixel",
+     "weight": 4
+    },
+    {
+     "term": "it's",
+     "weight": 4
+    },
+    {
+     "term": "round",
+     "weight": 4
+    },
+    {
+     "term": "look",
+     "weight": 4
+    },
+    {
+     "term": "radii",
+     "weight": 4
+    },
+    {
+     "term": "end portal",
+     "weight": 3
+    },
+    {
+     "term": "portal",
+     "weight": 3
+    },
+    {
+     "term": "circular",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "Minecraft Circle Generator Diameter Thickness You will need 28 blocks to build this circle.",
+    "Below, we've collected templates for Minecraft circles up to a radius of 64 blocks.",
+    "Circles with even radii have 2-by-2 blocks as middles, as their midpoints fall on the vertices of the block boundaries.",
+    "The original Minecraft textures had a resolution of 16×16 pixels, so a Minecraft block has 256 pixels on each of its six sides.",
+    "A single Minecraft block therefore has a total of 1,536 pixels on all its sides.",
+    "Texture packs can have a resolution of up to 512×512, thereby giving each side of a Minecraft block 262,144 pixels and a total of 1,572,864 pixels on all sides."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 5,
+   "images": 6,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Rijk de Wet",
+    "published": "2021-05-30T16:27:37.224Z",
+    "modified": "2026-07-24T09:20:30.999Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 731,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 23,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "End Portal",
+     "stack",
+     "zombies",
+     "circumferences",
+     "Nether portals",
+     "Poker Odds Calculator",
+     "RAID Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/other/end-portal-finder",
+     "https://www.omnicalculator.com/other/minecraft-stack",
+     "https://www.omnicalculator.com/other/zombie-invasion",
+     "https://www.omnicalculator.com/math/circumference",
+     "https://www.omnicalculator.com/other/nether-portal",
+     "https://www.omnicalculator.com/other/poker-odds",
+     "https://www.omnicalculator.com/other/raid"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "article/guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.calculate.co.nz/minecraft-circle-generator.php": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

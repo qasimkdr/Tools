@@ -1,0 +1,252 @@
+{
+ "keywords": {
+  "weighted mean calculator": {
+   "fetchedAt": "2026-11-22T15:57:52.153Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 3600,
+   "fileKd": 11,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.inchcalculator.com/weighted-average-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Weighted Average Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://cuemath.com/calculators/weighted-mean-calculator",
+     "domain": "cuemath.com",
+     "title": "Weighted Mean Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://statisticsbyjim.com/calculators/weighted-average-calculator/",
+     "domain": "statisticsbyjim.com",
+     "title": "• Skip to secondary menu",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://byjus.com/weighted-mean-calculator",
+     "domain": "byjus.com",
+     "title": "Calculates the weighted arithmetic mean",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.gigacalculator.com/calculators/weighted-mean-calculator.php",
+     "domain": "www.gigacalculator.com",
+     "title": "Weighted Average Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.dcode.fr/weighted-mean",
+     "domain": "www.dcode.fr",
+     "title": "weighted mean",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.mycalcbuddy.com/statistics/weighted-mean-calculator",
+     "domain": "www.mycalcbuddy.com",
+     "title": "Weighted Mean Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://dqydj.com/weighted-average-calculator/",
+     "domain": "dqydj.com",
+     "title": "Weighted Average Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.pearson.com/channels/ko-KR/calculators/average-calculator",
+     "domain": "www.pearson.com",
+     "title": "average calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.pearson.com/channels/it-IT/calculators/average-calculator",
+     "domain": "www.pearson.com",
+     "title": "average calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.omnicalculator.com/math/weighted-average",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://brightchamps.com/en-us/math/calculators/weighted-mean-calculator",
+     "domain": "brightchamps.com",
+     "title": "BrightChamps Logo",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://support.minitab.com/en-us/minitab/help-and-how-to/calculations-data-generation-and-matrices/calculator/example-of-calculating-the-weighted-mean-and-the-standard-deviation/",
+     "domain": "support.minitab.com",
+     "title": "Example of using the Calculator to calculate the weighted mean and the standard deviation",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://www.wps.com/blog/weighted-mean-calculator-in-excel-formula-and-sumproduct/",
+     "domain": "www.wps.com",
+     "title": "weighted mean calculator in excel formula and sumproduct",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://ssj4mathgenius.github.io/Introductory-Statistics-OER/2%20Unit%20One%20Content/Calculating%20a%20Weighted%20Mean.html",
+     "domain": "ssj4mathgenius.github.io",
+     "title": "Calculating a Weighted Mean",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://metricgate.com/calculator/weighted-mean",
+     "domain": "metricgate.com",
+     "title": "Weighted Mean Calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://metricgate.com/docs/weighted-mean/",
+     "domain": "metricgate.com",
+     "title": "weighted mean",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://www.rapidtables.com/calc/math/average-calculator.html",
+     "domain": "www.rapidtables.com",
+     "title": "Average Calculator",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://mathcracker.com/weighted-average-calculator",
+     "domain": "mathcracker.com",
+     "title": "Weighted Average Calculator",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://toolsjam.pages.dev/en/statistic/weighted-mean-calculator/",
+     "domain": "toolsjam.pages.dev",
+     "title": "Weighted Mean Calculator - Calculate Weighted Average",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "weighted-mean-calculator",
+ "page": "weighted-mean-calculator",
+ "category": "health",
+ "name": "Weighted Mean Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T15:57:52.153Z",
+ "topCompetitors": [
+  {
+   "domain": "pearson.com",
+   "bestRank": 9,
+   "keywords": 2,
+   "urls": [
+    "https://www.pearson.com/channels/ko-KR/calculators/average-calculator",
+    "https://www.pearson.com/channels/it-IT/calculators/average-calculator"
+   ]
+  },
+  {
+   "domain": "metricgate.com",
+   "bestRank": 16,
+   "keywords": 2,
+   "urls": [
+    "https://metricgate.com/calculator/weighted-mean",
+    "https://metricgate.com/docs/weighted-mean/"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/weighted-average-calculator/"
+   ]
+  },
+  {
+   "domain": "cuemath.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://cuemath.com/calculators/weighted-mean-calculator"
+   ]
+  },
+  {
+   "domain": "statisticsbyjim.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://statisticsbyjim.com/calculators/weighted-average-calculator/"
+   ]
+  },
+  {
+   "domain": "byjus.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://byjus.com/weighted-mean-calculator"
+   ]
+  },
+  {
+   "domain": "gigacalculator.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.gigacalculator.com/calculators/weighted-mean-calculator.php"
+   ]
+  },
+  {
+   "domain": "dcode.fr",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.dcode.fr/weighted-mean"
+   ]
+  },
+  {
+   "domain": "mycalcbuddy.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.mycalcbuddy.com/statistics/weighted-mean-calculator"
+   ]
+  },
+  {
+   "domain": "dqydj.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://dqydj.com/weighted-average-calculator/"
+   ]
+  }
+ ]
+}

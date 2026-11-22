@@ -1,0 +1,262 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/physics/density-altitude": {
+   "url": "https://www.omnicalculator.com/physics/density-altitude",
+   "finalUrl": "https://www.omnicalculator.com/physics/density-altitude",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T15:58:07.243Z",
+   "title": "Density Altitude Calculator",
+   "metaDescription": "The density altitude calculator tells you your effective altitude in terms of the International Standard Atmosphere, which is necessary for determining airplane engine performance and lift.",
+   "canonical": "https://www.omnicalculator.com/physics/density-altitude",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Density Altitude Calculator"
+   ],
+   "h2": [
+    "What is density altitude?",
+    "How to calculate density altitude? - Density altitude formula",
+    "How to use our density altitude calculator?",
+    "Example of finding density altitude"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Density Altitude Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is density altitude?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate density altitude? - Density altitude formula"
+    },
+    {
+     "level": 2,
+     "text": "How to use our density altitude calculator?"
+    },
+    {
+     "level": 2,
+     "text": "Example of finding density altitude"
+    }
+   ],
+   "wordCount": 1544,
+   "avgSentenceWords": 26,
+   "faqs": [
+    "What is density altitude?",
+    "How to use our density altitude calculator?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "density",
+     "weight": 48
+    },
+    {
+     "term": "altitude",
+     "weight": 46
+    },
+    {
+     "term": "density altitude",
+     "weight": 45
+    },
+    {
+     "term": "air",
+     "weight": 42
+    },
+    {
+     "term": "pressure",
+     "weight": 31
+    },
+    {
+     "term": "air density",
+     "weight": 24
+    },
+    {
+     "term": "air pressure",
+     "weight": 21
+    },
+    {
+     "term": "weather",
+     "weight": 15
+    },
+    {
+     "term": "temperature",
+     "weight": 14
+    },
+    {
+     "term": "altitude calculator",
+     "weight": 12
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "altimeter setting",
+     "weight": 12
+    },
+    {
+     "term": "weather station",
+     "weight": 12
+    },
+    {
+     "term": "mbar",
+     "weight": 11
+    },
+    {
+     "term": "air temperature",
+     "weight": 11
+    },
+    {
+     "term": "altimeter",
+     "weight": 10
+    },
+    {
+     "term": "station",
+     "weight": 10
+    },
+    {
+     "term": "relative humidity",
+     "weight": 9
+    },
+    {
+     "term": "water vapor",
+     "weight": 9
+    },
+    {
+     "term": "relative",
+     "weight": 8
+    },
+    {
+     "term": "setting",
+     "weight": 8
+    },
+    {
+     "term": "calculate",
+     "weight": 8
+    },
+    {
+     "term": "weather report",
+     "weight": 8
+    },
+    {
+     "term": "pressure altitude",
+     "weight": 8
+    },
+    {
+     "term": "vapor pressure",
+     "weight": 8
+    },
+    {
+     "term": "humidity",
+     "weight": 7
+    },
+    {
+     "term": "elevation",
+     "weight": 7
+    },
+    {
+     "term": "station elevation",
+     "weight": 6
+    },
+    {
+     "term": "dew point",
+     "weight": 6
+    },
+    {
+     "term": "plane",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Here is an example of one: Density altitude chart (Source: m0a.com) You use this chart in the following manner: Lookup a weather report from the nearest weather station to get the latest altimeter setting."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 4,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": true,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Steven Wooding",
+    "published": "2020-10-22T15:06:43.793Z",
+    "modified": "2026-09-26T08:49:02.335Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 751,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 22,
+    "external": 1,
+    "contentInternal": 6,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "pressure converter",
+     "air pressure at altitude calculator",
+     "true airspeed calculator",
+     "air density calculator",
+     "temperature at altitude calculator",
+     "dew point calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/conversion/pressure-converter",
+     "https://www.omnicalculator.com/physics/air-pressure-at-altitude",
+     "https://www.omnicalculator.com/physics/true-airspeed",
+     "https://www.omnicalculator.com/physics/air-density",
+     "https://www.omnicalculator.com/physics/altitude-temperature",
+     "https://www.omnicalculator.com/physics/dew-point"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.calculate.co.nz/density-altitude-calculator.php": [
+   "unreachable (fetch failed)"
+  ],
+  "https://calctool.org/atmospheric-thermodynamics/density-altitude": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

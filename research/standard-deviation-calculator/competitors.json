@@ -1,0 +1,1307 @@
+{
+ "pages": {
+  "https://www.calculator.net/standard-deviation-calculator.html": {
+   "url": "https://www.calculator.net/standard-deviation-calculator.html",
+   "finalUrl": "https://www.calculator.net/standard-deviation-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T15:58:36.887Z",
+   "title": "Standard Deviation Calculator",
+   "metaDescription": "This free standard deviation calculator computes the standard deviation, variance, mean, sum, and error margin of a given data set.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Standard Deviation Calculator"
+   ],
+   "h2": [],
+   "h3": [
+    "Population Standard Deviation",
+    "Sample Standard Deviation",
+    "Applications of Standard Deviation"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Standard Deviation Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Population Standard Deviation"
+    },
+    {
+     "level": 3,
+     "text": "Sample Standard Deviation"
+    },
+    {
+     "level": 3,
+     "text": "Applications of Standard Deviation"
+    }
+   ],
+   "wordCount": 1151,
+   "avgSentenceWords": 30,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "standard deviation",
+     "weight": 59
+    },
+    {
+     "term": "standard",
+     "weight": 42
+    },
+    {
+     "term": "deviation",
+     "weight": 40
+    },
+    {
+     "term": "sample",
+     "weight": 20
+    },
+    {
+     "term": "population",
+     "weight": 14
+    },
+    {
+     "term": "mean",
+     "weight": 13
+    },
+    {
+     "term": "sample standard",
+     "weight": 12
+    },
+    {
+     "term": "used",
+     "weight": 11
+    },
+    {
+     "term": "population standard",
+     "weight": 9
+    },
+    {
+     "term": "equation",
+     "weight": 9
+    },
+    {
+     "term": "calculator",
+     "weight": 7
+    },
+    {
+     "term": "value",
+     "weight": 7
+    },
+    {
+     "term": "stock",
+     "weight": 7
+    },
+    {
+     "term": "values",
+     "weight": 6
+    },
+    {
+     "term": "data",
+     "weight": 6
+    },
+    {
+     "term": "has",
+     "weight": 6
+    },
+    {
+     "term": "same",
+     "weight": 6
+    },
+    {
+     "term": "math",
+     "weight": 5
+    },
+    {
+     "term": "many",
+     "weight": 5
+    },
+    {
+     "term": "since",
+     "weight": 5
+    },
+    {
+     "term": "have",
+     "weight": 5
+    },
+    {
+     "term": "return",
+     "weight": 5
+    },
+    {
+     "term": "sample size",
+     "weight": 5
+    },
+    {
+     "term": "many different",
+     "weight": 5
+    },
+    {
+     "term": "data set",
+     "weight": 5
+    },
+    {
+     "term": "corrected sample",
+     "weight": 5
+    },
+    {
+     "term": "average return",
+     "weight": 5
+    },
+    {
+     "term": "error",
+     "weight": 4
+    },
+    {
+     "term": "size",
+     "weight": 4
+    },
+    {
+     "term": "set",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "for the data set 1, 3, 4, 7, 8, i=1 would be 1, i=2 would be 3, and so on.",
+    "Hence the summation notation simply means to perform the operation of (xi - μ)2 on each value through N, which in this case is 5 since there are 5 values in this data set.",
+    "The equation is essentially the same excepting the N-1 term in the corrected sample deviation equation, and the use of sample values.",
+    "Imagine two cities, one on the coast and one deep inland, that have the same mean temperature of 75°F."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 4,
+   "lists": 0,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [
+    "numberinputs",
+    "Population",
+    "Sample"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 30,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 13,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 20,
+    "external": 0,
+    "contentInternal": 20,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "math",
+     "standard deviation calculator",
+     "Probability Calculator",
+     "Sample Size Calculator",
+     "Statistics Calculator",
+     "confidence interval",
+     "sample size",
+     "Math Calculators",
+     "Scientific",
+     "Fraction",
+     "Percentage",
+     "Triangle",
+     "Volume",
+     "Standard Deviation",
+     "Random Number Generator",
+     "More Math Calculators",
+     "Financial",
+     "Fitness and Health"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/standard-deviation-calculator.html",
+     "https://www.calculator.net/probability-calculator.html",
+     "https://www.calculator.net/sample-size-calculator.html",
+     "https://www.calculator.net/statistics-calculator.html",
+     "https://www.calculator.net/scientific-calculator.html",
+     "https://www.calculator.net/fraction-calculator.html",
+     "https://www.calculator.net/percent-calculator.html",
+     "https://www.calculator.net/triangle-calculator.html",
+     "https://www.calculator.net/volume-calculator.html",
+     "https://www.calculator.net/random-number-generator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/statistics/standard-deviation-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/statistics/standard-deviation-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/statistics/standard-deviation-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T15:58:39.685Z",
+   "title": "Standard Deviation Calculator",
+   "metaDescription": "Calculates standard deviation and variance for a data set. Calculator finds standard deviation, the measure of data dispersion, and shows the work for the calculation.",
+   "canonical": "https://www.calculatorsoup.com/calculators/statistics/standard-deviation-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Standard Deviation Calculator"
+   ],
+   "h2": [
+    "Standard Deviation Formula",
+    "Statistics Formulas and Calculations Used by This Calculator"
+   ],
+   "h3": [
+    "Sum",
+    "Size, Count",
+    "Mean",
+    "Sum of Squares",
+    "Standard Deviation",
+    "Variance",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Standard Deviation Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Standard Deviation Formula"
+    },
+    {
+     "level": 2,
+     "text": "Statistics Formulas and Calculations Used by This Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Sum"
+    },
+    {
+     "level": 3,
+     "text": "Size, Count"
+    },
+    {
+     "level": 3,
+     "text": "Mean"
+    },
+    {
+     "level": 3,
+     "text": "Sum of Squares"
+    },
+    {
+     "level": 3,
+     "text": "Standard Deviation"
+    },
+    {
+     "level": 3,
+     "text": "Variance"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 897,
+   "avgSentenceWords": 30,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "standard deviation",
+     "weight": 41
+    },
+    {
+     "term": "data",
+     "weight": 28
+    },
+    {
+     "term": "standard",
+     "weight": 27
+    },
+    {
+     "term": "deviation",
+     "weight": 27
+    },
+    {
+     "term": "sum",
+     "weight": 25
+    },
+    {
+     "term": "data set",
+     "weight": 17
+    },
+    {
+     "term": "calculator",
+     "weight": 16
+    },
+    {
+     "term": "mean",
+     "weight": 14
+    },
+    {
+     "term": "deviation calculator",
+     "weight": 14
+    },
+    {
+     "term": "dfrac sum",
+     "weight": 14
+    },
+    {
+     "term": "set",
+     "weight": 13
+    },
+    {
+     "term": "variance",
+     "weight": 13
+    },
+    {
+     "term": "text",
+     "weight": 11
+    },
+    {
+     "term": "sample",
+     "weight": 9
+    },
+    {
+     "term": "population",
+     "weight": 9
+    },
+    {
+     "term": "dfrac",
+     "weight": 9
+    },
+    {
+     "term": "data points",
+     "weight": 9
+    },
+    {
+     "term": "size",
+     "weight": 8
+    },
+    {
+     "term": "squared differences",
+     "weight": 8
+    },
+    {
+     "term": "statistics",
+     "weight": 7
+    },
+    {
+     "term": "bar",
+     "weight": 7
+    },
+    {
+     "term": "formula",
+     "weight": 7
+    },
+    {
+     "term": "calculators",
+     "weight": 6
+    },
+    {
+     "term": "sqrt",
+     "weight": 6
+    },
+    {
+     "term": "points",
+     "weight": 6
+    },
+    {
+     "term": "square root",
+     "weight": 6
+    },
+    {
+     "term": "count",
+     "weight": 5
+    },
+    {
+     "term": "squared",
+     "weight": 5
+    },
+    {
+     "term": "differences",
+     "weight": 5
+    },
+    {
+     "term": "divided",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "The formula for variance (s2) is the sum of the squared differences between each data point and the mean, divided by the number of data points.",
+    "\\[ \\text{Population standard deviation} = \\sqrt {\\sigma^2} \\] Take the square root of the sample variance to get the standard deviation.",
+    "\\[ \\text{Standard deviation of a sample} = \\sqrt {s^2} \\] For additional explanation of standard deviation and how it relates to a bell curve distribution, see Wikipedia's page on Standard Deviation.",
+    "Statistics Formulas and Calculations Used by This Calculator Sum The sum is the total of all data values x1 + x2 + x3 + ...",
+    "\\[ \\text{Size} = n = \\text{count}(x_i)_{i=1}^{n} \\] Mean The mean of a data set is the sum of all of the data divided by the size."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 0,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Enter Data Set",
+    "Sample",
+    "Population",
+    "reset"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 18,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "October 1, 2026",
+    "authoritativeSources": [
+     "https://en.wikipedia.org/wiki/Standard_deviation"
+    ]
+   },
+   "ux": {
+    "htmlKB": 58,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 17,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Statistics",
+     "Standard Deviation Calculator",
+     "Descriptive Statistics Calculator",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/statistics/",
+     "https://www.calculatorsoup.com/calculators/statistics/standard-deviation-calculator.php",
+     "https://www.calculatorsoup.com/calculators/statistics/descriptivestatistics.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=statistics%2F&folderName=Statistics&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/statistics/standard-deviation-calculator.php&h1=Standard+Deviation+Calculator&pop_w=400&pop_h=600"
+    ],
+    "externalSample": [
+     "https://en.wikipedia.org/wiki/Standard_deviation"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/standard-deviation-calculator/": {
+   "url": "https://www.inchcalculator.com/standard-deviation-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/standard-deviation-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T15:58:42.565Z",
+   "title": "Standard Deviation Calculator (with Steps) - Inch Calculator",
+   "metaDescription": "Use our standard deviation calculator to find the SD for a data set. Plus, learn the standard deviation formula and see each step to find it.",
+   "canonical": "https://www.inchcalculator.com/standard-deviation-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Standard Deviation Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results:",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Find the Standard Deviation",
+    "Similar Statistics Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Steps to Solve:",
+    "Steps to Solve:",
+    "Standard Deviation Formula",
+    "Steps to Calculate the Standard Deviation"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Standard Deviation Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results:"
+    },
+    {
+     "level": 3,
+     "text": "Steps to Solve:"
+    },
+    {
+     "level": 4,
+     "text": "Population Standard Deviation Formula"
+    },
+    {
+     "level": 4,
+     "text": "Step One: Find the Mean"
+    },
+    {
+     "level": 4,
+     "text": "Step Two: Find the Deviation From the Mean"
+    },
+    {
+     "level": 4,
+     "text": "Step Three: Square the Deviations"
+    },
+    {
+     "level": 4,
+     "text": "Step Four: Find the Sum of Squares"
+    },
+    {
+     "level": 4,
+     "text": "Step Five: Find the Variance"
+    },
+    {
+     "level": 4,
+     "text": "Step Six: Calculate the Standard Deviation"
+    },
+    {
+     "level": 3,
+     "text": "Steps to Solve:"
+    },
+    {
+     "level": 4,
+     "text": "Sample Standard Deviation Formula"
+    },
+    {
+     "level": 4,
+     "text": "Step One: Find the Mean"
+    },
+    {
+     "level": 4,
+     "text": "Step Two: Find the Deviation From the Mean"
+    },
+    {
+     "level": 4,
+     "text": "Step Three: Square the Deviations"
+    },
+    {
+     "level": 4,
+     "text": "Step Four: Find the Sum of Squares"
+    },
+    {
+     "level": 4,
+     "text": "Step Five: Find the Variance"
+    },
+    {
+     "level": 4,
+     "text": "Step Six: Calculate the Standard Deviation"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Find the Standard Deviation"
+    },
+    {
+     "level": 3,
+     "text": "Standard Deviation Formula"
+    },
+    {
+     "level": 4,
+     "text": "Population Standard Deviation Formula"
+    },
+    {
+     "level": 4,
+     "text": "Sample Standard Deviation Formula"
+    },
+    {
+     "level": 3,
+     "text": "Steps to Calculate the Standard Deviation"
+    },
+    {
+     "level": 4,
+     "text": "Step One: Calculate the Mean"
+    },
+    {
+     "level": 4,
+     "text": "Step Two: Calculate the Deviations From the Mean"
+    },
+    {
+     "level": 4,
+     "text": "Step Three: Square Each Deviation"
+    },
+    {
+     "level": 4,
+     "text": "Step Four: Calculate the Sum of Squares"
+    },
+    {
+     "level": 4,
+     "text": "Step Five: Calculate the Variance"
+    },
+    {
+     "level": 4,
+     "text": "Step Six: Calculate the Standard Deviation"
+    },
+    {
+     "level": 2,
+     "text": "Similar Statistics Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 1949,
+   "avgSentenceWords": 34,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "standard deviation",
+     "weight": 69
+    },
+    {
+     "term": "deviation",
+     "weight": 67
+    },
+    {
+     "term": "standard",
+     "weight": 50
+    },
+    {
+     "term": "sum",
+     "weight": 37
+    },
+    {
+     "term": "mean",
+     "weight": 32
+    },
+    {
+     "term": "sample",
+     "weight": 28
+    },
+    {
+     "term": "variance",
+     "weight": 27
+    },
+    {
+     "term": "step",
+     "weight": 27
+    },
+    {
+     "term": "calculate",
+     "weight": 23
+    },
+    {
+     "term": "find",
+     "weight": 22
+    },
+    {
+     "term": "squares",
+     "weight": 21
+    },
+    {
+     "term": "population",
+     "weight": 20
+    },
+    {
+     "term": "formula",
+     "weight": 17
+    },
+    {
+     "term": "equal",
+     "weight": 17
+    },
+    {
+     "term": "frac",
+     "weight": 16
+    },
+    {
+     "term": "data",
+     "weight": 15
+    },
+    {
+     "term": "size",
+     "weight": 15
+    },
+    {
+     "term": "square",
+     "weight": 14
+    },
+    {
+     "term": "bar",
+     "weight": 13
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "sample size",
+     "weight": 12
+    },
+    {
+     "term": "population size",
+     "weight": 11
+    },
+    {
+     "term": "frac sum",
+     "weight": 11
+    },
+    {
+     "term": "sum left",
+     "weight": 11
+    },
+    {
+     "term": "square root",
+     "weight": 11
+    },
+    {
+     "term": "left",
+     "weight": 10
+    },
+    {
+     "term": "right",
+     "weight": 10
+    },
+    {
+     "term": "divided",
+     "weight": 10
+    },
+    {
+     "term": "deviation formula",
+     "weight": 9
+    },
+    {
+     "term": "sigma",
+     "weight": 9
+    }
+   ],
+   "claims": [
+    "\\mu = \\frac{\\sum_{i=1}^{N}x_{i}}{N} Step Two: Find the Deviation From the Mean The deviation from the mean for each observation is equal to its value minus the mean μ.",
+    "\\text{squared deviation} = \\left ( x_{i}-\\mu \\right )^{2} Step Four: Find the Sum of Squares Add each squared deviation to find the sum of squares.",
+    "\\sigma^{2} = \\frac{SS}{N} Step Six: Calculate the Standard Deviation The standard deviation is equal to the square root of the variance σ².",
+    "\\text{squared deviation} = \\left ( x_{i}-\\bar{x} \\right )^{2} Step Four: Find the Sum of Squares Add each squared deviation to find the sum of squares.",
+    "s^{2} = \\frac{SS}{n-1} Step Six: Calculate the Standard Deviation The standard deviation is equal to the square root of the variance s².",
+    "One thing you might notice that’s different in these formulas is that the standard deviation for a sample divides the sum of squares by n – 1 rather than N.",
+    "\\text{squared deviation} = \\left ( x_{i}-\\bar{x} \\right )^{2} Step Four: Calculate the Sum of Squares The next step is to find the sum of squares.",
+    "SS = \\sum \\left ( x_{i}-\\bar{x} \\right )^{2} The sum of squares SS is equal to the sum of the deviations of each value from the mean, squared.",
+    "s^{2} = \\frac{SS}{n-1} Step Six: Calculate the Standard Deviation Finally, using the variance, you can calculate the standard deviation.",
+    "Standard Deviation for a Population \\sigma = \\sqrt{\\sigma^{2}} Standard Deviation for a Sample s = \\sqrt{s^{2}} Thus, the standard deviation is equal to the square root of the variance."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 4,
+   "lists": 3,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "Number Set",
+    "Number Set"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 35,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2021-10-20",
+    "modified": "2023-12-05T16:22:13+00:00",
+    "authoritativeSources": [
+     "https://www.nlm.nih.gov/nichsr/stats_tutorial/section2/mod8_sd.html",
+     "http://math.oxford.emory.edu/site/math117/besselCorrection/",
+     "https://online.stat.psu.edu/stat200/lesson/2/2.2/2.2.5"
+    ]
+   },
+   "ux": {
+    "htmlKB": 137,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 46,
+    "external": 17,
+    "contentInternal": 22,
+    "contentExternal": 11,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Find the Standard Deviation",
+     "Standard Deviation Formula",
+     "Steps to Calculate the Standard Deviation",
+     "References",
+     "Full bio",
+     "Standard Deviation Calculator",
+     "statistics",
+     "average",
+     "standard error",
+     "coefficient of variation",
+     "distributions of the data",
+     "calculate the variance",
+     "find the mean",
+     "find the sum of squares",
+     "central limit theorem",
+     "Expected Value Calculator",
+     "Winning Percentage Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/standard-deviation-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/standard-deviation/",
+     "https://www.inchcalculator.com/standard-deviation-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/standard-deviation-calculator/#idx_how_to_find_the_standard_deviation",
+     "https://www.inchcalculator.com/standard-deviation-calculator/#idx_standard_deviation_formula",
+     "https://www.inchcalculator.com/standard-deviation-calculator/#idx_steps_to_calculate_the_standard_deviation",
+     "https://www.inchcalculator.com/standard-deviation-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/brian-libgober/",
+     "https://www.inchcalculator.com/standard-deviation-calculator/",
+     "https://www.inchcalculator.com/statistics-calculator/",
+     "https://www.inchcalculator.com/average-calculator/",
+     "https://www.inchcalculator.com/standard-error-calculator/",
+     "https://www.inchcalculator.com/coefficient-of-variation-calculator/",
+     "https://www.inchcalculator.com/normal-distribution-calculator/",
+     "https://www.inchcalculator.com/variance-calculator/",
+     "https://www.inchcalculator.com/mean-calculator/",
+     "https://www.inchcalculator.com/sum-of-squares-calculator/",
+     "https://www.inchcalculator.com/central-limit-theorem-calculator/",
+     "https://www.inchcalculator.com/expected-value-calculator/",
+     "https://www.inchcalculator.com/winning-percentage-calculator/",
+     "https://www.inchcalculator.com/statistics-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fstandard-deviation-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fstandard-deviation-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fstandard-deviation-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fstandard-deviation-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fstandard-deviation-calculator%2F&text=Standard+Deviation+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fstandard-deviation-calculator%2F&text=Standard+Deviation+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://www.nlm.nih.gov/nichsr/stats_tutorial/section2/mod8_sd.html",
+     "https://stats.libretexts.org/Courses/Taft_College/PSYC_2200%3A_Elementary_Statistics_for_Behavioral_and_Social_Sciences_(Oja)/Unit_1%3A_Description/3%3A_Descriptive_Statistics/3.06%3A_Introduction_to_Standard_Deviations_and_Calculations",
+     "http://math.oxford.emory.edu/site/math117/besselCorrection/",
+     "https://online.stat.psu.edu/stat200/lesson/2/2.2/2.2.5"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/statistics/standard-deviation": {
+   "url": "https://www.omnicalculator.com/statistics/standard-deviation",
+   "finalUrl": "https://www.omnicalculator.com/statistics/standard-deviation",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T15:58:45.553Z",
+   "title": "Standard Deviation Calculator",
+   "metaDescription": "The standard deviation calculator tells you the mean and standard deviation of a dataset.",
+   "canonical": "https://www.omnicalculator.com/statistics/standard-deviation",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Standard Deviation Calculator"
+   ],
+   "h2": [
+    "What is standard deviation?",
+    "Standard deviation formula",
+    "Population vs. sample standard deviation formula",
+    "Example calculation",
+    "How to use the standard deviation calculator",
+    "How to find standard deviation by hand?",
+    "Summary of variables and equations"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Standard Deviation Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is standard deviation?"
+    },
+    {
+     "level": 2,
+     "text": "Standard deviation formula"
+    },
+    {
+     "level": 2,
+     "text": "Population vs. sample standard deviation formula"
+    },
+    {
+     "level": 2,
+     "text": "Example calculation"
+    },
+    {
+     "level": 2,
+     "text": "How to use the standard deviation calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to find standard deviation by hand?"
+    },
+    {
+     "level": 2,
+     "text": "Summary of variables and equations"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1490,
+   "avgSentenceWords": 22,
+   "faqs": [
+    "What is standard deviation?",
+    "Did you know?",
+    "How to find standard deviation by hand?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "standard deviation",
+     "weight": 74
+    },
+    {
+     "term": "deviation",
+     "weight": 50
+    },
+    {
+     "term": "standard",
+     "weight": 49
+    },
+    {
+     "term": "variance",
+     "weight": 29
+    },
+    {
+     "term": "data",
+     "weight": 24
+    },
+    {
+     "term": "sample",
+     "weight": 22
+    },
+    {
+     "term": "calculator",
+     "weight": 20
+    },
+    {
+     "term": "mean",
+     "weight": 19
+    },
+    {
+     "term": "population",
+     "weight": 14
+    },
+    {
+     "term": "deviation calculator",
+     "weight": 14
+    },
+    {
+     "term": "calculate",
+     "weight": 13
+    },
+    {
+     "term": "dataset",
+     "weight": 12
+    },
+    {
+     "term": "formula",
+     "weight": 11
+    },
+    {
+     "term": "sample data",
+     "weight": 9
+    },
+    {
+     "term": "data points",
+     "weight": 8
+    },
+    {
+     "term": "square root",
+     "weight": 8
+    },
+    {
+     "term": "calculate variance",
+     "weight": 8
+    },
+    {
+     "term": "sample variance",
+     "weight": 8
+    },
+    {
+     "term": "check",
+     "weight": 7
+    },
+    {
+     "term": "find",
+     "weight": 7
+    },
+    {
+     "term": "statistics",
+     "weight": 6
+    },
+    {
+     "term": "square",
+     "weight": 6
+    },
+    {
+     "term": "squared",
+     "weight": 6
+    },
+    {
+     "term": "squared differences",
+     "weight": 6
+    },
+    {
+     "term": "step",
+     "weight": 6
+    },
+    {
+     "term": "population data",
+     "weight": 6
+    },
+    {
+     "term": "steps",
+     "weight": 5
+    },
+    {
+     "term": "points",
+     "weight": 5
+    },
+    {
+     "term": "know",
+     "weight": 5
+    },
+    {
+     "term": "root",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Standard Deviation Calculator x1 x2 You need at least two observations for sample data.",
+    "The empirical rule states that for any dataset which approximates a normal distribution, about 68% of the data will fall within one standard deviation from the mean, shown in the figure below.",
+    "It is written as: 𝜎 2 = 1 𝑁 ∑ 𝑖 𝑁 ( 𝑥 𝑖 − 𝜇 ) 2 σ2=N1​i∑N​(xi​−μ)2 where: 𝜎 2 σ2 - Variance; 𝜇 μ - Mean; and 𝑥 𝑖 xi​ - The ith data point out of 𝑁 N total data points.",
+    "To avoid underestimating the variance of a population (and consequently, the standard deviation), we replace 𝑁 N with 𝑁 − 1 N−1 in the formulas for variance and standard deviation, when sample data is used.",
+    "Calculate the mean To calculate the mean (x̄), divide the sum of all numbers by the number of data points: 𝑥 ˉ = 2 + 4 + 5 + 6 + 6 + 9 + 10 7 = 6 xˉ=72+4+5+6+6+9+10​=6.",
+    "Calculate the squared differences from the mean Now that we know the mean (x̄ = 6), we will calculate the squared difference from the mean for each data point: ( 𝑥 𝑖 − 𝑥 ˉ ) 2 (xi​−xˉ)2.",
+    "The calculated squared differences from the mean for all data points are shown in the table below: xi (xi - x̄)2 2 16 4 4 5 1 6 0 6 0 9 9 10 16 3.",
+    "The standard deviation (s) is the square root of the variance, so our final step is: 𝑠 = 7.6667 = 2.7689 s=7.6667​=2.7689.",
+    "The standard deviation of the sample dataset was 2.8.",
+    "The standard deviation would then be the square root of the variance: 4.9167 ≈ 2.2 4.9167​≈2.2 Try it yourself, then check your answer with our standard deviation calculator!"
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 3,
+   "lists": 7,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Steps to show"
+   ],
+   "selectOptionsSample": "select all steps summary",
+   "unitToggle": false,
+   "wordsBeforeTool": 21,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Jasmine J Mah",
+    "published": "2020-01-02T01:17:50.464Z",
+    "modified": "2026-05-22T15:08:58.184Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 982,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 30,
+    "external": 1,
+    "contentInternal": 14,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Statistics for Experiments",
+     "Sampling and Confidence Intervals for Biology and Medicine",
+     "grouped data standard deviation calculator",
+     "empirical rule",
+     "relative standard deviation calculator",
+     "confidence interval calculator",
+     "Confidence Interval vs. Standard Deviation",
+     "how to calculate variance",
+     "Variance vs. Standard Deviation: Understanding the Difference",
+     "dispersion",
+     "Sum of Squares Calculator",
+     "Midrange Calculator",
+     "Coefficient of Variation Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/statistics-for-experiments",
+     "https://www.omnicalculator.com/sampling-confidence-interval-bio-med",
+     "https://www.omnicalculator.com/statistics-prompt-library",
+     "https://www.omnicalculator.com/statistics/grouped-data-standard-deviation",
+     "https://www.omnicalculator.com/statistics/empirical-rule",
+     "https://www.omnicalculator.com/statistics/relative-standard-deviation",
+     "https://www.omnicalculator.com/statistics/confidence-interval",
+     "https://www.omnicalculator.com/confidence-interval-vs-standard-deviation",
+     "https://www.omnicalculator.com/statistics/variance",
+     "https://www.omnicalculator.com/variance-vs-standard-deviation",
+     "https://www.omnicalculator.com/statistics/dispersion",
+     "https://www.omnicalculator.com/statistics/sum-of-squares",
+     "https://www.omnicalculator.com/statistics/midrange",
+     "https://www.omnicalculator.com/statistics/coefficient-of-variation"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

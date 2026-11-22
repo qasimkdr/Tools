@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "What is density altitude?", a: "Density altitude is the altitude in the standard atmosphere that has the same air density as the air where you are. Aircraft wings, engines and propellers perform as if they were at the density altitude, not at the field's actual elevation." },
+  { q: "How do you calculate density altitude?", a: "First find pressure altitude: field elevation + 1,000 × (29.92 − altimeter setting). Then correct for temperature: density altitude ≈ pressure altitude + 120 × (OAT − ISA temperature), where ISA temperature = 15 °C − 2 °C per 1,000 ft of pressure altitude. This calculator also uses the National Weather Service formula, which includes humidity." },
+  { q: "What is pressure altitude?", a: "Pressure altitude is the altitude shown on the altimeter when it is set to the standard pressure of 29.92 inHg (1013.25 hPa). It corrects the field elevation for non-standard pressure." },
+  { q: "Does humidity affect density altitude?", a: "Yes. Water vapor is lighter than dry air, so humid air is less dense and raises density altitude. The effect is usually a few hundred feet at most; temperature has a much bigger effect." },
+  { q: "Why is high density altitude dangerous?", a: "Thinner air means the engine makes less power, the propeller produces less thrust and the wings need a higher true airspeed to fly. Takeoff rolls get longer and climb rates drop, which matters most on hot days at high, short airfields." },
+  { q: "What is the standard (ISA) temperature?", a: "The International Standard Atmosphere is 15 °C (59 °F) at sea level with a pressure of 29.92 inHg, and temperature falls by about 2 °C for every 1,000 ft of altitude." },
+];

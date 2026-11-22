@@ -1,0 +1,1054 @@
+{
+ "pages": {
+  "https://www.calculator.net/height-calculator.html": {
+   "url": "https://www.calculator.net/height-calculator.html",
+   "finalUrl": "https://www.calculator.net/height-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T15:58:16.079Z",
+   "title": "Height Calculator",
+   "metaDescription": "This free height calculator predicts a child's adult height based on linear regression analysis. It can also convert between different units of height.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Height Calculator"
+   ],
+   "h2": [
+    "Predicting Based on the Parents' Heights Only",
+    "Height Converter"
+   ],
+   "h3": [
+    "How tall will I be?",
+    "Predicting a child's adult height",
+    "How to get taller?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Height Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Predicting Based on the Parents' Heights Only"
+    },
+    {
+     "level": 2,
+     "text": "Height Converter"
+    },
+    {
+     "level": 3,
+     "text": "How tall will I be?"
+    },
+    {
+     "level": 3,
+     "text": "Predicting a child's adult height"
+    },
+    {
+     "level": 3,
+     "text": "How to get taller?"
+    }
+   ],
+   "wordCount": 1325,
+   "avgSentenceWords": 23,
+   "faqs": [
+    "How tall will I be?",
+    "How to get taller?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "height",
+     "weight": 46
+    },
+    {
+     "term": "growth",
+     "weight": 19
+    },
+    {
+     "term": "age",
+     "weight": 18
+    },
+    {
+     "term": "child",
+     "weight": 18
+    },
+    {
+     "term": "method",
+     "weight": 12
+    },
+    {
+     "term": "child's",
+     "weight": 12
+    },
+    {
+     "term": "bone age",
+     "weight": 12
+    },
+    {
+     "term": "based",
+     "weight": 9
+    },
+    {
+     "term": "feet inches",
+     "weight": 9
+    },
+    {
+     "term": "inches",
+     "weight": 8
+    },
+    {
+     "term": "bone",
+     "weight": 8
+    },
+    {
+     "term": "adult height",
+     "weight": 8
+    },
+    {
+     "term": "height feet",
+     "weight": 8
+    },
+    {
+     "term": "calculator",
+     "weight": 7
+    },
+    {
+     "term": "used",
+     "weight": 7
+    },
+    {
+     "term": "children",
+     "weight": 7
+    },
+    {
+     "term": "affect",
+     "weight": 7
+    },
+    {
+     "term": "adult",
+     "weight": 6
+    },
+    {
+     "term": "units",
+     "weight": 6
+    },
+    {
+     "term": "child's height",
+     "weight": 6
+    },
+    {
+     "term": "feet",
+     "weight": 6
+    },
+    {
+     "term": "mother's height",
+     "weight": 6
+    },
+    {
+     "term": "father's height",
+     "weight": 6
+    },
+    {
+     "term": "unit",
+     "weight": 6
+    },
+    {
+     "term": "parents",
+     "weight": 6
+    },
+    {
+     "term": "likely",
+     "weight": 6
+    },
+    {
+     "term": "average",
+     "weight": 6
+    },
+    {
+     "term": "health",
+     "weight": 6
+    },
+    {
+     "term": "methods",
+     "weight": 6
+    },
+    {
+     "term": "growth charts",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "One of them is adding 2.5 inches (7.6 cm) to the average of the parent's height for a boy and subtracting 2.5 inches (7.6 cm) for a girl.",
+    "Another simple method is to double the height achieved by the child by age 2 for a boy, or age 18 months for a girl.",
+    "Height, for better or for worse, is largely (60-80%) determined by genetics."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 17,
+   "lists": 4,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "cage",
+    "male",
+    "female",
+    "cheightfeet",
+    "cheightinch",
+    "cpound",
+    "mcheightfeet",
+    "mcheightinch",
+    "fcheightfeet",
+    "fcheightinch",
+    "cheightmeter",
+    "ckg",
+    "mcheightmeter",
+    "fcheightmeter",
+    "mcheightfeet2",
+    "mcheightinch2",
+    "fcheightfeet2",
+    "fcheightinch2",
+    "mcheightmeter2",
+    "fcheightmeter2",
+    "convertfeet",
+    "convertinch",
+    "convertcm"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": true,
+   "wordsBeforeTool": 36,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": [
+     "https://www.cdc.gov/GrowthCharts/"
+    ]
+   },
+   "ux": {
+    "htmlKB": 25,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 24,
+    "external": 1,
+    "contentInternal": 24,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "other",
+     "height calculator",
+     "US units",
+     "metric units",
+     "other units",
+     "Other Calculators",
+     "Age",
+     "Date",
+     "Time",
+     "Hours",
+     "GPA",
+     "Grade",
+     "Height",
+     "Concrete",
+     "IP Subnet",
+     "Bra Size",
+     "Password Generator",
+     "Dice Roller"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/height-calculator.html",
+     "https://www.calculator.net/height-calculator.html#",
+     "https://www.calculator.net/age-calculator.html",
+     "https://www.calculator.net/date-calculator.html",
+     "https://www.calculator.net/time-calculator.html",
+     "https://www.calculator.net/hours-calculator.html",
+     "https://www.calculator.net/gpa-calculator.html",
+     "https://www.calculator.net/grade-calculator.html",
+     "https://www.calculator.net/concrete-calculator.html",
+     "https://www.calculator.net/ip-subnet-calculator.html",
+     "https://www.calculator.net/bra-size-calculator.html",
+     "https://www.calculator.net/password-generator.html",
+     "https://www.calculator.net/dice-roller.html",
+     "https://www.calculator.net/conversion-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": [
+     "https://www.cdc.gov/GrowthCharts/"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/health/height": {
+   "url": "https://www.omnicalculator.com/health/height",
+   "finalUrl": "https://www.omnicalculator.com/health/height",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T15:58:19.611Z",
+   "title": "Height Calculator - Height Predictor",
+   "metaDescription": "This height calculator predicts a child's adult height through two distinct methods: the Khamis-Roche formula and the Mid-Parental Height formula.",
+   "canonical": "https://www.omnicalculator.com/health/height",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Height Calculator"
+   ],
+   "h2": [
+    "What does a child's height depend on?",
+    "Height – the genetics behind a human appearance",
+    "How tall will I be? – how to calculate a child's height",
+    "The Khamis-Roche child height predictor",
+    "The mid-parental child height calculator and formula",
+    "Bone age – skeletal maturity prediction",
+    "Growth charts",
+    "When do girls stop growing? – average female height",
+    "When do boys stop growing? – average male height",
+    "How to get taller?",
+    "FAQs"
+   ],
+   "h3": [
+    "Can identical twins be different heights?",
+    "How can I increase my height?",
+    "What is the average height for a 12 year old?",
+    "What is the average height for a 13 year old?",
+    "When do girls stop growing?",
+    "How do you measure height?",
+    "Is height genetic?",
+    "At what age do boys stop growing?",
+    "What is the average height for a 14 year old?",
+    "What is the average height for a 10 year old?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Height Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What does a child's height depend on?"
+    },
+    {
+     "level": 2,
+     "text": "Height – the genetics behind a human appearance"
+    },
+    {
+     "level": 2,
+     "text": "How tall will I be? – how to calculate a child's height"
+    },
+    {
+     "level": 2,
+     "text": "The Khamis-Roche child height predictor"
+    },
+    {
+     "level": 2,
+     "text": "The mid-parental child height calculator and formula"
+    },
+    {
+     "level": 2,
+     "text": "Bone age – skeletal maturity prediction"
+    },
+    {
+     "level": 2,
+     "text": "Growth charts"
+    },
+    {
+     "level": 2,
+     "text": "When do girls stop growing? – average female height"
+    },
+    {
+     "level": 2,
+     "text": "When do boys stop growing? – average male height"
+    },
+    {
+     "level": 2,
+     "text": "How to get taller?"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "Can identical twins be different heights?"
+    },
+    {
+     "level": 3,
+     "text": "How can I increase my height?"
+    },
+    {
+     "level": 3,
+     "text": "What is the average height for a 12 year old?"
+    },
+    {
+     "level": 3,
+     "text": "What is the average height for a 13 year old?"
+    },
+    {
+     "level": 3,
+     "text": "When do girls stop growing?"
+    },
+    {
+     "level": 3,
+     "text": "How do you measure height?"
+    },
+    {
+     "level": 3,
+     "text": "Is height genetic?"
+    },
+    {
+     "level": 3,
+     "text": "At what age do boys stop growing?"
+    },
+    {
+     "level": 3,
+     "text": "What is the average height for a 14 year old?"
+    },
+    {
+     "level": 3,
+     "text": "What is the average height for a 10 year old?"
+    }
+   ],
+   "wordCount": 2905,
+   "avgSentenceWords": 18,
+   "faqs": [
+    "Can identical twins be different heights?",
+    "How can I increase my height?",
+    "What is the average height for a 12 year old?",
+    "What is the average height for a 13 year old?",
+    "When do girls stop growing?",
+    "How do you measure height?",
+    "Is height genetic?",
+    "At what age do boys stop growing?",
+    "What is the average height for a 14 year old?",
+    "What is the average height for a 10 year old?",
+    "What does a child's height depend on?",
+    "How to get taller?",
+    "is it possible to increase height after puberty at all?"
+   ],
+   "faqSchemaCount": 10,
+   "topics": [
+    {
+     "term": "height",
+     "weight": 94
+    },
+    {
+     "term": "growth",
+     "weight": 29
+    },
+    {
+     "term": "age",
+     "weight": 25
+    },
+    {
+     "term": "child",
+     "weight": 23
+    },
+    {
+     "term": "child's",
+     "weight": 22
+    },
+    {
+     "term": "average",
+     "weight": 19
+    },
+    {
+     "term": "average height",
+     "weight": 17
+    },
+    {
+     "term": "years",
+     "weight": 16
+    },
+    {
+     "term": "year old",
+     "weight": 15
+    },
+    {
+     "term": "old",
+     "weight": 14
+    },
+    {
+     "term": "child's height",
+     "weight": 14
+    },
+    {
+     "term": "boys",
+     "weight": 13
+    },
+    {
+     "term": "growing",
+     "weight": 13
+    },
+    {
+     "term": "puberty",
+     "weight": 13
+    },
+    {
+     "term": "child height",
+     "weight": 12
+    },
+    {
+     "term": "stop growing",
+     "weight": 12
+    },
+    {
+     "term": "taller",
+     "weight": 12
+    },
+    {
+     "term": "calculator",
+     "weight": 11
+    },
+    {
+     "term": "bone",
+     "weight": 11
+    },
+    {
+     "term": "mid parental",
+     "weight": 11
+    },
+    {
+     "term": "bone age",
+     "weight": 11
+    },
+    {
+     "term": "children",
+     "weight": 10
+    },
+    {
+     "term": "girls",
+     "weight": 10
+    },
+    {
+     "term": "year",
+     "weight": 10
+    },
+    {
+     "term": "have",
+     "weight": 8
+    },
+    {
+     "term": "stop",
+     "weight": 8
+    },
+    {
+     "term": "while",
+     "weight": 8
+    },
+    {
+     "term": "genetics",
+     "weight": 8
+    },
+    {
+     "term": "around",
+     "weight": 8
+    },
+    {
+     "term": "heritability",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "The answer is about 60-80% of the individual's height is determined by genetics.",
+    "Height – the genetics behind a human appearance Based on various scientific studies, heritability contributes to around 80 percent of a child's height.",
+    "The white male population has an average height of 178 cm (5 ft 10 in) with a heritability of 80 percent.",
+    "In this example, we can say that 4 cm of his extra height is thanks to genetics (80%), and the 1 cm (20%) is an environmental effect (probably a result of good nutrition).",
+    "This method of height prediction is known as the Khamis-Roche Method, and it was developed in 1994 at Wright State University in Dayton, Ohio.",
+    "They achieve adult height usually at the age of 14-15 or a couple of years after menstruation occurs the first time.",
+    "Following the growth charts from the CDC, the average height of adult woman at age 20 is 64-65 in (163 cm).",
+    "The height growth rate for most boys slows down around 16 years old, but their body mass (mainly muscles) continues to develop.",
+    "According to the CDC, the average male height around 20 years old is 69.5 in (177 cm).",
+    "In the text above, we found the majority of a person's height is determined by genetics (60-80%), and the body grows by lengthening its long bones (thanks to special cartilage located in long bones – growth plates)."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 5,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Child's age"
+   ],
+   "selectOptionsSample": "select 4 years 4.5 years 5 years 5.5 years 6 years 6.5 years 7 years 7.5 years 8 years 8.5 years 9 years 9.5 years 10 years 10.5 years 11 years 11.5 years 12 years 12.5 years 13 years 13.5 years 14 years 14.5 years 15 years 15.5 years 16 years 16.5 years 17 years 17.5 years",
+   "unitToggle": true,
+   "wordsBeforeTool": 10,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Małgorzata Koperska",
+    "published": "2018-02-05T11:10:20.787Z",
+    "modified": "2026-09-19T18:40:25.737Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 666,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 20,
+    "external": 1,
+    "contentInternal": 4,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "baby percentile calculator",
+     "medical radiation calculator",
+     "child height percentile calculator",
+     "child BMI calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/health/baby-percentile",
+     "https://www.omnicalculator.com/health/medical-radiation",
+     "https://www.omnicalculator.com/health/child-height-percentile",
+     "https://www.omnicalculator.com/health/bmi-kids"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/childs-height-prediction-calculator/": {
+   "url": "https://www.inchcalculator.com/childs-height-prediction-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/height-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T15:58:23.142Z",
+   "title": "Height Calculator - Future Height Predictor - Inch Calculator",
+   "metaDescription": "Use our height calculator to predict how tall a child will be. Learn several methods to estimate their future height.",
+   "canonical": "https://www.inchcalculator.com/height-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Height Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Adult Height Prediction",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Predict a Child’s Adult Height",
+    "Every Child’s Growth is Different",
+    "Similar Health Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Current Height Percentile",
+    "Child’s Height at Age 2 Method",
+    "Mid-Parental Height Method",
+    "Growth Charts Method",
+    "Bone Age Method",
+    "The Khamis-Roche Method"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Height Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Adult Height Prediction"
+    },
+    {
+     "level": 3,
+     "text": "Current Height Percentile"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Predict a Child’s Adult Height"
+    },
+    {
+     "level": 3,
+     "text": "Child’s Height at Age 2 Method"
+    },
+    {
+     "level": 3,
+     "text": "Mid-Parental Height Method"
+    },
+    {
+     "level": 4,
+     "text": "Height Prediction Formula"
+    },
+    {
+     "level": 3,
+     "text": "Growth Charts Method"
+    },
+    {
+     "level": 3,
+     "text": "Bone Age Method"
+    },
+    {
+     "level": 3,
+     "text": "The Khamis-Roche Method"
+    },
+    {
+     "level": 2,
+     "text": "Every Child’s Growth is Different"
+    },
+    {
+     "level": 2,
+     "text": "Similar Health Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 1596,
+   "avgSentenceWords": 35,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "height",
+     "weight": 73
+    },
+    {
+     "term": "child",
+     "weight": 35
+    },
+    {
+     "term": "method",
+     "weight": 30
+    },
+    {
+     "term": "age",
+     "weight": 27
+    },
+    {
+     "term": "growth",
+     "weight": 27
+    },
+    {
+     "term": "adult height",
+     "weight": 21
+    },
+    {
+     "term": "adult",
+     "weight": 16
+    },
+    {
+     "term": "https",
+     "weight": 13
+    },
+    {
+     "term": "https www",
+     "weight": 12
+    },
+    {
+     "term": "children",
+     "weight": 12
+    },
+    {
+     "term": "calculator",
+     "weight": 11
+    },
+    {
+     "term": "mid parental",
+     "weight": 11
+    },
+    {
+     "term": "parental height",
+     "weight": 11
+    },
+    {
+     "term": "height method",
+     "weight": 11
+    },
+    {
+     "term": "khamis roche",
+     "weight": 11
+    },
+    {
+     "term": "roche method",
+     "weight": 11
+    },
+    {
+     "term": "predict",
+     "weight": 10
+    },
+    {
+     "term": "growth charts",
+     "weight": 9
+    },
+    {
+     "term": "bone age",
+     "weight": 9
+    },
+    {
+     "term": "future height",
+     "weight": 9
+    },
+    {
+     "term": "syndrome",
+     "weight": 9
+    },
+    {
+     "term": "weight",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "parental",
+     "weight": 8
+    },
+    {
+     "term": "khamis",
+     "weight": 8
+    },
+    {
+     "term": "roche",
+     "weight": 8
+    },
+    {
+     "term": "www",
+     "weight": 8
+    },
+    {
+     "term": "down syndrome",
+     "weight": 8
+    },
+    {
+     "term": "mid",
+     "weight": 7
+    },
+    {
+     "term": "predicting",
+     "weight": 7
+    }
+   ],
+   "claims": [
+    "Child’s Height at Age 2 Method By far, the easiest (and probably least accurate) way of predicting a child’s adult height is to double their height when they turn two years old.",
+    "This is sometimes referred to as the “two years times two method.” For example, if your two-year-old measures 29″, then this method would assume that their adult height would be approximately 58″.",
+    "The growth charts below show the average height for males and females aged 2-20.",
+    "This calculator uses the Khamis-Roche method for children over 4 and the Mid-Parental Height method for children under 4.",
+    "D., The strengths and limitations of parental heights as a predictor of attained height, Archives of Disease in Childhood, 1999, 81(3), 257-260."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [
+    "Child's Age",
+    "Child's Gender",
+    "Child's Height",
+    "Child's Height Units",
+    "Child's Weight",
+    "Child's Weight Units",
+    "Mother's Height",
+    "Mother's Height Units",
+    "Father's Height",
+    "Father's Height Units"
+   ],
+   "selectOptionsSample": "2 years 2½ years 3 years 3½ years 4 years 4½ years 5 years 5½ years 6 years 6½ years 7 years 7½ years 8 years 8½ years 9 years 9½ years 10 years 10½ years 11 years 11½ years 12 years boy girl in ft cm m lbs kg st in ft cm m in ft cm m",
+   "unitToggle": true,
+   "wordsBeforeTool": 41,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2017-11-17",
+    "modified": "2023-12-14T01:23:56+00:00",
+    "authoritativeSources": [
+     "https://www.cdc.gov/GrowthCharts/",
+     "https://medlineplus.gov/ency/article/002003.htm",
+     "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1544488/",
+     "https://www.hss.edu/pediatrics-is-it-possible-to-predict-height.asp",
+     "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8461056/",
+     "https://pubmed.ncbi.nlm.nih.gov/32748612/"
+    ]
+   },
+   "ux": {
+    "htmlKB": 129,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 45,
+    "external": 25,
+    "contentInternal": 21,
+    "contentExternal": 19,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Height Calculator",
+     "How to Predict a Child’s Adult Height",
+     "Child’s Height at Age 2 Method",
+     "Mid-Parental Height Method",
+     "Growth Charts Method",
+     "Bone Age Method",
+     "The Khamis-Roche Method",
+     "Every Child’s Growth is Different",
+     "References",
+     "Full bio",
+     "height converter",
+     "what percentile the child is in",
+     "Height Converter",
+     "Ideal Body Weight Calculator",
+     "Sleep Calculator",
+     "Height Comparison Chart",
+     "Weight Loss Percentage Calculator",
+     "See All"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/height-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/child-height-prediction/",
+     "https://www.inchcalculator.com/height-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/height-calculator/#idx_how_to_predict_a_child8217s_adult_height",
+     "https://www.inchcalculator.com/height-calculator/#idx_child8217s_height_at_age_2_method",
+     "https://www.inchcalculator.com/height-calculator/#mid-parental-height-method",
+     "https://www.inchcalculator.com/height-calculator/#idx_growth_charts_method",
+     "https://www.inchcalculator.com/height-calculator/#idx_bone_age_method",
+     "https://www.inchcalculator.com/height-calculator/#khamis-roche-height-method",
+     "https://www.inchcalculator.com/height-calculator/#idx_every_child8217s_growth_is_different",
+     "https://www.inchcalculator.com/height-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/hannah-daugherty/",
+     "https://www.inchcalculator.com/height-calculator/",
+     "https://www.inchcalculator.com/height-converter/",
+     "https://www.inchcalculator.com/child-height-percentile-calculator/",
+     "https://www.inchcalculator.com/ideal-body-weight-calculator/",
+     "https://www.inchcalculator.com/sleep-calculator/",
+     "https://www.inchcalculator.com/height-comparison-chart/",
+     "https://www.inchcalculator.com/weight-loss-percentage-calculator/",
+     "https://www.inchcalculator.com/body-measurement-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fheight-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fheight-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fheight-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fheight-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fheight-calculator%2F&text=Height+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fheight-calculator%2F&text=Height+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://newsnetwork.mayoclinic.org/discussion/childs-height-at-age-2-may-predict-adult-height/",
+     "https://www.aafp.org/pubs/afp/issues/2008/0901/p597.html",
+     "https://www.healthychildren.org/English/health-issues/conditions/Glands-Growth-Disorders/Pages/Predicting-a-Childs-Adult-Height.aspx",
+     "https://adc.bmj.com/content/81/3/257",
+     "https://www.cdc.gov/GrowthCharts/",
+     "https://medlineplus.gov/ency/article/002003.htm",
+     "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1544488/",
+     "https://www.hss.edu/pediatrics-is-it-possible-to-predict-height.asp"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

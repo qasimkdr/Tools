@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "What is a weighted mean?", a: "A weighted mean is an average in which some values count more than others. Each value is multiplied by its weight, the products are added, and the total is divided by the sum of the weights: x̄w = Σ(w × x) ÷ Σw." },
+  { q: "How do I calculate a weighted average?", a: "Multiply each value by its weight, add up the products, then divide by the total weight. For scores of 90, 80 and 70 weighted 20%, 30% and 50%: (90 × 20 + 80 × 30 + 70 × 50) ÷ 100 = 7,700 ÷ 100 = 77." },
+  { q: "Do the weights have to add up to 100 or 1?", a: "No. Because the formula divides by the sum of the weights, any positive weights work: percentages, credit hours, quantities or counts. Weights of 2, 3 and 5 give the same answer as 20%, 30% and 50%." },
+  { q: "What's the difference between a weighted mean and a regular mean?", a: "A regular (arithmetic) mean gives every value the same weight. A weighted mean lets bigger or more important items count more. In the example above the plain mean is 80, but the weighted mean is 77 because the lowest score carries the most weight." },
+  { q: "How do I calculate a weighted average in Excel or Google Sheets?", a: "Use =SUMPRODUCT(values, weights) / SUM(weights). For values in A2:A4 and weights in B2:B4: =SUMPRODUCT(A2:A4,B2:B4)/SUM(B2:B4)." },
+  { q: "What is the weighted standard deviation?", a: "It measures the spread of the values around the weighted mean, with each squared deviation multiplied by its weight: √(Σw(x − x̄w)² ÷ Σw). When weights are frequency counts, divide by Σw − 1 instead for the sample version." },
+];
