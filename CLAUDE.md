@@ -42,7 +42,9 @@ Rows with status `hold` are policy-sensitive: never build without the owner's OK
 3. No fake reviews/ratings schema, no keyword stuffing, no auto-generated filler. Write for the user first.
 4. Keep JS small: no new runtime dependency without a reason written in the PR/commit.
 5. Never fabricate volumes, rankings or competitor facts. No live data → say so and stop that step.
-6. Owner instruction (2026-11-21, updated): work and push on the Claude session branch. Merge to `main` ONLY when the
-   owner explicitly approves that merge (approval covers that merge only, not future ones). `main` deploys to production,
-   so every merge must pass `npm run build` + `npm run test:e2e`. Call out any edit to an already-live page in the commit message.
+6. Owner instruction (2026-11-22, standing approval): work and push on the Claude session branch, then MERGE TO `main`
+   AUTOMATICALLY (fast-forward) once the batch is finished and `npm run lint` + `npm run build` + `npm run test:e2e` all pass.
+   If anything fails, do NOT merge: fix it or report it. `main` deploys to production. Call out any edit to an
+   already-live page in the commit message. Never force-push `main`. Still ask first for anything outside normal tool/content
+   work (deleting pages, changing URLs, renaming the brand/domain, policy-hold tools).
 7. Free tools only for now: no paid APIs/services. Don't scrape Google directly (ToS); use the WebSearch tool + `seo:record`.
