@@ -1,0 +1,9 @@
+export const faq = [
+  { q: "How much water should I drink a day?", a: "The National Academies set an adequate intake of total water of about 3.7 liters a day for men and 2.7 liters for women. About 19% usually comes from food, so drinks provide roughly 3.0 liters (about 12.7 cups) for men and 2.2 liters (about 9.2 cups) for women." },
+  { q: "Is the 8 glasses a day rule right?", a: "It's a rough rule of thumb rather than an official recommendation. Eight 8-ounce glasses is about 1.9 liters, which is a little under the typical intake from drinks for women and well under it for men. Many people meet their needs through thirst and normal meals." },
+  { q: "Does coffee or tea count toward water intake?", a: "Yes. All drinks count toward total water intake, including tea, coffee, milk and juice, and so does the water in foods such as fruit, vegetables and soup. Water is the best choice because it has no calories or sugar." },
+  { q: "How much more water do I need when I exercise?", a: "Weigh yourself before and after exercise. Each kilogram (2.2 lb) of weight lost is about 1 liter of sweat, so add that amount, plus anything you drank during the session, to your daily total." },
+  { q: "How much water do I need when pregnant or breastfeeding?", a: "The adequate intake of total water is about 3.0 liters a day during pregnancy and 3.8 liters while breastfeeding, from food and drinks combined. That's roughly 2.4 and 3.1 liters from drinks." },
+  { q: "Can you drink too much water?", a: "Yes. Drinking very large amounts in a short time can dilute blood sodium (hyponatremia), which is dangerous. Spread drinks through the day and follow your doctor's advice if you have kidney, heart or liver conditions or a fluid limit." },
+  { q: "How can I tell if I'm drinking enough?", a: "Rarely feeling thirsty and having pale-yellow urine are good signs. Dark urine, headaches and fatigue can point to dehydration." },
+];

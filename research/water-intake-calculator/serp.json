@@ -1,0 +1,227 @@
+{
+ "keywords": {
+  "water calculator": {
+   "fetchedAt": "2026-11-22T15:43:40.162Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 6600,
+   "fileKd": 31,
+   "fileIntent": "C",
+   "semrushCompetitor": {
+    "position": 12,
+    "url": "www.omnicalculator.com/health/water-intake"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://cise.ufl.edu/~scarpio/cis4930/assign4/index.html",
+     "domain": "cise.ufl.edu",
+     "title": "Daily Water Intake Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.omnicalculator.com/health/water-intake",
+     "domain": "www.omnicalculator.com",
+     "title": "Water Intake Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.gigacalculator.com/calculators/water-intake-calculator.php",
+     "domain": "www.gigacalculator.com",
+     "title": "Daily Water Intake Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://bodybuilding.com/fun/water_calculator.htm",
+     "domain": "bodybuilding.com",
+     "title": "water calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.inchcalculator.com/water-intake-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Water Intake Calculator - How Much Water Should You Drink?",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://fitnessvolt.com/water-intake-calculator/",
+     "domain": "fitnessvolt.com",
+     "title": "Water Intake Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.stylecraze.com/tools/water-intake-calculator/",
+     "domain": "www.stylecraze.com",
+     "title": "Water Intake Calculator: How Much Water Should I Drink?",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://builtwithscience.com/water-intake-calculator/",
+     "domain": "builtwithscience.com",
+     "title": "logo builtwithscience",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://online.visual-paradigm.com/tabular/calculator/health/water-intake-calculator/?t=tabular&",
+     "domain": "online.visual-paradigm.com",
+     "title": "Water Intake Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://online.visual-paradigm.com/ja/tabular/calculator/health/water-intake-calculator",
+     "domain": "online.visual-paradigm.com",
+     "title": "Water Intake Calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.101planners.com/water-intake-calculator/",
+     "domain": "www.101planners.com",
+     "title": "water intake calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://nakednutrition.com/blogs/wellness/water-intake-calculator",
+     "domain": "nakednutrition.com",
+     "title": "water intake calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://fitnessvolt.com/?p=71618",
+     "domain": "fitnessvolt.com",
+     "title": "fitnessvolt.com",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://sparkful.app/tools/daily-water-intake-calculator",
+     "domain": "sparkful.app",
+     "title": "daily water intake calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://www.medicoverhospitals.in/fitness-health-calculators/daily-water-intake",
+     "domain": "www.medicoverhospitals.in",
+     "title": "Stay Hydrated: Daily Water Intake Calculator",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://www.calculate.co.nz/water-intake-calculator.php",
+     "domain": "www.calculate.co.nz",
+     "title": "Water Intake Calculator NZ 2026",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "water-intake-calculator",
+ "page": "water-intake-calculator",
+ "category": "health",
+ "name": "Water Intake Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T15:43:40.163Z",
+ "topCompetitors": [
+  {
+   "domain": "fitnessvolt.com",
+   "bestRank": 6,
+   "keywords": 2,
+   "urls": [
+    "https://fitnessvolt.com/water-intake-calculator/",
+    "https://fitnessvolt.com/?p=71618"
+   ]
+  },
+  {
+   "domain": "visual-paradigm.com",
+   "bestRank": 9,
+   "keywords": 2,
+   "urls": [
+    "https://online.visual-paradigm.com/tabular/calculator/health/water-intake-calculator/?t=tabular&",
+    "https://online.visual-paradigm.com/ja/tabular/calculator/health/water-intake-calculator"
+   ]
+  },
+  {
+   "domain": "ufl.edu",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://cise.ufl.edu/~scarpio/cis4930/assign4/index.html"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/health/water-intake"
+   ]
+  },
+  {
+   "domain": "gigacalculator.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.gigacalculator.com/calculators/water-intake-calculator.php"
+   ]
+  },
+  {
+   "domain": "bodybuilding.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://bodybuilding.com/fun/water_calculator.htm"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/water-intake-calculator/"
+   ]
+  },
+  {
+   "domain": "stylecraze.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.stylecraze.com/tools/water-intake-calculator/"
+   ]
+  },
+  {
+   "domain": "builtwithscience.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://builtwithscience.com/water-intake-calculator/"
+   ]
+  },
+  {
+   "domain": "101planners.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://www.101planners.com/water-intake-calculator/"
+   ]
+  }
+ ]
+}

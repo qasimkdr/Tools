@@ -1,0 +1,626 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/health/water-intake": {
+   "url": "https://www.omnicalculator.com/health/water-intake",
+   "finalUrl": "https://www.omnicalculator.com/health/water-intake",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T15:44:00.569Z",
+   "title": "Water Intake Calculator",
+   "metaDescription": "\"How much water should I drink?\" – you probably asked yourself this question at least once in your lifetime. With our water intake calculator, you don't need to rack your brain any longer!",
+   "canonical": "https://www.omnicalculator.com/health/water-intake",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Water Intake Calculator"
+   ],
+   "h2": [
+    "Dehydration problem",
+    "How does the daily water intake calculator work?",
+    "Recommended water intake during exercises",
+    "How much water should I drink?",
+    "Can I drink too much water?",
+    "Tap or bottled water?"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Water Intake Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Dehydration problem"
+    },
+    {
+     "level": 2,
+     "text": "How does the daily water intake calculator work?"
+    },
+    {
+     "level": 2,
+     "text": "Recommended water intake during exercises"
+    },
+    {
+     "level": 2,
+     "text": "How much water should I drink?"
+    },
+    {
+     "level": 2,
+     "text": "Can I drink too much water?"
+    },
+    {
+     "level": 2,
+     "text": "Tap or bottled water?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1120,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "How does the daily water intake calculator work?",
+    "How much water should I drink?",
+    "Can I drink too much water?",
+    "Tap or bottled water?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "water",
+     "weight": 45
+    },
+    {
+     "term": "water intake",
+     "weight": 18
+    },
+    {
+     "term": "intake",
+     "weight": 18
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "drink",
+     "weight": 11
+    },
+    {
+     "term": "intake calculator",
+     "weight": 8
+    },
+    {
+     "term": "total water",
+     "weight": 8
+    },
+    {
+     "term": "total",
+     "weight": 7
+    },
+    {
+     "term": "day",
+     "weight": 7
+    },
+    {
+     "term": "body",
+     "weight": 7
+    },
+    {
+     "term": "weight",
+     "weight": 7
+    },
+    {
+     "term": "exercise",
+     "weight": 7
+    },
+    {
+     "term": "physical",
+     "weight": 6
+    },
+    {
+     "term": "physical activity",
+     "weight": 6
+    },
+    {
+     "term": "check",
+     "weight": 6
+    },
+    {
+     "term": "values",
+     "weight": 6
+    },
+    {
+     "term": "much",
+     "weight": 6
+    },
+    {
+     "term": "tap",
+     "weight": 6
+    },
+    {
+     "term": "tap water",
+     "weight": 6
+    },
+    {
+     "term": "beverages",
+     "weight": 5
+    },
+    {
+     "term": "adequate",
+     "weight": 5
+    },
+    {
+     "term": "conditions",
+     "weight": 5
+    },
+    {
+     "term": "need",
+     "weight": 5
+    },
+    {
+     "term": "dehydration",
+     "weight": 5
+    },
+    {
+     "term": "adequate intake",
+     "weight": 5
+    },
+    {
+     "term": "body weight",
+     "weight": 5
+    },
+    {
+     "term": "much water",
+     "weight": 5
+    },
+    {
+     "term": "too much",
+     "weight": 5
+    },
+    {
+     "term": "bottled water",
+     "weight": 5
+    },
+    {
+     "term": "child",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "water in food): ≈ 3.7 L / day Water from beverages: 3.0 L (≈ 13 cups) / day Adequate Intake based on Dietary Reference Intakes (Institute of Medicine 2005).",
+    "It covers 71% of the planet's surface, and our bodies contain around 50-75% of that molecule (check our total body water calculator to find out yours); moreover, we can survive only a couple of days without water.",
+    "Water and other beverages represent approximately 81% of total water intake, and the water contained in food provides the remaining 19%.",
+    "Minimum water requirement is sometimes calculated from your weight – simply divide your body weight (in pounds) by 2.",
+    "For example, for a 180 lb person (~82 kg), the recommended water intake is 90 fl oz (2.7 L).",
+    "The hourly sweat losses are in the 0.5 to 2.0 L/h range for vigorous physical activity, so the water needs may vary.",
+    "Our kidneys can filter and excrete up to 15 liters of water every day, so it's really difficult."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 6,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Hanna Pamuła",
+    "published": "2018-06-14T12:40:06.737Z",
+    "modified": "2026-09-22T11:39:02.778Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 499,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 23,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "total body water calculator",
+     "water deficit calculator",
+     "weight converter",
+     "volume converter tool",
+     "tap water calculator",
+     "hardness",
+     "ACFT Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/health/body-water",
+     "https://www.omnicalculator.com/health/water-deficit",
+     "https://www.omnicalculator.com/conversion/weight-converter",
+     "https://www.omnicalculator.com/conversion/volume-conversion",
+     "https://www.omnicalculator.com/ecology/tap-water",
+     "https://www.omnicalculator.com/chemistry/water-hardness",
+     "https://www.omnicalculator.com/health/acft"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/water-intake-calculator/": {
+   "url": "https://www.inchcalculator.com/water-intake-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/water-intake-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T15:44:03.471Z",
+   "title": "Water Intake Calculator - How Much Water Should You Drink?",
+   "metaDescription": "Ever wonder how much water you should drink? Calculate your daily water intake for your body size and learn how much water your body needs.",
+   "canonical": "https://www.inchcalculator.com/water-intake-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Water Intake Calculator – How Much Water Should You Drink?"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Suggested Daily Water Intake",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How Much Water Should You Drink Per Day",
+    "How Much Water Should You Drink To Lose Weight",
+    "Tips To Stay Hydrated Throughout the Day",
+    "Hydration for Healthy Living",
+    "Similar Nutrition Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Water Intake Formula"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Water Intake Calculator – How Much Water Should You Drink?"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Suggested Daily Water Intake"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How Much Water Should You Drink Per Day"
+    },
+    {
+     "level": 3,
+     "text": "Water Intake Formula"
+    },
+    {
+     "level": 2,
+     "text": "How Much Water Should You Drink To Lose Weight"
+    },
+    {
+     "level": 2,
+     "text": "Tips To Stay Hydrated Throughout the Day"
+    },
+    {
+     "level": 2,
+     "text": "Hydration for Healthy Living"
+    },
+    {
+     "level": 2,
+     "text": "Similar Nutrition Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 1918,
+   "avgSentenceWords": 23,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "water",
+     "weight": 67
+    },
+    {
+     "term": "weight",
+     "weight": 23
+    },
+    {
+     "term": "drink",
+     "weight": 20
+    },
+    {
+     "term": "day",
+     "weight": 17
+    },
+    {
+     "term": "intake",
+     "weight": 16
+    },
+    {
+     "term": "water intake",
+     "weight": 14
+    },
+    {
+     "term": "weight loss",
+     "weight": 14
+    },
+    {
+     "term": "much water",
+     "weight": 12
+    },
+    {
+     "term": "ounces",
+     "weight": 12
+    },
+    {
+     "term": "calculator",
+     "weight": 11
+    },
+    {
+     "term": "much",
+     "weight": 11
+    },
+    {
+     "term": "body",
+     "weight": 11
+    },
+    {
+     "term": "exercise",
+     "weight": 11
+    },
+    {
+     "term": "calorie",
+     "weight": 10
+    },
+    {
+     "term": "need",
+     "weight": 9
+    },
+    {
+     "term": "loss",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "hydration",
+     "weight": 8
+    },
+    {
+     "term": "https",
+     "weight": 8
+    },
+    {
+     "term": "intake calculator",
+     "weight": 8
+    },
+    {
+     "term": "hydrated",
+     "weight": 7
+    },
+    {
+     "term": "nutrition",
+     "weight": 7
+    },
+    {
+     "term": "diet",
+     "weight": 7
+    },
+    {
+     "term": "cups",
+     "weight": 7
+    },
+    {
+     "term": "amount",
+     "weight": 7
+    },
+    {
+     "term": "performance",
+     "weight": 7
+    },
+    {
+     "term": "daily",
+     "weight": 6
+    },
+    {
+     "term": "body weight",
+     "weight": 6
+    },
+    {
+     "term": "heat",
+     "weight": 6
+    },
+    {
+     "term": "throughout",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "The contribution of water we consume from food is estimated to be around 20–30%.",
+    "For example, a sedentary person weighing 180 pounds would need to consume about 90-180 ounces of water a day.",
+    "So, when trying to determine how many glasses of water this is equivalent to, simply divide the total amount by 8 ounces.",
+    "For this person, that would be 15.75 to 27 cups of water based on their exercise and heat exposure that day.",
+    "126 ÷ 8 = 15.75 cups 216 ÷ 8 = 27 cups This may seem like a lot of water, but as you can see, 15.75 cups is very close to the recommendation from the U.S.",
+    "[5] Research has also found that drinking water prior to a meal can help cut back on calorie consumption when combined with a lower-calorie diet.",
+    "M., Water consumption increases weight loss during a hypocaloric diet intervention in middle‐aged and older adults, Obesity, 2010, 18(2), 300-307."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 4,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [
+    "Body Weight",
+    "Body Weight Units",
+    "Duration",
+    "Duration Units"
+   ],
+   "selectOptionsSample": "lb kg st minutes hours",
+   "unitToggle": true,
+   "wordsBeforeTool": 34,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Holly Smith",
+    "published": "2021-06-02",
+    "modified": "2023-11-28T15:54:44+00:00",
+    "authoritativeSources": [
+     "https://pubmed.ncbi.nlm.nih.gov/16028568/"
+    ]
+   },
+   "ux": {
+    "htmlKB": 130,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 45,
+    "external": 20,
+    "contentInternal": 21,
+    "contentExternal": 14,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Water Intake Calculator",
+     "How Much Water Should You Drink Per Day",
+     "Water Intake Formula",
+     "How Much Water Should You Drink To Lose Weight",
+     "Tips To Stay Hydrated Throughout the Day",
+     "Hydration for Healthy Living",
+     "References",
+     "Full bio",
+     "Water Intake Calculator – How Much Water Should You Drink?",
+     "water weight calculator",
+     "weight loss",
+     "Mifflin St. Jeor Calculator",
+     "Calorie Intake Calculator",
+     "Net Carb Calculator",
+     "Maintenance Calorie Calculator",
+     "Weight Gain Calculator",
+     "See All"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/water-intake-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/water-intake/",
+     "https://www.inchcalculator.com/water-intake-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/water-intake-calculator/#idx_how_much_water_should_you_drink_per_day",
+     "https://www.inchcalculator.com/water-intake-calculator/#idx_water_intake_formula",
+     "https://www.inchcalculator.com/water-intake-calculator/#idx_how_much_water_should_you_drink_to_lose_weight",
+     "https://www.inchcalculator.com/water-intake-calculator/#idx_tips_to_stay_hydrated_throughout_the_day",
+     "https://www.inchcalculator.com/water-intake-calculator/#idx_hydration_for_healthy_living",
+     "https://www.inchcalculator.com/water-intake-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/holly-smith/",
+     "https://www.inchcalculator.com/author/elise-harlow/",
+     "https://www.inchcalculator.com/author/donna-schwontkowski/",
+     "https://www.inchcalculator.com/water-intake-calculator/",
+     "https://www.inchcalculator.com/water-weight-calculator/",
+     "https://www.inchcalculator.com/weight-loss-calculator/",
+     "https://www.inchcalculator.com/mifflin-st-jeor-calculator/",
+     "https://www.inchcalculator.com/calorie-calculator/",
+     "https://www.inchcalculator.com/net-carb-calculator/",
+     "https://www.inchcalculator.com/maintenance-calorie-calculator/",
+     "https://www.inchcalculator.com/weight-gain-calculator/",
+     "https://www.inchcalculator.com/dietary-and-nutrition-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fwater-intake-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fwater-intake-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fwater-intake-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fwater-intake-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fwater-intake-calculator%2F&text=Water+Intake+Calculator+%26%238211%3B+How+Much+Water+Should+You+Drink%3F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fwater-intake-calculator%2F&text=Water+Intake+Calculator+%26%238211%3B+How+Much+Water+Should+You+Drink%3F",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://www.nationalacademies.org/our-work/dietary-reference-intakes-for-electrolytes-and-water",
+     "https://efsa.onlinelibrary.wiley.com/doi/pdf/10.2903/j.efsa.2010.1459",
+     "https://www.webmd.com/diet/drink-more-water-tips",
+     "https://doi.org/10.3389/fnut.2016.00018",
+     "https://onlinelibrary.wiley.com/doi/full/10.1038/oby.2009.235",
+     "https://pubmed.ncbi.nlm.nih.gov/16028568/",
+     "https://europepmc.org/article/med/17909410"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

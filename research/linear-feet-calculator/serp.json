@@ -1,0 +1,252 @@
+{
+ "keywords": {
+  "linear feet calculator": {
+   "fetchedAt": "2026-11-22T15:43:39.930Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 4400,
+   "fileKd": 14,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://inchcalculator.com/linear-feet-to-square-feet-calculator",
+     "domain": "inchcalculator.com",
+     "title": "Linear Feet to Square Feet Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.inchcalculator.com/how-to-calculate-linear-feet/",
+     "domain": "www.inchcalculator.com",
+     "title": "How to Calculate Linear Feet",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://calculator.academy/linear-feet-calculator/",
+     "domain": "calculator.academy",
+     "title": "Linear Feet Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://thisoldhouse.com/moving/what-is-a-linear-foot",
+     "domain": "thisoldhouse.com",
+     "title": "what is a linear foot",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://cznull.com/calculators/construction/linear-feet/",
+     "domain": "cznull.com",
+     "title": "linear feet",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://totalcalchub.com/us/home-improvement/linear-feet-calculator",
+     "domain": "totalcalchub.com",
+     "title": "linear feet calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.hunker.com/12515841/how-to-calculate-feet-to-linear-feet",
+     "domain": "www.hunker.com",
+     "title": "How To Calculate Feet To Linear Feet",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://move.org/linear-foot",
+     "domain": "move.org",
+     "title": "What is a Linear Foot and How to Calculate It",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.upack.com/articles/how-to-calculate-linear-feet.md",
+     "domain": "www.upack.com",
+     "title": "How to Calculate Linear Feet",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://kiwix.lema.org/wikihow_en_maxi_2023-03/Calculate-Linear-Feet",
+     "domain": "kiwix.lema.org",
+     "title": "Calculate Linear Feet",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://calculators.sg/linear-feet-calculator",
+     "domain": "calculators.sg",
+     "title": "Linear Feet Calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://geekchamp.com/?p=754312",
+     "domain": "geekchamp.com",
+     "title": "geekchamp.com",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://everycalculators.com/how-do-you-calculate-linear-feet.html",
+     "domain": "everycalculators.com",
+     "title": "Linear Feet Calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://www.midlandco.com/tools/linear-footage/",
+     "domain": "www.midlandco.com",
+     "title": "Linear Footage Calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://constructlytools.com/measurement-tools/linear-feet-calculator/",
+     "domain": "constructlytools.com",
+     "title": "Linear Feet Calculator",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://linear-foot-toolkit.netlify.app/",
+     "domain": "linear-foot-toolkit.netlify.app",
+     "title": "Linear Feet Calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://www.superiorfenceandrail.com/fence-property-lines/how-to-measure-linear-feet-for-your-fence-project-a-step-by-step-guide",
+     "domain": "www.superiorfenceandrail.com",
+     "title": "How to Measure Linear Feet for Your Fence Project",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://everycalculators.com/how-to-calculate-a-linear-foot.html",
+     "domain": "everycalculators.com",
+     "title": "Linear Foot Calculator",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://woodplank.com/pages/sf-to-lf-calculator",
+     "domain": "woodplank.com",
+     "title": "sf to lf calculator",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://linearfeetcalc.pages.dev/",
+     "domain": "linearfeetcalc.pages.dev",
+     "title": "linearfeetcalc.pages.dev",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "linear-feet-calculator",
+ "page": "linear-feet-calculator",
+ "category": "construction",
+ "name": "Linear Feet Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T15:43:39.931Z",
+ "topCompetitors": [
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://inchcalculator.com/linear-feet-to-square-feet-calculator",
+    "https://www.inchcalculator.com/how-to-calculate-linear-feet/"
+   ]
+  },
+  {
+   "domain": "everycalculators.com",
+   "bestRank": 13,
+   "keywords": 2,
+   "urls": [
+    "https://everycalculators.com/how-do-you-calculate-linear-feet.html",
+    "https://everycalculators.com/how-to-calculate-a-linear-foot.html"
+   ]
+  },
+  {
+   "domain": "calculator.academy",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://calculator.academy/linear-feet-calculator/"
+   ]
+  },
+  {
+   "domain": "thisoldhouse.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://thisoldhouse.com/moving/what-is-a-linear-foot"
+   ]
+  },
+  {
+   "domain": "cznull.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://cznull.com/calculators/construction/linear-feet/"
+   ]
+  },
+  {
+   "domain": "totalcalchub.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://totalcalchub.com/us/home-improvement/linear-feet-calculator"
+   ]
+  },
+  {
+   "domain": "hunker.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.hunker.com/12515841/how-to-calculate-feet-to-linear-feet"
+   ]
+  },
+  {
+   "domain": "move.org",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://move.org/linear-foot"
+   ]
+  },
+  {
+   "domain": "upack.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://www.upack.com/articles/how-to-calculate-linear-feet.md"
+   ]
+  },
+  {
+   "domain": "lema.org",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://kiwix.lema.org/wikihow_en_maxi_2023-03/Calculate-Linear-Feet"
+   ]
+  }
+ ]
+}

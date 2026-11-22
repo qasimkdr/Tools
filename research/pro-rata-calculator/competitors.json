@@ -1,0 +1,317 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/finance/prorated-rent": {
+   "url": "https://www.omnicalculator.com/finance/prorated-rent",
+   "finalUrl": "https://www.omnicalculator.com/finance/prorated-rent",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T15:43:53.742Z",
+   "title": "Prorated Rent Calculator",
+   "metaDescription": "Prorated rent calculator helps you figure out the rent you owe if you're moving in in the middle of the month.",
+   "canonical": "https://www.omnicalculator.com/finance/prorated-rent",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Prorated Rent Calculator"
+   ],
+   "h2": [
+    "What is prorated rent?",
+    "Why prorate rent?",
+    "How is prorated rent calculated?",
+    "Example of prorated rent calculation",
+    "The months' length",
+    "When can you request prorated rent?",
+    "FAQs"
+   ],
+   "h3": [
+    "What is prorated rent?",
+    "How do I calculate the prorated rent",
+    "What is the prorated rent if I move on the 6th of June?",
+    "Can my landlord refuse prorated rent?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Prorated Rent Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is prorated rent?"
+    },
+    {
+     "level": 2,
+     "text": "Why prorate rent?"
+    },
+    {
+     "level": 2,
+     "text": "How is prorated rent calculated?"
+    },
+    {
+     "level": 2,
+     "text": "Example of prorated rent calculation"
+    },
+    {
+     "level": 2,
+     "text": "The months' length"
+    },
+    {
+     "level": 2,
+     "text": "When can you request prorated rent?"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What is prorated rent?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate the prorated rent"
+    },
+    {
+     "level": 3,
+     "text": "What is the prorated rent if I move on the 6th of June?"
+    },
+    {
+     "level": 3,
+     "text": "Can my landlord refuse prorated rent?"
+    }
+   ],
+   "wordCount": 2136,
+   "avgSentenceWords": 18,
+   "faqs": [
+    "What is prorated rent?",
+    "How do I calculate the prorated rent",
+    "What is the prorated rent if I move on the 6th of June?",
+    "Can my landlord refuse prorated rent?",
+    "Why prorate rent?",
+    "How is prorated rent calculated?",
+    "When can you request prorated rent?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "rent",
+     "weight": 105
+    },
+    {
+     "term": "prorated rent",
+     "weight": 80
+    },
+    {
+     "term": "prorated",
+     "weight": 53
+    },
+    {
+     "term": "month",
+     "weight": 38
+    },
+    {
+     "term": "days",
+     "weight": 33
+    },
+    {
+     "term": "monthly rent",
+     "weight": 24
+    },
+    {
+     "term": "number",
+     "weight": 20
+    },
+    {
+     "term": "amount",
+     "weight": 19
+    },
+    {
+     "term": "monthly",
+     "weight": 18
+    },
+    {
+     "term": "rent amount",
+     "weight": 17
+    },
+    {
+     "term": "daily rent",
+     "weight": 17
+    },
+    {
+     "term": "calculator",
+     "weight": 15
+    },
+    {
+     "term": "rent calculator",
+     "weight": 14
+    },
+    {
+     "term": "move",
+     "weight": 13
+    },
+    {
+     "term": "landlord",
+     "weight": 12
+    },
+    {
+     "term": "daily",
+     "weight": 11
+    },
+    {
+     "term": "apartment",
+     "weight": 10
+    },
+    {
+     "term": "calculate",
+     "weight": 10
+    },
+    {
+     "term": "have",
+     "weight": 10
+    },
+    {
+     "term": "september",
+     "weight": 10
+    },
+    {
+     "term": "has",
+     "weight": 9
+    },
+    {
+     "term": "stay",
+     "weight": 9
+    },
+    {
+     "term": "effective",
+     "weight": 9
+    },
+    {
+     "term": "effective stay",
+     "weight": 9
+    },
+    {
+     "term": "rent prorated",
+     "weight": 8
+    },
+    {
+     "term": "value",
+     "weight": 7
+    },
+    {
+     "term": "first",
+     "weight": 7
+    },
+    {
+     "term": "rental",
+     "weight": 7
+    },
+    {
+     "term": "tenant",
+     "weight": 7
+    },
+    {
+     "term": "day",
+     "weight": 7
+    }
+   ],
+   "claims": [
+    "When prorated rent is applied, and you move into an apartment on the 20th of September (which has 30 days), your payment for this month would be one-third (10 / 30), i.e.",
+    "Example of prorated rent calculation In the following example, let's make two assumptions: you move into a rented flat on the 15th of September, and the monthly rent is $650.",
+    "Below, you can see a step-by-step guide on how to calculate the prorated rent: Move-in date: the 15th of September.",
+    "Number of days of property occupancy: 16.",
+    "Prorated rent: $21.6667 × 16 = $346.67 Remember to be very careful with calculating the number of days you will occupy the apartment in a month.",
+    "Finally, your prorated rent in September is $346.67.",
+    "If you moved on the 6th of June, the prorated rent would be 83.3% of the total monthly rent.",
+    "Multiply the daily rent by the effective stay to find the prorated rent: prorated rent = monthly rent × 25/30 = monthly rent × 0.833.",
+    "Thus the prorated rent is 83.3% of the monthly one."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 6,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Moving date"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 9,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Bogna Szyk",
+    "published": "2018-02-07T11:04:55.395Z",
+    "modified": "2026-09-09T21:07:38.391Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 604,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 25,
+    "external": 1,
+    "contentInternal": 9,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "rent or buy calculator",
+     "rental commission calculator",
+     "rent calculator",
+     "net effective rent calculator",
+     "mortgage calculator",
+     "the next section",
+     "the months' length",
+     "what to offer on a house calculator",
+     "rent increase calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/finance/rent-or-buy",
+     "https://www.omnicalculator.com/finance/rental-commission",
+     "https://www.omnicalculator.com/finance/rent",
+     "https://www.omnicalculator.com/finance/net-effective-rent",
+     "https://www.omnicalculator.com/finance/mortgage",
+     "https://www.omnicalculator.com/finance/prorated-rent#example-of-prorated-rent-calculation",
+     "https://www.omnicalculator.com/finance/prorated-rent#the-months-length",
+     "https://www.omnicalculator.com/finance/what-to-offer-on-a-house",
+     "https://www.omnicalculator.com/finance/rent-increase"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.calculatorsoup.com/calculators/financial/prorated-rent-calculator.php": [
+   "HTTP 404"
+  ]
+ }
+}

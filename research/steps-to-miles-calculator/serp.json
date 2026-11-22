@@ -1,0 +1,239 @@
+{
+ "keywords": {
+  "steps to miles calculator": {
+   "fetchedAt": "2026-11-22T15:43:40.276Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 14800,
+   "fileKd": 22,
+   "fileIntent": "C",
+   "semrushCompetitor": {
+    "position": 2,
+    "url": "www.omnicalculator.com/sports/steps-to-miles"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.inchcalculator.com/steps-to-distance-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Steps to Miles Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.inchcalculator.com/steps-to-miles-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Steps to Miles Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.inchcalculator.com/steps-distance-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Steps to Miles Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.inchcalculator.com/miles-to-steps-calculator",
+     "domain": "www.inchcalculator.com",
+     "title": "Miles to Steps Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.omnicalculator.com/sports/steps-to-miles",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.thecalculatorsite.com/health/steps-miles.php",
+     "domain": "www.thecalculatorsite.com",
+     "title": "steps miles",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.stylecraze.com/tools/steps-to-miles-calculator",
+     "domain": "www.stylecraze.com",
+     "title": "Steps to Miles Calculator: How Many Steps Are In a Mile?",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.inchcalculator.com/distance-to-steps-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Miles to Steps Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://fitnessvolt.com/?p=65811",
+     "domain": "fitnessvolt.com",
+     "title": "Steps to Miles Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://fitnessvolt.com/steps-miles-calculator/",
+     "domain": "fitnessvolt.com",
+     "title": "steps miles calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.geeksforgeeks.org/?p=1204986",
+     "domain": "www.geeksforgeeks.org",
+     "title": "www.geeksforgeeks.org",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://wba.omnicalculator.com/sports/steps-to-miles",
+     "domain": "wba.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://wecovr.com/calculators/steps-to-miles-calculator/",
+     "domain": "wecovr.com",
+     "title": "steps to miles calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://goodcalculators.com/steps-to-miles-calculator/",
+     "domain": "goodcalculators.com",
+     "title": "Steps to Miles Calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://thecalculatorsite.com/health/miles-steps.php",
+     "domain": "thecalculatorsite.com",
+     "title": "Miles to Steps Calculator",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://www.easyunitconverter.com/steps-to-miles-calculator",
+     "domain": "www.easyunitconverter.com",
+     "title": "Steps to Miles Calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://totalshape.com/?p=1600534",
+     "domain": "totalshape.com",
+     "title": "STEPS TO MILES CALCULATOR Featured Image",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "steps-to-miles-calculator",
+ "page": "steps-to-miles-calculator",
+ "category": "health",
+ "name": "Steps To Miles Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T15:43:40.276Z",
+ "topCompetitors": [
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 1,
+   "keywords": 5,
+   "urls": [
+    "https://www.inchcalculator.com/steps-to-distance-calculator/",
+    "https://www.inchcalculator.com/steps-to-miles-calculator/",
+    "https://www.inchcalculator.com/steps-distance-calculator/",
+    "https://www.inchcalculator.com/miles-to-steps-calculator",
+    "https://www.inchcalculator.com/distance-to-steps-calculator/"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 5,
+   "keywords": 2,
+   "urls": [
+    "https://www.omnicalculator.com/sports/steps-to-miles",
+    "https://wba.omnicalculator.com/sports/steps-to-miles"
+   ]
+  },
+  {
+   "domain": "thecalculatorsite.com",
+   "bestRank": 6,
+   "keywords": 2,
+   "urls": [
+    "https://www.thecalculatorsite.com/health/steps-miles.php",
+    "https://thecalculatorsite.com/health/miles-steps.php"
+   ]
+  },
+  {
+   "domain": "fitnessvolt.com",
+   "bestRank": 9,
+   "keywords": 2,
+   "urls": [
+    "https://fitnessvolt.com/?p=65811",
+    "https://fitnessvolt.com/steps-miles-calculator/"
+   ]
+  },
+  {
+   "domain": "stylecraze.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.stylecraze.com/tools/steps-to-miles-calculator"
+   ]
+  },
+  {
+   "domain": "geeksforgeeks.org",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://www.geeksforgeeks.org/?p=1204986"
+   ]
+  },
+  {
+   "domain": "wecovr.com",
+   "bestRank": 13,
+   "keywords": 1,
+   "urls": [
+    "https://wecovr.com/calculators/steps-to-miles-calculator/"
+   ]
+  },
+  {
+   "domain": "goodcalculators.com",
+   "bestRank": 14,
+   "keywords": 1,
+   "urls": [
+    "https://goodcalculators.com/steps-to-miles-calculator/"
+   ]
+  },
+  {
+   "domain": "easyunitconverter.com",
+   "bestRank": 16,
+   "keywords": 1,
+   "urls": [
+    "https://www.easyunitconverter.com/steps-to-miles-calculator"
+   ]
+  },
+  {
+   "domain": "totalshape.com",
+   "bestRank": 17,
+   "keywords": 1,
+   "urls": [
+    "https://totalshape.com/?p=1600534"
+   ]
+  }
+ ]
+}

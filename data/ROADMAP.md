@@ -72,11 +72,11 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 13 on policy hold).
 | 66 | 7 | live | Money Counter | `money-counter` | finance | money counter money counter | 18100 | 21 | 63300 | 1 |
 | 67 | 7 | live | Ffmi Calculator | `ffmi-calculator` | health | ffmi calculator | 14800 | 21 | 14800 | 1 |
 | 68 | 7 | live | Dunk Calculator | `dunk-calculator` | education | dunk calculator | 4400 | 12 | 4400 | 1 |
-| 69 | 7 | todo | Horse Gestation Calculator | `horse-gestation-calculator` | health | mare gestation period calculator | 2900 | 9 | 5500 | 3 |
-| 70 | 7 | todo | Linear Feet Calculator | `linear-feet-calculator` | construction | linear feet calculator | 4400 | 14 | 8800 | 2 |
-| 71 | 8 | todo | Pro Rata Calculator | `pro-rata-calculator` | finance | pro rata calculator | 2900 | 7 | 2900 | 1 |
-| 72 | 8 | todo | Water Intake Calculator | `water-intake-calculator` | health | water calculator | 6600 | 31 | 33800 | 2 |
-| 73 | 8 | todo | Steps To Miles Calculator | `steps-to-miles-calculator` | health | steps to miles calculator | 14800 | 22 | 22900 | 1 |
+| 69 | 7 | live | Horse Gestation Calculator | `horse-gestation-calculator` | health | mare gestation period calculator | 2900 | 9 | 5500 | 3 |
+| 70 | 7 | live | Linear Feet Calculator | `linear-feet-calculator` | construction | linear feet calculator | 4400 | 14 | 8800 | 2 |
+| 71 | 8 | live | Pro Rata Calculator | `pro-rata-calculator` | finance | pro rata calculator | 2900 | 7 | 2900 | 1 |
+| 72 | 8 | live | Water Intake Calculator | `water-intake-calculator` | health | water calculator | 6600 | 31 | 33800 | 2 |
+| 73 | 8 | live | Steps To Miles Calculator | `steps-to-miles-calculator` | health | steps to miles calculator | 14800 | 22 | 22900 | 1 |
 | 74 | 8 | todo | Minecraft Circle | `minecraft-circle` | math | minecraft circle generator | 33100 | 29 | 49600 | 1 |
 | 75 | 8 | todo | Density Altitude Calculator | `density-altitude-calculator` | science | density altitude calculator | 2900 | 14 | 2900 | 1 |
 | 76 | 8 | todo | Height Calculator | `height-calculator` | health | khamis-roche method height calculator | 1600 | 11 | 110300 | 1 |

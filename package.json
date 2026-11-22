@@ -16,7 +16,8 @@
     "seo:record": "node scripts/seo/serp-record.mjs",
     "seo:check": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 node scripts/seo/browser-check.mjs",
     "seo:batch": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 node scripts/seo/batch.mjs",
-    "roadmap:overlap": "python3 -I scripts/check-overlap.py"
+    "roadmap:overlap": "python3 -I scripts/check-overlap.py",
+    "tools:count": "node scripts/count-tools.mjs"
   },
   "dependencies": {
     "next": "^16.4.6",

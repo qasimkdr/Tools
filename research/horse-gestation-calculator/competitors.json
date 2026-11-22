@@ -1,0 +1,291 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/biology/horse-gestation": {
+   "url": "https://www.omnicalculator.com/biology/horse-gestation",
+   "finalUrl": "https://www.omnicalculator.com/biology/horse-gestation",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T15:43:42.596Z",
+   "title": "Mare Gestation Calculator",
+   "metaDescription": "The mare gestation calculator will estimate the foaling date of your horse.",
+   "canonical": "https://www.omnicalculator.com/biology/horse-gestation",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Mare Gestation Calculator - Horse Gestation"
+   ],
+   "h2": [
+    "How long is a horse pregnant for?",
+    "What is foaling?",
+    "How to use the mare gestation calculator?",
+    "How to calculate foaling date with horse pregnancy length?",
+    "How far along is my mare?",
+    "FAQs"
+   ],
+   "h3": [
+    "When is breeding season for horses?",
+    "How do I calculate how far along my mare is?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Mare Gestation Calculator - Horse Gestation"
+    },
+    {
+     "level": 2,
+     "text": "How long is a horse pregnant for?"
+    },
+    {
+     "level": 2,
+     "text": "What is foaling?"
+    },
+    {
+     "level": 2,
+     "text": "How to use the mare gestation calculator?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate foaling date with horse pregnancy length?"
+    },
+    {
+     "level": 2,
+     "text": "How far along is my mare?"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "When is breeding season for horses?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate how far along my mare is?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 597,
+   "avgSentenceWords": 17,
+   "faqs": [
+    "How long is a horse pregnant for?",
+    "What is foaling?",
+    "How far along is my mare?",
+    "When is breeding season for horses?",
+    "How do I calculate how far along my mare is?",
+    "Curious about the pregnancies of other species?",
+    "How to use the mare gestation calculator?",
+    "How to calculate foaling date with horse pregnancy length?",
+    "Happy with the mare days in foal calculator?"
+   ],
+   "faqSchemaCount": 5,
+   "topics": [
+    {
+     "term": "date",
+     "weight": 20
+    },
+    {
+     "term": "calculator",
+     "weight": 18
+    },
+    {
+     "term": "gestation",
+     "weight": 14
+    },
+    {
+     "term": "gestation calculator",
+     "weight": 14
+    },
+    {
+     "term": "mare",
+     "weight": 12
+    },
+    {
+     "term": "horse",
+     "weight": 12
+    },
+    {
+     "term": "foaling",
+     "weight": 12
+    },
+    {
+     "term": "pregnancy",
+     "weight": 11
+    },
+    {
+     "term": "mating date",
+     "weight": 11
+    },
+    {
+     "term": "day",
+     "weight": 9
+    },
+    {
+     "term": "mating",
+     "weight": 8
+    },
+    {
+     "term": "mare gestation",
+     "weight": 8
+    },
+    {
+     "term": "due date",
+     "weight": 6
+    },
+    {
+     "term": "days",
+     "weight": 6
+    },
+    {
+     "term": "current",
+     "weight": 6
+    },
+    {
+     "term": "current date",
+     "weight": 6
+    },
+    {
+     "term": "horse gestation",
+     "weight": 5
+    },
+    {
+     "term": "date foaling",
+     "weight": 5
+    },
+    {
+     "term": "foaling date",
+     "weight": 5
+    },
+    {
+     "term": "horse pregnancy",
+     "weight": 5
+    },
+    {
+     "term": "pregnancy length",
+     "weight": 5
+    },
+    {
+     "term": "338 days",
+     "weight": 5
+    },
+    {
+     "term": "foaling matingdate",
+     "weight": 5
+    },
+    {
+     "term": "possible foaling",
+     "weight": 5
+    },
+    {
+     "term": "far along",
+     "weight": 5
+    },
+    {
+     "term": "due",
+     "weight": 4
+    },
+    {
+     "term": "calculate",
+     "weight": 4
+    },
+    {
+     "term": "length",
+     "weight": 4
+    },
+    {
+     "term": "foal",
+     "weight": 4
+    },
+    {
+     "term": "breeding",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "A typical adult horse female (mare) goes into labor (foals) around 330-345 days after mating."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 5,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Mating date",
+    "Foaling date"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 8,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Łucja Zaborowska",
+    "published": "2021-06-03T19:43:09.533Z",
+    "modified": "2026-08-06T15:03:20.428Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 473,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 22,
+    "external": 1,
+    "contentInternal": 6,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Cow gestation calculator",
+     "Goat gestation calculator",
+     "Sheep gestation calculator",
+     "llama calculator",
+     "VPD Calculator (Vapor Pressure Deficit)",
+     "Sod Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/biology/cow-gestation",
+     "https://www.omnicalculator.com/biology/goat-gestation",
+     "https://www.omnicalculator.com/biology/sheep-gestation",
+     "https://www.omnicalculator.com/biology/llama",
+     "https://www.omnicalculator.com/biology/vapor-pressure-deficit",
+     "https://www.omnicalculator.com/biology/sod"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

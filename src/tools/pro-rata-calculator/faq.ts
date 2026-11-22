@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "What does pro rata mean?", a: "Pro rata is Latin for 'in proportion'. A pro rata amount is a share of a total that matches the share of time, quantity or work it covers, such as rent for half a month or a salary for part-time hours." },
+  { q: "How do I calculate pro rata?", a: "Pro rata amount = full amount × (portion ÷ whole). For a $1,200 annual fee with 245 of 365 days remaining, the pro rata refund is 1,200 × 245 ÷ 365 = $805.48." },
+  { q: "How is prorated rent calculated?", a: "Work out a daily rate and multiply by the days you occupy the unit. Landlords use one of three common methods: the monthly rent ÷ days in that month, the annual rent ÷ 365 days, or the monthly rent ÷ 30. Moving in on February 20, 2027 with $1,500 rent, the 9 days cost $482.14, $443.84 or $450.00 depending on the method." },
+  { q: "Which prorating method is correct?", a: "There's no single legal standard everywhere; your lease or local law decides. The days-in-month method is the most common for rent; the 365-day method gives the same daily rate all year; the 30-day method is simple but over- or under-charges in 31-day months and February." },
+  { q: "How do I calculate a pro rata salary?", a: "Multiply the full-time salary by your hours divided by full-time hours. A $30,000 role at 37.5 hours a week worked for 22.5 hours pays 30,000 × 22.5 ÷ 37.5 = $18,000 a year (0.6 FTE)." },
+  { q: "Is the move-in day counted?", a: "Usually yes: if you move in on the 20th, you pay for the 20th through the end of the month. This calculator counts both the move-in and move-out days." },
+];

@@ -7446,7 +7446,7 @@
    ],
    "competitors": [],
    "category": "health",
-   "status": "todo",
+   "status": "live",
    "order": 69,
    "batch": 7
   },
@@ -7484,7 +7484,7 @@
    ],
    "competitors": [],
    "category": "construction",
-   "status": "todo",
+   "status": "live",
    "order": 70,
    "batch": 7
   },
@@ -7513,7 +7513,7 @@
    ],
    "competitors": [],
    "category": "finance",
-   "status": "todo",
+   "status": "live",
    "order": 71,
    "batch": 8
   },
@@ -7569,7 +7569,7 @@
     "www.omnicalculator.com/health/water-intake"
    ],
    "category": "health",
-   "status": "todo",
+   "status": "live",
    "order": 72,
    "batch": 8
   },
@@ -7608,7 +7608,7 @@
     "www.omnicalculator.com/sports/steps-to-miles"
    ],
    "category": "health",
-   "status": "todo",
+   "status": "live",
    "order": 73,
    "batch": 8
   },

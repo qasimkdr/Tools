@@ -1,0 +1,645 @@
+{
+ "pages": {
+  "https://www.inchcalculator.com/linear-feet-to-square-feet-calculator/": {
+   "url": "https://www.inchcalculator.com/linear-feet-to-square-feet-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/linear-feet-to-square-feet-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T15:43:46.431Z",
+   "title": "Linear Feet to Square Feet Calculator - Inch Calculator",
+   "metaDescription": "Convert linear footage to square footage with an easy-to-use conversion calculator. You can also convert from square feet to linear feet.",
+   "canonical": "https://www.inchcalculator.com/linear-feet-to-square-feet-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Linear Feet to Square Feet Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Area in Square Feet",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Convert Linear Feet to Square Feet",
+    "How to Convert Square Feet to Linear Feet",
+    "Frequently Asked Questions",
+    "Similar Flooring Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "How many square feet are in a linear foot?",
+    "How do you calculate linear feet for flooring?",
+    "What is the difference between linear feet and regular feet?",
+    "Are linear feet the same as board feet?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Linear Feet to Square Feet Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Area in Square Feet"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Convert Linear Feet to Square Feet"
+    },
+    {
+     "level": 2,
+     "text": "How to Convert Square Feet to Linear Feet"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "How many square feet are in a linear foot?"
+    },
+    {
+     "level": 3,
+     "text": "How do you calculate linear feet for flooring?"
+    },
+    {
+     "level": 3,
+     "text": "What is the difference between linear feet and regular feet?"
+    },
+    {
+     "level": 3,
+     "text": "Are linear feet the same as board feet?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Flooring Calculators"
+    }
+   ],
+   "wordCount": 949,
+   "avgSentenceWords": 22,
+   "faqs": [
+    "How many square feet are in a linear foot?",
+    "How do you calculate linear feet for flooring?",
+    "What is the difference between linear feet and regular feet?",
+    "Are linear feet the same as board feet?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "feet",
+     "weight": 55
+    },
+    {
+     "term": "linear feet",
+     "weight": 42
+    },
+    {
+     "term": "linear",
+     "weight": 36
+    },
+    {
+     "term": "square",
+     "weight": 31
+    },
+    {
+     "term": "square feet",
+     "weight": 29
+    },
+    {
+     "term": "area",
+     "weight": 19
+    },
+    {
+     "term": "length",
+     "weight": 18
+    },
+    {
+     "term": "width",
+     "weight": 17
+    },
+    {
+     "term": "square footage",
+     "weight": 14
+    },
+    {
+     "term": "footage",
+     "weight": 13
+    },
+    {
+     "term": "calculator",
+     "weight": 11
+    },
+    {
+     "term": "convert",
+     "weight": 11
+    },
+    {
+     "term": "material",
+     "weight": 9
+    },
+    {
+     "term": "measurement",
+     "weight": 9
+    },
+    {
+     "term": "flooring",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "material width",
+     "weight": 8
+    },
+    {
+     "term": "find",
+     "weight": 7
+    },
+    {
+     "term": "convert linear",
+     "weight": 6
+    },
+    {
+     "term": "linear foot",
+     "weight": 6
+    },
+    {
+     "term": "foot",
+     "weight": 6
+    },
+    {
+     "term": "linear footage",
+     "weight": 6
+    },
+    {
+     "term": "formula",
+     "weight": 6
+    },
+    {
+     "term": "border",
+     "weight": 6
+    },
+    {
+     "term": "calculate",
+     "weight": 5
+    },
+    {
+     "term": "feet calculator",
+     "weight": 5
+    },
+    {
+     "term": "feet width",
+     "weight": 5
+    },
+    {
+     "term": "area formula",
+     "weight": 5
+    },
+    {
+     "term": "board feet",
+     "weight": 5
+    },
+    {
+     "term": "results",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "For example, let’s find how many square feet of a flooring border you’ll need for a 6″ wide border measuring 12 linear feet.",
+    "width = 6″ / 12 = 0.5′ Now use the area formula to convert to square feet.",
+    "area = 12′ × 0.5′ area = 6 sq ft So, if you wanted to subtract the square footage of the border from the rest of the flooring, you would subtract 6 square feet from the total area.",
+    "For example, let’s find how many linear feet of hardwood flooring will be needed to cover a 120 sq.",
+    "width = 3″ / 12 = 0.25′ Now convert to linear feet.",
+    "Most flooring is sold and installed by the square foot, but borders are sold by the linear foot, or the length of the border in 12-inch increments.",
+    "A linear foot is a 12-inch measurement of length; other types of feet may include square feet (area) and board feet (lumber measurements).",
+    "Board feet refers only to the area measurement for lumber, and it’s the measurement of a board that is 12″ long by 12″ wide and 1″ thick, or 144 cubic inches."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 2,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "Linear Feet",
+    "Width",
+    "Width Units",
+    "Square Feet",
+    "Width",
+    "Width Units"
+   ],
+   "selectOptionsSample": "in ft yd cm m in ft yd cm m",
+   "unitToggle": true,
+   "wordsBeforeTool": 48,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2019-02-02",
+    "modified": "2026-10-05T19:04:58+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 123,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 45,
+    "external": 13,
+    "contentInternal": 21,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Convert Linear Feet to Square Feet",
+     "How to Convert Square Feet to Linear Feet",
+     "Frequently Asked Questions",
+     "Full bio",
+     "Linear Feet to Square Feet Calculator",
+     "distance",
+     "different types of measure",
+     "area formula",
+     "how to find linear feet",
+     "square footage calculator",
+     "Board feet",
+     "Flooring Calculator",
+     "Tile Calculator and Cost Estimator",
+     "Square Yards Calculator",
+     "Area Conversion Calculators",
+     "Bathroom Tile Flooring Cost Guide",
+     "See All"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/linear-feet-to-square-feet-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/lf-to-sf/",
+     "https://www.inchcalculator.com/linear-feet-to-square-feet-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/linear-feet-to-square-feet-calculator/#idx_how_to_convert_linear_feet_to_square_feet",
+     "https://www.inchcalculator.com/linear-feet-to-square-feet-calculator/#idx_how_to_convert_square_feet_to_linear_feet",
+     "https://www.inchcalculator.com/linear-feet-to-square-feet-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/sarabeth-asaff-south/",
+     "https://www.inchcalculator.com/linear-feet-to-square-feet-calculator/",
+     "https://www.inchcalculator.com/distance-calculator/",
+     "https://www.inchcalculator.com/difference-between-linear-feet-and-square-feet/",
+     "https://www.inchcalculator.com/area-calculator/",
+     "https://www.inchcalculator.com/how-to-calculate-linear-feet/",
+     "https://www.inchcalculator.com/square-footage-calculator/",
+     "https://www.inchcalculator.com/board-footage-calculator/",
+     "https://www.inchcalculator.com/flooring-calculator/",
+     "https://www.inchcalculator.com/tile-calculator/",
+     "https://www.inchcalculator.com/square-yards-calculator/",
+     "https://www.inchcalculator.com/convert/area/",
+     "https://www.inchcalculator.com/cost-to-install-bathroom-tile-floor/",
+     "https://www.inchcalculator.com/flooring-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Flinear-feet-to-square-feet-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Flinear-feet-to-square-feet-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Flinear-feet-to-square-feet-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Flinear-feet-to-square-feet-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Flinear-feet-to-square-feet-calculator%2F&text=Linear+Feet+to+Square+Feet+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Flinear-feet-to-square-feet-calculator%2F&text=Linear+Feet+to+Square+Feet+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/everyday-life/price-per-linear-foot": {
+   "url": "https://www.omnicalculator.com/everyday-life/price-per-linear-foot",
+   "finalUrl": "https://www.omnicalculator.com/everyday-life/price-per-linear-foot",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T15:43:49.811Z",
+   "title": "Price Per Linear Foot Calculator",
+   "metaDescription": "Our price per linear foot calculator assists you in determining the cost efficiency of materials or products by their length, calculating the price per linear foot from their total cost, and facilitating comparisons between different options.",
+   "canonical": "https://www.omnicalculator.com/everyday-life/price-per-linear-foot",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Price Per Linear Foot Calculator"
+   ],
+   "h2": [
+    "What is price per linear foot?",
+    "How to calculate price per linear foot",
+    "Other similar calculators",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I calculate the price per linear foot?",
+    "What is the price per linear foot if the 20-foot material cost $100?",
+    "Why is price per linear foot important?",
+    "In which industries is price per linear foot commonly used?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Price Per Linear Foot Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is price per linear foot?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate price per linear foot"
+    },
+    {
+     "level": 2,
+     "text": "Other similar calculators"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate the price per linear foot?"
+    },
+    {
+     "level": 3,
+     "text": "What is the price per linear foot if the 20-foot material cost $100?"
+    },
+    {
+     "level": 3,
+     "text": "Why is price per linear foot important?"
+    },
+    {
+     "level": 3,
+     "text": "In which industries is price per linear foot commonly used?"
+    }
+   ],
+   "wordCount": 645,
+   "avgSentenceWords": 22,
+   "faqs": [
+    "How do I calculate the price per linear foot?",
+    "What is the price per linear foot if the 20-foot material cost $100?",
+    "Why is price per linear foot important?",
+    "In which industries is price per linear foot commonly used?",
+    "What is price per linear foot?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "price",
+     "weight": 37
+    },
+    {
+     "term": "linear foot",
+     "weight": 36
+    },
+    {
+     "term": "linear",
+     "weight": 30
+    },
+    {
+     "term": "foot",
+     "weight": 27
+    },
+    {
+     "term": "cost",
+     "weight": 23
+    },
+    {
+     "term": "length",
+     "weight": 22
+    },
+    {
+     "term": "material",
+     "weight": 21
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "material length",
+     "weight": 12
+    },
+    {
+     "term": "calculator price",
+     "weight": 11
+    },
+    {
+     "term": "linear feet",
+     "weight": 9
+    },
+    {
+     "term": "total cost",
+     "weight": 8
+    },
+    {
+     "term": "material cost",
+     "weight": 8
+    },
+    {
+     "term": "calculate",
+     "weight": 7
+    },
+    {
+     "term": "total",
+     "weight": 6
+    },
+    {
+     "term": "materials",
+     "weight": 6
+    },
+    {
+     "term": "feet",
+     "weight": 6
+    },
+    {
+     "term": "foot material",
+     "weight": 6
+    },
+    {
+     "term": "unit",
+     "weight": 5
+    },
+    {
+     "term": "products",
+     "weight": 5
+    },
+    {
+     "term": "cost effectiveness",
+     "weight": 5
+    },
+    {
+     "term": "cost efficiency",
+     "weight": 5
+    },
+    {
+     "term": "cost material",
+     "weight": 5
+    },
+    {
+     "term": "value",
+     "weight": 4
+    },
+    {
+     "term": "foot calculator",
+     "weight": 3
+    },
+    {
+     "term": "length total",
+     "weight": 3
+    },
+    {
+     "term": "cost price",
+     "weight": 3
+    },
+    {
+     "term": "unit length",
+     "weight": 3
+    },
+    {
+     "term": "unit price",
+     "weight": 3
+    },
+    {
+     "term": "effectiveness",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "In our example, the material length is 100 linear feet.",
+    "Now, calculate the price per linear foot for the material using this formula: price per linear foot = material cost / material length Therefore, the price per linear foot for this material is $500 / 100 = $5.00.",
+    "The price per linear foot of a 20-foot material costing $100 is $5 / foot."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 5,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": true,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Wei Bin Loo",
+    "published": "2023-11-17T19:52:32.831Z",
+    "modified": "2024-03-14T13:30:22.299Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 707,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 27,
+    "external": 1,
+    "contentInternal": 11,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Unit price calculator",
+     "Price per unit calculator",
+     "Price per ounce calculator",
+     "Cost per minute calculator",
+     "Price per round calculator",
+     "Price per pound calculator",
+     "Cost per mile calculator",
+     "Price per square inch calculator",
+     "Price per weight calculator",
+     "Price per share calculator",
+     "Price per acre calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/everyday-life/unit-price",
+     "https://www.omnicalculator.com/everyday-life/price-per-unit",
+     "https://www.omnicalculator.com/everyday-life/price-per-ounce",
+     "https://www.omnicalculator.com/everyday-life/cost-per-minute",
+     "https://www.omnicalculator.com/everyday-life/price-per-round",
+     "https://www.omnicalculator.com/everyday-life/price-per-pound",
+     "https://www.omnicalculator.com/everyday-life/cost-per-mile",
+     "https://www.omnicalculator.com/everyday-life/price-per-square-inch",
+     "https://www.omnicalculator.com/everyday-life/price-per-weight",
+     "https://www.omnicalculator.com/finance/price-per-share",
+     "https://www.omnicalculator.com/everyday-life/price-per-acre"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

@@ -1,0 +1,1112 @@
+{
+ "pages": {
+  "https://www.inchcalculator.com/steps-to-miles-calculator/": {
+   "url": "https://www.inchcalculator.com/steps-to-miles-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/steps-to-miles-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T15:44:07.101Z",
+   "title": "Steps to Miles Calculator - How Far Did I Walk? - Inch Calculator",
+   "metaDescription": "Find how many miles you've walked for the number of steps taken. On average, it takes 2,200 steps to walk a mile, how many does it take you?",
+   "canonical": "https://www.inchcalculator.com/steps-to-miles-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Steps to Miles Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Distance",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Convert Steps to Miles Walked",
+    "Frequently Asked Questions",
+    "Steps to Miles Chart",
+    "Similar Fitness Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Steps to Distance Ratio:",
+    "Step One: Find Your Stride Length",
+    "Step Two: Calculate the Distance",
+    "Step Three: Convert to Miles",
+    "How many miles is 10,000 steps?",
+    "How many miles is 20,000 steps?",
+    "How long does it take to walk a mile?",
+    "How long does it take to run a mile?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Steps to Miles Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Distance"
+    },
+    {
+     "level": 3,
+     "text": "Steps to Distance Ratio:"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Convert Steps to Miles Walked"
+    },
+    {
+     "level": 3,
+     "text": "Step One: Find Your Stride Length"
+    },
+    {
+     "level": 3,
+     "text": "Step Two: Calculate the Distance"
+    },
+    {
+     "level": 3,
+     "text": "Step Three: Convert to Miles"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "How many miles is 10,000 steps?"
+    },
+    {
+     "level": 3,
+     "text": "How many miles is 20,000 steps?"
+    },
+    {
+     "level": 3,
+     "text": "How long does it take to walk a mile?"
+    },
+    {
+     "level": 3,
+     "text": "How long does it take to run a mile?"
+    },
+    {
+     "level": 2,
+     "text": "Steps to Miles Chart"
+    },
+    {
+     "level": 2,
+     "text": "Similar Fitness Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 1623,
+   "avgSentenceWords": 35,
+   "faqs": [
+    "How many miles is 10,000 steps?",
+    "How many miles is 20,000 steps?",
+    "How long does it take to walk a mile?",
+    "How long does it take to run a mile?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "steps",
+     "weight": 58
+    },
+    {
+     "term": "miles",
+     "weight": 37
+    },
+    {
+     "term": "000 steps",
+     "weight": 35
+    },
+    {
+     "term": "distance",
+     "weight": 28
+    },
+    {
+     "term": "length",
+     "weight": 27
+    },
+    {
+     "term": "step",
+     "weight": 24
+    },
+    {
+     "term": "stride length",
+     "weight": 23
+    },
+    {
+     "term": "mile",
+     "weight": 19
+    },
+    {
+     "term": "stride",
+     "weight": 19
+    },
+    {
+     "term": "step length",
+     "weight": 17
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "walked",
+     "weight": 14
+    },
+    {
+     "term": "walk",
+     "weight": 13
+    },
+    {
+     "term": "height",
+     "weight": 12
+    },
+    {
+     "term": "https www",
+     "weight": 11
+    },
+    {
+     "term": "number",
+     "weight": 10
+    },
+    {
+     "term": "convert",
+     "weight": 10
+    },
+    {
+     "term": "walking",
+     "weight": 10
+    },
+    {
+     "term": "have",
+     "weight": 9
+    },
+    {
+     "term": "pace",
+     "weight": 9
+    },
+    {
+     "term": "inches",
+     "weight": 9
+    },
+    {
+     "term": "run",
+     "weight": 8
+    },
+    {
+     "term": "feet",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "https",
+     "weight": 8
+    },
+    {
+     "term": "person",
+     "weight": 8
+    },
+    {
+     "term": "many",
+     "weight": 7
+    },
+    {
+     "term": "www",
+     "weight": 7
+    },
+    {
+     "term": "day",
+     "weight": 7
+    },
+    {
+     "term": "many miles",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "For example, if your step length is 2.4′ and you walked 9,500 steps in a day, that would equal 22,800, which would be your distance in feet.",
+    "To convert the distance to miles, divide the final distance by 5,280 (the number of feet in a mile).",
+    "For example, a person who is 70″ tall with a stride of 31 1/2” (a step length of 2.62′) and walked 10,000 steps will have walked a distance of 315,000″.",
+    "For most people, walking 10,000 steps is approximately five miles.[5] With that said, factors such as the intensity level of your walk as well as your stride length will determine exactly how far you walk.",
+    "As we just mentioned, your stride length and walking intensity will affect the exact distance you walk per step, but most people will walk around 10 miles in 20,000 steps.",
+    "An elite runner can run a mile in under 5 minutes, but most people run a mile in 6-13 minutes.[7] Steps to Miles Chart The chart below shows the average distance walked for various step-counts."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 3,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "ft",
+    "in",
+    "Steps",
+    "cm",
+    "Steps"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 27,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2018-01-12",
+    "modified": "2026-10-05T19:58:34+00:00",
+    "authoritativeSources": [
+     "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2894114/"
+    ]
+   },
+   "ux": {
+    "htmlKB": 132,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 48,
+    "external": 20,
+    "contentInternal": 24,
+    "contentExternal": 14,
+    "internalAnchors": [
+     "convert miles to steps",
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Convert Steps to Miles Walked",
+     "Step One: Find Your Stride Length",
+     "Step Two: Calculate the Distance",
+     "Step Three: Convert to Miles",
+     "Frequently Asked Questions",
+     "Steps to Miles Chart",
+     "References",
+     "Full bio",
+     "Steps to Miles Calculator",
+     "calories you burn walking",
+     "conversion calculator",
+     "steps to km",
+     "Convert inches to feet",
+     "convert inches to miles",
+     "pace and distance calculator",
+     "Target Heart Rate Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/miles-to-steps-calculator/",
+     "https://www.inchcalculator.com/steps-to-miles-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/steps-to-distance/",
+     "https://www.inchcalculator.com/steps-to-miles-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/steps-to-miles-calculator/#idx_how_to_convert_steps_to_miles_walked",
+     "https://www.inchcalculator.com/steps-to-miles-calculator/#idx_step_one_find_your_stride_length",
+     "https://www.inchcalculator.com/steps-to-miles-calculator/#idx_step_two_calculate_the_distance",
+     "https://www.inchcalculator.com/steps-to-miles-calculator/#idx_step_three_convert_to_miles",
+     "https://www.inchcalculator.com/steps-to-miles-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/steps-to-miles-calculator/#idx_steps_to_miles_chart",
+     "https://www.inchcalculator.com/steps-to-miles-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/hannah-daugherty/",
+     "https://www.inchcalculator.com/steps-to-miles-calculator/",
+     "https://www.inchcalculator.com/steps-to-calories-calculator/",
+     "https://www.inchcalculator.com/convert/length/",
+     "https://www.inchcalculator.com/steps-to-kilometers-calculator/",
+     "https://www.inchcalculator.com/convert/inch-to-foot/",
+     "https://www.inchcalculator.com/convert/inch-to-mile/",
+     "https://www.inchcalculator.com/pace-distance-calculator/",
+     "https://www.inchcalculator.com/target-heart-rate-calculator/",
+     "https://www.inchcalculator.com/one-rep-max-calculator/",
+     "https://www.inchcalculator.com/zone-2-heart-rate-calculator/",
+     "https://www.inchcalculator.com/fitness-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fsteps-to-miles-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fsteps-to-miles-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fsteps-to-miles-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fsteps-to-miles-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fsteps-to-miles-calculator%2F&text=Steps+to+Miles+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fsteps-to-miles-calculator%2F&text=Steps+to+Miles+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://www.researchgate.net/publication/232204625_One-Mile_Step_Count_At_Walking_and_Running_Speeds",
+     "https://www.scientificamerican.com/article/bring-science-home-estimating-height-walk/",
+     "https://www.verywellfit.com/10000-steps-per-day-fitness-weight-loss-3435744",
+     "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2894114/",
+     "https://www.theatlantic.com/health/archive/2019/05/10000-steps-rule/590785/",
+     "https://www.verywellfit.com/miles-and-kilometers-how-far-is-that-3435412",
+     "https://marathonhandbook.com/how-long-does-it-take-to-run-a-mile/"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/sports/steps-to-miles": {
+   "url": "https://www.omnicalculator.com/sports/steps-to-miles",
+   "finalUrl": "https://www.omnicalculator.com/sports/steps-to-miles",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T15:44:10.316Z",
+   "title": "Steps to Miles Calculator",
+   "metaDescription": "The steps to miles calculator estimates distance based on stride length and the number of steps walked.",
+   "canonical": "https://www.omnicalculator.com/sports/steps-to-miles",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Steps to Miles Calculator"
+   ],
+   "h2": [
+    "Steps to miles calculator — convert steps to miles",
+    "Steps per mile calculator — how many steps per mile do you take?",
+    "Average steps in a mile — how many steps does it take to make a mile?",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I convert steps to miles?",
+    "How do I calculate steps in a mile?",
+    "How many steps are there in a mile?",
+    "How many steps are there in 3 miles?",
+    "How many miles is 10,000 steps?",
+    "How many miles is 5,000 steps?",
+    "How many miles is 15,000 steps?",
+    "How many miles is 20,000 steps?",
+    "How many miles is 6,000 steps?",
+    "How many miles is 12,000 steps?",
+    "How many miles is 8,000 steps?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Steps to Miles Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Steps to miles calculator — convert steps to miles"
+    },
+    {
+     "level": 2,
+     "text": "Steps per mile calculator — how many steps per mile do you take?"
+    },
+    {
+     "level": 2,
+     "text": "Average steps in a mile — how many steps does it take to make a mile?"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I convert steps to miles?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate steps in a mile?"
+    },
+    {
+     "level": 3,
+     "text": "How many steps are there in a mile?"
+    },
+    {
+     "level": 3,
+     "text": "How many steps are there in 3 miles?"
+    },
+    {
+     "level": 3,
+     "text": "How many miles is 10,000 steps?"
+    },
+    {
+     "level": 3,
+     "text": "How many miles is 5,000 steps?"
+    },
+    {
+     "level": 3,
+     "text": "How many miles is 15,000 steps?"
+    },
+    {
+     "level": 3,
+     "text": "How many miles is 20,000 steps?"
+    },
+    {
+     "level": 3,
+     "text": "How many miles is 6,000 steps?"
+    },
+    {
+     "level": 3,
+     "text": "How many miles is 12,000 steps?"
+    },
+    {
+     "level": 3,
+     "text": "How many miles is 8,000 steps?"
+    }
+   ],
+   "wordCount": 1199,
+   "avgSentenceWords": 17,
+   "faqs": [
+    "How do I convert steps to miles?",
+    "How do I calculate steps in a mile?",
+    "How many steps are there in a mile?",
+    "How many steps are there in 3 miles?",
+    "How many miles is 10,000 steps?",
+    "How many miles is 5,000 steps?",
+    "How many miles is 15,000 steps?",
+    "How many miles is 20,000 steps?",
+    "How many miles is 6,000 steps?",
+    "How many miles is 12,000 steps?",
+    "How many miles is 8,000 steps?",
+    "Steps per mile calculator — how many steps per mile do you take?",
+    "Average steps in a mile — how many steps does it take to make a mile?"
+   ],
+   "faqSchemaCount": 11,
+   "topics": [
+    {
+     "term": "steps",
+     "weight": 67
+    },
+    {
+     "term": "stride length",
+     "weight": 47
+    },
+    {
+     "term": "000 steps",
+     "weight": 35
+    },
+    {
+     "term": "miles",
+     "weight": 33
+    },
+    {
+     "term": "length",
+     "weight": 32
+    },
+    {
+     "term": "stride",
+     "weight": 31
+    },
+    {
+     "term": "average",
+     "weight": 20
+    },
+    {
+     "term": "mile",
+     "weight": 19
+    },
+    {
+     "term": "many",
+     "weight": 18
+    },
+    {
+     "term": "calculator",
+     "weight": 15
+    },
+    {
+     "term": "number",
+     "weight": 15
+    },
+    {
+     "term": "exact number",
+     "weight": 15
+    },
+    {
+     "term": "average stride",
+     "weight": 15
+    },
+    {
+     "term": "number depends",
+     "weight": 14
+    },
+    {
+     "term": "individual's height",
+     "weight": 14
+    },
+    {
+     "term": "many steps",
+     "weight": 12
+    },
+    {
+     "term": "average step",
+     "weight": 12
+    },
+    {
+     "term": "height",
+     "weight": 12
+    },
+    {
+     "term": "many miles",
+     "weight": 12
+    },
+    {
+     "term": "distance",
+     "weight": 11
+    },
+    {
+     "term": "exact",
+     "weight": 11
+    },
+    {
+     "term": "steps make",
+     "weight": 11
+    },
+    {
+     "term": "step",
+     "weight": 9
+    },
+    {
+     "term": "make",
+     "weight": 9
+    },
+    {
+     "term": "depends",
+     "weight": 9
+    },
+    {
+     "term": "individual's",
+     "weight": 9
+    },
+    {
+     "term": "take",
+     "weight": 7
+    },
+    {
+     "term": "convert",
+     "weight": 7
+    },
+    {
+     "term": "woman",
+     "weight": 7
+    },
+    {
+     "term": "man",
+     "weight": 7
+    }
+   ],
+   "claims": [
+    "To get the result, you just need to set the unit of distance to \"miles\" and enter \"1\".",
+    "Then, you'll see the number of steps — \"2,400\" for females and \"2,112\" for males.",
+    "It uses the following steps to miles conversion formula: distance / stride length = steps As we said, the average stride length for women hovers around 2.2 ft, and it will be the stride length in our example.",
+    "To convert steps to miles: Determine the stride length - measure it or assume 2.2 ft if you're female and 2.5 ft if you're male.",
+    "Use the following mile to steps conversion formula distance / stride length = steps: Convert a mile to feet : 1 mile = 5280 feet.",
+    "Walking a mile means taking around 2,000 steps.",
+    "If we assume an average stride length (2.2 ft for women and 2.5 ft for men), a mile will take 2,112 male steps and 2,400 female steps.",
+    "Walking 3 miles means taking around 6-7 thousand steps.",
+    "If we assume an average stride length (2.2 ft for women and 2.5 ft for men), 3 miles will take 6,336 male steps and 7,206 female steps.",
+    "For a woman with an average stride length (2.2 ft), 10,000 steps are 4.163 mi, and for a man with an average step (2.5 ft), it's 4.735 mi."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": true,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Rita Rain",
+    "published": "2021-04-13T16:46:33.890Z",
+    "modified": "2026-08-21T13:40:39.734Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 497,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 19,
+    "external": 1,
+    "contentInternal": 3,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "stride length",
+     "steps to km calculator",
+     "steps to calories calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/sports/stride-length",
+     "https://www.omnicalculator.com/sports/steps-to-km",
+     "https://www.omnicalculator.com/sports/steps-to-calories"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.thecalculatorsite.com/health/steps-miles.php": {
+   "url": "https://www.thecalculatorsite.com/health/steps-miles.php",
+   "finalUrl": "https://www.thecalculatorsite.com/health/steps-miles.php",
+   "mode": "offline-parse",
+   "domain": "www.thecalculatorsite.com",
+   "fetchedAt": "2026-11-22T15:44:13.556Z",
+   "title": "Steps to Miles Calculator",
+   "metaDescription": "Calculate how how many miles you have walked or run for a number of steps",
+   "canonical": "https://www.thecalculatorsite.com/health/steps-miles.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Steps to Miles Calculator"
+   ],
+   "h2": [
+    "Calculating steps and miles",
+    "Steps to miles for walking, running steps",
+    "How to calculate steps to miles",
+    "Does age affect step/stride length?",
+    "How many steps is enough?",
+    "Calculating calories burned"
+   ],
+   "h3": [
+    "How many miles is 20,000 steps?",
+    "How many miles is 15,000 steps?",
+    "How many miles is 10,000 steps?",
+    "How many miles is 5,000 steps?",
+    "Formula for calories burned per minute",
+    "Calories burned per mile when walking",
+    "Calories burned per mile when running",
+    "References:"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Steps to Miles Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Calculating steps and miles"
+    },
+    {
+     "level": 2,
+     "text": "Steps to miles for walking, running steps"
+    },
+    {
+     "level": 3,
+     "text": "How many miles is 20,000 steps?"
+    },
+    {
+     "level": 3,
+     "text": "How many miles is 15,000 steps?"
+    },
+    {
+     "level": 3,
+     "text": "How many miles is 10,000 steps?"
+    },
+    {
+     "level": 3,
+     "text": "How many miles is 5,000 steps?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate steps to miles"
+    },
+    {
+     "level": 2,
+     "text": "Does age affect step/stride length?"
+    },
+    {
+     "level": 2,
+     "text": "How many steps is enough?"
+    },
+    {
+     "level": 2,
+     "text": "Calculating calories burned"
+    },
+    {
+     "level": 3,
+     "text": "Formula for calories burned per minute"
+    },
+    {
+     "level": 3,
+     "text": "Calories burned per mile when walking"
+    },
+    {
+     "level": 3,
+     "text": "Calories burned per mile when running"
+    },
+    {
+     "level": 3,
+     "text": "References:"
+    },
+    {
+     "level": 4,
+     "text": "Finance"
+    },
+    {
+     "level": 4,
+     "text": "Home & Garden"
+    },
+    {
+     "level": 4,
+     "text": "Cooking"
+    },
+    {
+     "level": 4,
+     "text": "Website"
+    }
+   ],
+   "wordCount": 3304,
+   "avgSentenceWords": 23,
+   "faqs": [
+    "How many miles is 20,000 steps?",
+    "How many miles is 15,000 steps?",
+    "How many miles is 10,000 steps?",
+    "How many miles is 5,000 steps?",
+    "Does age affect step/stride length?",
+    "How many steps is enough?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "steps",
+     "weight": 89
+    },
+    {
+     "term": "miles",
+     "weight": 77
+    },
+    {
+     "term": "000 steps",
+     "weight": 59
+    },
+    {
+     "term": "calculator",
+     "weight": 58
+    },
+    {
+     "term": "step",
+     "weight": 31
+    },
+    {
+     "term": "walking",
+     "weight": 28
+    },
+    {
+     "term": "length",
+     "weight": 25
+    },
+    {
+     "term": "step length",
+     "weight": 23
+    },
+    {
+     "term": "average",
+     "weight": 20
+    },
+    {
+     "term": "many",
+     "weight": 20
+    },
+    {
+     "term": "calories",
+     "weight": 20
+    },
+    {
+     "term": "grams",
+     "weight": 19
+    },
+    {
+     "term": "mile",
+     "weight": 19
+    },
+    {
+     "term": "weight",
+     "weight": 18
+    },
+    {
+     "term": "health",
+     "weight": 17
+    },
+    {
+     "term": "pounds",
+     "weight": 16
+    },
+    {
+     "term": "feet",
+     "weight": 15
+    },
+    {
+     "term": "walk",
+     "weight": 15
+    },
+    {
+     "term": "many miles",
+     "weight": 15
+    },
+    {
+     "term": "height",
+     "weight": 14
+    },
+    {
+     "term": "inches",
+     "weight": 13
+    },
+    {
+     "term": "stride length",
+     "weight": 12
+    },
+    {
+     "term": "cups",
+     "weight": 11
+    },
+    {
+     "term": "exercise",
+     "weight": 11
+    },
+    {
+     "term": "number",
+     "weight": 11
+    },
+    {
+     "term": "stride",
+     "weight": 11
+    },
+    {
+     "term": "average height",
+     "weight": 11
+    },
+    {
+     "term": "data",
+     "weight": 10
+    },
+    {
+     "term": "age",
+     "weight": 10
+    },
+    {
+     "term": "running",
+     "weight": 10
+    }
+   ],
+   "claims": [
+    "Using this steps-per-mile walking average, we can approximate the following: A half-mile = 1,125 walking steps.",
+    "A woman of average height (5ft 4in) walking 20,000 steps at a regular walking speed will travel about 8.6 miles, whilst a man of average height (5ft 9in) will walk about 9 miles.",
+    "15,000 steps convert to about 6 ¾ miles.",
+    "A woman of average height (5ft 4in) walking 15,000 steps at a regular walking speed will travel about 6.5 miles, whilst a man of average height (5ft 9in) will walk about 6 ¾ miles.",
+    "10,000 steps convert to about 4 ½ miles at a moderate walking pace of 3 mph.",
+    "A woman of average height (5ft 4in) walking 5,000 steps at a regular walking speed will walk about 2.15 miles, whilst a man of average height (5ft 9in) will walk about 2 ¼ miles.",
+    "Take 10 steps (making sure you either run or walk, depending on which step length you want to measure).",
+    "Convert your inch figure to miles by dividing it by 63,360 (converter here).",
+    "You'll likely have heard the adage of taking 10,000 steps a day to help maintain a healthy lifestyle.",
+    "The 10,000 steps concept took off and gradually spread worldwide as an achievable daily target for maintaining good health."
+   ],
+   "schemaTypes": [
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 33,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "I want to calculate/convert...",
+    "female",
+    "male",
+    "Height:",
+    "heightUnit",
+    "inches",
+    "heightUnit2",
+    "Pace of walk/run:",
+    "steps",
+    "caloriesCX",
+    "Your weight:",
+    "pounds",
+    "kg",
+    "stone",
+    "rememberDetails"
+   ],
+   "selectOptionsSample": "feet cm inches very slow walk (<2mph) slow walk (2mph) average walk (3mph) brisk walk (4mph) jog (5mph) run (6mph) fast run (7.5mph) very fast run (10mph)",
+   "unitToggle": true,
+   "wordsBeforeTool": 7,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": "May 18, 2026",
+    "authoritativeSources": [
+     "https://scholars.duke.edu/display/pub1497639",
+     "https://health.gov/paguidelines/second-edition/pdf/Physical_Activity_Guidelines_2nd_edition.pdf#page=55",
+     "https://ouhsc.edu/bserdac/dthompso/web/gait/knmatics/stride.htm"
+    ]
+   },
+   "ux": {
+    "htmlKB": 328,
+    "adNetworks": [
+     "gpt",
+     "adthrive",
+     "ezoic"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 194,
+    "external": 17,
+    "contentInternal": 194,
+    "contentExternal": 17,
+    "internalAnchors": [
+     "Finance Calculators",
+     "Compound Interest",
+     "Compound Interest (Daily)",
+     "Amortization Calculator",
+     "APY Calculator",
+     "CAGR Calculator",
+     "Car Loan Calculator",
+     "Cash Back Calculator",
+     "Currency Converter",
+     "Forex Compounding",
+     "Future Value Calculator",
+     "How Long to Save",
+     "Interest Rate Calculator",
+     "Investment Calculator",
+     "IRR Calculator",
+     "Loan Calculator",
+     "Loan Payoff Calculator",
+     "Margin Calculator",
+     "Million to Billion Converter",
+     "MMA Calculator"
+    ],
+    "internalSample": [
+     "https://www.thecalculatorsite.com/",
+     "https://www.thecalculatorsite.com/finance/",
+     "https://www.thecalculatorsite.com/finance/calculators/compoundinterestcalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/daily-compound-interest.php",
+     "https://www.thecalculatorsite.com/finance/calculators/amortization-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/apy-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/cagr-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/carloancalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/cash-back.php",
+     "https://www.thecalculatorsite.com/finance/calculators/currencyconverter.php",
+     "https://www.thecalculatorsite.com/finance/calculators/forex-compound-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/future-value-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/how-long-to-save",
+     "https://www.thecalculatorsite.com/finance/calculators/interest-rate-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/investment-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/irr-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/loancalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/loan-payoff-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/margin-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/million-billion",
+     "https://www.thecalculatorsite.com/finance/calculators/money-market-account.php",
+     "https://www.thecalculatorsite.com/finance/calculators/money-counter.php",
+     "https://www.thecalculatorsite.com/finance/calculators/price-per-sqft.php",
+     "https://www.thecalculatorsite.com/finance/calculators/savings-calculators.php",
+     "https://www.thecalculatorsite.com/finance/calculators/savings-goal-calculator.php"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=thecalculatorsite.com",
+     "https://www.acsm.org/",
+     "https://www.zmescience.com/science/how-steps-a-day-should-i-walk/",
+     "https://scholars.duke.edu/display/pub1497639",
+     "https://sites.google.com/site/compendiumofphysicalactivities/",
+     "https://www.livestrong.com/article/314404-how-many-calories-do-you-lose-per-mile/",
+     "https://oce.ovid.com/article/00135124-200801000-00007/HTML",
+     "https://link.springer.com/article/10.1007/s40279-016-0663-1",
+     "https://journals.physiology.org/doi/full/10.1152/jappl.2000.88.5.1804",
+     "https://journals.lww.com/acsm-msse/fulltext/2016/01000/The_Relationships_between_Age_and_Running.14.aspx",
+     "https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/",
+     "https://health.gov/paguidelines/second-edition/pdf/Physical_Activity_Guidelines_2nd_edition.pdf#page=55",
+     "https://ouhsc.edu/bserdac/dthompso/web/gait/knmatics/stride.htm",
+     "https://onlinelibrary.wiley.com/doi/10.1111/joim.13413",
+     "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2783711"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

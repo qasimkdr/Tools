@@ -57,3 +57,5 @@ Rows with status `hold` are policy-sensitive: never build without the owner's OK
    Overlaps between two not-yet-built pages: merge them into one new tool (your call).
 10. Owner rule (2026-11-22): every batch report ends with **"Competitors we beat"**: per tool, the researched competitor
    pages with their scores and what our page does better (format: `docs/03-TOOL-BUILD-WORKFLOW.md` Step 7).
+11. Owner rule (2026-11-22): every batch report also ends with the **total number of published tools and the count per
+   category** (run `npm run -s tools:count`).
