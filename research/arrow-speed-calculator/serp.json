@@ -1,0 +1,254 @@
+{
+ "keywords": {
+  "arrow speed calculator": {
+   "fetchedAt": "2026-11-22T17:20:26.980Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 2900,
+   "fileKd": 10,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.omnicalculator.com/physics/arrow-speed?c=EUR",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://omnicalculator.com/physics/arrow-speed",
+     "domain": "omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.firgelliauto.com/blogs/engineering-calculators/arrow-speed-calculator",
+     "domain": "www.firgelliauto.com",
+     "title": "Arrow Speed Interactive Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.firgelliauto.com/es/blogs/engineering-calculators/arrow-speed-calculator",
+     "domain": "www.firgelliauto.com",
+     "title": "Arrow Speed Interactive Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://calctool.org/dynamics/arrow-speed",
+     "domain": "calctool.org",
+     "title": "arrow speed",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.calculate.co.nz/arrow-speed-calculator.php",
+     "domain": "www.calculate.co.nz",
+     "title": "Arrow Speed Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://beagle-tarantula-t5d2.squarespace.com/arrow-speed-calculator",
+     "domain": "beagle-tarantula-t5d2.squarespace.com",
+     "title": "arrow speed calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://bowtohunt.com/?p=3198",
+     "domain": "bowtohunt.com",
+     "title": "Arrow Speed Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.physicsforums.com/threads/need-a-bit-of-help-with-arrow-speed.303864/",
+     "domain": "www.physicsforums.com",
+     "title": "need a bit of help with arrow speed.303864",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://n1outdoors.com/arrow-speed-calculator/",
+     "domain": "n1outdoors.com",
+     "title": "arrow speed calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://quickminitools.vercel.app/physics/arrow-speed-calculator",
+     "domain": "quickminitools.vercel.app",
+     "title": "arrow speed calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://calculators.sg/arrow-speed-calculator",
+     "domain": "calculators.sg",
+     "title": "Arrow Speed Calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://listoffreeware.com/?p=117185",
+     "domain": "listoffreeware.com",
+     "title": "8 Best Free Online Arrow Speed Calculator Websites",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://calcbee.pages.dev/calculators/physics/mechanics/arrow-speed",
+     "domain": "calcbee.pages.dev",
+     "title": "Arrow Speed Calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://best-calculators.com/education-academic/arrow-speed-calculator/",
+     "domain": "best-calculators.com",
+     "title": "Arrow Speed Calculator - IBO-Adjusted Speed, Momentum, KE",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://joteo1.pages.dev/physics-calculators/arrow-speed-calculator",
+     "domain": "joteo1.pages.dev",
+     "title": "Arrow Speed Calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://simpledecisionmaker.onrender.com/tools/arrow-speed-calculator/",
+     "domain": "simpledecisionmaker.onrender.com",
+     "title": "100% Free • Archery Bow FPS, Kinetic Energy & Momentum Solver",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://everycalculators.com/how-to-calculate-arrow-speed-without-a-chronograph.html",
+     "domain": "everycalculators.com",
+     "title": "Arrow Speed Calculator: How to Calculate Arrow Speed Without a Chronograph",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://archerycalculators-gh.pages.dev/arrow-speed-calculator",
+     "domain": "archerycalculators-gh.pages.dev",
+     "title": "Arrow Speed Calculator: FPS by Draw Weight & Arrow Weight",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://bestcrossbowsource.com/kinetic-energy-calculator",
+     "domain": "bestcrossbowsource.com",
+     "title": "Arrow Ballistics Calculator – Kinetic Energy, Drop, Speed, Momentum",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "arrow-speed-calculator",
+ "page": "arrow-speed-calculator",
+ "category": "science",
+ "name": "Arrow Speed Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T17:20:26.981Z",
+ "topCompetitors": [
+  {
+   "domain": "pages.dev",
+   "bestRank": 14,
+   "keywords": 3,
+   "urls": [
+    "https://calcbee.pages.dev/calculators/physics/mechanics/arrow-speed",
+    "https://joteo1.pages.dev/physics-calculators/arrow-speed-calculator",
+    "https://archerycalculators-gh.pages.dev/arrow-speed-calculator"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://www.omnicalculator.com/physics/arrow-speed?c=EUR",
+    "https://omnicalculator.com/physics/arrow-speed"
+   ]
+  },
+  {
+   "domain": "firgelliauto.com",
+   "bestRank": 3,
+   "keywords": 2,
+   "urls": [
+    "https://www.firgelliauto.com/blogs/engineering-calculators/arrow-speed-calculator",
+    "https://www.firgelliauto.com/es/blogs/engineering-calculators/arrow-speed-calculator"
+   ]
+  },
+  {
+   "domain": "calctool.org",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://calctool.org/dynamics/arrow-speed"
+   ]
+  },
+  {
+   "domain": "calculate.co.nz",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculate.co.nz/arrow-speed-calculator.php"
+   ]
+  },
+  {
+   "domain": "squarespace.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://beagle-tarantula-t5d2.squarespace.com/arrow-speed-calculator"
+   ]
+  },
+  {
+   "domain": "bowtohunt.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://bowtohunt.com/?p=3198"
+   ]
+  },
+  {
+   "domain": "physicsforums.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://www.physicsforums.com/threads/need-a-bit-of-help-with-arrow-speed.303864/"
+   ]
+  },
+  {
+   "domain": "n1outdoors.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://n1outdoors.com/arrow-speed-calculator/"
+   ]
+  },
+  {
+   "domain": "vercel.app",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://quickminitools.vercel.app/physics/arrow-speed-calculator"
+   ]
+  }
+ ]
+}

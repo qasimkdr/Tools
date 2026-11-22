@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "What size air conditioner do I need?", a: "Start from the room's area. ENERGY STAR's chart recommends about 5,000 BTU/h for 100–150 sq ft, 6,000 for 150–250, 8,000 for 300–350, 10,000 for 400–450, 12,000 for 450–550 and 18,000 for 700–1,000 sq ft. Then adjust for sun, shade, the number of people and whether it's a kitchen." },
+  { q: "How many BTUs do I need per square foot?", a: "Roughly 20 BTU/h per square foot for typical rooms, though the ENERGY STAR chart works in size bands rather than a fixed rate. A 270 sq ft bedroom needs about 7,000 BTU/h before adjustments." },
+  { q: "How do sun, people and kitchens change the size?", a: "ENERGY STAR suggests reducing capacity by 10% for a heavily shaded room, increasing it by 10% for a very sunny room, adding 600 BTU/h for each person beyond two who regularly uses the room, and adding 4,000 BTU/h if the unit cools a kitchen." },
+  { q: "How many BTUs is a ton of air conditioning?", a: "One ton of cooling is 12,000 BTU per hour, the heat needed to melt one ton of ice in 24 hours. A 24,000 BTU/h unit is a 2-ton unit; a 36,000 BTU/h system is 3 tons." },
+  { q: "Is a bigger air conditioner better?", a: "No. An oversized unit cools the room quickly and shuts off before removing enough humidity, so the room feels cool but damp and clammy, and frequent cycling wastes energy. Pick the size closest to what you need." },
+  { q: "Can I use this for central air or a whole house?", a: "Only as a rough guide. Whole-home systems should be sized with a load calculation (ACCA Manual J) that accounts for insulation, windows, ducts, orientation and climate. HVAC contractors can do this." },
+];

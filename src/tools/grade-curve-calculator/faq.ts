@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How do you curve grades?", a: "Pick a method and apply it to every score. The simplest is a flat curve: find the gap between the top score and 100 and add it to everyone. Other methods shift scores to a target average, multiply them so the top score is 100, use a square-root formula, or fit them to a bell curve." },
+  { q: "What is a square root curve?", a: "New score = 10 × √(old score), on a 100-point scale. It raises low scores the most and high scores the least: 49 becomes 70, 64 becomes 80 and 81 becomes 90, while 100 stays 100." },
+  { q: "How does bell curve grading work?", a: "Each score is converted to a z-score, (score − class average) ÷ standard deviation, and then mapped to a chosen average and spread: new = target average + z × target SD. A student exactly at the class average gets the target average." },
+  { q: "Which curve is the fairest?", a: "It depends on the goal. Flat and target-average curves keep every gap between students the same. Scaling keeps ratios. The square-root curve helps struggling students most. Bell curves force a set distribution, which can be harsh in small classes, so many instructors avoid strict bell curving." },
+  { q: "Can a curve lower my grade?", a: "Flat, scaling and square-root curves never lower a score. A target-average or bell curve can lower scores if the class average is already above the target, or for students well above average when the target spread is smaller than the class's real spread." },
+  { q: "What does adding points to everyone do to the average?", a: "It raises the average by exactly that many points, as long as no scores are capped at 100. In the example class, adding 12 points raises the average from 71% to 83%." },
+];

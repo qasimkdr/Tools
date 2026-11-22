@@ -1,0 +1,258 @@
+{
+ "keywords": {
+  "surface area calculator": {
+   "fetchedAt": "2026-11-22T17:20:26.679Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 6600,
+   "fileKd": 22,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 1,
+    "url": "www.calculator.net/surface-area-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.pearson.com/channels/calculators/surface-area-calculator",
+     "domain": "www.pearson.com",
+     "title": "surface area calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.pearson.com/channels/it/calculators/surface-area-calculator",
+     "domain": "www.pearson.com",
+     "title": "surface area calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://inchcalculator.com/surface-area-calculator",
+     "domain": "inchcalculator.com",
+     "title": "Surface Area Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://calculator.net/surface-area-calculator.html",
+     "domain": "calculator.net",
+     "title": "Surface Area Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.gigacalculator.com/calculators/surface-area-calculator.php",
+     "domain": "www.gigacalculator.com",
+     "title": "Surface Area Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.omnicalculator.com/math/surface-area",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://cuemath.com/calculators/surface-area-calculator",
+     "domain": "cuemath.com",
+     "title": "Surface Area Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://miniwebtool.com/surface-area-calculator/",
+     "domain": "miniwebtool.com",
+     "title": "surface area calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://wba.omnicalculator.com/math/surface-area",
+     "domain": "wba.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.calculate.co.nz/surface-area-calculator.php",
+     "domain": "www.calculate.co.nz",
+     "title": "Surface Area Calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://sites.google.com/view/freextool-resources/surface-area-calculator",
+     "domain": "sites.google.com",
+     "title": "surface area calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://piday.org/calculators/surface-area-calculator",
+     "domain": "piday.org",
+     "title": "Pi Day logo Pi Day logo",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://miniwebtool.com/surface-area-calculator/?calculator=sphere",
+     "domain": "miniwebtool.com",
+     "title": "Since 2010 · Powering 2M+ tool runs every month",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://ar.symbolab.com/calculator/geometry/surface",
+     "domain": "ar.symbolab.com",
+     "title": "ar.symbolab.com",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://www.calculate.co.nz/surface-area-calculator-multi-solid.php",
+     "domain": "www.calculate.co.nz",
+     "title": "Surface Area Calculator (Multi-Solid)",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://zs.symbolab.com/calculator/geometry/surface",
+     "domain": "zs.symbolab.com",
+     "title": "zs.symbolab.com",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://www.easyunitconverter.com/surface-area-calculator",
+     "domain": "www.easyunitconverter.com",
+     "title": "Surface Area Calculator",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://www.calculatorsoup.com/calculators/geometry-solids/surfacearea.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "www.calculatorsoup.com",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://www.lddgo.net/en/math/surface-area-calculator",
+     "domain": "www.lddgo.net",
+     "title": "surface area calculator",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://www.effortlessmath.com/math-topics/surface-area-calculator/",
+     "domain": "www.effortlessmath.com",
+     "title": "Surface Area Calculator (Cube, Cylinder, Sphere…)",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "area-calculator",
+ "page": "area-calculator",
+ "category": "math",
+ "name": "Area Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T17:20:26.679Z",
+ "topCompetitors": [
+  {
+   "domain": "pearson.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://www.pearson.com/channels/calculators/surface-area-calculator",
+    "https://www.pearson.com/channels/it/calculators/surface-area-calculator"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 6,
+   "keywords": 2,
+   "urls": [
+    "https://www.omnicalculator.com/math/surface-area",
+    "https://wba.omnicalculator.com/math/surface-area"
+   ]
+  },
+  {
+   "domain": "miniwebtool.com",
+   "bestRank": 8,
+   "keywords": 2,
+   "urls": [
+    "https://miniwebtool.com/surface-area-calculator/",
+    "https://miniwebtool.com/surface-area-calculator/?calculator=sphere"
+   ]
+  },
+  {
+   "domain": "calculate.co.nz",
+   "bestRank": 10,
+   "keywords": 2,
+   "urls": [
+    "https://www.calculate.co.nz/surface-area-calculator.php",
+    "https://www.calculate.co.nz/surface-area-calculator-multi-solid.php"
+   ]
+  },
+  {
+   "domain": "symbolab.com",
+   "bestRank": 14,
+   "keywords": 2,
+   "urls": [
+    "https://ar.symbolab.com/calculator/geometry/surface",
+    "https://zs.symbolab.com/calculator/geometry/surface"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://inchcalculator.com/surface-area-calculator"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://calculator.net/surface-area-calculator.html"
+   ]
+  },
+  {
+   "domain": "gigacalculator.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.gigacalculator.com/calculators/surface-area-calculator.php"
+   ]
+  },
+  {
+   "domain": "cuemath.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://cuemath.com/calculators/surface-area-calculator"
+   ]
+  },
+  {
+   "domain": "google.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://sites.google.com/view/freextool-resources/surface-area-calculator"
+   ]
+  }
+ ]
+}

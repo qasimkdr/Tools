@@ -1,0 +1,255 @@
+{
+ "keywords": {
+  "grade curve calculator": {
+   "fetchedAt": "2026-11-22T17:20:26.778Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1900,
+   "fileKd": 4,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.omnicalculator.com/other/grade-curve",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://blaze.today/gallery/education/grade-curve-scale/",
+     "domain": "blaze.today",
+     "title": "Grade Curve Calculator: Simple, Automatic Grading",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.taskade.com/app/grade-curve-calculator-2l862qokr0ljnwzi",
+     "domain": "www.taskade.com",
+     "title": "Grade Curve Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.omnicalculator.com/other/grade",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.taskade.com/apps/all/grade-curve-calculator-2l862qokr0ljnwzi",
+     "domain": "www.taskade.com",
+     "title": "Grade Curve Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.ocf.berkeley.edu/~immer/gradecalc",
+     "domain": "www.ocf.berkeley.edu",
+     "title": "Grade Calculators",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://publish.illinois.edu/jennifer-johnson/tag/excel/",
+     "domain": "publish.illinois.edu",
+     "title": "Excel VLOOKUP to calculate grades",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.ocf.berkeley.edu/~immer/gradecalc.html",
+     "domain": "www.ocf.berkeley.edu",
+     "title": "Grade Calculators",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://bushe.co/tools/grade-curve-calculator/",
+     "domain": "bushe.co",
+     "title": "grade curve calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://nool.ontariotechu.ca/study-skills/grade-calculator",
+     "domain": "nool.ontariotechu.ca",
+     "title": "grade calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://totalcalchub.com/us/academic/grade-curve-calculator",
+     "domain": "totalcalchub.com",
+     "title": "Grade Curve Calculator 2026 Edition",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://gpacalculator.net/grade-curve-calculator/",
+     "domain": "gpacalculator.net",
+     "title": "GPA Calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://calculators.sg/grade-curve-calculator",
+     "domain": "calculators.sg",
+     "title": "Grade Curve Calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://www.iienstitu.com/en/tools/bell-curve-grade-calculator",
+     "domain": "www.iienstitu.com",
+     "title": "Bell Curve Grade Calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://gradecurvecalculator.blogspot.com/",
+     "domain": "gradecurvecalculator.blogspot.com",
+     "title": "Grade Curve Calculator",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://www.calculatorsoup.com/calculators/statistics/grade-calculator.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "grade calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://unified-calculators.pages.dev/calculators/others/grade-curve-calculator/",
+     "domain": "unified-calculators.pages.dev",
+     "title": "grade curve calculator",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://finalecalc.netlify.app/curve",
+     "domain": "finalecalc.netlify.app",
+     "title": "finalecalc.netlify.app",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://calcbee.pages.dev/calculators/education/grades/bell-curve-grading-calculator",
+     "domain": "calcbee.pages.dev",
+     "title": "Grade Curve Calculator",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://usefreecalculator.pages.dev/Tools/grade-curve-calculator",
+     "domain": "usefreecalculator.pages.dev",
+     "title": "New Announcement",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "grade-curve-calculator",
+ "page": "grade-curve-calculator",
+ "category": "education",
+ "name": "Grade Curve Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T17:20:26.779Z",
+ "topCompetitors": [
+  {
+   "domain": "pages.dev",
+   "bestRank": 17,
+   "keywords": 3,
+   "urls": [
+    "https://unified-calculators.pages.dev/calculators/others/grade-curve-calculator/",
+    "https://calcbee.pages.dev/calculators/education/grades/bell-curve-grading-calculator",
+    "https://usefreecalculator.pages.dev/Tools/grade-curve-calculator"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://www.omnicalculator.com/other/grade-curve",
+    "https://www.omnicalculator.com/other/grade"
+   ]
+  },
+  {
+   "domain": "taskade.com",
+   "bestRank": 3,
+   "keywords": 2,
+   "urls": [
+    "https://www.taskade.com/app/grade-curve-calculator-2l862qokr0ljnwzi",
+    "https://www.taskade.com/apps/all/grade-curve-calculator-2l862qokr0ljnwzi"
+   ]
+  },
+  {
+   "domain": "berkeley.edu",
+   "bestRank": 6,
+   "keywords": 2,
+   "urls": [
+    "https://www.ocf.berkeley.edu/~immer/gradecalc",
+    "https://www.ocf.berkeley.edu/~immer/gradecalc.html"
+   ]
+  },
+  {
+   "domain": "blaze.today",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://blaze.today/gallery/education/grade-curve-scale/"
+   ]
+  },
+  {
+   "domain": "illinois.edu",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://publish.illinois.edu/jennifer-johnson/tag/excel/"
+   ]
+  },
+  {
+   "domain": "bushe.co",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://bushe.co/tools/grade-curve-calculator/"
+   ]
+  },
+  {
+   "domain": "ontariotechu.ca",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://nool.ontariotechu.ca/study-skills/grade-calculator"
+   ]
+  },
+  {
+   "domain": "totalcalchub.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://totalcalchub.com/us/academic/grade-curve-calculator"
+   ]
+  },
+  {
+   "domain": "gpacalculator.net",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://gpacalculator.net/grade-curve-calculator/"
+   ]
+  }
+ ]
+}

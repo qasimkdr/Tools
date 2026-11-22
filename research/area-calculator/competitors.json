@@ -1,0 +1,1505 @@
+{
+ "pages": {
+  "https://www.calculator.net/surface-area-calculator.html": {
+   "url": "https://www.calculator.net/surface-area-calculator.html",
+   "finalUrl": "https://www.calculator.net/surface-area-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T17:20:40.978Z",
+   "title": "Surface Area Calculator",
+   "metaDescription": "This calculator computes the surface area of a number of common shapes, including sphere, cone, cube, cylinder, capsule, cap, conical frustum, and more.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Surface Area Calculator"
+   ],
+   "h2": [
+    "Ball Surface Area",
+    "Cone Surface Area",
+    "Cube Surface Area",
+    "Cylindrical Tank Surface Area",
+    "Rectangular Tank Surface Area",
+    "Capsule Surface Area",
+    "Cap Surface Area",
+    "Conical Frustum Surface Area",
+    "Ellipsoid Surface Area",
+    "Square Pyramid Surface Area"
+   ],
+   "h3": [
+    "Sphere",
+    "Cone",
+    "Cube",
+    "Cylindrical Tank",
+    "Rectangular Tank",
+    "Capsule",
+    "Spherical Cap",
+    "Conical Frustum",
+    "Ellipsoid",
+    "Square Pyramid",
+    "Common Area Units"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Surface Area Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Ball Surface Area"
+    },
+    {
+     "level": 2,
+     "text": "Cone Surface Area"
+    },
+    {
+     "level": 2,
+     "text": "Cube Surface Area"
+    },
+    {
+     "level": 2,
+     "text": "Cylindrical Tank Surface Area"
+    },
+    {
+     "level": 2,
+     "text": "Rectangular Tank Surface Area"
+    },
+    {
+     "level": 2,
+     "text": "Capsule Surface Area"
+    },
+    {
+     "level": 2,
+     "text": "Cap Surface Area"
+    },
+    {
+     "level": 2,
+     "text": "Conical Frustum Surface Area"
+    },
+    {
+     "level": 2,
+     "text": "Ellipsoid Surface Area"
+    },
+    {
+     "level": 2,
+     "text": "Square Pyramid Surface Area"
+    },
+    {
+     "level": 3,
+     "text": "Sphere"
+    },
+    {
+     "level": 3,
+     "text": "Cone"
+    },
+    {
+     "level": 3,
+     "text": "Cube"
+    },
+    {
+     "level": 3,
+     "text": "Cylindrical Tank"
+    },
+    {
+     "level": 3,
+     "text": "Rectangular Tank"
+    },
+    {
+     "level": 3,
+     "text": "Capsule"
+    },
+    {
+     "level": 3,
+     "text": "Spherical Cap"
+    },
+    {
+     "level": 3,
+     "text": "Conical Frustum"
+    },
+    {
+     "level": 3,
+     "text": "Ellipsoid"
+    },
+    {
+     "level": 3,
+     "text": "Square Pyramid"
+    },
+    {
+     "level": 3,
+     "text": "Common Area Units"
+    }
+   ],
+   "wordCount": 1902,
+   "avgSentenceWords": 48,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "surface area",
+     "weight": 72
+    },
+    {
+     "term": "area",
+     "weight": 57
+    },
+    {
+     "term": "surface",
+     "weight": 51
+    },
+    {
+     "term": "radius",
+     "weight": 19
+    },
+    {
+     "term": "base",
+     "weight": 19
+    },
+    {
+     "term": "height",
+     "weight": 19
+    },
+    {
+     "term": "total",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "has",
+     "weight": 13
+    },
+    {
+     "term": "lateral",
+     "weight": 10
+    },
+    {
+     "term": "base radius",
+     "weight": 9
+    },
+    {
+     "term": "feet",
+     "weight": 9
+    },
+    {
+     "term": "cap",
+     "weight": 8
+    },
+    {
+     "term": "area calculator",
+     "weight": 8
+    },
+    {
+     "term": "edge length",
+     "weight": 8
+    },
+    {
+     "term": "conical frustum",
+     "weight": 8
+    },
+    {
+     "term": "spherical cap",
+     "weight": 8
+    },
+    {
+     "term": "cube",
+     "weight": 7
+    },
+    {
+     "term": "length",
+     "weight": 7
+    },
+    {
+     "term": "tank",
+     "weight": 7
+    },
+    {
+     "term": "equations",
+     "weight": 7
+    },
+    {
+     "term": "calculated",
+     "weight": 7
+    },
+    {
+     "term": "cone",
+     "weight": 6
+    },
+    {
+     "term": "area base",
+     "weight": 6
+    },
+    {
+     "term": "edge",
+     "weight": 6
+    },
+    {
+     "term": "capsule",
+     "weight": 6
+    },
+    {
+     "term": "conical",
+     "weight": 6
+    },
+    {
+     "term": "pyramid",
+     "weight": 6
+    },
+    {
+     "term": "sphere",
+     "weight": 6
+    },
+    {
+     "term": "needs",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Sphere The surface area (SA) of a sphere can be calculated using the equation: SA = 4πr2 where r is the radius Xael doesn't like sharing her chocolate truffles with anyone.",
+    "Given that each truffle has a radius of 0.325 inches: SA = 4 × π × 0.3252 = 1.327 in2 Cone The surface area of a circular cone can be calculated by summing the surface area of each of its individual components.",
+    "She custom orders a Rubik's Cube in which all the faces are black, and has to pay for the customization based on the surface area of the cube with an edge length of 4 inches.",
+    "He is curious whether his heated water cools faster than when in a bathtub, and needs to calculate the surface area of his cylindrical tank of height 5.5 feet and radius of 3.5 feet.",
+    "Given each capsule has r of 0.05 inches and h of 0.5 inches: SA = 4π × 0.052 + 2π × 0.05 × 0.5 = 0.188 in2 Spherical Cap The surface area of a spherical cap is based on the height of the segment in question."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 22,
+   "lists": 0,
+   "images": 11,
+   "videos": 0,
+   "calculatorInputs": [
+    "ballradius",
+    "ballradiusunit",
+    "coneradius",
+    "coneradiusunit",
+    "coneheight",
+    "coneheightunit",
+    "cubeedge",
+    "cubeedgeunit",
+    "ctankradius",
+    "ctankradiusunit",
+    "ctanklength",
+    "ctanklengthunit",
+    "rtanklength",
+    "rtanklengthunit",
+    "rtankwidth",
+    "rtankwidthunit",
+    "rtankheight",
+    "rtankheightunit",
+    "rcapsuleradius",
+    "rcapsuleradiusunit",
+    "rcapsuleheight",
+    "rcapsuleheightunit",
+    "ccapbaseradius",
+    "ccapbaseradiusunit",
+    "ccapballradius",
+    "ccapballradiusunit",
+    "ccapheight",
+    "ccapheightunit",
+    "rconicalfrustumtopradius",
+    "rconicalfrustumtopradiusunit",
+    "rconicalfrustumbottomradius",
+    "rconicalfrustumbottomradiusunit",
+    "rconicalfrustumheight",
+    "rconicalfrustumheightunit",
+    "rellipsoidaxis1",
+    "rellipsoidaxis1unit",
+    "rellipsoidaxis2",
+    "rellipsoidaxis2unit",
+    "rellipsoidaxis3",
+    "rellipsoidaxis3unit"
+   ],
+   "selectOptionsSample": "miles yards feet inches kilometers meters centimeters millimeters micrometers nanometers angstroms miles yards feet inches kilometers meters centimeters millimeters micrometers nanometers angstroms miles yards feet inches kilometers meters centimeters millimeters micrometers nanometers angstroms mil",
+   "unitToggle": true,
+   "wordsBeforeTool": 30,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 39,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 20,
+    "external": 0,
+    "contentInternal": 20,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "math",
+     "surface area calculator",
+     "Volume Calculator",
+     "Area Calculator",
+     "Body Surface Area Calculator",
+     "Math Calculators",
+     "Scientific",
+     "Fraction",
+     "Percentage",
+     "Triangle",
+     "Volume",
+     "Standard Deviation",
+     "Random Number Generator",
+     "More Math Calculators",
+     "Financial",
+     "Fitness and Health",
+     "Math",
+     "Other"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/surface-area-calculator.html",
+     "https://www.calculator.net/volume-calculator.html",
+     "https://www.calculator.net/area-calculator.html",
+     "https://www.calculator.net/body-surface-area-calculator.html",
+     "https://www.calculator.net/scientific-calculator.html",
+     "https://www.calculator.net/fraction-calculator.html",
+     "https://www.calculator.net/percent-calculator.html",
+     "https://www.calculator.net/triangle-calculator.html",
+     "https://www.calculator.net/standard-deviation-calculator.html",
+     "https://www.calculator.net/random-number-generator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/surface-area-calculator/": {
+   "url": "https://www.inchcalculator.com/surface-area-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/surface-area-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T17:20:43.850Z",
+   "title": "Surface Area Calculator - With Formulas - Inch Calculator",
+   "metaDescription": "Calculate the surface area of a three-dimensional shape, including a cube, prism, cylinder, cone, sphere, pyramid, capsule, and cap.",
+   "canonical": "https://www.inchcalculator.com/surface-area-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Surface Area Calculator"
+   ],
+   "h2": [
+    "Surface Area Formula",
+    "Tell Us What You Think",
+    "Surface Area:",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Find Surface Area",
+    "Surface Area Formulas",
+    "Frequently Asked Questions",
+    "Similar Geometry Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Surface Area of a Cube",
+    "Surface Area of a Rectangular Prism",
+    "Surface Area of a Sphere",
+    "Surface Area of a Cylinder",
+    "Surface Area of a Cone",
+    "Surface Area of a Pyramid",
+    "Surface Area of a Triangular Prism",
+    "Surface Area of a Capsule",
+    "Surface Area of a Hemisphere",
+    "Surface Area of a Spherical Cap",
+    "Does surface area mean total area?",
+    "Does surface area mean volume?",
+    "Why is surface area squared?",
+    "Can surface area be cubed?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Surface Area Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Surface Area Formula"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Surface Area:"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Find Surface Area"
+    },
+    {
+     "level": 2,
+     "text": "Surface Area Formulas"
+    },
+    {
+     "level": 3,
+     "text": "Surface Area of a Cube"
+    },
+    {
+     "level": 3,
+     "text": "Surface Area of a Rectangular Prism"
+    },
+    {
+     "level": 3,
+     "text": "Surface Area of a Sphere"
+    },
+    {
+     "level": 3,
+     "text": "Surface Area of a Cylinder"
+    },
+    {
+     "level": 3,
+     "text": "Surface Area of a Cone"
+    },
+    {
+     "level": 3,
+     "text": "Surface Area of a Pyramid"
+    },
+    {
+     "level": 3,
+     "text": "Surface Area of a Triangular Prism"
+    },
+    {
+     "level": 3,
+     "text": "Surface Area of a Capsule"
+    },
+    {
+     "level": 3,
+     "text": "Surface Area of a Hemisphere"
+    },
+    {
+     "level": 3,
+     "text": "Surface Area of a Spherical Cap"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "Does surface area mean total area?"
+    },
+    {
+     "level": 3,
+     "text": "Does surface area mean volume?"
+    },
+    {
+     "level": 3,
+     "text": "Why is surface area squared?"
+    },
+    {
+     "level": 3,
+     "text": "Can surface area be cubed?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Geometry Calculators"
+    }
+   ],
+   "wordCount": 1104,
+   "avgSentenceWords": 28,
+   "faqs": [
+    "Does surface area mean total area?",
+    "Does surface area mean volume?",
+    "Why is surface area squared?",
+    "Can surface area be cubed?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "surface area",
+     "weight": 83
+    },
+    {
+     "term": "area",
+     "weight": 71
+    },
+    {
+     "term": "surface",
+     "weight": 59
+    },
+    {
+     "term": "base",
+     "weight": 14
+    },
+    {
+     "term": "height",
+     "weight": 13
+    },
+    {
+     "term": "radius",
+     "weight": 13
+    },
+    {
+     "term": "lateral",
+     "weight": 13
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "find",
+     "weight": 9
+    },
+    {
+     "term": "length",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "curved",
+     "weight": 8
+    },
+    {
+     "term": "area calculator",
+     "weight": 8
+    },
+    {
+     "term": "height surface",
+     "weight": 8
+    },
+    {
+     "term": "shape",
+     "weight": 7
+    },
+    {
+     "term": "cube",
+     "weight": 6
+    },
+    {
+     "term": "volume",
+     "weight": 6
+    },
+    {
+     "term": "formula",
+     "weight": 5
+    },
+    {
+     "term": "edge",
+     "weight": 5
+    },
+    {
+     "term": "side",
+     "weight": 5
+    },
+    {
+     "term": "object",
+     "weight": 5
+    },
+    {
+     "term": "calculator find",
+     "weight": 5
+    },
+    {
+     "term": "edge length",
+     "weight": 5
+    },
+    {
+     "term": "curved surface",
+     "weight": 5
+    },
+    {
+     "term": "flat surfaces",
+     "weight": 5
+    },
+    {
+     "term": "unit",
+     "weight": 4
+    },
+    {
+     "term": "below",
+     "weight": 4
+    },
+    {
+     "term": "prism",
+     "weight": 4
+    },
+    {
+     "term": "has",
+     "weight": 4
+    },
+    {
+     "term": "square",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "Considering the cube has 6 equal sides, you can multiply the surface area of one side by six, as shown in the image below."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 2,
+   "images": 24,
+   "videos": 0,
+   "calculatorInputs": [
+    "Shape",
+    "Edge Length",
+    "Edge Length Units",
+    "Length",
+    "Length Units",
+    "Width",
+    "Width Units",
+    "Radius",
+    "Radius Units",
+    "Side a",
+    "Side a Units",
+    "Side b",
+    "Side b Units",
+    "Side c",
+    "Side c Units",
+    "Height",
+    "Height Units",
+    "Area Unit"
+   ],
+   "selectOptionsSample": "cuboid cube sphere cylinder cone triangular prism pyramid capsule hemisphere cap in ft yd mm cm m in ft yd mm cm m in ft yd mm cm m in ft yd mm cm m in ft yd mm cm m in ft yd mm cm m in ft yd mm cm m in ft yd mm cm m sq in sq ft sq yd sq mi sq mm sq cm sq m sq km",
+   "unitToggle": true,
+   "wordsBeforeTool": 21,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2017-01-16",
+    "modified": "2023-05-02T18:12:25+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 146,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 54,
+    "external": 13,
+    "contentInternal": 30,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Surface Area Calculator",
+     "How to Find Surface Area",
+     "Surface Area Formulas",
+     "Surface Area of a Cube",
+     "Surface Area of a Rectangular Prism",
+     "Surface Area of a Sphere",
+     "Surface Area of a Cylinder",
+     "Surface Area of a Cone",
+     "Surface Area of a Pyramid",
+     "Surface Area of a Triangular Prism",
+     "Surface Area of a Capsule",
+     "Surface Area of a Hemisphere",
+     "Surface Area of a Spherical Cap",
+     "Frequently Asked Questions",
+     "Full bio",
+     "area",
+     "square feet",
+     "square meters"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/surface-area-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/surface-area/",
+     "https://www.inchcalculator.com/surface-area-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/surface-area-calculator/#idx_how_to_find_surface_area",
+     "https://www.inchcalculator.com/surface-area-calculator/#idx_surface_area_formulas",
+     "https://www.inchcalculator.com/surface-area-calculator/#idx_surface_area_of_a_cube",
+     "https://www.inchcalculator.com/surface-area-calculator/#idx_surface_area_of_a_rectangular_prism",
+     "https://www.inchcalculator.com/surface-area-calculator/#idx_surface_area_of_a_sphere",
+     "https://www.inchcalculator.com/surface-area-calculator/#idx_surface_area_of_a_cylinder",
+     "https://www.inchcalculator.com/surface-area-calculator/#idx_surface_area_of_a_cone",
+     "https://www.inchcalculator.com/surface-area-calculator/#idx_surface_area_of_a_pyramid",
+     "https://www.inchcalculator.com/surface-area-calculator/#idx_surface_area_of_a_triangular_prism",
+     "https://www.inchcalculator.com/surface-area-calculator/#idx_surface_area_of_a_capsule",
+     "https://www.inchcalculator.com/surface-area-calculator/#idx_surface_area_of_a_hemisphere",
+     "https://www.inchcalculator.com/surface-area-calculator/#idx_surface_area_of_a_spherical_cap",
+     "https://www.inchcalculator.com/surface-area-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/pateakia-heath/",
+     "https://www.inchcalculator.com/surface-area-calculator/",
+     "https://www.inchcalculator.com/area-calculator/",
+     "https://www.inchcalculator.com/square-footage-calculator/",
+     "https://www.inchcalculator.com/square-meters-calculator/",
+     "https://www.inchcalculator.com/polygon-calculator/",
+     "https://www.inchcalculator.com/convert/length/",
+     "https://www.inchcalculator.com/triangle-area-calculator/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fsurface-area-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fsurface-area-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fsurface-area-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fsurface-area-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fsurface-area-calculator%2F&text=Surface+Area+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fsurface-area-calculator%2F&text=Surface+Area+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/math/surface-area": {
+   "url": "https://www.omnicalculator.com/math/surface-area",
+   "finalUrl": "https://www.omnicalculator.com/math/surface-area",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T17:20:46.867Z",
+   "title": "Surface Area Calculator",
+   "metaDescription": "This surface area calculator calculates the surface area of a sphere, cube, cylinder, pyramid, cone, and rectangular and triangular prism.",
+   "canonical": "https://www.omnicalculator.com/math/surface-area",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Surface Area Calculator"
+   ],
+   "h2": [
+    "What is a surface area? Surface area definition",
+    "Formula for the surface area of...",
+    "Surface area of a sphere",
+    "Surface area of a cylinder",
+    "Surface area of a cone",
+    "Surface area of a cube",
+    "Surface area of a pyramid",
+    "Surface area of a rectangular prism",
+    "Surface area of a triangular prism",
+    "Body surface area",
+    "How do I calculate the surface area of a sphere?",
+    "Other considerations",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I find the side of a cube given area?",
+    "How do I find the radius of a sphere given area?",
+    "What is the surface area of a cylinder with radius and height equal to 2 in?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Surface Area Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is a surface area? Surface area definition"
+    },
+    {
+     "level": 2,
+     "text": "Formula for the surface area of..."
+    },
+    {
+     "level": 2,
+     "text": "Surface area of a sphere"
+    },
+    {
+     "level": 2,
+     "text": "Surface area of a cylinder"
+    },
+    {
+     "level": 2,
+     "text": "Surface area of a cone"
+    },
+    {
+     "level": 2,
+     "text": "Surface area of a cube"
+    },
+    {
+     "level": 2,
+     "text": "Surface area of a pyramid"
+    },
+    {
+     "level": 2,
+     "text": "Surface area of a rectangular prism"
+    },
+    {
+     "level": 2,
+     "text": "Surface area of a triangular prism"
+    },
+    {
+     "level": 2,
+     "text": "Body surface area"
+    },
+    {
+     "level": 2,
+     "text": "How do I calculate the surface area of a sphere?"
+    },
+    {
+     "level": 2,
+     "text": "Other considerations"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I find the side of a cube given area?"
+    },
+    {
+     "level": 3,
+     "text": "How do I find the radius of a sphere given area?"
+    },
+    {
+     "level": 3,
+     "text": "What is the surface area of a cylinder with radius and height equal to 2 in?"
+    }
+   ],
+   "wordCount": 2046,
+   "avgSentenceWords": 24,
+   "faqs": [
+    "How do I calculate the surface area of a sphere?",
+    "How do I find the side of a cube given area?",
+    "How do I find the radius of a sphere given area?",
+    "What is the surface area of a cylinder with radius and height equal to 2 in?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "surface area",
+     "weight": 99
+    },
+    {
+     "term": "area",
+     "weight": 94
+    },
+    {
+     "term": "surface",
+     "weight": 72
+    },
+    {
+     "term": "base",
+     "weight": 32
+    },
+    {
+     "term": "lateral",
+     "weight": 27
+    },
+    {
+     "term": "formula",
+     "weight": 20
+    },
+    {
+     "term": "lateral surface",
+     "weight": 17
+    },
+    {
+     "term": "find",
+     "weight": 16
+    },
+    {
+     "term": "sphere",
+     "weight": 15
+    },
+    {
+     "term": "pyramid",
+     "weight": 15
+    },
+    {
+     "term": "radius",
+     "weight": 15
+    },
+    {
+     "term": "cylinder",
+     "weight": 13
+    },
+    {
+     "term": "length",
+     "weight": 13
+    },
+    {
+     "term": "height",
+     "weight": 13
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "prism",
+     "weight": 12
+    },
+    {
+     "term": "square",
+     "weight": 12
+    },
+    {
+     "term": "side",
+     "weight": 11
+    },
+    {
+     "term": "cube",
+     "weight": 11
+    },
+    {
+     "term": "triangular",
+     "weight": 11
+    },
+    {
+     "term": "area calculator",
+     "weight": 11
+    },
+    {
+     "term": "triangular prism",
+     "weight": 11
+    },
+    {
+     "term": "calculate",
+     "weight": 10
+    },
+    {
+     "term": "cone",
+     "weight": 8
+    },
+    {
+     "term": "it's",
+     "weight": 8
+    },
+    {
+     "term": "circle",
+     "weight": 8
+    },
+    {
+     "term": "given",
+     "weight": 8
+    },
+    {
+     "term": "final formula",
+     "weight": 8
+    },
+    {
+     "term": "shape",
+     "weight": 7
+    },
+    {
+     "term": "rectangular",
+     "weight": 7
+    }
+   ],
+   "claims": [
+    "Surface Area Calculator Choose shape Surface area refers to the total area of the outer surfaces of a 3D shape.",
+    "In other words, it's the total area of the surface of a 3D object.",
+    "Surface area of a sphere: A = 4πr², where r stands for the radius of the sphere.",
+    "Surface area of a cube: A = 6a², where a is the side length.",
+    "Surface area of a cylinder: A = 2πr² + 2πrh, where r is the radius and h is the height of the cylinder.",
+    "Surface area of a rectangular prism (box): A = 2(ab + bc + ac), where a, b and c are the lengths of three sides of the cuboid.",
+    "Surface area of a pyramid: A = l × √(l² + 4 × h²) + l², where l is a side length of the square base and h is a height of a pyramid.",
+    "You can write the equation for the surface area of a cylinder as: A = A(lateral) + 2 × A(base) It's easy to find a base area - we remember the well-known formula for the area of a circle: A(base) = π × r².",
+    "A(base) = π × r² A(lateral) = h × (2 × π × r) Surface area of a cone We may split the surface area of a cone into two parts: A = A(lateral) + A(base), as we have only one base, in contrast to a cylinder.",
+    "Input this value into the formula: A = 4πr² Calculate the result: A = 4π × 10² = 1256 cm² You can also use an online surface area calculator to find the sphere's radius if you know its area."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 25,
+   "images": 8,
+   "videos": 0,
+   "calculatorInputs": [
+    "Choose shape"
+   ],
+   "selectOptionsSample": "select sphere cylinder cube cone rectangular prism (box) triangular prism pyramids hemisphere capsule spherical cap",
+   "unitToggle": false,
+   "wordsBeforeTool": 5,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Bogna Szyk",
+    "published": "2016-12-01T14:01:44.117Z",
+    "modified": "2026-07-14T16:59:39.215Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 985,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 27,
+    "external": 1,
+    "contentInternal": 11,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "area of a triangular prism",
+     "circle circumference",
+     "ratio calculator",
+     "Pythagorean theorem",
+     "surface area of a cube",
+     "the height of the triangle",
+     "formula for hypotenuse",
+     "area of a triangle",
+     "Heron's formula",
+     "body surface area calculator",
+     "volume calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/math/surface-area-of-a-triangular-prism",
+     "https://www.omnicalculator.com/math/circumference",
+     "https://www.omnicalculator.com/math/ratio",
+     "https://www.omnicalculator.com/math/pythagorean-theorem",
+     "https://www.omnicalculator.com/math/cube-surface-area",
+     "https://www.omnicalculator.com/math/triangle-height",
+     "https://www.omnicalculator.com/math/hypotenuse",
+     "https://www.omnicalculator.com/math/triangle-area",
+     "https://www.omnicalculator.com/math/herons-formula",
+     "https://www.omnicalculator.com/health/bsa",
+     "https://www.omnicalculator.com/math/volume"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/geometry-solids/surfacearea.php": {
+   "url": "https://www.calculatorsoup.com/calculators/geometry-solids/surfacearea.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/geometry-solids/surfacearea.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T17:20:49.916Z",
+   "title": "Surface Area Calculator",
+   "metaDescription": "Calculator online for a the surface area of a capsule, cone, conical frustum, cube, cylinder, hemisphere, square pyramid, rectangular prism, triangular prism, sphere, or spherical cap. Calculate the unknown defining  side lengths, circumferences, volumes or radii of a various geometric shapes with any 2 known variables. Online calculators and formulas for a surface area and other geometry problems.",
+   "canonical": "https://www.calculatorsoup.com/calculators/geometry-solids/surfacearea.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Surface Area Calculator"
+   ],
+   "h2": [
+    "Surface Area Formulas:"
+   ],
+   "h3": [
+    "Capsule Surface Area",
+    "Circular Cone Surface Area",
+    "Circular Cylinder Surface Area",
+    "Conical Frustum Surface Area",
+    "Cube Surface Area",
+    "Hemisphere Surface Area",
+    "Pyramid Surface Area",
+    "Rectangular Prism Surface Area",
+    "Sphere Surface Area",
+    "Spherical Cap Surface Area",
+    "Triangular Prism Surface Area",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Surface Area Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Surface Area Formulas:"
+    },
+    {
+     "level": 3,
+     "text": "Capsule Surface Area"
+    },
+    {
+     "level": 3,
+     "text": "Circular Cone Surface Area"
+    },
+    {
+     "level": 3,
+     "text": "Circular Cylinder Surface Area"
+    },
+    {
+     "level": 3,
+     "text": "Conical Frustum Surface Area"
+    },
+    {
+     "level": 3,
+     "text": "Cube Surface Area"
+    },
+    {
+     "level": 3,
+     "text": "Hemisphere Surface Area"
+    },
+    {
+     "level": 3,
+     "text": "Pyramid Surface Area"
+    },
+    {
+     "level": 3,
+     "text": "Rectangular Prism Surface Area"
+    },
+    {
+     "level": 3,
+     "text": "Sphere Surface Area"
+    },
+    {
+     "level": 3,
+     "text": "Spherical Cap Surface Area"
+    },
+    {
+     "level": 3,
+     "text": "Triangular Prism Surface Area"
+    },
+    {
+     "level": 4,
+     "text": "Top Surface Area of a Triangular Prism Formula"
+    },
+    {
+     "level": 4,
+     "text": "Bottom Surface Area of a Triangular Prism Formula"
+    },
+    {
+     "level": 4,
+     "text": "Lateral Surface Area of a Triangular Prism Formula"
+    },
+    {
+     "level": 4,
+     "text": "Total Surface Area of a Triangular Prism Formula"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 653,
+   "avgSentenceWords": 73,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "surface area",
+     "weight": 77
+    },
+    {
+     "term": "surface",
+     "weight": 51
+    },
+    {
+     "term": "area",
+     "weight": 51
+    },
+    {
+     "term": "area volume",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "total surface",
+     "weight": 12
+    },
+    {
+     "term": "volume",
+     "weight": 11
+    },
+    {
+     "term": "area calculator",
+     "weight": 9
+    },
+    {
+     "term": "lateral surface",
+     "weight": 9
+    },
+    {
+     "term": "triangular prism",
+     "weight": 9
+    },
+    {
+     "term": "text",
+     "weight": 9
+    },
+    {
+     "term": "total",
+     "weight": 8
+    },
+    {
+     "term": "prism",
+     "weight": 8
+    },
+    {
+     "term": "calculators",
+     "weight": 7
+    },
+    {
+     "term": "lateral",
+     "weight": 7
+    },
+    {
+     "term": "bottom surface",
+     "weight": 6
+    },
+    {
+     "term": "triangular",
+     "weight": 6
+    },
+    {
+     "term": "base surface",
+     "weight": 6
+    },
+    {
+     "term": "top",
+     "weight": 6
+    },
+    {
+     "term": "prism formula",
+     "weight": 6
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators geometry",
+     "weight": 5
+    },
+    {
+     "term": "top surface",
+     "weight": 5
+    },
+    {
+     "term": "r12 r22",
+     "weight": 5
+    },
+    {
+     "term": "text top",
+     "weight": 5
+    },
+    {
+     "term": "text bot",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "geometry",
+     "weight": 4
+    },
+    {
+     "term": "units",
+     "weight": 4
+    },
+    {
+     "term": "bottom",
+     "weight": 4
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 10,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Choose a Calculation",
+    "side length a =",
+    "height h =",
+    "Units",
+    "Significant Figures",
+    "reset"
+   ],
+   "selectOptionsSample": "capsule cone conical frustum cube cylinder hemisphere pyramid: square rectangular prism (cuboid) sphere spherical cap triangular prism km m cm mm mi yd ft in auto 3 4 5 6 7 8 9",
+   "unitToggle": true,
+   "wordsBeforeTool": 20,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "October 1, 2026",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 64,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 28,
+    "external": 0,
+    "contentInternal": 18,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Geometry",
+     "Solid",
+     "Surface Area Calculator",
+     "Image of Shape",
+     "Pyramid Calculator",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Capsule",
+     "Circular Cone",
+     "Circular Cylinder",
+     "Conical Frustum",
+     "Cube",
+     "Hemisphere",
+     "Pyramid",
+     "Rectangular Prism",
+     "Sphere",
+     "Triangular Prism"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/geometry-calculators.php",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/surfacearea.php",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/surfacearea.php#calculationImage",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/pyramid.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=geometry-calculators.php&folderName=Geometry&folder2=geometry-solids%2F&folderName2=Solid&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/geometry-solids/surfacearea.php&h1=Surface+Area+Calculator&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/capsule.php",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/cone.php",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/cylinder.php",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/conicalfrustum.php",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/cube.php",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/hemisphere.php",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/rectangularprism.php",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/sphere.php",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/triangular-prism.php"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

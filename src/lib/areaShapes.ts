@@ -1,0 +1,41 @@
+/** Area (2D) and surface area (3D) formulas. Pure; inputs in one consistent length unit. */
+export type Shape = { id: string; name: string; dim: 2 | 3; inputs: { k: string; label: string }[]; formula: string; calc: (v: Record<string, number>) => { area: number; extra?: [string, number][] } | null };
+const PI = Math.PI;
+const pos = (...xs: number[]) => xs.every((x) => x > 0);
+
+export const SHAPES: Shape[] = [
+  { id: "rectangle", name: "Rectangle", dim: 2, inputs: [{ k: "l", label: "Length" }, { k: "w", label: "Width" }], formula: "A = l × w",
+    calc: ({ l, w }) => (pos(l, w) ? { area: l * w, extra: [["Perimeter", 2 * (l + w)], ["Diagonal", Math.hypot(l, w)]] } : null) },
+  { id: "square", name: "Square", dim: 2, inputs: [{ k: "a", label: "Side" }], formula: "A = a²",
+    calc: ({ a }) => (pos(a) ? { area: a * a, extra: [["Perimeter", 4 * a], ["Diagonal", a * Math.SQRT2]] } : null) },
+  { id: "triangle", name: "Triangle (base & height)", dim: 2, inputs: [{ k: "b", label: "Base" }, { k: "h", label: "Height" }], formula: "A = ½ × b × h",
+    calc: ({ b, h }) => (pos(b, h) ? { area: (b * h) / 2 } : null) },
+  { id: "heron", name: "Triangle (3 sides)", dim: 2, inputs: [{ k: "a", label: "Side a" }, { k: "b", label: "Side b" }, { k: "c", label: "Side c" }], formula: "A = √(s(s−a)(s−b)(s−c)), s = (a+b+c)/2",
+    calc: ({ a, b, c }) => { if (!pos(a, b, c)) return null; const s = (a + b + c) / 2, q = s * (s - a) * (s - b) * (s - c); return q > 0 ? { area: Math.sqrt(q), extra: [["Perimeter", a + b + c]] } : null; } },
+  { id: "circle", name: "Circle", dim: 2, inputs: [{ k: "r", label: "Radius" }], formula: "A = π r²",
+    calc: ({ r }) => (pos(r) ? { area: PI * r * r, extra: [["Circumference", 2 * PI * r], ["Diameter", 2 * r]] } : null) },
+  { id: "ellipse", name: "Ellipse", dim: 2, inputs: [{ k: "a", label: "Semi-axis a" }, { k: "b", label: "Semi-axis b" }], formula: "A = π a b",
+    calc: ({ a, b }) => (pos(a, b) ? { area: PI * a * b } : null) },
+  { id: "trapezoid", name: "Trapezoid", dim: 2, inputs: [{ k: "a", label: "Base a" }, { k: "b", label: "Base b" }, { k: "h", label: "Height" }], formula: "A = ½ (a + b) h",
+    calc: ({ a, b, h }) => (pos(a, b, h) ? { area: ((a + b) * h) / 2 } : null) },
+  { id: "parallelogram", name: "Parallelogram", dim: 2, inputs: [{ k: "b", label: "Base" }, { k: "h", label: "Height" }], formula: "A = b × h",
+    calc: ({ b, h }) => (pos(b, h) ? { area: b * h } : null) },
+  { id: "sector", name: "Circle sector", dim: 2, inputs: [{ k: "r", label: "Radius" }, { k: "deg", label: "Angle (°)" }], formula: "A = (θ ÷ 360) × π r²",
+    calc: ({ r, deg }) => (pos(r, deg) && deg <= 360 ? { area: (deg / 360) * PI * r * r, extra: [["Arc length", (deg / 360) * 2 * PI * r]] } : null) },
+  { id: "cube", name: "Cube", dim: 3, inputs: [{ k: "a", label: "Edge" }], formula: "SA = 6a²",
+    calc: ({ a }) => (pos(a) ? { area: 6 * a * a, extra: [["Volume", a ** 3]] } : null) },
+  { id: "box", name: "Rectangular box", dim: 3, inputs: [{ k: "l", label: "Length" }, { k: "w", label: "Width" }, { k: "h", label: "Height" }], formula: "SA = 2(lw + lh + wh)",
+    calc: ({ l, w, h }) => (pos(l, w, h) ? { area: 2 * (l * w + l * h + w * h), extra: [["Volume", l * w * h]] } : null) },
+  { id: "sphere", name: "Sphere", dim: 3, inputs: [{ k: "r", label: "Radius" }], formula: "SA = 4π r²",
+    calc: ({ r }) => (pos(r) ? { area: 4 * PI * r * r, extra: [["Volume", (4 / 3) * PI * r ** 3]] } : null) },
+  { id: "hemisphere", name: "Hemisphere (solid)", dim: 3, inputs: [{ k: "r", label: "Radius" }], formula: "SA = 3π r² (curved 2πr² + base πr²)",
+    calc: ({ r }) => (pos(r) ? { area: 3 * PI * r * r, extra: [["Curved surface", 2 * PI * r * r], ["Volume", (2 / 3) * PI * r ** 3]] } : null) },
+  { id: "cylinder", name: "Cylinder", dim: 3, inputs: [{ k: "r", label: "Radius" }, { k: "h", label: "Height" }], formula: "SA = 2πr² + 2πrh",
+    calc: ({ r, h }) => (pos(r, h) ? { area: 2 * PI * r * r + 2 * PI * r * h, extra: [["Lateral (side) area", 2 * PI * r * h], ["Volume", PI * r * r * h]] } : null) },
+  { id: "cone", name: "Cone", dim: 3, inputs: [{ k: "r", label: "Radius" }, { k: "h", label: "Height" }], formula: "SA = πr² + πr√(r² + h²)",
+    calc: ({ r, h }) => { if (!pos(r, h)) return null; const sl = Math.hypot(r, h); return { area: PI * r * r + PI * r * sl, extra: [["Lateral area", PI * r * sl], ["Slant height", sl], ["Volume", (PI * r * r * h) / 3]] }; } },
+  { id: "pyramid", name: "Square pyramid", dim: 3, inputs: [{ k: "a", label: "Base edge" }, { k: "h", label: "Height" }], formula: "SA = a² + 2a√((a/2)² + h²)",
+    calc: ({ a, h }) => { if (!pos(a, h)) return null; const sl = Math.hypot(a / 2, h); return { area: a * a + 2 * a * sl, extra: [["Lateral area", 2 * a * sl], ["Slant height", sl], ["Volume", (a * a * h) / 3]] }; } },
+  { id: "capsule", name: "Capsule", dim: 3, inputs: [{ k: "r", label: "Radius" }, { k: "h", label: "Cylinder length" }], formula: "SA = 2πr(2r + h)",
+    calc: ({ r, h }) => (pos(r, h) ? { area: 2 * PI * r * (2 * r + h), extra: [["Volume", PI * r * r * ((4 / 3) * r + h)]] } : null) },
+];

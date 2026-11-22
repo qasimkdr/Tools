@@ -1,0 +1,1250 @@
+{
+ "pages": {
+  "https://www.calculator.net/cd-calculator.html": {
+   "url": "https://www.calculator.net/cd-calculator.html",
+   "finalUrl": "https://www.calculator.net/cd-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T17:20:28.235Z",
+   "title": "CD Calculator",
+   "metaDescription": "Free calculator to find the total interest, end balance, and the growth chart of a Certificate of Deposit with the option to consider income tax.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "CD Calculator"
+   ],
+   "h2": [
+    "Results",
+    "Accumulation Schedule"
+   ],
+   "h3": [
+    "What is a Certificate of Deposit?",
+    "FDIC-Backed",
+    "Where and How to Purchase CDs",
+    "History of CDs",
+    "How to Use CDs",
+    "Withdrawing from a CD",
+    "CD Ladder",
+    "APY vs. APR",
+    "Compounding Frequency",
+    "Types of CDs",
+    "Alternatives to CDs"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "CD Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Results"
+    },
+    {
+     "level": 2,
+     "text": "Accumulation Schedule"
+    },
+    {
+     "level": 3,
+     "text": "What is a Certificate of Deposit?"
+    },
+    {
+     "level": 3,
+     "text": "FDIC-Backed"
+    },
+    {
+     "level": 3,
+     "text": "Where and How to Purchase CDs"
+    },
+    {
+     "level": 3,
+     "text": "History of CDs"
+    },
+    {
+     "level": 3,
+     "text": "How to Use CDs"
+    },
+    {
+     "level": 3,
+     "text": "Withdrawing from a CD"
+    },
+    {
+     "level": 3,
+     "text": "CD Ladder"
+    },
+    {
+     "level": 3,
+     "text": "APY vs. APR"
+    },
+    {
+     "level": 3,
+     "text": "Compounding Frequency"
+    },
+    {
+     "level": 3,
+     "text": "Types of CDs"
+    },
+    {
+     "level": 3,
+     "text": "Alternatives to CDs"
+    }
+   ],
+   "wordCount": 2153,
+   "avgSentenceWords": 22,
+   "faqs": [
+    "What is a Certificate of Deposit?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "cds",
+     "weight": 60
+    },
+    {
+     "term": "interest",
+     "weight": 32
+    },
+    {
+     "term": "rates",
+     "weight": 22
+    },
+    {
+     "term": "financial",
+     "weight": 15
+    },
+    {
+     "term": "funds",
+     "weight": 15
+    },
+    {
+     "term": "deposit",
+     "weight": 14
+    },
+    {
+     "term": "banks",
+     "weight": 14
+    },
+    {
+     "term": "interest rates",
+     "weight": 14
+    },
+    {
+     "term": "rate",
+     "weight": 13
+    },
+    {
+     "term": "higher",
+     "weight": 12
+    },
+    {
+     "term": "calculator",
+     "weight": 11
+    },
+    {
+     "term": "money",
+     "weight": 10
+    },
+    {
+     "term": "have",
+     "weight": 10
+    },
+    {
+     "term": "interest rate",
+     "weight": 9
+    },
+    {
+     "term": "risk",
+     "weight": 9
+    },
+    {
+     "term": "accounts",
+     "weight": 9
+    },
+    {
+     "term": "investors",
+     "weight": 9
+    },
+    {
+     "term": "fdic",
+     "weight": 8
+    },
+    {
+     "term": "them",
+     "weight": 8
+    },
+    {
+     "term": "return",
+     "weight": 7
+    },
+    {
+     "term": "market",
+     "weight": 7
+    },
+    {
+     "term": "different",
+     "weight": 7
+    },
+    {
+     "term": "apy",
+     "weight": 7
+    },
+    {
+     "term": "initial deposit",
+     "weight": 6
+    },
+    {
+     "term": "years",
+     "weight": 6
+    },
+    {
+     "term": "investment",
+     "weight": 6
+    },
+    {
+     "term": "term",
+     "weight": 6
+    },
+    {
+     "term": "savings",
+     "weight": 6
+    },
+    {
+     "term": "ira",
+     "weight": 6
+    },
+    {
+     "term": "financial institutions",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Traditional CDs that require initial deposits of $100,000 or more are often referred to as \"jumbo\" CDs, and usually have higher interest rates."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 5,
+   "lists": 3,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [
+    "cstartingprinciple",
+    "cinterestrate",
+    "ccompound",
+    "cyears",
+    "cmonths",
+    "ctaxtrate"
+   ],
+   "selectOptionsSample": "annually (apy) semiannually quarterly monthly (apr) continuously",
+   "unitToggle": false,
+   "wordsBeforeTool": 41,
+   "actions": {
+    "print": true,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 32,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 32,
+    "external": 0,
+    "contentInternal": 32,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "financial",
+     "cd calculator",
+     "Print",
+     "Investment Calculator",
+     "Interest Calculator",
+     "IRA Calculator",
+     "Roth IRA Calculator",
+     "Compound Interest Calculator",
+     "Financial Calculators",
+     "Mortgage",
+     "Loan",
+     "Auto Loan",
+     "Interest",
+     "Payment",
+     "Retirement",
+     "Amortization",
+     "Investment",
+     "Currency"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/cd-calculator.html",
+     "https://www.calculator.net/cd-calculator.html#",
+     "https://www.calculator.net/investment-calculator.html",
+     "https://www.calculator.net/interest-calculator.html",
+     "https://www.calculator.net/ira-calculator.html",
+     "https://www.calculator.net/roth-ira-calculator.html",
+     "https://www.calculator.net/compound-interest-calculator.html",
+     "https://www.calculator.net/mortgage-calculator.html",
+     "https://www.calculator.net/loan-calculator.html",
+     "https://www.calculator.net/auto-loan-calculator.html",
+     "https://www.calculator.net/payment-calculator.html",
+     "https://www.calculator.net/retirement-calculator.html",
+     "https://www.calculator.net/amortization-calculator.html",
+     "https://www.calculator.net/currency-calculator.html",
+     "https://www.calculator.net/inflation-calculator.html",
+     "https://www.calculator.net/finance-calculator.html",
+     "https://www.calculator.net/mortgage-payoff-calculator.html",
+     "https://www.calculator.net/tax-calculator.html",
+     "https://www.calculator.net/salary-calculator.html",
+     "https://www.calculator.net/401k-calculator.html",
+     "https://www.calculator.net/interest-rate-calculator.html",
+     "https://www.calculator.net/sales-tax-calculator.html"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/cd-calculator/": {
+   "url": "https://www.inchcalculator.com/cd-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/cd-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T17:20:31.288Z",
+   "title": "CD Calculator - Inch Calculator",
+   "metaDescription": "Calculate the interest earned on a certificate of deposit using our CD calculator. Plus, learn the CD compound interest formula.",
+   "canonical": "https://www.inchcalculator.com/cd-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "CD Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results:",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate CD Interest",
+    "A Brief History of CDs",
+    "CD Ladders",
+    "Frequently Asked Questions",
+    "Similar Finance Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Balance by Year",
+    "What’s the Difference Between the Dividend Rate and APY?",
+    "How to Use the CD Calculator to Calculate Interest",
+    "CD Compound Interest Formula",
+    "What are CDs?",
+    "Can I get CDs at a credit union?",
+    "Are CDs insured?",
+    "What does principal mean for a CD?",
+    "What does term mean for a CD?",
+    "What does interest mean for a CD?",
+    "What does APY mean for a CD?",
+    "What is compounded interest?",
+    "What happens if I need the money I put into a CD before it matures?",
+    "Is the interest on a CD taxable?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "CD Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results:"
+    },
+    {
+     "level": 3,
+     "text": "Balance by Year"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate CD Interest"
+    },
+    {
+     "level": 3,
+     "text": "What’s the Difference Between the Dividend Rate and APY?"
+    },
+    {
+     "level": 3,
+     "text": "How to Use the CD Calculator to Calculate Interest"
+    },
+    {
+     "level": 3,
+     "text": "CD Compound Interest Formula"
+    },
+    {
+     "level": 2,
+     "text": "A Brief History of CDs"
+    },
+    {
+     "level": 2,
+     "text": "CD Ladders"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "What are CDs?"
+    },
+    {
+     "level": 3,
+     "text": "Can I get CDs at a credit union?"
+    },
+    {
+     "level": 3,
+     "text": "Are CDs insured?"
+    },
+    {
+     "level": 3,
+     "text": "What does principal mean for a CD?"
+    },
+    {
+     "level": 3,
+     "text": "What does term mean for a CD?"
+    },
+    {
+     "level": 3,
+     "text": "What does interest mean for a CD?"
+    },
+    {
+     "level": 3,
+     "text": "What does APY mean for a CD?"
+    },
+    {
+     "level": 3,
+     "text": "What is compounded interest?"
+    },
+    {
+     "level": 3,
+     "text": "What happens if I need the money I put into a CD before it matures?"
+    },
+    {
+     "level": 3,
+     "text": "Is the interest on a CD taxable?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Finance Calculators"
+    }
+   ],
+   "wordCount": 1628,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "What are CDs?",
+    "Can I get CDs at a credit union?",
+    "Are CDs insured?",
+    "What does principal mean for a CD?",
+    "What does term mean for a CD?",
+    "What does interest mean for a CD?",
+    "What does APY mean for a CD?",
+    "What is compounded interest?",
+    "What happens if I need the money I put into a CD before it matures?",
+    "Is the interest on a CD taxable?",
+    "What’s the Difference Between the Dividend Rate and APY?"
+   ],
+   "faqSchemaCount": 10,
+   "topics": [
+    {
+     "term": "interest",
+     "weight": 51
+    },
+    {
+     "term": "rate",
+     "weight": 20
+    },
+    {
+     "term": "cds",
+     "weight": 18
+    },
+    {
+     "term": "calculator",
+     "weight": 16
+    },
+    {
+     "term": "term",
+     "weight": 15
+    },
+    {
+     "term": "interest rate",
+     "weight": 14
+    },
+    {
+     "term": "share",
+     "weight": 13
+    },
+    {
+     "term": "compound interest",
+     "weight": 12
+    },
+    {
+     "term": "credit",
+     "weight": 11
+    },
+    {
+     "term": "deposit",
+     "weight": 9
+    },
+    {
+     "term": "apy",
+     "weight": 9
+    },
+    {
+     "term": "principal",
+     "weight": 9
+    },
+    {
+     "term": "credit union",
+     "weight": 9
+    },
+    {
+     "term": "calculate",
+     "weight": 8
+    },
+    {
+     "term": "compound",
+     "weight": 8
+    },
+    {
+     "term": "credit unions",
+     "weight": 8
+    },
+    {
+     "term": "share certificates",
+     "weight": 8
+    },
+    {
+     "term": "financial",
+     "weight": 7
+    },
+    {
+     "term": "years",
+     "weight": 7
+    },
+    {
+     "term": "savings",
+     "weight": 7
+    },
+    {
+     "term": "amount",
+     "weight": 7
+    },
+    {
+     "term": "receive",
+     "weight": 7
+    },
+    {
+     "term": "higher",
+     "weight": 7
+    },
+    {
+     "term": "bank",
+     "weight": 7
+    },
+    {
+     "term": "compounded",
+     "weight": 7
+    },
+    {
+     "term": "initial deposit",
+     "weight": 6
+    },
+    {
+     "term": "dividend rate",
+     "weight": 6
+    },
+    {
+     "term": "interest formula",
+     "weight": 6
+    },
+    {
+     "term": "principal amount",
+     "weight": 6
+    },
+    {
+     "term": "financial institution",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Since interest is compounded daily, n will equal 365 (the number of days in a year), and t will equal 5 (the number of years in the term)."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 4,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [
+    "Initial Deposit",
+    "CD Term",
+    "CD Term Units",
+    "Interest Rate",
+    "View interest as a table"
+   ],
+   "selectOptionsSample": "months years",
+   "unitToggle": false,
+   "wordsBeforeTool": 26,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Stephen Fogel",
+    "published": "2023-12-13",
+    "modified": "2023-12-21T15:00:29+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 143,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 50,
+    "external": 13,
+    "contentInternal": 26,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "find rate",
+     "below",
+     "Calculator",
+     "How to Calculate CD Interest",
+     "What’s the Difference Between the Dividend Rate and APY?",
+     "How to Use the CD Calculator to Calculate Interest",
+     "CD Compound Interest Formula",
+     "A Brief History of CDs",
+     "CD Ladders",
+     "Frequently Asked Questions",
+     "Full bio",
+     "CD Calculator",
+     "APY",
+     "compounding interest",
+     "future value",
+     "present value",
+     "interest rate",
+     "daily compound interest calculator",
+     "CD ladder calculator",
+     "Interest Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/interest-rate-calculator/",
+     "https://www.inchcalculator.com/cd-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/cd-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/cd-calculator/#idx_how_to_calculate_cd_interest",
+     "https://www.inchcalculator.com/cd-calculator/#idx_what8217s_the_difference_between_the_dividend_rate_and_apy",
+     "https://www.inchcalculator.com/cd-calculator/#idx_how_to_use_the_cd_calculator_to_calculate_interest",
+     "https://www.inchcalculator.com/cd-calculator/#idx_cd_compound_interest_formula",
+     "https://www.inchcalculator.com/cd-calculator/#idx_a_brief_history_of_cds",
+     "https://www.inchcalculator.com/cd-calculator/#idx_cd_ladders",
+     "https://www.inchcalculator.com/cd-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/stephen-fogel/",
+     "https://www.inchcalculator.com/author/pateakia-heath/",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/cd-calculator/",
+     "https://www.inchcalculator.com/apy-calculator/",
+     "https://www.inchcalculator.com/compound-interest-calculator/",
+     "https://www.inchcalculator.com/future-value-calculator/",
+     "https://www.inchcalculator.com/present-value-calculator/",
+     "https://www.inchcalculator.com/daily-compound-interest-calculator/",
+     "https://www.inchcalculator.com/cd-ladder-calculator/",
+     "https://www.inchcalculator.com/interest-calculator/",
+     "https://www.inchcalculator.com/atv-loan-calculator/",
+     "https://www.inchcalculator.com/boat-loan-calculator/",
+     "https://www.inchcalculator.com/motorcycle-loan-calculator/",
+     "https://www.inchcalculator.com/lease-vs-buy-car-calculator/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fcd-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fcd-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fcd-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fcd-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fcd-calculator%2F&text=CD+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fcd-calculator%2F&text=CD+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/finance/cd": {
+   "url": "https://www.omnicalculator.com/finance/cd",
+   "finalUrl": "https://www.omnicalculator.com/finance/cd",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T17:20:34.343Z",
+   "title": "CD Calculator",
+   "metaDescription": "Free CD calculator to estimate how your money multiplies in a CD. Add deposit, term, rate, choose compounding, and instantly see interest earned and final balance.",
+   "canonical": "https://www.omnicalculator.com/finance/cd",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "CD Calculator — Certificate of Deposit"
+   ],
+   "h2": [
+    "What is a certificate of deposit?",
+    "How does a certificate of deposit work?",
+    "The formula used in CD interest calculator",
+    "How to use our CD calculator"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "CD Calculator — Certificate of Deposit"
+    },
+    {
+     "level": 2,
+     "text": "What is a certificate of deposit?"
+    },
+    {
+     "level": 2,
+     "text": "How does a certificate of deposit work?"
+    },
+    {
+     "level": 2,
+     "text": "The formula used in CD interest calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to use our CD calculator"
+    }
+   ],
+   "wordCount": 1101,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "What is a certificate of deposit?",
+    "How does a certificate of deposit work?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "interest",
+     "weight": 33
+    },
+    {
+     "term": "calculator",
+     "weight": 24
+    },
+    {
+     "term": "deposit",
+     "weight": 23
+    },
+    {
+     "term": "interest rate",
+     "weight": 20
+    },
+    {
+     "term": "rate",
+     "weight": 17
+    },
+    {
+     "term": "certificate",
+     "weight": 14
+    },
+    {
+     "term": "investment",
+     "weight": 14
+    },
+    {
+     "term": "cds",
+     "weight": 8
+    },
+    {
+     "term": "compounding frequency",
+     "weight": 8
+    },
+    {
+     "term": "final balance",
+     "weight": 8
+    },
+    {
+     "term": "compounding",
+     "weight": 7
+    },
+    {
+     "term": "formula",
+     "weight": 7
+    },
+    {
+     "term": "initial deposit",
+     "weight": 6
+    },
+    {
+     "term": "frequency",
+     "weight": 6
+    },
+    {
+     "term": "balance",
+     "weight": 6
+    },
+    {
+     "term": "interest earned",
+     "weight": 6
+    },
+    {
+     "term": "calculations",
+     "weight": 6
+    },
+    {
+     "term": "field",
+     "weight": 6
+    },
+    {
+     "term": "term",
+     "weight": 5
+    },
+    {
+     "term": "final",
+     "weight": 5
+    },
+    {
+     "term": "fixed",
+     "weight": 5
+    },
+    {
+     "term": "years",
+     "weight": 5
+    },
+    {
+     "term": "number",
+     "weight": 5
+    },
+    {
+     "term": "compound interest",
+     "weight": 5
+    },
+    {
+     "term": "interest calculator",
+     "weight": 5
+    },
+    {
+     "term": "maturity date",
+     "weight": 5
+    },
+    {
+     "term": "formula used",
+     "weight": 5
+    },
+    {
+     "term": "initial",
+     "weight": 4
+    },
+    {
+     "term": "earned",
+     "weight": 4
+    },
+    {
+     "term": "compound",
+     "weight": 4
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Compounding frequency"
+   ],
+   "selectOptionsSample": "select yearly half-yearly quarterly monthly weekly daily",
+   "unitToggle": false,
+   "wordsBeforeTool": 13,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Tomasz Jedynak",
+    "published": "2019-04-11T07:51:13.754Z",
+    "modified": "2026-09-27T13:19:50.413Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 643,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 22,
+    "external": 1,
+    "contentInternal": 6,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "fixed deposit calculator",
+     "APY calculator",
+     "compound interest calculator",
+     "future value calculator",
+     "investment calculator",
+     "money market account calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/finance/fixed-deposit",
+     "https://www.omnicalculator.com/finance/apy",
+     "https://www.omnicalculator.com/finance/compound-interest",
+     "https://www.omnicalculator.com/finance/future-value",
+     "https://www.omnicalculator.com/finance/investment",
+     "https://www.omnicalculator.com/finance/money-market-account"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/financial/cd-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/financial/cd-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/financial/cd-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T17:20:37.434Z",
+   "title": "CD Calculator",
+   "metaDescription": "Calculate the future value of a certificate of deposit investment. The future value of a one time lump sum investment plus taxes you will owe on interest earned.",
+   "canonical": "https://www.calculatorsoup.com/calculators/financial/cd-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "CD Calculator"
+   ],
+   "h2": [],
+   "h3": [
+    "Sample Output",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "CD Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Sample Output"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 421,
+   "avgSentenceWords": 38,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "calculator",
+     "weight": 15
+    },
+    {
+     "term": "interest",
+     "weight": 11
+    },
+    {
+     "term": "term",
+     "weight": 7
+    },
+    {
+     "term": "calculators",
+     "weight": 6
+    },
+    {
+     "term": "rate",
+     "weight": 6
+    },
+    {
+     "term": "value",
+     "weight": 6
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators financial",
+     "weight": 5
+    },
+    {
+     "term": "interest rate",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "financial",
+     "weight": 4
+    },
+    {
+     "term": "investment",
+     "weight": 4
+    },
+    {
+     "term": "year",
+     "weight": 4
+    },
+    {
+     "term": "taxes",
+     "weight": 4
+    },
+    {
+     "term": "pay",
+     "weight": 4
+    },
+    {
+     "term": "calculator certificate",
+     "weight": 3
+    },
+    {
+     "term": "certificate",
+     "weight": 3
+    },
+    {
+     "term": "deposit",
+     "weight": 3
+    },
+    {
+     "term": "initial investment",
+     "weight": 3
+    },
+    {
+     "term": "term months",
+     "weight": 3
+    },
+    {
+     "term": "compounding",
+     "weight": 3
+    },
+    {
+     "term": "print friendly",
+     "weight": 3
+    },
+    {
+     "term": "friendly schedule",
+     "weight": 3
+    },
+    {
+     "term": "term year",
+     "weight": 3
+    },
+    {
+     "term": "year beginning",
+     "weight": 3
+    },
+    {
+     "term": "beginning value",
+     "weight": 3
+    },
+    {
+     "term": "value annual",
+     "weight": 3
+    },
+    {
+     "term": "annual",
+     "weight": 3
+    },
+    {
+     "term": "annual rate",
+     "weight": 3
+    },
+    {
+     "term": "rate ending",
+     "weight": 3
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 0,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Initial Investment: $",
+    "Term (months): #",
+    "Interest Rate: %",
+    "Compounding:",
+    "reset"
+   ],
+   "selectOptionsSample": "daily (365) daily (360) weekly biweekly semimonthly monthly bimonthly quarterly semiannually annually",
+   "unitToggle": false,
+   "wordsBeforeTool": 24,
+   "actions": {
+    "print": true,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "August 1, 2025",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 53,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 18,
+    "external": 0,
+    "contentInternal": 8,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Financial",
+     "Saving and Investing",
+     "CD Calculator",
+     "Print Friendly Schedule",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/financial/",
+     "https://www.calculatorsoup.com/calculators/financial/index-savings-calculators.php",
+     "https://www.calculatorsoup.com/calculators/financial/cd-calculator.php",
+     "https://www.calculatorsoup.com/calculators/financial/cd-calculator.php?action=print&principal=20,000.00&t=60&ratepercent=5.5&ratepercent_tax=0",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=financial%2F&folderName=Financial&folder2=financial%2Findex-savings-calculators.php&folderName2=Saving+and+Investing&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/financial/cd-calculator.php&h1=CD+Calculator&pop_w=450&pop_h=600"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

@@ -1,0 +1,947 @@
+{
+ "pages": {
+  "https://www.calculator.net/btu-calculator.html": {
+   "url": "https://www.calculator.net/btu-calculator.html",
+   "finalUrl": "https://www.calculator.net/btu-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T17:21:00.247Z",
+   "title": "BTU Calculator",
+   "metaDescription": "Two free calculators estimate the number of BTUs needed to cool or heat a room or house based on its size, insulation, and some other conditions.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "BTU Calculator"
+   ],
+   "h2": [
+    "AC BTU Calculator",
+    "General Purpose AC or Heating BTU Calculator"
+   ],
+   "h3": [
+    "What is a BTU?",
+    "Size and Ceiling Height",
+    "Insulation Condition",
+    "Desired Temperature Increase or Decrease",
+    "Other Factors"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "BTU Calculator"
+    },
+    {
+     "level": 2,
+     "text": "AC BTU Calculator"
+    },
+    {
+     "level": 2,
+     "text": "General Purpose AC or Heating BTU Calculator"
+    },
+    {
+     "level": 3,
+     "text": "What is a BTU?"
+    },
+    {
+     "level": 3,
+     "text": "Size and Ceiling Height"
+    },
+    {
+     "level": 3,
+     "text": "Insulation Condition"
+    },
+    {
+     "level": 3,
+     "text": "Desired Temperature Increase or Decrease"
+    },
+    {
+     "level": 3,
+     "text": "Other Factors"
+    }
+   ],
+   "wordCount": 1412,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "What is a BTU?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "btu",
+     "weight": 18
+    },
+    {
+     "term": "air",
+     "weight": 17
+    },
+    {
+     "term": "temperature",
+     "weight": 17
+    },
+    {
+     "term": "room",
+     "weight": 15
+    },
+    {
+     "term": "air conditioner",
+     "weight": 14
+    },
+    {
+     "term": "heat",
+     "weight": 13
+    },
+    {
+     "term": "insulation",
+     "weight": 11
+    },
+    {
+     "term": "desired temperature",
+     "weight": 11
+    },
+    {
+     "term": "home",
+     "weight": 10
+    },
+    {
+     "term": "calculator",
+     "weight": 10
+    },
+    {
+     "term": "house",
+     "weight": 10
+    },
+    {
+     "term": "conditioner",
+     "weight": 9
+    },
+    {
+     "term": "btus",
+     "weight": 9
+    },
+    {
+     "term": "desired",
+     "weight": 9
+    },
+    {
+     "term": "homes",
+     "weight": 9
+    },
+    {
+     "term": "btu usage",
+     "weight": 9
+    },
+    {
+     "term": "usage",
+     "weight": 8
+    },
+    {
+     "term": "energy",
+     "weight": 7
+    },
+    {
+     "term": "btu calculator",
+     "weight": 6
+    },
+    {
+     "term": "insulation condition",
+     "weight": 6
+    },
+    {
+     "term": "cool",
+     "weight": 6
+    },
+    {
+     "term": "temperature increase",
+     "weight": 6
+    },
+    {
+     "term": "room house",
+     "weight": 6
+    },
+    {
+     "term": "condenser",
+     "weight": 6
+    },
+    {
+     "term": "cooling",
+     "weight": 5
+    },
+    {
+     "term": "ceiling",
+     "weight": 5
+    },
+    {
+     "term": "increase",
+     "weight": 5
+    },
+    {
+     "term": "winter",
+     "weight": 5
+    },
+    {
+     "term": "temperatures",
+     "weight": 5
+    },
+    {
+     "term": "thermal",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "It is not uncommon for an air conditioner to lose 50% or more of its efficiency when running with insufficient liquid refrigerant."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 4,
+   "lists": 1,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "roomsize1",
+    "roomsize1unit",
+    "ceilingheight1",
+    "ceilingheight1unit",
+    "people1",
+    "roomtype1",
+    "insulation1",
+    "sunexposure1",
+    "climate1",
+    "roomwidth",
+    "roomwidthunit",
+    "roomlength",
+    "roomlengthunit",
+    "ceilingheight",
+    "ceilingheightunit",
+    "insulation",
+    "temperature",
+    "temperatureunit"
+   ],
+   "selectOptionsSample": "square feet square meters feet meters bedroom living room kitchen entire house entire first floor entire second floor or above good (very few leakages or windows) average poor (many leakages or windows) heavily shaded average very sunny cold (e.g. boston) average hot (e.g. houston) feet meters feet ",
+   "unitToggle": true,
+   "wordsBeforeTool": 53,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 17,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 24,
+    "external": 0,
+    "contentInternal": 24,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "other",
+     "btu calculator",
+     "Other Calculators",
+     "Age",
+     "Date",
+     "Time",
+     "Hours",
+     "GPA",
+     "Grade",
+     "Height",
+     "Concrete",
+     "IP Subnet",
+     "Bra Size",
+     "Password Generator",
+     "Dice Roller",
+     "Conversion",
+     "More Other Calculators",
+     "Financial"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/btu-calculator.html",
+     "https://www.calculator.net/age-calculator.html",
+     "https://www.calculator.net/date-calculator.html",
+     "https://www.calculator.net/time-calculator.html",
+     "https://www.calculator.net/hours-calculator.html",
+     "https://www.calculator.net/gpa-calculator.html",
+     "https://www.calculator.net/grade-calculator.html",
+     "https://www.calculator.net/height-calculator.html",
+     "https://www.calculator.net/concrete-calculator.html",
+     "https://www.calculator.net/ip-subnet-calculator.html",
+     "https://www.calculator.net/bra-size-calculator.html",
+     "https://www.calculator.net/password-generator.html",
+     "https://www.calculator.net/dice-roller.html",
+     "https://www.calculator.net/conversion-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/window-air-conditioner-size-calculator/": {
+   "url": "https://www.inchcalculator.com/window-air-conditioner-size-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/window-air-conditioner-size-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T17:21:03.083Z",
+   "title": "Window Air Conditioner Size Calculator - Inch Calculator",
+   "metaDescription": "Calculate the window air conditioner size that's the right size for your space, and learn which factors to consider when sizing AC units.",
+   "canonical": "https://www.inchcalculator.com/window-air-conditioner-size-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Window Air Conditioner Size Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Recommended BTU",
+    "Share This Result",
+    "Cite This Page",
+    "How to Calculate the Window AC Unit Size You Need",
+    "Similar Plumbing & HVAC Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Factors to Consider When Sizing an Air Conditioner"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Window Air Conditioner Size Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Recommended BTU"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate the Window AC Unit Size You Need"
+    },
+    {
+     "level": 3,
+     "text": "Factors to Consider When Sizing an Air Conditioner"
+    },
+    {
+     "level": 4,
+     "text": "Room Size"
+    },
+    {
+     "level": 4,
+     "text": "Sunlight"
+    },
+    {
+     "level": 4,
+     "text": "Kitchens and Cooking Appliances"
+    },
+    {
+     "level": 4,
+     "text": "Number of People"
+    },
+    {
+     "level": 4,
+     "text": "Window Size"
+    },
+    {
+     "level": 4,
+     "text": "Electrical Power Available"
+    },
+    {
+     "level": 4,
+     "text": "Operating Cost"
+    },
+    {
+     "level": 2,
+     "text": "Similar Plumbing & HVAC Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 1398,
+   "avgSentenceWords": 18,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "air conditioner",
+     "weight": 36
+    },
+    {
+     "term": "air",
+     "weight": 33
+    },
+    {
+     "term": "room",
+     "weight": 28
+    },
+    {
+     "term": "size",
+     "weight": 25
+    },
+    {
+     "term": "conditioner",
+     "weight": 24
+    },
+    {
+     "term": "000 btus",
+     "weight": 23
+    },
+    {
+     "term": "btus",
+     "weight": 22
+    },
+    {
+     "term": "window",
+     "weight": 17
+    },
+    {
+     "term": "unit",
+     "weight": 16
+    },
+    {
+     "term": "window air",
+     "weight": 14
+    },
+    {
+     "term": "cool",
+     "weight": 12
+    },
+    {
+     "term": "consider",
+     "weight": 12
+    },
+    {
+     "term": "calculator",
+     "weight": 11
+    },
+    {
+     "term": "energy",
+     "weight": 11
+    },
+    {
+     "term": "air conditioners",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "cost",
+     "weight": 8
+    },
+    {
+     "term": "conditioner size",
+     "weight": 8
+    },
+    {
+     "term": "require",
+     "weight": 7
+    },
+    {
+     "term": "sized",
+     "weight": 6
+    },
+    {
+     "term": "room size",
+     "weight": 6
+    },
+    {
+     "term": "conditioners",
+     "weight": 6
+    },
+    {
+     "term": "btu",
+     "weight": 5
+    },
+    {
+     "term": "add",
+     "weight": 5
+    },
+    {
+     "term": "available",
+     "weight": 5
+    },
+    {
+     "term": "units",
+     "weight": 5
+    },
+    {
+     "term": "larger",
+     "weight": 5
+    },
+    {
+     "term": "appliances",
+     "weight": 5
+    },
+    {
+     "term": "circuit",
+     "weight": 5
+    },
+    {
+     "term": "seer",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Window AC Size Chart The chart below from Energy Star shows how many BTUs are needed for a given room size.[1] BTUs of cooling needed to condition various size rooms.",
+    "Room Size (ft2) Capacity Needed (BTUs) 100 – 150 sq.",
+    "34,00 BTUs These air conditioner sizes assume a ceiling height of 8ft; if your ceiling is higher than 8ft, consider increasing the size in BTUs by 10% to account for the added volume of the room.",
+    "Consider increasing the size of the air conditioner by 10% if the room gets a lot of sun.",
+    "To do this, take the size of the room in square feet, and add 10%, then find the recommended BTU range.",
+    "When cooling a kitchen, consider adding an additional 4,000 BTUs to the size of the air conditioner.",
+    "If your room has more than two people on a consistent basis, consider increasing the window air conditioner size by 10% – 20%."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 2,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [
+    "Width",
+    "Width Units",
+    "Length",
+    "Length Units"
+   ],
+   "selectOptionsSample": "in ft yd cm m in ft yd cm m",
+   "unitToggle": true,
+   "wordsBeforeTool": 53,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2016-06-26",
+    "modified": "2023-05-05T20:05:53+00:00",
+    "authoritativeSources": [
+     "https://www.energystar.gov/ia/partners/manuf_res/marketing_res/ROOM_AIRCONDITIONER.pdf"
+    ]
+   },
+   "ux": {
+    "htmlKB": 122,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 39,
+    "external": 14,
+    "contentInternal": 15,
+    "contentExternal": 8,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Full bio",
+     "Window Air Conditioner Size Calculator",
+     "Get Free Estimates",
+     "airflow in CFM",
+     "consultation with an electrician",
+     "electricity cost calculator",
+     "heating system BTU calculator",
+     "CFM Calculator",
+     "Water Velocity Calculator",
+     "Flow Rate Calculator",
+     "Ductless Mini-Split Cost Guide",
+     "Heated Bathroom Flooring Cost Guide",
+     "See All"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/window-air-conditioner-size-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/window-ac/",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/sarabeth-asaff-south/",
+     "https://www.inchcalculator.com/window-air-conditioner-size-calculator/",
+     "https://www.inchcalculator.com/get-free-home-repair-estimates/?preset_project_type=Heating+%26+Cooling&preset_service_id=",
+     "https://www.inchcalculator.com/cfm-calculator/",
+     "https://www.inchcalculator.com/get-free-home-repair-estimates/?preset_service_id=177",
+     "https://www.inchcalculator.com/electricity-cost-calculator/",
+     "https://www.inchcalculator.com/calculate-btus-to-heat-home/",
+     "https://www.inchcalculator.com/water-velocity-calculator/",
+     "https://www.inchcalculator.com/flow-rate-calculator/",
+     "https://www.inchcalculator.com/cost-to-install-ductless-mini-split/",
+     "https://www.inchcalculator.com/cost-to-install-heated-bathroom-flooring/",
+     "https://www.inchcalculator.com/plumbing-hvac-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fwindow-air-conditioner-size-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fwindow-air-conditioner-size-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fwindow-air-conditioner-size-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fwindow-air-conditioner-size-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fwindow-air-conditioner-size-calculator%2F&text=Window+Air+Conditioner+Size+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fwindow-air-conditioner-size-calculator%2F&text=Window+Air+Conditioner+Size+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://www.energystar.gov/ia/partners/manuf_res/marketing_res/ROOM_AIRCONDITIONER.pdf"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/construction/air-conditioner-room-size": {
+   "url": "https://www.omnicalculator.com/construction/air-conditioner-room-size",
+   "finalUrl": "https://www.omnicalculator.com/construction/air-conditioner-room-size",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T17:21:06.507Z",
+   "title": "Air Conditioner BTU Calculator",
+   "metaDescription": "Planning to buy an air conditioner for your room? This air conditioner room size calculator will help you choose the right air conditioner size, so you will be effectively and efficiently cooling your room.",
+   "canonical": "https://www.omnicalculator.com/construction/air-conditioner-room-size",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Air Conditioner BTU Calculator"
+   ],
+   "h2": [
+    "What size of air conditioner should I get for my room?",
+    "The importance of choosing the correct air conditioner size",
+    "Understanding air conditioning British Thermal Units (AC BTUs)",
+    "FAQs"
+   ],
+   "h3": [
+    "How big of a room will a 8000 BTU cool?",
+    "How do I calculate what air conditioner size I need?",
+    "What does BTU mean in air conditioners?",
+    "How much electricity does an air conditioner use?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Air Conditioner BTU Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What size of air conditioner should I get for my room?"
+    },
+    {
+     "level": 2,
+     "text": "The importance of choosing the correct air conditioner size"
+    },
+    {
+     "level": 2,
+     "text": "Understanding air conditioning British Thermal Units (AC BTUs)"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How big of a room will a 8000 BTU cool?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate what air conditioner size I need?"
+    },
+    {
+     "level": 3,
+     "text": "What does BTU mean in air conditioners?"
+    },
+    {
+     "level": 3,
+     "text": "How much electricity does an air conditioner use?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1344,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "How big of a room will a 8000 BTU cool?",
+    "How do I calculate what air conditioner size I need?",
+    "What does BTU mean in air conditioners?",
+    "How much electricity does an air conditioner use?",
+    "What size of air conditioner should I get for my room?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "air conditioner",
+     "weight": 50
+    },
+    {
+     "term": "air",
+     "weight": 47
+    },
+    {
+     "term": "conditioner",
+     "weight": 33
+    },
+    {
+     "term": "room",
+     "weight": 32
+    },
+    {
+     "term": "btu",
+     "weight": 18
+    },
+    {
+     "term": "calculator",
+     "weight": 15
+    },
+    {
+     "term": "size",
+     "weight": 14
+    },
+    {
+     "term": "capacity",
+     "weight": 13
+    },
+    {
+     "term": "recommended",
+     "weight": 10
+    },
+    {
+     "term": "need",
+     "weight": 10
+    },
+    {
+     "term": "conditioner size",
+     "weight": 9
+    },
+    {
+     "term": "heat",
+     "weight": 9
+    },
+    {
+     "term": "british thermal",
+     "weight": 9
+    },
+    {
+     "term": "air conditioning",
+     "weight": 8
+    },
+    {
+     "term": "area",
+     "weight": 7
+    },
+    {
+     "term": "unit",
+     "weight": 7
+    },
+    {
+     "term": "cool",
+     "weight": 6
+    },
+    {
+     "term": "recommended air",
+     "weight": 6
+    },
+    {
+     "term": "people",
+     "weight": 6
+    },
+    {
+     "term": "cooling",
+     "weight": 6
+    },
+    {
+     "term": "british",
+     "weight": 6
+    },
+    {
+     "term": "thermal",
+     "weight": 6
+    },
+    {
+     "term": "room size",
+     "weight": 6
+    },
+    {
+     "term": "conditioner capacity",
+     "weight": 6
+    },
+    {
+     "term": "help",
+     "weight": 5
+    },
+    {
+     "term": "know",
+     "weight": 5
+    },
+    {
+     "term": "sun",
+     "weight": 5
+    },
+    {
+     "term": "units",
+     "weight": 5
+    },
+    {
+     "term": "room's",
+     "weight": 5
+    },
+    {
+     "term": "conditioning",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "We need to adjust the recommended BTU per hour capacity of the air conditioner by about 600 BTU/hr for each additional person.",
+    "If you're installing the air conditioner in a kitchen, we need to add a 4000 BTU/hr adjustment to the recommended air conditioner capacity.",
+    "If your room is facing the sun during the day, we need to increase your air conditioner's capacity by 10%.",
+    "However, if your room is shaded or faces away from the sun during the day, you can opt for a smaller air conditioning unit by decreasing the recommended capacity by 10%.",
+    "Multiply this by 25 BTU to get your air conditioner size.",
+    "A rate of 8000 BTU/h in cooling systems means the air conditioner will remove 8000 BTU of heat each hour.",
+    "On average, air conditioners use about 3000 W while running.",
+    "So, turning a 3000 W air conditioner on for a whole day will consume 72 kWh per day."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 3,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "Room type"
+   ],
+   "selectOptionsSample": "select bedroom living room kitchen basement attic",
+   "unitToggle": false,
+   "wordsBeforeTool": 65,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Kenneth Alambra",
+    "published": "2020-03-29T10:13:16.893Z",
+    "modified": "2026-07-28T22:36:23.243Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 642,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 22,
+    "external": 1,
+    "contentInternal": 6,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "air changes per hour calculator",
+     "insulation material",
+     "brick calculator",
+     "AC tonnage calculator",
+     "Stone Weight Calculator",
+     "Board and Batten Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/construction/air-changes-per-hour",
+     "https://www.omnicalculator.com/construction/insulation",
+     "https://www.omnicalculator.com/construction/brick",
+     "https://www.omnicalculator.com/construction/ac-tonnage",
+     "https://www.omnicalculator.com/construction/stone",
+     "https://www.omnicalculator.com/construction/board-and-batten"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How is CD interest calculated?", a: "With compound interest: A = P × (1 + r/n)^(n × t), where P is the deposit, r the annual rate, n the number of compounding periods per year and t the term in years. If the bank quotes an APY, it already includes compounding, so A = P × (1 + APY)^t." },
+  { q: "How much interest will $10,000 earn in a CD?", a: "At 4.25% APY, $10,000 earns about $644 over 18 months (maturity value $10,644.23). A 12-month CD at 4.50% APY earns $450, and a 5-year CD at 4.00% APY earns about $2,167." },
+  { q: "What's the difference between APY and APR (interest rate)?", a: "The interest rate (APR) is the nominal yearly rate before compounding. APY is the effective yearly yield after compounding. A 4.50% rate compounded monthly equals an APY of about 4.594%. Compare CDs by APY." },
+  { q: "What happens if I withdraw from a CD early?", a: "Most banks charge an early withdrawal penalty, often a set number of months of interest (for example 3 months on short CDs and longer on multi-year CDs). If you haven't earned that much interest yet, the penalty can come out of your deposit. Check your bank's terms." },
+  { q: "Is CD interest taxable?", a: "In the U.S., CD interest is generally taxed as ordinary income in the year it's credited, even if it stays in the CD, unless the CD is held in a tax-advantaged account such as an IRA. Enter your tax rate to estimate after-tax interest." },
+  { q: "Is a CD the same as a fixed deposit (FD)?", a: "Yes, essentially. A fixed deposit is the name used in India and other countries for a time deposit with a fixed rate and term. Choose the INR currency and quarterly compounding, which many Indian banks use, to calculate FD maturity." },
+];

@@ -1,0 +1,257 @@
+{
+ "keywords": {
+  "cd interest calculator": {
+   "fetchedAt": "2026-11-22T17:20:26.577Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 14800,
+   "fileKd": 26,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 2,
+    "url": "www.calculator.net/cd-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.nerdwallet.com/calculator/cd-calculator",
+     "domain": "www.nerdwallet.com",
+     "title": "CD Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.nerdwallet.com/blog/banking/cd-calculator/",
+     "domain": "www.nerdwallet.com",
+     "title": "CD Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://finder.com/cd-interest-calculator",
+     "domain": "finder.com",
+     "title": "cd interest calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.finder.com/certificates-of-deposit/cd-interest-calculator",
+     "domain": "www.finder.com",
+     "title": "cd interest calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.inchcalculator.com/cd-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "CD Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.calculator.net/cd-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "CD Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://bankrate.com/banking/cds/cd-calculator",
+     "domain": "bankrate.com",
+     "title": "cd calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.bankrate.com/calculators/savings/bank-cd-calculator/",
+     "domain": "www.bankrate.com",
+     "title": "bank cd calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://clark.com/cd-interest-calculator/",
+     "domain": "clark.com",
+     "title": "cd interest calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.omnicalculator.com/finance/cd",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.doughroller.net/tools/cd-interest-calculator/",
+     "domain": "www.doughroller.net",
+     "title": "cd interest calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://omnicalculator.com/all/cd",
+     "domain": "omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.cabrillocu.com/articles/Financial-Education/April-2024/CD-Interest-Rate-Calculator",
+     "domain": "www.cabrillocu.com",
+     "title": "CD Interest Rate Calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://annuity.org/personal-finance/banking/certificate-of-deposit/cd-calculator",
+     "domain": "annuity.org",
+     "title": "CD Calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://www.aol.com/calculate-cd-interest-175101582.html",
+     "domain": "www.aol.com",
+     "title": "How To Calculate CD Interest: A Step-by-Step Guide",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://deltacommunitycu.com/knowledge-center/calculators/investment/certificate-of-deposit.html",
+     "domain": "deltacommunitycu.com",
+     "title": "Certificate of Deposit (CD) Calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://www.wallstreetmojo.com/cd-interest-calculator/",
+     "domain": "www.wallstreetmojo.com",
+     "title": "Elite Membership",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://www.calculator.io/cd-calculator",
+     "domain": "www.calculator.io",
+     "title": "cd calculator",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://www.raisin.com/en-us/savings/certificate-of-deposit-calculator",
+     "domain": "www.raisin.com",
+     "title": "Certificate of deposit (CD) calculator",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://financer.com/invest/cd-calculator/",
+     "domain": "financer.com",
+     "title": "CD Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "cd-calculator",
+ "page": "cd-calculator",
+ "category": "finance",
+ "name": "Cd Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T17:20:26.578Z",
+ "topCompetitors": [
+  {
+   "domain": "nerdwallet.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://www.nerdwallet.com/calculator/cd-calculator",
+    "https://www.nerdwallet.com/blog/banking/cd-calculator/"
+   ]
+  },
+  {
+   "domain": "finder.com",
+   "bestRank": 3,
+   "keywords": 2,
+   "urls": [
+    "https://finder.com/cd-interest-calculator",
+    "https://www.finder.com/certificates-of-deposit/cd-interest-calculator"
+   ]
+  },
+  {
+   "domain": "bankrate.com",
+   "bestRank": 7,
+   "keywords": 2,
+   "urls": [
+    "https://bankrate.com/banking/cds/cd-calculator",
+    "https://www.bankrate.com/calculators/savings/bank-cd-calculator/"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 10,
+   "keywords": 2,
+   "urls": [
+    "https://www.omnicalculator.com/finance/cd",
+    "https://omnicalculator.com/all/cd"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/cd-calculator/"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculator.net/cd-calculator.html"
+   ]
+  },
+  {
+   "domain": "clark.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://clark.com/cd-interest-calculator/"
+   ]
+  },
+  {
+   "domain": "doughroller.net",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://www.doughroller.net/tools/cd-interest-calculator/"
+   ]
+  },
+  {
+   "domain": "cabrillocu.com",
+   "bestRank": 13,
+   "keywords": 1,
+   "urls": [
+    "https://www.cabrillocu.com/articles/Financial-Education/April-2024/CD-Interest-Rate-Calculator"
+   ]
+  },
+  {
+   "domain": "annuity.org",
+   "bestRank": 14,
+   "keywords": 1,
+   "urls": [
+    "https://annuity.org/personal-finance/banking/certificate-of-deposit/cd-calculator"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,295 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/physics/arrow-speed": {
+   "url": "https://www.omnicalculator.com/physics/arrow-speed",
+   "finalUrl": "https://www.omnicalculator.com/physics/arrow-speed",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T17:21:10.343Z",
+   "title": "Arrow Speed Calculator",
+   "metaDescription": "Arrow speed calculator finds the real speed of an arrow for a bow with custom parameters.",
+   "canonical": "https://www.omnicalculator.com/physics/arrow-speed",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Arrow Speed Calculator"
+   ],
+   "h2": [
+    "Understanding bow speed IBO specification",
+    "Archery calculator principles",
+    "How fast does an arrow travel?",
+    "FAQs"
+   ],
+   "h3": [
+    "What device measures arrow speed?",
+    "How can I calculate arrow speed without a chronograph?",
+    "How fast can an arrow travel?",
+    "What affects arrow speed?",
+    "How does draw weight affect arrow speed?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Arrow Speed Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Understanding bow speed IBO specification"
+    },
+    {
+     "level": 2,
+     "text": "Archery calculator principles"
+    },
+    {
+     "level": 2,
+     "text": "How fast does an arrow travel?"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What device measures arrow speed?"
+    },
+    {
+     "level": 3,
+     "text": "How can I calculate arrow speed without a chronograph?"
+    },
+    {
+     "level": 3,
+     "text": "How fast can an arrow travel?"
+    },
+    {
+     "level": 3,
+     "text": "What affects arrow speed?"
+    },
+    {
+     "level": 3,
+     "text": "How does draw weight affect arrow speed?"
+    }
+   ],
+   "wordCount": 1038,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "What device measures arrow speed?",
+    "How can I calculate arrow speed without a chronograph?",
+    "How fast can an arrow travel?",
+    "What affects arrow speed?",
+    "How does draw weight affect arrow speed?",
+    "How fast does an arrow travel?"
+   ],
+   "faqSchemaCount": 5,
+   "topics": [
+    {
+     "term": "arrow",
+     "weight": 31
+    },
+    {
+     "term": "speed",
+     "weight": 27
+    },
+    {
+     "term": "arrow speed",
+     "weight": 24
+    },
+    {
+     "term": "weight",
+     "weight": 24
+    },
+    {
+     "term": "ibo",
+     "weight": 17
+    },
+    {
+     "term": "draw",
+     "weight": 17
+    },
+    {
+     "term": "draw weight",
+     "weight": 15
+    },
+    {
+     "term": "bow",
+     "weight": 14
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "draw length",
+     "weight": 11
+    },
+    {
+     "term": "min",
+     "weight": 10
+    },
+    {
+     "term": "arrow weight",
+     "weight": 9
+    },
+    {
+     "term": "length",
+     "weight": 8
+    },
+    {
+     "term": "arrows",
+     "weight": 8
+    },
+    {
+     "term": "speed calculator",
+     "weight": 8
+    },
+    {
+     "term": "kinetic energy",
+     "weight": 8
+    },
+    {
+     "term": "energy",
+     "weight": 7
+    },
+    {
+     "term": "specification",
+     "weight": 7
+    },
+    {
+     "term": "grains",
+     "weight": 7
+    },
+    {
+     "term": "additional weight",
+     "weight": 6
+    },
+    {
+     "term": "string",
+     "weight": 6
+    },
+    {
+     "term": "ibo specification",
+     "weight": 6
+    },
+    {
+     "term": "equal",
+     "weight": 6
+    },
+    {
+     "term": "ibo value",
+     "weight": 6
+    },
+    {
+     "term": "distance",
+     "weight": 6
+    },
+    {
+     "term": "momentum",
+     "weight": 5
+    },
+    {
+     "term": "kinetic",
+     "weight": 5
+    },
+    {
+     "term": "fast",
+     "weight": 5
+    },
+    {
+     "term": "bow speed",
+     "weight": 5
+    },
+    {
+     "term": "speed ibo",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "This specification determines the arrow speed, provided that you keep the following parameters: Draw length equal to 30 inches; Draw weight equal to 70 pounds; and Arrow weighing 350 grains.",
+    "Archery calculator principles You should adjust the arrow speed given by the IBO specification according to the following rules: For every inch of draw length under 30″, subtract 10 ft/s from the IBO value.",
+    "For every 3 grains of total arrow weight above draw weight multiplied by 5, subtract 1 ft/s from the IBO value.",
+    "These are calculated as follows: momentum = 𝐴 ⋅ 𝑣 kinetic energy = 𝐴 ⋅ 𝑣 2 2 momentumkinetic energy​=A⋅v=2A⋅v2​​ Our arrow speed calculator converts the units automatically.",
+    "Let's say you keep the regular peak draw weight of 70 lbs but use arrows weighing 400 grains.",
+    "Use the following method: Fire a group of arrows from 20 yards using the pin set for this distance.",
+    "Change the distance to 40 yards and shoot another group of arrows to the same pin you used from 20 yards.",
+    "If you are using a recurve bow, arrows can travel at up to 225 feet per second (fps) or 150mph, while arrows from a compound bow travel at up to 300 fps (200mph).",
+    "For example, if you increase the draw weight by 5 pounds the speed of your arrows can increase by 10 fps."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 5,
+   "images": 0,
+   "videos": 1,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Bogna Szyk",
+    "published": "2017-06-22T09:41:35.980Z",
+    "modified": "2026-08-30T15:53:01.326Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 669,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 22,
+    "external": 2,
+    "contentInternal": 6,
+    "contentExternal": 2,
+    "internalAnchors": [
+     "how to use this calculator",
+     "projectile motion calculator",
+     "muzzle velocity calculator",
+     "kinetic energy calculator",
+     "impulse and momentum calculator",
+     "ballistic coefficient"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/physics/arrow-speed#understanding-bow-speed-ibo-specification",
+     "https://www.omnicalculator.com/physics/projectile-motion",
+     "https://www.omnicalculator.com/physics/muzzle-velocity",
+     "https://www.omnicalculator.com/physics/kinetic-energy",
+     "https://www.omnicalculator.com/physics/impulse-and-momentum",
+     "https://www.omnicalculator.com/physics/ballistic-coefficient"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com",
+     "https://youtu.be/st2PiLANNMQ"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

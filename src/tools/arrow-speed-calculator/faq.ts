@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How do you calculate arrow speed?", a: "Start from the bow's IBO speed and adjust it to your setup: subtract about 10 fps for every inch your draw length is under 30 inches, and subtract about 1 fps for every 3 grains your arrow weighs above 5 grains per pound of draw weight. A 340 fps bow at 28 in and 60 lb shooting a 400-grain arrow comes out at about 287 fps." },
+  { q: "What is IBO speed?", a: "IBO speed is a standardized bow rating measured with a 30-inch draw length, 70-pound draw weight and a 350-grain arrow (5 grains per pound). It lets you compare bows, but most hunters shoot shorter draws and heavier arrows, so their real speed is lower." },
+  { q: "How much speed do I lose per inch of draw length?", a: "About 10 fps per inch is the usual rule of thumb. Independent testing has measured roughly 8 to 12 fps per inch depending on the bow." },
+  { q: "How do you calculate arrow kinetic energy?", a: "KE (ft·lb) = arrow weight (grains) × speed (fps)² ÷ 450,240. A 400-grain arrow at 287 fps carries about 73 ft·lb." },
+  { q: "Is a heavier or lighter arrow better?", a: "Lighter arrows fly faster and flatter, which helps with range errors. Heavier arrows are slower but carry more momentum and are quieter, which many bowhunters prefer for penetration on big game. Never go below the bow maker's minimum arrow weight, commonly 5 grains per pound." },
+  { q: "How accurate is this estimate?", a: "It uses common rules of thumb, so treat it as a planning estimate. Cam design, let-off, string accessories and tuning all change real speed. A chronograph measurement is the only way to know your exact fps." },
+];
