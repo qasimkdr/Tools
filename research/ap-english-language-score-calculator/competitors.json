@@ -1,0 +1,290 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/other/ap-lang-score": {
+   "url": "https://www.omnicalculator.com/other/ap-lang-score",
+   "finalUrl": "https://www.omnicalculator.com/other/ap-lang-score",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T15:04:53.608Z",
+   "title": "AP® Lang Score Calculator",
+   "metaDescription": "Use the AP® Lang score calculator to estimate your score from the number of points in each section of the exam.",
+   "canonical": "https://www.omnicalculator.com/other/ap-lang-score",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "AP® Lang Score Calculator"
+   ],
+   "h2": [
+    "What is AP® Lang score?",
+    "AP® Lang score distribution",
+    "How to calculate AP® Lang score",
+    "How to use the AP® Language and Composition score calculator​",
+    "FAQs"
+   ],
+   "h3": [
+    "When do AP® Lang scores come out?",
+    "How is the AP® Lang exam scored?",
+    "How do I find AP® Lang score?",
+    "Is 3 a good AP® Lang score?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "AP® Lang Score Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is AP® Lang score?"
+    },
+    {
+     "level": 2,
+     "text": "AP® Lang score distribution"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate AP® Lang score"
+    },
+    {
+     "level": 2,
+     "text": "How to use the AP® Language and Composition score calculator​"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "When do AP® Lang scores come out?"
+    },
+    {
+     "level": 3,
+     "text": "How is the AP® Lang exam scored?"
+    },
+    {
+     "level": 3,
+     "text": "How do I find AP® Lang score?"
+    },
+    {
+     "level": 3,
+     "text": "Is 3 a good AP® Lang score?"
+    }
+   ],
+   "wordCount": 990,
+   "avgSentenceWords": 18,
+   "faqs": [
+    "What is AP® Lang score?",
+    "When do AP® Lang scores come out?",
+    "How is the AP® Lang exam scored?",
+    "How do I find AP® Lang score?",
+    "Is 3 a good AP® Lang score?"
+   ],
+   "faqSchemaCount": 5,
+   "topics": [
+    {
+     "term": "score",
+     "weight": 51
+    },
+    {
+     "term": "lang score",
+     "weight": 35
+    },
+    {
+     "term": "lang",
+     "weight": 32
+    },
+    {
+     "term": "composite score",
+     "weight": 14
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "score calculator",
+     "weight": 12
+    },
+    {
+     "term": "points",
+     "weight": 11
+    },
+    {
+     "term": "exam",
+     "weight": 11
+    },
+    {
+     "term": "composite",
+     "weight": 9
+    },
+    {
+     "term": "english language",
+     "weight": 8
+    },
+    {
+     "term": "multiple choice",
+     "weight": 8
+    },
+    {
+     "term": "lang exam",
+     "weight": 8
+    },
+    {
+     "term": "language",
+     "weight": 7
+    },
+    {
+     "term": "questions",
+     "weight": 7
+    },
+    {
+     "term": "composition score",
+     "weight": 6
+    },
+    {
+     "term": "section",
+     "weight": 6
+    },
+    {
+     "term": "average",
+     "weight": 6
+    },
+    {
+     "term": "choice questions",
+     "weight": 6
+    },
+    {
+     "term": "check",
+     "weight": 5
+    },
+    {
+     "term": "english",
+     "weight": 5
+    },
+    {
+     "term": "distribution",
+     "weight": 5
+    },
+    {
+     "term": "students",
+     "weight": 5
+    },
+    {
+     "term": "multiple",
+     "weight": 5
+    },
+    {
+     "term": "choice",
+     "weight": 5
+    },
+    {
+     "term": "table",
+     "weight": 5
+    },
+    {
+     "term": "need",
+     "weight": 5
+    },
+    {
+     "term": "score distribution",
+     "weight": 5
+    },
+    {
+     "term": "college board",
+     "weight": 5
+    },
+    {
+     "term": "free response",
+     "weight": 5
+    },
+    {
+     "term": "score breakdown",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "AP® Lang score is short for AP® English Language and Composition score, in which you can get a score from 1 to 5.",
+    "Many colleges give credit or placement depending on the score you obtained, where 1 is no recommendation, and 5 is extremely well qualified.",
+    "For 2025, the AP® Lang score distribution was as shown in the table below.",
+    "The mean score was 3.2, which was exceptionally high compared to previous years, when it was about 2.8-2.9.",
+    "AP® Lang score Percentage of students 5 13.4% 4 28% 3 32.8% 2 16.1% 1 9.7% 💡 Speaking of statistical distributions, be sure to check the normal distribution calculator or binomial distribution calculator.",
+    "The AP® Lang exam is scored in the following way: Count the points in 45 multiple-choice questions — 45% of the score.",
+    "Count the points in the three essays — 55% of the score.",
+    "This is converted to an AP scale (1-5) using the AP® Lang score breakdown table.",
+    "Check the AP® Lang score breakdown table to find your final score (1-5).",
+    "It is equivalent to a B-, C+, or C grade, and many colleges will place you for a 3."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 4,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Dominik Czernia",
+    "published": "2026-05-28T11:39:12.353Z",
+    "modified": "2026-06-04T12:02:07.019Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 509,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 20,
+    "external": 1,
+    "contentInternal": 4,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "weighted average calculator",
+     "normal distribution calculator",
+     "binomial distribution calculator",
+     "what grade was I in year calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/math/weighted-average",
+     "https://www.omnicalculator.com/statistics/normal-distribution",
+     "https://www.omnicalculator.com/statistics/binomial-distribution",
+     "https://www.omnicalculator.com/other/what-grade-was-i-in-year"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

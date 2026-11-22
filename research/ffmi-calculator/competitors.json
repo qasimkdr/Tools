@@ -1,0 +1,661 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/health/ffmi": {
+   "url": "https://www.omnicalculator.com/health/ffmi",
+   "finalUrl": "https://www.omnicalculator.com/health/ffmi",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T15:05:07.866Z",
+   "title": "FFMI Calculator",
+   "metaDescription": "The FFMI calculator estimates your fat-free mass index. Use this tool to learn about your body condition and health.",
+   "canonical": "https://www.omnicalculator.com/health/ffmi",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "FFMI Calculator (Fat-Free Mass Index)"
+   ],
+   "h2": [
+    "FFMI – fat-free mass index",
+    "BMI vs. FFMI",
+    "Why is FFMI better than BMI?",
+    "Fat-free mass index interpretation",
+    "How to calculate FFMI?",
+    "FFMI calculator – how to use it properly",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I calculate FFMI?",
+    "What is a healthy fat free mass index?",
+    "How to lower body fat without losing muscle mass?",
+    "Which are examples of fat-free mass?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "FFMI Calculator (Fat-Free Mass Index)"
+    },
+    {
+     "level": 2,
+     "text": "FFMI – fat-free mass index"
+    },
+    {
+     "level": 2,
+     "text": "BMI vs. FFMI"
+    },
+    {
+     "level": 2,
+     "text": "Why is FFMI better than BMI?"
+    },
+    {
+     "level": 2,
+     "text": "Fat-free mass index interpretation"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate FFMI?"
+    },
+    {
+     "level": 2,
+     "text": "FFMI calculator – how to use it properly"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate FFMI?"
+    },
+    {
+     "level": 3,
+     "text": "What is a healthy fat free mass index?"
+    },
+    {
+     "level": 3,
+     "text": "How to lower body fat without losing muscle mass?"
+    },
+    {
+     "level": 3,
+     "text": "Which are examples of fat-free mass?"
+    }
+   ],
+   "wordCount": 1438,
+   "avgSentenceWords": 18,
+   "faqs": [
+    "How do I calculate FFMI?",
+    "What is a healthy fat free mass index?",
+    "How to lower body fat without losing muscle mass?",
+    "Which are examples of fat-free mass?",
+    "Think you really understand your muscle-to-fat balance?",
+    "Why is FFMI better than BMI?",
+    "How to calculate FFMI?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "fat",
+     "weight": 50
+    },
+    {
+     "term": "ffmi",
+     "weight": 42
+    },
+    {
+     "term": "mass",
+     "weight": 37
+    },
+    {
+     "term": "body",
+     "weight": 35
+    },
+    {
+     "term": "fat free",
+     "weight": 32
+    },
+    {
+     "term": "free mass",
+     "weight": 32
+    },
+    {
+     "term": "body fat",
+     "weight": 30
+    },
+    {
+     "term": "mass index",
+     "weight": 23
+    },
+    {
+     "term": "free",
+     "weight": 21
+    },
+    {
+     "term": "weight",
+     "weight": 18
+    },
+    {
+     "term": "index",
+     "weight": 16
+    },
+    {
+     "term": "calculator",
+     "weight": 15
+    },
+    {
+     "term": "bmi",
+     "weight": 14
+    },
+    {
+     "term": "muscle",
+     "weight": 12
+    },
+    {
+     "term": "muscle mass",
+     "weight": 11
+    },
+    {
+     "term": "height",
+     "weight": 9
+    },
+    {
+     "term": "body mass",
+     "weight": 9
+    },
+    {
+     "term": "average",
+     "weight": 8
+    },
+    {
+     "term": "ffmi calculator",
+     "weight": 8
+    },
+    {
+     "term": "normalized ffmi",
+     "weight": 8
+    },
+    {
+     "term": "normalized",
+     "weight": 6
+    },
+    {
+     "term": "below",
+     "weight": 6
+    },
+    {
+     "term": "take",
+     "weight": 5
+    },
+    {
+     "term": "well",
+     "weight": 5
+    },
+    {
+     "term": "calculation",
+     "weight": 5
+    },
+    {
+     "term": "result",
+     "weight": 5
+    },
+    {
+     "term": "kilograms",
+     "weight": 5
+    },
+    {
+     "term": "healthy",
+     "weight": 5
+    },
+    {
+     "term": "steroid",
+     "weight": 5
+    },
+    {
+     "term": "ffmi fat",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "For normalized FFMI use the equation: normalized FFMI = FFMI [kg/m²] + 6.1 × (1.8 - height [m]).",
+    "Normalized FFMI is equal to 18.1 kg/m² – it is identical to the non-normalized value because the man is not taller than the mean value of the population.",
+    "For a man, the average FFMI is 18-20, and for a woman, 14-17."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 8,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Filip Derma",
+    "published": "2019-03-20T15:49:21.594Z",
+    "modified": "2026-08-17T15:26:50.228Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 595,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 23,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "FFMI quiz",
+     "body fat calculator",
+     "US navy body fat calculator",
+     "ideal body weight calculator",
+     "BMI (body mass index) calculator",
+     "lean body mass calculator",
+     "relative fat mass calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/health/fat-free-mass-index-quiz",
+     "https://www.omnicalculator.com/health/body-fat",
+     "https://www.omnicalculator.com/health/navy-body-fat",
+     "https://www.omnicalculator.com/health/ideal-weight",
+     "https://www.omnicalculator.com/health/bmi",
+     "https://www.omnicalculator.com/health/lean-body-mass",
+     "https://www.omnicalculator.com/health/relative-fat-mass"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/ffmi-calculator/": {
+   "url": "https://www.inchcalculator.com/ffmi-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/ffmi-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T15:05:11.038Z",
+   "title": "FFMI Calculator (Fat-Free Mass Index) - Inch Calculator",
+   "metaDescription": "Calculate your FFMI using a few simple body measurements. Plus, learn the steps to calculating your fat-free mass index.",
+   "canonical": "https://www.inchcalculator.com/ffmi-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "FFMI Calculator (Fat-Free Mass Index)"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Fat-Free Mass Index",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "What is Fat Free Mass Index",
+    "How to Calculate FFMI",
+    "FFMI Ranges",
+    "Similar Health Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "The Importance of Body Composition",
+    "FFMI Formulas",
+    "Normal Range for Men",
+    "Normal Range for Women",
+    "Differences Between Fat Mass in Men and Women"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "FFMI Calculator (Fat-Free Mass Index)"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Fat-Free Mass Index"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "What is Fat Free Mass Index"
+    },
+    {
+     "level": 3,
+     "text": "The Importance of Body Composition"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate FFMI"
+    },
+    {
+     "level": 3,
+     "text": "FFMI Formulas"
+    },
+    {
+     "level": 2,
+     "text": "FFMI Ranges"
+    },
+    {
+     "level": 3,
+     "text": "Normal Range for Men"
+    },
+    {
+     "level": 3,
+     "text": "Normal Range for Women"
+    },
+    {
+     "level": 3,
+     "text": "Differences Between Fat Mass in Men and Women"
+    },
+    {
+     "level": 2,
+     "text": "Similar Health Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 1418,
+   "avgSentenceWords": 30,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "fat",
+     "weight": 57
+    },
+    {
+     "term": "mass",
+     "weight": 43
+    },
+    {
+     "term": "body",
+     "weight": 41
+    },
+    {
+     "term": "fat free",
+     "weight": 39
+    },
+    {
+     "term": "free mass",
+     "weight": 39
+    },
+    {
+     "term": "body fat",
+     "weight": 39
+    },
+    {
+     "term": "mass index",
+     "weight": 30
+    },
+    {
+     "term": "ffmi",
+     "weight": 27
+    },
+    {
+     "term": "free",
+     "weight": 26
+    },
+    {
+     "term": "index",
+     "weight": 20
+    },
+    {
+     "term": "weight",
+     "weight": 17
+    },
+    {
+     "term": "height",
+     "weight": 16
+    },
+    {
+     "term": "muscle mass",
+     "weight": 15
+    },
+    {
+     "term": "fat percentage",
+     "weight": 12
+    },
+    {
+     "term": "have",
+     "weight": 11
+    },
+    {
+     "term": "percentage",
+     "weight": 10
+    },
+    {
+     "term": "normal",
+     "weight": 10
+    },
+    {
+     "term": "women",
+     "weight": 10
+    },
+    {
+     "term": "muscle",
+     "weight": 10
+    },
+    {
+     "term": "body composition",
+     "weight": 9
+    },
+    {
+     "term": "men",
+     "weight": 9
+    },
+    {
+     "term": "calculator",
+     "weight": 8
+    },
+    {
+     "term": "calculate",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "range",
+     "weight": 8
+    },
+    {
+     "term": "lean muscle",
+     "weight": 8
+    },
+    {
+     "term": "https",
+     "weight": 7
+    },
+    {
+     "term": "used",
+     "weight": 7
+    },
+    {
+     "term": "health",
+     "weight": 7
+    },
+    {
+     "term": "composition",
+     "weight": 6
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 3,
+   "lists": 3,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "Height",
+    "Height Units",
+    "Weight",
+    "Weight Units",
+    "Body Fat"
+   ],
+   "selectOptionsSample": "in cm lb kg st",
+   "unitToggle": true,
+   "wordsBeforeTool": 17,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Holly Smith",
+    "published": "2021-06-02",
+    "modified": "2022-04-09T17:12:52+00:00",
+    "authoritativeSources": [
+     "https://pubmed.ncbi.nlm.nih.gov/19933515/",
+     "https://pubmed.ncbi.nlm.nih.gov/18997678/"
+    ]
+   },
+   "ux": {
+    "htmlKB": 125,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 50,
+    "external": 19,
+    "contentInternal": 26,
+    "contentExternal": 13,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "What is Fat Free Mass Index",
+     "The Importance of Body Composition",
+     "How to Calculate FFMI",
+     "FFMI Formulas",
+     "FFMI Ranges",
+     "Normal Range for Men",
+     "Normal Range for Women",
+     "Differences Between Fat Mass in Men and Women",
+     "References",
+     "Full bio",
+     "FFMI Calculator (Fat-Free Mass Index)",
+     "calculate body mass index",
+     "percentage of body fat",
+     "lean muscle mass",
+     "convert pounds to kilograms",
+     "convert inches to meters",
+     "Ideal Body Weight Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/ffmi-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/ffmi/",
+     "https://www.inchcalculator.com/ffmi-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/ffmi-calculator/#idx_what_is_fat_free_mass_index",
+     "https://www.inchcalculator.com/ffmi-calculator/#idx_the_importance_of_body_composition",
+     "https://www.inchcalculator.com/ffmi-calculator/#idx_how_to_calculate_ffmi",
+     "https://www.inchcalculator.com/ffmi-calculator/#idx_ffmi_formulas",
+     "https://www.inchcalculator.com/ffmi-calculator/#idx_ffmi_ranges",
+     "https://www.inchcalculator.com/ffmi-calculator/#idx_normal_range_for_men",
+     "https://www.inchcalculator.com/ffmi-calculator/#idx_normal_range_for_women",
+     "https://www.inchcalculator.com/ffmi-calculator/#idx_differences_between_fat_mass_in_men_and_women",
+     "https://www.inchcalculator.com/ffmi-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/holly-smith/",
+     "https://www.inchcalculator.com/author/elise-harlow/",
+     "https://www.inchcalculator.com/ffmi-calculator/",
+     "https://www.inchcalculator.com/bmi-calculator/",
+     "https://www.inchcalculator.com/body-fat-calculator/",
+     "https://www.inchcalculator.com/lean-body-mass-calculator/",
+     "https://www.inchcalculator.com/convert/pound-to-kilogram/",
+     "https://www.inchcalculator.com/convert/inch-to-meter/",
+     "https://www.inchcalculator.com/ideal-body-weight-calculator/",
+     "https://www.inchcalculator.com/height-converter/",
+     "https://www.inchcalculator.com/height-calculator/",
+     "https://www.inchcalculator.com/sleep-calculator/",
+     "https://www.inchcalculator.com/height-comparison-chart/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fffmi-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fffmi-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fffmi-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fffmi-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fffmi-calculator%2F&text=FFMI+Calculator+%28Fat-Free+Mass+Index%29",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fffmi-calculator%2F&text=FFMI+Calculator+%28Fat-Free+Mass+Index%29",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://doi.org/10.1016/s0899-9007(03)00061-3",
+     "https://doi.org/10.1038/ijo.2010.111",
+     "https://pubmed.ncbi.nlm.nih.gov/19933515/",
+     "https://pubmed.ncbi.nlm.nih.gov/18997678/",
+     "https://www.sciencedaily.com/releases/2009/03/090302115755.htm",
+     "https://europepmc.org/article/med/7496846"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

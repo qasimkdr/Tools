@@ -1,0 +1,309 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/sports/dunk": {
+   "url": "https://www.omnicalculator.com/sports/dunk",
+   "finalUrl": "https://www.omnicalculator.com/sports/dunk",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T15:05:15.315Z",
+   "title": "Dunk Calculator",
+   "metaDescription": "Our dunk calculator helps you to calculate the vertical jump you need to achieve in order to dunk in basketball.",
+   "canonical": "https://www.omnicalculator.com/sports/dunk",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Dunk Calculator"
+   ],
+   "h2": [
+    "Dunk definition — Can I dunk and how to dunk?",
+    "The dunk calculator — How high do I need to jump to dunk?",
+    "How to improve your vertical jump",
+    "FAQs"
+   ],
+   "h3": [
+    "What is a dunk?",
+    "How can I practice dunk in basketball?",
+    "Can every NBA player dunk?",
+    "Can short people dunk?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Dunk Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Dunk definition — Can I dunk and how to dunk?"
+    },
+    {
+     "level": 2,
+     "text": "The dunk calculator — How high do I need to jump to dunk?"
+    },
+    {
+     "level": 2,
+     "text": "How to improve your vertical jump"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What is a dunk?"
+    },
+    {
+     "level": 3,
+     "text": "How can I practice dunk in basketball?"
+    },
+    {
+     "level": 3,
+     "text": "Can every NBA player dunk?"
+    },
+    {
+     "level": 3,
+     "text": "Can short people dunk?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1494,
+   "avgSentenceWords": 18,
+   "faqs": [
+    "What is a dunk?",
+    "How can I practice dunk in basketball?",
+    "Can every NBA player dunk?",
+    "Can short people dunk?",
+    "Dunk definition — Can I dunk and how to dunk?",
+    "The dunk calculator — How high do I need to jump to dunk?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "dunk",
+     "weight": 50
+    },
+    {
+     "term": "calculator",
+     "weight": 22
+    },
+    {
+     "term": "height",
+     "weight": 20
+    },
+    {
+     "term": "vertical leap",
+     "weight": 18
+    },
+    {
+     "term": "hoop",
+     "weight": 16
+    },
+    {
+     "term": "jump",
+     "weight": 16
+    },
+    {
+     "term": "minimum vertical",
+     "weight": 15
+    },
+    {
+     "term": "vertical",
+     "weight": 15
+    },
+    {
+     "term": "jumping",
+     "weight": 15
+    },
+    {
+     "term": "basketball",
+     "weight": 15
+    },
+    {
+     "term": "hoop height",
+     "weight": 12
+    },
+    {
+     "term": "leap",
+     "weight": 12
+    },
+    {
+     "term": "minimum",
+     "weight": 10
+    },
+    {
+     "term": "nba",
+     "weight": 10
+    },
+    {
+     "term": "dunk calculator",
+     "weight": 9
+    },
+    {
+     "term": "body mass",
+     "weight": 9
+    },
+    {
+     "term": "need",
+     "weight": 9
+    },
+    {
+     "term": "slam dunk",
+     "weight": 9
+    },
+    {
+     "term": "improve",
+     "weight": 9
+    },
+    {
+     "term": "standing reach",
+     "weight": 8
+    },
+    {
+     "term": "body",
+     "weight": 7
+    },
+    {
+     "term": "mass",
+     "weight": 7
+    },
+    {
+     "term": "reach",
+     "weight": 7
+    },
+    {
+     "term": "initial jumping",
+     "weight": 6
+    },
+    {
+     "term": "jumping speed",
+     "weight": 6
+    },
+    {
+     "term": "have",
+     "weight": 6
+    },
+    {
+     "term": "players",
+     "weight": 6
+    },
+    {
+     "term": "jump higher",
+     "weight": 6
+    },
+    {
+     "term": "slam",
+     "weight": 6
+    },
+    {
+     "term": "player",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "For example, Nate Robinson, an NBA player who has a height of 5' 7\" (about 170 cm), was able to dunk over many NBA players who are way taller than him.",
+    "Not to mention that Spudd Webb, another NBA player with a similar height, has won the NBA Slam Dunk Contest over other contestants who average 6'2\" (188 cm) in height.",
+    "For instance, Spud Webb, an NBA player who is just 5'7\" (170 cm), won the NBA slam dunk contest in 1986."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 7,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Hoop type"
+   ],
+   "selectOptionsSample": "select 2nd grade or below 3rd to 4ᵗʰ grade 5th to 6th grade 7th grade or above (standard hoop)",
+   "unitToggle": false,
+   "wordsBeforeTool": 4,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Wei Bin Loo",
+    "published": "2021-07-08T13:31:26.345Z",
+    "modified": "2026-08-20T19:23:40.555Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 567,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 32,
+    "external": 1,
+    "contentInternal": 16,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "FAQs",
+     "dunk & basketball quiz",
+     "gravitational force calculator",
+     "eFG calculator",
+     "time lapse calculator",
+     "jump rope calorie calculator",
+     "VPD Calculator (Vapor Pressure Deficit)",
+     "Sod Calculator",
+     "Molar Mass Calculator",
+     "Stone Weight Calculator",
+     "Board and Batten Calculator",
+     "Poker Odds Calculator",
+     "RAID Calculator",
+     "Sum of Squares Calculator",
+     "Midrange Calculator",
+     "Coefficient of Variation Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/sports/dunk#faqs",
+     "https://www.omnicalculator.com/sports/dunk-quiz",
+     "https://www.omnicalculator.com/physics/gravitational-force",
+     "https://www.omnicalculator.com/sports/efg",
+     "https://www.omnicalculator.com/other/time-lapse",
+     "https://www.omnicalculator.com/sports/jump-rope-calorie",
+     "https://www.omnicalculator.com/biology/vapor-pressure-deficit",
+     "https://www.omnicalculator.com/biology/sod",
+     "https://www.omnicalculator.com/chemistry/molar-mass",
+     "https://www.omnicalculator.com/construction/stone",
+     "https://www.omnicalculator.com/construction/board-and-batten",
+     "https://www.omnicalculator.com/other/poker-odds",
+     "https://www.omnicalculator.com/other/raid",
+     "https://www.omnicalculator.com/statistics/sum-of-squares",
+     "https://www.omnicalculator.com/statistics/midrange",
+     "https://www.omnicalculator.com/statistics/coefficient-of-variation"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

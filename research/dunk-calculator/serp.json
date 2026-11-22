@@ -1,0 +1,256 @@
+{
+ "keywords": {
+  "dunk calculator": {
+   "fetchedAt": "2026-11-22T15:04:43.806Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 4400,
+   "fileKd": 12,
+   "fileIntent": "C - I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.omnicalculator.com/sports/dunk",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.trendhunter.com/trends/dunk-calculator",
+     "domain": "www.trendhunter.com",
+     "title": "Dunk Calculator Uses Height and Jump Data To Guess If You Can Dunk",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.calculate.co.nz/dunk-calculator.php",
+     "domain": "www.calculate.co.nz",
+     "title": "Dunk Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.producthunt.com/products/dunk-calculator/reviews",
+     "domain": "www.producthunt.com",
+     "title": "www.producthunt.com",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.trendhunter.com/amp/trends/dunk-calculator",
+     "domain": "www.trendhunter.com",
+     "title": "Sports Performance Calculators",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://shreddeddad.com/dunk-calculator/",
+     "domain": "shreddeddad.com",
+     "title": "dunk calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://calculators.sg/dunk-calculator",
+     "domain": "calculators.sg",
+     "title": "Dunk Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.thehoopsgeek.com/dunk-calculator/",
+     "domain": "www.thehoopsgeek.com",
+     "title": "How high do you have to jump to dunk?",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.thehoopsgeek.com/?p=580",
+     "domain": "www.thehoopsgeek.com",
+     "title": "How high do you have to jump to dunk?",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://videodubber.ai/tools/sports/dunk-calculator",
+     "domain": "videodubber.ai",
+     "title": "dunk calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://prommer.net/en/training/calculators/general/dunk/",
+     "domain": "prommer.net",
+     "title": "Ask AI Tom",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://dunk-calc.netlify.app",
+     "domain": "dunk-calc.netlify.app",
+     "title": "dunk calc.netlify",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://dunk-calculators.netlify.app/dunk-calculator",
+     "domain": "dunk-calculators.netlify.app",
+     "title": "Dunk Calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://calculatorwise.pages.dev/calculators/dunk-calculator",
+     "domain": "calculatorwise.pages.dev",
+     "title": "Dunk Calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://mosports.forums.rivals.com/threads/dunk-calculator-online-question.64254",
+     "domain": "mosports.forums.rivals.com",
+     "title": "dunk calculator online question.64254",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://clickcalculators.com/sports/dunk-calculator-metric-units",
+     "domain": "clickcalculators.com",
+     "title": "dunk calculator metric units",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://alltoolsonline.pages.dev/tools/sports-tools/dunk-calculator.html",
+     "domain": "alltoolsonline.pages.dev",
+     "title": "dunk calculator",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://usefreecalculator.pages.dev/Tools/dunk-calculator",
+     "domain": "usefreecalculator.pages.dev",
+     "title": "New Announcement",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://dunkcalculator-d50.pages.dev",
+     "domain": "dunkcalculator-d50.pages.dev",
+     "title": "Dunk Calculator",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://dunkcalculatorpro.blogspot.com/",
+     "domain": "dunkcalculatorpro.blogspot.com",
+     "title": "DUNK CALCULATOR",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "dunk-calculator",
+ "page": "dunk-calculator",
+ "category": "education",
+ "name": "Dunk Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T15:04:43.806Z",
+ "topCompetitors": [
+  {
+   "domain": "pages.dev",
+   "bestRank": 14,
+   "keywords": 4,
+   "urls": [
+    "https://calculatorwise.pages.dev/calculators/dunk-calculator",
+    "https://alltoolsonline.pages.dev/tools/sports-tools/dunk-calculator.html",
+    "https://usefreecalculator.pages.dev/Tools/dunk-calculator",
+    "https://dunkcalculator-d50.pages.dev"
+   ]
+  },
+  {
+   "domain": "trendhunter.com",
+   "bestRank": 2,
+   "keywords": 2,
+   "urls": [
+    "https://www.trendhunter.com/trends/dunk-calculator",
+    "https://www.trendhunter.com/amp/trends/dunk-calculator"
+   ]
+  },
+  {
+   "domain": "thehoopsgeek.com",
+   "bestRank": 8,
+   "keywords": 2,
+   "urls": [
+    "https://www.thehoopsgeek.com/dunk-calculator/",
+    "https://www.thehoopsgeek.com/?p=580"
+   ]
+  },
+  {
+   "domain": "netlify.app",
+   "bestRank": 12,
+   "keywords": 2,
+   "urls": [
+    "https://dunk-calc.netlify.app",
+    "https://dunk-calculators.netlify.app/dunk-calculator"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/sports/dunk"
+   ]
+  },
+  {
+   "domain": "calculate.co.nz",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculate.co.nz/dunk-calculator.php"
+   ]
+  },
+  {
+   "domain": "producthunt.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.producthunt.com/products/dunk-calculator/reviews"
+   ]
+  },
+  {
+   "domain": "shreddeddad.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://shreddeddad.com/dunk-calculator/"
+   ]
+  },
+  {
+   "domain": "calculators.sg",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://calculators.sg/dunk-calculator"
+   ]
+  },
+  {
+   "domain": "videodubber.ai",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://videodubber.ai/tools/sports/dunk-calculator"
+   ]
+  }
+ ]
+}

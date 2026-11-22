@@ -1,0 +1,11 @@
+{
+ "pages": {},
+ "failed": {
+  "https://www.inchcalculator.com/soffit-calculator/": [
+   "HTTP 404"
+  ],
+  "https://www.omnicalculator.com/construction/soffit": [
+   "HTTP 404"
+  ]
+ }
+}

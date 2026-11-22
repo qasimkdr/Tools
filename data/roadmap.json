@@ -7235,7 +7235,7 @@
    ],
    "competitors": [],
    "category": "construction",
-   "status": "todo",
+   "status": "live",
    "order": 64,
    "batch": 7
   },
@@ -7291,37 +7291,8 @@
    ],
    "competitors": [],
    "category": "education",
-   "status": "todo",
+   "status": "live",
    "order": 65,
-   "batch": 7
-  },
-  {
-   "slug": "schoology-grade-calculator",
-   "name": "Schoology Grade Calculator",
-   "rank": 85,
-   "tier": "P1",
-   "primaryKw": "schoology grade calculator",
-   "primaryVol": 2400,
-   "primaryKd": 4,
-   "clusterVol": 2400,
-   "weightedKd": 4,
-   "mergedFrom": [
-    "Schoology Grade Calculator"
-   ],
-   "keywords": [
-    {
-     "kw": "schoology grade calculator",
-     "vol": 2400,
-     "kd": 4,
-     "intent": "I",
-     "compPos": null,
-     "compUrl": null
-    }
-   ],
-   "competitors": [],
-   "category": "education",
-   "status": "todo",
-   "order": 66,
    "batch": 7
   },
   {
@@ -7368,74 +7339,8 @@
     "www.omnicalculator.com/finance/money-counter"
    ],
    "category": "finance",
-   "status": "todo",
-   "order": 67,
-   "batch": 7
-  },
-  {
-   "slug": "soil-calculator",
-   "name": "Soil Calculator",
-   "rank": 87,
-   "tier": "P1",
-   "primaryKw": "topsoil calculator",
-   "primaryVol": 8100,
-   "primaryKd": 20,
-   "clusterVol": 29500,
-   "weightedKd": 31.1,
-   "mergedFrom": [
-    "Soil Calculator",
-    "Loam Calculator",
-    "Soil Yard Calculator",
-    "Topsoil Estimator"
-   ],
-   "keywords": [
-    {
-     "kw": "soil calculator",
-     "vol": 18100,
-     "kd": 36,
-     "intent": "C",
-     "compPos": 2,
-     "compUrl": "www.omnicalculator.com/biology/soil"
-    },
-    {
-     "kw": "topsoil calculator",
-     "vol": 8100,
-     "kd": 20,
-     "intent": "I",
-     "compPos": 12,
-     "compUrl": "www.omnicalculator.com/biology/soil"
-    },
-    {
-     "kw": "soil yard calculator",
-     "vol": 1300,
-     "kd": 6,
-     "intent": "I",
-     "compPos": null,
-     "compUrl": null
-    },
-    {
-     "kw": "loam calculator",
-     "vol": 1000,
-     "kd": 4,
-     "intent": "I",
-     "compPos": null,
-     "compUrl": null
-    },
-    {
-     "kw": "topsoil estimator",
-     "vol": 1000,
-     "kd": 13,
-     "intent": "I",
-     "compPos": null,
-     "compUrl": null
-    }
-   ],
-   "competitors": [
-    "www.omnicalculator.com/biology/soil"
-   ],
-   "category": "construction",
-   "status": "todo",
-   "order": 68,
+   "status": "live",
+   "order": 66,
    "batch": 7
   },
   {
@@ -7465,95 +7370,8 @@
     "www.omnicalculator.com/health/ffmi"
    ],
    "category": "health",
-   "status": "todo",
-   "order": 69,
-   "batch": 7
-  },
-  {
-   "slug": "hex-calculator",
-   "name": "Hex Calculator",
-   "rank": 89,
-   "tier": "P1",
-   "primaryKw": "hex calculator",
-   "primaryVol": 5400,
-   "primaryKd": 20,
-   "clusterVol": 16600,
-   "weightedKd": 30.4,
-   "mergedFrom": [
-    "Hex Calculator"
-   ],
-   "keywords": [
-    {
-     "kw": "hex calculator",
-     "vol": 5400,
-     "kd": 20,
-     "intent": "I",
-     "compPos": 1,
-     "compUrl": "www.calculator.net/hex-calculator.html"
-    },
-    {
-     "kw": "hex and calculator",
-     "vol": 2400,
-     "kd": 20,
-     "intent": "C",
-     "compPos": 2,
-     "compUrl": "www.calculator.net/hex-calculator.html"
-    },
-    {
-     "kw": "calculate hexadecimal to decimal",
-     "vol": 2400,
-     "kd": 34,
-     "intent": "I",
-     "compPos": 3,
-     "compUrl": "www.calculator.net/hex-calculator.html"
-    },
-    {
-     "kw": "hex and decimal converter",
-     "vol": 2400,
-     "kd": 42,
-     "intent": "C - I",
-     "compPos": 3,
-     "compUrl": "www.calculator.net/hex-calculator.html"
-    },
-    {
-     "kw": "calculator for hexadecimal",
-     "vol": 1000,
-     "kd": 35,
-     "intent": "I",
-     "compPos": 1,
-     "compUrl": "www.calculator.net/hex-calculator.html"
-    },
-    {
-     "kw": "decimal to hex calculator",
-     "vol": 1000,
-     "kd": 40,
-     "intent": "I",
-     "compPos": 3,
-     "compUrl": "www.calculator.net/hex-calculator.html"
-    },
-    {
-     "kw": "decimal to hexadecimal conversion calculator",
-     "vol": 1000,
-     "kd": 42,
-     "intent": "I",
-     "compPos": 3,
-     "compUrl": "www.calculator.net/hex-calculator.html"
-    },
-    {
-     "kw": "dec hex calculator",
-     "vol": 1000,
-     "kd": 49,
-     "intent": "I",
-     "compPos": 3,
-     "compUrl": "www.calculator.net/hex-calculator.html"
-    }
-   ],
-   "competitors": [
-    "www.calculator.net/hex-calculator.html"
-   ],
-   "category": "math",
-   "status": "todo",
-   "order": 70,
+   "status": "live",
+   "order": 67,
    "batch": 7
   },
   {
@@ -7581,9 +7399,9 @@
    ],
    "competitors": [],
    "category": "education",
-   "status": "todo",
-   "order": 71,
-   "batch": 8
+   "status": "live",
+   "order": 68,
+   "batch": 7
   },
   {
    "slug": "horse-gestation-calculator",
@@ -7629,8 +7447,8 @@
    "competitors": [],
    "category": "health",
    "status": "todo",
-   "order": 72,
-   "batch": 8
+   "order": 69,
+   "batch": 7
   },
   {
    "slug": "linear-feet-calculator",
@@ -7667,8 +7485,8 @@
    "competitors": [],
    "category": "construction",
    "status": "todo",
-   "order": 73,
-   "batch": 8
+   "order": 70,
+   "batch": 7
   },
   {
    "slug": "pro-rata-calculator",
@@ -7696,7 +7514,7 @@
    "competitors": [],
    "category": "finance",
    "status": "todo",
-   "order": 74,
+   "order": 71,
    "batch": 8
   },
   {
@@ -7752,7 +7570,7 @@
    ],
    "category": "health",
    "status": "todo",
-   "order": 75,
+   "order": 72,
    "batch": 8
   },
   {
@@ -7791,7 +7609,7 @@
    ],
    "category": "health",
    "status": "todo",
-   "order": 76,
+   "order": 73,
    "batch": 8
   },
   {
@@ -7838,7 +7656,7 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 77,
+   "order": 74,
    "batch": 8
   },
   {
@@ -7867,7 +7685,7 @@
    "competitors": [],
    "category": "science",
    "status": "todo",
-   "order": 78,
+   "order": 75,
    "batch": 8
   },
   {
@@ -7978,7 +7796,7 @@
    ],
    "category": "health",
    "status": "todo",
-   "order": 79,
+   "order": 76,
    "batch": 8
   },
   {
@@ -8007,7 +7825,7 @@
    "competitors": [],
    "category": "health",
    "status": "todo",
-   "order": 80,
+   "order": 77,
    "batch": 8
   },
   {
@@ -8159,8 +7977,8 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 81,
-   "batch": 9
+   "order": 78,
+   "batch": 8
   },
   {
    "slug": "river-rock-calculator",
@@ -8188,8 +8006,8 @@
    "competitors": [],
    "category": "construction",
    "status": "todo",
-   "order": 82,
-   "batch": 9
+   "order": 79,
+   "batch": 8
   },
   {
    "slug": "body-fat-calculator",
@@ -8323,8 +8141,8 @@
    ],
    "category": "health",
    "status": "todo",
-   "order": 83,
-   "batch": 9
+   "order": 80,
+   "batch": 8
   },
   {
    "slug": "tile-calculator",
@@ -8371,7 +8189,7 @@
    ],
    "category": "construction",
    "status": "todo",
-   "order": 84,
+   "order": 81,
    "batch": 9
   },
   {
@@ -8409,7 +8227,7 @@
    "competitors": [],
    "category": "everyday",
    "status": "todo",
-   "order": 85,
+   "order": 82,
    "batch": 9
   },
   {
@@ -8464,7 +8282,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 86,
+   "order": 83,
    "batch": 9
   },
   {
@@ -8493,7 +8311,7 @@
    "competitors": [],
    "category": "science",
    "status": "todo",
-   "order": 87,
+   "order": 84,
    "batch": 9
   },
   {
@@ -8748,7 +8566,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 88,
+   "order": 85,
    "batch": 9
   },
   {
@@ -9095,7 +8913,7 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 89,
+   "order": 86,
    "batch": 9
   },
   {
@@ -9133,7 +8951,7 @@
    "competitors": [],
    "category": "education",
    "status": "todo",
-   "order": 90,
+   "order": 87,
    "batch": 9
   },
   {
@@ -9236,8 +9054,8 @@
    ],
    "category": "science",
    "status": "todo",
-   "order": 91,
-   "batch": 10
+   "order": 88,
+   "batch": 9
   },
   {
    "slug": "arrow-speed-calculator",
@@ -9265,8 +9083,8 @@
    "competitors": [],
    "category": "science",
    "status": "todo",
-   "order": 92,
-   "batch": 10
+   "order": 89,
+   "batch": 9
   },
   {
    "slug": "fd-calculator",
@@ -9294,8 +9112,8 @@
    "competitors": [],
    "category": "everyday",
    "status": "todo",
-   "order": 93,
-   "batch": 10
+   "order": 90,
+   "batch": 9
   },
   {
    "slug": "volume-calculator",
@@ -9638,7 +9456,7 @@
    ],
    "category": "construction",
    "status": "todo",
-   "order": 94,
+   "order": 91,
    "batch": 10
   },
   {
@@ -9667,7 +9485,7 @@
    "competitors": [],
    "category": "finance",
    "status": "todo",
-   "order": 95,
+   "order": 92,
    "batch": 10
   },
   {
@@ -9723,7 +9541,7 @@
    ],
    "category": "time-date",
    "status": "todo",
-   "order": 96,
+   "order": 93,
    "batch": 10
   },
   {
@@ -9752,7 +9570,7 @@
    "competitors": [],
    "category": "health",
    "status": "todo",
-   "order": 97,
+   "order": 94,
    "batch": 10
   },
   {
@@ -9943,7 +9761,7 @@
    ],
    "category": "health",
    "status": "todo",
-   "order": 98,
+   "order": 95,
    "batch": 10
   },
   {
@@ -9972,7 +9790,7 @@
    "competitors": [],
    "category": "construction",
    "status": "todo",
-   "order": 99,
+   "order": 96,
    "batch": 10
   },
   {
@@ -10001,7 +9819,7 @@
    "competitors": [],
    "category": "everyday",
    "status": "todo",
-   "order": 100,
+   "order": 97,
    "batch": 10
   },
   {
@@ -10129,8 +9947,8 @@
    ],
    "category": "science",
    "status": "todo",
-   "order": 101,
-   "batch": 11
+   "order": 98,
+   "batch": 10
   },
   {
    "slug": "fence-post-depth-calculator",
@@ -10158,8 +9976,8 @@
    "competitors": [],
    "category": "construction",
    "status": "todo",
-   "order": 102,
-   "batch": 11
+   "order": 99,
+   "batch": 10
   },
   {
    "slug": "lead-time-calculator",
@@ -10187,8 +10005,8 @@
    "competitors": [],
    "category": "time-date",
    "status": "todo",
-   "order": 103,
-   "batch": 11
+   "order": 100,
+   "batch": 10
   },
   {
    "slug": "recessed-light-calculator",
@@ -10225,7 +10043,7 @@
    "competitors": [],
    "category": "construction",
    "status": "todo",
-   "order": 104,
+   "order": 101,
    "batch": 11
   },
   {
@@ -10254,7 +10072,7 @@
    "competitors": [],
    "category": "math",
    "status": "todo",
-   "order": 105,
+   "order": 102,
    "batch": 11
   },
   {
@@ -10283,7 +10101,7 @@
    "competitors": [],
    "category": "finance",
    "status": "todo",
-   "order": 106,
+   "order": 103,
    "batch": 11
   },
   {
@@ -10312,7 +10130,7 @@
    "competitors": [],
    "category": "time-date",
    "status": "todo",
-   "order": 107,
+   "order": 104,
    "batch": 11
   },
   {
@@ -10400,7 +10218,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 108,
+   "order": 105,
    "batch": 11
   },
   {
@@ -10429,7 +10247,7 @@
    "competitors": [],
    "category": "math",
    "status": "todo",
-   "order": 109,
+   "order": 106,
    "batch": 11
   },
   {
@@ -10478,7 +10296,7 @@
    ],
    "category": "science",
    "status": "todo",
-   "order": 110,
+   "order": 107,
    "batch": 11
   },
   {
@@ -10507,8 +10325,8 @@
    "competitors": [],
    "category": "construction",
    "status": "todo",
-   "order": 111,
-   "batch": 12
+   "order": 108,
+   "batch": 11
   },
   {
    "slug": "convert-eye-prescription-to-20-20-scale-calculator",
@@ -10536,8 +10354,8 @@
    "competitors": [],
    "category": "conversion",
    "status": "todo",
-   "order": 112,
-   "batch": 12
+   "order": 109,
+   "batch": 11
   },
   {
    "slug": "seller-financing-calculator",
@@ -10565,8 +10383,8 @@
    "competitors": [],
    "category": "finance",
    "status": "todo",
-   "order": 113,
-   "batch": 12
+   "order": 110,
+   "batch": 11
   },
   {
    "slug": "lri-calculator",
@@ -10594,7 +10412,7 @@
    "competitors": [],
    "category": "everyday",
    "status": "todo",
-   "order": 114,
+   "order": 111,
    "batch": 12
   },
   {
@@ -10633,7 +10451,7 @@
    ],
    "category": "science",
    "status": "todo",
-   "order": 115,
+   "order": 112,
    "batch": 12
   },
   {
@@ -10662,7 +10480,7 @@
    "competitors": [],
    "category": "construction",
    "status": "todo",
-   "order": 116,
+   "order": 113,
    "batch": 12
   },
   {
@@ -10691,7 +10509,7 @@
    "competitors": [],
    "category": "construction",
    "status": "todo",
-   "order": 117,
+   "order": 114,
    "batch": 12
   },
   {
@@ -10738,7 +10556,7 @@
    "competitors": [],
    "category": "conversion",
    "status": "todo",
-   "order": 118,
+   "order": 115,
    "batch": 12
   },
   {
@@ -10776,7 +10594,7 @@
    "competitors": [],
    "category": "finance",
    "status": "todo",
-   "order": 119,
+   "order": 116,
    "batch": 12
   },
   {
@@ -10814,7 +10632,7 @@
    "competitors": [],
    "category": "construction",
    "status": "todo",
-   "order": 120,
+   "order": 117,
    "batch": 12
   },
   {
@@ -10845,8 +10663,8 @@
    ],
    "category": "everyday",
    "status": "todo",
-   "order": 121,
-   "batch": 13
+   "order": 118,
+   "batch": 12
   },
   {
    "slug": "arv-calculator",
@@ -10874,8 +10692,8 @@
    "competitors": [],
    "category": "finance",
    "status": "todo",
-   "order": 122,
-   "batch": 13
+   "order": 119,
+   "batch": 12
   },
   {
    "slug": "breastfeeding-calorie-calculator",
@@ -10903,8 +10721,8 @@
    "competitors": [],
    "category": "health",
    "status": "todo",
-   "order": 123,
-   "batch": 13
+   "order": 120,
+   "batch": 12
   },
   {
    "slug": "income-tax-calculator",
@@ -10943,7 +10761,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 124,
+   "order": 121,
    "batch": 13
   },
   {
@@ -10972,7 +10790,7 @@
    "competitors": [],
    "category": "science",
    "status": "todo",
-   "order": 125,
+   "order": 122,
    "batch": 13
   },
   {
@@ -11001,7 +10819,7 @@
    "competitors": [],
    "category": "everyday",
    "status": "todo",
-   "order": 126,
+   "order": 123,
    "batch": 13
   },
   {
@@ -11032,7 +10850,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 127,
+   "order": 124,
    "batch": 13
   },
   {
@@ -11061,7 +10879,7 @@
    "competitors": [],
    "category": "conversion",
    "status": "todo",
-   "order": 128,
+   "order": 125,
    "batch": 13
   },
   {
@@ -11099,7 +10917,7 @@
    "competitors": [],
    "category": "finance",
    "status": "todo",
-   "order": 129,
+   "order": 126,
    "batch": 13
   },
   {
@@ -11130,7 +10948,7 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 130,
+   "order": 127,
    "batch": 13
   },
   {
@@ -11281,8 +11099,8 @@
    ],
    "category": "health",
    "status": "todo",
-   "order": 131,
-   "batch": 14
+   "order": 128,
+   "batch": 13
   },
   {
    "slug": "vinegar-carbon-dosing-calculator-ml-per-ppm-nitrate",
@@ -11310,8 +11128,8 @@
    "competitors": [],
    "category": "science",
    "status": "todo",
-   "order": 132,
-   "batch": 14
+   "order": 129,
+   "batch": 13
   },
   {
    "slug": "simplify-radicals-calculator",
@@ -11366,8 +11184,8 @@
    "competitors": [],
    "category": "math",
    "status": "todo",
-   "order": 133,
-   "batch": 14
+   "order": 130,
+   "batch": 13
   },
   {
    "slug": "redacted-text-generator",
@@ -11395,7 +11213,7 @@
    "competitors": [],
    "category": "text",
    "status": "todo",
-   "order": 134,
+   "order": 131,
    "batch": 14
   },
   {
@@ -11451,7 +11269,7 @@
    "competitors": [],
    "category": "everyday",
    "status": "todo",
-   "order": 135,
+   "order": 132,
    "batch": 14
   },
   {
@@ -11482,7 +11300,7 @@
    ],
    "category": "construction",
    "status": "todo",
-   "order": 136,
+   "order": 133,
    "batch": 14
   },
   {
@@ -11826,7 +11644,7 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 137,
+   "order": 134,
    "batch": 14
   },
   {
@@ -11893,7 +11711,7 @@
    ],
    "category": "health",
    "status": "todo",
-   "order": 138,
+   "order": 135,
    "batch": 14
   },
   {
@@ -11922,7 +11740,7 @@
    "competitors": [],
    "category": "construction",
    "status": "todo",
-   "order": 139,
+   "order": 136,
    "batch": 14
   },
   {
@@ -11960,7 +11778,7 @@
    "competitors": [],
    "category": "finance",
    "status": "todo",
-   "order": 140,
+   "order": 137,
    "batch": 14
   },
   {
@@ -11989,8 +11807,8 @@
    "competitors": [],
    "category": "finance",
    "status": "todo",
-   "order": 141,
-   "batch": 15
+   "order": 138,
+   "batch": 14
   },
   {
    "slug": "rounding-calculator",
@@ -12076,8 +11894,8 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 142,
-   "batch": 15
+   "order": 139,
+   "batch": 14
   },
   {
    "slug": "tire-size-calculator",
@@ -12155,8 +11973,8 @@
    ],
    "category": "science",
    "status": "todo",
-   "order": 143,
-   "batch": 15
+   "order": 140,
+   "batch": 14
   },
   {
    "slug": "anniversary-calculator",
@@ -12184,7 +12002,7 @@
    "competitors": [],
    "category": "time-date",
    "status": "todo",
-   "order": 144,
+   "order": 141,
    "batch": 15
   },
   {
@@ -12213,7 +12031,7 @@
    "competitors": [],
    "category": "everyday",
    "status": "todo",
-   "order": 145,
+   "order": 142,
    "batch": 15
   },
   {
@@ -12242,7 +12060,7 @@
    "competitors": [],
    "category": "finance",
    "status": "todo",
-   "order": 146,
+   "order": 143,
    "batch": 15
   },
   {
@@ -12271,7 +12089,7 @@
    "competitors": [],
    "category": "construction",
    "status": "todo",
-   "order": 147,
+   "order": 144,
    "batch": 15
   },
   {
@@ -12318,7 +12136,7 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 148,
+   "order": 145,
    "batch": 15
   },
   {
@@ -12347,7 +12165,7 @@
    "competitors": [],
    "category": "everyday",
    "status": "todo",
-   "order": 149,
+   "order": 146,
    "batch": 15
   },
   {
@@ -12376,7 +12194,7 @@
    "competitors": [],
    "category": "math",
    "status": "todo",
-   "order": 150,
+   "order": 147,
    "batch": 15
   },
   {
@@ -12405,8 +12223,8 @@
    "competitors": [],
    "category": "education",
    "status": "todo",
-   "order": 151,
-   "batch": 16
+   "order": 148,
+   "batch": 15
   },
   {
    "slug": "rucking-calorie-calculator",
@@ -12434,8 +12252,8 @@
    "competitors": [],
    "category": "health",
    "status": "todo",
-   "order": 152,
-   "batch": 16
+   "order": 149,
+   "batch": 15
   },
   {
    "slug": "sq-ft-to-linear-ft-calculator",
@@ -12463,8 +12281,8 @@
    "competitors": [],
    "category": "construction",
    "status": "todo",
-   "order": 153,
-   "batch": 16
+   "order": 150,
+   "batch": 15
   },
   {
    "slug": "roofing-calculator",
@@ -12598,7 +12416,7 @@
    ],
    "category": "construction",
    "status": "todo",
-   "order": 154,
+   "order": 151,
    "batch": 16
   },
   {
@@ -12636,7 +12454,7 @@
    "competitors": [],
    "category": "finance",
    "status": "todo",
-   "order": 155,
+   "order": 152,
    "batch": 16
   },
   {
@@ -12811,7 +12629,7 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 156,
+   "order": 153,
    "batch": 16
   },
   {
@@ -12840,7 +12658,7 @@
    "competitors": [],
    "category": "health",
    "status": "todo",
-   "order": 157,
+   "order": 154,
    "batch": 16
   },
   {
@@ -12871,7 +12689,7 @@
    ],
    "category": "science",
    "status": "todo",
-   "order": 158,
+   "order": 155,
    "batch": 16
   },
   {
@@ -12900,7 +12718,7 @@
    "competitors": [],
    "category": "health",
    "status": "todo",
-   "order": 159,
+   "order": 156,
    "batch": 16
   },
   {
@@ -12929,7 +12747,7 @@
    "competitors": [],
    "category": "education",
    "status": "todo",
-   "order": 160,
+   "order": 157,
    "batch": 16
   },
   {
@@ -12958,8 +12776,8 @@
    "competitors": [],
    "category": "education",
    "status": "todo",
-   "order": 161,
-   "batch": 17
+   "order": 158,
+   "batch": 16
   },
   {
    "slug": "halfway-point-between-two-cities-calculator",
@@ -12987,8 +12805,8 @@
    "competitors": [],
    "category": "everyday",
    "status": "todo",
-   "order": 162,
-   "batch": 17
+   "order": 159,
+   "batch": 16
   },
   {
    "slug": "cake-pricing-calculator",
@@ -13016,8 +12834,8 @@
    "competitors": [],
    "category": "everyday",
    "status": "todo",
-   "order": 163,
-   "batch": 17
+   "order": 160,
+   "batch": 16
   },
   {
    "slug": "sheep-gestation-calculator",
@@ -13054,7 +12872,7 @@
    "competitors": [],
    "category": "everyday",
    "status": "todo",
-   "order": 164,
+   "order": 161,
    "batch": 17
   },
   {
@@ -13083,7 +12901,7 @@
    "competitors": [],
    "category": "everyday",
    "status": "todo",
-   "order": 165,
+   "order": 162,
    "batch": 17
   },
   {
@@ -13112,7 +12930,7 @@
    "competitors": [],
    "category": "health",
    "status": "todo",
-   "order": 166,
+   "order": 163,
    "batch": 17
   },
   {
@@ -13150,7 +12968,7 @@
    "competitors": [],
    "category": "math",
    "status": "todo",
-   "order": 167,
+   "order": 164,
    "batch": 17
   },
   {
@@ -13179,7 +12997,7 @@
    "competitors": [],
    "category": "science",
    "status": "todo",
-   "order": 168,
+   "order": 165,
    "batch": 17
   },
   {
@@ -13208,7 +13026,7 @@
    "competitors": [],
    "category": "math",
    "status": "todo",
-   "order": 169,
+   "order": 166,
    "batch": 17
   },
   {
@@ -13237,7 +13055,7 @@
    "competitors": [],
    "category": "construction",
    "status": "todo",
-   "order": 170,
+   "order": 167,
    "batch": 17
   },
   {
@@ -13266,8 +13084,8 @@
    "competitors": [],
    "category": "everyday",
    "status": "todo",
-   "order": 171,
-   "batch": 18
+   "order": 168,
+   "batch": 17
   },
   {
    "slug": "reverse-bmi-calculator",
@@ -13295,8 +13113,8 @@
    "competitors": [],
    "category": "health",
    "status": "todo",
-   "order": 172,
-   "batch": 18
+   "order": 169,
+   "batch": 17
   },
   {
    "slug": "cap-rate-calculator",
@@ -13326,8 +13144,8 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 173,
-   "batch": 18
+   "order": 170,
+   "batch": 17
   },
   {
    "slug": "binding-calculator",
@@ -13355,7 +13173,7 @@
    "competitors": [],
    "category": "everyday",
    "status": "todo",
-   "order": 174,
+   "order": 171,
    "batch": 18
   },
   {
@@ -13395,7 +13213,7 @@
    ],
    "category": "time-date",
    "status": "todo",
-   "order": 175,
+   "order": 172,
    "batch": 18
   },
   {
@@ -13426,7 +13244,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 176,
+   "order": 173,
    "batch": 18
   },
   {
@@ -13466,7 +13284,7 @@
    ],
    "category": "construction",
    "status": "todo",
-   "order": 177,
+   "order": 174,
    "batch": 18
   },
   {
@@ -13513,7 +13331,7 @@
    ],
    "category": "health",
    "status": "todo",
-   "order": 178,
+   "order": 175,
    "batch": 18
   },
   {
@@ -13542,7 +13360,7 @@
    "competitors": [],
    "category": "science",
    "status": "todo",
-   "order": 179,
+   "order": 176,
    "batch": 18
   },
   {
@@ -13571,7 +13389,7 @@
    "competitors": [],
    "category": "construction",
    "status": "todo",
-   "order": 180,
+   "order": 177,
    "batch": 18
   },
   {
@@ -13602,8 +13420,8 @@
    ],
    "category": "science",
    "status": "todo",
-   "order": 181,
-   "batch": 19
+   "order": 178,
+   "batch": 18
   },
   {
    "slug": "drywall-calculator",
@@ -13633,8 +13451,8 @@
    ],
    "category": "construction",
    "status": "todo",
-   "order": 182,
-   "batch": 19
+   "order": 179,
+   "batch": 18
   },
   {
    "slug": "credit-union-loan-calculator",
@@ -13662,8 +13480,8 @@
    "competitors": [],
    "category": "finance",
    "status": "todo",
-   "order": 183,
-   "batch": 19
+   "order": 180,
+   "batch": 18
   },
   {
    "slug": "chocolate-for-dogs-calculator",
@@ -13691,7 +13509,7 @@
    "competitors": [],
    "category": "everyday",
    "status": "todo",
-   "order": 184,
+   "order": 181,
    "batch": 19
   },
   {
@@ -13720,7 +13538,7 @@
    "competitors": [],
    "category": "science",
    "status": "todo",
-   "order": 185,
+   "order": 182,
    "batch": 19
   },
   {
@@ -13749,7 +13567,7 @@
    "competitors": [],
    "category": "everyday",
    "status": "todo",
-   "order": 186,
+   "order": 183,
    "batch": 19
   },
   {
@@ -13788,7 +13606,7 @@
    ],
    "category": "construction",
    "status": "todo",
-   "order": 187,
+   "order": 184,
    "batch": 19
   },
   {
@@ -13817,7 +13635,7 @@
    "competitors": [],
    "category": "finance",
    "status": "todo",
-   "order": 188,
+   "order": 185,
    "batch": 19
   },
   {
@@ -13846,7 +13664,7 @@
    "competitors": [],
    "category": "time-date",
    "status": "todo",
-   "order": 189,
+   "order": 186,
    "batch": 19
   },
   {
@@ -13877,7 +13695,7 @@
    ],
    "category": "health",
    "status": "todo",
-   "order": 190,
+   "order": 187,
    "batch": 19
   },
   {
@@ -13906,8 +13724,8 @@
    "competitors": [],
    "category": "everyday",
    "status": "todo",
-   "order": 191,
-   "batch": 20
+   "order": 188,
+   "batch": 19
   },
   {
    "slug": "plate-rolling-calculator",
@@ -13935,8 +13753,8 @@
    "competitors": [],
    "category": "construction",
    "status": "todo",
-   "order": 192,
-   "batch": 20
+   "order": 189,
+   "batch": 19
   },
   {
    "slug": "future-value-calculator",
@@ -14030,8 +13848,8 @@
    ],
    "category": "everyday",
    "status": "todo",
-   "order": 193,
-   "batch": 20
+   "order": 190,
+   "batch": 19
   },
   {
    "slug": "decathlon-calculator",
@@ -14059,7 +13877,7 @@
    "competitors": [],
    "category": "education",
    "status": "todo",
-   "order": 194,
+   "order": 191,
    "batch": 20
   },
   {
@@ -14088,7 +13906,7 @@
    "competitors": [],
    "category": "education",
    "status": "todo",
-   "order": 195,
+   "order": 192,
    "batch": 20
   },
   {
@@ -14117,7 +13935,7 @@
    "competitors": [],
    "category": "science",
    "status": "todo",
-   "order": 196,
+   "order": 193,
    "batch": 20
   },
   {
@@ -14156,7 +13974,7 @@
    ],
    "category": "everyday",
    "status": "todo",
-   "order": 197,
+   "order": 194,
    "batch": 20
   },
   {
@@ -14185,7 +14003,7 @@
    "competitors": [],
    "category": "science",
    "status": "todo",
-   "order": 198,
+   "order": 195,
    "batch": 20
   },
   {
@@ -14232,7 +14050,7 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 199,
+   "order": 196,
    "batch": 20
   },
   {
@@ -14272,7 +14090,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 200,
+   "order": 197,
    "batch": 20
   },
   {
@@ -14301,8 +14119,8 @@
    "competitors": [],
    "category": "science",
    "status": "todo",
-   "order": 201,
-   "batch": 21
+   "order": 198,
+   "batch": 20
   },
   {
    "slug": "deadline-calculator",
@@ -14341,8 +14159,8 @@
    ],
    "category": "time-date",
    "status": "todo",
-   "order": 202,
-   "batch": 21
+   "order": 199,
+   "batch": 20
   },
   {
    "slug": "apy-calculator",
@@ -14413,8 +14231,8 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 203,
-   "batch": 21
+   "order": 200,
+   "batch": 20
   },
   {
    "slug": "vat-calculator",
@@ -14442,7 +14260,7 @@
    "competitors": [],
    "category": "finance",
    "status": "todo",
-   "order": 204,
+   "order": 201,
    "batch": 21
   },
   {
@@ -14481,7 +14299,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 205,
+   "order": 202,
    "batch": 21
   },
   {
@@ -14665,7 +14483,7 @@
    ],
    "category": "science",
    "status": "todo",
-   "order": 206,
+   "order": 203,
    "batch": 21
   },
   {
@@ -14694,7 +14512,7 @@
    "competitors": [],
    "category": "health",
    "status": "todo",
-   "order": 207,
+   "order": 204,
    "batch": 21
   },
   {
@@ -14723,7 +14541,7 @@
    "competitors": [],
    "category": "finance",
    "status": "todo",
-   "order": 208,
+   "order": 205,
    "batch": 21
   },
   {
@@ -14754,7 +14572,7 @@
    ],
    "category": "construction",
    "status": "todo",
-   "order": 209,
+   "order": 206,
    "batch": 21
   },
   {
@@ -14783,7 +14601,7 @@
    "competitors": [],
    "category": "math",
    "status": "todo",
-   "order": 210,
+   "order": 207,
    "batch": 21
   },
   {
@@ -14812,8 +14630,8 @@
    "competitors": [],
    "category": "science",
    "status": "todo",
-   "order": 211,
-   "batch": 22
+   "order": 208,
+   "batch": 21
   },
   {
    "slug": "stem-and-leaf-plot-generator",
@@ -14841,8 +14659,8 @@
    "competitors": [],
    "category": "math",
    "status": "todo",
-   "order": 212,
-   "batch": 22
+   "order": 209,
+   "batch": 21
   },
   {
    "slug": "gear-ratio-calculator",
@@ -14888,8 +14706,8 @@
    ],
    "category": "science",
    "status": "todo",
-   "order": 213,
-   "batch": 22
+   "order": 210,
+   "batch": 21
   },
   {
    "slug": "cc-in-hp-converter",
@@ -14917,7 +14735,7 @@
    "competitors": [],
    "category": "science",
    "status": "todo",
-   "order": 214,
+   "order": 211,
    "batch": 22
   },
   {
@@ -14946,7 +14764,7 @@
    "competitors": [],
    "category": "science",
    "status": "todo",
-   "order": 215,
+   "order": 212,
    "batch": 22
   },
   {
@@ -15113,7 +14931,7 @@
    ],
    "category": "health",
    "status": "todo",
-   "order": 216,
+   "order": 213,
    "batch": 22
   },
   {
@@ -15142,7 +14960,7 @@
    "competitors": [],
    "category": "everyday",
    "status": "todo",
-   "order": 217,
+   "order": 214,
    "batch": 22
   },
   {
@@ -15171,7 +14989,7 @@
    "competitors": [],
    "category": "education",
    "status": "todo",
-   "order": 218,
+   "order": 215,
    "batch": 22
   },
   {
@@ -15202,7 +15020,7 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 219,
+   "order": 216,
    "batch": 22
   },
   {
@@ -15231,7 +15049,7 @@
    "competitors": [],
    "category": "everyday",
    "status": "todo",
-   "order": 220,
+   "order": 217,
    "batch": 22
   },
   {
@@ -15260,8 +15078,8 @@
    "competitors": [],
    "category": "math",
    "status": "todo",
-   "order": 221,
-   "batch": 23
+   "order": 218,
+   "batch": 22
   },
   {
    "slug": "winrate-calculator",
@@ -15289,8 +15107,8 @@
    "competitors": [],
    "category": "education",
    "status": "todo",
-   "order": 222,
-   "batch": 23
+   "order": 219,
+   "batch": 22
   },
   {
    "slug": "matrix-calculator",
@@ -15368,8 +15186,8 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 223,
-   "batch": 23
+   "order": 220,
+   "batch": 22
   },
   {
    "slug": "decimal-to-fraction-calculator",
@@ -15399,7 +15217,7 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 224,
+   "order": 221,
    "batch": 23
   },
   {
@@ -15428,7 +15246,7 @@
    "competitors": [],
    "category": "construction",
    "status": "todo",
-   "order": 225,
+   "order": 222,
    "batch": 23
   },
   {
@@ -15457,7 +15275,7 @@
    "competitors": [],
    "category": "math",
    "status": "todo",
-   "order": 226,
+   "order": 223,
    "batch": 23
   },
   {
@@ -15486,7 +15304,7 @@
    "competitors": [],
    "category": "health",
    "status": "todo",
-   "order": 227,
+   "order": 224,
    "batch": 23
   },
   {
@@ -15573,7 +15391,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 228,
+   "order": 225,
    "batch": 23
   },
   {
@@ -15644,7 +15462,7 @@
    ],
    "category": "conversion",
    "status": "todo",
-   "order": 229,
+   "order": 226,
    "batch": 23
   },
   {
@@ -15673,7 +15491,7 @@
    "competitors": [],
    "category": "science",
    "status": "todo",
-   "order": 230,
+   "order": 227,
    "batch": 23
   },
   {
@@ -15702,8 +15520,8 @@
    "competitors": [],
    "category": "science",
    "status": "todo",
-   "order": 231,
-   "batch": 24
+   "order": 228,
+   "batch": 23
   },
   {
    "slug": "water-fast-weight-loss-calculator",
@@ -15731,8 +15549,8 @@
    "competitors": [],
    "category": "health",
    "status": "todo",
-   "order": 232,
-   "batch": 24
+   "order": 229,
+   "batch": 23
   },
   {
    "slug": "probability-calculator",
@@ -15786,8 +15604,8 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 233,
-   "batch": 24
+   "order": 230,
+   "batch": 23
   },
   {
    "slug": "target-heart-rate-calculator",
@@ -15865,7 +15683,7 @@
    ],
    "category": "health",
    "status": "todo",
-   "order": 234,
+   "order": 231,
    "batch": 24
   },
   {
@@ -15904,7 +15722,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 235,
+   "order": 232,
    "batch": 24
   },
   {
@@ -15935,7 +15753,7 @@
    ],
    "category": "science",
    "status": "todo",
-   "order": 236,
+   "order": 233,
    "batch": 24
   },
   {
@@ -15966,7 +15784,7 @@
    ],
    "category": "science",
    "status": "todo",
-   "order": 237,
+   "order": 234,
    "batch": 24
   },
   {
@@ -15997,7 +15815,7 @@
    ],
    "category": "construction",
    "status": "todo",
-   "order": 238,
+   "order": 235,
    "batch": 24
   },
   {
@@ -16026,7 +15844,7 @@
    "competitors": [],
    "category": "construction",
    "status": "todo",
-   "order": 239,
+   "order": 236,
    "batch": 24
   },
   {
@@ -16055,7 +15873,7 @@
    "competitors": [],
    "category": "math",
    "status": "todo",
-   "order": 240,
+   "order": 237,
    "batch": 24
   },
   {
@@ -16084,8 +15902,8 @@
    "competitors": [],
    "category": "math",
    "status": "todo",
-   "order": 241,
-   "batch": 25
+   "order": 238,
+   "batch": 24
   },
   {
    "slug": "time-lapse-photography-calculator",
@@ -16113,8 +15931,8 @@
    "competitors": [],
    "category": "science",
    "status": "todo",
-   "order": 242,
-   "batch": 25
+   "order": 239,
+   "batch": 24
   },
   {
    "slug": "rate-buydown-calculator",
@@ -16151,8 +15969,8 @@
    "competitors": [],
    "category": "finance",
    "status": "todo",
-   "order": 243,
-   "batch": 25
+   "order": 240,
+   "batch": 24
   },
   {
    "slug": "mean-median-mode-range-calculator",
@@ -16278,7 +16096,7 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 244,
+   "order": 241,
    "batch": 25
   },
   {
@@ -16341,7 +16159,7 @@
    ],
    "category": "time-date",
    "status": "todo",
-   "order": 245,
+   "order": 242,
    "batch": 25
   },
   {
@@ -16444,7 +16262,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 246,
+   "order": 243,
    "batch": 25
   },
   {
@@ -16475,7 +16293,7 @@
    ],
    "category": "construction",
    "status": "todo",
-   "order": 247,
+   "order": 244,
    "batch": 25
   },
   {
@@ -16504,7 +16322,7 @@
    "competitors": [],
    "category": "education",
    "status": "todo",
-   "order": 248,
+   "order": 245,
    "batch": 25
   },
   {
@@ -16533,7 +16351,7 @@
    "competitors": [],
    "category": "health",
    "status": "todo",
-   "order": 249,
+   "order": 246,
    "batch": 25
   },
   {
@@ -16562,7 +16380,7 @@
    "competitors": [],
    "category": "everyday",
    "status": "todo",
-   "order": 250,
+   "order": 247,
    "batch": 25
   },
   {
@@ -16591,8 +16409,8 @@
    "competitors": [],
    "category": "construction",
    "status": "todo",
-   "order": 251,
-   "batch": 26
+   "order": 248,
+   "batch": 25
   },
   {
    "slug": "call-put-option-calculator",
@@ -16622,8 +16440,8 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 252,
-   "batch": 26
+   "order": 249,
+   "batch": 25
   },
   {
    "slug": "age-difference-calculator",
@@ -16670,8 +16488,8 @@
    ],
    "category": "time-date",
    "status": "todo",
-   "order": 253,
-   "batch": 26
+   "order": 250,
+   "batch": 25
   },
   {
    "slug": "parallel-resistor-calculator",
@@ -16701,7 +16519,7 @@
    ],
    "category": "science",
    "status": "todo",
-   "order": 254,
+   "order": 251,
    "batch": 26
   },
   {
@@ -16740,7 +16558,7 @@
    ],
    "category": "education",
    "status": "todo",
-   "order": 255,
+   "order": 252,
    "batch": 26
   },
   {
@@ -16819,7 +16637,7 @@
    ],
    "category": "education",
    "status": "todo",
-   "order": 256,
+   "order": 253,
    "batch": 26
   },
   {
@@ -16866,7 +16684,7 @@
    ],
    "category": "time-date",
    "status": "todo",
-   "order": 257,
+   "order": 254,
    "batch": 26
   },
   {
@@ -16895,7 +16713,7 @@
    "competitors": [],
    "category": "finance",
    "status": "todo",
-   "order": 258,
+   "order": 255,
    "batch": 26
   },
   {
@@ -16974,7 +16792,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 259,
+   "order": 256,
    "batch": 26
   },
   {
@@ -17003,7 +16821,7 @@
    "competitors": [],
    "category": "finance",
    "status": "todo",
-   "order": 260,
+   "order": 257,
    "batch": 26
   },
   {
@@ -17100,8 +16918,8 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 261,
-   "batch": 27
+   "order": 258,
+   "batch": 26
   },
   {
    "slug": "business-loan-calculator",
@@ -17139,8 +16957,8 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 262,
-   "batch": 27
+   "order": 259,
+   "batch": 26
   },
   {
    "slug": "circumference-calculator",
@@ -17178,8 +16996,8 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 263,
-   "batch": 27
+   "order": 260,
+   "batch": 26
   },
   {
    "slug": "body-type-calculator",
@@ -17225,7 +17043,7 @@
    ],
    "category": "health",
    "status": "todo",
-   "order": 264,
+   "order": 261,
    "batch": 27
   },
   {
@@ -17312,7 +17130,7 @@
    ],
    "category": "health",
    "status": "todo",
-   "order": 265,
+   "order": 262,
    "batch": 27
   },
   {
@@ -17583,7 +17401,7 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 266,
+   "order": 263,
    "batch": 27
   },
   {
@@ -17648,7 +17466,7 @@
    ],
    "category": "conversion",
    "status": "todo",
-   "order": 267,
+   "order": 264,
    "batch": 27
   },
   {
@@ -17679,7 +17497,7 @@
    ],
    "category": "everyday",
    "status": "todo",
-   "order": 268,
+   "order": 265,
    "batch": 27
   },
   {
@@ -17798,7 +17616,7 @@
    ],
    "category": "conversion",
    "status": "todo",
-   "order": 269,
+   "order": 266,
    "batch": 27
   },
   {
@@ -17965,7 +17783,7 @@
    ],
    "category": "science",
    "status": "todo",
-   "order": 270,
+   "order": 267,
    "batch": 27
   },
   {
@@ -17996,8 +17814,8 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 271,
-   "batch": 28
+   "order": 268,
+   "batch": 27
   },
   {
    "slug": "credit-card-calculator",
@@ -18067,8 +17885,8 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 272,
-   "batch": 28
+   "order": 269,
+   "batch": 27
   },
   {
    "slug": "percent-error-calculator",
@@ -18170,8 +17988,8 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 273,
-   "batch": 28
+   "order": 270,
+   "batch": 27
   },
   {
    "slug": "paver-calculator",
@@ -18201,7 +18019,7 @@
    ],
    "category": "construction",
    "status": "todo",
-   "order": 274,
+   "order": 271,
    "batch": 28
   },
   {
@@ -18232,7 +18050,7 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 275,
+   "order": 272,
    "batch": 28
   },
   {
@@ -18263,7 +18081,7 @@
    ],
    "category": "health",
    "status": "todo",
-   "order": 276,
+   "order": 273,
    "batch": 28
   },
   {
@@ -18292,7 +18110,7 @@
    "competitors": [],
    "category": "finance",
    "status": "todo",
-   "order": 277,
+   "order": 274,
    "batch": 28
   },
   {
@@ -18339,7 +18157,7 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 278,
+   "order": 275,
    "batch": 28
   },
   {
@@ -18386,7 +18204,7 @@
    ],
    "category": "science",
    "status": "todo",
-   "order": 279,
+   "order": 276,
    "batch": 28
   },
   {
@@ -18441,7 +18259,7 @@
    ],
    "category": "education",
    "status": "todo",
-   "order": 280,
+   "order": 277,
    "batch": 28
   },
   {
@@ -18472,8 +18290,8 @@
    ],
    "category": "health",
    "status": "todo",
-   "order": 281,
-   "batch": 29
+   "order": 278,
+   "batch": 28
   },
   {
    "slug": "lottery-annuity-calculator",
@@ -18503,8 +18321,8 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 282,
-   "batch": 29
+   "order": 279,
+   "batch": 28
   },
   {
    "slug": "mobile-home-calculator",
@@ -18532,8 +18350,8 @@
    "competitors": [],
    "category": "everyday",
    "status": "todo",
-   "order": 283,
-   "batch": 29
+   "order": 280,
+   "batch": 28
   },
   {
    "slug": "height-in-inches-calculator",
@@ -18563,7 +18381,7 @@
    ],
    "category": "health",
    "status": "todo",
-   "order": 284,
+   "order": 281,
    "batch": 29
   },
   {
@@ -18770,7 +18588,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 285,
+   "order": 282,
    "batch": 29
   },
   {
@@ -18825,7 +18643,7 @@
    ],
    "category": "conversion",
    "status": "todo",
-   "order": 286,
+   "order": 283,
    "batch": 29
   },
   {
@@ -18904,7 +18722,7 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 287,
+   "order": 284,
    "batch": 29
   },
   {
@@ -18967,7 +18785,7 @@
    ],
    "category": "conversion",
    "status": "todo",
-   "order": 288,
+   "order": 285,
    "batch": 29
   },
   {
@@ -19022,7 +18840,7 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 289,
+   "order": 286,
    "batch": 29
   },
   {
@@ -19053,7 +18871,7 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 290,
+   "order": 287,
    "batch": 29
   },
   {
@@ -19132,8 +18950,8 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 291,
-   "batch": 30
+   "order": 288,
+   "batch": 29
   },
   {
    "slug": "fuel-cost-calculator",
@@ -19347,8 +19165,8 @@
    ],
    "category": "science",
    "status": "todo",
-   "order": 292,
-   "batch": 30
+   "order": 289,
+   "batch": 29
   },
   {
    "slug": "sphere-volume-calculator",
@@ -19443,8 +19261,8 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 293,
-   "batch": 30
+   "order": 290,
+   "batch": 29
   },
   {
    "slug": "time-calculator",
@@ -19618,7 +19436,7 @@
    ],
    "category": "time-date",
    "status": "todo",
-   "order": 294,
+   "order": 291,
    "batch": 30
   },
   {
@@ -19673,7 +19491,7 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 295,
+   "order": 292,
    "batch": 30
   },
   {
@@ -19704,7 +19522,7 @@
    ],
    "category": "conversion",
    "status": "todo",
-   "order": 296,
+   "order": 293,
    "batch": 30
   },
   {
@@ -19855,7 +19673,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 297,
+   "order": 294,
    "batch": 30
   },
   {
@@ -19958,7 +19776,7 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 298,
+   "order": 295,
    "batch": 30
   },
   {
@@ -19989,7 +19807,7 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 299,
+   "order": 296,
    "batch": 30
   },
   {
@@ -20068,7 +19886,7 @@
    ],
    "category": "everyday",
    "status": "todo",
-   "order": 300,
+   "order": 297,
    "batch": 30
   },
   {
@@ -20123,8 +19941,8 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 301,
-   "batch": 31
+   "order": 298,
+   "batch": 30
   },
   {
    "slug": "simple-interest-calculator",
@@ -20178,8 +19996,8 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 302,
-   "batch": 31
+   "order": 299,
+   "batch": 30
   },
   {
    "slug": "rental-property-calculator",
@@ -20257,8 +20075,8 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 303,
-   "batch": 31
+   "order": 300,
+   "batch": 30
   },
   {
    "slug": "resistor-calculator",
@@ -20312,7 +20130,7 @@
    ],
    "category": "science",
    "status": "todo",
-   "order": 304,
+   "order": 301,
    "batch": 31
   },
   {
@@ -20383,7 +20201,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 305,
+   "order": 302,
    "batch": 31
   },
   {
@@ -20414,7 +20232,7 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 306,
+   "order": 303,
    "batch": 31
   },
   {
@@ -20493,7 +20311,7 @@
    ],
    "category": "science",
    "status": "todo",
-   "order": 307,
+   "order": 304,
    "batch": 31
   },
   {
@@ -20524,7 +20342,7 @@
    ],
    "category": "health",
    "status": "todo",
-   "order": 308,
+   "order": 305,
    "batch": 31
   },
   {
@@ -20587,7 +20405,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 309,
+   "order": 306,
    "batch": 31
   },
   {
@@ -20650,7 +20468,7 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 310,
+   "order": 307,
    "batch": 31
   },
   {
@@ -20713,8 +20531,8 @@
    ],
    "category": "health",
    "status": "todo",
-   "order": 311,
-   "batch": 32
+   "order": 308,
+   "batch": 31
   },
   {
    "slug": "paint-calculator",
@@ -20744,8 +20562,8 @@
    ],
    "category": "construction",
    "status": "todo",
-   "order": 312,
-   "batch": 32
+   "order": 309,
+   "batch": 31
   },
   {
    "slug": "dice-roller-calculator",
@@ -20775,8 +20593,8 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 313,
-   "batch": 32
+   "order": 310,
+   "batch": 31
   },
   {
    "slug": "vo2-max-calculator",
@@ -20806,7 +20624,7 @@
    ],
    "category": "health",
    "status": "todo",
-   "order": 314,
+   "order": 311,
    "batch": 32
   },
   {
@@ -20837,7 +20655,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 315,
+   "order": 312,
    "batch": 32
   },
   {
@@ -20868,7 +20686,7 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 316,
+   "order": 313,
    "batch": 32
   },
   {
@@ -20899,7 +20717,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 317,
+   "order": 314,
    "batch": 32
   },
   {
@@ -20938,7 +20756,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 318,
+   "order": 315,
    "batch": 32
   },
   {
@@ -21017,7 +20835,7 @@
    ],
    "category": "health",
    "status": "todo",
-   "order": 319,
+   "order": 316,
    "batch": 32
   },
   {
@@ -21048,7 +20866,7 @@
    ],
    "category": "text",
    "status": "todo",
-   "order": 320,
+   "order": 317,
    "batch": 32
   },
   {
@@ -21079,8 +20897,8 @@
    ],
    "category": "health",
    "status": "todo",
-   "order": 321,
-   "batch": 33
+   "order": 318,
+   "batch": 32
   },
   {
    "slug": "conception-calculator",
@@ -21134,8 +20952,8 @@
    ],
    "category": "health",
    "status": "todo",
-   "order": 322,
-   "batch": 33
+   "order": 319,
+   "batch": 32
   },
   {
    "slug": "correlation-calculator",
@@ -21165,8 +20983,8 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 323,
-   "batch": 33
+   "order": 320,
+   "batch": 32
   },
   {
    "slug": "shoe-size-conversion-calculator",
@@ -21212,7 +21030,7 @@
    ],
    "category": "health",
    "status": "todo",
-   "order": 324,
+   "order": 321,
    "batch": 33
   },
   {
@@ -21291,7 +21109,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 325,
+   "order": 322,
    "batch": 33
   },
   {
@@ -21330,7 +21148,7 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 326,
+   "order": 323,
    "batch": 33
   },
   {
@@ -21385,7 +21203,7 @@
    ],
    "category": "health",
    "status": "todo",
-   "order": 327,
+   "order": 324,
    "batch": 33
   },
   {
@@ -21424,7 +21242,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 328,
+   "order": 325,
    "batch": 33
   },
   {
@@ -21455,7 +21273,7 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 329,
+   "order": 326,
    "batch": 33
   },
   {
@@ -21494,7 +21312,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 330,
+   "order": 327,
    "batch": 33
   },
   {
@@ -21597,8 +21415,8 @@
    ],
    "category": "health",
    "status": "todo",
-   "order": 331,
-   "batch": 34
+   "order": 328,
+   "batch": 33
   },
   {
    "slug": "rent-vs-buy-calculator",
@@ -21628,8 +21446,8 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 332,
-   "batch": 34
+   "order": 329,
+   "batch": 33
   },
   {
    "slug": "half-life-calculator",
@@ -21683,8 +21501,8 @@
    ],
    "category": "science",
    "status": "todo",
-   "order": 333,
-   "batch": 34
+   "order": 330,
+   "batch": 33
   },
   {
    "slug": "acreage-calculator",
@@ -21714,7 +21532,7 @@
    ],
    "category": "construction",
    "status": "todo",
-   "order": 334,
+   "order": 331,
    "batch": 34
   },
   {
@@ -21753,7 +21571,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 335,
+   "order": 332,
    "batch": 34
   },
   {
@@ -21784,7 +21602,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 336,
+   "order": 333,
    "batch": 34
   },
   {
@@ -21839,7 +21657,7 @@
    ],
    "category": "science",
    "status": "todo",
-   "order": 337,
+   "order": 334,
    "batch": 34
   },
   {
@@ -21886,7 +21704,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 338,
+   "order": 335,
    "batch": 34
   },
   {
@@ -21949,7 +21767,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 339,
+   "order": 336,
    "batch": 34
   },
   {
@@ -21980,7 +21798,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 340,
+   "order": 337,
    "batch": 34
   },
   {
@@ -22035,8 +21853,8 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 341,
-   "batch": 35
+   "order": 338,
+   "batch": 34
   },
   {
    "slug": "present-value-calculator",
@@ -22082,8 +21900,8 @@
    ],
    "category": "time-date",
    "status": "todo",
-   "order": 342,
-   "batch": 35
+   "order": 339,
+   "batch": 34
   },
   {
    "slug": "auto-loan-calculator",
@@ -22121,8 +21939,8 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 343,
-   "batch": 35
+   "order": 340,
+   "batch": 34
   },
   {
    "slug": "integer-calculator",
@@ -22152,7 +21970,7 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 344,
+   "order": 341,
    "batch": 35
   },
   {
@@ -22183,7 +22001,7 @@
    ],
    "category": "conversion",
    "status": "todo",
-   "order": 345,
+   "order": 342,
    "batch": 35
   },
   {
@@ -22230,7 +22048,7 @@
    ],
    "category": "everyday",
    "status": "todo",
-   "order": 346,
+   "order": 343,
    "batch": 35
   },
   {
@@ -22277,7 +22095,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 347,
+   "order": 344,
    "batch": 35
   },
   {
@@ -22316,7 +22134,7 @@
    ],
    "category": "science",
    "status": "todo",
-   "order": 348,
+   "order": 345,
    "batch": 35
   },
   {
@@ -22347,7 +22165,7 @@
    ],
    "category": "science",
    "status": "todo",
-   "order": 349,
+   "order": 346,
    "batch": 35
   },
   {
@@ -22378,7 +22196,7 @@
    ],
    "category": "science",
    "status": "todo",
-   "order": 350,
+   "order": 347,
    "batch": 35
   },
   {
@@ -22417,8 +22235,8 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 351,
-   "batch": 36
+   "order": 348,
+   "batch": 35
   },
   {
    "slug": "calorie-calculator",
@@ -22456,8 +22274,8 @@
    ],
    "category": "health",
    "status": "todo",
-   "order": 352,
-   "batch": 36
+   "order": 349,
+   "batch": 35
   },
   {
    "slug": "amortization-calculator",
@@ -22495,8 +22313,8 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 353,
-   "batch": 36
+   "order": 350,
+   "batch": 35
   },
   {
    "slug": "ip-subnet-calculator",
@@ -22526,7 +22344,7 @@
    ],
    "category": "science",
    "status": "todo",
-   "order": 354,
+   "order": 351,
    "batch": 36
   },
   {
@@ -22557,7 +22375,7 @@
    ],
    "category": "math",
    "status": "todo",
-   "order": 355,
+   "order": 352,
    "batch": 36
   },
   {
@@ -22588,7 +22406,7 @@
    ],
    "category": "science",
    "status": "todo",
-   "order": 356,
+   "order": 353,
    "batch": 36
   },
   {
@@ -22619,7 +22437,7 @@
    ],
    "category": "finance",
    "status": "todo",
-   "order": 357,
+   "order": 354,
    "batch": 36
   },
   {
@@ -22804,7 +22622,7 @@
    "category": "math",
    "status": "covered",
    "note": "covered by /right-triangle-calculator/ (primary kw 'right angle triangle calculator')",
-   "order": 358,
+   "order": 355,
    "batch": 36
   },
   {
@@ -22834,7 +22652,7 @@
    "category": "time-date",
    "status": "covered",
    "note": "covered by /age-calculator/ (years/months/days between a date and today or any date)",
-   "order": 359,
+   "order": 356,
    "batch": 36
   },
   {
@@ -22946,7 +22764,7 @@
    "category": "time-date",
    "status": "covered",
    "note": "covered by /days-from-today/ ('add days', 'date add' = custom start date + N days)",
-   "order": 360,
+   "order": 357,
    "batch": 36
   },
   {
@@ -22976,8 +22794,8 @@
    "category": "time-date",
    "status": "covered",
    "note": "covered by /days-from-today/ (Weeks mode: add/subtract weeks, weeks+days span) and /age-calculator/ (total weeks between dates)",
-   "order": 361,
-   "batch": 37
+   "order": 358,
+   "batch": 36
   },
   {
    "slug": "hr-calculator",
@@ -23006,8 +22824,8 @@
    "category": "everyday",
    "status": "covered",
    "note": "covered by /hours-calculator/ (SERP for 'hr calculator' 2026-11-22 is dominated by hours/time-card calculators)",
-   "order": 362,
-   "batch": 37
+   "order": 359,
+   "batch": 36
   },
   {
    "slug": "time-to-decimal-calculator",
@@ -23047,8 +22865,8 @@
    "category": "time-date",
    "status": "covered",
    "note": "covered by /hours-calculator/ (decimal hours, table, FAQ)",
-   "order": 363,
-   "batch": 37
+   "order": 360,
+   "batch": 36
   },
   {
    "slug": "miscarriage-calculator",
@@ -23077,7 +22895,7 @@
    "category": "health",
    "status": "hold",
    "note": "Owner 2026-11-22: leave it (sensitive health topic)",
-   "order": 364,
+   "order": 361,
    "batch": 37
   },
   {
@@ -23107,7 +22925,7 @@
    "category": "math",
    "status": "covered",
    "note": "covered by /fraction-calculator/ (SERP 2026-11-22 = general fraction add/subtract/multiply/divide tools)",
-   "order": 365,
+   "order": 362,
    "batch": 37
   },
   {
@@ -23211,6 +23029,191 @@
    "category": "science",
    "status": "covered",
    "note": "covered by /wire-size-calculator/ (voltage drop + voltage at load for every AWG, DC/1\u03c6/3\u03c6)",
+   "order": 363,
+   "batch": 37
+  },
+  {
+   "slug": "schoology-grade-calculator",
+   "name": "Schoology Grade Calculator",
+   "rank": 85,
+   "tier": "P1",
+   "primaryKw": "schoology grade calculator",
+   "primaryVol": 2400,
+   "primaryKd": 4,
+   "clusterVol": 2400,
+   "weightedKd": 4,
+   "mergedFrom": [
+    "Schoology Grade Calculator"
+   ],
+   "keywords": [
+    {
+     "kw": "schoology grade calculator",
+     "vol": 2400,
+     "kd": 4,
+     "intent": "I",
+     "compPos": null,
+     "compUrl": null
+    }
+   ],
+   "competitors": [],
+   "category": "education",
+   "status": "covered",
+   "note": "covered by /grade-calculator/ (weighted-category mode = Schoology-style grade calculation)",
+   "order": 364,
+   "batch": 37
+  },
+  {
+   "slug": "soil-calculator",
+   "name": "Soil Calculator",
+   "rank": 87,
+   "tier": "P1",
+   "primaryKw": "topsoil calculator",
+   "primaryVol": 8100,
+   "primaryKd": 20,
+   "clusterVol": 29500,
+   "weightedKd": 31.1,
+   "mergedFrom": [
+    "Soil Calculator",
+    "Loam Calculator",
+    "Soil Yard Calculator",
+    "Topsoil Estimator"
+   ],
+   "keywords": [
+    {
+     "kw": "soil calculator",
+     "vol": 18100,
+     "kd": 36,
+     "intent": "C",
+     "compPos": 2,
+     "compUrl": "www.omnicalculator.com/biology/soil"
+    },
+    {
+     "kw": "topsoil calculator",
+     "vol": 8100,
+     "kd": 20,
+     "intent": "I",
+     "compPos": 12,
+     "compUrl": "www.omnicalculator.com/biology/soil"
+    },
+    {
+     "kw": "soil yard calculator",
+     "vol": 1300,
+     "kd": 6,
+     "intent": "I",
+     "compPos": null,
+     "compUrl": null
+    },
+    {
+     "kw": "loam calculator",
+     "vol": 1000,
+     "kd": 4,
+     "intent": "I",
+     "compPos": null,
+     "compUrl": null
+    },
+    {
+     "kw": "topsoil estimator",
+     "vol": 1000,
+     "kd": 13,
+     "intent": "I",
+     "compPos": null,
+     "compUrl": null
+    }
+   ],
+   "competitors": [
+    "www.omnicalculator.com/biology/soil"
+   ],
+   "category": "construction",
+   "status": "covered",
+   "note": "covered by /cubic-yard-calculator/ (title: Yards for Soil, Mulch & Gravel; topsoil volume)",
+   "order": 365,
+   "batch": 37
+  },
+  {
+   "slug": "hex-calculator",
+   "name": "Hex Calculator",
+   "rank": 89,
+   "tier": "P1",
+   "primaryKw": "hex calculator",
+   "primaryVol": 5400,
+   "primaryKd": 20,
+   "clusterVol": 16600,
+   "weightedKd": 30.4,
+   "mergedFrom": [
+    "Hex Calculator"
+   ],
+   "keywords": [
+    {
+     "kw": "hex calculator",
+     "vol": 5400,
+     "kd": 20,
+     "intent": "I",
+     "compPos": 1,
+     "compUrl": "www.calculator.net/hex-calculator.html"
+    },
+    {
+     "kw": "hex and calculator",
+     "vol": 2400,
+     "kd": 20,
+     "intent": "C",
+     "compPos": 2,
+     "compUrl": "www.calculator.net/hex-calculator.html"
+    },
+    {
+     "kw": "calculate hexadecimal to decimal",
+     "vol": 2400,
+     "kd": 34,
+     "intent": "I",
+     "compPos": 3,
+     "compUrl": "www.calculator.net/hex-calculator.html"
+    },
+    {
+     "kw": "hex and decimal converter",
+     "vol": 2400,
+     "kd": 42,
+     "intent": "C - I",
+     "compPos": 3,
+     "compUrl": "www.calculator.net/hex-calculator.html"
+    },
+    {
+     "kw": "calculator for hexadecimal",
+     "vol": 1000,
+     "kd": 35,
+     "intent": "I",
+     "compPos": 1,
+     "compUrl": "www.calculator.net/hex-calculator.html"
+    },
+    {
+     "kw": "decimal to hex calculator",
+     "vol": 1000,
+     "kd": 40,
+     "intent": "I",
+     "compPos": 3,
+     "compUrl": "www.calculator.net/hex-calculator.html"
+    },
+    {
+     "kw": "decimal to hexadecimal conversion calculator",
+     "vol": 1000,
+     "kd": 42,
+     "intent": "I",
+     "compPos": 3,
+     "compUrl": "www.calculator.net/hex-calculator.html"
+    },
+    {
+     "kw": "dec hex calculator",
+     "vol": 1000,
+     "kd": 49,
+     "intent": "I",
+     "compPos": 3,
+     "compUrl": "www.calculator.net/hex-calculator.html"
+    }
+   ],
+   "competitors": [
+    "www.calculator.net/hex-calculator.html"
+   ],
+   "category": "math",
+   "status": "covered",
+   "note": "covered by /binary-calculator/ (hex <-> decimal <-> binary conversion, any size)",
    "order": 366,
    "batch": 37
   },

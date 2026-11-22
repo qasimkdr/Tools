@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How high do I need to jump to dunk?", a: "Subtract your standing reach from the rim height (10 feet = 120 inches) and add about 6 inches of clearance for your hand and the ball. At 6 feet tall, an estimated standing reach of about 96 inches means roughly 24 inches of vertical to touch the rim and 30 inches to dunk." },
+  { q: "How do I measure my standing reach?", a: "Stand flat-footed next to a wall, raise one arm straight up as high as it goes without lifting your heels, and mark the tip of your middle finger. Measure from the floor to the mark. If you can't measure it, a common estimate is about 1.33 times your height." },
+  { q: "How tall do you have to be to dunk?", a: "There's no minimum height, but shorter players need a bigger vertical. Someone 5′6″ needs about 38 inches of vertical to dunk on a 10-foot rim using the average reach estimate, while someone 6′6″ needs about 22 inches." },
+  { q: "How tall is a basketball rim?", a: "Regulation rims in the NBA, WNBA, NCAA, high school and FIBA are 10 feet (3.05 m) from the floor. Youth leagues often use 8 or 9-foot rims, which you can select in the calculator." },
+  { q: "Do I need more clearance to dunk a basketball than to touch the rim?", a: "Yes. A men's basketball is about 9½ inches across, so you need to get your hand and the ball over the rim; around 6 inches above the rim is a common target for a basic dunk, more for a two-handed or style dunk." },
+  { q: "How can I increase my vertical jump?", a: "Strength training (squats, deadlifts), plyometrics (box jumps, depth jumps), sprinting and improving your approach technique all help, along with good recovery. Many athletes gain several inches with consistent training over months." },
+];

@@ -1,0 +1,923 @@
+{
+ "pages": {
+  "https://www.calculatorsoup.com/calculators/financial/money-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/financial/money-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/financial/money-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T15:04:57.414Z",
+   "title": "Money Calculator",
+   "metaDescription": "Money counter calculator for adding up denominations of bills and coins. Input number of bills, coins and rolled coins to get total sum value. Calculates USD, GBP, EUR, JPY, AUD, CAD, CHF, SEK, MXN, NZD, INR, PHP, AED.",
+   "canonical": "https://www.calculatorsoup.com/calculators/financial/money-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Money Calculator"
+   ],
+   "h2": [
+    "How to Calculate Total Amount of Money",
+    "Steps to Calculate Money"
+   ],
+   "h3": [
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Money Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Total Amount of Money"
+    },
+    {
+     "level": 2,
+     "text": "Steps to Calculate Money"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 603,
+   "avgSentenceWords": 29,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "money",
+     "weight": 22
+    },
+    {
+     "term": "calculator",
+     "weight": 21
+    },
+    {
+     "term": "money calculator",
+     "weight": 15
+    },
+    {
+     "term": "coins",
+     "weight": 13
+    },
+    {
+     "term": "total",
+     "weight": 10
+    },
+    {
+     "term": "value",
+     "weight": 7
+    },
+    {
+     "term": "calculators",
+     "weight": 6
+    },
+    {
+     "term": "total amount",
+     "weight": 6
+    },
+    {
+     "term": "many",
+     "weight": 5
+    },
+    {
+     "term": "note",
+     "weight": 5
+    },
+    {
+     "term": "add",
+     "weight": 5
+    },
+    {
+     "term": "cash",
+     "weight": 5
+    },
+    {
+     "term": "bills",
+     "weight": 5
+    },
+    {
+     "term": "dollar",
+     "weight": 5
+    },
+    {
+     "term": "counter",
+     "weight": 5
+    },
+    {
+     "term": "have",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators financial",
+     "weight": 5
+    },
+    {
+     "term": "face value",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "financial",
+     "weight": 4
+    },
+    {
+     "term": "amount",
+     "weight": 4
+    },
+    {
+     "term": "sum",
+     "weight": 4
+    },
+    {
+     "term": "coin",
+     "weight": 4
+    },
+    {
+     "term": "multiply",
+     "weight": 4
+    },
+    {
+     "term": "stack",
+     "weight": 4
+    },
+    {
+     "term": "calculator money",
+     "weight": 3
+    },
+    {
+     "term": "money counting",
+     "weight": 3
+    },
+    {
+     "term": "counting calculator",
+     "weight": 3
+    },
+    {
+     "term": "currency",
+     "weight": 3
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Currency:",
+    "Banknotes",
+    "Coins",
+    "Rolled Coins",
+    "$ 1",
+    "$ 2",
+    "$ 5",
+    "$ 10",
+    "$ 20",
+    "$ 50",
+    "$ 100",
+    "1 ¢",
+    "5 ¢",
+    "10 ¢",
+    "25 ¢",
+    "50 ¢",
+    "$ 1",
+    "reset",
+    "Note line 1",
+    "Note line 2",
+    "Low to High",
+    "High to Low",
+    "Yes",
+    "No",
+    "Yes",
+    "No"
+   ],
+   "selectOptionsSample": "usd - us dollar eur - euro jpy - japanese yen gbp - british pound aud - australian dollar cad - canadian dollar thb - thai baht chf - swiss franc sek - swedish krona mxn - mexican peso nzd - new zealand inr - indian rupee php - philippine peso myr - malaysia ringgit sar - saudi riyal aed - uae dirha",
+   "unitToggle": false,
+   "wordsBeforeTool": 19,
+   "actions": {
+    "print": true,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "August 7, 2026",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 77,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 19,
+    "external": 1,
+    "contentInternal": 8,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Financial",
+     "Personal Finance",
+     "Money Calculator",
+     "Change Settings",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/financial/",
+     "https://www.calculatorsoup.com/calculators/financial/index-personal-finance-and-accounting.php",
+     "https://www.calculatorsoup.com/calculators/financial/money-calculator.php",
+     "https://www.calculatorsoup.com/calculators/financial/money-calculator.php#settings",
+     "https://www.calculatorsoup.com/suggest-calculator.php?pageurl=https://www.calculatorsoup.com/calculators/financial/money-calculator.php&cnt_n=1&cnt_c=1",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=financial%2F&folderName=Financial&folder2=financial%2Findex-personal-finance-and-accounting.php&folderName2=Personal+Finance&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/financial/money-calculator.php&h1=Money+Calculator&pop_w=400&pop_h=600"
+    ],
+    "externalSample": [
+     "https://www.google.com/search?q=1+USD+to+EUR"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/finance/money-counter": {
+   "url": "https://www.omnicalculator.com/finance/money-counter",
+   "finalUrl": "https://www.omnicalculator.com/finance/money-counter",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T15:05:00.765Z",
+   "title": "Money Counter Calculator",
+   "metaDescription": "Our money counter calculator can help you calculate the total amount of money by summing up each denomination of banknotes and coins.",
+   "canonical": "https://www.omnicalculator.com/finance/money-counter",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Money Counter Calculator"
+   ],
+   "h2": [
+    "What is money counting? Why we need money counter machine?",
+    "How to use the money counter calculator — How does the money counter online work?",
+    "FAQs"
+   ],
+   "h3": [
+    "How to learn to count money quickly?",
+    "Why is it important to be able to count money?",
+    "If I have 2 $100 notes and 10 $20 notes, how much do I have in total?",
+    "How can I calculate the total amount of money based on the banknotes and coins I have?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Money Counter Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is money counting? Why we need money counter machine?"
+    },
+    {
+     "level": 2,
+     "text": "How to use the money counter calculator — How does the money counter online work?"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How to learn to count money quickly?"
+    },
+    {
+     "level": 3,
+     "text": "Why is it important to be able to count money?"
+    },
+    {
+     "level": 3,
+     "text": "If I have 2 $100 notes and 10 $20 notes, how much do I have in total?"
+    },
+    {
+     "level": 3,
+     "text": "How can I calculate the total amount of money based on the banknotes and coins I have?"
+    }
+   ],
+   "wordCount": 756,
+   "avgSentenceWords": 16,
+   "faqs": [
+    "How to learn to count money quickly?",
+    "Why is it important to be able to count money?",
+    "If I have 2 $100 notes and 10 $20 notes, how much do I have in total?",
+    "How can I calculate the total amount of money based on the banknotes and coins I have?",
+    "What is money counting? Why we need money counter machine?",
+    "How to use the money counter calculator — How does the money counter online work?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "money",
+     "weight": 37
+    },
+    {
+     "term": "money counter",
+     "weight": 18
+    },
+    {
+     "term": "total",
+     "weight": 15
+    },
+    {
+     "term": "counter",
+     "weight": 12
+    },
+    {
+     "term": "banknotes",
+     "weight": 12
+    },
+    {
+     "term": "calculator",
+     "weight": 11
+    },
+    {
+     "term": "total amount",
+     "weight": 11
+    },
+    {
+     "term": "currency",
+     "weight": 10
+    },
+    {
+     "term": "amount",
+     "weight": 10
+    },
+    {
+     "term": "coins",
+     "weight": 9
+    },
+    {
+     "term": "have",
+     "weight": 9
+    },
+    {
+     "term": "count",
+     "weight": 9
+    },
+    {
+     "term": "counter calculator",
+     "weight": 8
+    },
+    {
+     "term": "total money",
+     "weight": 8
+    },
+    {
+     "term": "count money",
+     "weight": 8
+    },
+    {
+     "term": "calculate",
+     "weight": 7
+    },
+    {
+     "term": "understand",
+     "weight": 6
+    },
+    {
+     "term": "has",
+     "weight": 6
+    },
+    {
+     "term": "determine",
+     "weight": 6
+    },
+    {
+     "term": "denominations",
+     "weight": 6
+    },
+    {
+     "term": "quickly",
+     "weight": 5
+    },
+    {
+     "term": "counting",
+     "weight": 5
+    },
+    {
+     "term": "quantities",
+     "weight": 5
+    },
+    {
+     "term": "money quickly",
+     "weight": 5
+    },
+    {
+     "term": "money counting",
+     "weight": 5
+    },
+    {
+     "term": "counter machine",
+     "weight": 5
+    },
+    {
+     "term": "100 banknotes",
+     "weight": 5
+    },
+    {
+     "term": "candy has",
+     "weight": 5
+    },
+    {
+     "term": "help",
+     "weight": 4
+    },
+    {
+     "term": "denomination",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "dollars: $10 banknotes: 10 $50 banknotes: 20 $100 banknotes: 15 50¢ coins: 40 $1 coins: 20 You can calculate the total money you have in four steps: Determine the currency.",
+    "Hence, the total money that Candy has is 10 × $10 + 20 × $50 + 15 × $100 + 20 × $1 + 40 × $0.50 = $2,640."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 4,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Currency"
+   ],
+   "selectOptionsSample": "select usd - us dollar gbp - pound sterling eur - euro cad - canadian dollar aud - australian dollar chf - swiss franc nzd - new zealand dollar inr - indian rupee php - philippine peso myr - malaysian ringgit pln - polish zloty",
+   "unitToggle": false,
+   "wordsBeforeTool": 4,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Wei Bin Loo",
+    "published": "2023-04-21T20:18:40.051Z",
+    "modified": "2026-09-03T17:13:59.147Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 681,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 20,
+    "external": 1,
+    "contentInternal": 4,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "currency forward calculator",
+     "money supply calculator",
+     "bank reconciliation calculator",
+     "business budget calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/finance/currency-forward",
+     "https://www.omnicalculator.com/finance/money-supply",
+     "https://www.omnicalculator.com/finance/bank-reconciliation",
+     "https://www.omnicalculator.com/finance/business-budget"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.thecalculatorsite.com/finance/calculators/money-counter.php": {
+   "url": "https://www.thecalculatorsite.com/finance/calculators/money-counter.php",
+   "finalUrl": "https://www.thecalculatorsite.com/finance/calculators/money-counter.php",
+   "mode": "offline-parse",
+   "domain": "www.thecalculatorsite.com",
+   "fetchedAt": "2026-11-22T15:05:03.830Z",
+   "title": "Money Counter - Online Cash Counter",
+   "metaDescription": "Count the sum of bills/notes and coins in Dollars, Pounds, Euros and Rupees.",
+   "canonical": "https://www.thecalculatorsite.com/finance/calculators/money-counter.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Money Counter"
+   ],
+   "h2": [
+    "Bills",
+    "Coins",
+    "Notes",
+    "Coins",
+    "Notes",
+    "Coins",
+    "Bill and coin denominations",
+    "How to use the online money counter"
+   ],
+   "h3": [
+    "US Dollars (USD)",
+    "UK Pounds (GBP)",
+    "Euros (EUR)"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Money Counter"
+    },
+    {
+     "level": 2,
+     "text": "Bills"
+    },
+    {
+     "level": 2,
+     "text": "Coins"
+    },
+    {
+     "level": 2,
+     "text": "Notes"
+    },
+    {
+     "level": 2,
+     "text": "Coins"
+    },
+    {
+     "level": 2,
+     "text": "Notes"
+    },
+    {
+     "level": 2,
+     "text": "Coins"
+    },
+    {
+     "level": 2,
+     "text": "Bill and coin denominations"
+    },
+    {
+     "level": 3,
+     "text": "US Dollars (USD)"
+    },
+    {
+     "level": 3,
+     "text": "UK Pounds (GBP)"
+    },
+    {
+     "level": 3,
+     "text": "Euros (EUR)"
+    },
+    {
+     "level": 2,
+     "text": "How to use the online money counter"
+    },
+    {
+     "level": 4,
+     "text": "Finance"
+    },
+    {
+     "level": 4,
+     "text": "Home & Garden"
+    },
+    {
+     "level": 4,
+     "text": "Cooking"
+    },
+    {
+     "level": 4,
+     "text": "Website"
+    }
+   ],
+   "wordCount": 1039,
+   "avgSentenceWords": 40,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "calculator",
+     "weight": 57
+    },
+    {
+     "term": "grams",
+     "weight": 19
+    },
+    {
+     "term": "pounds",
+     "weight": 12
+    },
+    {
+     "term": "feet",
+     "weight": 12
+    },
+    {
+     "term": "cups",
+     "weight": 11
+    },
+    {
+     "term": "coins",
+     "weight": 11
+    },
+    {
+     "term": "calculators",
+     "weight": 9
+    },
+    {
+     "term": "money",
+     "weight": 9
+    },
+    {
+     "term": "square",
+     "weight": 9
+    },
+    {
+     "term": "cubic",
+     "weight": 8
+    },
+    {
+     "term": "money counter",
+     "weight": 8
+    },
+    {
+     "term": "currency",
+     "weight": 7
+    },
+    {
+     "term": "ounces",
+     "weight": 7
+    },
+    {
+     "term": "weight",
+     "weight": 7
+    },
+    {
+     "term": "bills",
+     "weight": 7
+    },
+    {
+     "term": "notes",
+     "weight": 7
+    },
+    {
+     "term": "interest",
+     "weight": 6
+    },
+    {
+     "term": "counter",
+     "weight": 6
+    },
+    {
+     "term": "inches",
+     "weight": 6
+    },
+    {
+     "term": "cubic feet",
+     "weight": 6
+    },
+    {
+     "term": "calculator cubic",
+     "weight": 6
+    },
+    {
+     "term": "finance",
+     "weight": 5
+    },
+    {
+     "term": "converter",
+     "weight": 5
+    },
+    {
+     "term": "cooking",
+     "weight": 5
+    },
+    {
+     "term": "tablespoons",
+     "weight": 5
+    },
+    {
+     "term": "teaspoons",
+     "weight": 5
+    },
+    {
+     "term": "volume",
+     "weight": 5
+    },
+    {
+     "term": "percentage",
+     "weight": 5
+    },
+    {
+     "term": "steps",
+     "weight": 5
+    },
+    {
+     "term": "finance calculators",
+     "weight": 5
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [],
+   "schemaFormats": [],
+   "tables": 0,
+   "lists": 29,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "I want to calculate/convert...",
+    "$",
+    "€",
+    "£",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 7,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 310,
+    "adNetworks": [
+     "gpt",
+     "adthrive",
+     "ezoic"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 159,
+    "external": 1,
+    "contentInternal": 159,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Finance Calculators",
+     "Compound Interest",
+     "Compound Interest (Daily)",
+     "Amortization Calculator",
+     "APY Calculator",
+     "CAGR Calculator",
+     "Car Loan Calculator",
+     "Cash Back Calculator",
+     "Currency Converter",
+     "Forex Compounding",
+     "Future Value Calculator",
+     "How Long to Save",
+     "Interest Rate Calculator",
+     "Investment Calculator",
+     "IRR Calculator",
+     "Loan Calculator",
+     "Loan Payoff Calculator",
+     "Margin Calculator",
+     "Million to Billion Converter",
+     "MMA Calculator"
+    ],
+    "internalSample": [
+     "https://www.thecalculatorsite.com/",
+     "https://www.thecalculatorsite.com/finance/",
+     "https://www.thecalculatorsite.com/finance/calculators/compoundinterestcalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/daily-compound-interest.php",
+     "https://www.thecalculatorsite.com/finance/calculators/amortization-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/apy-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/cagr-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/carloancalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/cash-back.php",
+     "https://www.thecalculatorsite.com/finance/calculators/currencyconverter.php",
+     "https://www.thecalculatorsite.com/finance/calculators/forex-compound-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/future-value-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/how-long-to-save",
+     "https://www.thecalculatorsite.com/finance/calculators/interest-rate-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/investment-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/irr-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/loancalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/loan-payoff-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/margin-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/million-billion",
+     "https://www.thecalculatorsite.com/finance/calculators/money-market-account.php",
+     "https://www.thecalculatorsite.com/finance/calculators/money-counter.php",
+     "https://www.thecalculatorsite.com/finance/calculators/price-per-sqft.php",
+     "https://www.thecalculatorsite.com/finance/calculators/savings-calculators.php",
+     "https://www.thecalculatorsite.com/finance/calculators/savings-goal-calculator.php"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=thecalculatorsite.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

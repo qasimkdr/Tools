@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "What is FFMI?", a: "Fat-free mass index is your lean body mass (everything except fat) divided by your height squared, like a BMI that ignores fat. Because it separates muscle from fat, it describes muscularity better than BMI." },
+  { q: "How do you calculate FFMI?", a: "Lean mass = weight × (1 − body fat %). FFMI = lean mass (kg) ÷ height (m)². Normalized FFMI = FFMI + 6.1 × (1.8 − height in m). At 5′10″ (1.778 m), 180 lb (81.6 kg) and 15% body fat: lean mass 69.4 kg, FFMI 21.95, normalized 22.1." },
+  { q: "What is a good FFMI?", a: "Typical untrained men score around 19–21 and women lower. Regular strength training raises it over time. In a 1995 study of male athletes by Kouri and colleagues, drug-free lifters' normalized FFMI topped out at about 25, a figure the authors called preliminary; a ceiling around 22 is often cited for women." },
+  { q: "Why normalize FFMI for height?", a: "Taller people naturally have slightly lower FFMI values at the same muscularity. The Kouri adjustment, 6.1 × (1.8 − height in meters), scales results to a 1.8 m (5′11″) reference so people of different heights can be compared. Some calculators use 6.3 instead of 6.1; the difference is small." },
+  { q: "How accurate is FFMI?", a: "It depends almost entirely on your body fat estimate. A DEXA scan is more precise than calipers, bioimpedance scales or tape-measure formulas, and an error of 3–4 percentage points in body fat can shift FFMI by about one point." },
+  { q: "How is FFMI different from BMI?", a: "BMI uses total weight, so a muscular person and an overweight person of the same height and weight get the same BMI. FFMI removes fat mass first, so it reflects muscle rather than overall size." },
+];

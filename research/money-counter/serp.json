@@ -1,0 +1,242 @@
+{
+ "keywords": {
+  "money counter money counter": {
+   "fetchedAt": "2026-11-22T15:04:43.536Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 18100,
+   "fileKd": 21,
+   "fileIntent": "C",
+   "semrushCompetitor": {
+    "position": 16,
+    "url": "www.omnicalculator.com/finance/money-counter"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.calculatorsoup.com/calculators/financial/money-calculator.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Money Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://omnicalculator.com/finance/money-counter",
+     "domain": "omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.thecalculatorsite.com/finance/calculators/money-counter.php",
+     "domain": "www.thecalculatorsite.com",
+     "title": "money counter",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://cache.omnicalculator.com/finance/money-counter",
+     "domain": "cache.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://calculator-1.com/money-counter/",
+     "domain": "calculator-1.com",
+     "title": "money counter",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.easyunitconverter.com/money-counter-calculator",
+     "domain": "www.easyunitconverter.com",
+     "title": "Money Counter Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://calculator.academy/coins-to-dollars-calculator/",
+     "domain": "calculator.academy",
+     "title": "coins to dollars calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://calculator.academy/money-addition-calculator/",
+     "domain": "calculator.academy",
+     "title": "money addition calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://finmasters.com/?p=3041",
+     "domain": "finmasters.com",
+     "title": "Online Money Counter",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://calculator.academy/money-add-calculator/",
+     "domain": "calculator.academy",
+     "title": "money add calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://apps.apple.com/app/id526033645",
+     "domain": "apps.apple.com",
+     "title": "Cash Calculator -Money Counter",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://collectingcents.com/?p=8616",
+     "domain": "collectingcents.com",
+     "title": "Money Counter",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://ribaostore.com/pages/money-counter-calculator",
+     "domain": "ribaostore.com",
+     "title": "Free Shipping for Order over $99.99",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://www.ordio.com/en/tools/money-counter",
+     "domain": "www.ordio.com",
+     "title": "Payroll & wages",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://connecteam.com/free-tools/free-money-and-change-calculator/",
+     "domain": "connecteam.com",
+     "title": "Free Money and Change Calculator",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://www.producthunt.com/posts/money-counter",
+     "domain": "www.producthunt.com",
+     "title": "Do you use Money Counter?",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://aifreeforever.com/calculator/money-counter",
+     "domain": "aifreeforever.com",
+     "title": "Money Counter Calculator",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://best-calculators.com/finance/money-counter-calculator/",
+     "domain": "best-calculators.com",
+     "title": "Money Counter Calculator - Bills and Coins",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "money-counter",
+ "page": "money-counter",
+ "category": "finance",
+ "name": "Money Counter",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T15:04:43.536Z",
+ "topCompetitors": [
+  {
+   "domain": "calculator.academy",
+   "bestRank": 7,
+   "keywords": 3,
+   "urls": [
+    "https://calculator.academy/coins-to-dollars-calculator/",
+    "https://calculator.academy/money-addition-calculator/",
+    "https://calculator.academy/money-add-calculator/"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 2,
+   "keywords": 2,
+   "urls": [
+    "https://omnicalculator.com/finance/money-counter",
+    "https://cache.omnicalculator.com/finance/money-counter"
+   ]
+  },
+  {
+   "domain": "calculatorsoup.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculatorsoup.com/calculators/financial/money-calculator.php"
+   ]
+  },
+  {
+   "domain": "thecalculatorsite.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.thecalculatorsite.com/finance/calculators/money-counter.php"
+   ]
+  },
+  {
+   "domain": "calculator-1.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://calculator-1.com/money-counter/"
+   ]
+  },
+  {
+   "domain": "easyunitconverter.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.easyunitconverter.com/money-counter-calculator"
+   ]
+  },
+  {
+   "domain": "finmasters.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://finmasters.com/?p=3041"
+   ]
+  },
+  {
+   "domain": "apple.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://apps.apple.com/app/id526033645"
+   ]
+  },
+  {
+   "domain": "collectingcents.com",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://collectingcents.com/?p=8616"
+   ]
+  },
+  {
+   "domain": "ribaostore.com",
+   "bestRank": 13,
+   "keywords": 1,
+   "urls": [
+    "https://ribaostore.com/pages/money-counter-calculator"
+   ]
+  }
+ ]
+}

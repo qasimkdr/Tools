@@ -1,0 +1,250 @@
+{
+ "keywords": {
+  "ffmi calculator": {
+   "fetchedAt": "2026-11-22T15:04:43.660Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 14800,
+   "fileKd": 21,
+   "fileIntent": "C",
+   "semrushCompetitor": {
+    "position": 6,
+    "url": "www.omnicalculator.com/health/ffmi"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.omnicalculator.com/sports/ffmi",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://online.visual-paradigm.com/tabular/calculator/health/ffmi-calculator/",
+     "domain": "online.visual-paradigm.com",
+     "title": "FFMI Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://online.visual-paradigm.com/spreadsheet-editor/calculator/ffmi-calculator/",
+     "domain": "online.visual-paradigm.com",
+     "title": "FFMI Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://inchcalculator.com/ffmi-calculator",
+     "domain": "inchcalculator.com",
+     "title": "FFMI Calculator (Fat-Free Mass Index)",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.omnicalculator.com/health/ffmi",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://dqydj.com/?p=15613",
+     "domain": "dqydj.com",
+     "title": "FFMI Calculator (Fat-Free Mass Index)",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://asadex.github.io/ffmi-calculator",
+     "domain": "asadex.github.io",
+     "title": "FFMI Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://dqydj.com/ffmi-calculator/",
+     "domain": "dqydj.com",
+     "title": "FFMI Calculator (Fat-Free Mass Index)",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://nakednutrition.com/pages/ffmi-calculator",
+     "domain": "nakednutrition.com",
+     "title": "ffmi calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://nakednutrition.com/fr/pages/ffmi-calculator",
+     "domain": "nakednutrition.com",
+     "title": "ffmi calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://builtwithscience.com/ffmi-calculator.",
+     "domain": "builtwithscience.com",
+     "title": "logo builtwithscience",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://mennohenselmans.com/ffmi-calc",
+     "domain": "mennohenselmans.com",
+     "title": "FFMI Calculator: calculate your genetic muscular potential",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://legionathletics.com/ffmi-calculator/",
+     "domain": "legionathletics.com",
+     "title": "ffmi calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://stylecraze.com/tools/fat-free-mass-index-ffmi-calculator",
+     "domain": "stylecraze.com",
+     "title": "Fat Free Mass Index (FFMI) Calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://goodcalculators.com/ffmi-fat-free-mass-index-calculator/",
+     "domain": "goodcalculators.com",
+     "title": "FFMI (Fat-Free Mass Index) Calculator",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://gymnation.com/fitness-calculators/ffmi-calculator",
+     "domain": "gymnation.com",
+     "title": "ffmi calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://fitnessvolt.com/ffmi-calculator/",
+     "domain": "fitnessvolt.com",
+     "title": "FFMI Calculator: Find Your Fat Free Mass Index",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://learn.athleanx.com/?p=94606",
+     "domain": "learn.athleanx.com",
+     "title": "FFMI Calculator",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://hubfit.com/tools/ffmi-calculator",
+     "domain": "hubfit.com",
+     "title": "ffmi calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "ffmi-calculator",
+ "page": "ffmi-calculator",
+ "category": "health",
+ "name": "Ffmi Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T15:04:43.660Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://www.omnicalculator.com/sports/ffmi",
+    "https://www.omnicalculator.com/health/ffmi"
+   ]
+  },
+  {
+   "domain": "visual-paradigm.com",
+   "bestRank": 2,
+   "keywords": 2,
+   "urls": [
+    "https://online.visual-paradigm.com/tabular/calculator/health/ffmi-calculator/",
+    "https://online.visual-paradigm.com/spreadsheet-editor/calculator/ffmi-calculator/"
+   ]
+  },
+  {
+   "domain": "dqydj.com",
+   "bestRank": 6,
+   "keywords": 2,
+   "urls": [
+    "https://dqydj.com/?p=15613",
+    "https://dqydj.com/ffmi-calculator/"
+   ]
+  },
+  {
+   "domain": "nakednutrition.com",
+   "bestRank": 9,
+   "keywords": 2,
+   "urls": [
+    "https://nakednutrition.com/pages/ffmi-calculator",
+    "https://nakednutrition.com/fr/pages/ffmi-calculator"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://inchcalculator.com/ffmi-calculator"
+   ]
+  },
+  {
+   "domain": "github.io",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://asadex.github.io/ffmi-calculator"
+   ]
+  },
+  {
+   "domain": "builtwithscience.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://builtwithscience.com/ffmi-calculator."
+   ]
+  },
+  {
+   "domain": "mennohenselmans.com",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://mennohenselmans.com/ffmi-calc"
+   ]
+  },
+  {
+   "domain": "legionathletics.com",
+   "bestRank": 13,
+   "keywords": 1,
+   "urls": [
+    "https://legionathletics.com/ffmi-calculator/"
+   ]
+  },
+  {
+   "domain": "stylecraze.com",
+   "bestRank": 14,
+   "keywords": 1,
+   "urls": [
+    "https://stylecraze.com/tools/fat-free-mass-index-ffmi-calculator"
+   ]
+  }
+ ]
+}
