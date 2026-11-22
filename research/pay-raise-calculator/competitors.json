@@ -1,0 +1,1039 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/finance/pay-raise": {
+   "url": "https://www.omnicalculator.com/finance/pay-raise",
+   "finalUrl": "https://www.omnicalculator.com/finance/pay-raise",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T17:03:41.796Z",
+   "title": "Pay Raise Calculator",
+   "metaDescription": "The pay raise calculator can help you to calculate the salary increase, given the current and future wage amounts, and vice versa.",
+   "canonical": "https://www.omnicalculator.com/finance/pay-raise",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Pay Raise Calculator"
+   ],
+   "h2": [
+    "How to calculate a salary increase using the calculator",
+    "An example of how to calculate a salary increase",
+    "How do I calculate a pay raise on my own?",
+    "When can you expect a pay raise",
+    "Got a bigger paycheck. But can money buy happiness?",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I calculate a 5% pay raise?",
+    "Is a 10% annual raise the same as a 10% monthly raise?",
+    "What pay raise do I need to gain an extra month's salary?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Pay Raise Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate a salary increase using the calculator"
+    },
+    {
+     "level": 2,
+     "text": "An example of how to calculate a salary increase"
+    },
+    {
+     "level": 2,
+     "text": "How do I calculate a pay raise on my own?"
+    },
+    {
+     "level": 2,
+     "text": "When can you expect a pay raise"
+    },
+    {
+     "level": 2,
+     "text": "Got a bigger paycheck. But can money buy happiness?"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate a 5% pay raise?"
+    },
+    {
+     "level": 3,
+     "text": "Is a 10% annual raise the same as a 10% monthly raise?"
+    },
+    {
+     "level": 3,
+     "text": "What pay raise do I need to gain an extra month's salary?"
+    }
+   ],
+   "wordCount": 1184,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "How do I calculate a pay raise on my own?",
+    "How do I calculate a 5% pay raise?",
+    "Is a 10% annual raise the same as a 10% monthly raise?",
+    "What pay raise do I need to gain an extra month's salary?",
+    "Got a bigger paycheck. But can money buy happiness?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "raise",
+     "weight": 36
+    },
+    {
+     "term": "salary",
+     "weight": 35
+    },
+    {
+     "term": "pay raise",
+     "weight": 24
+    },
+    {
+     "term": "pay",
+     "weight": 21
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "new",
+     "weight": 13
+    },
+    {
+     "term": "monthly",
+     "weight": 12
+    },
+    {
+     "term": "annual",
+     "weight": 10
+    },
+    {
+     "term": "percentage",
+     "weight": 9
+    },
+    {
+     "term": "you're",
+     "weight": 9
+    },
+    {
+     "term": "calculate",
+     "weight": 9
+    },
+    {
+     "term": "new salary",
+     "weight": 9
+    },
+    {
+     "term": "old salary",
+     "weight": 9
+    },
+    {
+     "term": "increase",
+     "weight": 8
+    },
+    {
+     "term": "earn",
+     "weight": 8
+    },
+    {
+     "term": "raise calculator",
+     "weight": 8
+    },
+    {
+     "term": "hourly",
+     "weight": 6
+    },
+    {
+     "term": "hourly weekly",
+     "weight": 6
+    },
+    {
+     "term": "weekly monthly",
+     "weight": 6
+    },
+    {
+     "term": "salary increase",
+     "weight": 6
+    },
+    {
+     "term": "raise percentage",
+     "weight": 6
+    },
+    {
+     "term": "salary old",
+     "weight": 6
+    },
+    {
+     "term": "old",
+     "weight": 6
+    },
+    {
+     "term": "weekly",
+     "weight": 5
+    },
+    {
+     "term": "amount",
+     "weight": 5
+    },
+    {
+     "term": "have",
+     "weight": 5
+    },
+    {
+     "term": "money",
+     "weight": 5
+    },
+    {
+     "term": "monthly annual",
+     "weight": 5
+    },
+    {
+     "term": "monthly salary",
+     "weight": 5
+    },
+    {
+     "term": "current salary",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Your current boss values your skills and offers you a pay raise of 10 % to convince you to stay in his company.",
+    "You enter the values into the pay raise calculator and see that after the raise, you would earn an additional $3,500, and your new monthly salary would be $38,500.",
+    "Rearrange the equation from the beginning of this section, and you will get this one: raise = (new salary − old salary) / old salary × 100% Let's say you used to earn $25 per hour, and now you're making $30.",
+    "raise = ($30 − $25) / $25 × 100% raise = 20% Your boss gave you a 20% pay raise.",
+    "To calculate a 5% pay raise, you only have to multiply the percentage of the increase (in decimals) by your current salary and add your current salary.",
+    "Surprisingly, a 10% annual raise is the same as a 10% monthly, weekly, or hourly raise.",
+    "Assuming your monthly salary is $1,000, a 10% monthly raise represents an extra $100 per month.",
+    "Similarly, if your annual salary is $12,000, a 10% annual raise represents $1,200 a year or $100 a month (dividing your new $1,200 raise by the 12 months contained in a year).",
+    "To gain one extra month of salary, your company will have to give you an 8.33% pay raise.",
+    "For example, if your monthly income is $1,000 and your boss gives you a generous 8.33% pay raise, your raise represents a total annual increase of $1,000."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 0,
+   "videos": 1,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Rita Rain",
+    "published": "2019-06-28T17:19:52.514Z",
+    "modified": "2026-09-03T17:41:00.012Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 1051,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 21,
+    "external": 2,
+    "contentInternal": 5,
+    "contentExternal": 2,
+    "internalAnchors": [
+     "gross to net calculator",
+     "time and a half calculator",
+     "percentage increase calculator",
+     "salary inflation calculator",
+     "future salary calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/finance/gross-to-net",
+     "https://www.omnicalculator.com/finance/time-and-a-half",
+     "https://www.omnicalculator.com/math/percentage-increase",
+     "https://www.omnicalculator.com/finance/salary-inflation",
+     "https://www.omnicalculator.com/finance/future-salary"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com",
+     "https://youtu.be/QbX6kuk4gAk"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.thecalculatorsite.com/finance/calculators/pay-raise.php": {
+   "url": "https://www.thecalculatorsite.com/finance/calculators/pay-raise.php",
+   "finalUrl": "https://www.thecalculatorsite.com/finance/calculators/pay-raise.php",
+   "mode": "offline-parse",
+   "domain": "www.thecalculatorsite.com",
+   "fetchedAt": "2026-11-22T17:03:45.085Z",
+   "title": "Pay Raise Calculator (Hourly, Weekly, Monthly, Yearly)",
+   "metaDescription": "Calculate the pay increase for an hourly, weekly, monthly or annual salary and see how your earnings increase.",
+   "canonical": "https://www.thecalculatorsite.com/finance/calculators/pay-raise.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Pay Raise Calculator"
+   ],
+   "h2": [
+    "How to use the pay raise calculator",
+    "What is a pay raise?",
+    "What is a typical annual pay raise?",
+    "How to calculate a percentage increase in salary",
+    "What's the difference between a flat raise and a percentage raise?",
+    "How to ask for a raise"
+   ],
+   "h3": [
+    "How much is a 5% pay raise?",
+    "Understanding overtime",
+    "Calculator references"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Pay Raise Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to use the pay raise calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is a pay raise?"
+    },
+    {
+     "level": 2,
+     "text": "What is a typical annual pay raise?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate a percentage increase in salary"
+    },
+    {
+     "level": 3,
+     "text": "How much is a 5% pay raise?"
+    },
+    {
+     "level": 2,
+     "text": "What's the difference between a flat raise and a percentage raise?"
+    },
+    {
+     "level": 3,
+     "text": "Understanding overtime"
+    },
+    {
+     "level": 2,
+     "text": "How to ask for a raise"
+    },
+    {
+     "level": 3,
+     "text": "Calculator references"
+    },
+    {
+     "level": 4,
+     "text": "Finance"
+    },
+    {
+     "level": 4,
+     "text": "Home & Garden"
+    },
+    {
+     "level": 4,
+     "text": "Cooking"
+    },
+    {
+     "level": 4,
+     "text": "Website"
+    }
+   ],
+   "wordCount": 1888,
+   "avgSentenceWords": 23,
+   "faqs": [
+    "What is a pay raise?",
+    "What is a typical annual pay raise?",
+    "How much is a 5% pay raise?",
+    "What's the difference between a flat raise and a percentage raise?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "calculator",
+     "weight": 65
+    },
+    {
+     "term": "raise",
+     "weight": 52
+    },
+    {
+     "term": "pay",
+     "weight": 28
+    },
+    {
+     "term": "salary",
+     "weight": 28
+    },
+    {
+     "term": "pay raise",
+     "weight": 21
+    },
+    {
+     "term": "grams",
+     "weight": 19
+    },
+    {
+     "term": "percentage",
+     "weight": 18
+    },
+    {
+     "term": "increase",
+     "weight": 14
+    },
+    {
+     "term": "feet",
+     "weight": 12
+    },
+    {
+     "term": "cups",
+     "weight": 11
+    },
+    {
+     "term": "current",
+     "weight": 11
+    },
+    {
+     "term": "calculators",
+     "weight": 9
+    },
+    {
+     "term": "square",
+     "weight": 9
+    },
+    {
+     "term": "pounds",
+     "weight": 9
+    },
+    {
+     "term": "current salary",
+     "weight": 9
+    },
+    {
+     "term": "rate",
+     "weight": 8
+    },
+    {
+     "term": "cubic",
+     "weight": 8
+    },
+    {
+     "term": "it's",
+     "weight": 8
+    },
+    {
+     "term": "company",
+     "weight": 8
+    },
+    {
+     "term": "percentage raise",
+     "weight": 8
+    },
+    {
+     "term": "flat raise",
+     "weight": 8
+    },
+    {
+     "term": "interest",
+     "weight": 7
+    },
+    {
+     "term": "hourly",
+     "weight": 7
+    },
+    {
+     "term": "ounces",
+     "weight": 7
+    },
+    {
+     "term": "weight",
+     "weight": 7
+    },
+    {
+     "term": "finance",
+     "weight": 6
+    },
+    {
+     "term": "compound interest",
+     "weight": 6
+    },
+    {
+     "term": "interest calculator",
+     "weight": 6
+    },
+    {
+     "term": "raise calculator",
+     "weight": 6
+    },
+    {
+     "term": "inches",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "3 Let’s break these down: Inflation Rates: Pay raises often correlate with the cost of living adjustments based on inflation rates.",
+    "For example, a 5% raise on a $30,000 salary is an additional $1,500.",
+    "To calculate a 5% pay raise: Step 1: Convert the raise percentage to a decimal.",
+    "Your new salary after a 5% raise would be $31,500.",
+    "For example, if your company decides to give a flat raise of $2,000, everyone gets an additional $2,000 to their annual salary, whether they were making $30,000 or $60,000.",
+    "As an example, a 5% raise for someone earning $50,000 a year would be $2,500, whereas for someone earning $80,000, it would be $4,000."
+   ],
+   "schemaTypes": [],
+   "schemaFormats": [],
+   "tables": 0,
+   "lists": 32,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "I want to calculate/convert...",
+    "$",
+    "€",
+    "£",
+    "₹",
+    "¥",
+    "currency",
+    "Hourly",
+    "Daily",
+    "Weekly",
+    "Monthly",
+    "Yearly",
+    "Pay per hour before raise:",
+    "Hours per week:",
+    "daysPerWeek",
+    "Raise by %",
+    "Raise by amount",
+    "New pay rate",
+    "Percentage raise:",
+    "raiseInterval"
+   ],
+   "selectOptionsSample": "7 days 6 days 5 days 4 days 3 days 2 days 1 day per hour per day per week per month per year",
+   "unitToggle": false,
+   "wordsBeforeTool": 7,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": [
+     "https://www.gov.uk/income-tax-rates"
+    ]
+   },
+   "ux": {
+    "htmlKB": 768,
+    "adNetworks": [
+     "gpt",
+     "adthrive",
+     "ezoic"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 165,
+    "external": 7,
+    "contentInternal": 165,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "Finance Calculators",
+     "Compound Interest",
+     "Compound Interest (Daily)",
+     "Amortization Calculator",
+     "APY Calculator",
+     "CAGR Calculator",
+     "Car Loan Calculator",
+     "Cash Back Calculator",
+     "Currency Converter",
+     "Forex Compounding",
+     "Future Value Calculator",
+     "How Long to Save",
+     "Interest Rate Calculator",
+     "Investment Calculator",
+     "IRR Calculator",
+     "Loan Calculator",
+     "Loan Payoff Calculator",
+     "Margin Calculator",
+     "Million to Billion Converter",
+     "MMA Calculator"
+    ],
+    "internalSample": [
+     "https://www.thecalculatorsite.com/",
+     "https://www.thecalculatorsite.com/finance/",
+     "https://www.thecalculatorsite.com/finance/calculators/compoundinterestcalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/daily-compound-interest.php",
+     "https://www.thecalculatorsite.com/finance/calculators/amortization-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/apy-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/cagr-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/carloancalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/cash-back.php",
+     "https://www.thecalculatorsite.com/finance/calculators/currencyconverter.php",
+     "https://www.thecalculatorsite.com/finance/calculators/forex-compound-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/future-value-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/how-long-to-save",
+     "https://www.thecalculatorsite.com/finance/calculators/interest-rate-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/investment-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/irr-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/loancalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/loan-payoff-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/margin-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/million-billion",
+     "https://www.thecalculatorsite.com/finance/calculators/money-market-account.php",
+     "https://www.thecalculatorsite.com/finance/calculators/money-counter.php",
+     "https://www.thecalculatorsite.com/finance/calculators/price-per-sqft.php",
+     "https://www.thecalculatorsite.com/finance/calculators/savings-calculators.php",
+     "https://www.thecalculatorsite.com/finance/calculators/savings-goal-calculator.php"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=thecalculatorsite.com",
+     "https://www.forbes.com/advisor/taxes/taxes-federal-income-tax-bracket/",
+     "https://www.gov.uk/income-tax-rates",
+     "https://www.thecut.com/article/how-to-ask-for-a-raise.html",
+     "https://www.investopedia.com/financial-edge/0212/how-getting-a-raise-affects-your-taxes.aspx",
+     "https://www.indeed.com/career-advice/pay-salary/what-is-a-reasonable-raise",
+     "https://www.investopedia.com/articles/personal-finance/090415/salary-secrets-what-considered-big-raise.asp"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/pay-raise-calculator/": {
+   "url": "https://www.inchcalculator.com/pay-raise-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/pay-raise-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T17:03:48.151Z",
+   "title": "Pay Raise Calculator - Calculate Salary Increase - Inch Calculator",
+   "metaDescription": "Use our pay raise calculator to calculate your new wages after a raise. The calculator supports hourly or salary pay increases.",
+   "canonical": "https://www.inchcalculator.com/pay-raise-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Pay Raise Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: New Pay and Wages",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate a Pay Raise",
+    "How to Calculate a New Annual Salary After a Pay Raise",
+    "How to Calculate a Raise Amount After a Pay Increase",
+    "Frequently Asked Questions",
+    "Similar Personal Finance Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Percentage Pay Raise Formula",
+    "Amount Pay Raise Formula",
+    "New Hourly Rate Formula",
+    "What is a typical annual pay raise?",
+    "How often should employees get a raise?",
+    "Will you owe taxes if you get a raise?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Pay Raise Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: New Pay and Wages"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate a Pay Raise"
+    },
+    {
+     "level": 3,
+     "text": "Percentage Pay Raise Formula"
+    },
+    {
+     "level": 3,
+     "text": "Amount Pay Raise Formula"
+    },
+    {
+     "level": 3,
+     "text": "New Hourly Rate Formula"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate a New Annual Salary After a Pay Raise"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate a Raise Amount After a Pay Increase"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "What is a typical annual pay raise?"
+    },
+    {
+     "level": 3,
+     "text": "How often should employees get a raise?"
+    },
+    {
+     "level": 3,
+     "text": "Will you owe taxes if you get a raise?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Personal Finance Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 1232,
+   "avgSentenceWords": 26,
+   "faqs": [
+    "What is a typical annual pay raise?",
+    "How often should employees get a raise?",
+    "Will you owe taxes if you get a raise?"
+   ],
+   "faqSchemaCount": 3,
+   "topics": [
+    {
+     "term": "pay",
+     "weight": 70
+    },
+    {
+     "term": "raise",
+     "weight": 57
+    },
+    {
+     "term": "pay raise",
+     "weight": 38
+    },
+    {
+     "term": "new",
+     "weight": 31
+    },
+    {
+     "term": "calculate",
+     "weight": 28
+    },
+    {
+     "term": "new pay",
+     "weight": 23
+    },
+    {
+     "term": "salary",
+     "weight": 20
+    },
+    {
+     "term": "rate",
+     "weight": 18
+    },
+    {
+     "term": "pay rate",
+     "weight": 17
+    },
+    {
+     "term": "annual",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "after",
+     "weight": 14
+    },
+    {
+     "term": "increase",
+     "weight": 13
+    },
+    {
+     "term": "current",
+     "weight": 12
+    },
+    {
+     "term": "current pay",
+     "weight": 12
+    },
+    {
+     "term": "percentage",
+     "weight": 12
+    },
+    {
+     "term": "annual pay",
+     "weight": 12
+    },
+    {
+     "term": "amount",
+     "weight": 11
+    },
+    {
+     "term": "formula",
+     "weight": 10
+    },
+    {
+     "term": "hour",
+     "weight": 10
+    },
+    {
+     "term": "pay increase",
+     "weight": 9
+    },
+    {
+     "term": "new salary",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "raise percentage",
+     "weight": 8
+    },
+    {
+     "term": "annual salary",
+     "weight": 8
+    },
+    {
+     "term": "hourly",
+     "weight": 7
+    },
+    {
+     "term": "old",
+     "weight": 7
+    },
+    {
+     "term": "raise calculator",
+     "weight": 6
+    },
+    {
+     "term": "hours",
+     "weight": 6
+    },
+    {
+     "term": "weekly",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "For example, let’s calculate your hourly pay after a 3% raise if you currently make $20 per hour.",
+    "A 3% raise is a typical increase that employers use to help employees keep up with inflation and the increased cost of living.",
+    "Enter the $20 hourly rate and 3% raise into the formula above to calculate your new pay rate: new pay = $20 + ($20 × 3%) new pay = $20 + $0.60 new pay = $20.60 So, after a 3% pay raise, you would make $20.60 per hour.",
+    "If instead, you were making $30 per hour, a 3% raise would increase your pay rate to $30.90 per hour.",
+    "Finally, calculate the annual pay by multiplying the weekly pay by 52 (the number of weeks in a year).",
+    "You can also calculate the annual salary by multiplying the pay rates by 2,080, which is the total hours worked in a year, assuming a 40-hour workweek.",
+    "Using the example above, let’s calculate your new salary if your pay rate increased from $20 to $20.60 per hour after a 3% pay raise.",
+    "Given a 40-hour work week, the calculation for your current pay is: old weekly pay = 40 × $20 = $800 new weekly pay = 40 × $20.60 = $824 Thus, you’d make an extra $24 per week if you got a 3% raise.",
+    "For example, let’s calculate the new salary after a 5% raise for an employee with a salary of $40,000.",
+    "$40,000 × 0.05 = $2,000 So, this employee’s raise is $2,000 per year."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 3,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "Normal Pay Rate",
+    "Normal Pay Rate Units",
+    "Hours per Week",
+    "Raise Type",
+    "New Pay Rate",
+    "New Pay Rate Units",
+    "Pay Raise",
+    "Pay Raise Units",
+    "Pay Raise"
+   ],
+   "selectOptionsSample": "per hour per week per month per year raise by percentage raise by amount new pay rate per hour per week per month per year per hour per week per month per year",
+   "unitToggle": false,
+   "wordsBeforeTool": 30,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joseph Rich",
+    "published": "2022-07-28",
+    "modified": "2026-04-10T16:53:30+00:00",
+    "authoritativeSources": [
+     "https://www.irs.gov/individuals/tax-withholding-estimator"
+    ]
+   },
+   "ux": {
+    "htmlKB": 127,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 48,
+    "external": 14,
+    "contentInternal": 24,
+    "contentExternal": 8,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate a Pay Raise",
+     "Percentage Pay Raise Formula",
+     "Amount Pay Raise Formula",
+     "New Hourly Rate Formula",
+     "How to Calculate a New Annual Salary After a Pay Raise",
+     "How to Calculate a Raise Amount After a Pay Increase",
+     "Frequently Asked Questions",
+     "References",
+     "Full bio",
+     "Pay Raise Calculator",
+     "percentage",
+     "hours calculator",
+     "hourly to salary calculator",
+     "monthly income",
+     "salary to hourly converter",
+     "Overtime Calculator",
+     "Hours Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/pay-raise-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/pay-raise/",
+     "https://www.inchcalculator.com/pay-raise-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/pay-raise-calculator/#idx_how_to_calculate_a_pay_raise",
+     "https://www.inchcalculator.com/pay-raise-calculator/#idx_percentage_pay_raise_formula",
+     "https://www.inchcalculator.com/pay-raise-calculator/#idx_amount_pay_raise_formula",
+     "https://www.inchcalculator.com/pay-raise-calculator/#idx_new_hourly_rate_formula",
+     "https://www.inchcalculator.com/pay-raise-calculator/#idx_how_to_calculate_a_new_annual_salary_after_a_pay_raise",
+     "https://www.inchcalculator.com/pay-raise-calculator/#idx_how_to_calculate_a_raise_amount_after_a_pay_increase",
+     "https://www.inchcalculator.com/pay-raise-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/pay-raise-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/joseph-rich/",
+     "https://www.inchcalculator.com/author/laura-deimling/",
+     "https://www.inchcalculator.com/pay-raise-calculator/",
+     "https://www.inchcalculator.com/percentage-calculator/",
+     "https://www.inchcalculator.com/hours-calculator/",
+     "https://www.inchcalculator.com/hourly-to-salary-calculator/",
+     "https://www.inchcalculator.com/monthly-income-calculator/",
+     "https://www.inchcalculator.com/salary-to-hourly-calculator/",
+     "https://www.inchcalculator.com/overtime-calculator/",
+     "https://www.inchcalculator.com/fair-bill-split-calculator/",
+     "https://www.inchcalculator.com/split-bill-calculator/",
+     "https://www.inchcalculator.com/reverse-sales-tax-calculator/",
+     "https://www.inchcalculator.com/personal-finance-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fpay-raise-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fpay-raise-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fpay-raise-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fpay-raise-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fpay-raise-calculator%2F&text=Pay+Raise+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fpay-raise-calculator%2F&text=Pay+Raise+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://www.irs.gov/individuals/tax-withholding-estimator"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.calculatorsoup.com/calculators/financial/pay-raise-calculator.php": [
+   "HTTP 404"
+  ]
+ }
+}

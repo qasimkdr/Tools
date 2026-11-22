@@ -1,0 +1,278 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/everyday-life/audiobook-speed": {
+   "url": "https://www.omnicalculator.com/everyday-life/audiobook-speed",
+   "finalUrl": "https://www.omnicalculator.com/everyday-life/audiobook-speed",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T17:03:54.924Z",
+   "title": "Audiobook Speed Calculator",
+   "metaDescription": "Effortlessly calculate audiobook listening time with our convenient audiobook speed calculator.",
+   "canonical": "https://www.omnicalculator.com/everyday-life/audiobook-speed",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Audiobook Speed Calculator"
+   ],
+   "h2": [
+    "Why would I need to calculate the audiobook time?",
+    "Calculating audiobook time: some practical examples.",
+    "How does the audiobook speed calculator work?",
+    "How to use the audiobook speed calculator"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Audiobook Speed Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Why would I need to calculate the audiobook time?"
+    },
+    {
+     "level": 2,
+     "text": "Calculating audiobook time: some practical examples."
+    },
+    {
+     "level": 4,
+     "text": "Scenario 1: Complex physics book"
+    },
+    {
+     "level": 4,
+     "text": "Scenario 2: Limited free time"
+    },
+    {
+     "level": 4,
+     "text": "Scenario 3: Time constraints"
+    },
+    {
+     "level": 2,
+     "text": "How does the audiobook speed calculator work?"
+    },
+    {
+     "level": 4,
+     "text": "Total listening time"
+    },
+    {
+     "level": 4,
+     "text": "Listening time saved"
+    },
+    {
+     "level": 2,
+     "text": "How to use the audiobook speed calculator"
+    }
+   ],
+   "wordCount": 1321,
+   "avgSentenceWords": 22,
+   "faqs": [
+    "Why would I need to calculate the audiobook time?",
+    "Will you have enough time now to listen to the entire audiobook before your exam?",
+    "How does the audiobook speed calculator work?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "audiobook",
+     "weight": 43
+    },
+    {
+     "term": "speed",
+     "weight": 38
+    },
+    {
+     "term": "listening",
+     "weight": 36
+    },
+    {
+     "term": "playback speed",
+     "weight": 33
+    },
+    {
+     "term": "playback",
+     "weight": 24
+    },
+    {
+     "term": "audiobook length",
+     "weight": 23
+    },
+    {
+     "term": "total listening",
+     "weight": 23
+    },
+    {
+     "term": "calculator",
+     "weight": 21
+    },
+    {
+     "term": "length",
+     "weight": 17
+    },
+    {
+     "term": "total",
+     "weight": 15
+    },
+    {
+     "term": "speed calculator",
+     "weight": 14
+    },
+    {
+     "term": "audiobook speed",
+     "weight": 11
+    },
+    {
+     "term": "saved",
+     "weight": 9
+    },
+    {
+     "term": "hours",
+     "weight": 9
+    },
+    {
+     "term": "have",
+     "weight": 8
+    },
+    {
+     "term": "audiobook calculator",
+     "weight": 8
+    },
+    {
+     "term": "reading",
+     "weight": 7
+    },
+    {
+     "term": "book",
+     "weight": 7
+    },
+    {
+     "term": "values",
+     "weight": 7
+    },
+    {
+     "term": "audiobooks",
+     "weight": 6
+    },
+    {
+     "term": "listen",
+     "weight": 6
+    },
+    {
+     "term": "know",
+     "weight": 5
+    },
+    {
+     "term": "length playback",
+     "weight": 5
+    },
+    {
+     "term": "relationship between",
+     "weight": 5
+    },
+    {
+     "term": "books",
+     "weight": 4
+    },
+    {
+     "term": "enjoy",
+     "weight": 4
+    },
+    {
+     "term": "need",
+     "weight": 4
+    },
+    {
+     "term": "take",
+     "weight": 4
+    },
+    {
+     "term": "now",
+     "weight": 4
+    },
+    {
+     "term": "input",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "Scenario 2: Limited free time Suppose you have only 30 minutes of free time per day and wish to know how the playback speed affects the number of audiobooks you can listen to in a month.",
+    "Scenario 3: Time constraints While selecting a new audiobook, you realize you face some constraints: you can only spend about 6 hours listening to the entire book, and your maximum playback speed is two."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 2,
+   "images": 0,
+   "videos": 1,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Luna Maldonado Fontes",
+    "published": "2023-06-03T08:08:38.927Z",
+    "modified": "2026-01-27T08:38:01.154Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 567,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 20,
+    "external": 2,
+    "contentInternal": 4,
+    "contentExternal": 2,
+    "internalAnchors": [
+     "how to use this calculator",
+     "reading speed",
+     "reading time calculator",
+     "audiobooks calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/everyday-life/audiobook-speed#why-would-i-need-to-calculate-the-audiobook-time",
+     "https://www.omnicalculator.com/everyday-life/reading-speed",
+     "https://www.omnicalculator.com/everyday-life/reading-time",
+     "https://www.omnicalculator.com/everyday-life/audiobooks"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com",
+     "https://youtu.be/dxeVBYxk_F0"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.calculate.co.nz/audiobook-speed-calculator.php": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

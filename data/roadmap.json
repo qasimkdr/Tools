@@ -8111,7 +8111,7 @@
     "www.calculator.net/body-fat-calculator.html"
    ],
    "category": "health",
-   "status": "todo",
+   "status": "live",
    "order": 79,
    "batch": 8
   },
@@ -8159,7 +8159,7 @@
     "www.calculator.net/tile-calculator.html"
    ],
    "category": "construction",
-   "status": "todo",
+   "status": "live",
    "order": 80,
    "batch": 8
   },
@@ -8197,7 +8197,7 @@
    ],
    "competitors": [],
    "category": "everyday",
-   "status": "todo",
+   "status": "live",
    "order": 81,
    "batch": 9
   },
@@ -8252,7 +8252,7 @@
     "www.omnicalculator.com/finance/pay-raise"
    ],
    "category": "finance",
-   "status": "todo",
+   "status": "live",
    "order": 82,
    "batch": 9
   },
@@ -8281,7 +8281,7 @@
    ],
    "competitors": [],
    "category": "science",
-   "status": "todo",
+   "status": "live",
    "order": 83,
    "batch": 9
   },

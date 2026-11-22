@@ -82,11 +82,11 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 13 on policy hold).
 | 76 | 8 | live | Height Calculator | `height-calculator` | health | khamis-roche method height calculator | 1600 | 11 | 110300 | 1 |
 | 77 | 8 | live | Weighted Mean Calculator | `weighted-mean-calculator` | health | weighted mean calculator | 3600 | 11 | 3600 | 1 |
 | 78 | 8 | live | Standard Deviation Calculator | `standard-deviation-calculator` | math | mean and standard deviation calculator | 1900 | 5 | 40300 | 2 |
-| 79 | 8 | todo | Body Fat Calculator | `body-fat-calculator` | health | body fat calculator u.s. navy | 3600 | 26 | 35000 | 1 |
-| 80 | 8 | todo | Tile Calculator | `tile-calculator` | construction | tile sq ft calculator | 1000 | 4 | 12500 | 1 |
-| 81 | 9 | todo | Sourdough Calculator | `sourdough-calculator` | everyday | sourdough calculator | 1600 | 1 | 2600 | 2 |
-| 82 | 9 | todo | Pay Raise Calculator | `pay-raise-calculator` | finance | pay raise calculator | 18100 | 26 | 38200 | 1 |
-| 83 | 9 | todo | Audiobook Speed Calculator | `audiobook-speed-calculator` | science | audiobook speed calculator | 3600 | 12 | 3600 | 1 |
+| 79 | 8 | live | Body Fat Calculator | `body-fat-calculator` | health | body fat calculator u.s. navy | 3600 | 26 | 35000 | 1 |
+| 80 | 8 | live | Tile Calculator | `tile-calculator` | construction | tile sq ft calculator | 1000 | 4 | 12500 | 1 |
+| 81 | 9 | live | Sourdough Calculator | `sourdough-calculator` | everyday | sourdough calculator | 1600 | 1 | 2600 | 2 |
+| 82 | 9 | live | Pay Raise Calculator | `pay-raise-calculator` | finance | pay raise calculator | 18100 | 26 | 38200 | 1 |
+| 83 | 9 | live | Audiobook Speed Calculator | `audiobook-speed-calculator` | science | audiobook speed calculator | 3600 | 12 | 3600 | 1 |
 | 84 | 9 | todo | Cd Calculator | `cd-calculator` | finance | cd interest calculator | 14800 | 26 | 75700 | 1 |
 | 85 | 9 | todo | Area Calculator | `area-calculator` | math | surface area calculator | 6600 | 22 | 471800 | 1 |
 | 86 | 9 | todo | Grade Curve Calculator | `grade-curve-calculator` | education | grade curve calculator | 1900 | 4 | 2900 | 2 |

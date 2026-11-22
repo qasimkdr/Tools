@@ -1,0 +1,248 @@
+{
+ "keywords": {
+  "tile sq ft calculator": {
+   "fetchedAt": "2026-11-22T17:03:12.348Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1000,
+   "fileKd": 4,
+   "fileIntent": "C",
+   "semrushCompetitor": {
+    "position": 2,
+    "url": "www.calculator.net/tile-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://inchcalculator.com/tile-calculator",
+     "domain": "inchcalculator.com",
+     "title": "Tile Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.angi.com/articles/tile-calculator.htm",
+     "domain": "www.angi.com",
+     "title": "tile calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.angi.com/articles/how-to-measure-square-feet-for-tile.htm",
+     "domain": "www.angi.com",
+     "title": "How to Measure Square Feet for Tile So You Don’t Fall Short",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://interiors-vre.centralindia.cloudapp.azure.com/tools/tile-calculator",
+     "domain": "interiors-vre.centralindia.cloudapp.azure.com",
+     "title": "tile calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.homedit.com/calculators/tile-calculator",
+     "domain": "www.homedit.com",
+     "title": "Tile Calculator: How Many Tiles Do I Need?",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.bankrate.com/loans/home-improvement/measure-ceramic-tile-footage-calculator",
+     "domain": "www.bankrate.com",
+     "title": "measure ceramic tile footage calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://xilong8026-lgtm.github.io/homecalc-tools/tile-calculator.html",
+     "domain": "xilong8026-lgtm.github.io",
+     "title": "🔲 Tile Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.genrose.com/Resources/Tile-Calculator/",
+     "domain": "www.genrose.com",
+     "title": "Tile Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php?do=pop",
+     "domain": "www.calculatorsoup.com",
+     "title": "square footage calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.diy.com/ideas-advice/calculators/tiling-calculator",
+     "domain": "www.diy.com",
+     "title": "DIY Supplies & Accessories",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.protoolreviews.com/wp-content/uploads/tile-calculator.html",
+     "domain": "www.protoolreviews.com",
+     "title": "Number of areas",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://kofflersales.com/tools/floor-tile-calculator",
+     "domain": "kofflersales.com",
+     "title": "Tile Calculator – Estimate Tile, Cost & Square Footage",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.omnicalculator.com/construction/tile?c=ZAR",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://webcf.waybackmachine.org/web/20170916023738/http:/www.improvenet.com/r/ceramic-tile-calculator",
+     "domain": "webcf.waybackmachine.org",
+     "title": "Let's get started on your project! Get Free Quotes",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://www.homeadvisor.com/r/resilient-tile-calculator/",
+     "domain": "www.homeadvisor.com",
+     "title": "Resilient Tile Calculator",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://billd.com/calculators/tile/",
+     "domain": "billd.com",
+     "title": "The 2026 Market Report is hereDownload",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://mycalcbuddy.com/construction/tile-calculator",
+     "domain": "mycalcbuddy.com",
+     "title": "Tile Calculator",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://www.homedepot.ca/en/home/ideas-how-to/floors/how-to-calculate-square-footage.html",
+     "domain": "www.homedepot.ca",
+     "title": "Get Father’s Day gifts with free delivery.  Shop Event",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://www.homeadvisor.com/r/tile-calculator",
+     "domain": "www.homeadvisor.com",
+     "title": "tile calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "tile-calculator",
+ "page": "tile-calculator",
+ "category": "construction",
+ "name": "Tile Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T17:03:12.349Z",
+ "topCompetitors": [
+  {
+   "domain": "angi.com",
+   "bestRank": 2,
+   "keywords": 2,
+   "urls": [
+    "https://www.angi.com/articles/tile-calculator.htm",
+    "https://www.angi.com/articles/how-to-measure-square-feet-for-tile.htm"
+   ]
+  },
+  {
+   "domain": "homeadvisor.com",
+   "bestRank": 15,
+   "keywords": 2,
+   "urls": [
+    "https://www.homeadvisor.com/r/resilient-tile-calculator/",
+    "https://www.homeadvisor.com/r/tile-calculator"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://inchcalculator.com/tile-calculator"
+   ]
+  },
+  {
+   "domain": "azure.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://interiors-vre.centralindia.cloudapp.azure.com/tools/tile-calculator"
+   ]
+  },
+  {
+   "domain": "homedit.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.homedit.com/calculators/tile-calculator"
+   ]
+  },
+  {
+   "domain": "bankrate.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.bankrate.com/loans/home-improvement/measure-ceramic-tile-footage-calculator"
+   ]
+  },
+  {
+   "domain": "github.io",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://xilong8026-lgtm.github.io/homecalc-tools/tile-calculator.html"
+   ]
+  },
+  {
+   "domain": "genrose.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.genrose.com/Resources/Tile-Calculator/"
+   ]
+  },
+  {
+   "domain": "calculatorsoup.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php?do=pop"
+   ]
+  },
+  {
+   "domain": "diy.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://www.diy.com/ideas-advice/calculators/tiling-calculator"
+   ]
+  }
+ ]
+}

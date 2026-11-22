@@ -1,0 +1,254 @@
+{
+ "keywords": {
+  "sourdough calculator": {
+   "fetchedAt": "2026-11-22T17:03:12.465Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1600,
+   "fileKd": 1,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://omnicalculator.com/food/sourdough",
+     "domain": "omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://miniwebtool.com/sourdough-calculator",
+     "domain": "miniwebtool.com",
+     "title": "sourdough calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://observablehq.com/@sourdough-calculator-with-rise-percent/sourdough-calculator",
+     "domain": "observablehq.com",
+     "title": "sourdough calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.thefreshloaf.com/comment/311035",
+     "domain": "www.thefreshloaf.com",
+     "title": "Sourdough Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://tally.so/r/jaWj4J",
+     "domain": "tally.so",
+     "title": "Form cover",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://bakingwithbutter.com/sourdough-bread-hydration-calculator/",
+     "domain": "bakingwithbutter.com",
+     "title": "sourdough bread hydration calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.sourdough.co.uk/?p=3080",
+     "domain": "www.sourdough.co.uk",
+     "title": "www.sourdough.co.uk",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://wolverine-pike-kmdm.squarespace.com/calculators",
+     "domain": "wolverine-pike-kmdm.squarespace.com",
+     "title": "Already a Member?",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.sourdough.co.uk/sourdough-hydration-calculator/",
+     "domain": "www.sourdough.co.uk",
+     "title": "• Skip to main content",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://npmjs.com/package/bakers-math",
+     "domain": "npmjs.com",
+     "title": "Baker's percentage calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.gigacalculator.com/calculators/bread-calculator.php",
+     "domain": "www.gigacalculator.com",
+     "title": "Bread Calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://bakingwithbutter.com/?p=10415",
+     "domain": "bakingwithbutter.com",
+     "title": "bakingwithbutter.com",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.thefreshloaf.com/node/22944/dough-hydration-calculator",
+     "domain": "www.thefreshloaf.com",
+     "title": "dough hydration calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://toolv.com/en/app/sourdough-calculator",
+     "domain": "toolv.com",
+     "title": "sourdough calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://thatsourdoughgal.com/sourdough-hydration-level-and-bakers-percentage-calculator/",
+     "domain": "thatsourdoughgal.com",
+     "title": "Sourdough Baker’s Percentage & Hydration Level Calculator",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://missvickie.com/?p=47973",
+     "domain": "missvickie.com",
+     "title": "Sourdough Starter Calculator: Feeding Ratios & Hydration",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://thepeasantsdaughter.net/sourdough-calculator/",
+     "domain": "thepeasantsdaughter.net",
+     "title": "Sourdough Calculator",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://calculators.sg/sourdough-calculator",
+     "domain": "calculators.sg",
+     "title": "Sourdough Calculator",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://thatsourdoughgal.com/category/sourdough-calculators/",
+     "domain": "thatsourdoughgal.com",
+     "title": "sourdough calculators",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://crunchmilk.pages.dev/sourdough-calculator/",
+     "domain": "crunchmilk.pages.dev",
+     "title": "sourdough calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "sourdough-calculator",
+ "page": "sourdough-calculator",
+ "category": "everyday",
+ "name": "Sourdough Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T17:03:12.466Z",
+ "topCompetitors": [
+  {
+   "domain": "thefreshloaf.com",
+   "bestRank": 4,
+   "keywords": 2,
+   "urls": [
+    "https://www.thefreshloaf.com/comment/311035",
+    "https://www.thefreshloaf.com/node/22944/dough-hydration-calculator"
+   ]
+  },
+  {
+   "domain": "bakingwithbutter.com",
+   "bestRank": 6,
+   "keywords": 2,
+   "urls": [
+    "https://bakingwithbutter.com/sourdough-bread-hydration-calculator/",
+    "https://bakingwithbutter.com/?p=10415"
+   ]
+  },
+  {
+   "domain": "sourdough.co.uk",
+   "bestRank": 7,
+   "keywords": 2,
+   "urls": [
+    "https://www.sourdough.co.uk/?p=3080",
+    "https://www.sourdough.co.uk/sourdough-hydration-calculator/"
+   ]
+  },
+  {
+   "domain": "thatsourdoughgal.com",
+   "bestRank": 15,
+   "keywords": 2,
+   "urls": [
+    "https://thatsourdoughgal.com/sourdough-hydration-level-and-bakers-percentage-calculator/",
+    "https://thatsourdoughgal.com/category/sourdough-calculators/"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://omnicalculator.com/food/sourdough"
+   ]
+  },
+  {
+   "domain": "miniwebtool.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://miniwebtool.com/sourdough-calculator"
+   ]
+  },
+  {
+   "domain": "observablehq.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://observablehq.com/@sourdough-calculator-with-rise-percent/sourdough-calculator"
+   ]
+  },
+  {
+   "domain": "tally.so",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://tally.so/r/jaWj4J"
+   ]
+  },
+  {
+   "domain": "squarespace.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://wolverine-pike-kmdm.squarespace.com/calculators"
+   ]
+  },
+  {
+   "domain": "npmjs.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://npmjs.com/package/bakers-math"
+   ]
+  }
+ ]
+}

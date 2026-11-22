@@ -1,0 +1,254 @@
+{
+ "keywords": {
+  "audiobook speed calculator": {
+   "fetchedAt": "2026-11-22T17:03:12.683Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 3600,
+   "fileKd": 12,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://omnicalculator.com/everyday-life/audiobook-speed",
+     "domain": "omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.producthunt.com/products/audiobook-speed-calculator-4/launches/audiobook-speed-calculator-5",
+     "domain": "www.producthunt.com",
+     "title": "Audiobook Speed Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://fable.co/blog/find-your-perfect-listening-pace",
+     "domain": "fable.co",
+     "title": "Find your perfect listening pace",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.producthunt.com/products/audiobook-speed-calculator-4/reviews",
+     "domain": "www.producthunt.com",
+     "title": "Audiobook Speed Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://codeshack.io/audiobook-speed-calculator/",
+     "domain": "codeshack.io",
+     "title": "Audio Length",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.calculate.co.nz/audiobook-speed-calculator.php",
+     "domain": "www.calculate.co.nz",
+     "title": "Audiobook Speed Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://puretables.com/audiobook-speed-calculator",
+     "domain": "puretables.com",
+     "title": "Audiobook Speed Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://gitlab.kicon.fri.uniza.sk/ypodelores9138/audiobooks-speed-calculator3029/issues/1",
+     "domain": "gitlab.kicon.fri.uniza.sk",
+     "title": "Save Hours with Speed Listening",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://goonlinetools.com/audiobook-speed-calculator",
+     "domain": "goonlinetools.com",
+     "title": "Audiobook Speed Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://totalcalchub.com/us/utilities/audiobook-calculator-speed",
+     "domain": "totalcalchub.com",
+     "title": "audiobook calculator speed",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://clickcalculators.com/audiobook-speed-calculator",
+     "domain": "clickcalculators.com",
+     "title": "audiobook speed calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.toolsoverflow.com/calculator/audiobook-speed-calculator",
+     "domain": "www.toolsoverflow.com",
+     "title": "Audiobook Speed Calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://servergit.itb.edu.ec/hans74b3922575/1061739/wiki/Audio-book-speed-calculator",
+     "domain": "servergit.itb.edu.ec",
+     "title": "Audio book speed calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://calcbee.pages.dev/calculators/productivity/time/audiobook-speed",
+     "domain": "calcbee.pages.dev",
+     "title": "Audiobook Speed Calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://www.goodreads.com/author_blog_posts/24088870-5-quick-and-easy-reading-calculators-to-optimize-your-reading-goals",
+     "domain": "www.goodreads.com",
+     "title": "5 Quick and Easy Reading Calculators to Optimize Your Reading Goals",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://timenavigator-org.pages.dev/audiobook-speed-calculator/",
+     "domain": "timenavigator-org.pages.dev",
+     "title": "Audiobook Speed Calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://batteryzone-org.pages.dev/audiobook-speed-calculator/",
+     "domain": "batteryzone-org.pages.dev",
+     "title": "Audiobook Speed Calculator: Optimize Your Listening Time",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://dash-calculator-ef2.pages.dev/calculators/audiobook-speed",
+     "domain": "dash-calculator-ef2.pages.dev",
+     "title": "Audiobook Speed Calculator",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://codingace.net/everyday-life/audiobook_speed.html",
+     "domain": "codingace.net",
+     "title": "Audiobook Speed Calculator",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://git.lumilogix.de/carinakreider/audiobook-speed-calculator4910/wiki/Master-Your-Audiobook-Listening-with-the-Audiobook-Speed-Calculator",
+     "domain": "git.lumilogix.de",
+     "title": "Master Your Audiobook Listening with the Audiobook Speed Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "audiobook-speed-calculator",
+ "page": "audiobook-speed-calculator",
+ "category": "science",
+ "name": "Audiobook Speed Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T17:03:12.684Z",
+ "topCompetitors": [
+  {
+   "domain": "pages.dev",
+   "bestRank": 14,
+   "keywords": 4,
+   "urls": [
+    "https://calcbee.pages.dev/calculators/productivity/time/audiobook-speed",
+    "https://timenavigator-org.pages.dev/audiobook-speed-calculator/",
+    "https://batteryzone-org.pages.dev/audiobook-speed-calculator/",
+    "https://dash-calculator-ef2.pages.dev/calculators/audiobook-speed"
+   ]
+  },
+  {
+   "domain": "producthunt.com",
+   "bestRank": 2,
+   "keywords": 2,
+   "urls": [
+    "https://www.producthunt.com/products/audiobook-speed-calculator-4/launches/audiobook-speed-calculator-5",
+    "https://www.producthunt.com/products/audiobook-speed-calculator-4/reviews"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://omnicalculator.com/everyday-life/audiobook-speed"
+   ]
+  },
+  {
+   "domain": "fable.co",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://fable.co/blog/find-your-perfect-listening-pace"
+   ]
+  },
+  {
+   "domain": "codeshack.io",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://codeshack.io/audiobook-speed-calculator/"
+   ]
+  },
+  {
+   "domain": "calculate.co.nz",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculate.co.nz/audiobook-speed-calculator.php"
+   ]
+  },
+  {
+   "domain": "puretables.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://puretables.com/audiobook-speed-calculator"
+   ]
+  },
+  {
+   "domain": "uniza.sk",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://gitlab.kicon.fri.uniza.sk/ypodelores9138/audiobooks-speed-calculator3029/issues/1"
+   ]
+  },
+  {
+   "domain": "goonlinetools.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://goonlinetools.com/audiobook-speed-calculator"
+   ]
+  },
+  {
+   "domain": "totalcalchub.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://totalcalchub.com/us/utilities/audiobook-calculator-speed"
+   ]
+  }
+ ]
+}

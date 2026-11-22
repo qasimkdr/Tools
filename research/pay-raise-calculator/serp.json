@@ -1,0 +1,254 @@
+{
+ "keywords": {
+  "pay raise calculator": {
+   "fetchedAt": "2026-11-22T17:03:12.572Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 18100,
+   "fileKd": 26,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 1,
+    "url": "www.omnicalculator.com/finance/pay-raise"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://indeedflex.com/career-hub/tools/pay-raise-calculator",
+     "domain": "indeedflex.com",
+     "title": "pay raise calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.omnicalculator.com/finance/pay-raise",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.softwaretestinghelp.com/?p=396201",
+     "domain": "www.softwaretestinghelp.com",
+     "title": "Pay Raise Calculator: Salary Increase Percentage Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://thecalculatorsite.com/finance/calculators/pay-raise.php",
+     "domain": "thecalculatorsite.com",
+     "title": "pay raise",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.inchcalculator.com/pay-raise-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Calculate Salary Increase",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.indeed.com/hire/c/info/how-to-calculate-raises-for-employees",
+     "domain": "www.indeed.com",
+     "title": "Special offer",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://cache.omnicalculator.com/finance/pay-raise",
+     "domain": "cache.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.adp.com/resources/articles-and-insights/articles/c/calculate-percentage-raise.aspx",
+     "domain": "www.adp.com",
+     "title": "calculate percentage raise",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://paycor.com/resource-center/articles/how-to-calculate-raise-percentages-for-employees",
+     "domain": "paycor.com",
+     "title": "how to calculate raise percentages for employees",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://connecteam.com/free-tools/pay-raise-calculator/",
+     "domain": "connecteam.com",
+     "title": "Pay Raise Calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://hubstaff.com/blog/?p=27805",
+     "domain": "hubstaff.com",
+     "title": "hubstaff.com",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.geeksforgeeks.org/?p=1223384",
+     "domain": "www.geeksforgeeks.org",
+     "title": "Pay Raise Calculator – Free Online Calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.ordio.com/en/tools/pay-raise-calculator",
+     "domain": "www.ordio.com",
+     "title": "Pay & compensation",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://www.timetrex.com/?p=22500",
+     "domain": "www.timetrex.com",
+     "title": "Easy Pay Raise Calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://busybusy.com/pay-raise-calculator/",
+     "domain": "busybusy.com",
+     "title": "Pay Raise Calculator",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://www.easyunitconverter.com/pay-raise-calculator",
+     "domain": "www.easyunitconverter.com",
+     "title": "Pay Raise Calculator — Calculate Your Salary Increase",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://thecalculatortoolbox.odoo.com/annual-salary-increase-calculator",
+     "domain": "thecalculatortoolbox.odoo.com",
+     "title": "annual salary increase calculator",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://wecovr.com/calculators/pay-raise-calculator/",
+     "domain": "wecovr.com",
+     "title": "pay raise calculator",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://weinvestsmart.com/tools/pay-raise-calculator",
+     "domain": "weinvestsmart.com",
+     "title": "Pay Raise Calculator - Calculate Salary Increases",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://martech.zone/pay-raise-calculator/",
+     "domain": "martech.zone",
+     "title": "Martech Zone AppsMartech Zone Calculators",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "pay-raise-calculator",
+ "page": "pay-raise-calculator",
+ "category": "finance",
+ "name": "Pay Raise Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T17:03:12.573Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 2,
+   "keywords": 2,
+   "urls": [
+    "https://www.omnicalculator.com/finance/pay-raise",
+    "https://cache.omnicalculator.com/finance/pay-raise"
+   ]
+  },
+  {
+   "domain": "softwaretestinghelp.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.softwaretestinghelp.com/?p=396201"
+   ]
+  },
+  {
+   "domain": "thecalculatorsite.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://thecalculatorsite.com/finance/calculators/pay-raise.php"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/pay-raise-calculator/"
+   ]
+  },
+  {
+   "domain": "indeed.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.indeed.com/hire/c/info/how-to-calculate-raises-for-employees"
+   ]
+  },
+  {
+   "domain": "adp.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.adp.com/resources/articles-and-insights/articles/c/calculate-percentage-raise.aspx"
+   ]
+  },
+  {
+   "domain": "paycor.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://paycor.com/resource-center/articles/how-to-calculate-raise-percentages-for-employees"
+   ]
+  },
+  {
+   "domain": "connecteam.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://connecteam.com/free-tools/pay-raise-calculator/"
+   ]
+  },
+  {
+   "domain": "hubstaff.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://hubstaff.com/blog/?p=27805"
+   ]
+  },
+  {
+   "domain": "geeksforgeeks.org",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://www.geeksforgeeks.org/?p=1223384"
+   ]
+  }
+ ]
+}

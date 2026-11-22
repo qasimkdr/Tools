@@ -1,0 +1,937 @@
+{
+ "pages": {
+  "https://www.inchcalculator.com/navy-body-fat-calculator/": {
+   "url": "https://www.inchcalculator.com/navy-body-fat-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/navy-body-fat-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T17:03:14.313Z",
+   "title": "Navy Body Fat Calculator - Inch Calculator",
+   "metaDescription": "Calculate your body fat percentage per US Navy standards using a simple calculator to see if you meet Navy body composition standards.",
+   "canonical": "https://www.inchcalculator.com/navy-body-fat-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Navy Body Fat Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Body Fat Percentage",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate Body Fat",
+    "U.S. Navy Body Fat Standards",
+    "Similar Health Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Body Fat Formula for Males",
+    "Body Fat Formula for Females"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Navy Body Fat Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Body Fat Percentage"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Body Fat"
+    },
+    {
+     "level": 3,
+     "text": "Body Fat Formula for Males"
+    },
+    {
+     "level": 3,
+     "text": "Body Fat Formula for Females"
+    },
+    {
+     "level": 2,
+     "text": "U.S. Navy Body Fat Standards"
+    },
+    {
+     "level": 2,
+     "text": "Similar Health Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 1212,
+   "avgSentenceWords": 26,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "body fat",
+     "weight": 51
+    },
+    {
+     "term": "body",
+     "weight": 43
+    },
+    {
+     "term": "fat",
+     "weight": 34
+    },
+    {
+     "term": "fat percentage",
+     "weight": 23
+    },
+    {
+     "term": "navy",
+     "weight": 22
+    },
+    {
+     "term": "percentage",
+     "weight": 16
+    },
+    {
+     "term": "circumference",
+     "weight": 13
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "height",
+     "weight": 12
+    },
+    {
+     "term": "neck",
+     "weight": 12
+    },
+    {
+     "term": "body composition",
+     "weight": 11
+    },
+    {
+     "term": "calculate",
+     "weight": 9
+    },
+    {
+     "term": "waist",
+     "weight": 9
+    },
+    {
+     "term": "standards",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "formula",
+     "weight": 8
+    },
+    {
+     "term": "table",
+     "weight": 8
+    },
+    {
+     "term": "composition",
+     "weight": 8
+    },
+    {
+     "term": "guide",
+     "weight": 8
+    },
+    {
+     "term": "sailor",
+     "weight": 8
+    },
+    {
+     "term": "log10",
+     "weight": 8
+    },
+    {
+     "term": "navy body",
+     "weight": 8
+    },
+    {
+     "term": "calculate body",
+     "weight": 8
+    },
+    {
+     "term": "fat formula",
+     "weight": 8
+    },
+    {
+     "term": "https www",
+     "weight": 8
+    },
+    {
+     "term": "neck circumference",
+     "weight": 8
+    },
+    {
+     "term": "physical",
+     "weight": 7
+    },
+    {
+     "term": "abdominal",
+     "weight": 7
+    },
+    {
+     "term": "bca",
+     "weight": 7
+    },
+    {
+     "term": "fat calculator",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Navy Body Fat Standards References By Joe Sexton Joe is the creator of Inch Calculator and has over 20 years of experience in engineering and construction.",
+    "Guide 4 and NAVADMIN 178-15 define the maximum weight and specific body fat percentage standards for a Sailor’s age and gender.[1][2] You’ll need a few body measurements to calculate body fat percentage using the U.S.",
+    "Table 3 in Guide 4 contains the charts for estimating women’s body fat percentage using height in inches vs.",
+    "height table that estimates body fat composition (See Table 2 for Men and Table 3 for Women).[1] If the abdominal measurement falls within the body fat percentage guidelines, the Sailor passes the BCA.",
+    "The standards for the maximum percentage of body fat, as defined in NAVADMIN 178-15, are shown in the table below.",
+    "Maximum body fat percentage requirements for male and female sailors defined in Guide 4.",
+    "Age Male Female 18-21 22% 33% 22-29 23% 34% 30-39 24% 35% 40 and older 26% 36% You might also be interested in our Army body fat calculator."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 3,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "Gender",
+    "Age",
+    "Height",
+    "Height Units",
+    "Neck",
+    "Neck Units",
+    "Waist",
+    "Waist Units",
+    "Hip",
+    "Hip Units"
+   ],
+   "selectOptionsSample": "male female in ft cm m in cm in cm in cm",
+   "unitToggle": true,
+   "wordsBeforeTool": 17,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2021-01-08",
+    "modified": "2025-10-02T14:54:36+00:00",
+    "authoritativeSources": [
+     "https://www.mynavyhr.navy.mil/Portals/55/Support/Culture%20Resilience/Physical/Guide_4-Body_Composition_Assessment_BCA_JAN_2023.pdf",
+     "https://www.mynavyhr.navy.mil/Portals/55/Messages/NAVADMIN/NAV2015/NAV15178.txt",
+     "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6650177/#REF10"
+    ]
+   },
+   "ux": {
+    "htmlKB": 126,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 45,
+    "external": 17,
+    "contentInternal": 21,
+    "contentExternal": 11,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate Body Fat",
+     "Body Fat Formula for Males",
+     "Body Fat Formula for Females",
+     "U.S. Navy Body Fat Standards",
+     "References",
+     "Full bio",
+     "Navy Body Fat Calculator",
+     "Physical Readiness Test",
+     "body fat percentage",
+     "percentage",
+     "Army body fat calculator",
+     "Navy PRT Calculator",
+     "Ideal Body Weight Calculator",
+     "Height Converter",
+     "Height Calculator",
+     "Sleep Calculator",
+     "See All"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/navy-body-fat-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/navy-body-fat/",
+     "https://www.inchcalculator.com/navy-body-fat-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/navy-body-fat-calculator/#idx_how_to_calculate_body_fat",
+     "https://www.inchcalculator.com/navy-body-fat-calculator/#idx_body_fat_formula_for_males",
+     "https://www.inchcalculator.com/navy-body-fat-calculator/#idx_body_fat_formula_for_females",
+     "https://www.inchcalculator.com/navy-body-fat-calculator/#idx_us_navy_body_fat_standards",
+     "https://www.inchcalculator.com/navy-body-fat-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/elise-harlow/",
+     "https://www.inchcalculator.com/author/lisa-swanson/",
+     "https://www.inchcalculator.com/navy-body-fat-calculator/",
+     "https://www.inchcalculator.com/navy-prt-calculator/",
+     "https://www.inchcalculator.com/body-fat-calculator/",
+     "https://www.inchcalculator.com/percentage-calculator/",
+     "https://www.inchcalculator.com/army-body-fat-calculator/",
+     "https://www.inchcalculator.com/ideal-body-weight-calculator/",
+     "https://www.inchcalculator.com/height-converter/",
+     "https://www.inchcalculator.com/height-calculator/",
+     "https://www.inchcalculator.com/sleep-calculator/",
+     "https://www.inchcalculator.com/body-measurement-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fnavy-body-fat-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fnavy-body-fat-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fnavy-body-fat-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fnavy-body-fat-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fnavy-body-fat-calculator%2F&text=Navy+Body+Fat+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fnavy-body-fat-calculator%2F&text=Navy+Body+Fat+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://www.mynavyhr.navy.mil/Portals/55/Support/Culture%20Resilience/Physical/Guide_4-Body_Composition_Assessment_BCA_JAN_2023.pdf",
+     "https://www.mynavyhr.navy.mil/Portals/55/Messages/NAVADMIN/NAV2015/NAV15178.txt",
+     "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6650177/#REF10",
+     "https://www.navyfitness.org/modules/media/?do=download&id=fa75549c-4491-4ddc-bcba-9bdaa7c784b8"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/health/navy-body-fat": {
+   "url": "https://www.omnicalculator.com/health/navy-body-fat",
+   "finalUrl": "https://www.omnicalculator.com/health/navy-body-fat",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T17:03:17.735Z",
+   "title": "Navy Body Fat Calculator",
+   "metaDescription": "The navy body fat calculator uses a formula developed by US Navy to estimate the fat content in one's body.",
+   "canonical": "https://www.omnicalculator.com/health/navy-body-fat",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Navy Body Fat Calculator"
+   ],
+   "h2": [
+    "What are the necessary measurements?",
+    "What formula does the US Navy body fat calculator use?",
+    "The US Navy body fat standards",
+    "FAQs"
+   ],
+   "h3": [
+    "What is the navy body fat percentage of a 6 ft male?",
+    "How much body fat is allowed in the US Navy?",
+    "How accurate is the US Navy body fat calculator?",
+    "How do I calculate the Navy body fat percentage for women?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Navy Body Fat Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What are the necessary measurements?"
+    },
+    {
+     "level": 2,
+     "text": "What formula does the US Navy body fat calculator use?"
+    },
+    {
+     "level": 2,
+     "text": "The US Navy body fat standards"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What is the navy body fat percentage of a 6 ft male?"
+    },
+    {
+     "level": 3,
+     "text": "How much body fat is allowed in the US Navy?"
+    },
+    {
+     "level": 3,
+     "text": "How accurate is the US Navy body fat calculator?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate the Navy body fat percentage for women?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 729,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "What is the navy body fat percentage of a 6 ft male?",
+    "How much body fat is allowed in the US Navy?",
+    "How accurate is the US Navy body fat calculator?",
+    "How do I calculate the Navy body fat percentage for women?",
+    "What are the necessary measurements?",
+    "What formula does the US Navy body fat calculator use?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "body fat",
+     "weight": 39
+    },
+    {
+     "term": "body",
+     "weight": 30
+    },
+    {
+     "term": "fat",
+     "weight": 29
+    },
+    {
+     "term": "navy",
+     "weight": 19
+    },
+    {
+     "term": "navy body",
+     "weight": 18
+    },
+    {
+     "term": "fat percentage",
+     "weight": 17
+    },
+    {
+     "term": "fat calculator",
+     "weight": 12
+    },
+    {
+     "term": "calculator",
+     "weight": 11
+    },
+    {
+     "term": "percentage",
+     "weight": 11
+    },
+    {
+     "term": "age",
+     "weight": 7
+    },
+    {
+     "term": "neck",
+     "weight": 7
+    },
+    {
+     "term": "circumference",
+     "weight": 7
+    },
+    {
+     "term": "waist",
+     "weight": 7
+    },
+    {
+     "term": "measurements",
+     "weight": 7
+    },
+    {
+     "term": "height",
+     "weight": 6
+    },
+    {
+     "term": "check",
+     "weight": 5
+    },
+    {
+     "term": "women",
+     "weight": 5
+    },
+    {
+     "term": "males",
+     "weight": 5
+    },
+    {
+     "term": "females age",
+     "weight": 5
+    },
+    {
+     "term": "calculate",
+     "weight": 4
+    },
+    {
+     "term": "log10",
+     "weight": 4
+    },
+    {
+     "term": "females",
+     "weight": 4
+    },
+    {
+     "term": "neck circumference",
+     "weight": 3
+    },
+    {
+     "term": "waist circumference",
+     "weight": 3
+    },
+    {
+     "term": "army",
+     "weight": 3
+    },
+    {
+     "term": "army body",
+     "weight": 3
+    },
+    {
+     "term": "service",
+     "weight": 3
+    },
+    {
+     "term": "service members",
+     "weight": 3
+    },
+    {
+     "term": "standards",
+     "weight": 3
+    },
+    {
+     "term": "measured",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "Hence assuming the waist circumference is 40.2 inches (102.1 cm) and neck circumference is 15.2 inches (38.6 cm), the body fat percentage for this 6 ft male would be 26.8%.",
+    "For instance, the body fat percentage limit ranges from 22% to 26% for men, depending on the age group."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 4,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": true,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Małgorzata Koperska",
+    "published": "2015-12-31T15:12:04.249Z",
+    "modified": "2026-08-17T11:47:56.132Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 476,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 22,
+    "external": 1,
+    "contentInternal": 6,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "body fat calculator",
+     "US Army body fat calculator",
+     "body shape",
+     "BMI",
+     "Navy PRT calculator",
+     "ACFT Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/health/body-fat",
+     "https://www.omnicalculator.com/health/army-body-fat",
+     "https://www.omnicalculator.com/health/body-shape",
+     "https://www.omnicalculator.com/health/bmi",
+     "https://www.omnicalculator.com/health/navy-prt",
+     "https://www.omnicalculator.com/health/acft"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/body-fat-calculator.html": {
+   "url": "https://www.calculator.net/body-fat-calculator.html",
+   "finalUrl": "https://www.calculator.net/body-fat-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T17:03:20.842Z",
+   "title": "Body Fat Calculator",
+   "metaDescription": "This free body fat calculator estimates body fat percentage based on the U.S. Navy Method and the BMI method. It gives the loss needed to reach ideal body fat.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Body Fat Calculator"
+   ],
+   "h2": [
+    "Result",
+    "Reference"
+   ],
+   "h3": [
+    "Body Fat, Overweight, and Obesity",
+    "Potential Complications of Excess Body Fat",
+    "Measuring Body Fat Percentage"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Body Fat Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Result"
+    },
+    {
+     "level": 2,
+     "text": "Reference"
+    },
+    {
+     "level": 3,
+     "text": "Body Fat, Overweight, and Obesity"
+    },
+    {
+     "level": 3,
+     "text": "Potential Complications of Excess Body Fat"
+    },
+    {
+     "level": 3,
+     "text": "Measuring Body Fat Percentage"
+    }
+   ],
+   "wordCount": 1550,
+   "avgSentenceWords": 28,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "body fat",
+     "weight": 74
+    },
+    {
+     "term": "fat",
+     "weight": 68
+    },
+    {
+     "term": "body",
+     "weight": 57
+    },
+    {
+     "term": "fat percentage",
+     "weight": 18
+    },
+    {
+     "term": "bmi",
+     "weight": 15
+    },
+    {
+     "term": "bfp",
+     "weight": 14
+    },
+    {
+     "term": "health",
+     "weight": 12
+    },
+    {
+     "term": "percentage",
+     "weight": 12
+    },
+    {
+     "term": "units",
+     "weight": 10
+    },
+    {
+     "term": "method",
+     "weight": 10
+    },
+    {
+     "term": "women",
+     "weight": 10
+    },
+    {
+     "term": "calculator",
+     "weight": 9
+    },
+    {
+     "term": "excess",
+     "weight": 9
+    },
+    {
+     "term": "percentage bfp",
+     "weight": 9
+    },
+    {
+     "term": "bfp formula",
+     "weight": 9
+    },
+    {
+     "term": "age",
+     "weight": 8
+    },
+    {
+     "term": "weight",
+     "weight": 8
+    },
+    {
+     "term": "neck",
+     "weight": 8
+    },
+    {
+     "term": "men",
+     "weight": 8
+    },
+    {
+     "term": "formula",
+     "weight": 8
+    },
+    {
+     "term": "log10",
+     "weight": 8
+    },
+    {
+     "term": "excess body",
+     "weight": 8
+    },
+    {
+     "term": "fitness",
+     "weight": 7
+    },
+    {
+     "term": "height",
+     "weight": 7
+    },
+    {
+     "term": "have",
+     "weight": 7
+    },
+    {
+     "term": "person's",
+     "weight": 7
+    },
+    {
+     "term": "estimate",
+     "weight": 6
+    },
+    {
+     "term": "metric units",
+     "weight": 6
+    },
+    {
+     "term": "bmi method",
+     "weight": 6
+    },
+    {
+     "term": "feet inches",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "The amount of essential fat differs between men and women, and is typically around 2-5% in men, and 10-13% in women.",
+    "The healthy range of body fat for men is typically defined as 8-19%, while the healthy range for women is 21-33%.",
+    "After the age of 40 (or after menopause in some cases for women), reduced sexual hormones can lead to excess body fat around the stomach in men, or around the buttocks and thighs of women."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 19,
+   "lists": 2,
+   "images": 5,
+   "videos": 0,
+   "calculatorInputs": [
+    "male",
+    "female",
+    "cage",
+    "cweightlbs",
+    "cheightfeet",
+    "cheightinch",
+    "cneckfeet",
+    "cneckinch",
+    "cwaistfeet",
+    "cwaistinch",
+    "chipfeet",
+    "chipinch",
+    "cweightkgs",
+    "cheightmeter",
+    "cneckmeter",
+    "cwaistmeter",
+    "chipmeter"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": true,
+   "wordsBeforeTool": 97,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 24,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 23,
+    "external": 0,
+    "contentInternal": 23,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "fitness & health",
+     "body fat calculator",
+     "U.S. Navy method",
+     "US units",
+     "metric units",
+     "other units",
+     "BMI Calculator",
+     "Calorie Calculator",
+     "Ideal Weight Calculator",
+     "U.S. Navy Method:",
+     "Fitness and Health Calculators",
+     "BMI",
+     "Calorie",
+     "Body Fat",
+     "BMR",
+     "Macro",
+     "Ideal Weight",
+     "Pregnancy"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/body-fat-calculator.html",
+     "https://www.calculator.net/pdf/navy-physical-readiness-program.pdf",
+     "https://www.calculator.net/body-fat-calculator.html#",
+     "https://www.calculator.net/bmi-calculator.html",
+     "https://www.calculator.net/calorie-calculator.html",
+     "https://www.calculator.net/ideal-weight-calculator.html",
+     "https://www.calculator.net/bmr-calculator.html",
+     "https://www.calculator.net/macro-calculator.html",
+     "https://www.calculator.net/pregnancy-calculator.html",
+     "https://www.calculator.net/pregnancy-weight-gain-calculator.html",
+     "https://www.calculator.net/pregnancy-conception-calculator.html",
+     "https://www.calculator.net/due-date-calculator.html",
+     "https://www.calculator.net/pace-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

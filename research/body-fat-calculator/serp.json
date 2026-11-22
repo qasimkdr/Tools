@@ -1,0 +1,247 @@
+{
+ "keywords": {
+  "body fat calculator u.s. navy": {
+   "fetchedAt": "2026-11-22T17:03:12.239Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 3600,
+   "fileKd": 26,
+   "fileIntent": "C",
+   "semrushCompetitor": {
+    "position": 1,
+    "url": "www.calculator.net/body-fat-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.inchcalculator.com/navy-body-fat-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Navy Body Fat Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://fitnessvolt.com/?p=99351",
+     "domain": "fitnessvolt.com",
+     "title": "Body Fat US Navy Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://fitnessvolt.com/body-fat-navy-calculator/",
+     "domain": "fitnessvolt.com",
+     "title": "Body Fat US Navy Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://stylecraze.com/tools/navy-body-fat-calculator",
+     "domain": "stylecraze.com",
+     "title": "US Navy Body Fat Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.operationmilitarykids.org/?p=56680",
+     "domain": "www.operationmilitarykids.org",
+     "title": "US Navy Body Fat Calculator: Current Standards For 2026",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.operationmilitarykids.org/us-navy-body-fat-calculator/",
+     "domain": "www.operationmilitarykids.org",
+     "title": "US Navy Body Fat Calculator: Current Standards For 2026",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://guyru.github.io/calculators/navy-body-fat-calculator.html",
+     "domain": "guyru.github.io",
+     "title": "Navy Body Fat Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://omnicalculator.com/health/navy-body-fat?c=USD",
+     "domain": "omnicalculator.com",
+     "title": "Navy Body Fat Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.omnicalculator.com/health/navy-body-fat",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.omnicalculator.com/fitness/navy-body-fat",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://enmahub.github.io/practical-calculators/navy-body-fat-calculator.html",
+     "domain": "enmahub.github.io",
+     "title": "Practical Calculators",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.pearson.com/channels/it/calculators/body-fat-calculator",
+     "domain": "www.pearson.com",
+     "title": "body fat calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://cache.omnicalculator.com/health/navy-body-fat",
+     "domain": "cache.omnicalculator.com",
+     "title": "Omni calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://med.libretexts.org/Courses/Irvine_Valley_College/Physiology_Labs_at_Home/03:_Anthropometrics/3.02:_Part_B-_Circumference_Measures/3.2.04:_Part_B4-_The_U.S._Navy_body_fat_estimation_formula",
+     "domain": "med.libretexts.org",
+     "title": "3.2.04: Part B4  The U.S. Navy body fat estimation formula",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://www.omnicalculator.com/es/salud/calculadora-grasa-us-navy",
+     "domain": "www.omnicalculator.com",
+     "title": "Logo de Omni Calculator",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://wba.omnicalculator.com/health/navy-body-fat",
+     "domain": "wba.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://www.strengthlog.com/body-fat-calculator-estimate-your-body-fat-percentage/",
+     "domain": "www.strengthlog.com",
+     "title": "Body Fat Calculator: Estimate Your Body Fat Percentage",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://calculator.net/body-fat",
+     "domain": "calculator.net",
+     "title": "Body Fat Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "body-fat-calculator",
+ "page": "body-fat-calculator",
+ "category": "health",
+ "name": "Body Fat Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T17:03:12.239Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 8,
+   "keywords": 6,
+   "urls": [
+    "https://omnicalculator.com/health/navy-body-fat?c=USD",
+    "https://www.omnicalculator.com/health/navy-body-fat",
+    "https://www.omnicalculator.com/fitness/navy-body-fat",
+    "https://cache.omnicalculator.com/health/navy-body-fat",
+    "https://www.omnicalculator.com/es/salud/calculadora-grasa-us-navy",
+    "https://wba.omnicalculator.com/health/navy-body-fat"
+   ]
+  },
+  {
+   "domain": "fitnessvolt.com",
+   "bestRank": 2,
+   "keywords": 2,
+   "urls": [
+    "https://fitnessvolt.com/?p=99351",
+    "https://fitnessvolt.com/body-fat-navy-calculator/"
+   ]
+  },
+  {
+   "domain": "operationmilitarykids.org",
+   "bestRank": 5,
+   "keywords": 2,
+   "urls": [
+    "https://www.operationmilitarykids.org/?p=56680",
+    "https://www.operationmilitarykids.org/us-navy-body-fat-calculator/"
+   ]
+  },
+  {
+   "domain": "github.io",
+   "bestRank": 7,
+   "keywords": 2,
+   "urls": [
+    "https://guyru.github.io/calculators/navy-body-fat-calculator.html",
+    "https://enmahub.github.io/practical-calculators/navy-body-fat-calculator.html"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/navy-body-fat-calculator/"
+   ]
+  },
+  {
+   "domain": "stylecraze.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://stylecraze.com/tools/navy-body-fat-calculator"
+   ]
+  },
+  {
+   "domain": "pearson.com",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://www.pearson.com/channels/it/calculators/body-fat-calculator"
+   ]
+  },
+  {
+   "domain": "libretexts.org",
+   "bestRank": 14,
+   "keywords": 1,
+   "urls": [
+    "https://med.libretexts.org/Courses/Irvine_Valley_College/Physiology_Labs_at_Home/03:_Anthropometrics/3.02:_Part_B-_Circumference_Measures/3.2.04:_Part_B4-_The_U.S._Navy_body_fat_estimation_formula"
+   ]
+  },
+  {
+   "domain": "strengthlog.com",
+   "bestRank": 17,
+   "keywords": 1,
+   "urls": [
+    "https://www.strengthlog.com/body-fat-calculator-estimate-your-body-fat-percentage/"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 18,
+   "keywords": 1,
+   "urls": [
+    "https://calculator.net/body-fat"
+   ]
+  }
+ ]
+}

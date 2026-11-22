@@ -1,0 +1,683 @@
+{
+ "pages": {
+  "https://www.inchcalculator.com/tile-calculator/": {
+   "url": "https://www.inchcalculator.com/tile-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/tile-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T17:03:24.503Z",
+   "title": "Tile Calculator - Estimate Much Tile You Need - Inch Calculator",
+   "metaDescription": "Calculate how much tile you need and learn how to measure flooring and backsplash projects to correctly estimate tile and material.",
+   "canonical": "https://www.inchcalculator.com/tile-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Tile Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Tile Needed",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate How Much Tile You Need",
+    "How to Estimate Tile Patterns",
+    "How to Estimate Thinset or Mastic",
+    "Other Materials Needed",
+    "Common Tile Sizes and Coverage",
+    "Hiring a Professional",
+    "Frequently Asked Questions",
+    "Similar Flooring Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Step One: Calculate the Floor or Backsplash Area",
+    "Step Two: Calculate the Area of the Tile",
+    "Step Three: Estimate Tile Quantity",
+    "What is the 3 4 5 rule for laying tile?",
+    "How many tiles are in a box?",
+    "What is the standard tile size?",
+    "How much extra tile do you need?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Tile Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Tile Needed"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate How Much Tile You Need"
+    },
+    {
+     "level": 3,
+     "text": "Step One: Calculate the Floor or Backsplash Area"
+    },
+    {
+     "level": 3,
+     "text": "Step Two: Calculate the Area of the Tile"
+    },
+    {
+     "level": 3,
+     "text": "Step Three: Estimate Tile Quantity"
+    },
+    {
+     "level": 2,
+     "text": "How to Estimate Tile Patterns"
+    },
+    {
+     "level": 2,
+     "text": "How to Estimate Thinset or Mastic"
+    },
+    {
+     "level": 2,
+     "text": "Other Materials Needed"
+    },
+    {
+     "level": 2,
+     "text": "Common Tile Sizes and Coverage"
+    },
+    {
+     "level": 2,
+     "text": "Hiring a Professional"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "What is the 3 4 5 rule for laying tile?"
+    },
+    {
+     "level": 3,
+     "text": "How many tiles are in a box?"
+    },
+    {
+     "level": 3,
+     "text": "What is the standard tile size?"
+    },
+    {
+     "level": 3,
+     "text": "How much extra tile do you need?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Flooring Calculators"
+    }
+   ],
+   "wordCount": 2108,
+   "avgSentenceWords": 22,
+   "faqs": [
+    "What is the 3 4 5 rule for laying tile?",
+    "How many tiles are in a box?",
+    "What is the standard tile size?",
+    "How much extra tile do you need?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "tile",
+     "weight": 70
+    },
+    {
+     "term": "tiles",
+     "weight": 33
+    },
+    {
+     "term": "area",
+     "weight": 23
+    },
+    {
+     "term": "square",
+     "weight": 22
+    },
+    {
+     "term": "need",
+     "weight": 21
+    },
+    {
+     "term": "size",
+     "weight": 19
+    },
+    {
+     "term": "square footage",
+     "weight": 17
+    },
+    {
+     "term": "estimate",
+     "weight": 15
+    },
+    {
+     "term": "tile size",
+     "weight": 15
+    },
+    {
+     "term": "pattern",
+     "weight": 13
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "calculate",
+     "weight": 12
+    },
+    {
+     "term": "project",
+     "weight": 12
+    },
+    {
+     "term": "box",
+     "weight": 11
+    },
+    {
+     "term": "thinset",
+     "weight": 11
+    },
+    {
+     "term": "many",
+     "weight": 11
+    },
+    {
+     "term": "footage",
+     "weight": 11
+    },
+    {
+     "term": "needed",
+     "weight": 10
+    },
+    {
+     "term": "step",
+     "weight": 10
+    },
+    {
+     "term": "feet",
+     "weight": 10
+    },
+    {
+     "term": "grout",
+     "weight": 9
+    },
+    {
+     "term": "sizes",
+     "weight": 9
+    },
+    {
+     "term": "flooring",
+     "weight": 9
+    },
+    {
+     "term": "inches",
+     "weight": 9
+    },
+    {
+     "term": "total",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "much",
+     "weight": 8
+    },
+    {
+     "term": "find",
+     "weight": 8
+    },
+    {
+     "term": "estimate tile",
+     "weight": 8
+    },
+    {
+     "term": "tile sizes",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "To do this calculation yourself, take your tile size in square inches and divide it by 144 (12in.",
+    "Use the result to order your tiles, keeping in mind that ordering an extra 10% to 20% is a good idea to allow for cuts and waste.",
+    "10% is standard for straight-set installations; if you are using a pattern or laying the tiles on the diagonal, 15% to 20% extra is recommended.",
+    "For example, let’s estimate the tile needed for a kitchen backsplash area that is 12′ long and 18″ deep using a 4″ x 4″ tile.",
+    "For instance, if your pattern requires one 6×6 and two 3×6 tiles, then add the square footage of both tiles together to find the square footage of the pattern.",
+    "Then divide the floor ft2 by the tile ft2.",
+    "For example, using the above tile sizes, you would need equal amounts of both tiles – simply divide the total square footage in half, add 20% for waste, and order equal amounts of each size.",
+    "While some patterns result in more waste than others, a good rule of thumb is when installing tile at an angle, consider ordering 20% additional material to account for more cuts and waste.",
+    "Choose unsanded grout if your spacing is 1/8″ or less, unless otherwise specified, such as with glass tile.",
+    "The 3, 4, 5 rule for laying tile refers to making sure your tiles are laid square even if the walls are not."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 2,
+   "images": 5,
+   "videos": 0,
+   "calculatorInputs": [
+    "Width",
+    "Width Units",
+    "Length",
+    "Length Units",
+    "Width",
+    "Width Units",
+    "Length",
+    "Length Units",
+    "Spacing",
+    "Spacing Units",
+    "Box Size (optional)",
+    "Price (optional)",
+    "Price Units",
+    "Area",
+    "Area Units",
+    "Width",
+    "Width Units",
+    "Length",
+    "Length Units",
+    "Spacing",
+    "Spacing Units",
+    "Box Size (optional)",
+    "Price (optional)",
+    "Price Units",
+    "Area Unit"
+   ],
+   "selectOptionsSample": "in ft yd cm m in ft yd cm m in cm in cm in cm per tile per box per sq ft per sq m sq ft sq yds sq m in cm in cm in cm per tile per box per sq ft per sq m sq ft sq m",
+   "unitToggle": true,
+   "wordsBeforeTool": 39,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2015-05-09",
+    "modified": "2023-04-27T18:38:15+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 145,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 53,
+    "external": 14,
+    "contentInternal": 29,
+    "contentExternal": 8,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Tile Calculator",
+     "How to Calculate How Much Tile You Need",
+     "Step One: Calculate the Floor or Backsplash Area",
+     "Step Two: Calculate the Area of the Tile",
+     "Step Three: Estimate Tile Quantity",
+     "How to Estimate Tile Patterns",
+     "How to Estimate Thinset or Mastic",
+     "Other Materials Needed",
+     "Common Tile Sizes and Coverage",
+     "Hiring a Professional",
+     "Frequently Asked Questions",
+     "Full bio",
+     "Get Free Estimates",
+     "learn pro tips for measuring irregular rooms",
+     "square footage calculator",
+     "See popular layout patterns",
+     "find local tile installation professionals",
+     "carpet"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/tile-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/tile/",
+     "https://www.inchcalculator.com/tile-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/tile-calculator/#idx_how_to_calculate_how_much_tile_you_need",
+     "https://www.inchcalculator.com/tile-calculator/#idx_step_one_calculate_the_floor_or_backsplash_area",
+     "https://www.inchcalculator.com/tile-calculator/#idx_step_two_calculate_the_area_of_the_tile",
+     "https://www.inchcalculator.com/tile-calculator/#idx_step_three_estimate_tile_quantity",
+     "https://www.inchcalculator.com/tile-calculator/#idx_how_to_estimate_tile_patterns",
+     "https://www.inchcalculator.com/tile-calculator/#idx_how_to_estimate_thinset_or_mastic",
+     "https://www.inchcalculator.com/tile-calculator/#idx_other_materials_needed",
+     "https://www.inchcalculator.com/tile-calculator/#idx_common_tile_sizes_and_coverage",
+     "https://www.inchcalculator.com/tile-calculator/#idx_hiring_a_professional",
+     "https://www.inchcalculator.com/tile-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/sarabeth-asaff-south/",
+     "https://www.inchcalculator.com/tile-calculator/",
+     "https://www.inchcalculator.com/get-free-home-repair-estimates/?preset_project_type=Tile+%26+Stone&preset_service_id=",
+     "https://www.inchcalculator.com/how-to-measure-room/",
+     "https://www.inchcalculator.com/square-footage-calculator/",
+     "https://www.inchcalculator.com/tile-paver-layout-patterns/",
+     "https://www.inchcalculator.com/get-free-home-repair-estimates/?preset_project_type=Tile%20%26%20Stone",
+     "https://www.inchcalculator.com/carpet-calculator/",
+     "https://www.inchcalculator.com/flooring-calculator/",
+     "https://www.inchcalculator.com/pythagorean-theorem-calculator/",
+     "https://www.inchcalculator.com/square-yards-calculator/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Ftile-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Ftile-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Ftile-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Ftile-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Ftile-calculator%2F&text=Tile+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Ftile-calculator%2F&text=Tile+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://www.hunker.com/13401170/how-to-calculate-thinset-quantity"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/construction/tile": {
+   "url": "https://www.omnicalculator.com/construction/tile",
+   "finalUrl": "https://www.omnicalculator.com/construction/tile",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T17:03:27.597Z",
+   "title": "Tile Calculator",
+   "metaDescription": "Estimate your tile cost with precision using our tile square footage calculator. Get accurate pricing for your project. Try it now!",
+   "canonical": "https://www.omnicalculator.com/construction/tile",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Tile Calculator"
+   ],
+   "h2": [
+    "How many tiles do I need? - tile estimator",
+    "What is tiling? — tile flooring cost",
+    "How the tile calculator works and how to calculate a tile's square footage?",
+    "How to tile a floor? Tessellation ideas",
+    "How to tile a shower: Tile cost"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Tile Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How many tiles do I need? - tile estimator"
+    },
+    {
+     "level": 2,
+     "text": "What is tiling? — tile flooring cost"
+    },
+    {
+     "level": 2,
+     "text": "How the tile calculator works and how to calculate a tile's square footage?"
+    },
+    {
+     "level": 2,
+     "text": "How to tile a floor? Tessellation ideas"
+    },
+    {
+     "level": 2,
+     "text": "How to tile a shower: Tile cost"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1248,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "How the tile calculator works and how to calculate a tile's square footage?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "tile",
+     "weight": 35
+    },
+    {
+     "term": "tiles",
+     "weight": 29
+    },
+    {
+     "term": "calculator",
+     "weight": 18
+    },
+    {
+     "term": "need",
+     "weight": 12
+    },
+    {
+     "term": "cost",
+     "weight": 11
+    },
+    {
+     "term": "many tiles",
+     "weight": 11
+    },
+    {
+     "term": "area",
+     "weight": 10
+    },
+    {
+     "term": "tiling",
+     "weight": 10
+    },
+    {
+     "term": "many",
+     "weight": 10
+    },
+    {
+     "term": "tile calculator",
+     "weight": 9
+    },
+    {
+     "term": "gap",
+     "weight": 7
+    },
+    {
+     "term": "width",
+     "weight": 6
+    },
+    {
+     "term": "project",
+     "weight": 6
+    },
+    {
+     "term": "help",
+     "weight": 6
+    },
+    {
+     "term": "shower",
+     "weight": 6
+    },
+    {
+     "term": "know",
+     "weight": 6
+    },
+    {
+     "term": "shapes",
+     "weight": 6
+    },
+    {
+     "term": "length",
+     "weight": 5
+    },
+    {
+     "term": "flooring",
+     "weight": 5
+    },
+    {
+     "term": "floor",
+     "weight": 5
+    },
+    {
+     "term": "number",
+     "weight": 5
+    },
+    {
+     "term": "pattern",
+     "weight": 5
+    },
+    {
+     "term": "them",
+     "weight": 5
+    },
+    {
+     "term": "tessellation",
+     "weight": 5
+    },
+    {
+     "term": "total area",
+     "weight": 5
+    },
+    {
+     "term": "tile flooring",
+     "weight": 5
+    },
+    {
+     "term": "tessellation ideas",
+     "weight": 5
+    },
+    {
+     "term": "tile cost",
+     "weight": 5
+    },
+    {
+     "term": "enter",
+     "weight": 4
+    },
+    {
+     "term": "box",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "That means that even if you need 13 tiles, including wastage, you might need to end up buying slightly more of them."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Álvaro Díez",
+    "published": "2015-12-08T14:26:57.077Z",
+    "modified": "2026-08-15T15:38:58.341Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 794,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 23,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "brick calculator",
+     "mulch calculator",
+     "flooring calculator",
+     "wall square footage calculator",
+     "GCF calculator",
+     "Stone Weight Calculator",
+     "Board and Batten Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/construction/brick",
+     "https://www.omnicalculator.com/biology/mulch",
+     "https://www.omnicalculator.com/construction/flooring",
+     "https://www.omnicalculator.com/construction/wall-square-footage",
+     "https://www.omnicalculator.com/math/gcf",
+     "https://www.omnicalculator.com/construction/stone",
+     "https://www.omnicalculator.com/construction/board-and-batten"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.calculatorsoup.com/calculators/construction/tile.php": [
+   "HTTP 404"
+  ]
+ }
+}
