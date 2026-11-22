@@ -49,7 +49,7 @@ if (cmd === "init") {
     add = parseCSV(fs.readFileSync(path.resolve(String(a.csv)), "utf8")).map((r) => ({ keyword: r.Keyword || r.keyword, vol: Number(r.Volume || 0) || null, kd: r["Keyword Difficulty"] ?? r.KD ?? null }))
       .filter((k) => k.keyword).map((k) => ({ ...k, id: slugify(k.keyword) }));
   } else {
-    const pages = readJSON(path.join(ROOT, "data/roadmap.json"), { pages: [] }).pages.filter((p) => p.status !== "hold");
+    const pages = readJSON(path.join(ROOT, "data/roadmap.json"), { pages: [] }).pages.filter((p) => !["hold", "covered"].includes(p.status));
     add = pages.map((p) => ({ id: p.slug, keyword: p.primaryKw, vol: p.primaryVol, kd: p.primaryKd }));
   }
   add = add.filter((x) => !known.has(x.id)).slice(0, Number(a.limit || 100000));

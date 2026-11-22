@@ -14,7 +14,12 @@ You get: primary keyword, volume, KD, all merged keywords (≤40), competitor UR
   presets, table rows, or separate programmatic pages only if they have ≥1,000 volume AND the SERP ranks dedicated URLs).
 - Drop keywords whose intent is different (the source data has some mis-merges, e.g. "elapsed time calculator" inside
   Ratio Calculator → that belongs to a time tool). Note it in the research file and fix ALIASES in `scripts/build-roadmap.py`.
-- Check cannibalisation: does an existing live page already answer this? Then extend that page instead.
+- **Cross-tool overlap gate (mandatory):** `npm run roadmap:overlap -- <slug>`. If a LIVE tool already serves the same
+  intent → mark the page `status: "covered"` + `note` in `data/roadmap.json` and skip it. Never build a matching tool and
+  never edit a live tool to absorb keywords (owner rule: live tools are frozen). If two *unbuilt* pages overlap
+  (e.g. interest / compound / simple interest), build ONE tool and mark the other(s) covered by it.
+- Keyword clustering per tool: every keyword in the page's group (from `data/roadmap.json`) is assigned to core intent,
+  H2/FAQ, preset/table, or dropped (different intent) — record the mapping in `docs/research/<slug>.md`.
 
 ## Step 2 — SERP & competitor research (3–4 competitors minimum)
 **Free mode (current):** WebSearch → `npm run seo:record` → `npm run seo:scrape` → `npm run seo:report`
@@ -39,7 +44,7 @@ You get: primary keyword, volume, KD, all merged keywords (≤40), competitor UR
 
 ## Step 4 — Write content (`Content.tsx`, `faq.ts`) → follow `04-CONTENT-TEMPLATE.md`
 
-## Step 5 — Wire it up
+4. Do NOT edit live tools to add reverse links (live tools are frozen). Put strong matches in the NEW tool's `related`; the engine scores reciprocal links, so live pages' auto-generated related blocks pick the new tool up without touching their files.
 1. `src/tools/<slug>/meta.ts` (ToolMeta: title ≤60, description 140–160, category, keywords, `related` 2–6 slugs).
    `related` may name unpublished slugs (ignored until they go live, then links appear automatically).
 2. `src/app/<slug>/page.tsx`: copy `src/app/days-from-today/page.tsx`, change imports + intro.

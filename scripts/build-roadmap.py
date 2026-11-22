@@ -223,7 +223,7 @@ def main():
     out_json = ROOT / "data/roadmap.json"
     if out_json.exists():
         for p in json.loads(out_json.read_text())["pages"]:
-            old_status[p["slug"]] = p.get("status", "todo")
+            old_status[p["slug"]] = (p.get("status", "todo"), p.get("note"))
 
     kw_by_tool = collections.defaultdict(list)
     for r in km:
@@ -277,9 +277,11 @@ def main():
                 comps.append(k["compUrl"])
         p["competitors"] = comps[:5]
         p["category"] = category(p["name"], p["primaryKw"] or "")
-        p["status"] = old_status.get(p["slug"], p["status"])
+        st, note = old_status.get(p["slug"], (p["status"], None))
+        p["status"] = st
+        if note: p["note"] = note  # e.g. "covered by /right-triangle-calculator/ (overlap check)"
 
-    ordered = sorted(pages.values(), key=lambda p: (p["status"] == "hold", p["rank"]))
+    ordered = sorted(pages.values(), key=lambda p: (p["status"] in ("hold", "covered"), p["rank"]))
     for i, p in enumerate(ordered, 1):
         p["order"] = i
         p["batch"] = (i - 1) // 10 + 1  # 10 quality pages per batch (see docs/00-PROJECT-SUMMARY.md)
@@ -298,6 +300,7 @@ def main():
         lines.append(f"| {p['order']} | {p['batch']} | {p['status']} | {p['name']} | `{p['slug']}` | {p['category']} | "
                      f"{p['primaryKw']} | {p['primaryVol']} | {p['primaryKd']} | {p['clusterVol']} | {len(p['mergedFrom'])} |")
     lines += ["", "## Excluded rows", ""] + [f"- {e['name']} — {e['reason']}" for e in excluded]
+    lines += ["", "## Covered by a live tool (not built: overlap check)", ""] + [f"- {p['name']} — {p.get('note', '')}" for p in ordered if p["status"] == "covered"]
     lines += ["", "## Policy hold", ""] + [f"- {h['name']} — {h['reason']}" for h in held]
     (ROOT / "data/ROADMAP.md").write_text("\n".join(lines) + "\n")
     print(f"pages={len(ordered)} excluded={len(excluded)} held={len(held)}")

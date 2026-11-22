@@ -48,3 +48,10 @@ Rows with status `hold` are policy-sensitive: never build without the owner's OK
    already-live page in the commit message. Never force-push `main`. Still ask first for anything outside normal tool/content
    work (deleting pages, changing URLs, renaming the brand/domain, policy-hold tools).
 7. Free tools only for now: no paid APIs/services. Don't scrape Google directly (ToS); use the WebSearch tool + `seo:record`.
+8. Owner rule (2026-11-22): **LIVE TOOLS ARE FROZEN.** Never edit a published tool's files (`src/tools/<slug>/*`, its page,
+   title, meta, URL, content) — changes can cost rankings. Shared code may change only if live pages render identically
+   (run the full e2e suite). Exceptions only with the owner's explicit OK (e.g. a factual/legal error).
+9. Owner rule (2026-11-22): **NO MATCHING TOOLS.** Before building, run `npm run roadmap:overlap -- <slugs>` and compare
+   keyword lists with live tools. If a todo page has the same intent as a live tool, set its `status` to `"covered"` with a
+   `note` ("covered by /<slug>/ (why)") in `data/roadmap.json` and skip it — do not build it and do not extend the live tool.
+   Overlaps between two not-yet-built pages: merge them into one new tool (your call).

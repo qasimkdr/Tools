@@ -30,6 +30,6 @@ Goal: every page reachable in ≤3 clicks, link equity flows from strong pages t
 
 ## Rules
 - Link only to live pages (registry guarantees this for automatic blocks; for manual links, check the slug is in `TOOLS`).
-- When a tool goes live, add it to `related` of 1–3 existing matching tools (reverse links = faster discovery).
+- Never edit a live tool to add links (owner rule: live tools are frozen). The new tool lists its matches in `related`; `relatedTools()` gives reciprocal links a +3 score, so live pages' auto-generated related cards update on rebuild without editing their files.
 - Strong pages (high impressions in GSC) should link to new pages in the same cluster for 30 days after launch.
 - Anchor text varies naturally; no exact-match anchor repeated sitewide.
