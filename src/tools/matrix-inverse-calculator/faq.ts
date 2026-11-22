@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How do you find the inverse of a 2×2 matrix?", a: "For A = [[a, b], [c, d]], A⁻¹ = 1/(ad − bc) × [[d, −b], [−c, a]]: swap a and d, change the signs of b and c, and divide by the determinant. For [[4, 7], [2, 6]], the determinant is 24 − 14 = 10, so the inverse is [[0.6, −0.7], [−0.2, 0.4]]." },
+  { q: "How do you find the inverse of a 3×3 matrix?", a: "The most practical method is Gauss-Jordan elimination: write [A | I], use row operations to turn the left side into the identity matrix, and the right side becomes A⁻¹. Alternatively, compute the adjugate (transposed cofactor matrix) and divide by the determinant. The calculator shows every row operation." },
+  { q: "When does a matrix have no inverse?", a: "A square matrix has an inverse only if its determinant is non-zero. If the determinant is 0, the matrix is singular: its rows (or columns) are linearly dependent, such as [[1, 2], [2, 4]], where the second row is twice the first." },
+  { q: "Can a non-square matrix have an inverse?", a: "No, only square matrices can have a true inverse. Rectangular matrices can have one-sided or pseudo-inverses (such as the Moore-Penrose pseudoinverse), which are used in least-squares problems." },
+  { q: "Why show the answer as fractions?", a: "Matrix inverses usually contain fractions, and decimals introduce rounding errors that grow through further calculations. This calculator works with exact fractions, so A × A⁻¹ comes out as exactly the identity matrix." },
+  { q: "What is a matrix inverse used for?", a: "Solving systems of linear equations (x = A⁻¹b), undoing transformations in computer graphics, decoding Hill ciphers, and many statistics and engineering calculations, such as regression coefficients." },
+];

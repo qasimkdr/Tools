@@ -1,0 +1,256 @@
+{
+ "keywords": {
+  "cone volume calculator": {
+   "fetchedAt": "2026-11-22T12:55:05.360Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 2400,
+   "fileKd": 37,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 2,
+    "url": "www.calculator.net/volume-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://inchcalculator.com/cone-volume-calculator",
+     "domain": "inchcalculator.com",
+     "title": "Cone Volume Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.omnicalculator.com/math/cone-volume",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.omnicalculator.com/math/cone-volume?c=ARS",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://byjus.com/us/math/volume-of-a-cone-calculator",
+     "domain": "byjus.com",
+     "title": "volume of a cone calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://mometrix.com/academy/?p=211645",
+     "domain": "mometrix.com",
+     "title": "Cone Volume Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://online.visual-paradigm.com/tabular/calculator/math/cone-volume-calculator",
+     "domain": "online.visual-paradigm.com",
+     "title": "Cone Volume Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://online.visual-paradigm.com/spreadsheet-editor/calculator/cone-volume-calculator/",
+     "domain": "online.visual-paradigm.com",
+     "title": "Cone Volume Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.mometrix.com/academy/cone-volume-calculator/",
+     "domain": "www.mometrix.com",
+     "title": "Volume of a Cone Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.gigacalculator.com/calculators/volume-of-cone-calculator.php",
+     "domain": "www.gigacalculator.com",
+     "title": "Volume of a Cone Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://de.wolframalpha.com/calculators/mathematics-solid-geometry-volume-curved-object-volume-cone-volume-calculator",
+     "domain": "de.wolframalpha.com",
+     "title": "cone volume calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://goodcalculators.com/cone-volume-calculator/",
+     "domain": "goodcalculators.com",
+     "title": "Cone Volume Calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.firgelliauto.com/es/blogs/engineering-calculators/cone-volume-and-surface-area-calculator",
+     "domain": "www.firgelliauto.com",
+     "title": "Cone Volume and Surface Area Calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://mathcheck.net/calculators/cone-volume-calculator",
+     "domain": "mathcheck.net",
+     "title": "cone volume calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://www.vcalc.com/wiki/vCalc/Cone - Volume",
+     "domain": "www.vcalc.com",
+     "title": "Cone Volume",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://engineersedge.com/volume_calc/cone.htm",
+     "domain": "engineersedge.com",
+     "title": "Engineers Edge",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://www.calctool.org/CALC/math/solids/cone",
+     "domain": "www.calctool.org",
+     "title": "www.calctool.org",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://www.calculate.co.nz/cone-volume-calculator.php",
+     "domain": "www.calculate.co.nz",
+     "title": "Cone Volume Calculator",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://www.calculator.net/volume-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Volume Calculator",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://calculator.academy/cone-volume-calculator/",
+     "domain": "calculator.academy",
+     "title": "Cone Volume Calculator",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://www.vcalc.com/wiki/volume-of-a-cone",
+     "domain": "www.vcalc.com",
+     "title": "The Volume of a Cone calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "cone-volume-calculator",
+ "page": "cone-volume-calculator",
+ "category": "math",
+ "name": "Cone Volume Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T12:55:05.360Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 2,
+   "keywords": 2,
+   "urls": [
+    "https://www.omnicalculator.com/math/cone-volume",
+    "https://www.omnicalculator.com/math/cone-volume?c=ARS"
+   ]
+  },
+  {
+   "domain": "visual-paradigm.com",
+   "bestRank": 6,
+   "keywords": 2,
+   "urls": [
+    "https://online.visual-paradigm.com/tabular/calculator/math/cone-volume-calculator",
+    "https://online.visual-paradigm.com/spreadsheet-editor/calculator/cone-volume-calculator/"
+   ]
+  },
+  {
+   "domain": "vcalc.com",
+   "bestRank": 14,
+   "keywords": 2,
+   "urls": [
+    "https://www.vcalc.com/wiki/vCalc/Cone - Volume",
+    "https://www.vcalc.com/wiki/volume-of-a-cone"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://inchcalculator.com/cone-volume-calculator"
+   ]
+  },
+  {
+   "domain": "byjus.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://byjus.com/us/math/volume-of-a-cone-calculator"
+   ]
+  },
+  {
+   "domain": "gigacalculator.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://www.gigacalculator.com/calculators/volume-of-cone-calculator.php"
+   ]
+  },
+  {
+   "domain": "wolframalpha.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://de.wolframalpha.com/calculators/mathematics-solid-geometry-volume-curved-object-volume-cone-volume-calculator"
+   ]
+  },
+  {
+   "domain": "goodcalculators.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://goodcalculators.com/cone-volume-calculator/"
+   ]
+  },
+  {
+   "domain": "firgelliauto.com",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://www.firgelliauto.com/es/blogs/engineering-calculators/cone-volume-and-surface-area-calculator"
+   ]
+  },
+  {
+   "domain": "mathcheck.net",
+   "bestRank": 13,
+   "keywords": 1,
+   "urls": [
+    "https://mathcheck.net/calculators/cone-volume-calculator"
+   ]
+  }
+ ]
+}

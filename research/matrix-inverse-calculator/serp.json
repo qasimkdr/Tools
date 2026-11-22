@@ -1,0 +1,257 @@
+{
+ "keywords": {
+  "inverse matrix calculator": {
+   "fetchedAt": "2026-11-22T12:55:05.585Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 6600,
+   "fileKd": 15,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 18,
+    "url": "www.omnicalculator.com/math/matrix-inverse"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://m.wolframalpha.com/calculators/matrix-inverse-calculator",
+     "domain": "m.wolframalpha.com",
+     "title": "matrix inverse calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://omnicalculator.com/math/matrix-inverse",
+     "domain": "omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://es.wolframalpha.com/calculators/matrix-inverse-calculator",
+     "domain": "es.wolframalpha.com",
+     "title": "matrix inverse calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://cuemath.com/calculators/inverse-matrix-calculator",
+     "domain": "cuemath.com",
+     "title": "Inverse Matrix Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://testbook.com/amp/calculators/inverse-matrix-calculator",
+     "domain": "testbook.com",
+     "title": "inverse matrix calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://planetcalc.com/1239/",
+     "domain": "planetcalc.com",
+     "title": "Matrix Inverter",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.miniwebtool.com/matrix-inverse-calculator/",
+     "domain": "www.miniwebtool.com",
+     "title": "matrix inverse calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://mathcracker.com/inverse-matrix-calculator",
+     "domain": "mathcracker.com",
+     "title": "inverse matrix calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://emathhelp.net/calculators/linear-algebra/inverse-of-matrix-calculator/",
+     "domain": "emathhelp.net",
+     "title": "Matrix Inverse Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.calculate.co.nz/matrix-inverse-calculator.php",
+     "domain": "www.calculate.co.nz",
+     "title": "Matrix Inverse Calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://planetcalc.com/3324/?license=1",
+     "domain": "planetcalc.com",
+     "title": "Modular inverse of a matrix",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://mathcheck.net/calculators/matrix-inverse",
+     "domain": "mathcheck.net",
+     "title": "matrix inverse",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.efunda.com/webM/matrix/inverse.cfm",
+     "domain": "www.efunda.com",
+     "title": "www.efunda.com",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://people.richland.edu/james/lecture/m116/matrices/inverses.html",
+     "domain": "people.richland.edu",
+     "title": "6.3 - The Inverse of a Square Matrix",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://dcode.fr/matrix-inverse",
+     "domain": "dcode.fr",
+     "title": "matrix inverse",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://www.omnicalculator.com/fr/mathematiques/calculateur-inverse-matrice",
+     "domain": "www.omnicalculator.com",
+     "title": "Logo d'Omni Calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://bushe.co/tools/matrix-inverse-calculator/",
+     "domain": "bushe.co",
+     "title": "matrix inverse calculator",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://brightchamps.com/en-us/math/calculators/inverse-matrix-calculator",
+     "domain": "brightchamps.com",
+     "title": "BrightChamps Logo",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://www.meracalculator.com/math/inverse-matrix.php",
+     "domain": "www.meracalculator.com",
+     "title": "Inverse Matrix Calculator",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://brightchamps.com/en-gb/math/calculators/inverse-matrix-calculator",
+     "domain": "brightchamps.com",
+     "title": "BrightChamps Logo",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "matrix-inverse-calculator",
+ "page": "matrix-inverse-calculator",
+ "category": "math",
+ "name": "Matrix Inverse Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T12:55:05.586Z",
+ "topCompetitors": [
+  {
+   "domain": "wolframalpha.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://m.wolframalpha.com/calculators/matrix-inverse-calculator",
+    "https://es.wolframalpha.com/calculators/matrix-inverse-calculator"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 2,
+   "keywords": 2,
+   "urls": [
+    "https://omnicalculator.com/math/matrix-inverse",
+    "https://www.omnicalculator.com/fr/mathematiques/calculateur-inverse-matrice"
+   ]
+  },
+  {
+   "domain": "planetcalc.com",
+   "bestRank": 6,
+   "keywords": 2,
+   "urls": [
+    "https://planetcalc.com/1239/",
+    "https://planetcalc.com/3324/?license=1"
+   ]
+  },
+  {
+   "domain": "brightchamps.com",
+   "bestRank": 18,
+   "keywords": 2,
+   "urls": [
+    "https://brightchamps.com/en-us/math/calculators/inverse-matrix-calculator",
+    "https://brightchamps.com/en-gb/math/calculators/inverse-matrix-calculator"
+   ]
+  },
+  {
+   "domain": "cuemath.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://cuemath.com/calculators/inverse-matrix-calculator"
+   ]
+  },
+  {
+   "domain": "testbook.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://testbook.com/amp/calculators/inverse-matrix-calculator"
+   ]
+  },
+  {
+   "domain": "miniwebtool.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.miniwebtool.com/matrix-inverse-calculator/"
+   ]
+  },
+  {
+   "domain": "mathcracker.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://mathcracker.com/inverse-matrix-calculator"
+   ]
+  },
+  {
+   "domain": "emathhelp.net",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://emathhelp.net/calculators/linear-algebra/inverse-of-matrix-calculator/"
+   ]
+  },
+  {
+   "domain": "calculate.co.nz",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculate.co.nz/matrix-inverse-calculator.php"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,285 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/everyday-life/circle-skirt": {
+   "url": "https://www.omnicalculator.com/everyday-life/circle-skirt",
+   "finalUrl": "https://www.omnicalculator.com/everyday-life/circle-skirt",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T12:55:49.549Z",
+   "title": "Circle Skirt Calculator",
+   "metaDescription": "Circle skirt calculator makes sewing circle skirts a breeze.",
+   "canonical": "https://www.omnicalculator.com/everyday-life/circle-skirt",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Circle Skirt Calculator"
+   ],
+   "h2": [
+    "How to make a circle skirt",
+    "Circle skirt math",
+    "Circle skirt calculator example",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I calculate the waist radius for a circle skirt with a waist of 30.7 inches?",
+    "How do I calculate a 3/4 circle skirt?",
+    "How do I calculate measurements for a circle skirt?",
+    "How do I calculate yardage for a circle skirt?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Circle Skirt Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to make a circle skirt"
+    },
+    {
+     "level": 2,
+     "text": "Circle skirt math"
+    },
+    {
+     "level": 2,
+     "text": "Circle skirt calculator example"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate the waist radius for a circle skirt with a waist of 30.7 inches?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate a 3/4 circle skirt?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate measurements for a circle skirt?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate yardage for a circle skirt?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 989,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "How do I calculate the waist radius for a circle skirt with a waist of 30.7 inches?",
+    "How do I calculate a 3/4 circle skirt?",
+    "How do I calculate measurements for a circle skirt?",
+    "How do I calculate yardage for a circle skirt?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "circle skirt",
+     "weight": 41
+    },
+    {
+     "term": "circle",
+     "weight": 38
+    },
+    {
+     "term": "skirt",
+     "weight": 38
+    },
+    {
+     "term": "waist",
+     "weight": 21
+    },
+    {
+     "term": "length",
+     "weight": 19
+    },
+    {
+     "term": "fabric",
+     "weight": 15
+    },
+    {
+     "term": "fabric length",
+     "weight": 15
+    },
+    {
+     "term": "radius",
+     "weight": 14
+    },
+    {
+     "term": "waist radius",
+     "weight": 14
+    },
+    {
+     "term": "calculate",
+     "weight": 13
+    },
+    {
+     "term": "formula",
+     "weight": 10
+    },
+    {
+     "term": "calculator",
+     "weight": 9
+    },
+    {
+     "term": "full circle",
+     "weight": 9
+    },
+    {
+     "term": "measurements",
+     "weight": 8
+    },
+    {
+     "term": "full",
+     "weight": 8
+    },
+    {
+     "term": "skirt calculator",
+     "weight": 8
+    },
+    {
+     "term": "sewing",
+     "weight": 7
+    },
+    {
+     "term": "type",
+     "weight": 6
+    },
+    {
+     "term": "need",
+     "weight": 6
+    },
+    {
+     "term": "decide",
+     "weight": 5
+    },
+    {
+     "term": "sewing crafts",
+     "weight": 5
+    },
+    {
+     "term": "skirt math",
+     "weight": 5
+    },
+    {
+     "term": "you're done",
+     "weight": 5
+    },
+    {
+     "term": "skirt measure",
+     "weight": 5
+    },
+    {
+     "term": "skirt's length",
+     "weight": 5
+    },
+    {
+     "term": "crafts",
+     "weight": 4
+    },
+    {
+     "term": "you're",
+     "weight": 4
+    },
+    {
+     "term": "math",
+     "weight": 4
+    },
+    {
+     "term": "quarter",
+     "weight": 4
+    },
+    {
+     "term": "waistband",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "3/4 circle, half circle, and quarter circle skirts require less material and are more minimalistic in appearance.",
+    "Let's choose a 3/4 circle skirt – not overly flowing.",
+    "Let's assume it will be a midi skirt of length 60 cm.",
+    "To calculate a 3/4 circle skirt: Measure your waist in cm - W."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 10,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Bogna Szyk",
+    "published": "2017-06-02T09:53:00.197Z",
+    "modified": "2026-08-29T19:35:45.898Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 467,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 23,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "pleated skirt calculator",
+     "fabric calculator",
+     "calculate the area of a semicircle",
+     "Audiobook Speed Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/choosing-the-right-circle-skirt",
+     "https://www.omnicalculator.com/tips-for-cutting-and-sewing-circle-skirt",
+     "https://www.omnicalculator.com/crafts-prompt-library",
+     "https://www.omnicalculator.com/everyday-life/pleated-skirt",
+     "https://www.omnicalculator.com/everyday-life/fabric",
+     "https://www.omnicalculator.com/math/semicircle-area",
+     "https://www.omnicalculator.com/everyday-life/audiobook-speed"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

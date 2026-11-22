@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "What does a normal CDF calculator do?", a: "It finds the probability that a normally distributed value falls below, above or between given points: the area under the bell curve. For IQ scores with mean 100 and standard deviation 15, P(X ≤ 120) = 0.9088, so about 91% of people score 120 or lower." },
+  { q: "How do I calculate normal CDF by hand?", a: "Convert x to a z-score, z = (x − μ) ÷ σ, then look up Φ(z) in a standard normal table. For x = 120, μ = 100, σ = 15: z = 1.333, and Φ(1.333) ≈ 0.9088. For P(X ≥ x) use 1 − Φ(z); between two values, subtract their Φ values." },
+  { q: "How do I use normalcdf on a TI-84?", a: "Press 2nd → VARS (DISTR) → normalcdf( and enter lower bound, upper bound, μ, σ. For 'less than' use −1E99 as the lower bound, and for 'greater than' use 1E99 as the upper bound. The calculator shows the equivalent command for your inputs." },
+  { q: "What is the 68-95-99.7 rule?", a: "In a normal distribution, about 68.27% of values lie within 1 standard deviation of the mean, 95.45% within 2, and 99.73% within 3. So with mean 100 and SD 15, about 68% of values fall between 85 and 115." },
+  { q: "How do I find a value from a probability (inverse normal)?", a: "Use x = μ + z × σ, where z is the z-score with that area to its left. The 95th percentile of a normal distribution with mean 100 and SD 15 is 100 + 1.645 × 15 = 124.67. Choose Inverse mode to calculate it." },
+  { q: "What's the difference between normal CDF and PDF?", a: "The PDF gives the height of the curve at a point, which isn't itself a probability for a continuous variable. The CDF gives the accumulated area (probability) up to that point. For probability questions, you almost always want the CDF." },
+];

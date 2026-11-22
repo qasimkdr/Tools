@@ -13,3 +13,8 @@ export function horizontalFill(r: number, L: number, d: number) {
 
 /** Cubic feet → other volume units. */
 export const FT3 = { ft3: 1, in3: 1728, yd3: 1 / 27, m3: 0.0283168466, L: 28.316846592, galUS: 7.48051948 } as const;
+
+/** Cone and frustum (truncated cone). R = bottom radius, r = top radius (0 for a full cone), h = perpendicular height. */
+export const frustumVolume = (R: number, r: number, h: number) => (Math.PI * h * (R * R + R * r + r * r)) / 3;
+export const frustumSlant = (R: number, r: number, h: number) => Math.hypot(R - r, h);
+export const frustumLateral = (R: number, r: number, h: number) => Math.PI * (R + r) * frustumSlant(R, r, h);

@@ -1,0 +1,1045 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/statistics/normal-distribution": {
+   "url": "https://www.omnicalculator.com/statistics/normal-distribution",
+   "finalUrl": "https://www.omnicalculator.com/statistics/normal-distribution",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T12:55:20.119Z",
+   "title": "Normal Distribution Calculator",
+   "metaDescription": "Effortlessly calculate probabilities with our bell curve calculator, a perfect tool for any probability distribution analysis. Try it today!",
+   "canonical": "https://www.omnicalculator.com/statistics/normal-distribution",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Normal Distribution Calculator"
+   ],
+   "h2": [
+    "Normal distribution definition",
+    "What is the standard normal distribution?",
+    "The normal CDF formula",
+    "Formula for normal distribution: an example",
+    "How to use the normal distribution calculator: an example",
+    "The amazing properties of the bell curve probability distribution",
+    "More about the central limit theorem",
+    "Normal distribution table and multivariate normal",
+    "Normal distribution and statistical testing",
+    "Going beyond the bell curve",
+    "FAQs"
+   ],
+   "h3": [
+    "What is the normal distribution in statistics?",
+    "Can a normal distribution have a large standard deviation?",
+    "How do I know if data is normally distributed?",
+    "Which are the two main parameters of the normal distribution?",
+    "What percentage of trees will have a circumference greater than 210 cm?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Normal Distribution Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Normal distribution definition"
+    },
+    {
+     "level": 2,
+     "text": "What is the standard normal distribution?"
+    },
+    {
+     "level": 2,
+     "text": "The normal CDF formula"
+    },
+    {
+     "level": 2,
+     "text": "Formula for normal distribution: an example"
+    },
+    {
+     "level": 2,
+     "text": "How to use the normal distribution calculator: an example"
+    },
+    {
+     "level": 2,
+     "text": "The amazing properties of the bell curve probability distribution"
+    },
+    {
+     "level": 2,
+     "text": "More about the central limit theorem"
+    },
+    {
+     "level": 2,
+     "text": "Normal distribution table and multivariate normal"
+    },
+    {
+     "level": 2,
+     "text": "Normal distribution and statistical testing"
+    },
+    {
+     "level": 2,
+     "text": "Going beyond the bell curve"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What is the normal distribution in statistics?"
+    },
+    {
+     "level": 3,
+     "text": "Can a normal distribution have a large standard deviation?"
+    },
+    {
+     "level": 3,
+     "text": "How do I know if data is normally distributed?"
+    },
+    {
+     "level": 3,
+     "text": "Which are the two main parameters of the normal distribution?"
+    },
+    {
+     "level": 3,
+     "text": "What percentage of trees will have a circumference greater than 210 cm?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 2809,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "What is the normal distribution in statistics?",
+    "Can a normal distribution have a large standard deviation?",
+    "How do I know if data is normally distributed?",
+    "Which are the two main parameters of the normal distribution?",
+    "What percentage of trees will have a circumference greater than 210 cm?",
+    "What is the standard normal distribution?"
+   ],
+   "faqSchemaCount": 5,
+   "topics": [
+    {
+     "term": "distribution",
+     "weight": 94
+    },
+    {
+     "term": "normal distribution",
+     "weight": 78
+    },
+    {
+     "term": "normal",
+     "weight": 68
+    },
+    {
+     "term": "mean",
+     "weight": 39
+    },
+    {
+     "term": "standard",
+     "weight": 35
+    },
+    {
+     "term": "standard deviation",
+     "weight": 33
+    },
+    {
+     "term": "calculator",
+     "weight": 26
+    },
+    {
+     "term": "deviation",
+     "weight": 22
+    },
+    {
+     "term": "probability",
+     "weight": 22
+    },
+    {
+     "term": "value",
+     "weight": 20
+    },
+    {
+     "term": "values",
+     "weight": 17
+    },
+    {
+     "term": "data",
+     "weight": 17
+    },
+    {
+     "term": "distribution calculator",
+     "weight": 14
+    },
+    {
+     "term": "bell curve",
+     "weight": 14
+    },
+    {
+     "term": "curve",
+     "weight": 13
+    },
+    {
+     "term": "equal",
+     "weight": 13
+    },
+    {
+     "term": "bell",
+     "weight": 12
+    },
+    {
+     "term": "score",
+     "weight": 11
+    },
+    {
+     "term": "standard normal",
+     "weight": 11
+    },
+    {
+     "term": "example",
+     "weight": 10
+    },
+    {
+     "term": "check",
+     "weight": 9
+    },
+    {
+     "term": "statistics",
+     "weight": 9
+    },
+    {
+     "term": "mean value",
+     "weight": 9
+    },
+    {
+     "term": "within",
+     "weight": 9
+    },
+    {
+     "term": "variable",
+     "weight": 8
+    },
+    {
+     "term": "function",
+     "weight": 8
+    },
+    {
+     "term": "statistical",
+     "weight": 8
+    },
+    {
+     "term": "area under",
+     "weight": 8
+    },
+    {
+     "term": "probability distribution",
+     "weight": 8
+    },
+    {
+     "term": "normal cdf",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "The total area under the standard normal distribution curve is equal to 1.",
+    "The right-hand tail and the left-hand tail of the normal distribution are symmetrical, each with an area of 0.16.",
+    "Our normal distribution calculator will display two values: the probability of a person being taller than 185 cm ( 𝑃 ( 𝑥 > 𝑋 ) P(x>X)) and shorter than 185 cm ( 𝑃 ( 𝑥 < 𝑋 ) P(x<X)).",
+    "That's why best practice says that many statistical tests and procedures need a sample of more than 30 data points to ensure that a normal distribution is achieved.",
+    "For example, if X = 1.96, then X is the 97.5 percentile point of the standard normal distribution.",
+    "For example, a normal distribution may have a mean of 6 but a standard deviation of 20.",
+    "2.5%, assuming that for an oak tree, the normal distribution of the circumference has μ = 150 cm and σ = 30 cm.",
+    "Draw the normal distribution with the peak at μ = 150 cm and σ = 30 cm."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 8,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Jakub Janus",
+    "published": "2016-12-01T10:21:45.651Z",
+    "modified": "2026-07-28T17:05:26.877Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 648,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 40,
+    "external": 1,
+    "contentInternal": 24,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Sampling and Confidence Intervals for Biology and Medicine",
+     "Statistics in LLMs — Introduction to basic concepts",
+     "standard deviation",
+     "empirical rule",
+     "z-score",
+     "probability",
+     "inverse normal distribution calculator",
+     "normal probability calculator for sampling distributions",
+     "sample size",
+     "exponential growth prediction calculator",
+     "central limit theorem",
+     "Poisson distribution",
+     "normal approximation calculator",
+     "percentile",
+     "histogram calculator",
+     "Skewness",
+     "geometric distribution",
+     "lognormal distribution calculator",
+     "beta distribution calculator",
+     "uniform distribution"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/sampling-confidence-interval-bio-med",
+     "https://www.omnicalculator.com/reports/statistics-in-llms-introduction",
+     "https://www.omnicalculator.com/statistics-prompt-library",
+     "https://www.omnicalculator.com/statistics/standard-deviation",
+     "https://www.omnicalculator.com/statistics/empirical-rule",
+     "https://www.omnicalculator.com/statistics/z-score",
+     "https://www.omnicalculator.com/statistics/probability",
+     "https://www.omnicalculator.com/statistics/inverse-normal-distribution",
+     "https://www.omnicalculator.com/statistics/normal-probability-sampling-distributions",
+     "https://www.omnicalculator.com/statistics/sample-size",
+     "https://www.omnicalculator.com/statistics/exponential-growth-prediction",
+     "https://www.omnicalculator.com/statistics/central-limit-theorem",
+     "https://www.omnicalculator.com/statistics/poisson-distribution",
+     "https://www.omnicalculator.com/statistics/normal-approximation",
+     "https://www.omnicalculator.com/statistics/percentile",
+     "https://www.omnicalculator.com/statistics/histogram",
+     "https://www.omnicalculator.com/statistics/skewness",
+     "https://www.omnicalculator.com/statistics/geometric-distribution",
+     "https://www.omnicalculator.com/statistics/lognormal-distribution",
+     "https://www.omnicalculator.com/statistics/beta-distribution",
+     "https://www.omnicalculator.com/statistics/uniform-distribution",
+     "https://www.omnicalculator.com/statistics/sum-of-squares",
+     "https://www.omnicalculator.com/statistics/midrange",
+     "https://www.omnicalculator.com/statistics/coefficient-of-variation"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/normal-distribution-calculator/": {
+   "url": "https://www.inchcalculator.com/normal-distribution-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/normal-distribution-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T12:55:23.058Z",
+   "title": "Normal Distribution Calculator - Inch Calculator",
+   "metaDescription": "Find the cumulative probabilities and the area under a bell curve using our normal distribution calculator.",
+   "canonical": "https://www.inchcalculator.com/normal-distribution-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Normal Distribution Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Probabilities",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Find a Normal Distribution",
+    "Key Properties of a Normal Distribution",
+    "Central Limit Theorem",
+    "The Empirical Rule",
+    "Frequently Asked Questions",
+    "Similar Statistics Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Standard Normal Distributions",
+    "Normal Distribution Formula",
+    "Cumulative Distribution Function Formula",
+    "How to Find the Z-Score",
+    "How to Find the Cumulative Probability",
+    "What data should be normally distributed?",
+    "What does it mean when data is not normally distributed?",
+    "What is a standard normal distribution?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Normal Distribution Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Probabilities"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Find a Normal Distribution"
+    },
+    {
+     "level": 3,
+     "text": "Standard Normal Distributions"
+    },
+    {
+     "level": 3,
+     "text": "Normal Distribution Formula"
+    },
+    {
+     "level": 3,
+     "text": "Cumulative Distribution Function Formula"
+    },
+    {
+     "level": 3,
+     "text": "How to Find the Z-Score"
+    },
+    {
+     "level": 3,
+     "text": "How to Find the Cumulative Probability"
+    },
+    {
+     "level": 2,
+     "text": "Key Properties of a Normal Distribution"
+    },
+    {
+     "level": 2,
+     "text": "Central Limit Theorem"
+    },
+    {
+     "level": 2,
+     "text": "The Empirical Rule"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "What data should be normally distributed?"
+    },
+    {
+     "level": 3,
+     "text": "What does it mean when data is not normally distributed?"
+    },
+    {
+     "level": 3,
+     "text": "What is a standard normal distribution?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Statistics Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 1540,
+   "avgSentenceWords": 29,
+   "faqs": [
+    "What data should be normally distributed?",
+    "What does it mean when data is not normally distributed?",
+    "What is a standard normal distribution?"
+   ],
+   "faqSchemaCount": 3,
+   "topics": [
+    {
+     "term": "normal distribution",
+     "weight": 53
+    },
+    {
+     "term": "distribution",
+     "weight": 51
+    },
+    {
+     "term": "normal",
+     "weight": 45
+    },
+    {
+     "term": "standard",
+     "weight": 24
+    },
+    {
+     "term": "data",
+     "weight": 23
+    },
+    {
+     "term": "mean",
+     "weight": 22
+    },
+    {
+     "term": "probability",
+     "weight": 20
+    },
+    {
+     "term": "score",
+     "weight": 19
+    },
+    {
+     "term": "standard deviation",
+     "weight": 17
+    },
+    {
+     "term": "calculator",
+     "weight": 16
+    },
+    {
+     "term": "deviation",
+     "weight": 11
+    },
+    {
+     "term": "standard normal",
+     "weight": 11
+    },
+    {
+     "term": "find",
+     "weight": 9
+    },
+    {
+     "term": "calculate",
+     "weight": 9
+    },
+    {
+     "term": "curve",
+     "weight": 9
+    },
+    {
+     "term": "normally distributed",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "distributions",
+     "weight": 8
+    },
+    {
+     "term": "formula",
+     "weight": 8
+    },
+    {
+     "term": "value",
+     "weight": 8
+    },
+    {
+     "term": "central limit",
+     "weight": 8
+    },
+    {
+     "term": "limit theorem",
+     "weight": 8
+    },
+    {
+     "term": "https www",
+     "weight": 8
+    },
+    {
+     "term": "area under",
+     "weight": 8
+    },
+    {
+     "term": "fall within",
+     "weight": 8
+    },
+    {
+     "term": "function",
+     "weight": 7
+    },
+    {
+     "term": "central",
+     "weight": 7
+    },
+    {
+     "term": "https",
+     "weight": 7
+    },
+    {
+     "term": "sample",
+     "weight": 7
+    },
+    {
+     "term": "values",
+     "weight": 7
+    }
+   ],
+   "claims": [
+    "Standard Normal Distributions A standard normal distribution, sometimes called a z-distribution, is a special normal distribution that has a mean equal to zero and a standard deviation equal to 1.",
+    "A standard normal distribution, sometimes called a z-distribution, is a special normal distribution that has a mean of 0 and variance (or standard deviation) equal to 1."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 4,
+   "images": 6,
+   "videos": 0,
+   "calculatorInputs": [
+    "Mean (μ)",
+    "Standard Deviation (σ)",
+    "Raw Score (x)"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 34,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2021-11-09",
+    "modified": "2024-02-07T15:36:39+00:00",
+    "authoritativeSources": [
+     "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3915399/",
+     "https://www.itl.nist.gov/div898/handbook/eda/section3/eda3661.htm",
+     "https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_probability/BS704_Probability12.html"
+    ]
+   },
+   "ux": {
+    "htmlKB": 133,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 60,
+    "external": 19,
+    "contentInternal": 36,
+    "contentExternal": 13,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Find a Normal Distribution",
+     "Standard Normal Distributions",
+     "Normal Distribution Formula",
+     "Cumulative Distribution Function Formula",
+     "How to Find the Z-Score",
+     "How to Find the Cumulative Probability",
+     "Key Properties of a Normal Distribution",
+     "Central Limit Theorem",
+     "The Empirical Rule",
+     "Frequently Asked Questions",
+     "References",
+     "Full bio",
+     "Normal Distribution Calculator",
+     "continuous probability distribution",
+     "binomial distribution",
+     "Poisson distribution",
+     "mean"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/normal-distribution-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/normal-distribution/",
+     "https://www.inchcalculator.com/normal-distribution-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/normal-distribution-calculator/#idx_how_to_find_a_normal_distribution",
+     "https://www.inchcalculator.com/normal-distribution-calculator/#idx_standard_normal_distributions",
+     "https://www.inchcalculator.com/normal-distribution-calculator/#idx_normal_distribution_formula",
+     "https://www.inchcalculator.com/normal-distribution-calculator/#idx_cumulative_distribution_function_formula",
+     "https://www.inchcalculator.com/normal-distribution-calculator/#idx_how_to_find_the_z-score",
+     "https://www.inchcalculator.com/normal-distribution-calculator/#idx_how_to_find_the_cumulative_probability",
+     "https://www.inchcalculator.com/normal-distribution-calculator/#idx_key_properties_of_a_normal_distribution",
+     "https://www.inchcalculator.com/normal-distribution-calculator/#idx_central_limit_theorem",
+     "https://www.inchcalculator.com/normal-distribution-calculator/#idx_the_empirical_rule",
+     "https://www.inchcalculator.com/normal-distribution-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/normal-distribution-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/brian-libgober/",
+     "https://www.inchcalculator.com/author/pateakia-heath/",
+     "https://www.inchcalculator.com/normal-distribution-calculator/",
+     "https://www.inchcalculator.com/probability-distribution-calculator/",
+     "https://www.inchcalculator.com/binomial-distribution-calculator/",
+     "https://www.inchcalculator.com/poisson-distribution-calculator/",
+     "https://www.inchcalculator.com/mean-calculator/",
+     "https://www.inchcalculator.com/standard-deviation-calculator/",
+     "https://www.inchcalculator.com/probability-calculator/",
+     "https://www.inchcalculator.com/z-score-calculator/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fnormal-distribution-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fnormal-distribution-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fnormal-distribution-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fnormal-distribution-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fnormal-distribution-calculator%2F&text=Normal+Distribution+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fnormal-distribution-calculator%2F&text=Normal+Distribution+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://www.investopedia.com/terms/n/normaldistribution.asp",
+     "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3915399/",
+     "https://www.sciencedirect.com/topics/earth-and-planetary-sciences/probability-density-function",
+     "https://www.itl.nist.gov/div898/handbook/eda/section3/eda3661.htm",
+     "https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Statistics_with_Technology_2e_(Kozak)/06%3A_Continuous_Probability_Distributions/6.03%3A_Finding_Probabilities_for_the_Normal_Distribution",
+     "https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_probability/BS704_Probability12.html"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/z-score-calculator.html": {
+   "url": "https://www.calculator.net/z-score-calculator.html",
+   "finalUrl": "https://www.calculator.net/z-score-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T12:55:26.052Z",
+   "title": "Z-score Calculator",
+   "metaDescription": "Calculator to find out the z-score of a normal distribution, convert between z-score and probability, and find the probability between 2 z-scores.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Z-score Calculator"
+   ],
+   "h2": [
+    "Z-score and Probability Converter",
+    "Probability between Two Z-scores"
+   ],
+   "h3": [
+    "What is z-score?",
+    "Z-table"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Z-score Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Z-score and Probability Converter"
+    },
+    {
+     "level": 2,
+     "text": "Probability between Two Z-scores"
+    },
+    {
+     "level": 3,
+     "text": "What is z-score?"
+    },
+    {
+     "level": 3,
+     "text": "Z-table"
+    }
+   ],
+   "wordCount": 1529,
+   "avgSentenceWords": 66,
+   "faqs": [
+    "What is z-score?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "score",
+     "weight": 23
+    },
+    {
+     "term": "table",
+     "weight": 13
+    },
+    {
+     "term": "mean",
+     "weight": 12
+    },
+    {
+     "term": "standard",
+     "weight": 12
+    },
+    {
+     "term": "probability",
+     "weight": 11
+    },
+    {
+     "term": "population",
+     "weight": 9
+    },
+    {
+     "term": "standard deviation",
+     "weight": 9
+    },
+    {
+     "term": "normal",
+     "weight": 7
+    },
+    {
+     "term": "value",
+     "weight": 7
+    },
+    {
+     "term": "between",
+     "weight": 7
+    },
+    {
+     "term": "point",
+     "weight": 7
+    },
+    {
+     "term": "calculator",
+     "weight": 6
+    },
+    {
+     "term": "normal distribution",
+     "weight": 6
+    },
+    {
+     "term": "population mean",
+     "weight": 6
+    },
+    {
+     "term": "deviation",
+     "weight": 6
+    },
+    {
+     "term": "data point",
+     "weight": 6
+    },
+    {
+     "term": "population standard",
+     "weight": 6
+    },
+    {
+     "term": "standard normal",
+     "weight": 6
+    },
+    {
+     "term": "math",
+     "weight": 5
+    },
+    {
+     "term": "scores",
+     "weight": 5
+    },
+    {
+     "term": "area",
+     "weight": 5
+    },
+    {
+     "term": "above",
+     "weight": 5
+    },
+    {
+     "term": "given",
+     "weight": 5
+    },
+    {
+     "term": "raw score",
+     "weight": 5
+    },
+    {
+     "term": "distribution",
+     "weight": 4
+    },
+    {
+     "term": "used",
+     "weight": 4
+    },
+    {
+     "term": "values",
+     "weight": 4
+    },
+    {
+     "term": "data",
+     "weight": 4
+    },
+    {
+     "term": "score calculator",
+     "weight": 3
+    },
+    {
+     "term": "raw",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "On the graph of the standard normal distribution, z = 0 is therefore the center of the curve.",
+    "each value in the table is the area between z = 0 and the z-score of the given value, which represents the probability that a data point will lie within the referenced region in the standard normal distribution.",
+    "This means that for a normally distributed population, there is a 36.864% chance, a data point will have a z-score between 0 and 1.12."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 7,
+   "lists": 1,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "c1raw",
+    "c1mean",
+    "c1sd",
+    "c2z",
+    "c2p",
+    "c2pg",
+    "c2p0",
+    "c2pin",
+    "c2pout",
+    "c3z1",
+    "c3z2"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 24,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 18,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 18,
+    "external": 0,
+    "contentInternal": 18,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "math",
+     "z-score calculator",
+     "Standard Deviation Calculator",
+     "Math Calculators",
+     "Scientific",
+     "Fraction",
+     "Percentage",
+     "Triangle",
+     "Volume",
+     "Standard Deviation",
+     "Random Number Generator",
+     "More Math Calculators",
+     "Financial",
+     "Fitness and Health",
+     "Math",
+     "Other",
+     "about us",
+     "sitemap"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/z-score-calculator.html",
+     "https://www.calculator.net/standard-deviation-calculator.html",
+     "https://www.calculator.net/scientific-calculator.html",
+     "https://www.calculator.net/fraction-calculator.html",
+     "https://www.calculator.net/percent-calculator.html",
+     "https://www.calculator.net/triangle-calculator.html",
+     "https://www.calculator.net/volume-calculator.html",
+     "https://www.calculator.net/random-number-generator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

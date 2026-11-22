@@ -1,0 +1,1315 @@
+{
+ "pages": {
+  "https://www.inchcalculator.com/cone-volume-calculator/": {
+   "url": "https://www.inchcalculator.com/cone-volume-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/cone-volume-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T12:55:06.890Z",
+   "title": "Cone Volume Calculator - Inch Calculator",
+   "metaDescription": "Use our cone volume calculator to find the volume of a cone or conical frustum. Plus, learn the formulas to find cone volume.",
+   "canonical": "https://www.inchcalculator.com/cone-volume-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Cone Volume Calculator"
+   ],
+   "h2": [
+    "Cone Volume Formula",
+    "Frustum Volume Formula",
+    "Tell Us What You Think",
+    "Results: Volume",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate the Volume of a Cone",
+    "How to Calculate the Volume of a Conical Frustum",
+    "Similar Geometry Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Cone Volume Formula",
+    "Conical Frustum Volume Formula"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Cone Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Cone Volume Formula"
+    },
+    {
+     "level": 2,
+     "text": "Frustum Volume Formula"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Volume"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate the Volume of a Cone"
+    },
+    {
+     "level": 3,
+     "text": "Cone Volume Formula"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate the Volume of a Conical Frustum"
+    },
+    {
+     "level": 3,
+     "text": "Conical Frustum Volume Formula"
+    },
+    {
+     "level": 2,
+     "text": "Similar Geometry Calculators"
+    }
+   ],
+   "wordCount": 575,
+   "avgSentenceWords": 32,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "volume",
+     "weight": 29
+    },
+    {
+     "term": "cone",
+     "weight": 18
+    },
+    {
+     "term": "frustum",
+     "weight": 11
+    },
+    {
+     "term": "radius",
+     "weight": 11
+    },
+    {
+     "term": "base",
+     "weight": 11
+    },
+    {
+     "term": "cone volume",
+     "weight": 11
+    },
+    {
+     "term": "calculator",
+     "weight": 10
+    },
+    {
+     "term": "calculate",
+     "weight": 10
+    },
+    {
+     "term": "height",
+     "weight": 10
+    },
+    {
+     "term": "conical frustum",
+     "weight": 9
+    },
+    {
+     "term": "volume formula",
+     "weight": 9
+    },
+    {
+     "term": "formula",
+     "weight": 9
+    },
+    {
+     "term": "top",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "volume calculator",
+     "weight": 8
+    },
+    {
+     "term": "conical",
+     "weight": 6
+    },
+    {
+     "term": "base radius",
+     "weight": 6
+    },
+    {
+     "term": "times",
+     "weight": 6
+    },
+    {
+     "term": "frustum volume",
+     "weight": 5
+    },
+    {
+     "term": "top radius",
+     "weight": 5
+    },
+    {
+     "term": "results volume",
+     "weight": 5
+    },
+    {
+     "term": "results",
+     "weight": 4
+    },
+    {
+     "term": "rounded",
+     "weight": 4
+    },
+    {
+     "term": "find",
+     "weight": 4
+    },
+    {
+     "term": "height height",
+     "weight": 3
+    },
+    {
+     "term": "result",
+     "weight": 3
+    },
+    {
+     "term": "result unit",
+     "weight": 3
+    },
+    {
+     "term": "facebook share",
+     "weight": 3
+    },
+    {
+     "term": "page",
+     "weight": 3
+    },
+    {
+     "term": "inch calculator",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "For example, let’s calculate the volume of a cone with a radius of 7 and a height of 22.",
+    "V = 1 / 3 × π × 7² × 22 V = 1128.9 So, the volume of this cone is 1128.9."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 2,
+   "images": 6,
+   "videos": 0,
+   "calculatorInputs": [
+    "Height",
+    "Height Units",
+    "Radius",
+    "Radius Units",
+    "Height",
+    "Height Units",
+    "Base Radius",
+    "Base Radius Units",
+    "Top Radius",
+    "Top Radius Units",
+    "Result Unit",
+    "Result Unit"
+   ],
+   "selectOptionsSample": "in ft yd mm cm m in ft yd mm cm m in ft yd mm cm m in ft yd mm cm m in ft yd mm cm m in³ ft³ yd³ mm³ cm³ m³ in³ ft³ yd³ mm³ cm³ m³",
+   "unitToggle": true,
+   "wordsBeforeTool": 37,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2023-07-25",
+    "modified": "2023-07-25T15:31:26+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 126,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 41,
+    "external": 13,
+    "contentInternal": 17,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate the Volume of a Cone",
+     "Cone Volume Formula",
+     "How to Calculate the Volume of a Conical Frustum",
+     "Conical Frustum Volume Formula",
+     "Full bio",
+     "Cone Volume Calculator",
+     "calculate the volume",
+     "radius",
+     "Slope Calculator",
+     "Volume Calculator - Find Volume",
+     "Area Calculator - Find Area",
+     "Angle Conversion Calculators",
+     "Area Conversion Calculators",
+     "See All"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/cone-volume-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/cone-volume/",
+     "https://www.inchcalculator.com/cone-volume-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/cone-volume-calculator/#idx_how_to_calculate_the_volume_of_a_cone",
+     "https://www.inchcalculator.com/cone-volume-calculator/#idx_cone_volume_formula",
+     "https://www.inchcalculator.com/cone-volume-calculator/#idx_how_to_calculate_the_volume_of_a_conical_frustum",
+     "https://www.inchcalculator.com/cone-volume-calculator/#idx_conical_frustum_volume_formula",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/connor-smith/",
+     "https://www.inchcalculator.com/cone-volume-calculator/",
+     "https://www.inchcalculator.com/volume-calculator/",
+     "https://www.inchcalculator.com/radius-calculator/",
+     "https://www.inchcalculator.com/slope-calculator/",
+     "https://www.inchcalculator.com/area-calculator/",
+     "https://www.inchcalculator.com/convert/angle/",
+     "https://www.inchcalculator.com/convert/area/",
+     "https://www.inchcalculator.com/geometry-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fcone-volume-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fcone-volume-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fcone-volume-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fcone-volume-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fcone-volume-calculator%2F&text=Cone+Volume+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fcone-volume-calculator%2F&text=Cone+Volume+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/math/cone-volume": {
+   "url": "https://www.omnicalculator.com/math/cone-volume",
+   "finalUrl": "https://www.omnicalculator.com/math/cone-volume",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T12:55:10.214Z",
+   "title": "Cone Volume Calculator",
+   "metaDescription": "The cone volume calculator determines a cone's volume and the volume of a truncated cone.",
+   "canonical": "https://www.omnicalculator.com/math/cone-volume",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Cone Volume Calculator"
+   ],
+   "h2": [
+    "Cone volume formula",
+    "How to find the volume of a cone",
+    "Truncated cone volume (volume of frustum)",
+    "Oblique cone volume",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I calculate a cone volume by hand?",
+    "What is the relationship between the volume of a cone and a cylinder?",
+    "What is the volume of a typical ice cream cone?",
+    "What is the volume of cone with radius one and height three?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Cone Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Cone volume formula"
+    },
+    {
+     "level": 2,
+     "text": "How to find the volume of a cone"
+    },
+    {
+     "level": 2,
+     "text": "Truncated cone volume (volume of frustum)"
+    },
+    {
+     "level": 2,
+     "text": "Oblique cone volume"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate a cone volume by hand?"
+    },
+    {
+     "level": 3,
+     "text": "What is the relationship between the volume of a cone and a cylinder?"
+    },
+    {
+     "level": 3,
+     "text": "What is the volume of a typical ice cream cone?"
+    },
+    {
+     "level": 3,
+     "text": "What is the volume of cone with radius one and height three?"
+    }
+   ],
+   "wordCount": 705,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "How do I calculate a cone volume by hand?",
+    "What is the relationship between the volume of a cone and a cylinder?",
+    "What is the volume of a typical ice cream cone?",
+    "What is the volume of cone with radius one and height three?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "volume",
+     "weight": 41
+    },
+    {
+     "term": "cone",
+     "weight": 33
+    },
+    {
+     "term": "cone volume",
+     "weight": 17
+    },
+    {
+     "term": "base",
+     "weight": 13
+    },
+    {
+     "term": "height",
+     "weight": 11
+    },
+    {
+     "term": "radius",
+     "weight": 10
+    },
+    {
+     "term": "calculator",
+     "weight": 7
+    },
+    {
+     "term": "base radius",
+     "weight": 6
+    },
+    {
+     "term": "cylinder",
+     "weight": 6
+    },
+    {
+     "term": "area",
+     "weight": 6
+    },
+    {
+     "term": "volume formula",
+     "weight": 6
+    },
+    {
+     "term": "base area",
+     "weight": 6
+    },
+    {
+     "term": "formula",
+     "weight": 5
+    },
+    {
+     "term": "calculate",
+     "weight": 5
+    },
+    {
+     "term": "volume calculator",
+     "weight": 5
+    },
+    {
+     "term": "ice cream",
+     "weight": 5
+    },
+    {
+     "term": "truncated cone",
+     "weight": 5
+    },
+    {
+     "term": "oblique cone",
+     "weight": 5
+    },
+    {
+     "term": "cream",
+     "weight": 4
+    },
+    {
+     "term": "oblique",
+     "weight": 4
+    },
+    {
+     "term": "same",
+     "weight": 4
+    },
+    {
+     "term": "top",
+     "weight": 3
+    },
+    {
+     "term": "much",
+     "weight": 3
+    },
+    {
+     "term": "ice",
+     "weight": 3
+    },
+    {
+     "term": "need",
+     "weight": 3
+    },
+    {
+     "term": "pyramid",
+     "weight": 3
+    },
+    {
+     "term": "find",
+     "weight": 3
+    },
+    {
+     "term": "truncated",
+     "weight": 3
+    },
+    {
+     "term": "frustum",
+     "weight": 3
+    },
+    {
+     "term": "cut",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "To calculate its volume, you need to multiply the base area (area of a circle: π × r²) by height and by 1/3: volume = (1/3) × π × r² × h A cone with a polygonal base is called a pyramid – see pyramid volume calculator.",
+    "The calculator now displays the volume of the cone – in our case, it's 37.7 cu in.",
+    "Apply the cone volume formula: volume = (1/3) × a × h if you know the base area, or volume = (1/3) × π × r² × h otherwise.",
+    "Recall that the cone volume formula reads: volume = (1/3) × π × r² × h So in our case, we have the following: volume = (1/3) × π × 1² × 3 So the volume of our cone is exactly π!",
+    "As we all know, this can be approximated as volume ≈ 3.14159."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 4,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Hanna Pamuła",
+    "published": "2018-06-05T07:21:32.100Z",
+    "modified": "2026-07-24T13:34:46.957Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 529,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 20,
+    "external": 1,
+    "contentInternal": 4,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "pyramid volume calculator",
+     "slant height calculator",
+     "volume converter",
+     "potting soil calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/math/pyramid-volume",
+     "https://www.omnicalculator.com/math/slant-height",
+     "https://www.omnicalculator.com/conversion/volume-conversion",
+     "https://www.omnicalculator.com/biology/potting-soil-calculator"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/volume-calculator.html": {
+   "url": "https://www.calculator.net/volume-calculator.html",
+   "finalUrl": "https://www.calculator.net/volume-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T12:55:13.344Z",
+   "title": "Volume Calculator",
+   "metaDescription": "This free volume calculator computes the volumes of common shapes, including sphere, cone, cube, cylinder, capsule, cap, conical frustum, ellipsoid, and more.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Volume Calculator"
+   ],
+   "h2": [
+    "Sphere Volume Calculator",
+    "Cone Volume Calculator",
+    "Cube Volume Calculator",
+    "Cylinder Volume Calculator",
+    "Rectangular Tank Volume Calculator",
+    "Capsule Volume Calculator",
+    "Spherical Cap Volume Calculator",
+    "Conical Frustum Volume Calculator",
+    "Ellipsoid Volume Calculator",
+    "Square Pyramid Volume Calculator",
+    "Tube Volume Calculator"
+   ],
+   "h3": [
+    "Sphere",
+    "Cone",
+    "Cube",
+    "Cylinder",
+    "Rectangular Tank",
+    "Capsule",
+    "Spherical Cap",
+    "Conical Frustum",
+    "Ellipsoid",
+    "Square Pyramid",
+    "Tube Pyramid",
+    "Common Volume Units"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Sphere Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Cone Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Cube Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Cylinder Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Rectangular Tank Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Capsule Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Spherical Cap Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Conical Frustum Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Ellipsoid Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Square Pyramid Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tube Volume Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Sphere"
+    },
+    {
+     "level": 3,
+     "text": "Cone"
+    },
+    {
+     "level": 3,
+     "text": "Cube"
+    },
+    {
+     "level": 3,
+     "text": "Cylinder"
+    },
+    {
+     "level": 3,
+     "text": "Rectangular Tank"
+    },
+    {
+     "level": 3,
+     "text": "Capsule"
+    },
+    {
+     "level": 3,
+     "text": "Spherical Cap"
+    },
+    {
+     "level": 3,
+     "text": "Conical Frustum"
+    },
+    {
+     "level": 3,
+     "text": "Ellipsoid"
+    },
+    {
+     "level": 3,
+     "text": "Square Pyramid"
+    },
+    {
+     "level": 3,
+     "text": "Tube Pyramid"
+    },
+    {
+     "level": 3,
+     "text": "Common Volume Units"
+    }
+   ],
+   "wordCount": 2821,
+   "avgSentenceWords": 36,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "volume",
+     "weight": 77
+    },
+    {
+     "term": "height",
+     "weight": 25
+    },
+    {
+     "term": "radius",
+     "weight": 23
+    },
+    {
+     "term": "calculator",
+     "weight": 20
+    },
+    {
+     "term": "cone",
+     "weight": 20
+    },
+    {
+     "term": "volume calculator",
+     "weight": 20
+    },
+    {
+     "term": "sphere",
+     "weight": 18
+    },
+    {
+     "term": "spherical cap",
+     "weight": 15
+    },
+    {
+     "term": "base",
+     "weight": 14
+    },
+    {
+     "term": "spherical",
+     "weight": 14
+    },
+    {
+     "term": "pyramid",
+     "weight": 14
+    },
+    {
+     "term": "has",
+     "weight": 14
+    },
+    {
+     "term": "cylinder",
+     "weight": 13
+    },
+    {
+     "term": "length",
+     "weight": 12
+    },
+    {
+     "term": "three",
+     "weight": 12
+    },
+    {
+     "term": "equation",
+     "weight": 12
+    },
+    {
+     "term": "below volume",
+     "weight": 12
+    },
+    {
+     "term": "ice cream",
+     "weight": 12
+    },
+    {
+     "term": "below",
+     "weight": 11
+    },
+    {
+     "term": "given",
+     "weight": 11
+    },
+    {
+     "term": "three dimensional",
+     "weight": 11
+    },
+    {
+     "term": "cap",
+     "weight": 10
+    },
+    {
+     "term": "diameter",
+     "weight": 10
+    },
+    {
+     "term": "calculated",
+     "weight": 10
+    },
+    {
+     "term": "calculating",
+     "weight": 10
+    },
+    {
+     "term": "ball",
+     "weight": 9
+    },
+    {
+     "term": "square",
+     "weight": 9
+    },
+    {
+     "term": "cubic",
+     "weight": 9
+    },
+    {
+     "term": "follows volume",
+     "weight": 9
+    },
+    {
+     "term": "shapes",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "The SI unit for volume is the cubic meter, or m3.",
+    "She determines that she has a 15% preference for regular sugar cones over waffle cones and needs to determine whether the potential volume of the waffle cone is ≥ 15% more than that of the sugar cone.",
+    "The equation for calculating the volume of a cylinder is shown below: volume = πr2h where r is the radius and h is the height of the tank EX: Caelum wants to build a sandcastle in the living room of his house.",
+    "The equation for calculating the volume of a spherical cap is derived from that of a spherical segment, where the second radius is 0.",
+    "In reference to the spherical cap shown in the calculator: volume = 1 3 πh2(3R - h) Given two values, the calculator provided computes the third value and the volume.",
+    "Calculating the volume of a tube essentially involves the same formula as a cylinder (volume=pr2h), except that in this case, the diameter is used rather than the radius, and length is used rather than height."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 47,
+   "lists": 0,
+   "images": 12,
+   "videos": 0,
+   "calculatorInputs": [
+    "ballradius",
+    "ballradiusunit",
+    "coneradius",
+    "coneradiusunit",
+    "coneheight",
+    "coneheightunit",
+    "cubeedge",
+    "cubeedgeunit",
+    "ctankradius",
+    "ctankradiusunit",
+    "ctanklength",
+    "ctanklengthunit",
+    "rtanklength",
+    "rtanklengthunit",
+    "rtankwidth",
+    "rtankwidthunit",
+    "rtankheight",
+    "rtankheightunit",
+    "rcapsuleradius",
+    "rcapsuleradiusunit",
+    "rcapsuleheight",
+    "rcapsuleheightunit",
+    "ccapbaseradius",
+    "ccapbaseradiusunit",
+    "ccapballradius",
+    "ccapballradiusunit",
+    "ccapheight",
+    "ccapheightunit",
+    "rconicalfrustumtopradius",
+    "rconicalfrustumtopradiusunit",
+    "rconicalfrustumbottomradius",
+    "rconicalfrustumbottomradiusunit",
+    "rconicalfrustumheight",
+    "rconicalfrustumheightunit",
+    "rellipsoidaxis1",
+    "rellipsoidaxis1unit",
+    "rellipsoidaxis2",
+    "rellipsoidaxis2unit",
+    "rellipsoidaxis3",
+    "rellipsoidaxis3unit"
+   ],
+   "selectOptionsSample": "miles yards feet inches kilometers meters centimeters millimeters micrometers nanometers angstroms miles yards feet inches kilometers meters centimeters millimeters micrometers nanometers angstroms miles yards feet inches kilometers meters centimeters millimeters micrometers nanometers angstroms mil",
+   "unitToggle": true,
+   "wordsBeforeTool": 38,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 48,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 19,
+    "external": 0,
+    "contentInternal": 19,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "math",
+     "volume calculator",
+     "Surface Area Calculator",
+     "Area Calculator",
+     "Math Calculators",
+     "Scientific",
+     "Fraction",
+     "Percentage",
+     "Triangle",
+     "Volume",
+     "Standard Deviation",
+     "Random Number Generator",
+     "More Math Calculators",
+     "Financial",
+     "Fitness and Health",
+     "Math",
+     "Other",
+     "about us"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/volume-calculator.html",
+     "https://www.calculator.net/surface-area-calculator.html",
+     "https://www.calculator.net/area-calculator.html",
+     "https://www.calculator.net/scientific-calculator.html",
+     "https://www.calculator.net/fraction-calculator.html",
+     "https://www.calculator.net/percent-calculator.html",
+     "https://www.calculator.net/triangle-calculator.html",
+     "https://www.calculator.net/standard-deviation-calculator.html",
+     "https://www.calculator.net/random-number-generator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/geometry-solids/cone.php": {
+   "url": "https://www.calculatorsoup.com/calculators/geometry-solids/cone.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/geometry-solids/cone.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T12:55:16.436Z",
+   "title": "Cone Calculator",
+   "metaDescription": "Calculator online for a right circular cone. Calculate the unknown defining surface areas, heights, slant heights, volume, and radii of a cone with any 2 known variables. Online calculators and formulas for a cone and other geometry problems.",
+   "canonical": "https://www.calculatorsoup.com/calculators/geometry-solids/cone.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Cone Calculator"
+   ],
+   "h2": [
+    "Circular Cone Formulas in terms of radius r and height h:",
+    "How to Calculate Cone Angles",
+    "References"
+   ],
+   "h3": [
+    "Circular Cone Calculations:",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Cone Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Circular Cone Formulas in terms of radius r and height h:"
+    },
+    {
+     "level": 3,
+     "text": "Circular Cone Calculations:"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Cone Angles"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 830,
+   "avgSentenceWords": 29,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "surface area",
+     "weight": 42
+    },
+    {
+     "term": "surface",
+     "weight": 28
+    },
+    {
+     "term": "area",
+     "weight": 28
+    },
+    {
+     "term": "cone",
+     "weight": 27
+    },
+    {
+     "term": "height",
+     "weight": 25
+    },
+    {
+     "term": "lateral surface",
+     "weight": 18
+    },
+    {
+     "term": "total surface",
+     "weight": 18
+    },
+    {
+     "term": "given",
+     "weight": 18
+    },
+    {
+     "term": "slant height",
+     "weight": 17
+    },
+    {
+     "term": "radius",
+     "weight": 13
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "volume",
+     "weight": 12
+    },
+    {
+     "term": "lateral",
+     "weight": 12
+    },
+    {
+     "term": "total",
+     "weight": 12
+    },
+    {
+     "term": "angle",
+     "weight": 12
+    },
+    {
+     "term": "area given",
+     "weight": 12
+    },
+    {
+     "term": "slant",
+     "weight": 11
+    },
+    {
+     "term": "calculate",
+     "weight": 11
+    },
+    {
+     "term": "cone calculator",
+     "weight": 9
+    },
+    {
+     "term": "base",
+     "weight": 9
+    },
+    {
+     "term": "find",
+     "weight": 8
+    },
+    {
+     "term": "given radius",
+     "weight": 8
+    },
+    {
+     "term": "height volume",
+     "weight": 8
+    },
+    {
+     "term": "calculators",
+     "weight": 7
+    },
+    {
+     "term": "base surface",
+     "weight": 6
+    },
+    {
+     "term": "right",
+     "weight": 6
+    },
+    {
+     "term": "circular",
+     "weight": 6
+    },
+    {
+     "term": "circular cone",
+     "weight": 6
+    },
+    {
+     "term": "formulas",
+     "weight": 6
+    },
+    {
+     "term": "calculations",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Given r, s find h, V, L, A h = √(s2 - r2) Given radius and volume calculate the height, slant height, lateral surface area and total surface area.",
+    "Given r, V find h, s, L, A h = (3 * v) / (πr2) Given radius and lateral surface area calculate the height, slant height, volume and total surface area.",
+    "Given r, L find h, s, V, A s = L / (πr) h = √(s2 - r2) Given radius and total surface area calculate the height, slant height, volume and lateral surface area.",
+    "Given r, A find h, s, V, L s = [A - (πr2)] / (πr) h = √(s2 - r2) Given height and slant height calculate the radius, volume, lateral surface area and total surface area.",
+    "Given h, s find r, V, L, A r = √(s2 - h2) Given height and volume calculate the radius, slant height, lateral surface area and total surface area.",
+    "Given h, V find r, s, L, A r = √[ (3 * v) / (π * h) ] Given slant height and lateral surface area calculate the radius, height, volume, and total surface area.",
+    "Given s, L find r, h, V, A r = L / (π * s) h = √(s2 - r2) How to Calculate Cone Angles If you look straight on to a full cone in two dimensions you will see an isosceles triangle."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 15,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Choose a Calculation",
+    "radius r =",
+    "height h =",
+    "Let pi π =",
+    "Units",
+    "Significant Figures",
+    "reset"
+   ],
+   "selectOptionsSample": "calculate s, v, l, a | given r, h calculate h, v, l, a | given r, s calculate h, s, l, a | given r, v calculate h, s, v, a | given r, l calculate h, s, v, l | given r, a calculate r, v, l, a | given h, s calculate r, s, l, a | given h, v calculate r, h, v, a | given s, l none km m cm mm mi yd ft in ",
+   "unitToggle": true,
+   "wordsBeforeTool": 17,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "August 1, 2025",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 60,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 19,
+    "external": 1,
+    "contentInternal": 9,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Geometry",
+     "Solid",
+     "Cone Calculator",
+     "Cone Image",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "a circle",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/cone.php",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/geometry-calculators.php",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/cone.php",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/cone.php#calculationImage",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=geometry-calculators.php&folderName=Geometry&folder2=geometry-solids%2F&folderName2=Solid&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/geometry-solids/cone.php&h1=Cone+Calculator&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/geometry-plane/circle.php"
+    ],
+    "externalSample": [
+     "http://mathworld.wolfram.com/Cone.html"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

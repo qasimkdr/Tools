@@ -1,0 +1,600 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/math/matrix-inverse": {
+   "url": "https://www.omnicalculator.com/math/matrix-inverse",
+   "finalUrl": "https://www.omnicalculator.com/math/matrix-inverse",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T12:55:30.270Z",
+   "title": "Inverse Matrix Calculator",
+   "metaDescription": "The inverse matrix calculator will check if the square matrix you give it has an inverse, and if it does, it will calculate it in a few easy steps.",
+   "canonical": "https://www.omnicalculator.com/math/matrix-inverse",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Inverse Matrix Calculator"
+   ],
+   "h2": [
+    "What is a matrix?",
+    "Singular and nonsingular matrix, the identity matrix",
+    "How to find the inverse of a matrix: inverse matrix formula",
+    "Matrix inverse properties",
+    "Example: using the inverse matrix calculator"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Inverse Matrix Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is a matrix?"
+    },
+    {
+     "level": 2,
+     "text": "Singular and nonsingular matrix, the identity matrix"
+    },
+    {
+     "level": 2,
+     "text": "How to find the inverse of a matrix: inverse matrix formula"
+    },
+    {
+     "level": 2,
+     "text": "Matrix inverse properties"
+    },
+    {
+     "level": 2,
+     "text": "Example: using the inverse matrix calculator"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 2973,
+   "avgSentenceWords": 27,
+   "faqs": [
+    "What is a matrix?",
+    "Who are we to judge them?",
+    "Wasn't so bad, was it?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "matrix",
+     "weight": 82
+    },
+    {
+     "term": "inverse",
+     "weight": 55
+    },
+    {
+     "term": "calculator",
+     "weight": 23
+    },
+    {
+     "term": "inverse matrix",
+     "weight": 23
+    },
+    {
+     "term": "numbers",
+     "weight": 15
+    },
+    {
+     "term": "matrix calculator",
+     "weight": 14
+    },
+    {
+     "term": "first",
+     "weight": 13
+    },
+    {
+     "term": "determinant",
+     "weight": 12
+    },
+    {
+     "term": "example",
+     "weight": 12
+    },
+    {
+     "term": "find",
+     "weight": 12
+    },
+    {
+     "term": "row",
+     "weight": 12
+    },
+    {
+     "term": "have",
+     "weight": 11
+    },
+    {
+     "term": "matrix inverse",
+     "weight": 11
+    },
+    {
+     "term": "formula",
+     "weight": 10
+    },
+    {
+     "term": "nonsingular matrix",
+     "weight": 9
+    },
+    {
+     "term": "matrix formula",
+     "weight": 9
+    },
+    {
+     "term": "let's",
+     "weight": 9
+    },
+    {
+     "term": "matrices",
+     "weight": 8
+    },
+    {
+     "term": "doesn't",
+     "weight": 8
+    },
+    {
+     "term": "identity matrix",
+     "weight": 8
+    },
+    {
+     "term": "want",
+     "weight": 7
+    },
+    {
+     "term": "nonsingular",
+     "weight": 7
+    },
+    {
+     "term": "column",
+     "weight": 7
+    },
+    {
+     "term": "size",
+     "weight": 6
+    },
+    {
+     "term": "identity",
+     "weight": 6
+    },
+    {
+     "term": "don't",
+     "weight": 6
+    },
+    {
+     "term": "say",
+     "weight": 6
+    },
+    {
+     "term": "inverse properties",
+     "weight": 6
+    },
+    {
+     "term": "make",
+     "weight": 6
+    },
+    {
+     "term": "them",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Before we give, say, the inverse of a 4 × 4 4×4 matrix, we'll look at some basic definitions, including a singular and nonsingular matrix.",
+    "Then we'll move on to the general inverse matrix formula with a neat simplification for the inverse of a 2 × 2 2×2 matrix and some useful matrix inverse properties.",
+    "Last but not least, we give an example with thorough calculations of how to find the inverse of a 3 × 3 3×3 matrix.",
+    "An example of a matrix would be: 𝐴 = ( 3 − 1 0 2 1 − 1 ) A=(301​−12−1​) Moreover, we say that a matrix has cells, or boxes, in which we write the elements of our array.",
+    "For example, matrix 𝐴 A above has the value 2 2 in the cell that is in the second row and the second column.",
+    "Singular and nonsingular matrix, the identity matrix Whether you want to find the inverse of a 2 × 2 2×2 matrix or the inverse of a 4 × 4 4×4 matrix, you have to understand one thing first: it doesn't always exist.",
+    "Let's finally see the inverse matrix formula and learn how to find the inverse of a 2 × 2 2×2, 3 × 3 3×3, and 4 × 4 4×4 matrix.",
+    "How to find the inverse of a matrix: inverse matrix formula Before we go into special cases, like the inverse of a 2 × 2 2×2 matrix, let's take a look at the general definition.",
+    "The 𝐴 𝑖 𝑗 Aij​ denotes the 𝑖 , 𝑗 i,j-minor of 𝐴 A, i.e., the determinant of the matrix obtained from 𝐴 A by forgetting about its 𝑖 t h ith row and 𝑗 t h jth column (it is a square matrix of size 𝑛 − 1 n−1).",
+    "In the next section, we point out a few important facts to take into account when looking for the inverse of a 4 × 4 4×4 matrix, or whatever size it is."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Maciej Kowalski",
+    "published": "2020-06-29T10:19:21.802Z",
+    "modified": "2026-07-09T21:33:46.748Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 1354,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 32,
+    "external": 1,
+    "contentInternal": 16,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "condition numbers calculator",
+     "pseudoinverse calculator",
+     "cofactor matrix",
+     "adjoint matrix calculator",
+     "the next section",
+     "the (reduced) row echelon form calculator",
+     "the section above",
+     "Least Common Multiple Calculator",
+     "Absolute Value Calculator",
+     "Interval Notation Calculator",
+     "Least Common Denominator Calculator",
+     "Null Space Calculator",
+     "Trig Identities Calculator",
+     "Partial Fraction Decomposition Calculator",
+     "Unit Rate Calculator",
+     "Exponential Function Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/math/condition-number",
+     "https://www.omnicalculator.com/math/pseudoinverse",
+     "https://www.omnicalculator.com/math/cofactor-matrix",
+     "https://www.omnicalculator.com/math/adjoint-matrix",
+     "https://www.omnicalculator.com/math/matrix-inverse#matrix-inverse-properties",
+     "https://www.omnicalculator.com/math/row-echelon-form",
+     "https://www.omnicalculator.com/math/matrix-inverse#how-to-find-the-inverse-of-a-matrix-inverse-matrix-formula",
+     "https://www.omnicalculator.com/math/least-common-multiple",
+     "https://www.omnicalculator.com/math/absolute-value",
+     "https://www.omnicalculator.com/math/interval-notation",
+     "https://www.omnicalculator.com/math/least-common-denominator",
+     "https://www.omnicalculator.com/math/null-space",
+     "https://www.omnicalculator.com/math/trig-identities",
+     "https://www.omnicalculator.com/math/partial-fraction-decomposition",
+     "https://www.omnicalculator.com/math/unit-rate",
+     "https://www.omnicalculator.com/math/exponential-function"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/matrix-calculator.html": {
+   "url": "https://www.calculator.net/matrix-calculator.html",
+   "finalUrl": "https://www.calculator.net/matrix-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T12:55:33.291Z",
+   "title": "Matrix Calculator",
+   "metaDescription": "Free calculator to perform matrix operations on one or two matrices, including addition, subtraction, multiplication, determinant, inverse, or transpose.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Matrix Calculator"
+   ],
+   "h2": [],
+   "h3": [
+    "Matrix addition",
+    "Matrix subtraction",
+    "Matrix multiplication",
+    "Power of a matrix",
+    "Transpose of a matrix",
+    "Determinant of a matrix",
+    "Inverse of a matrix"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Matrix Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Matrix addition"
+    },
+    {
+     "level": 3,
+     "text": "Matrix subtraction"
+    },
+    {
+     "level": 3,
+     "text": "Matrix multiplication"
+    },
+    {
+     "level": 3,
+     "text": "Power of a matrix"
+    },
+    {
+     "level": 3,
+     "text": "Transpose of a matrix"
+    },
+    {
+     "level": 3,
+     "text": "Determinant of a matrix"
+    },
+    {
+     "level": 3,
+     "text": "Inverse of a matrix"
+    }
+   ],
+   "wordCount": 2837,
+   "avgSentenceWords": 34,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "matrix",
+     "weight": 109
+    },
+    {
+     "term": "matrices",
+     "weight": 33
+    },
+    {
+     "term": "determinant",
+     "weight": 21
+    },
+    {
+     "term": "row",
+     "weight": 17
+    },
+    {
+     "term": "example",
+     "weight": 17
+    },
+    {
+     "term": "multiplied",
+     "weight": 17
+    },
+    {
+     "term": "column",
+     "weight": 14
+    },
+    {
+     "term": "given",
+     "weight": 14
+    },
+    {
+     "term": "dot product",
+     "weight": 14
+    },
+    {
+     "term": "identity matrix",
+     "weight": 14
+    },
+    {
+     "term": "number",
+     "weight": 13
+    },
+    {
+     "term": "scalar",
+     "weight": 13
+    },
+    {
+     "term": "formula",
+     "weight": 13
+    },
+    {
+     "term": "same",
+     "weight": 12
+    },
+    {
+     "term": "elements",
+     "weight": 12
+    },
+    {
+     "term": "first",
+     "weight": 11
+    },
+    {
+     "term": "below",
+     "weight": 11
+    },
+    {
+     "term": "leibniz formula",
+     "weight": 11
+    },
+    {
+     "term": "inverse",
+     "weight": 10
+    },
+    {
+     "term": "columns",
+     "weight": 10
+    },
+    {
+     "term": "element",
+     "weight": 10
+    },
+    {
+     "term": "product",
+     "weight": 10
+    },
+    {
+     "term": "dot",
+     "weight": 10
+    },
+    {
+     "term": "identity",
+     "weight": 10
+    },
+    {
+     "term": "rows",
+     "weight": 9
+    },
+    {
+     "term": "used",
+     "weight": 9
+    },
+    {
+     "term": "given matrix",
+     "weight": 9
+    },
+    {
+     "term": "power",
+     "weight": 8
+    },
+    {
+     "term": "value",
+     "weight": 8
+    },
+    {
+     "term": "corresponding",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "For example, given ai,j, where i = 1 and j = 3, a1,3 is the value of the element in the first row and the third column of the given matrix.",
+    "You cannot add a 2 × 3 and a 3 × 2 matrix, a 4 × 4 and a 3 × 3, etc.",
+    "For example, you can multiply a 2 × 3 matrix by a 3 × 4 matrix, but not a 2 × 3 matrix by a 4 × 3.",
+    "For example, when you perform the dot product of row 1 of A and column 1 of B, the result will be c1,1 of matrix C.",
+    "Since A is 2 × 3 and B is 3 × 4, C will be a 2 × 4 matrix.",
+    "For example, when using the calculator, \"Power of 2\" for a given matrix, A, means A2.",
+    "Determinant of a 2 × 2 matrix: The determinant of a 2 × 2 matrix can be calculated using the Leibniz formula, which involves some basic arithmetic.",
+    "Given: A = 2 4 6 8 |A| = 2 4 6 8 = 2×8 - 4×6 = -8 Determinant of a 3 × 3 matrix: One way to calculate the determinant of a 3 × 3 matrix is through the use of the Laplace formula.",
+    "Determinant of a 4 × 4 matrix and higher: The determinant of a 4 × 4 matrix and higher can be computed in much the same way as that of a 3 × 3, using the Laplace formula or the Leibniz formula.",
+    "As with the example above with 3 × 3 matrices, you may notice a pattern that essentially allows you to \"reduce\" the given matrix into a scalar multiplied by the determinant of a matrix of reduced dimensions, i.e."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 162,
+   "lists": 0,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "arow",
+    "acolumn",
+    "pa",
+    "ta",
+    "brow",
+    "bcolumn",
+    "pb",
+    "tb"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 15,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 60,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 19,
+    "external": 0,
+    "contentInternal": 19,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "math",
+     "matrix calculator",
+     "Clear",
+     "All 0",
+     "All 1",
+     "Random",
+     "Transpose",
+     "Power of",
+     "Determinant",
+     "Inverse",
+     "×",
+     "Math Calculators",
+     "Scientific",
+     "Fraction",
+     "Percentage",
+     "Triangle",
+     "Volume",
+     "Standard Deviation"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/matrix-calculator.html",
+     "https://www.calculator.net/matrix-calculator.html#",
+     "https://www.calculator.net/scientific-calculator.html",
+     "https://www.calculator.net/fraction-calculator.html",
+     "https://www.calculator.net/percent-calculator.html",
+     "https://www.calculator.net/triangle-calculator.html",
+     "https://www.calculator.net/volume-calculator.html",
+     "https://www.calculator.net/standard-deviation-calculator.html",
+     "https://www.calculator.net/random-number-generator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

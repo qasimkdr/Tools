@@ -57,3 +57,10 @@ export function tInv(p: number, df: number) {
   for (let i = 0; i < 200; i++) { const m = (lo + hi) / 2; if (tCdf(m, df) < p) lo = m; else hi = m; }
   return (lo + hi) / 2;
 }
+
+/** Standard normal CDF Φ(z) (W. J. Cody-style rational approximation via erfc, ~1e-7 relative or better). */
+export function normCdf(z: number) {
+  if (!Number.isFinite(z)) return z > 0 ? 1 : 0;
+  return 0.5 * erfc(-z / Math.SQRT2);
+}
+export const normPdf = (z: number) => Math.exp(-0.5 * z * z) / Math.sqrt(2 * Math.PI);

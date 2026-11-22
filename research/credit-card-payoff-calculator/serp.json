@@ -1,0 +1,230 @@
+{
+ "keywords": {
+  "credit card pay off calculator": {
+   "fetchedAt": "2026-11-22T12:55:05.700Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1900,
+   "fileKd": 12,
+   "fileIntent": "C",
+   "semrushCompetitor": {
+    "position": 4,
+    "url": "www.calculator.net/credit-card-payoff-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.transunion.com/tools/credit-card-payoff-calculator",
+     "domain": "www.transunion.com",
+     "title": "Credit Card Payoff Calculator*",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.transunion.com/tools/credit-card-payoff-calculator?utm=airanks.net",
+     "domain": "www.transunion.com",
+     "title": "Credit Card Payoff Calculator*",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://experian.com/blogs/ask-experian/credit-card-payoff-calculator/",
+     "domain": "experian.com",
+     "title": "Credit Card Payoff Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.citizensbank.com/financial-calculators/credit-card-payoff.aspx",
+     "domain": "www.citizensbank.com",
+     "title": "Credit Card Payoff Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://corebridgefinancial.com/rs/lsu/home/financial-education/education-center/tools-and-calculators/credit-card-payoff-calculator",
+     "domain": "corebridgefinancial.com",
+     "title": "Credit Card Pay Off Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.bankrate.com/finance/credit-cards/credit-card-payoff-calculator/",
+     "domain": "www.bankrate.com",
+     "title": "Credit Card Payoff Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.bankrate.com/calculators/credit-cards/credit-card-payoff-calculator/",
+     "domain": "www.bankrate.com",
+     "title": "Credit Card Payoff Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.bankrate.com/credit-cards/tools/credit-card-payoff-calculator/?MSA=5602",
+     "domain": "www.bankrate.com",
+     "title": "Credit Card Payoff Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.creditcards.com/calculators/payoff/",
+     "domain": "www.creditcards.com",
+     "title": "www.creditcards.com",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://bankrate.com/credit-cards/tools/credit-card-payoff-calculator",
+     "domain": "bankrate.com",
+     "title": "credit card payoff calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.americanexpress.com/en-us/credit-cards/credit-intel/credit-card-payoff-calculator/",
+     "domain": "www.americanexpress.com",
+     "title": "Credit Card Payoff Calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.capitalone.com/learn-grow/money-management/credit-card-payoff-calculator/",
+     "domain": "www.capitalone.com",
+     "title": "Credit card payoff calculator and tips for tackling debt",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://moaa.org/content/benefits-and-discounts/finance/Calculators/credit-card-pay-off-calculator",
+     "domain": "moaa.org",
+     "title": "Credit Card Pay Off Calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://www.ramseysolutions.com/debt/credit-card-payoff-calculator",
+     "domain": "www.ramseysolutions.com",
+     "title": "Credit Card Payoff Calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://www.americaneagle.org/advice-planning/calculators/credit-card-payoff-calculator",
+     "domain": "www.americaneagle.org",
+     "title": "credit card payoff calculator",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://www.capitalone.com/learn-grow/money-management/credit-card-payoff-calculator/?utm=airanks.net",
+     "domain": "www.capitalone.com",
+     "title": "Credit card payoff calculator and tips for tackling debt",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "credit-card-payoff-calculator",
+ "page": "credit-card-payoff-calculator",
+ "category": "finance",
+ "name": "Credit Card Payoff Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T12:55:05.701Z",
+ "topCompetitors": [
+  {
+   "domain": "bankrate.com",
+   "bestRank": 6,
+   "keywords": 4,
+   "urls": [
+    "https://www.bankrate.com/finance/credit-cards/credit-card-payoff-calculator/",
+    "https://www.bankrate.com/calculators/credit-cards/credit-card-payoff-calculator/",
+    "https://www.bankrate.com/credit-cards/tools/credit-card-payoff-calculator/?MSA=5602",
+    "https://bankrate.com/credit-cards/tools/credit-card-payoff-calculator"
+   ]
+  },
+  {
+   "domain": "transunion.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://www.transunion.com/tools/credit-card-payoff-calculator",
+    "https://www.transunion.com/tools/credit-card-payoff-calculator?utm=airanks.net"
+   ]
+  },
+  {
+   "domain": "capitalone.com",
+   "bestRank": 12,
+   "keywords": 2,
+   "urls": [
+    "https://www.capitalone.com/learn-grow/money-management/credit-card-payoff-calculator/",
+    "https://www.capitalone.com/learn-grow/money-management/credit-card-payoff-calculator/?utm=airanks.net"
+   ]
+  },
+  {
+   "domain": "experian.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://experian.com/blogs/ask-experian/credit-card-payoff-calculator/"
+   ]
+  },
+  {
+   "domain": "citizensbank.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.citizensbank.com/financial-calculators/credit-card-payoff.aspx"
+   ]
+  },
+  {
+   "domain": "corebridgefinancial.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://corebridgefinancial.com/rs/lsu/home/financial-education/education-center/tools-and-calculators/credit-card-payoff-calculator"
+   ]
+  },
+  {
+   "domain": "creditcards.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://www.creditcards.com/calculators/payoff/"
+   ]
+  },
+  {
+   "domain": "americanexpress.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://www.americanexpress.com/en-us/credit-cards/credit-intel/credit-card-payoff-calculator/"
+   ]
+  },
+  {
+   "domain": "moaa.org",
+   "bestRank": 13,
+   "keywords": 1,
+   "urls": [
+    "https://moaa.org/content/benefits-and-discounts/finance/Calculators/credit-card-pay-off-calculator"
+   ]
+  },
+  {
+   "domain": "ramseysolutions.com",
+   "bestRank": 14,
+   "keywords": 1,
+   "urls": [
+    "https://www.ramseysolutions.com/debt/credit-card-payoff-calculator"
+   ]
+  }
+ ]
+}
