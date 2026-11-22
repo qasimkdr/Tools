@@ -1,0 +1,619 @@
+{
+ "pages": {
+  "https://www.calculator.net/stair-calculator.html": {
+   "url": "https://www.calculator.net/stair-calculator.html",
+   "finalUrl": "https://www.calculator.net/stair-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T10:49:00.090Z",
+   "title": "Stair Calculator",
+   "metaDescription": "This stair calculator computes stair parameters such as rise, total run, angle, and stringer length based on the height, run, tread, and headroom requirements.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Stair Calculator"
+   ],
+   "h2": [
+    "Basic Version",
+    "Comprehensive Version"
+   ],
+   "h3": [
+    "Stair terminology and common building codes",
+    "Fraction to Decimal Conversion"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Stair Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Basic Version"
+    },
+    {
+     "level": 2,
+     "text": "Comprehensive Version"
+    },
+    {
+     "level": 3,
+     "text": "Stair terminology and common building codes"
+    },
+    {
+     "level": 3,
+     "text": "Fraction to Decimal Conversion"
+    }
+   ],
+   "wordCount": 1039,
+   "avgSentenceWords": 28,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "building codes",
+     "weight": 17
+    },
+    {
+     "term": "tread",
+     "weight": 15
+    },
+    {
+     "term": "building",
+     "weight": 15
+    },
+    {
+     "term": "run",
+     "weight": 13
+    },
+    {
+     "term": "codes",
+     "weight": 13
+    },
+    {
+     "term": "stair",
+     "weight": 11
+    },
+    {
+     "term": "inches",
+     "weight": 11
+    },
+    {
+     "term": "total run",
+     "weight": 11
+    },
+    {
+     "term": "total",
+     "weight": 10
+    },
+    {
+     "term": "length",
+     "weight": 10
+    },
+    {
+     "term": "nosing",
+     "weight": 10
+    },
+    {
+     "term": "stairs",
+     "weight": 9
+    },
+    {
+     "term": "codes generally",
+     "weight": 9
+    },
+    {
+     "term": "height",
+     "weight": 8
+    },
+    {
+     "term": "generally suggest",
+     "weight": 8
+    },
+    {
+     "term": "rise",
+     "weight": 7
+    },
+    {
+     "term": "headroom",
+     "weight": 7
+    },
+    {
+     "term": "staircase",
+     "weight": 7
+    },
+    {
+     "term": "riser",
+     "weight": 7
+    },
+    {
+     "term": "run total",
+     "weight": 6
+    },
+    {
+     "term": "number",
+     "weight": 6
+    },
+    {
+     "term": "steps",
+     "weight": 6
+    },
+    {
+     "term": "width",
+     "weight": 6
+    },
+    {
+     "term": "measured",
+     "weight": 6
+    },
+    {
+     "term": "generally",
+     "weight": 6
+    },
+    {
+     "term": "calculator",
+     "weight": 5
+    },
+    {
+     "term": "suggest",
+     "weight": 5
+    },
+    {
+     "term": "top",
+     "weight": 5
+    },
+    {
+     "term": "treads",
+     "weight": 5
+    },
+    {
+     "term": "stair calculator",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Building codes generally suggest that stairs be at least 36 inches (91.44 cm) wide."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 12,
+   "lists": 2,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [
+    "run",
+    "rununit",
+    "totalrun",
+    "totalrununit",
+    "totalheight",
+    "totalheightunit",
+    "run2",
+    "rununit2",
+    "totalrun2",
+    "totalrununit2",
+    "totalheight2",
+    "totalheightunit2",
+    "Fixed rise (step height)",
+    "Fixed number of steps",
+    "rise2",
+    "riseunit2",
+    "step2",
+    "No tread",
+    "Has tread",
+    "treadthickness2",
+    "treadthicknessunit2",
+    "No headroom restriction",
+    "Has headroom restriction",
+    "flooropen",
+    "flooropenunit",
+    "floorthickness",
+    "floorthicknessunit",
+    "headroom",
+    "headroomunit",
+    "Standard stringer mount",
+    "Flush stringer mount"
+   ],
+   "selectOptionsSample": "feet inches meters centimeters feet inches meters centimeters feet inches meters centimeters feet inches meters centimeters feet inches meters centimeters feet inches meters centimeters feet inches meters centimeters feet inches meters centimeters feet inches meters centimeters feet inches meters ce",
+   "unitToggle": true,
+   "wordsBeforeTool": 68,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 23,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 25,
+    "external": 0,
+    "contentInternal": 25,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "other",
+     "stair calculator",
+     "Use One Run",
+     "Use Total Run",
+     "Other Calculators",
+     "Age",
+     "Date",
+     "Time",
+     "Hours",
+     "GPA",
+     "Grade",
+     "Height",
+     "Concrete",
+     "IP Subnet",
+     "Bra Size",
+     "Password Generator",
+     "Dice Roller",
+     "Conversion"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/stair-calculator.html",
+     "https://www.calculator.net/stair-calculator.html#",
+     "https://www.calculator.net/age-calculator.html",
+     "https://www.calculator.net/date-calculator.html",
+     "https://www.calculator.net/time-calculator.html",
+     "https://www.calculator.net/hours-calculator.html",
+     "https://www.calculator.net/gpa-calculator.html",
+     "https://www.calculator.net/grade-calculator.html",
+     "https://www.calculator.net/height-calculator.html",
+     "https://www.calculator.net/concrete-calculator.html",
+     "https://www.calculator.net/ip-subnet-calculator.html",
+     "https://www.calculator.net/bra-size-calculator.html",
+     "https://www.calculator.net/password-generator.html",
+     "https://www.calculator.net/dice-roller.html",
+     "https://www.calculator.net/conversion-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/construction/stairs": {
+   "url": "https://www.omnicalculator.com/construction/stairs",
+   "finalUrl": "https://www.omnicalculator.com/construction/stairs",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T10:49:03.269Z",
+   "title": "Stair Calculator",
+   "metaDescription": "The stair calculator helps you design comfortable stairs: it finds the stair stringer length, as well as the rise and run of individual steps.",
+   "canonical": "https://www.omnicalculator.com/construction/stairs",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Stair Calculator"
+   ],
+   "h2": [
+    "Stair stringers and treads: terminology explained",
+    "Stair calculation formulas",
+    "How to count steps and why you're doing it wrong?",
+    "Help! My stairs are uncomfortable to walk on!",
+    "Building codes vs. children",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I build wooden stairs?",
+    "How many stairs do you need to go up 8 feet?",
+    "What is the formula for stair stringers?",
+    "What is the rule of 27 for stairs?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Stair Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Stair stringers and treads: terminology explained"
+    },
+    {
+     "level": 2,
+     "text": "Stair calculation formulas"
+    },
+    {
+     "level": 2,
+     "text": "How to count steps and why you're doing it wrong?"
+    },
+    {
+     "level": 2,
+     "text": "Help! My stairs are uncomfortable to walk on!"
+    },
+    {
+     "level": 2,
+     "text": "Building codes vs. children"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I build wooden stairs?"
+    },
+    {
+     "level": 3,
+     "text": "How many stairs do you need to go up 8 feet?"
+    },
+    {
+     "level": 3,
+     "text": "What is the formula for stair stringers?"
+    },
+    {
+     "level": 3,
+     "text": "What is the rule of 27 for stairs?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1822,
+   "avgSentenceWords": 18,
+   "faqs": [
+    "How do I build wooden stairs?",
+    "How many stairs do you need to go up 8 feet?",
+    "What is the formula for stair stringers?",
+    "What is the rule of 27 for stairs?",
+    "How to count steps and why you're doing it wrong?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "stairs",
+     "weight": 30
+    },
+    {
+     "term": "rise",
+     "weight": 25
+    },
+    {
+     "term": "stair",
+     "weight": 24
+    },
+    {
+     "term": "run",
+     "weight": 21
+    },
+    {
+     "term": "calculator",
+     "weight": 19
+    },
+    {
+     "term": "step",
+     "weight": 16
+    },
+    {
+     "term": "stringer",
+     "weight": 14
+    },
+    {
+     "term": "total",
+     "weight": 13
+    },
+    {
+     "term": "mount",
+     "weight": 12
+    },
+    {
+     "term": "steps",
+     "weight": 12
+    },
+    {
+     "term": "staircase",
+     "weight": 12
+    },
+    {
+     "term": "inches",
+     "weight": 12
+    },
+    {
+     "term": "total rise",
+     "weight": 11
+    },
+    {
+     "term": "flush mount",
+     "weight": 11
+    },
+    {
+     "term": "number",
+     "weight": 10
+    },
+    {
+     "term": "stair calculator",
+     "weight": 9
+    },
+    {
+     "term": "total run",
+     "weight": 9
+    },
+    {
+     "term": "stringer length",
+     "weight": 9
+    },
+    {
+     "term": "between",
+     "weight": 9
+    },
+    {
+     "term": "height",
+     "weight": 8
+    },
+    {
+     "term": "length",
+     "weight": 8
+    },
+    {
+     "term": "it's",
+     "weight": 8
+    },
+    {
+     "term": "angle",
+     "weight": 7
+    },
+    {
+     "term": "need",
+     "weight": 7
+    },
+    {
+     "term": "flush",
+     "weight": 7
+    },
+    {
+     "term": "standard",
+     "weight": 7
+    },
+    {
+     "term": "stringer height",
+     "weight": 6
+    },
+    {
+     "term": "stair calculation",
+     "weight": 6
+    },
+    {
+     "term": "calculation formulas",
+     "weight": 6
+    },
+    {
+     "term": "run calculator",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "If you're interested in this topic, check out this fantastic article from Michael Maines on the 2 rules for Building Comfortable Stairs.",
+    "He recommends stairs with a 7\" rise and an 11\" run as the \"ideal stairs,\" and shows a neat graph that sums up comfort requirements.",
+    "You will need 14‒17 stairs to go up 8 feet comfortably, assuming that one rise (stair) usually measures 6–7 inches."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 7,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [
+    "I know...",
+    "and..."
+   ],
+   "selectOptionsSample": "select the run of one step the total run select the rise of one step the number of steps",
+   "unitToggle": true,
+   "wordsBeforeTool": 7,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Bogna Szyk",
+    "published": "2019-11-18T15:16:38.201Z",
+    "modified": "2026-07-22T02:29:17.841Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 709,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 24,
+    "external": 1,
+    "contentInternal": 8,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "rise over run calculator",
+     "baluster",
+     "Pythagoras' theorem",
+     "spiral staircase calculator",
+     "spindle spacing calculator",
+     "ladder angle calculator",
+     "Stone Weight Calculator",
+     "Board and Batten Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/math/rise-over-run",
+     "https://www.omnicalculator.com/construction/baluster",
+     "https://www.omnicalculator.com/math/pythagorean-theorem",
+     "https://www.omnicalculator.com/construction/spiral-staircase",
+     "https://www.omnicalculator.com/construction/spindle-spacing",
+     "https://www.omnicalculator.com/construction/ladder-angle",
+     "https://www.omnicalculator.com/construction/stone",
+     "https://www.omnicalculator.com/construction/board-and-batten"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.inchcalculator.com/stair-calculator/": [
+   "HTTP 404"
+  ]
+ }
+}

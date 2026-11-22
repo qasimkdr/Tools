@@ -1,0 +1,9 @@
+export const faq = [
+  { q: "How do you calculate rafter length?", a: "Find the run (half the building span, minus half the ridge board), then use the Pythagorean theorem: rafter length = √(run² + rise²), where rise = run × pitch ÷ 12. Equivalently, multiply the run by the slope factor √(1 + (pitch/12)²). For a 12 ft run at 6/12 pitch, that's 12 × 1.118 = 13.42 ft before overhang." },
+  { q: "What is roof pitch?", a: "Pitch is the inches of vertical rise for every 12 inches of horizontal run, written like 6/12 (\"six in twelve\"). A 6/12 roof rises 6 inches per foot and has an angle of about 26.6°; 12/12 is 45°." },
+  { q: "Do I subtract the ridge board?", a: "Yes. Rafters stop at the face of the ridge board, so each rafter's run is shortened by half the ridge thickness. For a 1½-inch ridge that's ¾ inch of run, which shortens a 6/12 rafter by about 13/16 inch." },
+  { q: "How do I add the overhang?", a: "Multiply the horizontal overhang by the same slope factor and add it to the rafter. A 12-inch overhang on a 6/12 roof adds 12 × 1.118 = 13.4 inches of rafter length." },
+  { q: "What angle do I cut the rafter ends?", a: "The plumb cuts at the ridge and tail are at the roof angle (26.6° for 6/12), which you can set on a speed square using its pitch scale. The seat cut of the birdsmouth is level, at 90° to the plumb cut." },
+  { q: "How do I calculate a hip or valley rafter?", a: "For a regular hip roof with equal pitches, the hip rafter's run is the common run × √2 (about 1.414), and its rise is the same as the common rafter's. Its length is √(hip run² + rise²). Hip and valley rafters also need extra deductions and side cuts, so check a framing guide." },
+  { q: "What size lumber do I need for rafters?", a: "That depends on span, spacing, wood species and grade, and roof and snow loads. Building codes provide span tables for rafters. This calculator gives the length; check the size with your local code or an engineer." },
+];

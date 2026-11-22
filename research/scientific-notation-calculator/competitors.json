@@ -1,0 +1,1284 @@
+{
+ "pages": {
+  "https://www.calculatorsoup.com/calculators/math/scientific-notation-converter.php": {
+   "url": "https://www.calculatorsoup.com/calculators/math/scientific-notation-converter.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/math/scientific-notation-converter.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T10:49:09.830Z",
+   "title": "Scientific Notation Converter",
+   "metaDescription": "Convert numbers to scientific notation. Calculator for conversion of numbers into scientific notation and e notation. Converts to proper scientific notation format.",
+   "canonical": "https://www.calculatorsoup.com/calculators/math/scientific-notation-converter.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Scientific Notation Converter"
+   ],
+   "h2": [
+    "How to Convert a Number to Scientific Notation"
+   ],
+   "h3": [
+    "Example: Convert 357,096 to Scientific Notation",
+    "Example: Convert 0.005600 to Scientific Notation",
+    "Convert Scientific Notation to a Real Number",
+    "Additional Resources",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Scientific Notation Converter"
+    },
+    {
+     "level": 2,
+     "text": "How to Convert a Number to Scientific Notation"
+    },
+    {
+     "level": 3,
+     "text": "Example: Convert 357,096 to Scientific Notation"
+    },
+    {
+     "level": 3,
+     "text": "Example: Convert 0.005600 to Scientific Notation"
+    },
+    {
+     "level": 3,
+     "text": "Convert Scientific Notation to a Real Number"
+    },
+    {
+     "level": 3,
+     "text": "Additional Resources"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 785,
+   "avgSentenceWords": 26,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "scientific notation",
+     "weight": 41
+    },
+    {
+     "term": "notation",
+     "weight": 39
+    },
+    {
+     "term": "scientific",
+     "weight": 31
+    },
+    {
+     "term": "number",
+     "weight": 18
+    },
+    {
+     "term": "decimal",
+     "weight": 16
+    },
+    {
+     "term": "standard form",
+     "weight": 12
+    },
+    {
+     "term": "notation converter",
+     "weight": 11
+    },
+    {
+     "term": "calculator",
+     "weight": 10
+    },
+    {
+     "term": "standard",
+     "weight": 10
+    },
+    {
+     "term": "form",
+     "weight": 10
+    },
+    {
+     "term": "calculators",
+     "weight": 7
+    },
+    {
+     "term": "converter",
+     "weight": 7
+    },
+    {
+     "term": "decimal number",
+     "weight": 6
+    },
+    {
+     "term": "decimal point",
+     "weight": 6
+    },
+    {
+     "term": "math",
+     "weight": 5
+    },
+    {
+     "term": "convert",
+     "weight": 5
+    },
+    {
+     "term": "power",
+     "weight": 5
+    },
+    {
+     "term": "left",
+     "weight": 5
+    },
+    {
+     "term": "moved",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators math",
+     "weight": 5
+    },
+    {
+     "term": "engineering notation",
+     "weight": 5
+    },
+    {
+     "term": "notation standard",
+     "weight": 5
+    },
+    {
+     "term": "significant figures",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "enter",
+     "weight": 4
+    },
+    {
+     "term": "order",
+     "weight": 4
+    },
+    {
+     "term": "magnitude",
+     "weight": 4
+    },
+    {
+     "term": "move",
+     "weight": 4
+    },
+    {
+     "term": "point",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "To enter a number in scientific notation use a carat ^ to indicate the powers of 10.",
+    "b is the power of 10 required so that the scientific notation is mathematically equivalent to the original number.",
+    "Write your scientific notation number as a x 10^b and read it as \"a times 10 to the power of b.\" Remove trailing 0's only if they were originally to the left of the decimal point.",
+    "E notation is basically the same as scientific notation except that the letter e is substituted for \"x 10^\"."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "operand",
+    "reset"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 21,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "August 1, 2025",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 52,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 20,
+    "external": 0,
+    "contentInternal": 10,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Math",
+     "Scientific Notation Converter",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "significant figures",
+     "Scientific Notation Calculator",
+     "Significant Figures Calculator",
+     "Standard Form Calculator",
+     "scientific calculators",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/math/",
+     "https://www.calculatorsoup.com/calculators/math/scientific-notation-converter.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=math%2F&folderName=Math&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/math/scientific-notation-converter.php&h1=Scientific+Notation+Converter&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/math/significant-figures.php",
+     "https://www.calculatorsoup.com/calculators/math/scientificnotation.php",
+     "https://www.calculatorsoup.com/calculators/math/standard-form-calculator.php",
+     "https://www.calculatorsoup.com/scientific.php"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/scientific-notation-calculator/": {
+   "url": "https://www.inchcalculator.com/scientific-notation-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/scientific-notation-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T10:49:12.925Z",
+   "title": "Scientific Notation Calculator and Converter - Inch Calculator",
+   "metaDescription": "Use the scientific notation conversion calculator to convert a number to scientific notation, E notation, and engineering notation and back.",
+   "canonical": "https://www.inchcalculator.com/scientific-notation-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Scientific Notation Calculator and Converter"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Formatted Number",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Convert Scientific Notation to Decimal Form",
+    "How to Convert a Decimal to Scientific Notation",
+    "How to Use Exponential Notation",
+    "How to Convert to Engineering Notation",
+    "Scientific Notation and Decimal Equivalents",
+    "Frequently Asked Questions",
+    "Visual Guide to Convert to Scientific Notation",
+    "Similar Math Resources",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Scientific Notation:",
+    "E Notation:",
+    "Engineering Notation:",
+    "Decimal Notation:",
+    "Convert Using a Calculator",
+    "Convert Scientific Notation Without a Calculator",
+    "Step One: Create Initial Expression",
+    "Step Two: Move the Decimal Point",
+    "What About Numbers Less Than One?",
+    "Why is scientific notation important?",
+    "When should scientific notation be used?",
+    "Are scientific notation and standard form the same?",
+    "How are scientific notation and exponential notation different?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Scientific Notation Calculator and Converter"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Formatted Number"
+    },
+    {
+     "level": 3,
+     "text": "Scientific Notation:"
+    },
+    {
+     "level": 3,
+     "text": "E Notation:"
+    },
+    {
+     "level": 3,
+     "text": "Engineering Notation:"
+    },
+    {
+     "level": 3,
+     "text": "Decimal Notation:"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Convert Scientific Notation to Decimal Form"
+    },
+    {
+     "level": 3,
+     "text": "Convert Using a Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Convert Scientific Notation Without a Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to Convert a Decimal to Scientific Notation"
+    },
+    {
+     "level": 3,
+     "text": "Step One: Create Initial Expression"
+    },
+    {
+     "level": 3,
+     "text": "Step Two: Move the Decimal Point"
+    },
+    {
+     "level": 3,
+     "text": "What About Numbers Less Than One?"
+    },
+    {
+     "level": 2,
+     "text": "How to Use Exponential Notation"
+    },
+    {
+     "level": 2,
+     "text": "How to Convert to Engineering Notation"
+    },
+    {
+     "level": 2,
+     "text": "Scientific Notation and Decimal Equivalents"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "Why is scientific notation important?"
+    },
+    {
+     "level": 3,
+     "text": "When should scientific notation be used?"
+    },
+    {
+     "level": 3,
+     "text": "Are scientific notation and standard form the same?"
+    },
+    {
+     "level": 3,
+     "text": "How are scientific notation and exponential notation different?"
+    },
+    {
+     "level": 2,
+     "text": "Visual Guide to Convert to Scientific Notation"
+    },
+    {
+     "level": 2,
+     "text": "Similar Math Resources"
+    }
+   ],
+   "wordCount": 1424,
+   "avgSentenceWords": 25,
+   "faqs": [
+    "Why is scientific notation important?",
+    "When should scientific notation be used?",
+    "Are scientific notation and standard form the same?",
+    "How are scientific notation and exponential notation different?",
+    "What About Numbers Less Than One?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "notation",
+     "weight": 66
+    },
+    {
+     "term": "scientific notation",
+     "weight": 62
+    },
+    {
+     "term": "scientific",
+     "weight": 42
+    },
+    {
+     "term": "decimal",
+     "weight": 32
+    },
+    {
+     "term": "decimal point",
+     "weight": 21
+    },
+    {
+     "term": "convert",
+     "weight": 19
+    },
+    {
+     "term": "exponent",
+     "weight": 18
+    },
+    {
+     "term": "calculator",
+     "weight": 17
+    },
+    {
+     "term": "number",
+     "weight": 15
+    },
+    {
+     "term": "475 000",
+     "weight": 15
+    },
+    {
+     "term": "point",
+     "weight": 14
+    },
+    {
+     "term": "engineering notation",
+     "weight": 14
+    },
+    {
+     "term": "numbers",
+     "weight": 13
+    },
+    {
+     "term": "coefficient",
+     "weight": 12
+    },
+    {
+     "term": "form",
+     "weight": 11
+    },
+    {
+     "term": "example",
+     "weight": 11
+    },
+    {
+     "term": "engineering",
+     "weight": 10
+    },
+    {
+     "term": "example let",
+     "weight": 9
+    },
+    {
+     "term": "move",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "left",
+     "weight": 8
+    },
+    {
+     "term": "significant",
+     "weight": 8
+    },
+    {
+     "term": "exponential notation",
+     "weight": 8
+    },
+    {
+     "term": "let",
+     "weight": 7
+    },
+    {
+     "term": "expression",
+     "weight": 7
+    },
+    {
+     "term": "notation calculator",
+     "weight": 6
+    },
+    {
+     "term": "convert scientific",
+     "weight": 6
+    },
+    {
+     "term": "exponential",
+     "weight": 6
+    },
+    {
+     "term": "standard form",
+     "weight": 6
+    },
+    {
+     "term": "significant figures",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Numbers in scientific notation are an expression of a coefficient multiplied by 10 to the nth power.",
+    "1.5 × 102 = 15.0 × 101 1.5 × 102 = 150 × 100 1.5 × 102 = 150 How to Convert a Decimal to Scientific Notation Converting a decimal number to scientific notation can be done in a few simple steps.",
+    "For example, let’s create the starting scientific notation expression for the decimal 475,000.",
+    "For example, let’s convert 0.00025 to scientific notation.",
+    "For example, let’s represent 1.5 × 102 and 6.8 x 10-7 in E notation.",
+    "1.5 × 102 = 1.5e+2 6.8 × 10-7 = 6.8e-7 How to Convert to Engineering Notation Not to be confused with E notation, engineering notation is an alternate form of scientific notation where the exponent is a multiple of 3.",
+    "To convert scientific notation to engineering notation, move the decimal point in the coefficient to the right and reduce the exponent until the exponent is a multiple of 3.",
+    "For example, let’s represent 1.5 × 105 in engineering notation.",
+    "1.5 × 105 = 15.0 × 104 1.5 × 105 = 150.0 × 103 Scientific Notation and Decimal Equivalents Decimal numbers and the equivalent values in scientific notation, E notation, and engineering notation.",
+    "For example, 3 × 104 = 3e4 You might also like our numbers to words converter for transforming numbers in scientific notation to word form."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 2,
+   "images": 6,
+   "videos": 0,
+   "calculatorInputs": [
+    "Decimal or Scientific Notation"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 27,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2018-11-15",
+    "modified": "2025-09-19T15:30:52+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 127,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 46,
+    "external": 14,
+    "contentInternal": 23,
+    "contentExternal": 8,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Convert Scientific Notation to Decimal Form",
+     "How to Convert a Decimal to Scientific Notation",
+     "How to Use Exponential Notation",
+     "How to Convert to Engineering Notation",
+     "Scientific Notation and Decimal Equivalents",
+     "Frequently Asked Questions",
+     "Visual Guide to Convert to Scientific Notation",
+     "Full bio",
+     "Scientific Notation Calculator and Converter",
+     "standard form",
+     "significant figures calculator",
+     "round a number",
+     "calculator",
+     "exponent calculator",
+     "numbers to words converter",
+     "Standard Form Calculator",
+     "Sig Fig Calculator (Significant Figures)"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/scientific-notation-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/scientific-notation/",
+     "https://www.inchcalculator.com/scientific-notation-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/scientific-notation-calculator/#idx_how_to_convert_scientific_notation_to_decimal_form",
+     "https://www.inchcalculator.com/scientific-notation-calculator/#idx_how_to_convert_a_decimal_to_scientific_notation",
+     "https://www.inchcalculator.com/scientific-notation-calculator/#idx_how_to_use_exponential_notation",
+     "https://www.inchcalculator.com/scientific-notation-calculator/#idx_how_to_convert_to_engineering_notation",
+     "https://www.inchcalculator.com/scientific-notation-calculator/#idx_scientific_notation_and_decimal_equivalents",
+     "https://www.inchcalculator.com/scientific-notation-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/scientific-notation-calculator/#idx_visual_guide_to_convert_to_scientific_notation",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/ethan-dederick/",
+     "https://www.inchcalculator.com/scientific-notation-calculator/",
+     "https://www.inchcalculator.com/standard-form-calculator/",
+     "https://www.inchcalculator.com/sig-fig-calculator/",
+     "https://www.inchcalculator.com/rounding-calculator/",
+     "https://www.inchcalculator.com/scientific-calculator/",
+     "https://www.inchcalculator.com/exponent-calculator/",
+     "https://www.inchcalculator.com/numbers-to-words-converter/",
+     "https://www.inchcalculator.com/vector-calculator/",
+     "https://www.inchcalculator.com/binary-calculator/",
+     "https://www.inchcalculator.com/hex-calculator/",
+     "https://www.inchcalculator.com/math-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fscientific-notation-calculator%2F%3Fnumber%3D5.2e%252B8",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fscientific-notation-calculator%2F%3Fnumber%3D5.2e%252B8",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fscientific-notation-calculator%2F%3Fnumber%3D5.2e%252B8",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fscientific-notation-calculator%2F%3Fnumber%3D5.2e%252B8",
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fscientific-notation-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fscientific-notation-calculator%2F&text=Scientific+Notation+Calculator+and+Converter",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fscientific-notation-calculator%2F&text=Scientific+Notation+Calculator+and+Converter",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/scientific-notation-calculator.html": {
+   "url": "https://www.calculator.net/scientific-notation-calculator.html",
+   "finalUrl": "https://www.calculator.net/scientific-notation-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T10:49:15.737Z",
+   "title": "Scientific Notation Calculator",
+   "metaDescription": "Online tool to convert between number formats including scientific notation, E-notation, engineering notation, and real numbers.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Scientific Notation Calculator"
+   ],
+   "h2": [
+    "Scientific Notation Converter",
+    "Scientific Notation Calculator"
+   ],
+   "h3": [
+    "Scientific notation",
+    "Calculations with scientific notation",
+    "Engineering notation",
+    "E-notation"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Scientific Notation Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Scientific Notation Converter"
+    },
+    {
+     "level": 2,
+     "text": "Scientific Notation Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Scientific notation"
+    },
+    {
+     "level": 3,
+     "text": "Calculations with scientific notation"
+    },
+    {
+     "level": 3,
+     "text": "Engineering notation"
+    },
+    {
+     "level": 3,
+     "text": "E-notation"
+    }
+   ],
+   "wordCount": 792,
+   "avgSentenceWords": 34,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "notation",
+     "weight": 35
+    },
+    {
+     "term": "scientific notation",
+     "weight": 35
+    },
+    {
+     "term": "scientific",
+     "weight": 23
+    },
+    {
+     "term": "432 102",
+     "weight": 11
+    },
+    {
+     "term": "numbers",
+     "weight": 9
+    },
+    {
+     "term": "written",
+     "weight": 9
+    },
+    {
+     "term": "102 800",
+     "weight": 9
+    },
+    {
+     "term": "001 105",
+     "weight": 9
+    },
+    {
+     "term": "engineering notation",
+     "weight": 8
+    },
+    {
+     "term": "decimal",
+     "weight": 7
+    },
+    {
+     "term": "calculator",
+     "weight": 6
+    },
+    {
+     "term": "number",
+     "weight": 6
+    },
+    {
+     "term": "engineering",
+     "weight": 6
+    },
+    {
+     "term": "digits",
+     "weight": 6
+    },
+    {
+     "term": "notation scientific",
+     "weight": 6
+    },
+    {
+     "term": "math",
+     "weight": 5
+    },
+    {
+     "term": "below",
+     "weight": 5
+    },
+    {
+     "term": "notation calculator",
+     "weight": 5
+    },
+    {
+     "term": "000 000",
+     "weight": 5
+    },
+    {
+     "term": "exponent",
+     "weight": 4
+    },
+    {
+     "term": "example",
+     "weight": 4
+    },
+    {
+     "term": "powers",
+     "weight": 4
+    },
+    {
+     "term": "calculator scientific",
+     "weight": 3
+    },
+    {
+     "term": "notation engineering",
+     "weight": 3
+    },
+    {
+     "term": "perform calculations",
+     "weight": 3
+    },
+    {
+     "term": "calculations",
+     "weight": 3
+    },
+    {
+     "term": "decimal place",
+     "weight": 3
+    },
+    {
+     "term": "used",
+     "weight": 3
+    },
+    {
+     "term": "arithmetic operations",
+     "weight": 3
+    },
+    {
+     "term": "decimal notation",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "Addition and subtraction: To add and subtract in scientific notation, ensure that each number is converted to a number with the same power of 10."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 8,
+   "lists": 0,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "cvtnum",
+    "x",
+    "xpow",
+    "y",
+    "ypow",
+    "cp"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 42,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 13,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 18,
+    "external": 0,
+    "contentInternal": 18,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "math",
+     "scientific notation calculator",
+     "Math Calculators",
+     "Scientific",
+     "Fraction",
+     "Percentage",
+     "Triangle",
+     "Volume",
+     "Standard Deviation",
+     "Random Number Generator",
+     "More Math Calculators",
+     "Financial",
+     "Fitness and Health",
+     "Math",
+     "Other",
+     "about us",
+     "sitemap",
+     "terms of use"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/scientific-notation-calculator.html",
+     "https://www.calculator.net/scientific-calculator.html",
+     "https://www.calculator.net/fraction-calculator.html",
+     "https://www.calculator.net/percent-calculator.html",
+     "https://www.calculator.net/triangle-calculator.html",
+     "https://www.calculator.net/volume-calculator.html",
+     "https://www.calculator.net/standard-deviation-calculator.html",
+     "https://www.calculator.net/random-number-generator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/math/scientific-notation-converter": {
+   "url": "https://www.omnicalculator.com/math/scientific-notation-converter",
+   "finalUrl": "https://www.omnicalculator.com/math/scientific-notation-converter",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T10:49:18.865Z",
+   "title": "Scientific Notation Converter",
+   "metaDescription": "Use our scientific notation converter to convert between decimal and scientific notation of a given number.",
+   "canonical": "https://www.omnicalculator.com/math/scientific-notation-converter",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Scientific Notation Converter"
+   ],
+   "h2": [
+    "What is scientific notation?",
+    "How do you convert numbers into scientific notation?",
+    "Calculating decimal notation from scientific notation",
+    "Using this scientific notation converter",
+    "Other related tools",
+    "FAQs"
+   ],
+   "h3": [
+    "Inputting numbers in the scientific form",
+    "What is the scientific notation of 10.023?",
+    "How do I multiply two numbers in scientific notation?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Scientific Notation Converter"
+    },
+    {
+     "level": 2,
+     "text": "What is scientific notation?"
+    },
+    {
+     "level": 2,
+     "text": "How do you convert numbers into scientific notation?"
+    },
+    {
+     "level": 2,
+     "text": "Calculating decimal notation from scientific notation"
+    },
+    {
+     "level": 2,
+     "text": "Using this scientific notation converter"
+    },
+    {
+     "level": 3,
+     "text": "Inputting numbers in the scientific form"
+    },
+    {
+     "level": 2,
+     "text": "Other related tools"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What is the scientific notation of 10.023?"
+    },
+    {
+     "level": 3,
+     "text": "How do I multiply two numbers in scientific notation?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 916,
+   "avgSentenceWords": 16,
+   "faqs": [
+    "How do you convert numbers into scientific notation?",
+    "What is the scientific notation of 10.023?",
+    "How do I multiply two numbers in scientific notation?",
+    "What is scientific notation?"
+   ],
+   "faqSchemaCount": 3,
+   "topics": [
+    {
+     "term": "scientific notation",
+     "weight": 53
+    },
+    {
+     "term": "scientific",
+     "weight": 45
+    },
+    {
+     "term": "notation",
+     "weight": 44
+    },
+    {
+     "term": "decimal",
+     "weight": 23
+    },
+    {
+     "term": "number",
+     "weight": 21
+    },
+    {
+     "term": "decimal point",
+     "weight": 14
+    },
+    {
+     "term": "point",
+     "weight": 13
+    },
+    {
+     "term": "numbers",
+     "weight": 12
+    },
+    {
+     "term": "form",
+     "weight": 11
+    },
+    {
+     "term": "exponent",
+     "weight": 11
+    },
+    {
+     "term": "calculator",
+     "weight": 10
+    },
+    {
+     "term": "convert",
+     "weight": 10
+    },
+    {
+     "term": "notation converter",
+     "weight": 9
+    },
+    {
+     "term": "scientific form",
+     "weight": 8
+    },
+    {
+     "term": "converter",
+     "weight": 7
+    },
+    {
+     "term": "moved",
+     "weight": 7
+    },
+    {
+     "term": "decimal places",
+     "weight": 6
+    },
+    {
+     "term": "move",
+     "weight": 6
+    },
+    {
+     "term": "notation calculator",
+     "weight": 6
+    },
+    {
+     "term": "places",
+     "weight": 5
+    },
+    {
+     "term": "multiply",
+     "weight": 5
+    },
+    {
+     "term": "engineering notation",
+     "weight": 5
+    },
+    {
+     "term": "convert numbers",
+     "weight": 5
+    },
+    {
+     "term": "decimal form",
+     "weight": 5
+    },
+    {
+     "term": "first non",
+     "weight": 5
+    },
+    {
+     "term": "non zero",
+     "weight": 5
+    },
+    {
+     "term": "zero digit",
+     "weight": 5
+    },
+    {
+     "term": "conversion",
+     "weight": 4
+    },
+    {
+     "term": "simple",
+     "weight": 4
+    },
+    {
+     "term": "mantissa",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "Scientific Notation Converter Enter a number like 30000, or use scientific formats such as 3e4 or 3*10^4, and it will display the result in scientific, decimal, e-notation, and even engineering notation.",
+    "In scientific notation, we express numbers in the form: 𝑚 × 1 0 𝑛 m×10n where: 𝑚 m — The significand or mantissa, a real number coefficient such that 1 ≤ ∣ 𝑚 ∣ < 10 1≤∣m∣<10; and 𝑛 n — An integer exponent.",
+    "Instead, expressing the number in its scientific form, 2.72 × 10-5, makes our life easier.",
+    "Multiply the mantissa with 10x to get the scientific notation: m × 10x.",
+    "Let's use the above method to convert this number into scientific notation: Move the decimal point after the first non-zero digit: 7.248.",
+    "Multiply 7.248 with 10-5 to get the scientific notation of 0.00007248 as 7.248 × 10-5.",
+    "Test your understanding of scientific notation conversion: Convert the numbers 866.452 and 0.0001054 into scientific notation.",
+    "In scientific notation, 10.023 is written as 1.0023 × 101.",
+    "Multiply 1.0023 with 101 to get the scientific notation of 10.023 as 1.0023 × 101.",
+    "Multiplying two numbers in scientific notation, say m × 10a and n × 10b is simple: Multiply the mantissa of the two scientific numbers: m × n."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 12,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Krishna Nelaturu",
+    "published": "2023-02-28T20:29:05.968Z",
+    "modified": "2026-03-20T13:45:07.640Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 514,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 22,
+    "external": 1,
+    "contentInternal": 6,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Scientific notation calculator",
+     "Exponential notation calculator",
+     "Engineering notation calculator",
+     "Standard notation calculator",
+     "Least Common Multiple Calculator",
+     "Absolute Value Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/math/scientific-notation",
+     "https://www.omnicalculator.com/math/exponential-notation",
+     "https://www.omnicalculator.com/math/engineering-notation",
+     "https://www.omnicalculator.com/math/standard-notation",
+     "https://www.omnicalculator.com/math/least-common-multiple",
+     "https://www.omnicalculator.com/math/absolute-value"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

@@ -1,0 +1,258 @@
+{
+ "keywords": {
+  "scientific notation converter": {
+   "fetchedAt": "2026-11-22T10:48:26.725Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 3600,
+   "fileKd": 12,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 6,
+    "url": "www.calculator.net/scientific-notation-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://omnicalculator.com/math/scientific-notation-converter",
+     "domain": "omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.calculatorsoup.com/calculators/math/scientific-notation-converter.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "scientific notation converter",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.inchcalculator.com/scientific-notation-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Scientific Notation Calculator and Converter",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://planetcalc.com/9013/?license=1",
+     "domain": "planetcalc.com",
+     "title": "Scientific Notation Converter",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.gigacalculator.com/calculators/scientific-notation-calculator.php",
+     "domain": "www.gigacalculator.com",
+     "title": "Scientific Notation Calculator / Converter",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://planetcalc.com/9013/",
+     "domain": "planetcalc.com",
+     "title": "Scientific Notation Converter",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.firgelliauto.com/es/blogs/engineering-calculators/scientific-notation-converter-and-calculator",
+     "domain": "www.firgelliauto.com",
+     "title": "Scientific Notation Converter and Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://omnicalculator.com/math/scientific-notation",
+     "domain": "omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.tumblr.com/scientificnotationconverter/tagged/freescientificnotationconverter",
+     "domain": "www.tumblr.com",
+     "title": "www.tumblr.com",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.tumblr.com/scientificnotationconverter/tagged/converttoscientificnotation",
+     "domain": "www.tumblr.com",
+     "title": "www.tumblr.com",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.firgelliauto.com/es/blogs/engineering-calculators/scientific-notation-converter",
+     "domain": "www.firgelliauto.com",
+     "title": "Scientific Notation Converter",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.calculator.net/scientific-notation-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Scientific Notation Calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.calculator.io/scientific-notation-converter",
+     "domain": "www.calculator.io",
+     "title": "Math Calculators",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://calculator.io/scientific-notation-calculator",
+     "domain": "calculator.io",
+     "title": "Math Calculators",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://bushe.co/tools/scientific-notation-converter/",
+     "domain": "bushe.co",
+     "title": "scientific notation converter",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://www.taskade.com/app/scientific-notation-converter-chsb6vgop5keheg2?action=clone",
+     "domain": "www.taskade.com",
+     "title": "Scientific Notation Converter",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://Goodcalculators.com/scientific-notation-calculator-converter/",
+     "domain": "goodcalculators.com",
+     "title": "Scientific Notation Calculator and Converter",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://easyunitconverter.com/scientific-notation-converter",
+     "domain": "easyunitconverter.com",
+     "title": "Scientific Notation Converter",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://browserling.com:443/tools/decimal-to-scientific",
+     "domain": "browserling.com",
+     "title": "Convert Decimal to Scientific Notation",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://apps.microsoft.com/detail/9nz8642vs8w3?hl=en-US",
+     "domain": "apps.microsoft.com",
+     "title": "The standard form converter converts the given number to:",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "scientific-notation-calculator",
+ "page": "scientific-notation-calculator",
+ "category": "math",
+ "name": "Scientific Notation Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T10:48:26.725Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://omnicalculator.com/math/scientific-notation-converter",
+    "https://omnicalculator.com/math/scientific-notation"
+   ]
+  },
+  {
+   "domain": "planetcalc.com",
+   "bestRank": 4,
+   "keywords": 2,
+   "urls": [
+    "https://planetcalc.com/9013/?license=1",
+    "https://planetcalc.com/9013/"
+   ]
+  },
+  {
+   "domain": "firgelliauto.com",
+   "bestRank": 7,
+   "keywords": 2,
+   "urls": [
+    "https://www.firgelliauto.com/es/blogs/engineering-calculators/scientific-notation-converter-and-calculator",
+    "https://www.firgelliauto.com/es/blogs/engineering-calculators/scientific-notation-converter"
+   ]
+  },
+  {
+   "domain": "tumblr.com",
+   "bestRank": 9,
+   "keywords": 2,
+   "urls": [
+    "https://www.tumblr.com/scientificnotationconverter/tagged/freescientificnotationconverter",
+    "https://www.tumblr.com/scientificnotationconverter/tagged/converttoscientificnotation"
+   ]
+  },
+  {
+   "domain": "calculator.io",
+   "bestRank": 13,
+   "keywords": 2,
+   "urls": [
+    "https://www.calculator.io/scientific-notation-converter",
+    "https://calculator.io/scientific-notation-calculator"
+   ]
+  },
+  {
+   "domain": "calculatorsoup.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculatorsoup.com/calculators/math/scientific-notation-converter.php"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/scientific-notation-calculator/"
+   ]
+  },
+  {
+   "domain": "gigacalculator.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.gigacalculator.com/calculators/scientific-notation-calculator.php"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculator.net/scientific-notation-calculator.html"
+   ]
+  },
+  {
+   "domain": "bushe.co",
+   "bestRank": 15,
+   "keywords": 1,
+   "urls": [
+    "https://bushe.co/tools/scientific-notation-converter/"
+   ]
+  }
+ ]
+}

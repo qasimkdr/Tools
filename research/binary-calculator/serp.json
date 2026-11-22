@@ -1,0 +1,255 @@
+{
+ "keywords": {
+  "binary converter": {
+   "fetchedAt": "2026-11-22T10:48:26.253Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1200000,
+   "fileKd": 43,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 12,
+    "url": "www.calculator.net/binary-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://products.aspose.app:443/html/binary-converter",
+     "domain": "products.aspose.app",
+     "title": "binary converter",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://geekflare.com/tools/binary-translator/",
+     "domain": "geekflare.com",
+     "title": "binary translator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.pearson.com/channels/calculators/binary-calculator-converter",
+     "domain": "www.pearson.com",
+     "title": "binary calculator converter",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://home.lps.org/aholdor/?p=2733",
+     "domain": "home.lps.org",
+     "title": "Binary Converter",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.pearson.com/channels/it/calculators/binary-calculator-converter",
+     "domain": "www.pearson.com",
+     "title": "binary calculator converter",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.google.co.il/amp/s/www.engineeringtoolbox.com/amp/binary-decimal-hexadecimal-ascii-converter-d_1914.html",
+     "domain": "www.google.co.il",
+     "title": "Binary to Decimal, Hexadecimal and ASCII Converter",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://introcs.cs.princeton.edu/java/61data/BinaryConverter.java.html",
+     "domain": "introcs.cs.princeton.edu",
+     "title": "introcs.cs.princeton.edu",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://stanford.edu/~cgregg/107-Reader/float/convert.html",
+     "domain": "stanford.edu",
+     "title": "stanford.edu",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.omnicalculator.com/conversion/binary",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.omnicalculator.com/math/binary",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://ticalc.org/archives/files/fileinfo/221/22142.html",
+     "domain": "ticalc.org",
+     "title": "ticalc.org",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://secure.nuxt.dev/tools/binary",
+     "domain": "secure.nuxt.dev",
+     "title": "Binary Converter",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://inchcalculator.com/binary-converter",
+     "domain": "inchcalculator.com",
+     "title": "Binary Calculator & Converter",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://www.gigacalculator.com/calculators/binary-calculator.php",
+     "domain": "www.gigacalculator.com",
+     "title": "Binary Calculator / Converter",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://www.exploringbinary.com/binary-converter/",
+     "domain": "www.exploringbinary.com",
+     "title": "Decimal/Binary Converter",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://lingojam.com/DecimaltoBinary",
+     "domain": "lingojam.com",
+     "title": "Decimal to Binary Converter",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://www.calkoo.com/en/binary-converter",
+     "domain": "www.calkoo.com",
+     "title": "Number systems",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://miniwebtool.com/binary-converter/",
+     "domain": "miniwebtool.com",
+     "title": "binary converter",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://www.dcode.fr/binary-to-text",
+     "domain": "www.dcode.fr",
+     "title": "binary to text",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://www.engineeringtoolbox.com/binary-decimal-hexadecimal-ascii-converter-d_1914.html",
+     "domain": "www.engineeringtoolbox.com",
+     "title": "binary decimal hexadecimal ascii converter d 1914",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "binary-calculator",
+ "page": "binary-calculator",
+ "category": "math",
+ "name": "Binary Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T10:48:26.253Z",
+ "topCompetitors": [
+  {
+   "domain": "pearson.com",
+   "bestRank": 3,
+   "keywords": 2,
+   "urls": [
+    "https://www.pearson.com/channels/calculators/binary-calculator-converter",
+    "https://www.pearson.com/channels/it/calculators/binary-calculator-converter"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 9,
+   "keywords": 2,
+   "urls": [
+    "https://www.omnicalculator.com/conversion/binary",
+    "https://www.omnicalculator.com/math/binary"
+   ]
+  },
+  {
+   "domain": "aspose.app",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://products.aspose.app:443/html/binary-converter"
+   ]
+  },
+  {
+   "domain": "geekflare.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://geekflare.com/tools/binary-translator/"
+   ]
+  },
+  {
+   "domain": "lps.org",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://home.lps.org/aholdor/?p=2733"
+   ]
+  },
+  {
+   "domain": "google.co.il",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.google.co.il/amp/s/www.engineeringtoolbox.com/amp/binary-decimal-hexadecimal-ascii-converter-d_1914.html"
+   ]
+  },
+  {
+   "domain": "princeton.edu",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://introcs.cs.princeton.edu/java/61data/BinaryConverter.java.html"
+   ]
+  },
+  {
+   "domain": "stanford.edu",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://stanford.edu/~cgregg/107-Reader/float/convert.html"
+   ]
+  },
+  {
+   "domain": "ticalc.org",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://ticalc.org/archives/files/fileinfo/221/22142.html"
+   ]
+  },
+  {
+   "domain": "nuxt.dev",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://secure.nuxt.dev/tools/binary"
+   ]
+  }
+ ]
+}

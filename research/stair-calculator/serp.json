@@ -1,0 +1,353 @@
+{
+ "keywords": {
+  "stairs calculator": {
+   "fetchedAt": "2026-11-22T10:48:26.607Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 4400,
+   "fileKd": 13,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 1,
+    "url": "www.calculator.net/stair-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.omnicalculator.com/construction/stairs",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.calculator.net/stair-calc",
+     "domain": "www.calculator.net",
+     "title": "Stair Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.calculator.net/stair-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Stair Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.google.co.il/amp/s/www.engineeringtoolbox.com/amp/stairs-calculator-d_1372.html",
+     "domain": "www.google.co.il",
+     "title": "Staircases Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://demonstrations.wolfram.com/SimpleStairCalculator/",
+     "domain": "demonstrations.wolfram.com",
+     "title": "Simple Stair Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.housecallpro.com/handyman/templates-calculators/stair-calculator/",
+     "domain": "www.housecallpro.com",
+     "title": "stair calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.wolframcloud.com/objects/demonstrations/SimpleStairCalculator-source.nb",
+     "domain": "www.wolframcloud.com",
+     "title": "Simple Stair Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://wba.omnicalculator.com/construction/stairs",
+     "domain": "wba.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://apps.apple.com/app/id1493037366",
+     "domain": "apps.apple.com",
+     "title": "Stair Calculator: Construction",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://apps.apple.com/us/app/stair-stringer-calculator/id1493037366",
+     "domain": "apps.apple.com",
+     "title": "Stair Calculator: Construction 4+",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://housing.com/news/stair-calculator/amp",
+     "domain": "housing.com",
+     "title": "housing.com",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://help.autodesk.com/cloudhelp/2016/ENU/Revit-Model/files/GUID-4E763B5A-1FFF-4084-BFAC-B587FEB01B3D.htm",
+     "domain": "help.autodesk.com",
+     "title": "Use the Stair Calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://help.autodesk.com/cloudhelp/2014/ENU/Revit/files/GUID-4E763B5A-1FFF-4084-BFAC-B587FEB01B3D.htm",
+     "domain": "help.autodesk.com",
+     "title": "Using the Stair Calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://www.miniwebtool.com/stair-calculator/",
+     "domain": "www.miniwebtool.com",
+     "title": "stair calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://www.decks.com/calculators/stairs-calculator",
+     "domain": "www.decks.com",
+     "title": "Deck Stairs Calculator",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://www.engineeringtoolbox.com/stairs-calculator-d_1372.html",
+     "domain": "www.engineeringtoolbox.com",
+     "title": "stairs calculator d 1372",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://decks.com/calculators/stairs",
+     "domain": "decks.com",
+     "title": "Deck Stairs Calculator",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://housing.com/news/stair-calculator",
+     "domain": "housing.com",
+     "title": "Stair stringer calculator: Calculate length and number of steps",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://illustrarch.com/bio/go/134149/b5cf827646963/?i=3&lang=en",
+     "domain": "illustrarch.com",
+     "title": "Free Online Staircase Calculator",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://mycalcbuddy.com/ar/construction/stairs-calculator",
+     "domain": "mycalcbuddy.com",
+     "title": "Stairs Calculator",
+     "description": null
+    }
+   ]
+  },
+  "stair stringer calculator rise run [restricted to accessible domains]": {
+   "fetchedAt": "2026-11-22T10:50:04.297Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch-restricted",
+   "rankNote": "order within a search limited to accessible domains — not a Google rank, not the open result list",
+   "fileVolume": null,
+   "fileKd": null,
+   "fileIntent": null,
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.calculator.net/stair-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Stair Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.omnicalculator.com/construction/stairs",
+     "domain": "www.omnicalculator.com",
+     "title": "Stair Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.omnicalculator.com/construction/concrete-stairs",
+     "domain": "www.omnicalculator.com",
+     "title": "Concrete Stairs Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.omnicalculator.com/construction",
+     "domain": "www.omnicalculator.com",
+     "title": "Construction Calculators",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.inchcalculator.com/concrete-steps-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Concrete Steps Calculator - Estimate Yards for Concrete Stairs",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.omnicalculator.com/construction/stair-carpet",
+     "domain": "www.omnicalculator.com",
+     "title": "Stair Carpet Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.omnicalculator.com/construction/spindle-spacing",
+     "domain": "www.omnicalculator.com",
+     "title": "Spindle Spacing Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.inchcalculator.com/rafter-length-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Rafter Length Calculator - Inch Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.calculator.io/concrete-calculator/",
+     "domain": "www.calculator.io",
+     "title": "Concrete Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.omnicalculator.com/construction/rafter-length",
+     "domain": "www.omnicalculator.com",
+     "title": "Rafter Length Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "stair-calculator",
+ "page": "stair-calculator",
+ "category": "construction",
+ "name": "Stair Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T10:50:04.298Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 8,
+   "urls": [
+    "https://www.omnicalculator.com/construction/stairs",
+    "https://wba.omnicalculator.com/construction/stairs",
+    "https://www.omnicalculator.com/construction/concrete-stairs",
+    "https://www.omnicalculator.com/construction",
+    "https://www.omnicalculator.com/construction/stair-carpet",
+    "https://www.omnicalculator.com/construction/spindle-spacing",
+    "https://www.omnicalculator.com/construction/rafter-length"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 1,
+   "keywords": 3,
+   "urls": [
+    "https://www.calculator.net/stair-calc",
+    "https://www.calculator.net/stair-calculator.html"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 5,
+   "keywords": 2,
+   "urls": [
+    "https://www.inchcalculator.com/concrete-steps-calculator/",
+    "https://www.inchcalculator.com/rafter-length-calculator/"
+   ]
+  },
+  {
+   "domain": "apple.com",
+   "bestRank": 9,
+   "keywords": 2,
+   "urls": [
+    "https://apps.apple.com/app/id1493037366",
+    "https://apps.apple.com/us/app/stair-stringer-calculator/id1493037366"
+   ]
+  },
+  {
+   "domain": "housing.com",
+   "bestRank": 11,
+   "keywords": 2,
+   "urls": [
+    "https://housing.com/news/stair-calculator/amp",
+    "https://housing.com/news/stair-calculator"
+   ]
+  },
+  {
+   "domain": "autodesk.com",
+   "bestRank": 12,
+   "keywords": 2,
+   "urls": [
+    "https://help.autodesk.com/cloudhelp/2016/ENU/Revit-Model/files/GUID-4E763B5A-1FFF-4084-BFAC-B587FEB01B3D.htm",
+    "https://help.autodesk.com/cloudhelp/2014/ENU/Revit/files/GUID-4E763B5A-1FFF-4084-BFAC-B587FEB01B3D.htm"
+   ]
+  },
+  {
+   "domain": "decks.com",
+   "bestRank": 15,
+   "keywords": 2,
+   "urls": [
+    "https://www.decks.com/calculators/stairs-calculator",
+    "https://decks.com/calculators/stairs"
+   ]
+  },
+  {
+   "domain": "google.co.il",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.google.co.il/amp/s/www.engineeringtoolbox.com/amp/stairs-calculator-d_1372.html"
+   ]
+  },
+  {
+   "domain": "wolfram.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://demonstrations.wolfram.com/SimpleStairCalculator/"
+   ]
+  },
+  {
+   "domain": "housecallpro.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.housecallpro.com/handyman/templates-calculators/stair-calculator/"
+   ]
+  }
+ ]
+}

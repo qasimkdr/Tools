@@ -1,0 +1,954 @@
+{
+ "pages": {
+  "https://www.calculator.net/binary-calculator.html": {
+   "url": "https://www.calculator.net/binary-calculator.html",
+   "finalUrl": "https://www.calculator.net/binary-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T10:48:35.285Z",
+   "title": "Binary Calculator",
+   "metaDescription": "This free binary calculator can add, subtract, multiply, and divide binary values, as well as convert between binary and decimal values.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Binary Calculator"
+   ],
+   "h2": [
+    "Binary Calculation—Add, Subtract, Multiply, or Divide",
+    "Convert Binary Value to Decimal Value",
+    "Convert Decimal Value to Binary Value"
+   ],
+   "h3": [
+    "Binary Addition",
+    "Binary Subtraction",
+    "Binary Multiplication",
+    "Binary Division"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Binary Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Binary Calculation—Add, Subtract, Multiply, or Divide"
+    },
+    {
+     "level": 2,
+     "text": "Convert Binary Value to Decimal Value"
+    },
+    {
+     "level": 2,
+     "text": "Convert Decimal Value to Binary Value"
+    },
+    {
+     "level": 3,
+     "text": "Binary Addition"
+    },
+    {
+     "level": 3,
+     "text": "Binary Subtraction"
+    },
+    {
+     "level": 3,
+     "text": "Binary Multiplication"
+    },
+    {
+     "level": 3,
+     "text": "Binary Division"
+    }
+   ],
+   "wordCount": 1414,
+   "avgSentenceWords": 27,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "binary",
+     "weight": 47
+    },
+    {
+     "term": "decimal",
+     "weight": 29
+    },
+    {
+     "term": "system",
+     "weight": 22
+    },
+    {
+     "term": "binary system",
+     "weight": 15
+    },
+    {
+     "term": "value",
+     "weight": 14
+    },
+    {
+     "term": "decimal system",
+     "weight": 12
+    },
+    {
+     "term": "addition",
+     "weight": 11
+    },
+    {
+     "term": "number",
+     "weight": 11
+    },
+    {
+     "term": "example",
+     "weight": 11
+    },
+    {
+     "term": "subtraction",
+     "weight": 9
+    },
+    {
+     "term": "multiplication",
+     "weight": 9
+    },
+    {
+     "term": "values",
+     "weight": 9
+    },
+    {
+     "term": "binary addition",
+     "weight": 9
+    },
+    {
+     "term": "note",
+     "weight": 9
+    },
+    {
+     "term": "column",
+     "weight": 9
+    },
+    {
+     "term": "example below",
+     "weight": 8
+    },
+    {
+     "term": "borrowing",
+     "weight": 7
+    },
+    {
+     "term": "calculator",
+     "weight": 6
+    },
+    {
+     "term": "division",
+     "weight": 6
+    },
+    {
+     "term": "system uses",
+     "weight": 6
+    },
+    {
+     "term": "same",
+     "weight": 6
+    },
+    {
+     "term": "below",
+     "weight": 6
+    },
+    {
+     "term": "place",
+     "weight": 6
+    },
+    {
+     "term": "binary subtraction",
+     "weight": 6
+    },
+    {
+     "term": "binary multiplication",
+     "weight": 6
+    },
+    {
+     "term": "math",
+     "weight": 5
+    },
+    {
+     "term": "while",
+     "weight": 5
+    },
+    {
+     "term": "rather",
+     "weight": 5
+    },
+    {
+     "term": "being",
+     "weight": 5
+    },
+    {
+     "term": "addition subtraction",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "While the decimal number system uses the number 10 as its base, the binary system uses 2.",
+    "Furthermore, although the decimal system uses the digits 0 through 9, the binary system uses only 0 and 1, and each digit is referred to as a bit.",
+    "Essentially this means: 8 × 100 = 8 × 1 = 8 Using the number 18 for comparison: (1 × 101) + (8 × 100) = 10 + 8 = 18 In binary, 8 is represented as 1000.",
+    "Binary Addition Binary addition follows the same rules as addition in the decimal system except that rather than carrying a 1 over when the values added equal 10, carry over occurs when the result of addition equals 2.",
+    "Note that in the binary system: 0 + 0 = 0 0 + 1 = 1 1 + 0 = 1 1 + 1 = 0, carry over the 1, i.e.",
+    "10 EX: 10 11 11 10 1 + 1 0 1 1 1 = 1 0 0 1 0 0 The only real difference between binary and decimal addition is that the value 2 in the binary system is the equivalent of 10 in the decimal system.",
+    "A common mistake to watch out for when conducting binary addition is in the case where 1 + 1 = 0 also has a 1 carried over from the previous column to its right.",
+    "Binary Subtraction Similar to binary addition, there is little difference between binary and decimal subtraction except those that arise from using only the digits 0 and 1.",
+    "In binary subtraction, the only case where borrowing is necessary is when 1 is subtracted from 0.",
+    "Without the 0 being shown, it would be possible to make the mistake of excluding the 0 when adding the binary values displayed above."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 13,
+   "lists": 9,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "number1",
+    "c2op",
+    "number2",
+    "b2dnumber1",
+    "d2bnumber1"
+   ],
+   "selectOptionsSample": "+ - × ÷",
+   "unitToggle": false,
+   "wordsBeforeTool": 44,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 20,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 20,
+    "external": 0,
+    "contentInternal": 20,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "math",
+     "binary calculator",
+     "Hex Calculator",
+     "IP Subnet Calculator",
+     "Math Calculators",
+     "Scientific",
+     "Fraction",
+     "Percentage",
+     "Triangle",
+     "Volume",
+     "Standard Deviation",
+     "Random Number Generator",
+     "More Math Calculators",
+     "Financial",
+     "Fitness and Health",
+     "Math",
+     "Other",
+     "about us"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/binary-calculator.html",
+     "https://www.calculator.net/hex-calculator.html",
+     "https://www.calculator.net/ip-subnet-calculator.html",
+     "https://www.calculator.net/scientific-calculator.html",
+     "https://www.calculator.net/fraction-calculator.html",
+     "https://www.calculator.net/percent-calculator.html",
+     "https://www.calculator.net/triangle-calculator.html",
+     "https://www.calculator.net/volume-calculator.html",
+     "https://www.calculator.net/standard-deviation-calculator.html",
+     "https://www.calculator.net/random-number-generator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/math/binary": {
+   "url": "https://www.omnicalculator.com/math/binary",
+   "finalUrl": "https://www.omnicalculator.com/conversion/binary",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T10:48:39.173Z",
+   "title": "Binary Converter",
+   "metaDescription": "The binary converter lets you convert numbers from binary to decimal system and back.",
+   "canonical": "https://www.omnicalculator.com/conversion/binary",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Binary Converter"
+   ],
+   "h2": [
+    "What is the binary system?",
+    "Converting from decimal to binary",
+    "Converting from binary to decimal",
+    "Converting negative numbers",
+    "How to use the binary converter?"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Binary Converter"
+    },
+    {
+     "level": 2,
+     "text": "What is the binary system?"
+    },
+    {
+     "level": 2,
+     "text": "Converting from decimal to binary"
+    },
+    {
+     "level": 2,
+     "text": "Converting from binary to decimal"
+    },
+    {
+     "level": 2,
+     "text": "Converting negative numbers"
+    },
+    {
+     "level": 2,
+     "text": "How to use the binary converter?"
+    }
+   ],
+   "wordCount": 1235,
+   "avgSentenceWords": 18,
+   "faqs": [
+    "What is the binary system?",
+    "How to use the binary converter?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "binary",
+     "weight": 44
+    },
+    {
+     "term": "number",
+     "weight": 33
+    },
+    {
+     "term": "decimal",
+     "weight": 20
+    },
+    {
+     "term": "system",
+     "weight": 20
+    },
+    {
+     "term": "binary system",
+     "weight": 17
+    },
+    {
+     "term": "converter",
+     "weight": 13
+    },
+    {
+     "term": "corresponds",
+     "weight": 11
+    },
+    {
+     "term": "binary number",
+     "weight": 11
+    },
+    {
+     "term": "decimal system",
+     "weight": 11
+    },
+    {
+     "term": "complement",
+     "weight": 10
+    },
+    {
+     "term": "binary converter",
+     "weight": 9
+    },
+    {
+     "term": "digits",
+     "weight": 9
+    },
+    {
+     "term": "two's complement",
+     "weight": 9
+    },
+    {
+     "term": "numbers",
+     "weight": 8
+    },
+    {
+     "term": "digit",
+     "weight": 8
+    },
+    {
+     "term": "equal",
+     "weight": 8
+    },
+    {
+     "term": "example",
+     "weight": 7
+    },
+    {
+     "term": "remainder",
+     "weight": 7
+    },
+    {
+     "term": "negative",
+     "weight": 7
+    },
+    {
+     "term": "opposite",
+     "weight": 7
+    },
+    {
+     "term": "calculator",
+     "weight": 6
+    },
+    {
+     "term": "convert",
+     "weight": 6
+    },
+    {
+     "term": "adding",
+     "weight": 6
+    },
+    {
+     "term": "initial number",
+     "weight": 6
+    },
+    {
+     "term": "one's",
+     "weight": 6
+    },
+    {
+     "term": "one's complement",
+     "weight": 6
+    },
+    {
+     "term": "two's",
+     "weight": 6
+    },
+    {
+     "term": "0101 0111",
+     "weight": 6
+    },
+    {
+     "term": "1010 1000",
+     "weight": 6
+    },
+    {
+     "term": "1010 1001",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Binary Converter Binary number representation You can enter a decimal number between -128 and 127.",
+    "Decimal You can write a binary number with no more than 8 digits.",
+    "In the binary system, there are only two available digits: 0 0 and 1 1.",
+    "For example, we can analyze the number 1111 1111 in the binary system in the following way: The last 1 1 corresponds to 2 0 20 ( 1 1 is equal to 1 × 2 0 = 1 1×20=1).",
+    "Number 1111 1111 in the binary system corresponds to 15 15 in the decimal system.",
+    "The two's complement of a negative number in binary is achieved by switching all digits of the opposite positive number to opposite bit values and adding 1 to the number.",
+    "We want to convert the number − 87 −87 in the decimal system into an 8-bit binary system.",
+    "Find the binary representation of the positive number 87 87 in the decimal system: 0101 0111 0101 0111.",
+    "For example, we will transform the number -87 from the decimal to the binary system.",
+    "The calculator displays the result: The binary value of the positive opposite of our number, so 87 87, is: 0101 0111 0101 0111."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 10,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Binary number representation"
+   ],
+   "selectOptionsSample": "select 4-bit 8-bit 12-bit 16-bit 32-bit 64-bit other",
+   "unitToggle": false,
+   "wordsBeforeTool": 5,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Bogna Szyk",
+    "published": "2017-01-16T12:57:58.689Z",
+    "modified": "2026-08-25T12:27:52.333Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 684,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 23,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Mayan numerals converter",
+     "Roman numerals converter",
+     "binary to hexadecimal converter",
+     "binary to octal converter",
+     "binary subtraction calculator",
+     "binary calculator",
+     "binary fraction converter"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/math/mayan-numeral",
+     "https://www.omnicalculator.com/conversion/roman-numerals",
+     "https://www.omnicalculator.com/conversion/binary-to-hexadecimal",
+     "https://www.omnicalculator.com/conversion/binary-to-octal",
+     "https://www.omnicalculator.com/math/binary-fraction",
+     "https://www.omnicalculator.com/math/binary-operations",
+     "https://www.omnicalculator.com/math/binary-subtraction"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/binary-converter/": {
+   "url": "https://www.inchcalculator.com/binary-converter/",
+   "finalUrl": "https://www.inchcalculator.com/binary-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T10:48:42.493Z",
+   "title": "Binary Calculator & Converter - Inch Calculator",
+   "metaDescription": "Use our binary calculator to do binary addition, subtraction, multiplication, division, or conversion. Learn how to solve base 2 equations.",
+   "canonical": "https://www.inchcalculator.com/binary-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Binary Calculator & Converter"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Binary Result:",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Add Binary Numbers",
+    "How to Convert a Binary Number",
+    "How to Convert a Decimal to Binary Number",
+    "Frequently Asked Questions",
+    "Popular Base Converters",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Decimal Result:",
+    "Hex Result:",
+    "Hexadecimal Result",
+    "Octal Result",
+    "ACSCII Text",
+    "How do binary numbers work?",
+    "How do decimal places work in binary?",
+    "What is binary used for?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Binary Calculator & Converter"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Binary Result:"
+    },
+    {
+     "level": 3,
+     "text": "Decimal Result:"
+    },
+    {
+     "level": 3,
+     "text": "Hex Result:"
+    },
+    {
+     "level": 3,
+     "text": "Hexadecimal Result"
+    },
+    {
+     "level": 3,
+     "text": "Octal Result"
+    },
+    {
+     "level": 3,
+     "text": "ACSCII Text"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Add Binary Numbers"
+    },
+    {
+     "level": 2,
+     "text": "How to Convert a Binary Number"
+    },
+    {
+     "level": 2,
+     "text": "How to Convert a Decimal to Binary Number"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "How do binary numbers work?"
+    },
+    {
+     "level": 3,
+     "text": "How do decimal places work in binary?"
+    },
+    {
+     "level": 3,
+     "text": "What is binary used for?"
+    },
+    {
+     "level": 2,
+     "text": "Popular Base Converters"
+    }
+   ],
+   "wordCount": 962,
+   "avgSentenceWords": 22,
+   "faqs": [
+    "How do binary numbers work?",
+    "How do decimal places work in binary?",
+    "What is binary used for?"
+   ],
+   "faqSchemaCount": 3,
+   "topics": [
+    {
+     "term": "binary",
+     "weight": 32
+    },
+    {
+     "term": "number",
+     "weight": 20
+    },
+    {
+     "term": "decimal",
+     "weight": 16
+    },
+    {
+     "term": "binary number",
+     "weight": 12
+    },
+    {
+     "term": "calculator",
+     "weight": 11
+    },
+    {
+     "term": "result",
+     "weight": 10
+    },
+    {
+     "term": "add",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "binary numbers",
+     "weight": 8
+    },
+    {
+     "term": "convert",
+     "weight": 7
+    },
+    {
+     "term": "right",
+     "weight": 7
+    },
+    {
+     "term": "top",
+     "weight": 7
+    },
+    {
+     "term": "equal",
+     "weight": 7
+    },
+    {
+     "term": "binary calculator",
+     "weight": 6
+    },
+    {
+     "term": "converter",
+     "weight": 6
+    },
+    {
+     "term": "numbers",
+     "weight": 6
+    },
+    {
+     "term": "bottom",
+     "weight": 6
+    },
+    {
+     "term": "digit",
+     "weight": 6
+    },
+    {
+     "term": "division",
+     "weight": 6
+    },
+    {
+     "term": "system",
+     "weight": 5
+    },
+    {
+     "term": "digits",
+     "weight": 5
+    },
+    {
+     "term": "value",
+     "weight": 5
+    },
+    {
+     "term": "first",
+     "weight": 5
+    },
+    {
+     "term": "problem",
+     "weight": 5
+    },
+    {
+     "term": "calculator converter",
+     "weight": 5
+    },
+    {
+     "term": "decimal places",
+     "weight": 5
+    },
+    {
+     "term": "base",
+     "weight": 4
+    },
+    {
+     "term": "divide",
+     "weight": 3
+    },
+    {
+     "term": "below",
+     "weight": 3
+    },
+    {
+     "term": "hex",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "So, to add two binary numbers, write the second number below the first number, aligning the right digits like this: 0 1 0 1 0 + 1 1 1 0 1 Starting at the right-most number, add the top and bottom values together.",
+    "Adding 1 + 1 is equal to 2 in the decimal system, but the binary system only uses the digits 1 and 0.",
+    "1 0 1 0 1 0 + 1 1 1 0 1 0 1 1 1 In the next step, add the 1 at the top of the first column with the other values; 1 + 0 + 1 is equal to 10 in binary.",
+    "How to Convert a Decimal to Binary Number You can convert from decimal to binary using successive division by 2.",
+    "A binary number is the smallest unit of data that consists of the digits 0 and 1.",
+    "Binary decimal places are based on the power of 2."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 7,
+   "lists": 2,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "Number One",
+    "Number One Number System",
+    "Operation",
+    "Number Two",
+    "Number Two Number System",
+    "Binary Number"
+   ],
+   "selectOptionsSample": "binary octal decimal hex + - × ÷ binary octal decimal hex",
+   "unitToggle": false,
+   "wordsBeforeTool": 22,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2021-09-15",
+    "modified": "2023-07-20T14:32:28+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 131,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 43,
+    "external": 13,
+    "contentInternal": 19,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "hex calculator",
+     "below",
+     "Add This to Your Site",
+     "Binary Calculator",
+     "How to Add Binary Numbers",
+     "How to Convert a Binary Number",
+     "How to Convert a Decimal to Binary Number",
+     "Frequently Asked Questions",
+     "Full bio",
+     "Binary Calculator & Converter",
+     "convert a binary number to decimal",
+     "convert from decimal to binary",
+     "remainder",
+     "Hexadecimal Calculator & Converter",
+     "Base Converter",
+     "Base Calculator",
+     "Octal to Decimal Converter",
+     "Octal to Binary Converter",
+     "See All"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/hex-calculator/",
+     "https://www.inchcalculator.com/binary-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/binary-calculator/",
+     "https://www.inchcalculator.com/binary-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/binary-calculator/#idx_how_to_add_binary_numbers",
+     "https://www.inchcalculator.com/binary-calculator/#idx_how_to_convert_a_binary_number",
+     "https://www.inchcalculator.com/binary-calculator/#idx_how_to_convert_a_decimal_to_binary_number",
+     "https://www.inchcalculator.com/binary-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/pateakia-heath/",
+     "https://www.inchcalculator.com/binary-calculator/",
+     "https://www.inchcalculator.com/binary-to-decimal-converter/",
+     "https://www.inchcalculator.com/decimal-to-binary-converter/",
+     "https://www.inchcalculator.com/remainder-calculator/",
+     "https://www.inchcalculator.com/base-converter/",
+     "https://www.inchcalculator.com/base-calculator/",
+     "https://www.inchcalculator.com/octal-to-decimal-converter/",
+     "https://www.inchcalculator.com/octal-to-binary-converter/",
+     "https://www.inchcalculator.com/number-conversion-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fbinary-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fbinary-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fbinary-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fbinary-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fbinary-calculator%2F&text=Binary+Calculator+%26%23038%3B+Converter",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fbinary-calculator%2F&text=Binary+Calculator+%26%23038%3B+Converter",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.calculatorsoup.com/calculators/math/binary-calculator.php": [
+   "HTTP 404"
+  ]
+ }
+}

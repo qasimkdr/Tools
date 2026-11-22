@@ -1,0 +1,643 @@
+{
+ "pages": {
+  "https://www.inchcalculator.com/rafter-length-calculator/": {
+   "url": "https://www.inchcalculator.com/rafter-length-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/rafter-length-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T10:48:52.960Z",
+   "title": "Rafter Length Calculator - Inch Calculator",
+   "metaDescription": "Use our rafter length calculator to see how long your rafters need to be when framing a roof or truss. Plus, learn the rafter length formula.",
+   "canonical": "https://www.inchcalculator.com/rafter-length-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Rafter Length Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Rafter Length",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate the Length of a Rafter",
+    "Similar Carpentry Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Roof Details:",
+    "Step One: Calculate the Roof Pitch",
+    "Step Two: Measure the Roof Span",
+    "Step Three: Calculate the Rafter Run",
+    "Step Four: Calculate the Rafter Length"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Rafter Length Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Rafter Length"
+    },
+    {
+     "level": 3,
+     "text": "Roof Details:"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate the Length of a Rafter"
+    },
+    {
+     "level": 3,
+     "text": "Step One: Calculate the Roof Pitch"
+    },
+    {
+     "level": 3,
+     "text": "Step Two: Measure the Roof Span"
+    },
+    {
+     "level": 3,
+     "text": "Step Three: Calculate the Rafter Run"
+    },
+    {
+     "level": 3,
+     "text": "Step Four: Calculate the Rafter Length"
+    },
+    {
+     "level": 2,
+     "text": "Similar Carpentry Calculators"
+    }
+   ],
+   "wordCount": 987,
+   "avgSentenceWords": 25,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "rafter",
+     "weight": 31
+    },
+    {
+     "term": "length",
+     "weight": 27
+    },
+    {
+     "term": "roof",
+     "weight": 25
+    },
+    {
+     "term": "rafter length",
+     "weight": 23
+    },
+    {
+     "term": "calculate",
+     "weight": 17
+    },
+    {
+     "term": "run",
+     "weight": 16
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "pitch",
+     "weight": 11
+    },
+    {
+     "term": "angle",
+     "weight": 11
+    },
+    {
+     "term": "rise",
+     "weight": 10
+    },
+    {
+     "term": "roof pitch",
+     "weight": 9
+    },
+    {
+     "term": "width",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "step",
+     "weight": 8
+    },
+    {
+     "term": "beam",
+     "weight": 7
+    },
+    {
+     "term": "length calculator",
+     "weight": 6
+    },
+    {
+     "term": "building",
+     "weight": 6
+    },
+    {
+     "term": "degrees",
+     "weight": 6
+    },
+    {
+     "term": "rafters",
+     "weight": 6
+    },
+    {
+     "term": "overhang",
+     "weight": 5
+    },
+    {
+     "term": "measure",
+     "weight": 5
+    },
+    {
+     "term": "span",
+     "weight": 5
+    },
+    {
+     "term": "need",
+     "weight": 5
+    },
+    {
+     "term": "roof span",
+     "weight": 5
+    },
+    {
+     "term": "rise run",
+     "weight": 5
+    },
+    {
+     "term": "type",
+     "weight": 4
+    },
+    {
+     "term": "equal",
+     "weight": 4
+    },
+    {
+     "term": "total",
+     "weight": 4
+    },
+    {
+     "term": "feet",
+     "weight": 3
+    },
+    {
+     "term": "inches",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "run = (total width ÷ 2) – (beam width ÷ 2) Step Four: Calculate the Rafter Length Now that you know the run and the angle in degrees, you can use trigonometry to calculate the rafter length."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 3,
+   "lists": 2,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [
+    "Building Width",
+    "Building Width Units",
+    "Overhang",
+    "Overhang Units",
+    "Beam Thickness",
+    "Beam Thickness Units",
+    "Roof Pitch"
+   ],
+   "selectOptionsSample": "in ft yd cm m in cm in cm 0/12 (flat) 1/12 2/12 3/12 4/12 5/12 6/12 7/12 8/12 9/12 10/12 11/12 12/12 13/12 14/12 15/12 16/12 17/12 18/12 19/12 20/12 21/12 22/12 23/12 24/12",
+   "unitToggle": true,
+   "wordsBeforeTool": 25,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2023-04-12",
+    "modified": "2023-06-26T19:38:25+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 126,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 52,
+    "external": 13,
+    "contentInternal": 28,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "find roof pitch",
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate the Length of a Rafter",
+     "Step One: Calculate the Roof Pitch",
+     "Step Two: Measure the Roof Span",
+     "Step Three: Calculate the Rafter Run",
+     "Step Four: Calculate the Rafter Length",
+     "Full bio",
+     "Rafter Length Calculator",
+     "roof sheathing",
+     "framing",
+     "Get Free Estimates",
+     "roof pitch",
+     "inverse tangent",
+     "rise over run calculator",
+     "tape measure",
+     "trigonometry",
+     "cosine"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/roof-pitch-calculator/",
+     "https://www.inchcalculator.com/rafter-length-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/rafter-length/",
+     "https://www.inchcalculator.com/rafter-length-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/rafter-length-calculator/#idx_how_to_calculate_the_length_of_a_rafter",
+     "https://www.inchcalculator.com/rafter-length-calculator/#idx_step_one_calculate_the_roof_pitch",
+     "https://www.inchcalculator.com/rafter-length-calculator/#idx_step_two_measure_the_roof_span",
+     "https://www.inchcalculator.com/rafter-length-calculator/#idx_step_three_calculate_the_rafter_run",
+     "https://www.inchcalculator.com/rafter-length-calculator/#idx_step_four_calculate_the_rafter_length",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/sarabeth-asaff-south/",
+     "https://www.inchcalculator.com/rafter-length-calculator/",
+     "https://www.inchcalculator.com/roof-sheathing-calculator/",
+     "https://www.inchcalculator.com/framing-calculator/",
+     "https://www.inchcalculator.com/get-free-home-repair-estimates/?preset_project_type=Carpentry&preset_service_id=",
+     "https://www.inchcalculator.com/inverse-tangent-calculator/",
+     "https://www.inchcalculator.com/rise-over-run-calculator/",
+     "https://www.inchcalculator.com/how-to-use-tape-measure/",
+     "https://www.inchcalculator.com/trigonometry-calculator/",
+     "https://www.inchcalculator.com/cosine-calculator/",
+     "https://www.inchcalculator.com/right-triangle-calculator/",
+     "https://www.inchcalculator.com/roofing-calculator/",
+     "https://www.inchcalculator.com/feet-inches-calculator/",
+     "https://www.inchcalculator.com/board-batten-siding-calculator/",
+     "https://www.inchcalculator.com/wainscoting-layout-calculator/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Frafter-length-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Frafter-length-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Frafter-length-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Frafter-length-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Frafter-length-calculator%2F&text=Rafter+Length+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Frafter-length-calculator%2F&text=Rafter+Length+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/construction/rafter-length": {
+   "url": "https://www.omnicalculator.com/construction/rafter-length",
+   "finalUrl": "https://www.omnicalculator.com/construction/rafter-length",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T10:48:56.296Z",
+   "title": "Rafter Length Calculator",
+   "metaDescription": "Calculate rafter length, roof truss dimensions, and roofing costs with our easy-to-use rafter length calculator.",
+   "canonical": "https://www.omnicalculator.com/construction/rafter-length",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Rafter Length Calculator"
+   ],
+   "h2": [
+    "How to use the rafter length calculator",
+    "How to calculate rafter length?",
+    "How to calculate truss count and roof truss cost?",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I calculate rafter length using pitch?",
+    "How do I calculate rafter length from run and rise?",
+    "What size rafters do I need for a 12 feet span?",
+    "What are common values for roof pitches?",
+    "What is the difference between a rafter and a truss?",
+    "How far apart should roof rafters be?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Rafter Length Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to use the rafter length calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate rafter length?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate truss count and roof truss cost?"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate rafter length using pitch?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate rafter length from run and rise?"
+    },
+    {
+     "level": 3,
+     "text": "What size rafters do I need for a 12 feet span?"
+    },
+    {
+     "level": 3,
+     "text": "What are common values for roof pitches?"
+    },
+    {
+     "level": 3,
+     "text": "What is the difference between a rafter and a truss?"
+    },
+    {
+     "level": 3,
+     "text": "How far apart should roof rafters be?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1572,
+   "avgSentenceWords": 25,
+   "faqs": [
+    "How do I calculate rafter length using pitch?",
+    "How do I calculate rafter length from run and rise?",
+    "What size rafters do I need for a 12 feet span?",
+    "What are common values for roof pitches?",
+    "What is the difference between a rafter and a truss?",
+    "How far apart should roof rafters be?",
+    "How to calculate rafter length?",
+    "How to calculate truss count and roof truss cost?"
+   ],
+   "faqSchemaCount": 6,
+   "topics": [
+    {
+     "term": "rafter length",
+     "weight": 63
+    },
+    {
+     "term": "rafter",
+     "weight": 48
+    },
+    {
+     "term": "length",
+     "weight": 45
+    },
+    {
+     "term": "roof",
+     "weight": 41
+    },
+    {
+     "term": "run",
+     "weight": 31
+    },
+    {
+     "term": "pitch",
+     "weight": 27
+    },
+    {
+     "term": "truss",
+     "weight": 26
+    },
+    {
+     "term": "calculator",
+     "weight": 23
+    },
+    {
+     "term": "rise",
+     "weight": 22
+    },
+    {
+     "term": "calculate",
+     "weight": 17
+    },
+    {
+     "term": "truss count",
+     "weight": 15
+    },
+    {
+     "term": "roof truss",
+     "weight": 14
+    },
+    {
+     "term": "roof pitch",
+     "weight": 12
+    },
+    {
+     "term": "need",
+     "weight": 12
+    },
+    {
+     "term": "formula",
+     "weight": 12
+    },
+    {
+     "term": "run pitch",
+     "weight": 12
+    },
+    {
+     "term": "length calculator",
+     "weight": 11
+    },
+    {
+     "term": "rise run",
+     "weight": 11
+    },
+    {
+     "term": "calculate rafter",
+     "weight": 11
+    },
+    {
+     "term": "count",
+     "weight": 10
+    },
+    {
+     "term": "trusses",
+     "weight": 9
+    },
+    {
+     "term": "length formula",
+     "weight": 9
+    },
+    {
+     "term": "length run",
+     "weight": 9
+    },
+    {
+     "term": "costs",
+     "weight": 8
+    },
+    {
+     "term": "run rafter",
+     "weight": 8
+    },
+    {
+     "term": "tool",
+     "weight": 7
+    },
+    {
+     "term": "dimensions",
+     "weight": 7
+    },
+    {
+     "term": "installation",
+     "weight": 7
+    },
+    {
+     "term": "input",
+     "weight": 7
+    },
+    {
+     "term": "want",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "To do so, it uses the following equations: truss count = ((roof length × 12)/24) + 1 rounded up to the closest integer (for example, if the result is 14.5, you need to get 15 trusses).",
+    "In this formula, we assume the roof length in feet and a 24\" spacing between each truss.",
+    "Assuming a 4:12 pitch, you would need a rafter that is 6 feet 4 inches long.",
+    "However, If you want to consider other pitches, you can use the rafter length formula in terms of the pitch and run: rafter length = run√(pitch2 + 1) Remember that the span equals twice the run, so run = span / 2.",
+    "Roof rafters are commonly spaced 16 inches or 24 inches on center, although local building codes and engineering requirements may specify different spacing."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 10,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Maria Kluziak",
+    "published": "2020-11-05T10:11:19.566Z",
+    "modified": "2026-07-23T10:32:54.621Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 740,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 23,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "roofing calculator",
+     "roof pitch calculator",
+     "wood beam span calculator",
+     "right triangle",
+     "roof truss calculator",
+     "Stone Weight Calculator",
+     "Board and Batten Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/construction/roofing",
+     "https://www.omnicalculator.com/construction/roof-pitch",
+     "https://www.omnicalculator.com/construction/wood-beam-span",
+     "https://www.omnicalculator.com/math/right-triangle",
+     "https://www.omnicalculator.com/construction/roof-truss",
+     "https://www.omnicalculator.com/construction/stone",
+     "https://www.omnicalculator.com/construction/board-and-batten"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

@@ -5524,7 +5524,7 @@
    ],
    "competitors": [],
    "category": "health",
-   "status": "todo",
+   "status": "live",
    "order": 38,
    "batch": 4
   },
@@ -5659,7 +5659,7 @@
     "www.calculator.net/binary-calculator.html"
    ],
    "category": "math",
-   "status": "todo",
+   "status": "live",
    "order": 39,
    "batch": 4
   },
@@ -5699,7 +5699,7 @@
     "www.omnicalculator.com/everyday-life/pool-salt"
    ],
    "category": "construction",
-   "status": "todo",
+   "status": "live",
    "order": 40,
    "batch": 4
   },
@@ -5738,7 +5738,7 @@
     "www.omnicalculator.com/construction/rafter-length"
    ],
    "category": "construction",
-   "status": "todo",
+   "status": "live",
    "order": 41,
    "batch": 5
   },
@@ -5873,7 +5873,7 @@
     "www.calculator.net/stair-calculator.html"
    ],
    "category": "construction",
-   "status": "todo",
+   "status": "live",
    "order": 42,
    "batch": 5
   },
@@ -5944,7 +5944,7 @@
     "www.calculator.net/scientific-notation-calculator.html"
    ],
    "category": "math",
-   "status": "todo",
+   "status": "live",
    "order": 43,
    "batch": 5
   },

@@ -1,0 +1,311 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/everyday-life/pool-salt": {
+   "url": "https://www.omnicalculator.com/everyday-life/pool-salt",
+   "finalUrl": "https://www.omnicalculator.com/everyday-life/pool-salt",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T10:48:49.353Z",
+   "title": "Pool Salt Calculator",
+   "metaDescription": "The pool salt calculator helps you adjust the salinity level of your swimming pool water, to ensure it lies within recommended standards.",
+   "canonical": "https://www.omnicalculator.com/everyday-life/pool-salt",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Pool Salt Calculator"
+   ],
+   "h2": [
+    "How much salt do I need for my pool?",
+    "How do I use the salinity calculator?",
+    "Pool salt calculator example: How much salt to add to the pool?",
+    "Additional metrics",
+    "FAQs"
+   ],
+   "h3": [
+    "Why is the salt level important?",
+    "What happens if the salt level is too low?",
+    "What happens if the salt level is too high?",
+    "How much salt do I add to a 10,800-gallon (40,000-liter) pool?",
+    "How much salt do I add to a 15,000-gallon (56,800-liter) pool?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Pool Salt Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How much salt do I need for my pool?"
+    },
+    {
+     "level": 2,
+     "text": "How do I use the salinity calculator?"
+    },
+    {
+     "level": 2,
+     "text": "Pool salt calculator example: How much salt to add to the pool?"
+    },
+    {
+     "level": 2,
+     "text": "Additional metrics"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "Why is the salt level important?"
+    },
+    {
+     "level": 3,
+     "text": "What happens if the salt level is too low?"
+    },
+    {
+     "level": 3,
+     "text": "What happens if the salt level is too high?"
+    },
+    {
+     "level": 3,
+     "text": "How much salt do I add to a 10,800-gallon (40,000-liter) pool?"
+    },
+    {
+     "level": 3,
+     "text": "How much salt do I add to a 15,000-gallon (56,800-liter) pool?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 879,
+   "avgSentenceWords": 19,
+   "faqs": [
+    "Why is the salt level important?",
+    "What happens if the salt level is too low?",
+    "What happens if the salt level is too high?",
+    "How much salt do I add to a 10,800-gallon (40,000-liter) pool?",
+    "How much salt do I add to a 15,000-gallon (56,800-liter) pool?",
+    "how much salt the pool has?",
+    "How much salt do I need for my pool?",
+    "How do I use the salinity calculator?",
+    "Pool salt calculator example: How much salt to add to the pool?"
+   ],
+   "faqSchemaCount": 5,
+   "topics": [
+    {
+     "term": "salt",
+     "weight": 43
+    },
+    {
+     "term": "pool",
+     "weight": 38
+    },
+    {
+     "term": "ppm",
+     "weight": 20
+    },
+    {
+     "term": "calculator",
+     "weight": 16
+    },
+    {
+     "term": "concentration",
+     "weight": 14
+    },
+    {
+     "term": "water",
+     "weight": 14
+    },
+    {
+     "term": "pool salt",
+     "weight": 12
+    },
+    {
+     "term": "salt concentration",
+     "weight": 12
+    },
+    {
+     "term": "need",
+     "weight": 11
+    },
+    {
+     "term": "salt calculator",
+     "weight": 11
+    },
+    {
+     "term": "much salt",
+     "weight": 11
+    },
+    {
+     "term": "3200 ppm",
+     "weight": 11
+    },
+    {
+     "term": "add",
+     "weight": 10
+    },
+    {
+     "term": "level",
+     "weight": 10
+    },
+    {
+     "term": "much",
+     "weight": 9
+    },
+    {
+     "term": "pool water",
+     "weight": 9
+    },
+    {
+     "term": "chlorine",
+     "weight": 8
+    },
+    {
+     "term": "desired",
+     "weight": 7
+    },
+    {
+     "term": "swimming",
+     "weight": 6
+    },
+    {
+     "term": "swimming pool",
+     "weight": 6
+    },
+    {
+     "term": "salt ppm",
+     "weight": 6
+    },
+    {
+     "term": "salt level",
+     "weight": 6
+    },
+    {
+     "term": "current",
+     "weight": 5
+    },
+    {
+     "term": "salinity",
+     "weight": 5
+    },
+    {
+     "term": "current salt",
+     "weight": 5
+    },
+    {
+     "term": "ppm parts",
+     "weight": 5
+    },
+    {
+     "term": "salinity calculator",
+     "weight": 5
+    },
+    {
+     "term": "chlorine generator",
+     "weight": 5
+    },
+    {
+     "term": "desired concentration",
+     "weight": 5
+    },
+    {
+     "term": "volume",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "Check out 32 similar home economics calculators 🏡 Unit price Lighting Electricity cost Build your calculator with Builder Add as preferred on Google Welcome to the pool salt calculator!",
+    "An acceptable salt concentration in a swimming pool is between 2700-3400 ppm (parts per million), with 3200 ppm being the ideal level.",
+    "Let's say your pool volume is 100 gallons, and the salt ppm of the pool reads 2000 ppm.",
+    "Consider that your desired concentration of salt is 3200 ppm.",
+    "When you key in these values, the pool salt calculator will give a result to add 1 lb of salt.",
+    "This means that you need to mix 1 lb of salt in your swimming pool to increase the concentration to 3200 ppm.",
+    "On the other hand, if the current salt ppm of the pool reads 4000 ppm, that means the concentration is higher than the desired level of 3200 ppm.",
+    "In this case, the pool salt calculator would show that you need to replace 20 gallons of pool water with fresh water to bring down the concentration level.",
+    "An acceptable range for the salt ppm in a pool is between 2700-3400 ppm, with 3200 ppm being the ideal level.",
+    "In order to achieve the recommended salt concentration of 3200 ppm in a 10,800-gallon pool, we need to add about 290 lbs (130 kg) of salt (assuming no salt has been added yet)."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 2,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": true,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Madhumathi Raman",
+    "published": "2021-07-11T09:57:10.803Z",
+    "modified": "2026-08-29T11:23:04.501Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 467,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 24,
+    "external": 1,
+    "contentInternal": 8,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "concentration",
+     "ppm (parts per million)",
+     "pool calculator",
+     "hot tub cost calculator",
+     "water hardness calculator",
+     "swim time converter",
+     "swimming calorie calculator",
+     "Audiobook Speed Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/chemistry/concentration",
+     "https://www.omnicalculator.com/conversion/ppm",
+     "https://www.omnicalculator.com/construction/pool",
+     "https://www.omnicalculator.com/everyday-life/hot-tub-cost",
+     "https://www.omnicalculator.com/chemistry/water-hardness",
+     "https://www.omnicalculator.com/sports/swimming-time",
+     "https://www.omnicalculator.com/sports/swimming-calorie",
+     "https://www.omnicalculator.com/everyday-life/audiobook-speed"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

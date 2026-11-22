@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How long are dogs pregnant?", a: "About 63 days, or roughly 9 weeks, counted from ovulation. Counted from the breeding date the range is wider, typically 58 to 68 days, because sperm can survive for several days and many females are mated before or after they ovulate." },
+  { q: "How do I calculate my dog's due date?", a: "Add 63 days to the breeding date. Bred on January 10, 2027, the estimated due date is March 14, 2027, with most dogs whelping between March 9 and March 19. If your vet timed ovulation with progesterone tests, add 63 days to the ovulation date for a tighter estimate." },
+  { q: "My dog was bred twice. Which date should I use?", a: "Use the first breeding date and expect whelping toward the later end of the window. Ovulation or LH-surge dates from progesterone testing are far more precise than breeding dates." },
+  { q: "When can a vet confirm a dog pregnancy?", a: "Ultrasound can usually detect pregnancy from about 25 days after breeding, and a vet may feel the swellings by palpation around 28 days. An X-ray after about day 45 shows the puppies' skeletons and is the best way to count the litter." },
+  { q: "What are the signs labor is near?", a: "Nesting, restlessness, refusing food and a drop in rectal temperature. Temperature usually falls below about 99°F (37.2°C) within 24 hours before labor, so many breeders take it twice a day during the last week." },
+  { q: "When should I call the vet?", a: "Vets commonly advise calling if she goes more than a few days past the due date, strains hard for 30–60 minutes without a puppy, rests more than about 2 hours between puppies, or has green or bloody discharge before the first puppy. These can signal a problem that needs help quickly." },
+];

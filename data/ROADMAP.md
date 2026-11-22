@@ -41,12 +41,12 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 12 on policy hold).
 | 35 | 4 | live | Concrete Calculator | `concrete-calculator` | construction | concrete calculator | 301000 | 40 | 486900 | 1 |
 | 36 | 4 | live | Npv Calculator | `npv-calculator` | finance | npv calculator | 4400 | 7 | 4400 | 1 |
 | 37 | 4 | live | Half Birthday Calculator | `half-birthday-calculator` | time-date | half birthday calculator | 5400 | 10 | 5400 | 1 |
-| 38 | 4 | todo | Dog Pregnancy Calculator | `dog-pregnancy-calculator` | health | dog pregnancy calculator | 3600 | 3 | 10500 | 5 |
-| 39 | 4 | todo | Binary Calculator | `binary-calculator` | math | binary converter | 1200000 | 43 | 1230200 | 1 |
-| 40 | 4 | todo | Pool Salt Calculator | `pool-salt-calculator` | construction | pool salt calculator | 8100 | 16 | 9100 | 2 |
-| 41 | 5 | todo | Rafter Length Calculator | `rafter-length-calculator` | construction | rafter length calculator | 3600 | 8 | 9000 | 1 |
-| 42 | 5 | todo | Stair Calculator | `stair-calculator` | construction | stairs calculator | 4400 | 13 | 34500 | 1 |
-| 43 | 5 | todo | Scientific Notation Calculator | `scientific-notation-calculator` | math | scientific notation converter | 3600 | 12 | 24500 | 1 |
+| 38 | 4 | live | Dog Pregnancy Calculator | `dog-pregnancy-calculator` | health | dog pregnancy calculator | 3600 | 3 | 10500 | 5 |
+| 39 | 4 | live | Binary Calculator | `binary-calculator` | math | binary converter | 1200000 | 43 | 1230200 | 1 |
+| 40 | 4 | live | Pool Salt Calculator | `pool-salt-calculator` | construction | pool salt calculator | 8100 | 16 | 9100 | 2 |
+| 41 | 5 | live | Rafter Length Calculator | `rafter-length-calculator` | construction | rafter length calculator | 3600 | 8 | 9000 | 1 |
+| 42 | 5 | live | Stair Calculator | `stair-calculator` | construction | stairs calculator | 4400 | 13 | 34500 | 1 |
+| 43 | 5 | live | Scientific Notation Calculator | `scientific-notation-calculator` | math | scientific notation converter | 3600 | 12 | 24500 | 1 |
 | 44 | 5 | todo | Hr Calculator | `hr-calculator` | everyday | hr calculator | 3600 | 7 | 3600 | 1 |
 | 45 | 5 | todo | Grade Calculator | `grade-calculator` | education | final grade calculator | 165000 | 41 | 396300 | 1 |
 | 46 | 5 | todo | Modified Adjusted Gross Income Calculator | `modified-adjusted-gross-income-calculator` | finance | modified adjusted gross income calculator | 2900 | 3 | 2900 | 1 |

@@ -1,0 +1,665 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/biology/dog-pregnancy": {
+   "url": "https://www.omnicalculator.com/biology/dog-pregnancy",
+   "finalUrl": "https://www.omnicalculator.com/biology/dog-pregnancy",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T10:48:28.418Z",
+   "title": "Dog Pregnancy Calculator",
+   "metaDescription": "The dog pregnancy calculator provides you with your dog's due date.",
+   "canonical": "https://www.omnicalculator.com/biology/dog-pregnancy",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Dog Pregnancy Calculator"
+   ],
+   "h2": [
+    "How to calculate dog pregnancy?",
+    "Dog due date, labor, and pregnancy",
+    "The puppy's wellbeing",
+    "FAQs"
+   ],
+   "h3": [
+    "What are the first signs of a dog's pregnancy?",
+    "How many puppies are there in the first litter?",
+    "How long is a dog pregnant in months?",
+    "How do I calculate a dog's due date?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Dog Pregnancy Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate dog pregnancy?"
+    },
+    {
+     "level": 2,
+     "text": "Dog due date, labor, and pregnancy"
+    },
+    {
+     "level": 2,
+     "text": "The puppy's wellbeing"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What are the first signs of a dog's pregnancy?"
+    },
+    {
+     "level": 3,
+     "text": "How many puppies are there in the first litter?"
+    },
+    {
+     "level": 3,
+     "text": "How long is a dog pregnant in months?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate a dog's due date?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1052,
+   "avgSentenceWords": 17,
+   "faqs": [
+    "What are the first signs of a dog's pregnancy?",
+    "How many puppies are there in the first litter?",
+    "How long is a dog pregnant in months?",
+    "How do I calculate a dog's due date?",
+    "How to calculate dog pregnancy?",
+    "Did you know?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "dog",
+     "weight": 30
+    },
+    {
+     "term": "pregnancy",
+     "weight": 22
+    },
+    {
+     "term": "calculator",
+     "weight": 19
+    },
+    {
+     "term": "date",
+     "weight": 19
+    },
+    {
+     "term": "due date",
+     "weight": 15
+    },
+    {
+     "term": "due",
+     "weight": 11
+    },
+    {
+     "term": "puppies",
+     "weight": 11
+    },
+    {
+     "term": "pregnancy calculator",
+     "weight": 11
+    },
+    {
+     "term": "days",
+     "weight": 10
+    },
+    {
+     "term": "dog pregnancy",
+     "weight": 9
+    },
+    {
+     "term": "dog's",
+     "weight": 9
+    },
+    {
+     "term": "gestation",
+     "weight": 8
+    },
+    {
+     "term": "pregnant",
+     "weight": 8
+    },
+    {
+     "term": "mating date",
+     "weight": 8
+    },
+    {
+     "term": "mating",
+     "weight": 7
+    },
+    {
+     "term": "labor",
+     "weight": 6
+    },
+    {
+     "term": "dogs",
+     "weight": 6
+    },
+    {
+     "term": "months",
+     "weight": 5
+    },
+    {
+     "term": "know",
+     "weight": 5
+    },
+    {
+     "term": "once",
+     "weight": 5
+    },
+    {
+     "term": "first",
+     "weight": 5
+    },
+    {
+     "term": "gestation calculator",
+     "weight": 5
+    },
+    {
+     "term": "dog's pregnancy",
+     "weight": 5
+    },
+    {
+     "term": "check",
+     "weight": 4
+    },
+    {
+     "term": "number",
+     "weight": 4
+    },
+    {
+     "term": "day",
+     "weight": 4
+    },
+    {
+     "term": "cow gestation",
+     "weight": 3
+    },
+    {
+     "term": "cat pregnancy",
+     "weight": 3
+    },
+    {
+     "term": "left until",
+     "weight": 3
+    },
+    {
+     "term": "until",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "Our dog pregnancy calculator is based on the fact that gestation in dogs lasts for about 63 days (approximately two months).",
+    "The dog gestation calculator uses the following formula: Due date = Date of mating + 63 days If you know the mating date, your vet may perform a palpation test 28 days after breeding to confirm that your dog is pregnant.",
+    "Dog due date, labor, and pregnancy Your dog can get pregnant between the ages of 2 to 6.",
+    "At that time, your dog's temperature will drop by 1.8 °F.",
+    "💡 The dogs' labor may last from 12 to even 60(!) hours.",
+    "A dog's egg cell must mature for 2-5 days before it can be fertilized by sperm!",
+    "Starting at the beginning of the second month of gestation, the pregnant dog should consume 20-25% food more than usual.",
+    "At the end of pregnancy, the amount should rise to 50%.",
+    "The typical dog pregnancy is approximately 2 months."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 10,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Mating date",
+    "Due date"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 5,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Łucja Zaborowska",
+    "published": "2020-04-26T19:18:43.004Z",
+    "modified": "2026-07-27T13:05:02.334Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 444,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 26,
+    "external": 1,
+    "contentInternal": 10,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "How Much Does a Dog Cost? A Breakdown of Upfront and Hidden Expenses",
+     "Dogs Prompt Library - Ideas for creating your own dog Omni Calculator",
+     "Cow gestation calculator",
+     "Cat pregnancy calculator",
+     "Horse pregnancy calculator",
+     "Swine gestation calculator",
+     "dog chocolate toxicity calculator",
+     "VPD Calculator (Vapor Pressure Deficit)",
+     "Sod Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/reports/how-much-does-a-dog-cost",
+     "https://www.omnicalculator.com/reports/most-intelligent-dog-breeds",
+     "https://www.omnicalculator.com/dog-prompt-library",
+     "https://www.omnicalculator.com/biology/cow-gestation",
+     "https://www.omnicalculator.com/biology/cat-pregnancy",
+     "https://www.omnicalculator.com/biology/horse-gestation",
+     "https://www.omnicalculator.com/biology/swine-gestation",
+     "https://www.omnicalculator.com/biology/dog-chocolate-toxicity",
+     "https://www.omnicalculator.com/biology/vapor-pressure-deficit",
+     "https://www.omnicalculator.com/biology/sod"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/dog-pregnancy-calculator/": {
+   "url": "https://www.inchcalculator.com/dog-pregnancy-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/dog-pregnancy-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T10:48:31.549Z",
+   "title": "Dog Pregnancy Calculator - Inch Calculator",
+   "metaDescription": "Calculate the due date using our dog pregnancy calculator, plus learn more about dog pregnancy and when whelping will start.",
+   "canonical": "https://www.inchcalculator.com/dog-pregnancy-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Dog Pregnancy Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Expected Due Date",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate a Dog’s Due Date",
+    "How Do You Know if Your Dog is Pregnant?",
+    "Dog Care During Pregnancy",
+    "Similar Pet Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "How Long is a Dog Pregnant?",
+    "Due Date Formula",
+    "Veterinarian Checkups",
+    "Nutrition",
+    "Exercise",
+    "Whelping Box"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Dog Pregnancy Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Expected Due Date"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate a Dog’s Due Date"
+    },
+    {
+     "level": 3,
+     "text": "How Long is a Dog Pregnant?"
+    },
+    {
+     "level": 3,
+     "text": "Due Date Formula"
+    },
+    {
+     "level": 2,
+     "text": "How Do You Know if Your Dog is Pregnant?"
+    },
+    {
+     "level": 2,
+     "text": "Dog Care During Pregnancy"
+    },
+    {
+     "level": 3,
+     "text": "Veterinarian Checkups"
+    },
+    {
+     "level": 3,
+     "text": "Nutrition"
+    },
+    {
+     "level": 3,
+     "text": "Exercise"
+    },
+    {
+     "level": 3,
+     "text": "Whelping Box"
+    },
+    {
+     "level": 2,
+     "text": "Similar Pet Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 992,
+   "avgSentenceWords": 30,
+   "faqs": [
+    "How Long is a Dog Pregnant?",
+    "How Do You Know if Your Dog is Pregnant?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "dog",
+     "weight": 40
+    },
+    {
+     "term": "pregnancy",
+     "weight": 17
+    },
+    {
+     "term": "date",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "due date",
+     "weight": 14
+    },
+    {
+     "term": "pregnant",
+     "weight": 13
+    },
+    {
+     "term": "dog pregnancy",
+     "weight": 9
+    },
+    {
+     "term": "due",
+     "weight": 9
+    },
+    {
+     "term": "care",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "https www",
+     "weight": 8
+    },
+    {
+     "term": "whelping",
+     "weight": 7
+    },
+    {
+     "term": "https",
+     "weight": 7
+    },
+    {
+     "term": "days",
+     "weight": 7
+    },
+    {
+     "term": "pregnancy calculator",
+     "weight": 6
+    },
+    {
+     "term": "know",
+     "weight": 6
+    },
+    {
+     "term": "mating",
+     "weight": 6
+    },
+    {
+     "term": "pregnant dog",
+     "weight": 6
+    },
+    {
+     "term": "during",
+     "weight": 6
+    },
+    {
+     "term": "during pregnancy",
+     "weight": 6
+    },
+    {
+     "term": "gestation period",
+     "weight": 6
+    },
+    {
+     "term": "need",
+     "weight": 6
+    },
+    {
+     "term": "pet",
+     "weight": 6
+    },
+    {
+     "term": "calculator dog",
+     "weight": 6
+    },
+    {
+     "term": "dogs",
+     "weight": 5
+    },
+    {
+     "term": "www",
+     "weight": 5
+    },
+    {
+     "term": "might",
+     "weight": 5
+    },
+    {
+     "term": "breeding",
+     "weight": 5
+    },
+    {
+     "term": "labeling",
+     "weight": 5
+    },
+    {
+     "term": "whelping box",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Dog Care During Pregnancy Veterinarian Checkups Nutrition Exercise Whelping Box References By Joe Sexton Joe is the creator of Inch Calculator and has over 20 years of experience in engineering and construction.",
+    "The gestation period for dogs is 63 days on average, but it ranges from 57-65 days.[1] That’s roughly 9 weeks from the date of mating to whelping.",
+    "Some experts suggest gradually increasing food intake by 15-25% to ensure they’re getting enough nutrition.[3] Your dog might also require a change in their diet.",
+    "You’ll need to find a suitable location and ensure the space is warm for the new puppies.[6] You can use our dog size calculator to see how big the puppies will get."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 5,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "Date of Mating"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 23,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2022-03-07",
+    "modified": "2022-08-18T22:21:56+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 116,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 44,
+    "external": 19,
+    "contentInternal": 21,
+    "contentExternal": 13,
+    "internalAnchors": [
+     "below",
+     "Calculator",
+     "How to Calculate a Dog’s Due Date",
+     "How Long is a Dog Pregnant?",
+     "Due Date Formula",
+     "How Do You Know if Your Dog is Pregnant?",
+     "Dog Care During Pregnancy",
+     "Veterinarian Checkups",
+     "Nutrition",
+     "Exercise",
+     "Whelping Box",
+     "References",
+     "Full bio",
+     "Dog Pregnancy Calculator",
+     "dog calorie calculator",
+     "dog size calculator",
+     "Dog Weight Calculator",
+     "Dog Age Calculator",
+     "Dog Chocolate Toxicity Calculator",
+     "Dog Water Intake Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/dog-pregnancy-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/dog-pregnancy-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/dog-pregnancy-calculator/#idx_how_to_calculate_a_dog8217s_due_date",
+     "https://www.inchcalculator.com/dog-pregnancy-calculator/#idx_how_long_is_a_dog_pregnant",
+     "https://www.inchcalculator.com/dog-pregnancy-calculator/#idx_due_date_formula",
+     "https://www.inchcalculator.com/dog-pregnancy-calculator/#idx_how_do_you_know_if_your_dog_is_pregnant",
+     "https://www.inchcalculator.com/dog-pregnancy-calculator/#idx_dog_care_during_pregnancy",
+     "https://www.inchcalculator.com/dog-pregnancy-calculator/#idx_veterinarian_checkups",
+     "https://www.inchcalculator.com/dog-pregnancy-calculator/#idx_nutrition",
+     "https://www.inchcalculator.com/dog-pregnancy-calculator/#idx_exercise",
+     "https://www.inchcalculator.com/dog-pregnancy-calculator/#idx_whelping_box",
+     "https://www.inchcalculator.com/dog-pregnancy-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/jamie-whittenburg/",
+     "https://www.inchcalculator.com/dog-pregnancy-calculator/",
+     "https://www.inchcalculator.com/dog-calorie-calculator/",
+     "https://www.inchcalculator.com/puppy-weight-calculator/",
+     "https://www.inchcalculator.com/dog-age-calculator/",
+     "https://www.inchcalculator.com/dog-chocolate-toxicity-calculator/",
+     "https://www.inchcalculator.com/dog-water-intake-calculator/",
+     "https://www.inchcalculator.com/pets-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fdog-pregnancy-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fdog-pregnancy-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fdog-pregnancy-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fdog-pregnancy-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fdog-pregnancy-calculator%2F&text=Dog+Pregnancy+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fdog-pregnancy-calculator%2F&text=Dog+Pregnancy+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://vcahospitals.com/know-your-pet/breeding-for-pet-owners-pregnancy-in-dogs",
+     "https://www.akc.org/expert-advice/health/dog-pregnancy-care-prep/",
+     "https://www.akc.org/expert-advice/dog-breeding/the-care-and-feeding-of-the-breeding-bitch-part-two/",
+     "https://petfood.aafco.org/Labeling-Labeling-Requirements#labeling",
+     "https://www.everydayhealth.com/pet-health/how-care-your-pregnant-dog/",
+     "https://www.rentonvet.com/pet-health/whelping/preparation-for-whelping/"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}
