@@ -1,0 +1,257 @@
+{
+ "keywords": {
+  "final grade calculator": {
+   "fetchedAt": "2026-11-22T12:09:28.946Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 165000,
+   "fileKd": 41,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 2,
+    "url": "www.calculator.net/grade-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.pearson.com/channels/it-IT/calculators/final-grade-calculator",
+     "domain": "www.pearson.com",
+     "title": "final grade calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.pearson.com/channels/ko-KR/calculators/final-grade-calculator",
+     "domain": "www.pearson.com",
+     "title": "final grade calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.softwaretestinghelp.com/?p=397867",
+     "domain": "www.softwaretestinghelp.com",
+     "title": "Final Grade Calculator: With Basic and Advanced Modes",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.inchcalculator.com/final-grade-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Final Grade Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://omnicalculator.com/other/final-grade",
+     "domain": "omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://medium.com/@yttags/free-online-grade-calculator-final-grade-calculator-letter-percentage-points-gpa-calculator-d503226ad526",
+     "domain": "medium.com",
+     "title": "Free Online Grade Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.omnicalculator.com/education/final-grade",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://calculator.net/grade-calculator.html",
+     "domain": "calculator.net",
+     "title": "Grade Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://chrome.google.com/webstore/detail/weighted-and-final-grade/ibblcmhbhgnffagpeaoooadkkkopekbh/reviews?hl=en",
+     "domain": "chrome.google.com",
+     "title": "Calculate your weighted and final grades",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.calculator.net/grade-calculator",
+     "domain": "www.calculator.net",
+     "title": "Grade Calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://thecalculatorsite.com/education/final-grade-calculator.php",
+     "domain": "thecalculatorsite.com",
+     "title": "final grade calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://troybuilds.github.io/scholartools/tools/final-grade-calculator.html",
+     "domain": "troybuilds.github.io",
+     "title": "Final Grade Calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.gigacalculator.com/calculators/final-grade-calculator.php",
+     "domain": "www.gigacalculator.com",
+     "title": "Final Grade Calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://www.calculatorsoup.com/calculators/statistics/final-grade-calculator.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Final Grade Calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://apps.apple.com/us/app/id1103587993",
+     "domain": "apps.apple.com",
+     "title": "Final Grade Calculator - %",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://brighterly.com/calculator/final-grade-calculator/",
+     "domain": "brighterly.com",
+     "title": "Final Grade Calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://apps.apple.com/us/app/final-grade-calculator-a/id6444809135",
+     "domain": "apps.apple.com",
+     "title": "Final Grade Calculator - A+",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://calculator.io/grade-calculator",
+     "domain": "calculator.io",
+     "title": "No results found",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://avaesus.saudeemacao.saude.sp.gov.br/local/grade-calculator-fast-percentage-letter-grade-converter",
+     "domain": "avaesus.saudeemacao.saude.sp.gov.br",
+     "title": "Grade Calculator Fast Percentage Letter Grade Converter",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://mat.geogebra.org/material/show/id/EbjRaKBT",
+     "domain": "mat.geogebra.org",
+     "title": "Final Grade Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "grade-calculator",
+ "page": "grade-calculator",
+ "category": "education",
+ "name": "Grade Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T12:09:28.947Z",
+ "topCompetitors": [
+  {
+   "domain": "pearson.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://www.pearson.com/channels/it-IT/calculators/final-grade-calculator",
+    "https://www.pearson.com/channels/ko-KR/calculators/final-grade-calculator"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 5,
+   "keywords": 2,
+   "urls": [
+    "https://omnicalculator.com/other/final-grade",
+    "https://www.omnicalculator.com/education/final-grade"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 8,
+   "keywords": 2,
+   "urls": [
+    "https://calculator.net/grade-calculator.html",
+    "https://www.calculator.net/grade-calculator"
+   ]
+  },
+  {
+   "domain": "apple.com",
+   "bestRank": 15,
+   "keywords": 2,
+   "urls": [
+    "https://apps.apple.com/us/app/id1103587993",
+    "https://apps.apple.com/us/app/final-grade-calculator-a/id6444809135"
+   ]
+  },
+  {
+   "domain": "softwaretestinghelp.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.softwaretestinghelp.com/?p=397867"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/final-grade-calculator/"
+   ]
+  },
+  {
+   "domain": "medium.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://medium.com/@yttags/free-online-grade-calculator-final-grade-calculator-letter-percentage-points-gpa-calculator-d503226ad526"
+   ]
+  },
+  {
+   "domain": "google.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://chrome.google.com/webstore/detail/weighted-and-final-grade/ibblcmhbhgnffagpeaoooadkkkopekbh/reviews?hl=en"
+   ]
+  },
+  {
+   "domain": "thecalculatorsite.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://thecalculatorsite.com/education/final-grade-calculator.php"
+   ]
+  },
+  {
+   "domain": "github.io",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://troybuilds.github.io/scholartools/tools/final-grade-calculator.html"
+   ]
+  }
+ ]
+}

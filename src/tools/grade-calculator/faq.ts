@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How do I calculate what I need on my final exam?", a: "Required final score = (target grade − current grade × (1 − final weight)) ÷ final weight. With an 82% current grade, a final worth 25% and an 85% target: (85 − 82 × 0.75) ÷ 0.25 = (85 − 61.5) ÷ 0.25 = 94%." },
+  { q: "How do I calculate a weighted grade?", a: "Multiply each score by its weight, add the results and divide by the total weight. Homework 95% (20%), quizzes 88% (20%), midterm 78% (25%) and project 91% (15%) give 69.75 ÷ 80 = 87.19% so far, a B+." },
+  { q: "What if the score I need is over 100%?", a: "Then the target can't be reached on the final alone, unless there's extra credit, a curve or another assignment still to come. Check the lower targets in the result to see what's still achievable." },
+  { q: "How much will my final exam affect my grade?", a: "Every point on the final moves your course grade by the final's weight. If the final is worth 25%, scoring 10 points higher on it raises your course grade by 2.5 points. The \"If you score…\" table shows the exact course grade for each exam score." },
+  { q: "What letter grade is 87%?", a: "On the common US scale, 87% is a B+ (87–89.99). A is 93 and above, A− 90–92.99, B 83–86.99, B− 80–82.99, and so on down to F below 60. Schools and instructors set their own cutoffs, so check your syllabus." },
+  { q: "My syllabus uses points, not percentages. What do I enter?", a: "Divide your points earned by points possible to get your current percentage, and divide the final's points by the total course points to get its weight. For example, a 200-point final in a 1,000-point course has a weight of 20%." },
+];

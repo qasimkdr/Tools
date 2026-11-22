@@ -1,0 +1,656 @@
+{
+ "pages": {
+  "https://www.inchcalculator.com/magi-calculator/": {
+   "url": "https://www.inchcalculator.com/magi-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/magi-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T12:09:45.230Z",
+   "title": "Modified Adjusted Gross Income Calculator - Inch Calculator",
+   "metaDescription": "Use our MAGI calculator to calculate your modified adjusted gross income. Plus, learn the MAGI formula and how to figure it.",
+   "canonical": "https://www.inchcalculator.com/magi-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Modified Adjusted Gross Income Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Modified Adjusted Gross Income",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate Modified Adjusted Gross Income",
+    "Frequently Asked Questions",
+    "Similar Personal Finance Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Step One: Calculate Your Adjusted Gross Income",
+    "Step Two: Add Back Certain Deductions",
+    "Step Three: Determine Exclusions or Additions to Income",
+    "What is the purpose of calculating MAGI?",
+    "What deductions are added back to calculate MAGI?",
+    "What income sources are included or excluded from MAGI?",
+    "Are there different calculations for MAGI in different situations?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Modified Adjusted Gross Income Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Modified Adjusted Gross Income"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Modified Adjusted Gross Income"
+    },
+    {
+     "level": 3,
+     "text": "Step One: Calculate Your Adjusted Gross Income"
+    },
+    {
+     "level": 3,
+     "text": "Step Two: Add Back Certain Deductions"
+    },
+    {
+     "level": 3,
+     "text": "Step Three: Determine Exclusions or Additions to Income"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "What is the purpose of calculating MAGI?"
+    },
+    {
+     "level": 3,
+     "text": "What deductions are added back to calculate MAGI?"
+    },
+    {
+     "level": 3,
+     "text": "What income sources are included or excluded from MAGI?"
+    },
+    {
+     "level": 3,
+     "text": "Are there different calculations for MAGI in different situations?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Personal Finance Calculators"
+    }
+   ],
+   "wordCount": 987,
+   "avgSentenceWords": 25,
+   "faqs": [
+    "What is the purpose of calculating MAGI?",
+    "What deductions are added back to calculate MAGI?",
+    "What income sources are included or excluded from MAGI?",
+    "Are there different calculations for MAGI in different situations?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "income",
+     "weight": 39
+    },
+    {
+     "term": "gross income",
+     "weight": 27
+    },
+    {
+     "term": "adjusted gross",
+     "weight": 26
+    },
+    {
+     "term": "gross",
+     "weight": 19
+    },
+    {
+     "term": "magi",
+     "weight": 19
+    },
+    {
+     "term": "calculate",
+     "weight": 19
+    },
+    {
+     "term": "adjusted",
+     "weight": 17
+    },
+    {
+     "term": "modified adjusted",
+     "weight": 17
+    },
+    {
+     "term": "back",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "agi",
+     "weight": 13
+    },
+    {
+     "term": "deductions",
+     "weight": 13
+    },
+    {
+     "term": "added back",
+     "weight": 12
+    },
+    {
+     "term": "modified",
+     "weight": 11
+    },
+    {
+     "term": "contributions",
+     "weight": 9
+    },
+    {
+     "term": "tax",
+     "weight": 9
+    },
+    {
+     "term": "excluded",
+     "weight": 9
+    },
+    {
+     "term": "calculate magi",
+     "weight": 9
+    },
+    {
+     "term": "interest",
+     "weight": 8
+    },
+    {
+     "term": "added",
+     "weight": 8
+    },
+    {
+     "term": "add",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "step",
+     "weight": 7
+    },
+    {
+     "term": "student loan",
+     "weight": 6
+    },
+    {
+     "term": "loan interest",
+     "weight": 6
+    },
+    {
+     "term": "passive income",
+     "weight": 6
+    },
+    {
+     "term": "certain",
+     "weight": 6
+    },
+    {
+     "term": "accounts",
+     "weight": 6
+    },
+    {
+     "term": "savings accounts",
+     "weight": 6
+    },
+    {
+     "term": "ira",
+     "weight": 5
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 2,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "Adjusted Gross Income",
+    "IRA Contributions",
+    "Tuition & Fees",
+    "Student Loan Interest",
+    "1/2 SE Tax",
+    "Excluded Foreign Income",
+    "Passive Income",
+    "Rental Losses",
+    "Other Deductions"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": true,
+   "wordsBeforeTool": 22,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2023-06-06",
+    "modified": "2023-06-06T20:31:59+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 125,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 46,
+    "external": 13,
+    "contentInternal": 22,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "find AGI",
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate Modified Adjusted Gross Income",
+     "Step One: Calculate Your Adjusted Gross Income",
+     "Step Two: Add Back Certain Deductions",
+     "Step Three: Determine Exclusions or Additions to Income",
+     "Frequently Asked Questions",
+     "Full bio",
+     "Modified Adjusted Gross Income Calculator",
+     "AGI calculator",
+     "calculate your gross income",
+     "interest income",
+     "rental income",
+     "student loan interest",
+     "Pay Raise Calculator",
+     "Overtime Calculator",
+     "Hours Calculator",
+     "Fair Bill Split Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/agi-calculator/",
+     "https://www.inchcalculator.com/magi-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/modified-adjusted-gross-income/",
+     "https://www.inchcalculator.com/magi-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/magi-calculator/#idx_how_to_calculate_modified_adjusted_gross_income",
+     "https://www.inchcalculator.com/magi-calculator/#idx_step_one_calculate_your_adjusted_gross_income",
+     "https://www.inchcalculator.com/magi-calculator/#idx_step_two_add_back_certain_deductions",
+     "https://www.inchcalculator.com/magi-calculator/#idx_step_three_determine_exclusions_or_additions_to_income",
+     "https://www.inchcalculator.com/magi-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/laura-deimling/",
+     "https://www.inchcalculator.com/magi-calculator/",
+     "https://www.inchcalculator.com/annual-income-calculator/",
+     "https://www.inchcalculator.com/interest-calculator/",
+     "https://www.inchcalculator.com/rental-property-calculator/",
+     "https://www.inchcalculator.com/student-loan-calculator/",
+     "https://www.inchcalculator.com/pay-raise-calculator/",
+     "https://www.inchcalculator.com/overtime-calculator/",
+     "https://www.inchcalculator.com/hours-calculator/",
+     "https://www.inchcalculator.com/fair-bill-split-calculator/",
+     "https://www.inchcalculator.com/split-bill-calculator/",
+     "https://www.inchcalculator.com/personal-finance-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fmagi-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fmagi-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fmagi-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fmagi-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fmagi-calculator%2F&text=Modified+Adjusted+Gross+Income+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fmagi-calculator%2F&text=Modified+Adjusted+Gross+Income+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/finance/magi": {
+   "url": "https://www.omnicalculator.com/finance/magi",
+   "finalUrl": "https://www.omnicalculator.com/finance/magi",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T12:09:48.498Z",
+   "title": "MAGI Calculator",
+   "metaDescription": "The modified adjusted gross income (MAGI) calculator helps you estimate your modified adjusted gross income to determine your eligibility for certain tax benefits, government-subsidized health programs, and how much you're qualified to contribute each year to your tax-deferred retirement accounts.",
+   "canonical": "https://www.omnicalculator.com/finance/magi",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Modified Adjusted Gross Income (MAGI) Calculator"
+   ],
+   "h2": [
+    "What is MAGI?",
+    "MAGI vs. AGI",
+    "Why is MAGI important?",
+    "How to calculate MAGI",
+    "MAGI calculation example",
+    "FAQs"
+   ],
+   "h3": [
+    "What is AGI?",
+    "How do I calculate my MAGI?",
+    "If my AGI is $100,000 what is my MAGI?",
+    "How does child support payments affect MAGI?",
+    "Can my MAGI and AGI be the same?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Modified Adjusted Gross Income (MAGI) Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is MAGI?"
+    },
+    {
+     "level": 2,
+     "text": "MAGI vs. AGI"
+    },
+    {
+     "level": 2,
+     "text": "Why is MAGI important?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate MAGI"
+    },
+    {
+     "level": 2,
+     "text": "MAGI calculation example"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What is AGI?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate my MAGI?"
+    },
+    {
+     "level": 3,
+     "text": "If my AGI is $100,000 what is my MAGI?"
+    },
+    {
+     "level": 3,
+     "text": "How does child support payments affect MAGI?"
+    },
+    {
+     "level": 3,
+     "text": "Can my MAGI and AGI be the same?"
+    }
+   ],
+   "wordCount": 1614,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "What is AGI?",
+    "How do I calculate my MAGI?",
+    "If my AGI is $100,000 what is my MAGI?",
+    "How does child support payments affect MAGI?",
+    "Can my MAGI and AGI be the same?",
+    "What is MAGI?",
+    "Why is MAGI important?"
+   ],
+   "faqSchemaCount": 5,
+   "topics": [
+    {
+     "term": "magi",
+     "weight": 51
+    },
+    {
+     "term": "income",
+     "weight": 49
+    },
+    {
+     "term": "gross income",
+     "weight": 38
+    },
+    {
+     "term": "agi",
+     "weight": 36
+    },
+    {
+     "term": "tax",
+     "weight": 29
+    },
+    {
+     "term": "gross",
+     "weight": 25
+    },
+    {
+     "term": "adjusted gross",
+     "weight": 21
+    },
+    {
+     "term": "calculate",
+     "weight": 16
+    },
+    {
+     "term": "adjusted",
+     "weight": 14
+    },
+    {
+     "term": "modified adjusted",
+     "weight": 14
+    },
+    {
+     "term": "calculate magi",
+     "weight": 14
+    },
+    {
+     "term": "foreign earned",
+     "weight": 12
+    },
+    {
+     "term": "earned income",
+     "weight": 12
+    },
+    {
+     "term": "adjustments",
+     "weight": 12
+    },
+    {
+     "term": "foreign",
+     "weight": 11
+    },
+    {
+     "term": "add",
+     "weight": 11
+    },
+    {
+     "term": "modified",
+     "weight": 10
+    },
+    {
+     "term": "calculator",
+     "weight": 10
+    },
+    {
+     "term": "earned",
+     "weight": 9
+    },
+    {
+     "term": "benefits",
+     "weight": 9
+    },
+    {
+     "term": "tax credit",
+     "weight": 9
+    },
+    {
+     "term": "ira",
+     "weight": 8
+    },
+    {
+     "term": "health",
+     "weight": 8
+    },
+    {
+     "term": "adding",
+     "weight": 8
+    },
+    {
+     "term": "credit",
+     "weight": 8
+    },
+    {
+     "term": "social security",
+     "weight": 8
+    },
+    {
+     "term": "adding agi",
+     "weight": 8
+    },
+    {
+     "term": "agi plus",
+     "weight": 8
+    },
+    {
+     "term": "child support",
+     "weight": 8
+    },
+    {
+     "term": "housing",
+     "weight": 7
+    }
+   ],
+   "claims": [
+    "The IRS provides information for this tax benefit in Form 8960, which is used to calculate your total net investment income (NII) tax for individuals, estates, and trusts.",
+    "Assuming your foreign earned income totals $37,000 and foreign housing cost, while you are living abroad, is $7,000."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 14,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Oghenekaro Elem",
+    "published": "2020-11-16T13:58:04.583Z",
+    "modified": "2026-02-03T06:56:06.884Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 1086,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 22,
+    "external": 1,
+    "contentInternal": 6,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "individual retirement account",
+     "Roth IRA",
+     "AGI",
+     "retirement",
+     "how to calculate MAGI",
+     "stimulus payment"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/finance/ira",
+     "https://www.omnicalculator.com/finance/roth-ira",
+     "https://www.omnicalculator.com/finance/agi",
+     "https://www.omnicalculator.com/finance/retirement",
+     "https://www.omnicalculator.com/finance/magi#how-to-calculate-magi",
+     "https://www.omnicalculator.com/finance/stimulus-payment"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

@@ -1,0 +1,302 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/other/superscript-generator": {
+   "url": "https://www.omnicalculator.com/other/superscript-generator",
+   "finalUrl": "https://www.omnicalculator.com/other/superscript-generator",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T12:10:09.966Z",
+   "title": "Superscript Generator",
+   "metaDescription": "Our superscript generator converts your standard text into Unicode superscript characters, and teaches you all about the history and usage of superscripts.",
+   "canonical": "https://www.omnicalculator.com/other/superscript-generator",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Superscript Generator"
+   ],
+   "h2": [
+    "Definition of a superscript: What is a superscript?",
+    "How to do a superscript",
+    "The mechanics behind the tool: How to use our superscript generator",
+    "How to use superscripts in the sciences and academia",
+    "FAQs"
+   ],
+   "h3": [
+    "Why do only some characters have a superscript version?",
+    "Chemistry, maths, and physics",
+    "Academic citations",
+    "How does a superscript generator work?",
+    "What is “2” in superscript?",
+    "How do I apply a superscript formatting?",
+    "Why are some superscript symbols missing?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Superscript Generator"
+    },
+    {
+     "level": 2,
+     "text": "Definition of a superscript: What is a superscript?"
+    },
+    {
+     "level": 2,
+     "text": "How to do a superscript"
+    },
+    {
+     "level": 2,
+     "text": "The mechanics behind the tool: How to use our superscript generator"
+    },
+    {
+     "level": 3,
+     "text": "Why do only some characters have a superscript version?"
+    },
+    {
+     "level": 2,
+     "text": "How to use superscripts in the sciences and academia"
+    },
+    {
+     "level": 3,
+     "text": "Chemistry, maths, and physics"
+    },
+    {
+     "level": 3,
+     "text": "Academic citations"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How does a superscript generator work?"
+    },
+    {
+     "level": 3,
+     "text": "What is “2” in superscript?"
+    },
+    {
+     "level": 3,
+     "text": "How do I apply a superscript formatting?"
+    },
+    {
+     "level": 3,
+     "text": "Why are some superscript symbols missing?"
+    }
+   ],
+   "wordCount": 1298,
+   "avgSentenceWords": 18,
+   "faqs": [
+    "How does a superscript generator work?",
+    "What is “2” in superscript?",
+    "How do I apply a superscript formatting?",
+    "Why are some superscript symbols missing?",
+    "Definition of a superscript: What is a superscript?",
+    "Why do only some characters have a superscript version?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "superscript",
+     "weight": 47
+    },
+    {
+     "term": "text",
+     "weight": 22
+    },
+    {
+     "term": "characters",
+     "weight": 22
+    },
+    {
+     "term": "generator",
+     "weight": 12
+    },
+    {
+     "term": "unicode",
+     "weight": 12
+    },
+    {
+     "term": "font",
+     "weight": 11
+    },
+    {
+     "term": "superscripts",
+     "weight": 11
+    },
+    {
+     "term": "symbols",
+     "weight": 8
+    },
+    {
+     "term": "superscript generator",
+     "weight": 8
+    },
+    {
+     "term": "superscript font",
+     "weight": 8
+    },
+    {
+     "term": "subscript",
+     "weight": 7
+    },
+    {
+     "term": "used",
+     "weight": 7
+    },
+    {
+     "term": "superscript symbols",
+     "weight": 6
+    },
+    {
+     "term": "text editor",
+     "weight": 6
+    },
+    {
+     "term": "superscript formatting",
+     "weight": 6
+    },
+    {
+     "term": "small",
+     "weight": 5
+    },
+    {
+     "term": "size",
+     "weight": 5
+    },
+    {
+     "term": "different",
+     "weight": 5
+    },
+    {
+     "term": "unicode characters",
+     "weight": 5
+    },
+    {
+     "term": "superscript characters",
+     "weight": 5
+    },
+    {
+     "term": "plain text",
+     "weight": 5
+    },
+    {
+     "term": "font generator",
+     "weight": 5
+    },
+    {
+     "term": "editor",
+     "weight": 4
+    },
+    {
+     "term": "formatting",
+     "weight": 4
+    },
+    {
+     "term": "unique",
+     "weight": 4
+    },
+    {
+     "term": "stay",
+     "weight": 4
+    },
+    {
+     "term": "paste",
+     "weight": 4
+    },
+    {
+     "term": "have",
+     "weight": 4
+    },
+    {
+     "term": "ctrl",
+     "weight": 4
+    },
+    {
+     "term": "cmd",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "Within nuclear physics, superscripts are placed before symbols to denote the atomic mass of isotopes, such as 14 C 14C for Carbon-14.",
+    "Math is the easiest one: superscripts are most commonly employed to write exponents, like in the Pythagorean theorem, which we’ve already seen, or in a quadratic equation: 𝑎 𝑥 2 + 𝑏 𝑥 + 𝑐 = 0 ax2+bx+c=0.",
+    "The unique character for a 2 in superscript is “²”.",
+    "All 10 digits are available as superscript characters, as well as some symbols and most lowercase and uppercase letters, aside from q and Q."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 6,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Agata Flak",
+    "published": "2026-02-20T15:48:58.002Z",
+    "modified": "2026-09-01T17:21:11.032Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 574,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 21,
+    "external": 1,
+    "contentInternal": 5,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "subscript generator",
+     "definition of superscript characters",
+     "glitch text generator",
+     "how to do a superscript",
+     "small caps generator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/other/subscript-generator",
+     "https://www.omnicalculator.com/superscript-definition",
+     "https://www.omnicalculator.com/everyday-life/glitch-text",
+     "https://www.omnicalculator.com/how-to-do-superscript",
+     "https://www.omnicalculator.com/other/small-caps"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "article/guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

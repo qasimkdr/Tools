@@ -1,0 +1,998 @@
+{
+ "pages": {
+  "https://www.calculator.net/confidence-interval-calculator.html": {
+   "url": "https://www.calculator.net/confidence-interval-calculator.html",
+   "finalUrl": "https://www.calculator.net/confidence-interval-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T12:09:59.523Z",
+   "title": "Confidence Interval Calculator",
+   "metaDescription": "Calculator to compute the confidence interval or margin of error of a sample based on the desired confidence level. It also provides an error bar diagram.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Confidence Interval Calculator"
+   ],
+   "h2": [],
+   "h3": [
+    "What is the confidence interval?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Confidence Interval Calculator"
+    },
+    {
+     "level": 3,
+     "text": "What is the confidence interval?"
+    }
+   ],
+   "wordCount": 667,
+   "avgSentenceWords": 28,
+   "faqs": [
+    "What is the confidence interval?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "confidence",
+     "weight": 35
+    },
+    {
+     "term": "standard deviation",
+     "weight": 23
+    },
+    {
+     "term": "confidence interval",
+     "weight": 21
+    },
+    {
+     "term": "confidence intervals",
+     "weight": 17
+    },
+    {
+     "term": "standard",
+     "weight": 15
+    },
+    {
+     "term": "deviation",
+     "weight": 15
+    },
+    {
+     "term": "confidence level",
+     "weight": 15
+    },
+    {
+     "term": "interval",
+     "weight": 14
+    },
+    {
+     "term": "sample",
+     "weight": 13
+    },
+    {
+     "term": "intervals",
+     "weight": 11
+    },
+    {
+     "term": "level",
+     "weight": 10
+    },
+    {
+     "term": "value",
+     "weight": 10
+    },
+    {
+     "term": "true value",
+     "weight": 9
+    },
+    {
+     "term": "mean",
+     "weight": 8
+    },
+    {
+     "term": "sample size",
+     "weight": 8
+    },
+    {
+     "term": "population standard",
+     "weight": 8
+    },
+    {
+     "term": "calculator",
+     "weight": 7
+    },
+    {
+     "term": "parameter",
+     "weight": 7
+    },
+    {
+     "term": "population",
+     "weight": 7
+    },
+    {
+     "term": "sample mean",
+     "weight": 6
+    },
+    {
+     "term": "true",
+     "weight": 6
+    },
+    {
+     "term": "math",
+     "weight": 5
+    },
+    {
+     "term": "size",
+     "weight": 5
+    },
+    {
+     "term": "100 confidence",
+     "weight": 5
+    },
+    {
+     "term": "sample standard",
+     "weight": 5
+    },
+    {
+     "term": "data",
+     "weight": 4
+    },
+    {
+     "term": "used",
+     "weight": 4
+    },
+    {
+     "term": "range",
+     "weight": 4
+    },
+    {
+     "term": "unknown",
+     "weight": 4
+    },
+    {
+     "term": "contain",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "If 1 of these 100 confidence intervals is selected, we cannot say that there is a 95% chance it contains the true value of the parameter – this is a common misconception."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 5,
+   "lists": 0,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "size",
+    "mean",
+    "sd",
+    "cl"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 49,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 10,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 18,
+    "external": 0,
+    "contentInternal": 18,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "math",
+     "confidence interval calculator",
+     "Standard Deviation Calculator",
+     "Math Calculators",
+     "Scientific",
+     "Fraction",
+     "Percentage",
+     "Triangle",
+     "Volume",
+     "Standard Deviation",
+     "Random Number Generator",
+     "More Math Calculators",
+     "Financial",
+     "Fitness and Health",
+     "Math",
+     "Other",
+     "about us",
+     "sitemap"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/confidence-interval-calculator.html",
+     "https://www.calculator.net/standard-deviation-calculator.html",
+     "https://www.calculator.net/scientific-calculator.html",
+     "https://www.calculator.net/fraction-calculator.html",
+     "https://www.calculator.net/percent-calculator.html",
+     "https://www.calculator.net/triangle-calculator.html",
+     "https://www.calculator.net/volume-calculator.html",
+     "https://www.calculator.net/random-number-generator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/confidence-interval-calculator/": {
+   "url": "https://www.inchcalculator.com/confidence-interval-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/confidence-interval-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T12:10:02.628Z",
+   "title": "Confidence Interval Calculator - Inch Calculator",
+   "metaDescription": "Find the confidence interval for a sample using our calculator, which shows each step. Plus, learn the confidence interval formula.",
+   "canonical": "https://www.inchcalculator.com/confidence-interval-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Confidence Interval Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results:",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Find the Confidence Interval",
+    "Frequently Asked Questions",
+    "Similar Statistics Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Steps to Solve:",
+    "Confidence Interval Formula",
+    "Step One: Find the Z-Score",
+    "Step Two: Find the Standard Error",
+    "Step Three: Find the Margin of Error",
+    "Step Four: Find the Confidence Interval",
+    "Example: Finding a 95% Confidence Interval",
+    "Z-Scores",
+    "When are confidence intervals used?",
+    "Why are confidence intervals important?",
+    "What is the purpose of the 95% confidence interval?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Confidence Interval Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results:"
+    },
+    {
+     "level": 3,
+     "text": "Steps to Solve:"
+    },
+    {
+     "level": 4,
+     "text": "Confidence Interval Formula"
+    },
+    {
+     "level": 4,
+     "text": "Step One: Find the Z-Score"
+    },
+    {
+     "level": 4,
+     "text": "Step Two: Find the Standard Error"
+    },
+    {
+     "level": 4,
+     "text": "Step Three: Find the Margin of Error"
+    },
+    {
+     "level": 4,
+     "text": "Step Four: Find the Confidence Interval"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Find the Confidence Interval"
+    },
+    {
+     "level": 3,
+     "text": "Confidence Interval Formula"
+    },
+    {
+     "level": 3,
+     "text": "Step One: Find the Z-Score"
+    },
+    {
+     "level": 3,
+     "text": "Step Two: Find the Standard Error"
+    },
+    {
+     "level": 3,
+     "text": "Step Three: Find the Margin of Error"
+    },
+    {
+     "level": 3,
+     "text": "Step Four: Find the Confidence Interval"
+    },
+    {
+     "level": 3,
+     "text": "Example: Finding a 95% Confidence Interval"
+    },
+    {
+     "level": 3,
+     "text": "Z-Scores"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "When are confidence intervals used?"
+    },
+    {
+     "level": 3,
+     "text": "Why are confidence intervals important?"
+    },
+    {
+     "level": 3,
+     "text": "What is the purpose of the 95% confidence interval?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Statistics Calculators"
+    }
+   ],
+   "wordCount": 1736,
+   "avgSentenceWords": 26,
+   "faqs": [
+    "When are confidence intervals used?",
+    "Why are confidence intervals important?",
+    "What is the purpose of the 95% confidence interval?"
+   ],
+   "faqSchemaCount": 3,
+   "topics": [
+    {
+     "term": "confidence",
+     "weight": 61
+    },
+    {
+     "term": "confidence interval",
+     "weight": 57
+    },
+    {
+     "term": "interval",
+     "weight": 39
+    },
+    {
+     "term": "sample",
+     "weight": 23
+    },
+    {
+     "term": "find",
+     "weight": 22
+    },
+    {
+     "term": "error",
+     "weight": 20
+    },
+    {
+     "term": "range",
+     "weight": 17
+    },
+    {
+     "term": "standard",
+     "weight": 16
+    },
+    {
+     "term": "confidence intervals",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "confidence level",
+     "weight": 14
+    },
+    {
+     "term": "step",
+     "weight": 13
+    },
+    {
+     "term": "mean",
+     "weight": 12
+    },
+    {
+     "term": "margin",
+     "weight": 12
+    },
+    {
+     "term": "level",
+     "weight": 11
+    },
+    {
+     "term": "score",
+     "weight": 11
+    },
+    {
+     "term": "sample mean",
+     "weight": 11
+    },
+    {
+     "term": "standard deviation",
+     "weight": 11
+    },
+    {
+     "term": "standard error",
+     "weight": 11
+    },
+    {
+     "term": "population",
+     "weight": 10
+    },
+    {
+     "term": "intervals",
+     "weight": 10
+    },
+    {
+     "term": "formula",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "deviation",
+     "weight": 7
+    },
+    {
+     "term": "lower",
+     "weight": 7
+    },
+    {
+     "term": "bound",
+     "weight": 7
+    },
+    {
+     "term": "upper",
+     "weight": 7
+    },
+    {
+     "term": "values",
+     "weight": 7
+    },
+    {
+     "term": "sample size",
+     "weight": 6
+    },
+    {
+     "term": "see",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "So, if you’re using a 95% confidence level, then you might say that there is a 95% chance that the population mean will fall within a confidence interval range.",
+    "Using a confidence level of 95%, we can use a z-score of 1.96 (see the table below).",
+    "CI = 14 ± 1.96 × 2.5 / √1500 CI = 14 ± 1.96 × 2.5 / 38.73 CI = 14 ± 1.96 × 0.065 CI = 14 ± 0.1274 Thus, the confidence interval for this sample is equal to 14 plus or minus 0.1274.",
+    "lower bound = 14 – 0.1274 = 13.8726 upper bound = 14 + 0.1274 = 14.1274 So, the confidence interval for this sample is between 13.8726 and 14.1274.",
+    "A 95% confidence interval gives you an educated guess for something, like an average or percentage, and a range of numbers that probably includes the real answer.",
+    "Some social scientists would consider 90% confidence intervals persuasive in some contexts, while others and in different contexts might want to see 99% confidence levels or higher."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 3,
+   "images": 5,
+   "videos": 0,
+   "calculatorInputs": [
+    "Confidence Level",
+    "Sample Size (n)",
+    "Sample Mean (x̄)",
+    "Standard Deviation (σ)"
+   ],
+   "selectOptionsSample": "70% 75% 80% 85% 90% 91% 92% 93% 94% 95% 96% 97% 98% 99% 99.5% 99.9% 99.99%",
+   "unitToggle": false,
+   "wordsBeforeTool": 25,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2021-11-12",
+    "modified": "2025-09-18T20:03:08+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 136,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 53,
+    "external": 13,
+    "contentInternal": 29,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Find the Confidence Interval",
+     "Confidence Interval Formula",
+     "Step One: Find the Z-Score",
+     "Step Two: Find the Standard Error",
+     "Step Three: Find the Margin of Error",
+     "Step Four: Find the Confidence Interval",
+     "Example: Finding a 95% Confidence Interval",
+     "Z-Scores",
+     "Frequently Asked Questions",
+     "Full bio",
+     "Confidence Interval Calculator",
+     "statistics",
+     "mean",
+     "probability",
+     "margin of error calculator",
+     "standard normal distribution",
+     "z-score table below"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/confidence-interval-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/confidence-interval/",
+     "https://www.inchcalculator.com/confidence-interval-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/confidence-interval-calculator/#idx_how_to_find_the_confidence_interval",
+     "https://www.inchcalculator.com/confidence-interval-calculator/#idx_confidence_interval_formula",
+     "https://www.inchcalculator.com/confidence-interval-calculator/#idx_step_one_find_the_z-score",
+     "https://www.inchcalculator.com/confidence-interval-calculator/#idx_step_two_find_the_standard_error",
+     "https://www.inchcalculator.com/confidence-interval-calculator/#idx_step_three_find_the_margin_of_error",
+     "https://www.inchcalculator.com/confidence-interval-calculator/#idx_step_four_find_the_confidence_interval",
+     "https://www.inchcalculator.com/confidence-interval-calculator/#idx_example_finding_a_95_confidence_interval",
+     "https://www.inchcalculator.com/confidence-interval-calculator/#idx_z_scores",
+     "https://www.inchcalculator.com/confidence-interval-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/brian-libgober/",
+     "https://www.inchcalculator.com/author/bailey-nelson/",
+     "https://www.inchcalculator.com/confidence-interval-calculator/",
+     "https://www.inchcalculator.com/statistics-calculator/",
+     "https://www.inchcalculator.com/mean-calculator/",
+     "https://www.inchcalculator.com/probability-calculator/",
+     "https://www.inchcalculator.com/margin-of-error-calculator/",
+     "https://www.inchcalculator.com/normal-distribution-calculator/",
+     "https://www.inchcalculator.com/z-score-calculator/",
+     "https://www.inchcalculator.com/standard-error-calculator/",
+     "https://www.inchcalculator.com/standard-deviation-calculator/",
+     "https://www.inchcalculator.com/expected-value-calculator/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fconfidence-interval-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fconfidence-interval-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fconfidence-interval-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fconfidence-interval-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fconfidence-interval-calculator%2F&text=Confidence+Interval+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fconfidence-interval-calculator%2F&text=Confidence+Interval+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/statistics/confidence-interval": {
+   "url": "https://www.omnicalculator.com/statistics/confidence-interval",
+   "finalUrl": "https://www.omnicalculator.com/statistics/confidence-interval",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T12:10:05.854Z",
+   "title": "Confidence Interval Calculator",
+   "metaDescription": "The confidence interval calculator finds the confidence level for your data sample.",
+   "canonical": "https://www.omnicalculator.com/statistics/confidence-interval",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Confidence Interval Calculator"
+   ],
+   "h2": [
+    "What is the confidence interval?",
+    "How to use the confidence interval calculator",
+    "95% confidence interval formula",
+    "How to calculate confidence interval?",
+    "How to calculate confidence interval using a dataset?",
+    "Confidence interval application in time series analysis",
+    "FAQs"
+   ],
+   "h3": [
+    "How to interpret confidence intervals?",
+    "What is the z-score for 95% confidence interval?",
+    "What is the z-score for 99% confidence interval?",
+    "What will increase the width of a confidence interval?",
+    "What will decrease the width of a confidence interval?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Confidence Interval Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is the confidence interval?"
+    },
+    {
+     "level": 2,
+     "text": "How to use the confidence interval calculator"
+    },
+    {
+     "level": 2,
+     "text": "95% confidence interval formula"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate confidence interval?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate confidence interval using a dataset?"
+    },
+    {
+     "level": 2,
+     "text": "Confidence interval application in time series analysis"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How to interpret confidence intervals?"
+    },
+    {
+     "level": 3,
+     "text": "What is the z-score for 95% confidence interval?"
+    },
+    {
+     "level": 3,
+     "text": "What is the z-score for 99% confidence interval?"
+    },
+    {
+     "level": 3,
+     "text": "What will increase the width of a confidence interval?"
+    },
+    {
+     "level": 3,
+     "text": "What will decrease the width of a confidence interval?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 2045,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "How to calculate confidence interval?",
+    "How to calculate confidence interval using a dataset?",
+    "How to interpret confidence intervals?",
+    "What is the z-score for 95% confidence interval?",
+    "What is the z-score for 99% confidence interval?",
+    "What will increase the width of a confidence interval?",
+    "What will decrease the width of a confidence interval?",
+    "What is the confidence interval?"
+   ],
+   "faqSchemaCount": 7,
+   "topics": [
+    {
+     "term": "confidence interval",
+     "weight": 74
+    },
+    {
+     "term": "confidence",
+     "weight": 67
+    },
+    {
+     "term": "interval",
+     "weight": 49
+    },
+    {
+     "term": "sample",
+     "weight": 25
+    },
+    {
+     "term": "standard",
+     "weight": 20
+    },
+    {
+     "term": "error",
+     "weight": 19
+    },
+    {
+     "term": "score",
+     "weight": 19
+    },
+    {
+     "term": "confidence level",
+     "weight": 17
+    },
+    {
+     "term": "calculator",
+     "weight": 16
+    },
+    {
+     "term": "value",
+     "weight": 16
+    },
+    {
+     "term": "level",
+     "weight": 16
+    },
+    {
+     "term": "standard deviation",
+     "weight": 15
+    },
+    {
+     "term": "mean",
+     "weight": 14
+    },
+    {
+     "term": "sample size",
+     "weight": 12
+    },
+    {
+     "term": "margin",
+     "weight": 12
+    },
+    {
+     "term": "standard error",
+     "weight": 11
+    },
+    {
+     "term": "calculate",
+     "weight": 10
+    },
+    {
+     "term": "deviation",
+     "weight": 10
+    },
+    {
+     "term": "find",
+     "weight": 10
+    },
+    {
+     "term": "size",
+     "weight": 9
+    },
+    {
+     "term": "interval calculator",
+     "weight": 8
+    },
+    {
+     "term": "normal distribution",
+     "weight": 8
+    },
+    {
+     "term": "bound",
+     "weight": 7
+    },
+    {
+     "term": "intervals",
+     "weight": 7
+    },
+    {
+     "term": "population",
+     "weight": 7
+    },
+    {
+     "term": "know",
+     "weight": 6
+    },
+    {
+     "term": "upper bound",
+     "weight": 6
+    },
+    {
+     "term": "statistics",
+     "weight": 6
+    },
+    {
+     "term": "confidence intervals",
+     "weight": 6
+    },
+    {
+     "term": "equal",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "If you want to know what exactly the confidence interval is and how to calculate it, or if you are looking for the 95% confidence interval formula for z-score, this article is bound to help you.",
+    "He has also found the 95% confidence interval to be between 2.85 kg and 3.15 kg.",
+    "More precisely, if the brick maker took lots of samples of 100 bricks and used each sample to compute the confidence interval, then 95% of these intervals would contain the true average mass of a brick.",
+    "You might want to be 99% certain, or maybe it is enough for you that the confidence interval is correct in 90% of cases.",
+    "It is the value of z-score where the two-tailed confidence level is equal to 95%.",
+    "To calculate a confidence interval (two-sided), you need to follow these steps: Let's say the sample size is 100.",
+    "The most common confidence level is 95%.",
+    "In our case, the confidence interval is between 2.902 and 3.098.",
+    "The red dashed lines below and above the blue line represent a 95% confidence interval, or in another name, confidence band, which defines a region of most probable results.",
+    "If you repeatedly draw samples and use each of them to find a bunch of 95% confidence intervals for the population mean, then the true population mean will be contained in about 95% of these confidence intervals."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 7,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Bogna Szyk",
+    "published": "2016-12-13T12:38:45.557Z",
+    "modified": "2026-07-24T15:53:40.053Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 736,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 31,
+    "external": 1,
+    "contentInternal": 15,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "sensitivity and specificity calculator",
+     "Statistics in LLMs — Clustered Standard Errors",
+     "How to Interpret Confidence Interval: A Complete Guide",
+     "standard deviation calculator",
+     "p-hat calculator",
+     "Confidence Interval vs. Standard Deviation",
+     "standard error",
+     "z-score",
+     "normal distribution",
+     "p-value",
+     "Sum of Squares Calculator",
+     "Midrange Calculator",
+     "Coefficient of Variation Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/statistics/sensitivity-and-specificity",
+     "https://www.omnicalculator.com/confidence-interval-and-effect-size-in-sport",
+     "https://www.omnicalculator.com/reports/statistics-in-llms-clustered-standard-errors",
+     "https://www.omnicalculator.com/statistics-prompt-library",
+     "https://www.omnicalculator.com/how-to-interpret-confidence-intervals",
+     "https://www.omnicalculator.com/statistics/standard-deviation",
+     "https://www.omnicalculator.com/statistics/p-hat",
+     "https://www.omnicalculator.com/confidence-interval-vs-standard-deviation",
+     "https://www.omnicalculator.com/statistics/standard-error",
+     "https://www.omnicalculator.com/statistics/z-score",
+     "https://www.omnicalculator.com/statistics/normal-distribution",
+     "https://www.omnicalculator.com/statistics/p-value",
+     "https://www.omnicalculator.com/statistics/sum-of-squares",
+     "https://www.omnicalculator.com/statistics/midrange",
+     "https://www.omnicalculator.com/statistics/coefficient-of-variation"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

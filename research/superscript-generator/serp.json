@@ -1,0 +1,256 @@
+{
+ "keywords": {
+  "superscript generator": {
+   "fetchedAt": "2026-11-22T12:09:29.452Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 9900,
+   "fileKd": 20,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 5,
+    "url": "www.omnicalculator.com/other/superscript-generator"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.omnicalculator.com/other/superscript-generator",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.producthunt.com/products/superscript-generator/alternatives",
+     "domain": "www.producthunt.com",
+     "title": "www.producthunt.com",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://convertcase.net/superscript-generator",
+     "domain": "convertcase.net",
+     "title": "Superscript Generator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://github.com/sam-ice-star/text",
+     "domain": "github.com",
+     "title": "github.com",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://codeshack.io/superscript-generator/",
+     "domain": "codeshack.io",
+     "title": "0 characters",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.calculate.co.nz/superscript-generator.php",
+     "domain": "www.calculate.co.nz",
+     "title": "Superscript Generator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.webnots.com/seo-tools/superscript-subscript-text-generator",
+     "domain": "www.webnots.com",
+     "title": "Superscript, Subscript, Small Caps Text Generator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://namecheap.com/visual/font-generator/superscript",
+     "domain": "namecheap.com",
+     "title": "Subtotal",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://goonlinetools.com/superscript-generator",
+     "domain": "goonlinetools.com",
+     "title": "Superscript Generator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://bushe.co/tools/superscript-generator/",
+     "domain": "bushe.co",
+     "title": "superscript generator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.smashingapps.com/free-superscript-generator/",
+     "domain": "www.smashingapps.com",
+     "title": "free superscript generator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://best-calculators.com/tools/superscript-generator/",
+     "domain": "best-calculators.com",
+     "title": "Superscript Generator - Convert text to Unicode superscripts",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://felo.ai/de/agents/superscript-generator-online-HHWaQ59Dq49sYWRpvoq6wB",
+     "domain": "felo.ai",
+     "title": "superscript generator online",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://mail.norml.org/superscript-font-generator.html",
+     "domain": "mail.norml.org",
+     "title": "SUPERSCRIPT FONT GENERATOR intelligence overview",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://azweb-tools-app.pages.dev/superscript-generator",
+     "domain": "azweb-tools-app.pages.dev",
+     "title": "superscript generator",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://textgenerator-net.pages.dev/superscript-text-generator",
+     "domain": "textgenerator-net.pages.dev",
+     "title": "Superscript Text Generator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://hn.jakechampion.name/reader/https://superscriptgenerator.net/",
+     "domain": "hn.jakechampion.name",
+     "title": "Superscript Generator: Selective Control, Free & No Sign-Up",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://lembog-tools.pages.dev/tools/superscript-generator",
+     "domain": "lembog-tools.pages.dev",
+     "title": "Superscript Generator",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://mail.norml.org/superscript-generator-copy-paste.html",
+     "domain": "mail.norml.org",
+     "title": "SUPERSCRIPT GENERATOR COPY PASTE intelligence overview",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://azweb-tools-app.pages.dev/superscript-generator",
+     "domain": "azweb-tools-app.pages.dev",
+     "title": "superscript generator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "superscript-generator",
+ "page": "superscript-generator",
+ "category": "text",
+ "name": "Superscript Generator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T12:09:29.452Z",
+ "topCompetitors": [
+  {
+   "domain": "pages.dev",
+   "bestRank": 15,
+   "keywords": 4,
+   "urls": [
+    "https://azweb-tools-app.pages.dev/superscript-generator",
+    "https://textgenerator-net.pages.dev/superscript-text-generator",
+    "https://lembog-tools.pages.dev/tools/superscript-generator"
+   ]
+  },
+  {
+   "domain": "norml.org",
+   "bestRank": 14,
+   "keywords": 2,
+   "urls": [
+    "https://mail.norml.org/superscript-font-generator.html",
+    "https://mail.norml.org/superscript-generator-copy-paste.html"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/other/superscript-generator"
+   ]
+  },
+  {
+   "domain": "producthunt.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.producthunt.com/products/superscript-generator/alternatives"
+   ]
+  },
+  {
+   "domain": "convertcase.net",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://convertcase.net/superscript-generator"
+   ]
+  },
+  {
+   "domain": "github.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://github.com/sam-ice-star/text"
+   ]
+  },
+  {
+   "domain": "codeshack.io",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://codeshack.io/superscript-generator/"
+   ]
+  },
+  {
+   "domain": "calculate.co.nz",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculate.co.nz/superscript-generator.php"
+   ]
+  },
+  {
+   "domain": "webnots.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.webnots.com/seo-tools/superscript-subscript-text-generator"
+   ]
+  },
+  {
+   "domain": "namecheap.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://namecheap.com/visual/font-generator/superscript"
+   ]
+  }
+ ]
+}

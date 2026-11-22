@@ -1,0 +1,558 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/finance/money-market-account": {
+   "url": "https://www.omnicalculator.com/finance/money-market-account",
+   "finalUrl": "https://www.omnicalculator.com/finance/money-market-account",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T12:09:52.459Z",
+   "title": "Money Market Account Calculator",
+   "metaDescription": "Money market account calculator is a tool that finds the return you get from this type of bank account.",
+   "canonical": "https://www.omnicalculator.com/finance/money-market-account",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Money Market Account Calculator"
+   ],
+   "h2": [
+    "What is the money market account?",
+    "Where does the higher money market account rates come from?",
+    "Pros and cons of an MMA account",
+    "How does money market work? - example",
+    "Related calculators"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Money Market Account Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is the money market account?"
+    },
+    {
+     "level": 2,
+     "text": "Where does the higher money market account rates come from?"
+    },
+    {
+     "level": 2,
+     "text": "Pros and cons of an MMA account"
+    },
+    {
+     "level": 2,
+     "text": "How does money market work? - example"
+    },
+    {
+     "level": 2,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 598,
+   "avgSentenceWords": 15,
+   "faqs": [
+    "What is the money market account?",
+    "Where does the higher money market account rates come from?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "account",
+     "weight": 28
+    },
+    {
+     "term": "money market",
+     "weight": 26
+    },
+    {
+     "term": "money",
+     "weight": 21
+    },
+    {
+     "term": "market account",
+     "weight": 21
+    },
+    {
+     "term": "market",
+     "weight": 18
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "investment",
+     "weight": 9
+    },
+    {
+     "term": "mma account",
+     "weight": 9
+    },
+    {
+     "term": "interest",
+     "weight": 7
+    },
+    {
+     "term": "account calculator",
+     "weight": 6
+    },
+    {
+     "term": "mma",
+     "weight": 6
+    },
+    {
+     "term": "rates",
+     "weight": 6
+    },
+    {
+     "term": "return",
+     "weight": 5
+    },
+    {
+     "term": "interest rates",
+     "weight": 5
+    },
+    {
+     "term": "savings account",
+     "weight": 5
+    },
+    {
+     "term": "account rates",
+     "weight": 5
+    },
+    {
+     "term": "check",
+     "weight": 4
+    },
+    {
+     "term": "savings",
+     "weight": 4
+    },
+    {
+     "term": "have",
+     "weight": 4
+    },
+    {
+     "term": "investments",
+     "weight": 4
+    },
+    {
+     "term": "higher",
+     "weight": 4
+    },
+    {
+     "term": "balance",
+     "weight": 3
+    },
+    {
+     "term": "deposit",
+     "weight": 3
+    },
+    {
+     "term": "value",
+     "weight": 3
+    },
+    {
+     "term": "calculators",
+     "weight": 3
+    },
+    {
+     "term": "investment calculator",
+     "weight": 3
+    },
+    {
+     "term": "debit card",
+     "weight": 3
+    },
+    {
+     "term": "possible",
+     "weight": 3
+    },
+    {
+     "term": "regular account",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "Pros and cons of an MMA account Advantages: The Federal Deposit Insurance Corporation secures your money market account up to the value of $250,000.",
+    "- example Imagine that you have $200,000 in your money market account and decided to put extra $1,000 each month.",
+    "In just two years of such investment, the money market account calculator will present you the result of $226,135.01 - that is the value of your portfolio."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Mateusz Tkaczyk",
+    "published": "2020-07-29T16:15:36.756Z",
+    "modified": "2026-09-27T14:56:11.949Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 782,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 22,
+    "external": 1,
+    "contentInternal": 6,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "investment calculator",
+     "CD calculator",
+     "Stock calculator",
+     "Mutual fund calculator",
+     "Return on investment calculator",
+     "return on assets calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/finance/investment",
+     "https://www.omnicalculator.com/finance/cd",
+     "https://www.omnicalculator.com/finance/stock",
+     "https://www.omnicalculator.com/finance/mutual-fund",
+     "https://www.omnicalculator.com/finance/roi",
+     "https://www.omnicalculator.com/finance/roa"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.thecalculatorsite.com/finance/calculators/money-market-account.php": {
+   "url": "https://www.thecalculatorsite.com/finance/calculators/money-market-account.php",
+   "finalUrl": "https://www.thecalculatorsite.com/finance/calculators/money-market-account.php",
+   "mode": "offline-parse",
+   "domain": "www.thecalculatorsite.com",
+   "fetchedAt": "2026-11-22T12:09:55.785Z",
+   "title": "Money Market Account (MMA) Calculator",
+   "metaDescription": "Calculate how much interest you might earn on your money market account with our simple and user-friendly calculator.",
+   "canonical": "https://www.thecalculatorsite.com/finance/calculators/money-market-account.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Money Market Account Calculator"
+   ],
+   "h2": [
+    "How to use our calculator",
+    "Learning more about money market accounts"
+   ],
+   "h3": [
+    "Recommended resources"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Money Market Account Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to use our calculator"
+    },
+    {
+     "level": 2,
+     "text": "Learning more about money market accounts"
+    },
+    {
+     "level": 3,
+     "text": "Recommended resources"
+    },
+    {
+     "level": 4,
+     "text": "Finance"
+    },
+    {
+     "level": 4,
+     "text": "Home & Garden"
+    },
+    {
+     "level": 4,
+     "text": "Cooking"
+    },
+    {
+     "level": 4,
+     "text": "Website"
+    }
+   ],
+   "wordCount": 1034,
+   "avgSentenceWords": 31,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "calculator",
+     "weight": 63
+    },
+    {
+     "term": "grams",
+     "weight": 19
+    },
+    {
+     "term": "interest",
+     "weight": 18
+    },
+    {
+     "term": "money market",
+     "weight": 18
+    },
+    {
+     "term": "money",
+     "weight": 15
+    },
+    {
+     "term": "feet",
+     "weight": 12
+    },
+    {
+     "term": "market",
+     "weight": 12
+    },
+    {
+     "term": "cups",
+     "weight": 11
+    },
+    {
+     "term": "calculators",
+     "weight": 10
+    },
+    {
+     "term": "square",
+     "weight": 9
+    },
+    {
+     "term": "pounds",
+     "weight": 9
+    },
+    {
+     "term": "market account",
+     "weight": 9
+    },
+    {
+     "term": "cubic",
+     "weight": 8
+    },
+    {
+     "term": "account",
+     "weight": 8
+    },
+    {
+     "term": "compound interest",
+     "weight": 8
+    },
+    {
+     "term": "market accounts",
+     "weight": 8
+    },
+    {
+     "term": "ounces",
+     "weight": 7
+    },
+    {
+     "term": "weight",
+     "weight": 7
+    },
+    {
+     "term": "finance",
+     "weight": 6
+    },
+    {
+     "term": "apy",
+     "weight": 6
+    },
+    {
+     "term": "interest rate",
+     "weight": 6
+    },
+    {
+     "term": "interest calculator",
+     "weight": 6
+    },
+    {
+     "term": "inches",
+     "weight": 6
+    },
+    {
+     "term": "cubic feet",
+     "weight": 6
+    },
+    {
+     "term": "calculator cubic",
+     "weight": 6
+    },
+    {
+     "term": "accounts",
+     "weight": 6
+    },
+    {
+     "term": "compound",
+     "weight": 5
+    },
+    {
+     "term": "converter",
+     "weight": 5
+    },
+    {
+     "term": "rate",
+     "weight": 5
+    },
+    {
+     "term": "savings",
+     "weight": 5
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [],
+   "schemaFormats": [],
+   "tables": 0,
+   "lists": 29,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "I want to calculate/convert...",
+    "Initial deposit:",
+    "Interest rate (APY):",
+    "Years:",
+    "Months:",
+    "Regular contributions",
+    "regperiod",
+    "Interest compounded:"
+   ],
+   "selectOptionsSample": "monthly quarterly half-yearly yearly daily weekly monthly quarterly half yearly yearly",
+   "unitToggle": false,
+   "wordsBeforeTool": 7,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 753,
+    "adNetworks": [
+     "gpt",
+     "adthrive",
+     "ezoic"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 159,
+    "external": 4,
+    "contentInternal": 159,
+    "contentExternal": 4,
+    "internalAnchors": [
+     "Finance Calculators",
+     "Compound Interest",
+     "Compound Interest (Daily)",
+     "Amortization Calculator",
+     "APY Calculator",
+     "CAGR Calculator",
+     "Car Loan Calculator",
+     "Cash Back Calculator",
+     "Currency Converter",
+     "Forex Compounding",
+     "Future Value Calculator",
+     "How Long to Save",
+     "Interest Rate Calculator",
+     "Investment Calculator",
+     "IRR Calculator",
+     "Loan Calculator",
+     "Loan Payoff Calculator",
+     "Margin Calculator",
+     "Million to Billion Converter",
+     "MMA Calculator"
+    ],
+    "internalSample": [
+     "https://www.thecalculatorsite.com/",
+     "https://www.thecalculatorsite.com/finance/",
+     "https://www.thecalculatorsite.com/finance/calculators/compoundinterestcalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/daily-compound-interest.php",
+     "https://www.thecalculatorsite.com/finance/calculators/amortization-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/apy-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/cagr-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/carloancalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/cash-back.php",
+     "https://www.thecalculatorsite.com/finance/calculators/currencyconverter.php",
+     "https://www.thecalculatorsite.com/finance/calculators/forex-compound-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/future-value-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/how-long-to-save",
+     "https://www.thecalculatorsite.com/finance/calculators/interest-rate-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/investment-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/irr-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/loancalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/loan-payoff-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/margin-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/million-billion",
+     "https://www.thecalculatorsite.com/finance/calculators/money-market-account.php",
+     "https://www.thecalculatorsite.com/finance/calculators/money-counter.php",
+     "https://www.thecalculatorsite.com/finance/calculators/price-per-sqft.php",
+     "https://www.thecalculatorsite.com/finance/calculators/savings-calculators.php",
+     "https://www.thecalculatorsite.com/finance/calculators/savings-goal-calculator.php"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=thecalculatorsite.com",
+     "https://www.investopedia.com/terms/m/moneymarketaccount.asp",
+     "https://www.bankrate.com/banking/money-market/rates/",
+     "https://www.nerdwallet.com/best/banking/money-market-accounts"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

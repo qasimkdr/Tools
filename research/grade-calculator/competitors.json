@@ -1,0 +1,1255 @@
+{
+ "pages": {
+  "https://www.calculator.net/grade-calculator.html": {
+   "url": "https://www.calculator.net/grade-calculator.html",
+   "finalUrl": "https://www.calculator.net/grade-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T12:09:31.371Z",
+   "title": "Grade Calculator",
+   "metaDescription": "This free grade calculator can calculate a weighted average grade. It accepts both numerical as well as letter grades.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Grade Calculator"
+   ],
+   "h2": [
+    "Final Grade Calculator"
+   ],
+   "h3": [
+    "Brief history of different grading systems",
+    "An alternative to the letter grading system"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Grade Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Final Grade Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Brief history of different grading systems"
+    },
+    {
+     "level": 3,
+     "text": "An alternative to the letter grading system"
+    }
+   ],
+   "wordCount": 862,
+   "avgSentenceWords": 27,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "grade",
+     "weight": 20
+    },
+    {
+     "term": "letter",
+     "weight": 14
+    },
+    {
+     "term": "grading",
+     "weight": 14
+    },
+    {
+     "term": "system",
+     "weight": 12
+    },
+    {
+     "term": "students",
+     "weight": 11
+    },
+    {
+     "term": "grading system",
+     "weight": 11
+    },
+    {
+     "term": "letter grading",
+     "weight": 9
+    },
+    {
+     "term": "calculator",
+     "weight": 8
+    },
+    {
+     "term": "letter grades",
+     "weight": 8
+    },
+    {
+     "term": "grades",
+     "weight": 7
+    },
+    {
+     "term": "used",
+     "weight": 6
+    },
+    {
+     "term": "failing grade",
+     "weight": 6
+    },
+    {
+     "term": "course",
+     "weight": 5
+    },
+    {
+     "term": "final",
+     "weight": 5
+    },
+    {
+     "term": "however",
+     "weight": 5
+    },
+    {
+     "term": "grade calculator",
+     "weight": 5
+    },
+    {
+     "term": "final grade",
+     "weight": 5
+    },
+    {
+     "term": "used today",
+     "weight": 5
+    },
+    {
+     "term": "based",
+     "weight": 4
+    },
+    {
+     "term": "numerical",
+     "weight": 4
+    },
+    {
+     "term": "failing",
+     "weight": 4
+    },
+    {
+     "term": "college",
+     "weight": 4
+    },
+    {
+     "term": "there",
+     "weight": 4
+    },
+    {
+     "term": "evaluation",
+     "weight": 4
+    },
+    {
+     "term": "grade needed",
+     "weight": 3
+    },
+    {
+     "term": "desired grade",
+     "weight": 3
+    },
+    {
+     "term": "exam",
+     "weight": 3
+    },
+    {
+     "term": "calculators",
+     "weight": 3
+    },
+    {
+     "term": "letter grade",
+     "weight": 3
+    },
+    {
+     "term": "grading systems",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "2 represented those who were \"orderly, correct and attentive.\" Meanwhile at Harvard, students were graded based on a numerical system from 1-200 (except for math and philosophy where 1-100 was used).",
+    "Later, shortly after 1883, Harvard used a system of \"Classes\" where students were either Class I, II, III, IV, or V, with V representing a failing grade.",
+    "In 1887, Mount Holyoke College became the first college to use letter grades similar to those commonly used today.",
+    "This grading system however, was far stricter than those commonly used today, with a failing grade being defined as anything below 75%.",
+    "The college later re-defined their grading system, adding the letter F for a failing grade (still below 75%)."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 15,
+   "lists": 0,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [
+    "d1",
+    "s1",
+    "l1",
+    "w1",
+    "d2",
+    "s2",
+    "l2",
+    "w2",
+    "d3",
+    "s3",
+    "l3",
+    "w3",
+    "d4",
+    "s4",
+    "l4",
+    "w4",
+    "d5",
+    "s5",
+    "l5",
+    "w5",
+    "d6",
+    "s6",
+    "l6",
+    "w6",
+    "d7",
+    "s7",
+    "l7",
+    "w7",
+    "d8",
+    "s8",
+    "l8",
+    "w8",
+    "sgoal",
+    "lgoal",
+    "wremain",
+    "Points, percentage, mix",
+    "Letters",
+    "Percentage",
+    "Points",
+    "Show Final Grade Planning Options"
+   ],
+   "selectOptionsSample": "- a+ a a- b+ b b- c+ c c- d+ d d- f - a+ a a- b+ b b- c+ c c- d+ d d- f - a+ a a- b+ b b- c+ c c- d+ d d- f - a+ a a- b+ b b- c+ c c- d+ d d- f - a+ a a- b+ b b- c+ c c- d+ d d- f - a+ a a- b+ b b- c+ c c- d+ d d- f - a+ a a- b+ b b- c+ c c- d+ d d- f - a+ a a- b+ b b- c+ c c- d+ d d- f - a+ a a- b+",
+   "unitToggle": false,
+   "wordsBeforeTool": 61,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 24,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 24,
+    "external": 0,
+    "contentInternal": 24,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "other",
+     "grade calculator",
+     "+ add more rows",
+     "Settings",
+     "GPA Calculator",
+     "Other Calculators",
+     "Age",
+     "Date",
+     "Time",
+     "Hours",
+     "GPA",
+     "Grade",
+     "Height",
+     "Concrete",
+     "IP Subnet",
+     "Bra Size",
+     "Password Generator",
+     "Dice Roller"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/grade-calculator.html",
+     "https://www.calculator.net/grade-calculator.html#",
+     "https://www.calculator.net/gpa-calculator.html",
+     "https://www.calculator.net/age-calculator.html",
+     "https://www.calculator.net/date-calculator.html",
+     "https://www.calculator.net/time-calculator.html",
+     "https://www.calculator.net/hours-calculator.html",
+     "https://www.calculator.net/height-calculator.html",
+     "https://www.calculator.net/concrete-calculator.html",
+     "https://www.calculator.net/ip-subnet-calculator.html",
+     "https://www.calculator.net/bra-size-calculator.html",
+     "https://www.calculator.net/password-generator.html",
+     "https://www.calculator.net/dice-roller.html",
+     "https://www.calculator.net/conversion-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/final-grade-calculator/": {
+   "url": "https://www.inchcalculator.com/final-grade-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/final-grade-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T12:09:34.480Z",
+   "title": "Final Grade Calculator - Inch Calculator",
+   "metaDescription": "Use our final grade calculator to find the minimum grade you'll need to earn on a final exam or to calculate your final class grade.",
+   "canonical": "https://www.inchcalculator.com/final-grade-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Final Grade Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Minimum Final Exam Grade",
+    "Share This Result",
+    "Cite This Page",
+    "How to Calculate the Minimum Grade Needed on a Final Exam",
+    "Popular Grade Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Steps to Calculate Final Exam Grade"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Final Grade Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Minimum Final Exam Grade"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate the Minimum Grade Needed on a Final Exam"
+    },
+    {
+     "level": 3,
+     "text": "Steps to Calculate Final Exam Grade"
+    },
+    {
+     "level": 2,
+     "text": "Popular Grade Calculators"
+    }
+   ],
+   "wordCount": 732,
+   "avgSentenceWords": 25,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "grade",
+     "weight": 51
+    },
+    {
+     "term": "final exam",
+     "weight": 41
+    },
+    {
+     "term": "final",
+     "weight": 38
+    },
+    {
+     "term": "exam",
+     "weight": 28
+    },
+    {
+     "term": "minimum grade",
+     "weight": 12
+    },
+    {
+     "term": "weight",
+     "weight": 12
+    },
+    {
+     "term": "calculator",
+     "weight": 11
+    },
+    {
+     "term": "minimum",
+     "weight": 10
+    },
+    {
+     "term": "final grade",
+     "weight": 9
+    },
+    {
+     "term": "calculate",
+     "weight": 9
+    },
+    {
+     "term": "course",
+     "weight": 9
+    },
+    {
+     "term": "current",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "grade calculator",
+     "weight": 8
+    },
+    {
+     "term": "current grade",
+     "weight": 8
+    },
+    {
+     "term": "exam grade",
+     "weight": 8
+    },
+    {
+     "term": "grade needed",
+     "weight": 8
+    },
+    {
+     "term": "overall grade",
+     "weight": 8
+    },
+    {
+     "term": "need",
+     "weight": 6
+    },
+    {
+     "term": "exam weight",
+     "weight": 6
+    },
+    {
+     "term": "needed",
+     "weight": 6
+    },
+    {
+     "term": "overall",
+     "weight": 6
+    },
+    {
+     "term": "course grade",
+     "weight": 6
+    },
+    {
+     "term": "gpa calculator",
+     "weight": 6
+    },
+    {
+     "term": "desired",
+     "weight": 5
+    },
+    {
+     "term": "contribution",
+     "weight": 5
+    },
+    {
+     "term": "step",
+     "weight": 5
+    },
+    {
+     "term": "gpa",
+     "weight": 5
+    },
+    {
+     "term": "final class",
+     "weight": 5
+    },
+    {
+     "term": "class grade",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Question or Feedback Name (optional) Email (optional) Results: Minimum Final Exam Grade Results: Minimum Final Exam Grade 89.286% This is the minimum grade you need to get on the final exam.",
+    "In most cases, the final exam doesn’t account for 100% of your total grade.",
+    "For instance, if the final exam has a weight of 30%, this means the final exam score will account for 30% of your final class grade, with the remaining 70% determined by your performance in other areas.",
+    "Step Three: Multiply your current course grade by the weight of all components other than the final exam, which should be equal to 100% minus the final exam weight.",
+    "For example, let’s say your current grade in a class is 85%, and you have a final exam that accounts for 30% of your overall grade."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 1,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Current Grade",
+    "Desired Grade",
+    "Final Exam Weight",
+    "Current Grade",
+    "Final Exam Grade",
+    "Final Exam Weight"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 38,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2023-09-14",
+    "modified": "2023-09-15T15:51:06+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 113,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 39,
+    "external": 13,
+    "contentInternal": 15,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Full bio",
+     "Final Grade Calculator",
+     "grade",
+     "quizzes and tests",
+     "weighted grade",
+     "weighted average formula",
+     "semester grade",
+     "College GPA Calculator",
+     "High School GPA Calculator",
+     "GPA Calculator",
+     "GPA to Letter Grade Calculator",
+     "Letter Grade to GPA Calculator",
+     "See All"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/final-grade-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/grade-calculator/",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/final-grade-calculator/",
+     "https://www.inchcalculator.com/grade-calculator/",
+     "https://www.inchcalculator.com/test-grade-calculator/",
+     "https://www.inchcalculator.com/weighted-grade-calculator/",
+     "https://www.inchcalculator.com/weighted-average-calculator/",
+     "https://www.inchcalculator.com/semester-grade-calculator/",
+     "https://www.inchcalculator.com/college-gpa-calculator/",
+     "https://www.inchcalculator.com/high-school-gpa-calculator/",
+     "https://www.inchcalculator.com/gpa-calculator/",
+     "https://www.inchcalculator.com/gpa-to-letter-grade-calculator/",
+     "https://www.inchcalculator.com/letter-grade-to-gpa-calculator/",
+     "https://www.inchcalculator.com/grade-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Ffinal-grade-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Ffinal-grade-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Ffinal-grade-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Ffinal-grade-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Ffinal-grade-calculator%2F&text=Final+Grade+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Ffinal-grade-calculator%2F&text=Final+Grade+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/education/final-grade": {
+   "url": "https://www.omnicalculator.com/education/final-grade",
+   "finalUrl": "https://www.omnicalculator.com/other/final-grade",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T12:09:38.324Z",
+   "title": "Final Grade Calculator",
+   "metaDescription": "Find out what you need to score on your final exam and explore efficient study strategies with our user-friendly Final Grade Calculator.",
+   "canonical": "https://www.omnicalculator.com/other/final-grade",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Final Grade Calculator"
+   ],
+   "h2": [
+    "What is your final grade?",
+    "The importance of the final semester grade",
+    "Not all final grades are equal - grading systems",
+    "What grade do I need on my final exam? Tricks for better time/effort management",
+    "How to use the final grade calculator",
+    "Beyond the final grade, a word on knowledge and studying",
+    "I finished my exam, I got my final grade, now what?",
+    "Final exam and anxiety, how to balance now and then sensibly",
+    "How do I improve my grades?",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I calculate my final grade?",
+    "What score do I need to get an A?",
+    "How much is needed to pass GCSE exam?",
+    "What is my final exam percentage if I scored 15 over 20?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Final Grade Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is your final grade?"
+    },
+    {
+     "level": 2,
+     "text": "The importance of the final semester grade"
+    },
+    {
+     "level": 2,
+     "text": "Not all final grades are equal - grading systems"
+    },
+    {
+     "level": 2,
+     "text": "What grade do I need on my final exam? Tricks for better time/effort management"
+    },
+    {
+     "level": 2,
+     "text": "How to use the final grade calculator"
+    },
+    {
+     "level": 2,
+     "text": "Beyond the final grade, a word on knowledge and studying"
+    },
+    {
+     "level": 2,
+     "text": "I finished my exam, I got my final grade, now what?"
+    },
+    {
+     "level": 2,
+     "text": "Final exam and anxiety, how to balance now and then sensibly"
+    },
+    {
+     "level": 2,
+     "text": "How do I improve my grades?"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate my final grade?"
+    },
+    {
+     "level": 3,
+     "text": "What score do I need to get an A?"
+    },
+    {
+     "level": 3,
+     "text": "How much is needed to pass GCSE exam?"
+    },
+    {
+     "level": 3,
+     "text": "What is my final exam percentage if I scored 15 over 20?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 3122,
+   "avgSentenceWords": 22,
+   "faqs": [
+    "How do I calculate my final grade?",
+    "What score do I need to get an A?",
+    "How much is needed to pass GCSE exam?",
+    "What is my final exam percentage if I scored 15 over 20?",
+    "What is your final grade?",
+    "What grade do I need on my final exam?",
+    "I finished my exam, I got my final grade, now what?",
+    "How do I improve my grades?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "grade",
+     "weight": 71
+    },
+    {
+     "term": "final",
+     "weight": 55
+    },
+    {
+     "term": "final grade",
+     "weight": 32
+    },
+    {
+     "term": "exam",
+     "weight": 30
+    },
+    {
+     "term": "final exam",
+     "weight": 26
+    },
+    {
+     "term": "have",
+     "weight": 24
+    },
+    {
+     "term": "calculator",
+     "weight": 23
+    },
+    {
+     "term": "exams",
+     "weight": 23
+    },
+    {
+     "term": "need",
+     "weight": 21
+    },
+    {
+     "term": "grades",
+     "weight": 19
+    },
+    {
+     "term": "grading",
+     "weight": 17
+    },
+    {
+     "term": "grade calculator",
+     "weight": 15
+    },
+    {
+     "term": "grading system",
+     "weight": 15
+    },
+    {
+     "term": "system",
+     "weight": 15
+    },
+    {
+     "term": "subject",
+     "weight": 15
+    },
+    {
+     "term": "points",
+     "weight": 13
+    },
+    {
+     "term": "there",
+     "weight": 13
+    },
+    {
+     "term": "knowledge",
+     "weight": 13
+    },
+    {
+     "term": "pass",
+     "weight": 13
+    },
+    {
+     "term": "calculate",
+     "weight": 11
+    },
+    {
+     "term": "subjects",
+     "weight": 10
+    },
+    {
+     "term": "let's",
+     "weight": 10
+    },
+    {
+     "term": "percentage",
+     "weight": 9
+    },
+    {
+     "term": "it's",
+     "weight": 9
+    },
+    {
+     "term": "different",
+     "weight": 9
+    },
+    {
+     "term": "grading systems",
+     "weight": 9
+    },
+    {
+     "term": "systems",
+     "weight": 9
+    },
+    {
+     "term": "now",
+     "weight": 9
+    },
+    {
+     "term": "important",
+     "weight": 9
+    },
+    {
+     "term": "same",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "Generally, the weights are expressed as a percentage of the total grade or as a number from 0 to 1, which represents the same concept.",
+    "For simplicity, our exemplary grading system will range from 0 to 100, with a passing grade to be determined by the user.",
+    "On the one hand, you have simple grading systems, like the Spanish one, 0-10 with 5 being a passing grade, or systems with points 1-5 with 3 being a passing grade, as they do in countries like Poland & Norway.",
+    "So, for example, Cr in Australia means 60-69% of the total grade which would mean a D in the USA, a 3 in Poland and a 6 in Spain.",
+    "This calculator has 2 modes of finding your final grade — either from your current grade, or the combined grade of your previous exams.",
+    "Let's also assume that the final exam grade is 70% of the total grade of the subject.",
+    "This means that you have already collected (1-0.7) × 0.65 × 100 = 19.5% of the total grade.",
+    "Let's talk about a grading system in terms of 100 points; if you did not get any points on the final exam, you would get a final grade of 19.5 points.",
+    "Since the final exam carries 70% of the final grade, it means that those 30.5 points in the final grade translate to 30.5 / 0.7 = 43.6 points.",
+    "So, by getting 43.6% of the final exam correct, you are guaranteed to pass the subject."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 0,
+   "videos": 1,
+   "calculatorInputs": [
+    "Grading System"
+   ],
+   "selectOptionsSample": "select numbers percentage (%) usa standard usa (advanced program) canada gcse australian (schools) australian (university) india (cce)",
+   "unitToggle": false,
+   "wordsBeforeTool": 8,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Álvaro Díez",
+    "published": "2015-11-23T12:19:37.192Z",
+    "modified": "2026-09-26T05:14:39.329Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 810,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 24,
+    "external": 2,
+    "contentInternal": 8,
+    "contentExternal": 2,
+    "internalAnchors": [
+     "test grade calculator",
+     "grade calculator",
+     "send us an email",
+     "high school GPA",
+     "college GPA",
+     "weighted average",
+     "Poker Odds Calculator",
+     "RAID Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/other/test-grade",
+     "https://www.omnicalculator.com/other/grade",
+     "https://www.omnicalculator.com/contact",
+     "https://www.omnicalculator.com/other/high-school-gpa",
+     "https://www.omnicalculator.com/other/college-gpa",
+     "https://www.omnicalculator.com/math/weighted-average",
+     "https://www.omnicalculator.com/other/poker-odds",
+     "https://www.omnicalculator.com/other/raid"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com",
+     "https://youtu.be/Jxd0xaQZDwU"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/statistics/final-grade-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/statistics/final-grade-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/statistics/final-grade-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T12:09:41.461Z",
+   "title": "Final Grade Calculator",
+   "metaDescription": "Final grade calculator finds the grade you need on the final to achieve your target grade for the class. Also calculates your final class grade given your final exam grade.",
+   "canonical": "https://www.calculatorsoup.com/calculators/statistics/final-grade-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Final Grade Calculator"
+   ],
+   "h2": [
+    "Study Smarter",
+    "Calculate Your Final Grade",
+    "Calculate Your Course Grade",
+    "What is a Final Grade Calculator?",
+    "Why Use a Final Grade Calculator?",
+    "Limitations of Final Grade Calculators"
+   ],
+   "h3": [
+    "Example Final Exam Grade Calculation",
+    "Example Final Course Grade Calculation",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Final Grade Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Study Smarter"
+    },
+    {
+     "level": 2,
+     "text": "Calculate Your Final Grade"
+    },
+    {
+     "level": 2,
+     "text": "Calculate Your Course Grade"
+    },
+    {
+     "level": 3,
+     "text": "Example Final Exam Grade Calculation"
+    },
+    {
+     "level": 3,
+     "text": "Example Final Course Grade Calculation"
+    },
+    {
+     "level": 2,
+     "text": "What is a Final Grade Calculator?"
+    },
+    {
+     "level": 2,
+     "text": "Why Use a Final Grade Calculator?"
+    },
+    {
+     "level": 2,
+     "text": "Limitations of Final Grade Calculators"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 1499,
+   "avgSentenceWords": 19,
+   "faqs": [
+    "What is a Final Grade Calculator?",
+    "Why Use a Final Grade Calculator?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "grade",
+     "weight": 80
+    },
+    {
+     "term": "final",
+     "weight": 77
+    },
+    {
+     "term": "final grade",
+     "weight": 48
+    },
+    {
+     "term": "final exam",
+     "weight": 41
+    },
+    {
+     "term": "grade calculator",
+     "weight": 35
+    },
+    {
+     "term": "calculator",
+     "weight": 33
+    },
+    {
+     "term": "exam",
+     "weight": 27
+    },
+    {
+     "term": "course",
+     "weight": 23
+    },
+    {
+     "term": "course grade",
+     "weight": 18
+    },
+    {
+     "term": "weight",
+     "weight": 16
+    },
+    {
+     "term": "need",
+     "weight": 12
+    },
+    {
+     "term": "class",
+     "weight": 11
+    },
+    {
+     "term": "grade calculation",
+     "weight": 11
+    },
+    {
+     "term": "result",
+     "weight": 10
+    },
+    {
+     "term": "current grade",
+     "weight": 9
+    },
+    {
+     "term": "times",
+     "weight": 9
+    },
+    {
+     "term": "decimal",
+     "weight": 9
+    },
+    {
+     "term": "score",
+     "weight": 9
+    },
+    {
+     "term": "want",
+     "weight": 8
+    },
+    {
+     "term": "calculation",
+     "weight": 8
+    },
+    {
+     "term": "exam grade",
+     "weight": 8
+    },
+    {
+     "term": "calculators",
+     "weight": 7
+    },
+    {
+     "term": "find",
+     "weight": 7
+    },
+    {
+     "term": "calculate",
+     "weight": 7
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 7
+    },
+    {
+     "term": "current",
+     "weight": 6
+    },
+    {
+     "term": "subject",
+     "weight": 6
+    },
+    {
+     "term": "grade formula",
+     "weight": 6
+    },
+    {
+     "term": "parentheses",
+     "weight": 6
+    },
+    {
+     "term": "step",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "In one subject you need a minimum of 85% on the final to reach your target course grade.",
+    "In another subject you need at least 75% on the final to reach your ideal grade.",
+    "Subtract the result of step 3 from G, the grade you want for the class.",
+    "This means subtract the weight of the final as a decimal from 1.",
+    "Example Final Exam Grade Calculation Suppose your grade in Statistics is 85%.",
+    "Using the final grade formula above, you want a 90 in the class and you currently have an 85.",
+    "The final is worth 40% of the course grade.",
+    "First, convert the weight of the final exam from percent to decimal: 40 ÷ 100 = 0.40.",
+    "You’ll need a 97.5 on the final to get a 90 overall for the course.",
+    "Example Final Course Grade Calculation Suppose going into finals your grade in Economics was 91%."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 6,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Find:",
+    "Current grade:",
+    "Grade you want:",
+    "Final exam weight:",
+    "reset"
+   ],
+   "selectOptionsSample": "final exam grade i need final class grade",
+   "unitToggle": false,
+   "wordsBeforeTool": 16,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "October 1, 2026",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 59,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 18,
+    "external": 0,
+    "contentInternal": 8,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Statistics",
+     "Final Grade Calculator",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "final grade calculation",
+     "course grade calculation",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/statistics/",
+     "https://www.calculatorsoup.com/calculators/statistics/final-grade-calculator.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=statistics%2F&folderName=Statistics&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/statistics/final-grade-calculator.php&h1=Final+Grade+Calculator&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/statistics/final-grade-calculator.php#finalGrade",
+     "https://www.calculatorsoup.com/calculators/statistics/final-grade-calculator.php#courseGrade"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}
