@@ -1,0 +1,257 @@
+{
+ "keywords": {
+  "right triangle calculator": {
+   "fetchedAt": "2026-11-22T07:49:30.695Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 27100,
+   "fileKd": 24,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 1,
+    "url": "www.calculator.net/right-triangle-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.pearson.com/channels/it-IT/calculators/right-triangle-calculator",
+     "domain": "www.pearson.com",
+     "title": "right triangle calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.pearson.com/channels/calculators/right-triangle-calculator",
+     "domain": "www.pearson.com",
+     "title": "right triangle calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.calculator.net/right-triangle-calculator",
+     "domain": "www.calculator.net",
+     "title": "Right Triangle Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.calculator.net/right-triangle-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Right Triangle Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://inchcalculator.com/right-triangle-calculator",
+     "domain": "inchcalculator.com",
+     "title": "Right Triangle Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.calculatorsoup.com/calculators/geometry-plane/triangles-right.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Right Triangles Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.geeksforgeeks.org/?p=1221146",
+     "domain": "www.geeksforgeeks.org",
+     "title": "Right Triangle Calculator – Free Online Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.miniwebtool.com/right-triangle-calculator/",
+     "domain": "www.miniwebtool.com",
+     "title": "right triangle calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.omnicalculator.com/math/right-triangle",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.omnicalculator.com/math/right-triangle-side-angle?c=CAD",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://calculator.io/right-triangle-calculator",
+     "domain": "calculator.io",
+     "title": "Math Calculators",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.firgelliauto.com/en-de/blogs/engineering-calculators/right-triangle-calculator-pythagorean-theorem",
+     "domain": "www.firgelliauto.com",
+     "title": "Right Triangle Calculator — Pythagorean Theorem",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.size.ly/calculator/right-triangle-calculator",
+     "domain": "www.size.ly",
+     "title": "right triangle calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://piday.org/calculators/right-triangle-calculator",
+     "domain": "piday.org",
+     "title": "Pi Day logo Pi Day logo",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://es.wolframalpha.com/calculators/mathematics-plane-geometry-triangles-sides-of-a-right-triangle-calculator",
+     "domain": "es.wolframalpha.com",
+     "title": "• Overview",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://maint.oli.org/review/right-angle-triangle-calculator-2",
+     "domain": "maint.oli.org",
+     "title": "Right Angle Triangle Calculator - maint",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://www.firgelliauto.com/es/blogs/engineering-calculators/right-triangle-calculator-pythagorean-theorem",
+     "domain": "www.firgelliauto.com",
+     "title": "Right Triangle Calculator — Pythagorean Theorem",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://mathcheck.net/calculators/right-triangle",
+     "domain": "mathcheck.net",
+     "title": "right triangle",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://mathcracker.com/right-triangle-calculator",
+     "domain": "mathcracker.com",
+     "title": "Right Triangle Calculator",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://www.easyunitconverter.com/right-triangle-calculator",
+     "domain": "www.easyunitconverter.com",
+     "title": "Right Triangle Calculator — Solve Any Right Triangle",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "right-triangle-calculator",
+ "page": "right-triangle-calculator",
+ "category": "math",
+ "name": "Right Triangle Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T07:49:30.696Z",
+ "topCompetitors": [
+  {
+   "domain": "pearson.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://www.pearson.com/channels/it-IT/calculators/right-triangle-calculator",
+    "https://www.pearson.com/channels/calculators/right-triangle-calculator"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 3,
+   "keywords": 2,
+   "urls": [
+    "https://www.calculator.net/right-triangle-calculator",
+    "https://www.calculator.net/right-triangle-calculator.html"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 9,
+   "keywords": 2,
+   "urls": [
+    "https://www.omnicalculator.com/math/right-triangle",
+    "https://www.omnicalculator.com/math/right-triangle-side-angle?c=CAD"
+   ]
+  },
+  {
+   "domain": "firgelliauto.com",
+   "bestRank": 12,
+   "keywords": 2,
+   "urls": [
+    "https://www.firgelliauto.com/en-de/blogs/engineering-calculators/right-triangle-calculator-pythagorean-theorem",
+    "https://www.firgelliauto.com/es/blogs/engineering-calculators/right-triangle-calculator-pythagorean-theorem"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://inchcalculator.com/right-triangle-calculator"
+   ]
+  },
+  {
+   "domain": "calculatorsoup.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculatorsoup.com/calculators/geometry-plane/triangles-right.php"
+   ]
+  },
+  {
+   "domain": "geeksforgeeks.org",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.geeksforgeeks.org/?p=1221146"
+   ]
+  },
+  {
+   "domain": "miniwebtool.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.miniwebtool.com/right-triangle-calculator/"
+   ]
+  },
+  {
+   "domain": "calculator.io",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://calculator.io/right-triangle-calculator"
+   ]
+  },
+  {
+   "domain": "size.ly",
+   "bestRank": 13,
+   "keywords": 1,
+   "urls": [
+    "https://www.size.ly/calculator/right-triangle-calculator"
+   ]
+  }
+ ]
+}

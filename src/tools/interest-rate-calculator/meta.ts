@@ -9,7 +9,7 @@ const meta: ToolMeta = {
   category: "finance",
   primaryKw: "interest rate calculator",
   keywords: ["calculate interest rate", "monthly interest calculator", "interest rate calculator savings", "cd interest rate calculator", "effective annual rate", "nominal rate", "apr"],
-  related: ["payment-calculator", "apr-calculator", "apy-calculator", "compound-interest-calculator", "cd-calculator", "simple-interest-calculator"],
+  related: ["payment-calculator", "401k-calculator", "apr-calculator", "apy-calculator", "compound-interest-calculator", "cd-calculator", "simple-interest-calculator"],
   published: "2026-11-21",
   updated: "2026-11-21",
   icon: "📈",

@@ -15,11 +15,11 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 12 on policy hold).
 | 9 | 1 | live | Period Calculator | `period-calculator` | health | period calculator | 40500 | 16 | 56000 | 1 |
 | 10 | 1 | live | Random Number Generator | `random-number-generator` | math | random 4 digit number generator | 2900 | 24 | 119800 | 1 |
 | 11 | 2 | live | Cubic Yard Calculator | `cubic-yard-calculator` | construction | cubic yard calculator | 27100 | 18 | 70700 | 3 |
-| 12 | 2 | todo | Gravel & Stone Calculator | `gravel-and-stone-calculator` | construction | stone calculator | 12100 | 13 | 114400 | 1 |
-| 13 | 2 | todo | Army Body Fat Calculator | `army-body-fat-calculator` | health | army fitness calculator body fat | 12100 | 13 | 79500 | 1 |
-| 14 | 2 | todo | 401(k) Calculator | `401k-calculator` | finance | 401k calculator | 135000 | 26 | 164900 | 1 |
-| 15 | 2 | todo | Sand Calculator | `sand-calculator` | construction | sand calculator | 8100 | 9 | 18200 | 1 |
-| 16 | 2 | todo | Right Triangle Calculator | `right-triangle-calculator` | math | right triangle calculator | 27100 | 24 | 147500 | 1 |
+| 12 | 2 | live | Gravel & Stone Calculator | `gravel-and-stone-calculator` | construction | stone calculator | 12100 | 13 | 114400 | 1 |
+| 13 | 2 | live | Army Body Fat Calculator | `army-body-fat-calculator` | health | army fitness calculator body fat | 12100 | 13 | 79500 | 1 |
+| 14 | 2 | live | 401(k) Calculator | `401k-calculator` | finance | 401k calculator | 135000 | 26 | 164900 | 1 |
+| 15 | 2 | live | Sand Calculator | `sand-calculator` | construction | sand calculator | 8100 | 9 | 18200 | 1 |
+| 16 | 2 | live | Right Triangle Calculator | `right-triangle-calculator` | math | right triangle calculator | 27100 | 24 | 147500 | 1 |
 | 17 | 2 | todo | AP World History Score Calculator | `ap-world-history-score-calculator` | education | ap world calculator | 6600 | 4 | 17400 | 4 |
 | 18 | 2 | todo | GPA Calculator | `gpa-calculator` | education | gpa calculator for middle schoolers | 9900 | 19 | 1179100 | 1 |
 | 19 | 2 | todo | Square Footage Calculator | `square-footage-calculator` | construction | square footage calculator | 74000 | 31 | 627900 | 1 |

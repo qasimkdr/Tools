@@ -104,11 +104,13 @@
   },
   {
    "id": "gravel-and-stone-calculator",
-   "keyword": "stone calculator",
-   "vol": 12100,
-   "kd": 13,
-   "status": "needs-serp",
-   "pages": 0
+   "keyword": "gravel calculator",
+   "vol": 33100,
+   "kd": 25,
+   "status": "done",
+   "pages": 4,
+   "roadmapKeyword": "stone calculator",
+   "updatedAt": "2026-11-22T07:50:02.190Z"
   },
   {
    "id": "army-body-fat-calculator",
@@ -125,24 +127,27 @@
    "keyword": "401k calculator",
    "vol": 135000,
    "kd": 26,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "done",
+   "pages": 4,
+   "updatedAt": "2026-11-22T07:53:33.735Z"
   },
   {
    "id": "sand-calculator",
    "keyword": "sand calculator",
    "vol": 8100,
    "kd": 9,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "done",
+   "pages": 4,
+   "updatedAt": "2026-11-22T07:54:26.003Z"
   },
   {
    "id": "right-triangle-calculator",
    "keyword": "right triangle calculator",
    "vol": 27100,
    "kd": 24,
-   "status": "needs-serp",
-   "pages": 0
+   "status": "done",
+   "pages": 4,
+   "updatedAt": "2026-11-22T07:52:06.121Z"
   },
   {
    "id": "ap-world-history-score-calculator",

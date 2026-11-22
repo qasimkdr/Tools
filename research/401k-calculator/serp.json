@@ -1,0 +1,347 @@
+{
+ "keywords": {
+  "401k calculator": {
+   "fetchedAt": "2026-11-22T07:49:30.498Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 135000,
+   "fileKd": 26,
+   "fileIntent": "C",
+   "semrushCompetitor": {
+    "position": 1,
+    "url": "www.calculator.net/401k-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.nerdwallet.com/investing/calculators/401k-calculator",
+     "domain": "www.nerdwallet.com",
+     "title": "401(k) Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.nerdwallet.com/retirement/calculators/401k-calculator",
+     "domain": "www.nerdwallet.com",
+     "title": "401(k) Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://creditkarma.com/advice/i/credit-karma-guide-to-saving-for-retirement",
+     "domain": "creditkarma.com",
+     "title": "401k calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://learn.g2.com/401k-calculator?hsLang=en",
+     "domain": "learn.g2.com",
+     "title": "401(k) Calculator: Project Your Retirement Savings in Seconds",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.creditkarma.com/insights/i/irs-save-more-in-retirement-accounts-2019",
+     "domain": "www.creditkarma.com",
+     "title": "401k calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://bankrate.com/calculators/investing/401k-savings-calculator.aspx",
+     "domain": "bankrate.com",
+     "title": "401k savings calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.bankrate.com/calculators/retirement/401-k-retirement-calculator.aspx",
+     "domain": "www.bankrate.com",
+     "title": "401(k) retirement savings calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://dqydj.com/401k-calculator/",
+     "domain": "dqydj.com",
+     "title": "401(k) Calculator – How Much Will You Have Invested?",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://dqydj.com/?p=18143",
+     "domain": "dqydj.com",
+     "title": "401(k) Calculator – How Much Will You Have Invested?",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.moneygeek.com/financial-planning/investing/401k-calculator",
+     "domain": "www.moneygeek.com",
+     "title": "401(k) Calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.calculator.net/401k-calculator.html?ftag=YHF4eb9d17",
+     "domain": "www.calculator.net",
+     "title": "401K Calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://goodcalculators.com/401k-calculator/",
+     "domain": "goodcalculators.com",
+     "title": "401(k) Calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.westernsouthern.com/retirement/401k-calculator",
+     "domain": "www.westernsouthern.com",
+     "title": "Prepare for Retirement",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://www.omnicalculator.com/finance/401k",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://calculator.io/401k-calculator",
+     "domain": "calculator.io",
+     "title": "Financial Calculators",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://dinkytown.net/java/Retire401k.html",
+     "domain": "dinkytown.net",
+     "title": "[Skip to Content]",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://www.pimafederal.org/calculator/retire-401k",
+     "domain": "www.pimafederal.org",
+     "title": "retire 401k",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://www.macrotrends.net/tools/calculators/401k-retirement-calculator",
+     "domain": "www.macrotrends.net",
+     "title": "401K Retirement Calculator",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://www.financialmentor.com/?p=7060",
+     "domain": "www.financialmentor.com",
+     "title": "www.financialmentor.com",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://redwoodcu.org/ask-rcu/344",
+     "domain": "redwoodcu.org",
+     "title": "redwoodcu.org",
+     "description": null
+    }
+   ]
+  },
+  "401k calculator [restricted to accessible domains]": {
+   "fetchedAt": "2026-11-22T07:52:40.658Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch-restricted",
+   "rankNote": "order within a search limited to accessible domains — not a Google rank, not the open result list",
+   "fileVolume": 135000,
+   "fileKd": 26,
+   "fileIntent": "C",
+   "semrushCompetitor": {
+    "position": 1,
+    "url": "www.calculator.net/401k-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.calculator.net/401k-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "401K Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.nerdwallet.com/retirement/calculators/401k-calculator",
+     "domain": "www.nerdwallet.com",
+     "title": "401(k) Savings Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://smartasset.com/retirement/401k-calculator",
+     "domain": "smartasset.com",
+     "title": "401(k) Calculator - How Much Could Your 401(k) Be Worth?",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.nerdwallet.com/retirement/calculators/401k-calculator-2",
+     "domain": "www.nerdwallet.com",
+     "title": "401(k) Savings Calculator - NerdWallet",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.omnicalculator.com/finance/401k",
+     "domain": "www.omnicalculator.com",
+     "title": "401k Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.calculator.io/401k-calculator/",
+     "domain": "www.calculator.io",
+     "title": "401K Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.nerdwallet.com/investing/calculators/retirement-calculator",
+     "domain": "www.nerdwallet.com",
+     "title": "Retirement Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://smartasset.com/retirement/what-happens-to-money-in-a-401k-that-isnt-vested",
+     "domain": "smartasset.com",
+     "title": "What Happens to Money in a 401(k) That Isn't Vested?",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://smartasset.com/retirement/how-much-can-i-contribute-to-my-solo-401k",
+     "domain": "smartasset.com",
+     "title": "Solo 401(k) Contribution Limits",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "401k-calculator",
+ "page": "401k-calculator",
+ "category": "finance",
+ "name": "401(k) Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T07:52:40.658Z",
+ "topCompetitors": [
+  {
+   "domain": "nerdwallet.com",
+   "bestRank": 1,
+   "keywords": 5,
+   "urls": [
+    "https://www.nerdwallet.com/investing/calculators/401k-calculator",
+    "https://www.nerdwallet.com/retirement/calculators/401k-calculator",
+    "https://www.nerdwallet.com/retirement/calculators/401k-calculator-2",
+    "https://www.nerdwallet.com/investing/calculators/retirement-calculator"
+   ]
+  },
+  {
+   "domain": "smartasset.com",
+   "bestRank": 3,
+   "keywords": 3,
+   "urls": [
+    "https://smartasset.com/retirement/401k-calculator",
+    "https://smartasset.com/retirement/what-happens-to-money-in-a-401k-that-isnt-vested",
+    "https://smartasset.com/retirement/how-much-can-i-contribute-to-my-solo-401k"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://www.calculator.net/401k-calculator.html?ftag=YHF4eb9d17",
+    "https://www.calculator.net/401k-calculator.html"
+   ]
+  },
+  {
+   "domain": "creditkarma.com",
+   "bestRank": 3,
+   "keywords": 2,
+   "urls": [
+    "https://creditkarma.com/advice/i/credit-karma-guide-to-saving-for-retirement",
+    "https://www.creditkarma.com/insights/i/irs-save-more-in-retirement-accounts-2019"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 5,
+   "keywords": 2,
+   "urls": [
+    "https://www.omnicalculator.com/finance/401k"
+   ]
+  },
+  {
+   "domain": "bankrate.com",
+   "bestRank": 6,
+   "keywords": 2,
+   "urls": [
+    "https://bankrate.com/calculators/investing/401k-savings-calculator.aspx",
+    "https://www.bankrate.com/calculators/retirement/401-k-retirement-calculator.aspx"
+   ]
+  },
+  {
+   "domain": "calculator.io",
+   "bestRank": 6,
+   "keywords": 2,
+   "urls": [
+    "https://calculator.io/401k-calculator",
+    "https://www.calculator.io/401k-calculator/"
+   ]
+  },
+  {
+   "domain": "dqydj.com",
+   "bestRank": 8,
+   "keywords": 2,
+   "urls": [
+    "https://dqydj.com/401k-calculator/",
+    "https://dqydj.com/?p=18143"
+   ]
+  },
+  {
+   "domain": "g2.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://learn.g2.com/401k-calculator?hsLang=en"
+   ]
+  },
+  {
+   "domain": "moneygeek.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://www.moneygeek.com/financial-planning/investing/401k-calculator"
+   ]
+  }
+ ]
+}

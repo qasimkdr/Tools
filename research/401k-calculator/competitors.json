@@ -1,0 +1,1395 @@
+{
+ "pages": {
+  "https://www.calculator.net/401k-calculator.html?ftag=YHF4eb9d17": {
+   "url": "https://www.calculator.net/401k-calculator.html?ftag=YHF4eb9d17",
+   "finalUrl": "https://www.calculator.net/401k-calculator.html?ftag=YHF4eb9d17",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T07:50:24.941Z",
+   "title": "401K Calculator",
+   "metaDescription": "Free 401K calculator to plan and estimate a 401K balance and payout amount in retirement or help with early withdrawals or maximizing employer match.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "401K Calculator"
+   ],
+   "h2": [
+    "401(k) Early Withdrawal Costs Calculator",
+    "Maximize Employer 401(k) Match Calculator"
+   ],
+   "h3": [
+    "401(k) Information",
+    "General Pros and Cons of a 401(k)",
+    "A 401(k) is a Defined Contribution Plan",
+    "401(k) Investments",
+    "Employer Match",
+    "Early Withdrawal",
+    "401(k) Distributions in Retirement",
+    "Required Minimum Distributions",
+    "Self-Directed 401(k)",
+    "Roth 401(k)"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "401K Calculator"
+    },
+    {
+     "level": 2,
+     "text": "401(k) Early Withdrawal Costs Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Maximize Employer 401(k) Match Calculator"
+    },
+    {
+     "level": 3,
+     "text": "401(k) Information"
+    },
+    {
+     "level": 3,
+     "text": "General Pros and Cons of a 401(k)"
+    },
+    {
+     "level": 3,
+     "text": "A 401(k) is a Defined Contribution Plan"
+    },
+    {
+     "level": 3,
+     "text": "401(k) Investments"
+    },
+    {
+     "level": 3,
+     "text": "Employer Match"
+    },
+    {
+     "level": 3,
+     "text": "Early Withdrawal"
+    },
+    {
+     "level": 3,
+     "text": "401(k) Distributions in Retirement"
+    },
+    {
+     "level": 3,
+     "text": "Required Minimum Distributions"
+    },
+    {
+     "level": 3,
+     "text": "Self-Directed 401(k)"
+    },
+    {
+     "level": 3,
+     "text": "Roth 401(k)"
+    }
+   ],
+   "wordCount": 3539,
+   "avgSentenceWords": 23,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "tax",
+     "weight": 32
+    },
+    {
+     "term": "employer",
+     "weight": 28
+    },
+    {
+     "term": "plan",
+     "weight": 28
+    },
+    {
+     "term": "retirement",
+     "weight": 25
+    },
+    {
+     "term": "contributions",
+     "weight": 24
+    },
+    {
+     "term": "roth",
+     "weight": 18
+    },
+    {
+     "term": "plans",
+     "weight": 18
+    },
+    {
+     "term": "contribution",
+     "weight": 17
+    },
+    {
+     "term": "year",
+     "weight": 17
+    },
+    {
+     "term": "funds",
+     "weight": 17
+    },
+    {
+     "term": "age",
+     "weight": 16
+    },
+    {
+     "term": "have",
+     "weight": 16
+    },
+    {
+     "term": "match",
+     "weight": 15
+    },
+    {
+     "term": "distributions",
+     "weight": 14
+    },
+    {
+     "term": "employers",
+     "weight": 14
+    },
+    {
+     "term": "employee",
+     "weight": 14
+    },
+    {
+     "term": "limit",
+     "weight": 13
+    },
+    {
+     "term": "penalty",
+     "weight": 13
+    },
+    {
+     "term": "after",
+     "weight": 13
+    },
+    {
+     "term": "percentage",
+     "weight": 12
+    },
+    {
+     "term": "employer match",
+     "weight": 12
+    },
+    {
+     "term": "roth ira",
+     "weight": 12
+    },
+    {
+     "term": "ira",
+     "weight": 12
+    },
+    {
+     "term": "annual",
+     "weight": 11
+    },
+    {
+     "term": "early",
+     "weight": 11
+    },
+    {
+     "term": "amount",
+     "weight": 11
+    },
+    {
+     "term": "certain",
+     "weight": 11
+    },
+    {
+     "term": "account",
+     "weight": 11
+    },
+    {
+     "term": "tax deferred",
+     "weight": 11
+    },
+    {
+     "term": "roth 401",
+     "weight": 11
+    }
+   ],
+   "claims": [
+    "Option 2: Rollover It is also possible to roll over a 401k to an IRA or another employer's plan."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 5,
+   "lists": 6,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "age",
+    "income",
+    "balance",
+    "contribution",
+    "ematch",
+    "ematchend",
+    "retirementage",
+    "lifeexpectancy",
+    "incomeincrease",
+    "rate",
+    "inflation",
+    "withdrawamt",
+    "fedtax",
+    "statetax",
+    "localtax",
+    "Yes",
+    "No",
+    "Yes",
+    "No",
+    "Yes",
+    "No",
+    "Yes",
+    "No",
+    "age",
+    "income",
+    "ematch",
+    "ematchend",
+    "ematch2",
+    "ematchend2"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 50,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 32,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 31,
+    "external": 0,
+    "contentInternal": 31,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "financial",
+     "401k calculator",
+     "Retirement Calculator",
+     "Roth IRA Calculator",
+     "Annuity Payout Calculator",
+     "Pension Calculator",
+     "Financial Calculators",
+     "Mortgage",
+     "Loan",
+     "Auto Loan",
+     "Interest",
+     "Payment",
+     "Retirement",
+     "Amortization",
+     "Investment",
+     "Currency",
+     "Inflation",
+     "Finance"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/401k-calculator.html",
+     "https://www.calculator.net/retirement-calculator.html",
+     "https://www.calculator.net/roth-ira-calculator.html",
+     "https://www.calculator.net/annuity-payout-calculator.html",
+     "https://www.calculator.net/pension-calculator.html",
+     "https://www.calculator.net/mortgage-calculator.html",
+     "https://www.calculator.net/loan-calculator.html",
+     "https://www.calculator.net/auto-loan-calculator.html",
+     "https://www.calculator.net/interest-calculator.html",
+     "https://www.calculator.net/payment-calculator.html",
+     "https://www.calculator.net/amortization-calculator.html",
+     "https://www.calculator.net/investment-calculator.html",
+     "https://www.calculator.net/currency-calculator.html",
+     "https://www.calculator.net/inflation-calculator.html",
+     "https://www.calculator.net/finance-calculator.html",
+     "https://www.calculator.net/mortgage-payoff-calculator.html",
+     "https://www.calculator.net/tax-calculator.html",
+     "https://www.calculator.net/compound-interest-calculator.html",
+     "https://www.calculator.net/salary-calculator.html",
+     "https://www.calculator.net/interest-rate-calculator.html",
+     "https://www.calculator.net/sales-tax-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/finance/401k": {
+   "url": "https://www.omnicalculator.com/finance/401k",
+   "finalUrl": "https://www.omnicalculator.com/finance/401k",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T07:50:33.778Z",
+   "title": "401k Calculator",
+   "metaDescription": "The 401k calculator lets you assess the final balance in your 401k savings account and how long the annuity will last.",
+   "canonical": "https://www.omnicalculator.com/finance/401k",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "401k Calculator"
+   ],
+   "h2": [
+    "What is a 401k?",
+    "401k benefits: How does 401k work?",
+    "401k matching & 401k vesting period",
+    "Omni's 401k calculator",
+    "Advanced usage of the 401k calculator and results",
+    "401k contributions limits. How much can I contribute to my 401k?",
+    "Self-directed 401k",
+    "How much to contribute to 401k",
+    "401k withdrawal age: When can you withdraw from 401k?",
+    "Early withdrawal & 401k penalty",
+    "401k withdrawal — taking money out of 401k",
+    "Average 401k balance & average 401k return",
+    "Disclaimer"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "401k Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is a 401k?"
+    },
+    {
+     "level": 2,
+     "text": "401k benefits: How does 401k work?"
+    },
+    {
+     "level": 2,
+     "text": "401k matching & 401k vesting period"
+    },
+    {
+     "level": 2,
+     "text": "Omni's 401k calculator"
+    },
+    {
+     "level": 2,
+     "text": "Advanced usage of the 401k calculator and results"
+    },
+    {
+     "level": 2,
+     "text": "401k contributions limits. How much can I contribute to my 401k?"
+    },
+    {
+     "level": 2,
+     "text": "Self-directed 401k"
+    },
+    {
+     "level": 2,
+     "text": "How much to contribute to 401k"
+    },
+    {
+     "level": 2,
+     "text": "401k withdrawal age: When can you withdraw from 401k?"
+    },
+    {
+     "level": 2,
+     "text": "Early withdrawal & 401k penalty"
+    },
+    {
+     "level": 2,
+     "text": "401k withdrawal — taking money out of 401k"
+    },
+    {
+     "level": 2,
+     "text": "Average 401k balance & average 401k return"
+    },
+    {
+     "level": 2,
+     "text": "Disclaimer"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 2061,
+   "avgSentenceWords": 18,
+   "faqs": [
+    "What is a 401k?",
+    "401k benefits: How does 401k work?",
+    "401k contributions limits. How much can I contribute to my 401k?",
+    "401k withdrawal age: When can you withdraw from 401k?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "401k",
+     "weight": 73
+    },
+    {
+     "term": "money",
+     "weight": 27
+    },
+    {
+     "term": "retirement",
+     "weight": 21
+    },
+    {
+     "term": "withdrawal",
+     "weight": 21
+    },
+    {
+     "term": "calculator",
+     "weight": 19
+    },
+    {
+     "term": "account",
+     "weight": 16
+    },
+    {
+     "term": "employer",
+     "weight": 15
+    },
+    {
+     "term": "age",
+     "weight": 14
+    },
+    {
+     "term": "contributions",
+     "weight": 14
+    },
+    {
+     "term": "matching",
+     "weight": 13
+    },
+    {
+     "term": "you'll",
+     "weight": 13
+    },
+    {
+     "term": "balance",
+     "weight": 12
+    },
+    {
+     "term": "tax",
+     "weight": 12
+    },
+    {
+     "term": "salary",
+     "weight": 11
+    },
+    {
+     "term": "contribution",
+     "weight": 11
+    },
+    {
+     "term": "rate",
+     "weight": 11
+    },
+    {
+     "term": "return",
+     "weight": 11
+    },
+    {
+     "term": "much",
+     "weight": 11
+    },
+    {
+     "term": "contribute",
+     "weight": 11
+    },
+    {
+     "term": "withdraw",
+     "weight": 10
+    },
+    {
+     "term": "pay",
+     "weight": 10
+    },
+    {
+     "term": "have",
+     "weight": 10
+    },
+    {
+     "term": "401k withdrawal",
+     "weight": 9
+    },
+    {
+     "term": "average 401k",
+     "weight": 9
+    },
+    {
+     "term": "penalty",
+     "weight": 9
+    },
+    {
+     "term": "need",
+     "weight": 9
+    },
+    {
+     "term": "plan",
+     "weight": 8
+    },
+    {
+     "term": "401k calculator",
+     "weight": 8
+    },
+    {
+     "term": "401k balance",
+     "weight": 8
+    },
+    {
+     "term": "limit",
+     "weight": 7
+    }
+   ],
+   "claims": [
+    "We'll also check what is the average 401k return and average 401k balance by age.",
+    "An employer usually sets it up; otherwise, it's called a self-directed 401k.",
+    "The money that goes to 401k is deducted from your paycheck before taxation.",
+    "Employers can offer 401k as a job benefit.",
+    "Matching is the major advantage of 401k.",
+    "How exactly the matching works depends on the given 401k plan.",
+    "There are two types of 401k matching: 100% match — each dollar you contribute to 401k is followed by a dollar from your employer, up to a specific limit.",
+    "For example, if you earn $10k monthly and pay 3% of your salary — $300 — into 401k , your company pays in another $300.",
+    "401k vesting period is the time you have to work for a company before the matched contributions are fully yours.",
+    "If you resign before the end of the 401k vesting period, the employer may keep some of the contributions they've made."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 7,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Withdrawal frequency"
+   ],
+   "selectOptionsSample": "select yearly semi-annually quarterly monthly weekly",
+   "unitToggle": false,
+   "wordsBeforeTool": 35,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Rita Rain",
+    "published": "2021-02-12T15:25:43.672Z",
+    "modified": "2026-09-01T20:47:35.892Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 1433,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 28,
+    "external": 1,
+    "contentInternal": 12,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "403b calculator",
+     "annuity calculator",
+     "the early withdrawal penalty",
+     "maximum 401k contributions",
+     "Employer match",
+     "rate of return",
+     "retirement withdrawal calculator",
+     "IRA calculator",
+     "rule of 72 calculator",
+     "Prorated Rent Calculator",
+     "Emergency Fund Calculator",
+     "Full-time Equivalent (FTE) Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/finance/403b",
+     "https://www.omnicalculator.com/finance/annuity",
+     "https://www.omnicalculator.com/finance/401k#early-withdrawal-401k-penalty",
+     "https://www.omnicalculator.com/finance/401k#401k-contributions-limits.-how-much-can-i-contribute-to-my-401k",
+     "https://www.omnicalculator.com/finance/401k#401k-matching-401k-vesting-period",
+     "https://www.omnicalculator.com/finance/rate-of-return",
+     "https://www.omnicalculator.com/finance/retirement-withdrawal",
+     "https://www.omnicalculator.com/finance/ira",
+     "https://www.omnicalculator.com/finance/rule-of-72",
+     "https://www.omnicalculator.com/finance/prorated-rent",
+     "https://www.omnicalculator.com/finance/emergency-fund",
+     "https://www.omnicalculator.com/finance/full-time-equivalent"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.io/401k-calculator/": {
+   "url": "https://www.calculator.io/401k-calculator/",
+   "finalUrl": "https://www.calculator.io/401k-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.calculator.io",
+   "fetchedAt": "2026-11-22T07:53:25.905Z",
+   "title": "401K Calculator",
+   "metaDescription": "Maximize your retirement savings with our free 401k calculator. Project account growth, estimate future balances, and plan for a secure financial future.",
+   "canonical": "https://www.calculator.io/401k-calculator/",
+   "robotsMeta": "index, follow",
+   "lang": "en",
+   "h1": [
+    "401K Calculator"
+   ],
+   "h2": [
+    "Leveraging a 401k for Retirement Savings",
+    "Table of Contents",
+    "Example",
+    "401k Contribution Limits",
+    "The Math Behind 401k Projections",
+    "401k Contribution Formula",
+    "401k Growth Formula",
+    "Early Withdrawal Calculations",
+    "How to Use the 401k Calculator",
+    "(Optional) 401k Early Withdrawal Costs Calculator",
+    "(Optional) Maximize Employer 401k Match Calculator",
+    "Real Example",
+    "Key Benefits and Helpful Tips"
+   ],
+   "h3": [
+    "Key Benefits:",
+    "Helpful Tips:"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "401K Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Leveraging a 401k for Retirement Savings"
+    },
+    {
+     "level": 2,
+     "text": "Table of Contents"
+    },
+    {
+     "level": 2,
+     "text": "Example"
+    },
+    {
+     "level": 2,
+     "text": "401k Contribution Limits"
+    },
+    {
+     "level": 2,
+     "text": "The Math Behind 401k Projections"
+    },
+    {
+     "level": 2,
+     "text": "401k Contribution Formula"
+    },
+    {
+     "level": 2,
+     "text": "401k Growth Formula"
+    },
+    {
+     "level": 2,
+     "text": "Early Withdrawal Calculations"
+    },
+    {
+     "level": 2,
+     "text": "How to Use the 401k Calculator"
+    },
+    {
+     "level": 2,
+     "text": "(Optional) 401k Early Withdrawal Costs Calculator"
+    },
+    {
+     "level": 2,
+     "text": "(Optional) Maximize Employer 401k Match Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Real Example"
+    },
+    {
+     "level": 2,
+     "text": "Key Benefits and Helpful Tips"
+    },
+    {
+     "level": 3,
+     "text": "Key Benefits:"
+    },
+    {
+     "level": 3,
+     "text": "Helpful Tips:"
+    }
+   ],
+   "wordCount": 2382,
+   "avgSentenceWords": 25,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "calculator",
+     "weight": 33
+    },
+    {
+     "term": "retirement",
+     "weight": 32
+    },
+    {
+     "term": "employer",
+     "weight": 23
+    },
+    {
+     "term": "match",
+     "weight": 23
+    },
+    {
+     "term": "employer match",
+     "weight": 20
+    },
+    {
+     "term": "401k",
+     "weight": 19
+    },
+    {
+     "term": "contribution",
+     "weight": 18
+    },
+    {
+     "term": "calculator finance",
+     "weight": 18
+    },
+    {
+     "term": "contributions",
+     "weight": 17
+    },
+    {
+     "term": "annual",
+     "weight": 16
+    },
+    {
+     "term": "interest",
+     "weight": 16
+    },
+    {
+     "term": "future",
+     "weight": 15
+    },
+    {
+     "term": "compound",
+     "weight": 15
+    },
+    {
+     "term": "compound interest",
+     "weight": 14
+    },
+    {
+     "term": "future value",
+     "weight": 14
+    },
+    {
+     "term": "savings",
+     "weight": 12
+    },
+    {
+     "term": "growth",
+     "weight": 12
+    },
+    {
+     "term": "ask",
+     "weight": 12
+    },
+    {
+     "term": "salary",
+     "weight": 12
+    },
+    {
+     "term": "rate",
+     "weight": 12
+    },
+    {
+     "term": "finance",
+     "weight": 12
+    },
+    {
+     "term": "inflation",
+     "weight": 11
+    },
+    {
+     "term": "value",
+     "weight": 11
+    },
+    {
+     "term": "total",
+     "weight": 11
+    },
+    {
+     "term": "current",
+     "weight": 10
+    },
+    {
+     "term": "years",
+     "weight": 10
+    },
+    {
+     "term": "balance",
+     "weight": 10
+    },
+    {
+     "term": "formula",
+     "weight": 10
+    },
+    {
+     "term": "retirement savings",
+     "weight": 9
+    },
+    {
+     "term": "instant answers",
+     "weight": 9
+    }
+   ],
+   "claims": [
+    "401K Calculator Maximize your retirement savings with our free 401k calculator.",
+    "401k Contribution Limits The IRS caps how much can go into a 401(k) each year, and the caps move with inflation.",
+    "The Math Behind 401k Projections Projecting the growth of a 401(k) account is similar to calculating returns for other investment vehicles, with one major exception: you must factor in the employer match.",
+    "401k Growth Formula Grasping how your 401(k) investments compound over time is the cornerstone of effective retirement planning.",
+    "How to Use the 401k Calculator Navigating our 401(k) retirement calculator is fast and intuitive.",
+    "(Optional) Maximize Employer 401k Match Calculator As an employee, maximizing the \"free money\" offered through your company's 401(k) match should be a top financial priority."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "BreadcrumbList",
+    "WebApplication"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 8,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Link"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 106,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": "2026-07-27T16:53:51+05:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 90,
+    "adNetworks": [
+     "adsense"
+    ],
+    "adSlots": 6,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 61,
+    "external": 1,
+    "contentInternal": 21,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Compound Interest Calculator Finance",
+     "Retirement Calculator Finance",
+     "Investment Calculator Finance",
+     "Roth IRA Calculator Finance",
+     "Savings Calculator Finance",
+     "Annuity Calculator Finance",
+     "Future Value Calculator Finance",
+     "Example",
+     "401k Contribution Limits",
+     "The Math Behind 401k Projections",
+     "401k Contribution Formula",
+     "401k Growth Formula",
+     "Early Withdrawal Calculations",
+     "How to Use the 401k Calculator",
+     "(Optional) 401k Early Withdrawal Costs Calculator",
+     "(Optional) Maximize Employer 401k Match Calculator",
+     "Real Example",
+     "Key Benefits and Helpful Tips",
+     "Key Benefits:",
+     "Helpful Tips:"
+    ],
+    "internalSample": [
+     "https://www.calculator.io/ask-ai/",
+     "https://www.calculator.io/compound-interest-calculator/",
+     "https://www.calculator.io/retirement-calculator/",
+     "https://www.calculator.io/investment-calculator/",
+     "https://www.calculator.io/roth-ira-calculator/",
+     "https://www.calculator.io/savings-calculator/",
+     "https://www.calculator.io/annuity-calculator/",
+     "https://www.calculator.io/future-value-calculator/",
+     "https://www.calculator.io/401k-calculator/#example-1",
+     "https://www.calculator.io/401k-calculator/#401k-contribution-limits-2",
+     "https://www.calculator.io/401k-calculator/#the-math-behind-401k-projections-3",
+     "https://www.calculator.io/401k-calculator/#401k-contribution-formula-4",
+     "https://www.calculator.io/401k-calculator/#401k-growth-formula-5",
+     "https://www.calculator.io/401k-calculator/#early-withdrawal-calculations-6",
+     "https://www.calculator.io/401k-calculator/#how-to-use-the-401k-calculator-7",
+     "https://www.calculator.io/401k-calculator/#optional-401k-early-withdrawal-costs-calculator-8",
+     "https://www.calculator.io/401k-calculator/#optional-maximize-employer-401k-match-calculator-9",
+     "https://www.calculator.io/401k-calculator/#real-example-10",
+     "https://www.calculator.io/401k-calculator/#key-benefits-and-helpful-tips-11",
+     "https://www.calculator.io/401k-calculator/#key-benefits-12",
+     "https://www.calculator.io/401k-calculator/#helpful-tips-13"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.smartasset.com/retirement/401k-calculator": {
+   "url": "https://www.smartasset.com/retirement/401k-calculator",
+   "finalUrl": "https://www.smartasset.com/retirement/401k-calculator",
+   "mode": "offline-parse",
+   "domain": "www.smartasset.com",
+   "fetchedAt": "2026-11-22T07:54:47.856Z",
+   "title": "401(k) Calculator - How Much Could Your 401(k) Be Worth?",
+   "metaDescription": "Use SmartAsset's 401(k) calculator to figure out how your income, employer matches, taxes and other factors will affect how your 401(k) grows over time.",
+   "canonical": "https://smartasset.com/retirement/401k-calculator",
+   "robotsMeta": "index",
+   "lang": "en",
+   "h1": [],
+   "h2": [
+    "401(k) Guide",
+    "How a 401(k) Plan Works",
+    "Understanding a Defined Contribution Plan",
+    "Important 401(k) Terms to Know",
+    "401(k) Rules to Know",
+    "What Impacts Your 401(k) Growth Over Time?",
+    "Pros and Cons of Using a 401(k)",
+    "How Taxes and Employer Matches Affect a 401(k)",
+    "401(k) FAQs",
+    "Tips for Retirement Planning"
+   ],
+   "h3": [
+    "Your projected 401(k) balance at age 67 is"
+   ],
+   "outline": [
+    {
+     "level": 3,
+     "text": "Your projected 401(k) balance at age 67 is"
+    },
+    {
+     "level": 2,
+     "text": "401(k) Guide"
+    },
+    {
+     "level": 2,
+     "text": "How a 401(k) Plan Works"
+    },
+    {
+     "level": 2,
+     "text": "Understanding a Defined Contribution Plan"
+    },
+    {
+     "level": 2,
+     "text": "Important 401(k) Terms to Know"
+    },
+    {
+     "level": 2,
+     "text": "401(k) Rules to Know"
+    },
+    {
+     "level": 2,
+     "text": "What Impacts Your 401(k) Growth Over Time?"
+    },
+    {
+     "level": 2,
+     "text": "Pros and Cons of Using a 401(k)"
+    },
+    {
+     "level": 2,
+     "text": "How Taxes and Employer Matches Affect a 401(k)"
+    },
+    {
+     "level": 2,
+     "text": "401(k) FAQs"
+    },
+    {
+     "level": 2,
+     "text": "Tips for Retirement Planning"
+    }
+   ],
+   "wordCount": 3289,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "Do you need help planning for your retirement?",
+    "What Impacts Your 401(k) Growth Over Time?",
+    "How Much Can I Contribute to My 401(k)?",
+    "When Can I Withdraw Money From My 401(k)?",
+    "What Happens to My 401(k) if I Change Jobs?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "retirement",
+     "weight": 42
+    },
+    {
+     "term": "tax",
+     "weight": 29
+    },
+    {
+     "term": "contributions",
+     "weight": 27
+    },
+    {
+     "term": "employer",
+     "weight": 27
+    },
+    {
+     "term": "plan",
+     "weight": 27
+    },
+    {
+     "term": "account",
+     "weight": 24
+    },
+    {
+     "term": "income",
+     "weight": 22
+    },
+    {
+     "term": "money",
+     "weight": 22
+    },
+    {
+     "term": "financial",
+     "weight": 21
+    },
+    {
+     "term": "savings",
+     "weight": 21
+    },
+    {
+     "term": "contribution",
+     "weight": 14
+    },
+    {
+     "term": "funds",
+     "weight": 14
+    },
+    {
+     "term": "retirement savings",
+     "weight": 14
+    },
+    {
+     "term": "investment",
+     "weight": 13
+    },
+    {
+     "term": "before",
+     "weight": 13
+    },
+    {
+     "term": "year",
+     "weight": 12
+    },
+    {
+     "term": "age",
+     "weight": 12
+    },
+    {
+     "term": "help",
+     "weight": 12
+    },
+    {
+     "term": "match",
+     "weight": 11
+    },
+    {
+     "term": "long term",
+     "weight": 11
+    },
+    {
+     "term": "contribute",
+     "weight": 10
+    },
+    {
+     "term": "term",
+     "weight": 10
+    },
+    {
+     "term": "have",
+     "weight": 10
+    },
+    {
+     "term": "make",
+     "weight": 10
+    },
+    {
+     "term": "matching",
+     "weight": 10
+    },
+    {
+     "term": "amount",
+     "weight": 10
+    },
+    {
+     "term": "balance",
+     "weight": 9
+    },
+    {
+     "term": "defined contribution",
+     "weight": 9
+    },
+    {
+     "term": "long",
+     "weight": 9
+    },
+    {
+     "term": "potential",
+     "weight": 8
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 4,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [
+    "Birth Year",
+    "Marital Status",
+    "Current 401(k) Balance",
+    "Planned Annual 401(k) Contribution",
+    "Current Annual Income",
+    "Desired Retirement Age"
+   ],
+   "selectOptionsSample": "single married",
+   "unitToggle": false,
+   "wordsBeforeTool": 5,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": null,
+    "published": "2026-10-08T17:40:46.000Z",
+    "modified": "2026-10-19T14:14:00.000Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 229,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 155,
+    "external": 11,
+    "contentInternal": 25,
+    "contentExternal": 2,
+    "internalAnchors": [
+     "Get Started Now",
+     "Retirement Calculator",
+     "saving for retirement",
+     "401(k) plan",
+     "taxable income",
+     "dividends",
+     "capital gains",
+     "retirement savings",
+     "defined contribution plan",
+     "tax bracket",
+     "defined benefit plan",
+     "maximum amount",
+     "expense ratios",
+     "RMD",
+     "retirement planning",
+     "super catch-up contributions",
+     "required minimum distributions (RMDs)",
+     "withdrawal",
+     "Regular contributions",
+     "Diversifying your portfolio"
+    ],
+    "internalSample": [
+     "https://smartasset.com/retirement/find-a-financial-planner?utm_source=smartasset&utm_campaign=401kcalc",
+     "https://smartasset.com/retirement/retirement-calculator",
+     "https://smartasset.com/retirement/find-a-financial-planner",
+     "https://smartasset.com/taxes/federal-tax-calculator",
+     "https://smartasset.com/investing/all-about-dividend-investing",
+     "https://smartasset.com/investing/capital-gains-tax-calculator",
+     "https://smartasset.com/retirement/retirement-taxes",
+     "https://smartasset.com/retirement/what-is-a-defined-contribution-plan",
+     "https://smartasset.com/taxes/current-federal-income-tax-brackets",
+     "https://smartasset.com/retirement/what-is-a-defined-benefit-plan",
+     "https://smartasset.com/retirement/maximum-401k-contributions",
+     "https://smartasset.com/investing/mutual-fund-expense-ratio",
+     "https://smartasset.com/retirement/calculate-rmd",
+     "https://smartasset.com/retirement/saving-money-for-retirement-tips",
+     "https://smartasset.com/retirement/super-catch-up-secure-2-0",
+     "https://smartasset.com/retirement/all-about-401k-withdrawals",
+     "https://smartasset.com/retirement/how-much-should-you-contribute-to-your-401k",
+     "https://smartasset.com/investing/how-to-diversify-portfolio",
+     "https://smartasset.com/investing/investment-calculator",
+     "https://smartasset.com/retirement/401k-benefits",
+     "https://smartasset.com/investing/what-to-know-about-investing-in-taxable-accounts",
+     "https://smartasset.com/retirement/what-is-an-ira",
+     "https://smartasset.com/investing/asset-allocation-calculator",
+     "https://smartasset.com/checking-account/best-savings-accounts",
+     "https://smartasset.com/retirement/how-does-401k-match-work"
+    ],
+    "externalSample": [
+     "https://workplace.vanguard.com/content/iig-transformation/pdf/how-america-saves-2026.html",
+     "https://www.ici.org/system/files/2026-03/26-rpt-dcplan-profile23-401k.pdf"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.nerdwallet.com/investing/calculators/401k-calculator": [
+   "disallowed by robots.txt"
+  ],
+  "https://www.nerdwallet.com/retirement/calculators/401k-calculator": [
+   "disallowed by robots.txt"
+  ],
+  "https://creditkarma.com/advice/i/credit-karma-guide-to-saving-for-retirement": [
+   "unreachable (fetch failed)"
+  ],
+  "https://learn.g2.com/401k-calculator?hsLang=en": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.creditkarma.com/insights/i/irs-save-more-in-retirement-accounts-2019": [
+   "unreachable (fetch failed)"
+  ],
+  "https://bankrate.com/calculators/investing/401k-savings-calculator.aspx": [
+   "unreachable (fetch failed)"
+  ],
+  "https://dqydj.com/401k-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.moneygeek.com/financial-planning/investing/401k-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://goodcalculators.com/401k-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.westernsouthern.com/retirement/401k-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://calculator.io/401k-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://dinkytown.net/java/Retire401k.html": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.pimafederal.org/calculator/retire-401k": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.macrotrends.net/tools/calculators/401k-retirement-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://smartasset.com/retirement/401k-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.nerdwallet.com/retirement/calculators/401k-calculator-2": [
+   "disallowed by robots.txt"
+  ],
+  "https://smartasset.com/retirement/what-happens-to-money-in-a-401k-that-isnt-vested": [
+   "unreachable (fetch failed)"
+  ],
+  "https://smartasset.com/retirement/how-much-can-i-contribute-to-my-solo-401k": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

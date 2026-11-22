@@ -1,0 +1,257 @@
+{
+ "keywords": {
+  "gravel calculator": {
+   "fetchedAt": "2026-11-22T07:49:30.397Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 33100,
+   "fileKd": 25,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 1,
+    "url": "www.calculator.net/gravel-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://homeadvisor.com/r/gravel-calculator",
+     "domain": "homeadvisor.com",
+     "title": "gravel calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://homeadvisor.com/r/?p=45054",
+     "domain": "homeadvisor.com",
+     "title": "homeadvisor.com",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.calculator.net/gravel-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Gravel Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://eartheasy.com/pages/gravel-calculator",
+     "domain": "eartheasy.com",
+     "title": "gravel calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://omnicalculator.com/all/gravel",
+     "domain": "omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.omnicalculator.com/construction/gravel",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.calculatorsoup.com/calculators/construction/gravel-calculator.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "gravel calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://thecalculatorsite.com/construction/gravel-calculator.php",
+     "domain": "thecalculatorsite.com",
+     "title": "gravel calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.angi.com/articles/gravel-calculator.htm",
+     "domain": "www.angi.com",
+     "title": "gravel calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.gigacalculator.com/calculators/gravel-calculator.php",
+     "domain": "www.gigacalculator.com",
+     "title": "Gravel Calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://apps.apple.com/us/app/id1552365836",
+     "domain": "apps.apple.com",
+     "title": "Gravel Calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://inchcalculator.com/gravel",
+     "domain": "inchcalculator.com",
+     "title": "Gravel Calculator – Estimate Yards and Tons",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.homedit.com/calculators/gravel-calculator",
+     "domain": "www.homedit.com",
+     "title": "Gravel Calculator: How Much Do You Need?",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://apps.apple.com/us/app/-/id1504997190",
+     "domain": "apps.apple.com",
+     "title": "Gravel Calculator Plus",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://hellogravel.com/calculators/products/gravel/",
+     "domain": "hellogravel.com",
+     "title": "Loading the gravel calculator…",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://invoiceowl.com/gravel-calculator/",
+     "domain": "invoiceowl.com",
+     "title": "Free Contractor Tool",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://mathcheck.net/calculators/gravel-calculator",
+     "domain": "mathcheck.net",
+     "title": "Construction & Materials",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://ergeon.com/calculators/gravel-calculator",
+     "domain": "ergeon.com",
+     "title": "Gravel Calculator (No Ads)",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://hellogravel.com/calculators/",
+     "domain": "hellogravel.com",
+     "title": "hellogravel.com",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://ibran.com/pages/gravel-calculator",
+     "domain": "ibran.com",
+     "title": "Gravel Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "gravel-and-stone-calculator",
+ "page": "gravel-and-stone-calculator",
+ "category": "construction",
+ "name": "Gravel & Stone Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T07:49:30.397Z",
+ "topCompetitors": [
+  {
+   "domain": "homeadvisor.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://homeadvisor.com/r/gravel-calculator",
+    "https://homeadvisor.com/r/?p=45054"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 5,
+   "keywords": 2,
+   "urls": [
+    "https://omnicalculator.com/all/gravel",
+    "https://www.omnicalculator.com/construction/gravel"
+   ]
+  },
+  {
+   "domain": "apple.com",
+   "bestRank": 11,
+   "keywords": 2,
+   "urls": [
+    "https://apps.apple.com/us/app/id1552365836",
+    "https://apps.apple.com/us/app/-/id1504997190"
+   ]
+  },
+  {
+   "domain": "hellogravel.com",
+   "bestRank": 15,
+   "keywords": 2,
+   "urls": [
+    "https://hellogravel.com/calculators/products/gravel/",
+    "https://hellogravel.com/calculators/"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculator.net/gravel-calculator.html"
+   ]
+  },
+  {
+   "domain": "eartheasy.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://eartheasy.com/pages/gravel-calculator"
+   ]
+  },
+  {
+   "domain": "calculatorsoup.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculatorsoup.com/calculators/construction/gravel-calculator.php"
+   ]
+  },
+  {
+   "domain": "thecalculatorsite.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://thecalculatorsite.com/construction/gravel-calculator.php"
+   ]
+  },
+  {
+   "domain": "angi.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://www.angi.com/articles/gravel-calculator.htm"
+   ]
+  },
+  {
+   "domain": "gigacalculator.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://www.gigacalculator.com/calculators/gravel-calculator.php"
+   ]
+  }
+ ]
+}

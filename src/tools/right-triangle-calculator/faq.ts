@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How do you solve a right triangle?", a: "You need two values, at least one of them a side. With two sides, use the Pythagorean theorem for the third side and inverse trig (such as α = arctan(a/b)) for the angles. With a side and an angle, use sine, cosine or tangent (SOHCAHTOA) to find the other sides. The two acute angles always add up to 90°." },
+  { q: "What does SOHCAHTOA mean?", a: "It's a memory aid for the trig ratios in a right triangle: Sine = Opposite ÷ Hypotenuse, Cosine = Adjacent ÷ Hypotenuse, Tangent = Opposite ÷ Adjacent, where 'opposite' and 'adjacent' are relative to the angle you're working with." },
+  { q: "How do I find the missing side of a right triangle?", a: "If you know the other two sides, use a² + b² = c² (for a leg, a = √(c² − b²)). If you know one side and an angle, use trig: for example, opposite = hypotenuse × sin(angle), adjacent = hypotenuse × cos(angle)." },
+  { q: "What is an isosceles right triangle?", a: "A right triangle whose two legs are equal, so both acute angles are 45°. Its sides are in the ratio 1 : 1 : √2. With legs of 5, the hypotenuse is 5√2 ≈ 7.071 and the area is 12.5." },
+  { q: "Why can't I solve a right triangle from two angles?", a: "Angles alone fix the shape but not the size: a tiny and a huge 30-60-90 triangle have the same angles. You need at least one side length to get actual measurements." },
+  { q: "How is the area of a right triangle calculated?", a: "Area = ½ × leg a × leg b, because the two legs are perpendicular and act as base and height. A right triangle with legs 6 and 8 has area 24." },
+];

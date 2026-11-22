@@ -2,29 +2,14 @@
 import { Field, ResultCard, Segmented, Stat } from "@/components/calc/ui";
 import { useUrlState } from "@/lib/useUrlState";
 import { usd } from "@/lib/money";
+import UnitField from "@/components/calc/UnitField";
+import { toFt } from "@/lib/units";
 
-const TO_FT = { ft: 1, in: 1 / 12, yd: 3, m: 3.28084, cm: 0.0328084 } as const;
-type U = keyof typeof TO_FT;
-const UNIT_OPTS: { id: U; label: string }[] = [{ id: "ft", label: "ft" }, { id: "in", label: "in" }, { id: "yd", label: "yd" }, { id: "m", label: "m" }, { id: "cm", label: "cm" }];
 const DEFAULTS = { shape: "rect", l: "12", lu: "ft", w: "14", wu: "ft", d: "9", du: "in", dia: "10", diau: "ft", area: "200", qty: "1", waste: "5", price: "" };
-
-function UnitField({ id, label, value, unit, onValue, onUnit }: { id: string; label: string; value: string; unit: string; onValue: (v: string) => void; onUnit: (u: string) => void }) {
-  return (
-    <div>
-      <label htmlFor={id} className="label">{label}</label>
-      <div className="flex gap-2">
-        <input id={id} type="number" inputMode="decimal" min={0} step="any" value={value} onChange={(e) => onValue(e.target.value)} className="field tabular-nums" />
-        <select aria-label={`${label} unit`} value={unit} onChange={(e) => onUnit(e.target.value)} className="field !w-20">
-          {UNIT_OPTS.map((o) => <option key={o.id} value={o.id}>{o.label}</option>)}
-        </select>
-      </div>
-    </div>
-  );
-}
 
 export default function CubicYardCalculator() {
   const [s, set] = useUrlState(DEFAULTS);
-  const f = (v: string, u: string) => Number(v) * (TO_FT[u as U] ?? 1);
+  const f = toFt;
   const depthFt = f(s.d, s.du), qty = Math.max(1, Math.floor(Number(s.qty) || 1)), waste = Math.max(0, Number(s.waste) || 0) / 100;
   let areaFt2 = NaN;
   if (s.shape === "rect") areaFt2 = f(s.l, s.lu) * f(s.w, s.wu);

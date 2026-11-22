@@ -1,0 +1,1346 @@
+{
+ "pages": {
+  "https://www.calculator.net/gravel-calculator.html": {
+   "url": "https://www.calculator.net/gravel-calculator.html",
+   "finalUrl": "https://www.calculator.net/gravel-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T07:49:34.137Z",
+   "title": "Gravel Calculator",
+   "metaDescription": "This free gravel calculator estimates the amount of gravel needed to cover an area. It can also estimate the cost.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Gravel Calculator"
+   ],
+   "h2": [],
+   "h3": [
+    "How much gravel do I need?",
+    "What is gravel used for?",
+    "Types of gravel"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Gravel Calculator"
+    },
+    {
+     "level": 3,
+     "text": "How much gravel do I need?"
+    },
+    {
+     "level": 3,
+     "text": "What is gravel used for?"
+    },
+    {
+     "level": 3,
+     "text": "Types of gravel"
+    }
+   ],
+   "wordCount": 1709,
+   "avgSentenceWords": 22,
+   "faqs": [
+    "How much gravel do I need?",
+    "What is gravel used for?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "gravel",
+     "weight": 82
+    },
+    {
+     "term": "used",
+     "weight": 33
+    },
+    {
+     "term": "rock fragments",
+     "weight": 20
+    },
+    {
+     "term": "crushed stone",
+     "weight": 18
+    },
+    {
+     "term": "stone",
+     "weight": 18
+    },
+    {
+     "term": "rock",
+     "weight": 16
+    },
+    {
+     "term": "crushed",
+     "weight": 15
+    },
+    {
+     "term": "fragments",
+     "weight": 13
+    },
+    {
+     "term": "types",
+     "weight": 12
+    },
+    {
+     "term": "calculator",
+     "weight": 9
+    },
+    {
+     "term": "commonly used",
+     "weight": 9
+    },
+    {
+     "term": "construction",
+     "weight": 8
+    },
+    {
+     "term": "well",
+     "weight": 8
+    },
+    {
+     "term": "make",
+     "weight": 8
+    },
+    {
+     "term": "concrete",
+     "weight": 8
+    },
+    {
+     "term": "water",
+     "weight": 8
+    },
+    {
+     "term": "different",
+     "weight": 8
+    },
+    {
+     "term": "area",
+     "weight": 7
+    },
+    {
+     "term": "based",
+     "weight": 7
+    },
+    {
+     "term": "erosion",
+     "weight": 7
+    },
+    {
+     "term": "sand",
+     "weight": 7
+    },
+    {
+     "term": "commonly",
+     "weight": 7
+    },
+    {
+     "term": "purposes",
+     "weight": 6
+    },
+    {
+     "term": "has",
+     "weight": 6
+    },
+    {
+     "term": "size",
+     "weight": 6
+    },
+    {
+     "term": "made",
+     "weight": 6
+    },
+    {
+     "term": "type",
+     "weight": 6
+    },
+    {
+     "term": "since",
+     "weight": 6
+    },
+    {
+     "term": "estimate",
+     "weight": 5
+    },
+    {
+     "term": "amount",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "In the Udden-Wentworth scale, gravel is categorized as granular gravel if it is 2-44 mm (0.079-0.157 in) in diameter or pebble gravel if it is 4-66 mm (0.2-2.5 in) in diameter.",
+    "On the other hand, ISO 14688-1:2002 classifies gravel as fine (2.0-6.3 mm), medium (6.3-20 mm), or coarse gravel (20-63 mm).",
+    "The ideal depth of gravel varies depending on the application, but a minimum of 2-4 inches of gravel is a workable baseline."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 4,
+   "lists": 0,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "Use total area",
+    "Rectangle",
+    "Circle",
+    "totalarea",
+    "totalareaunit",
+    "totallength",
+    "totallengthunit",
+    "totalwidth",
+    "totalwidthunit",
+    "totaldiameter",
+    "totaldiameterunit",
+    "gdepth",
+    "gdepthunit",
+    "gdensityselect",
+    "gdensity",
+    "gdensityunit",
+    "price",
+    "priceunit",
+    "gbagsize",
+    "gbagsizeunit"
+   ],
+   "selectOptionsSample": "square feet square meters square yards acres feet meters inches cm yards feet meters inches cm yards feet meters inches cm yards inches cm feet meters yards gravel (0.2 - 2\" or 0.5 - 5 cm) gravel with sand dry sand wet sand use your own density kg/m³ g/cm³ lbs/ft³ per cubic foot per cubic yard per c",
+   "unitToggle": true,
+   "wordsBeforeTool": 49,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 21,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 27,
+    "external": 0,
+    "contentInternal": 27,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "other",
+     "gravel calculator",
+     "Volume Calculator",
+     "Square Footage Calculator",
+     "Area Calculator",
+     "Other Calculators",
+     "Age",
+     "Date",
+     "Time",
+     "Hours",
+     "GPA",
+     "Grade",
+     "Height",
+     "Concrete",
+     "IP Subnet",
+     "Bra Size",
+     "Password Generator",
+     "Dice Roller"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/gravel-calculator.html",
+     "https://www.calculator.net/volume-calculator.html",
+     "https://www.calculator.net/square-footage-calculator.html",
+     "https://www.calculator.net/area-calculator.html",
+     "https://www.calculator.net/age-calculator.html",
+     "https://www.calculator.net/date-calculator.html",
+     "https://www.calculator.net/time-calculator.html",
+     "https://www.calculator.net/hours-calculator.html",
+     "https://www.calculator.net/gpa-calculator.html",
+     "https://www.calculator.net/grade-calculator.html",
+     "https://www.calculator.net/height-calculator.html",
+     "https://www.calculator.net/concrete-calculator.html",
+     "https://www.calculator.net/ip-subnet-calculator.html",
+     "https://www.calculator.net/bra-size-calculator.html",
+     "https://www.calculator.net/password-generator.html",
+     "https://www.calculator.net/dice-roller.html",
+     "https://www.calculator.net/conversion-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/construction/gravel": {
+   "url": "https://www.omnicalculator.com/construction/gravel",
+   "finalUrl": "https://www.omnicalculator.com/construction/gravel",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T07:49:42.432Z",
+   "title": "Gravel Calculator | How much gravel do you need?",
+   "metaDescription": "The gravel calculator finds the volume, mass and price of gravel used during earthworks.",
+   "canonical": "https://www.omnicalculator.com/construction/gravel",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Gravel Calculator"
+   ],
+   "h2": [
+    "How to use this gravel calculator",
+    "How much gravel do I need?",
+    "How much is a yard of gravel?",
+    "Types of gravel",
+    "Gravel estimator — how to calculate landscape gravel quantity?",
+    "Making of the gravel calculator",
+    "FAQs"
+   ],
+   "h3": [
+    "How many yards are in a ton of gravel?",
+    "How much does a yard of gravel weigh?",
+    "How much gravel do I need to cover for 100 ft² driveway?",
+    "What area will 1 ton of gravel cover?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Gravel Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to use this gravel calculator"
+    },
+    {
+     "level": 2,
+     "text": "How much gravel do I need?"
+    },
+    {
+     "level": 2,
+     "text": "How much is a yard of gravel?"
+    },
+    {
+     "level": 2,
+     "text": "Types of gravel"
+    },
+    {
+     "level": 2,
+     "text": "Gravel estimator — how to calculate landscape gravel quantity?"
+    },
+    {
+     "level": 2,
+     "text": "Making of the gravel calculator"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How many yards are in a ton of gravel?"
+    },
+    {
+     "level": 3,
+     "text": "How much does a yard of gravel weigh?"
+    },
+    {
+     "level": 3,
+     "text": "How much gravel do I need to cover for 100 ft² driveway?"
+    },
+    {
+     "level": 3,
+     "text": "What area will 1 ton of gravel cover?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 2530,
+   "avgSentenceWords": 18,
+   "faqs": [
+    "How many yards are in a ton of gravel?",
+    "How much does a yard of gravel weigh?",
+    "How much gravel do I need to cover for 100 ft² driveway?",
+    "What area will 1 ton of gravel cover?",
+    "How much will the gravel cost you?",
+    "How much gravel do I need?",
+    "How much is a yard of gravel?",
+    "Gravel estimator — how to calculate landscape gravel quantity?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "gravel",
+     "weight": 90
+    },
+    {
+     "term": "calculator",
+     "weight": 28
+    },
+    {
+     "term": "area",
+     "weight": 21
+    },
+    {
+     "term": "gravel calculator",
+     "weight": 17
+    },
+    {
+     "term": "volume",
+     "weight": 15
+    },
+    {
+     "term": "yard",
+     "weight": 14
+    },
+    {
+     "term": "excavation",
+     "weight": 13
+    },
+    {
+     "term": "length",
+     "weight": 12
+    },
+    {
+     "term": "width",
+     "weight": 12
+    },
+    {
+     "term": "weight",
+     "weight": 12
+    },
+    {
+     "term": "path",
+     "weight": 11
+    },
+    {
+     "term": "have",
+     "weight": 11
+    },
+    {
+     "term": "gravel path",
+     "weight": 11
+    },
+    {
+     "term": "unit",
+     "weight": 10
+    },
+    {
+     "term": "much",
+     "weight": 10
+    },
+    {
+     "term": "need",
+     "weight": 10
+    },
+    {
+     "term": "cubic",
+     "weight": 10
+    },
+    {
+     "term": "yd2",
+     "weight": 10
+    },
+    {
+     "term": "pea gravel",
+     "weight": 9
+    },
+    {
+     "term": "gravel estimator",
+     "weight": 9
+    },
+    {
+     "term": "different",
+     "weight": 9
+    },
+    {
+     "term": "calculate",
+     "weight": 9
+    },
+    {
+     "term": "cubic yards",
+     "weight": 9
+    },
+    {
+     "term": "sector",
+     "weight": 9
+    },
+    {
+     "term": "cost",
+     "weight": 8
+    },
+    {
+     "term": "want",
+     "weight": 8
+    },
+    {
+     "term": "enter",
+     "weight": 8
+    },
+    {
+     "term": "equal",
+     "weight": 8
+    },
+    {
+     "term": "yards",
+     "weight": 8
+    },
+    {
+     "term": "depth",
+     "weight": 7
+    }
+   ],
+   "claims": [
+    "🙋 The gravel calculator initially assumes a default gravel density of 1680 kg/m³ or 105 lbs/ft³.",
+    "Instantly, the calculator tells you that you require 0.75 m³ of gravel, which weighs 1.26 tonnes.",
+    "The calculator immediately tells you the depth you can fill with gravel is 11.90476 cm (approximately 12 cm).",
+    "Normally, we would like our gravel path to consist of 2 or 3 different layers of gravel.",
+    "First, we need to divide the pea gravel path into four rectangles: 1, 2, 3, and 4.",
+    "1 ton of gravel is equal to 0.714 cubic yards.",
+    "To convert tons of gravel into yards, simply multiply tons by 0.714.",
+    "For example, 2 tons of gravel is 2 × 0.714 = 1.428 cubic yards, 3 tons is equal to 3 × 0.714 = 2.142, and so on.",
+    "A cubic yard of gravel can weigh between 2,400 lbs (1,089 kg) to 2,900 lbs (1,315 kg).",
+    "Assuming you have a 10 ft long by 10 ft wide by 2\" high driveway, the amount of gravel will be 0.617 cubic yards or 0.794 tons."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 11,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Gravel type"
+   ],
+   "selectOptionsSample": "select regular gravel gravel (dry) gravel (dry, 1/4 - 2”) gravel (wet, 1/4 - 2”) gravel (pit-run) gravel and sand (dry) gravel and sand (wet) gravel and clay (dry) gravel and clay (wet) cheshire pink gravel cotswold gold gravel crushed stone ivory coast gravel dolomite gravel pea gravel sunset gold ",
+   "unitToggle": false,
+   "wordsBeforeTool": 4,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Kacper Pawlik",
+    "published": "2016-06-07T14:43:04.979Z",
+    "modified": "2026-08-18T15:33:34.811Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 855,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 29,
+    "external": 1,
+    "contentInternal": 13,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "pea gravel",
+     "types of gravel",
+     "road base calculator",
+     "paver sand calculator",
+     "gravel driveway maintenance tips",
+     "sizes of gravel",
+     "roofing calculator",
+     "roof pitch calculator",
+     "How much gravel do I need?",
+     "How much is a yard of gravel?",
+     "Editorial Policies",
+     "Stone Weight Calculator",
+     "Board and Batten Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/construction/pea-gravel",
+     "https://www.omnicalculator.com/types-of-gravel-complete-guide",
+     "https://www.omnicalculator.com/construction/road-base",
+     "https://www.omnicalculator.com/construction/paver-sand",
+     "https://www.omnicalculator.com/gravel-driveway-maintenance-and-repair-tips",
+     "https://www.omnicalculator.com/gravel-size-chart-understanding-gravel-sizes",
+     "https://www.omnicalculator.com/construction/roofing",
+     "https://www.omnicalculator.com/construction/roof-pitch",
+     "https://www.omnicalculator.com/construction/gravel#how-much-gravel-do-i-need",
+     "https://www.omnicalculator.com/construction/gravel#how-much-is-a-yard-of-gravel",
+     "https://www.omnicalculator.com/editorial-policies",
+     "https://www.omnicalculator.com/construction/stone",
+     "https://www.omnicalculator.com/construction/board-and-batten"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/construction/gravel-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/construction/gravel-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/construction/gravel-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T07:49:45.415Z",
+   "title": "Gravel Calculator",
+   "metaDescription": "Calculate the amount of gravel you need to fill an area at any depth. Select type of gravel, enter dimensions, calculate gravel volume, weight and optional cost.",
+   "canonical": "https://www.calculatorsoup.com/calculators/construction/gravel-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Gravel Calculator"
+   ],
+   "h2": [
+    "How Much Gravel Do I Need?",
+    "Types of Gravel in this Calculator",
+    "Frequently Asked Questions"
+   ],
+   "h3": [
+    "Estimate Gravel Cost",
+    "Calculating Area of Irregular Shapes",
+    "Calculate Gravel Volume",
+    "Example: Calculate Amount of Pea Gravel for a Patio",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Gravel Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Estimate Gravel Cost"
+    },
+    {
+     "level": 3,
+     "text": "Calculating Area of Irregular Shapes"
+    },
+    {
+     "level": 2,
+     "text": "How Much Gravel Do I Need?"
+    },
+    {
+     "level": 3,
+     "text": "Calculate Gravel Volume"
+    },
+    {
+     "level": 3,
+     "text": "Example: Calculate Amount of Pea Gravel for a Patio"
+    },
+    {
+     "level": 2,
+     "text": "Types of Gravel in this Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 1120,
+   "avgSentenceWords": 27,
+   "faqs": [
+    "How Much Gravel Do I Need?",
+    "Want to know the weight?",
+    "What's the formula for calculating amount of gravel?",
+    "What are typical gravel depths?",
+    "Which type of gravel should I use (pea gravel, #57, DGA)?",
+    "How much area does one cubic yard cover?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "gravel",
+     "weight": 46
+    },
+    {
+     "term": "calculator",
+     "weight": 19
+    },
+    {
+     "term": "density",
+     "weight": 13
+    },
+    {
+     "term": "material",
+     "weight": 12
+    },
+    {
+     "term": "area",
+     "weight": 11
+    },
+    {
+     "term": "cubic",
+     "weight": 11
+    },
+    {
+     "term": "gravel calculator",
+     "weight": 11
+    },
+    {
+     "term": "calculate",
+     "weight": 9
+    },
+    {
+     "term": "volume",
+     "weight": 9
+    },
+    {
+     "term": "pea gravel",
+     "weight": 9
+    },
+    {
+     "term": "depth",
+     "weight": 8
+    },
+    {
+     "term": "cubic yard",
+     "weight": 8
+    },
+    {
+     "term": "need",
+     "weight": 7
+    },
+    {
+     "term": "base",
+     "weight": 7
+    },
+    {
+     "term": "weight",
+     "weight": 7
+    },
+    {
+     "term": "feet",
+     "weight": 7
+    },
+    {
+     "term": "inches",
+     "weight": 7
+    },
+    {
+     "term": "calculators",
+     "weight": 6
+    },
+    {
+     "term": "construction",
+     "weight": 6
+    },
+    {
+     "term": "drainage",
+     "weight": 6
+    },
+    {
+     "term": "gravel type",
+     "weight": 6
+    },
+    {
+     "term": "type",
+     "weight": 6
+    },
+    {
+     "term": "tons",
+     "weight": 6
+    },
+    {
+     "term": "pea",
+     "weight": 6
+    },
+    {
+     "term": "yard",
+     "weight": 6
+    },
+    {
+     "term": "cubic yards",
+     "weight": 6
+    },
+    {
+     "term": "pounds",
+     "weight": 6
+    },
+    {
+     "term": "uses",
+     "weight": 6
+    },
+    {
+     "term": "common uses",
+     "weight": 6
+    },
+    {
+     "term": "compaction",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "You need a gravel base depth of 3 inches.",
+    "Material without fines (like Pea Gravel 4-10 mm) drain water better but don't compact as firmly."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 2,
+   "lists": 3,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Calculate for a",
+    "Gravel Type: (help me choose)",
+    "Area =",
+    "area unit",
+    "Depth =",
+    "depth unit",
+    "Compaction = Typically 5-30% extra",
+    "Waste & Overrun = Typically 5-15% extra",
+    "currency",
+    "price",
+    "per",
+    "reset"
+   ],
+   "selectOptionsSample": "total area rectangle circle triangle pea gravel river rock crushed stone #57 crushed stone #411 dense graded (dga/qp) bank run gravel decomposed granite lava rock marble chips riprap fine gravel medium gravel coarse gravel extra coarse enter your custom density in² ft² yd² acre hectare cm² m² in ft ",
+   "unitToggle": true,
+   "wordsBeforeTool": 49,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "February 2, 2026",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 82,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 18,
+    "external": 0,
+    "contentInternal": 8,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Construction",
+     "Gravel Calculator",
+     "help me choose",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Back to top",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/construction/",
+     "https://www.calculatorsoup.com/calculators/construction/gravel-calculator.php",
+     "https://www.calculatorsoup.com/calculators/construction/gravel-calculator.php#gravelTables",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=construction%2F&folderName=Construction&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/construction/gravel-calculator.php&h1=Gravel+Calculator&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/construction/gravel-calculator.php#topofpage"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://inchcalculator.com/gravel": {
+   "url": "https://inchcalculator.com/gravel",
+   "finalUrl": "https://www.inchcalculator.com/gravel-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T07:49:59.614Z",
+   "title": "Gravel Calculator - Estimate Yards and Tons - Inch Calculator",
+   "metaDescription": "Calculate how much gravel or aggregate you need in cubic yards and tons. Estimate landscape material including rock, sand, and topsoil.",
+   "canonical": "https://www.inchcalculator.com/gravel-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Gravel Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Gravel Needed",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Estimate How Much Gravel You Need",
+    "How Many Tons in a Yard of Gravel",
+    "How Many Yards in a Ton of Gravel",
+    "How to Account for Overage and Compaction",
+    "Frequently Asked Questions",
+    "Similar Landscaping Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Estimated Material Cost",
+    "Step One: Calculate Volume in Yards",
+    "Step Two: Calculate Gravel Weight in Tons",
+    "Do you order gravel by the yard or ton?",
+    "How much will 1 ton of gravel cover?",
+    "How much is one truck load of gravel?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Gravel Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Gravel Needed"
+    },
+    {
+     "level": 3,
+     "text": "Estimated Material Cost"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Estimate How Much Gravel You Need"
+    },
+    {
+     "level": 3,
+     "text": "Step One: Calculate Volume in Yards"
+    },
+    {
+     "level": 3,
+     "text": "Step Two: Calculate Gravel Weight in Tons"
+    },
+    {
+     "level": 2,
+     "text": "How Many Tons in a Yard of Gravel"
+    },
+    {
+     "level": 2,
+     "text": "How Many Yards in a Ton of Gravel"
+    },
+    {
+     "level": 2,
+     "text": "How to Account for Overage and Compaction"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "Do you order gravel by the yard or ton?"
+    },
+    {
+     "level": 3,
+     "text": "How much will 1 ton of gravel cover?"
+    },
+    {
+     "level": 3,
+     "text": "How much is one truck load of gravel?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Landscaping Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 1543,
+   "avgSentenceWords": 28,
+   "faqs": [
+    "Do you order gravel by the yard or ton?",
+    "How much will 1 ton of gravel cover?",
+    "How much is one truck load of gravel?"
+   ],
+   "faqSchemaCount": 3,
+   "topics": [
+    {
+     "term": "gravel",
+     "weight": 46
+    },
+    {
+     "term": "tons",
+     "weight": 30
+    },
+    {
+     "term": "cubic",
+     "weight": 23
+    },
+    {
+     "term": "material",
+     "weight": 20
+    },
+    {
+     "term": "volume",
+     "weight": 16
+    },
+    {
+     "term": "need",
+     "weight": 15
+    },
+    {
+     "term": "yards",
+     "weight": 14
+    },
+    {
+     "term": "weight",
+     "weight": 14
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "cubic yards",
+     "weight": 12
+    },
+    {
+     "term": "yard",
+     "weight": 12
+    },
+    {
+     "term": "many",
+     "weight": 11
+    },
+    {
+     "term": "ton",
+     "weight": 11
+    },
+    {
+     "term": "cubic yard",
+     "weight": 11
+    },
+    {
+     "term": "calculate",
+     "weight": 8
+    },
+    {
+     "term": "needed",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "much",
+     "weight": 8
+    },
+    {
+     "term": "sand",
+     "weight": 8
+    },
+    {
+     "term": "lbs",
+     "weight": 8
+    },
+    {
+     "term": "tonnes",
+     "weight": 8
+    },
+    {
+     "term": "many tons",
+     "weight": 8
+    },
+    {
+     "term": "feet",
+     "weight": 7
+    },
+    {
+     "term": "gravel calculator",
+     "weight": 6
+    },
+    {
+     "term": "below",
+     "weight": 6
+    },
+    {
+     "term": "length width",
+     "weight": 6
+    },
+    {
+     "term": "much gravel",
+     "weight": 6
+    },
+    {
+     "term": "many yards",
+     "weight": 6
+    },
+    {
+     "term": "account",
+     "weight": 6
+    },
+    {
+     "term": "overage",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Most gravel weighs 1.4 to 1.7 tons per cubic yard.",
+    "For example, let’s find the amount of gravel needed for a space that is 10 feet long, 10 feet wide, and 1 foot deep.",
+    "For example, if your calculations call for 5.2 tons of gravel, you will want to purchase 5.7 tons to account for necessary overage.",
+    "This will vary depending on the size of the gravel, which can range from ½” to 2″ in size.",
+    "A ton of gravel will generally cover between 0.59 to 0.71 cubic yards, with larger-sized gravel covering less area than smaller-sized gravel.",
+    "The average pickup truck can carry 1 cubic yard of gravel, while a dump truck can carry 13 to 25 tons of gravel."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 3,
+   "lists": 3,
+   "images": 7,
+   "videos": 0,
+   "calculatorInputs": [
+    "Material",
+    "Length",
+    "Length Units",
+    "Width",
+    "Width Units",
+    "Depth",
+    "Depth Units",
+    "Price (optional)",
+    "Price Units",
+    "Material",
+    "Area",
+    "Area Units",
+    "Depth",
+    "Depth Units",
+    "Price (optional)",
+    "Price Units",
+    "Material",
+    "Volume",
+    "Volume Units",
+    "Price (optional)",
+    "Price Units"
+   ],
+   "selectOptionsSample": "gravel (¼\" - 2\") rock (2” - 6”) pea gravel (¼” - ⅜”) sand (dry) sand (wet) topsoil (dry) topsoil (compacted) topsoil (wet) riprap in ft yd cm m in ft yd cm m in ft yd cm m per ton per cu yd gravel (¼\" - 2\") rock (2” - 6”) pea gravel (¼” - ⅜”) sand (dry) sand (wet) topsoil (dry) topsoil (compacted) t",
+   "unitToggle": true,
+   "wordsBeforeTool": 47,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2018-10-11",
+    "modified": "2026-04-30T19:16:32+00:00",
+    "authoritativeSources": [
+     "https://www.epa.gov/sites/default/files/2015-10/documents/2003_07_24_nps_gravelroads_gravelroads.pdf"
+    ]
+   },
+   "ux": {
+    "htmlKB": 143,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 52,
+    "external": 16,
+    "contentInternal": 28,
+    "contentExternal": 10,
+    "internalAnchors": [
+     "find square feet",
+     "find cubic yards",
+     "below",
+     "Add This to Your Site",
+     "Gravel Calculator",
+     "How to Estimate How Much Gravel You Need",
+     "Step One: Calculate Volume in Yards",
+     "Step Two: Calculate Gravel Weight in Tons",
+     "How Many Tons in a Yard of Gravel",
+     "How Many Yards in a Ton of Gravel",
+     "How to Account for Overage and Compaction",
+     "Frequently Asked Questions",
+     "References",
+     "Full bio",
+     "the chart below",
+     "cubic inches",
+     "cubic feet",
+     "cubic yardage calculator",
+     "convert the material needed in cubic yards to tons",
+     "rock"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/square-footage-calculator/",
+     "https://www.inchcalculator.com/cubic-yards-calculator/",
+     "https://www.inchcalculator.com/gravel-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/gravel/",
+     "https://www.inchcalculator.com/gravel-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/gravel-calculator/#idx_how_to_estimate",
+     "https://www.inchcalculator.com/gravel-calculator/#idx_step_one_calculate_volume_in_yards",
+     "https://www.inchcalculator.com/gravel-calculator/#idx_step_two_calculate_gravel_weight_in_tons",
+     "https://www.inchcalculator.com/gravel-calculator/#idx_gravel_weight",
+     "https://www.inchcalculator.com/gravel-calculator/#idx_how_to_account_for_overage_and_compaction",
+     "https://www.inchcalculator.com/gravel-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/gravel-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/sarabeth-asaff-south/",
+     "https://www.inchcalculator.com/gravel-calculator/",
+     "https://www.inchcalculator.com/cubic-inches-calculator/",
+     "https://www.inchcalculator.com/cubic-footage-calculator/",
+     "https://www.inchcalculator.com/cubic-yards-to-tons-calculator/",
+     "https://www.inchcalculator.com/river-rock-calculator/",
+     "https://www.inchcalculator.com/sand-calculator/",
+     "https://www.inchcalculator.com/soil-calculator/",
+     "https://www.inchcalculator.com/stone-calculator/",
+     "https://www.inchcalculator.com/mulch-calculator/",
+     "https://www.inchcalculator.com/gravel-driveway-calculator/",
+     "https://www.inchcalculator.com/get-free-home-repair-estimates/?preset_project_type=Landscaping+%26+Lawn+Care&preset_service_id="
+    ],
+    "externalSample": [
+     "https://apps.apple.com/app/gravel-calculator-plus/id1504997190",
+     "https://play.google.com/store/apps/details?id=com.inchcalculator.gravel_calculator",
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fgravel-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fgravel-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fgravel-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fgravel-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fgravel-calculator%2F&text=Gravel+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fgravel-calculator%2F&text=Gravel+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://www.epa.gov/sites/default/files/2015-10/documents/2003_07_24_nps_gravelroads_gravelroads.pdf"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://homeadvisor.com/r/gravel-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://eartheasy.com/pages/gravel-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://omnicalculator.com/all/gravel": [
+   "unreachable (fetch failed)"
+  ],
+  "https://thecalculatorsite.com/construction/gravel-calculator.php": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.angi.com/articles/gravel-calculator.htm": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.gigacalculator.com/calculators/gravel-calculator.php": [
+   "disallowed by robots.txt"
+  ],
+  "https://apps.apple.com/us/app/id1552365836": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

@@ -1,0 +1,1325 @@
+{
+ "pages": {
+  "https://www.calculator.net/right-triangle-calculator": {
+   "url": "https://www.calculator.net/right-triangle-calculator",
+   "finalUrl": "https://www.calculator.net/right-triangle-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T07:51:48.851Z",
+   "title": "Right Triangle Calculator",
+   "metaDescription": "Right triangle calculator to compute side length, angle, height, area, and perimeter of a right triangle given any 2 values. It gives the calculation steps.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Right Triangle Calculator"
+   ],
+   "h2": [],
+   "h3": [
+    "Right triangle",
+    "Special Right Triangles"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Right Triangle Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Right triangle"
+    },
+    {
+     "level": 3,
+     "text": "Special Right Triangles"
+    }
+   ],
+   "wordCount": 701,
+   "avgSentenceWords": 30,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "triangle",
+     "weight": 35
+    },
+    {
+     "term": "right triangle",
+     "weight": 21
+    },
+    {
+     "term": "right",
+     "weight": 17
+    },
+    {
+     "term": "sides",
+     "weight": 15
+    },
+    {
+     "term": "side",
+     "weight": 15
+    },
+    {
+     "term": "angle",
+     "weight": 12
+    },
+    {
+     "term": "length",
+     "weight": 9
+    },
+    {
+     "term": "type",
+     "weight": 7
+    },
+    {
+     "term": "lengths",
+     "weight": 7
+    },
+    {
+     "term": "calculator",
+     "weight": 6
+    },
+    {
+     "term": "angles",
+     "weight": 6
+    },
+    {
+     "term": "corresponding",
+     "weight": 6
+    },
+    {
+     "term": "math",
+     "weight": 5
+    },
+    {
+     "term": "ratio",
+     "weight": 5
+    },
+    {
+     "term": "triangle calculator",
+     "weight": 5
+    },
+    {
+     "term": "three sides",
+     "weight": 5
+    },
+    {
+     "term": "triangles",
+     "weight": 4
+    },
+    {
+     "term": "known",
+     "weight": 4
+    },
+    {
+     "term": "calculator right",
+     "weight": 3
+    },
+    {
+     "term": "values",
+     "weight": 3
+    },
+    {
+     "term": "area",
+     "weight": 3
+    },
+    {
+     "term": "perimeter",
+     "weight": 3
+    },
+    {
+     "term": "pythagorean",
+     "weight": 3
+    },
+    {
+     "term": "right triangles",
+     "weight": 3
+    },
+    {
+     "term": "hypotenuse",
+     "weight": 3
+    },
+    {
+     "term": "referred",
+     "weight": 3
+    },
+    {
+     "term": "side length",
+     "weight": 3
+    },
+    {
+     "term": "used",
+     "weight": 3
+    },
+    {
+     "term": "original triangle",
+     "weight": 3
+    },
+    {
+     "term": "three",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "sign in home / math / right triangle calculator Right Triangle Calculator Please provide 2 values below to calculate the other values of a right triangle.",
+    "a = ∠α = b = ∠β = c = h = A = area P = perimeter Related Triangle Calculator | Pythagorean Theorem Calculator Right triangle A right triangle is a type of triangle that has one angle that measures 90°.",
+    "In a right triangle, the side that is opposite of the 90° angle is the longest side of the triangle, and is called the hypotenuse.",
+    "In this type of right triangle, the sides corresponding to the angles 30°-60°-90° follow a ratio of 1:√3:2.",
+    "This type of triangle can be used to evaluate trigonometric functions for multiples of π/6.",
+    "Like the 30°-60°-90° triangle, knowing one side length allows you to determine the lengths of the other sides of a 45°-45°-90° triangle.",
+    "Angles: 45°: 45°: 90° Ratio of sides: 1:1:√2 Side lengths: a:a:c Given c= 5: a = c √2 = 5 √2 45°-45°-90° triangles can be used to evaluate trigonometric functions for multiples of π/4."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 14,
+   "lists": 0,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "av",
+    "alphav",
+    "alphaunit",
+    "bv",
+    "betav",
+    "betaunit",
+    "cv",
+    "hv",
+    "areav",
+    "perimeterv"
+   ],
+   "selectOptionsSample": "degree radian degree radian",
+   "unitToggle": false,
+   "wordsBeforeTool": 45,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 12,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 19,
+    "external": 0,
+    "contentInternal": 19,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "math",
+     "right triangle calculator",
+     "Triangle Calculator",
+     "Pythagorean Theorem Calculator",
+     "Math Calculators",
+     "Scientific",
+     "Fraction",
+     "Percentage",
+     "Triangle",
+     "Volume",
+     "Standard Deviation",
+     "Random Number Generator",
+     "More Math Calculators",
+     "Financial",
+     "Fitness and Health",
+     "Math",
+     "Other",
+     "about us"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/right-triangle-calculator.html",
+     "https://www.calculator.net/triangle-calculator.html",
+     "https://www.calculator.net/pythagorean-theorem-calculator.html",
+     "https://www.calculator.net/scientific-calculator.html",
+     "https://www.calculator.net/fraction-calculator.html",
+     "https://www.calculator.net/percent-calculator.html",
+     "https://www.calculator.net/volume-calculator.html",
+     "https://www.calculator.net/standard-deviation-calculator.html",
+     "https://www.calculator.net/random-number-generator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://inchcalculator.com/right-triangle-calculator": {
+   "url": "https://inchcalculator.com/right-triangle-calculator",
+   "finalUrl": "https://www.inchcalculator.com/right-triangle-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T07:51:52.336Z",
+   "title": "Right Triangle Calculator - Find Any Side or Angle - Inch Calculator",
+   "metaDescription": "Use our right triangle calculator to find each side, angle, area, perimeter, height, inradius, and circumradius of a right triangle.",
+   "canonical": "https://www.inchcalculator.com/right-triangle-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Right Triangle Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Right Triangle Properties",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "What is a Right Triangle?",
+    "How to Find the Hypotenuse of a Right Triangle",
+    "How to Find a Missing Side",
+    "How to Find the Angle of a Right Triangle",
+    "How to Find the Area of a Right Triangle",
+    "How to Find the Perimeter",
+    "Special Right Triangles",
+    "Similar Triangle Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Type of Right Triangle:",
+    "Types of Right Triangles",
+    "Method One: Using Two Legs",
+    "Method Two: Using Hypotenuse and One Leg",
+    "Method Three: Using One Leg and One Angle",
+    "Formulas for 30 60 90 Right Triangles",
+    "Formulas for 45 45 90 Right Triangles"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Right Triangle Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Right Triangle Properties"
+    },
+    {
+     "level": 3,
+     "text": "Type of Right Triangle:"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "What is a Right Triangle?"
+    },
+    {
+     "level": 3,
+     "text": "Types of Right Triangles"
+    },
+    {
+     "level": 2,
+     "text": "How to Find the Hypotenuse of a Right Triangle"
+    },
+    {
+     "level": 2,
+     "text": "How to Find a Missing Side"
+    },
+    {
+     "level": 2,
+     "text": "How to Find the Angle of a Right Triangle"
+    },
+    {
+     "level": 2,
+     "text": "How to Find the Area of a Right Triangle"
+    },
+    {
+     "level": 3,
+     "text": "Method One: Using Two Legs"
+    },
+    {
+     "level": 3,
+     "text": "Method Two: Using Hypotenuse and One Leg"
+    },
+    {
+     "level": 3,
+     "text": "Method Three: Using One Leg and One Angle"
+    },
+    {
+     "level": 2,
+     "text": "How to Find the Perimeter"
+    },
+    {
+     "level": 2,
+     "text": "Special Right Triangles"
+    },
+    {
+     "level": 3,
+     "text": "Formulas for 30 60 90 Right Triangles"
+    },
+    {
+     "level": 4,
+     "text": "Leg a"
+    },
+    {
+     "level": 4,
+     "text": "Leg b"
+    },
+    {
+     "level": 4,
+     "text": "Hypotenuse c"
+    },
+    {
+     "level": 3,
+     "text": "Formulas for 45 45 90 Right Triangles"
+    },
+    {
+     "level": 4,
+     "text": "Legs a & b"
+    },
+    {
+     "level": 4,
+     "text": "Hypotenuse c"
+    },
+    {
+     "level": 4,
+     "text": "Area"
+    },
+    {
+     "level": 2,
+     "text": "Similar Triangle Calculators"
+    }
+   ],
+   "wordCount": 1856,
+   "avgSentenceWords": 29,
+   "faqs": [
+    "What is a Right Triangle?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "right",
+     "weight": 52
+    },
+    {
+     "term": "right triangle",
+     "weight": 50
+    },
+    {
+     "term": "triangle",
+     "weight": 49
+    },
+    {
+     "term": "leg",
+     "weight": 39
+    },
+    {
+     "term": "hypotenuse",
+     "weight": 35
+    },
+    {
+     "term": "angle",
+     "weight": 33
+    },
+    {
+     "term": "find",
+     "weight": 33
+    },
+    {
+     "term": "length",
+     "weight": 27
+    },
+    {
+     "term": "side",
+     "weight": 22
+    },
+    {
+     "term": "area",
+     "weight": 18
+    },
+    {
+     "term": "equal",
+     "weight": 18
+    },
+    {
+     "term": "right triangles",
+     "weight": 17
+    },
+    {
+     "term": "adjacent",
+     "weight": 15
+    },
+    {
+     "term": "squared",
+     "weight": 14
+    },
+    {
+     "term": "formula",
+     "weight": 14
+    },
+    {
+     "term": "square root",
+     "weight": 14
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "triangles",
+     "weight": 13
+    },
+    {
+     "term": "legs",
+     "weight": 13
+    },
+    {
+     "term": "times",
+     "weight": 13
+    },
+    {
+     "term": "special",
+     "weight": 10
+    },
+    {
+     "term": "angles",
+     "weight": 9
+    },
+    {
+     "term": "missing",
+     "weight": 9
+    },
+    {
+     "term": "special right",
+     "weight": 9
+    },
+    {
+     "term": "formulas",
+     "weight": 9
+    },
+    {
+     "term": "pythagorean theorem",
+     "weight": 9
+    },
+    {
+     "term": "square",
+     "weight": 9
+    },
+    {
+     "term": "root",
+     "weight": 9
+    },
+    {
+     "term": "perimeter",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "A right triangle, sometimes called a right-angled triangle, is a triangle that has one interior angle equal to exactly 90 degrees, forming what is called a right angle.",
+    "An isosceles right triangle is a special isosceles triangle that has two angles that are 45 degrees and legs a and b of equal length.",
+    "For example, let’s find the hypotenuse c for a triangle with leg a = 3 and leg b = 4.",
+    "3² + 4² = c² 9 + 16 = c² 25 = c² 25 = c 5 = c So, the hypotenuse c is equal to 5 for a right triangle with legs a = 3 and b = 4.",
+    "For example, let’s find the angle of a triangle if the adjacent side length is 7 and the hypotenuse is 15.",
+    "You can also use the special rule of triangles where the sum of all angles must equal 180°.",
+    "Subtract 90° (because this is a right triangle, we know one of the angles is 90°) and the angle you just found from 180 to find the missing angle.",
+    "Formulas for 30 60 90 Right Triangles A 30 60 90 triangle is a special right triangle with 30° and 60° interior angles adjacent to the right 90° angle.",
+    "Hypotenuse c In the case of a 30 60 90 right triangle, the length of the hypotenuse is always equal to two times the length of the shortest leg.",
+    "Formulas for 45 45 90 Right Triangles A 45 45 90 triangle is a special right isosceles triangle with 45° interior angles adjacent to the 90° right angle."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 2,
+   "images": 7,
+   "videos": 0,
+   "calculatorInputs": [
+    "Leg (a)",
+    "Leg (b)",
+    "Hypotenuse (c)",
+    "Angle (α)",
+    "Angle (α) Units",
+    "Angle (β)",
+    "Angle (β) Units",
+    "Height (h)",
+    "Area",
+    "Perimeter",
+    "Result Unit",
+    "Result Unit"
+   ],
+   "selectOptionsSample": "deg rad deg rad ° rad ° rad",
+   "unitToggle": false,
+   "wordsBeforeTool": 29,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2020-08-31",
+    "modified": "2023-02-15T01:10:28+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 140,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 56,
+    "external": 13,
+    "contentInternal": 32,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "What is a Right Triangle?",
+     "Types of Right Triangles",
+     "How to Find the Hypotenuse of a Right Triangle",
+     "How to Find a Missing Side",
+     "How to Find the Angle of a Right Triangle",
+     "How to Find the Area of a Right Triangle",
+     "Method One: Using Two Legs",
+     "Method Two: Using Hypotenuse and One Leg",
+     "Method Three: Using One Leg and One Angle",
+     "How to Find the Perimeter",
+     "Special Right Triangles",
+     "Formulas for 30 60 90 Right Triangles",
+     "Formulas for 45 45 90 Right Triangles",
+     "Full bio",
+     "Right Triangle Calculator",
+     "triangle",
+     "isosceles triangle"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/right-triangle-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/right-triangle/",
+     "https://www.inchcalculator.com/right-triangle-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/right-triangle-calculator/#idx_what_is_a_right_triangle",
+     "https://www.inchcalculator.com/right-triangle-calculator/#idx_types_of_right_triangles",
+     "https://www.inchcalculator.com/right-triangle-calculator/#idx_how_to_find_the_hypotenuse_of_a_right_triangle",
+     "https://www.inchcalculator.com/right-triangle-calculator/#idx_how_to_find_a_missing_side",
+     "https://www.inchcalculator.com/right-triangle-calculator/#idx_how_to_find_the_angle_of_a_right_triangle",
+     "https://www.inchcalculator.com/right-triangle-calculator/#idx_how_to_find_the_area_of_a_right_triangle",
+     "https://www.inchcalculator.com/right-triangle-calculator/#idx_method_one_using_two_legs",
+     "https://www.inchcalculator.com/right-triangle-calculator/#idx_method_two_using_hypotenuse_and_one_leg",
+     "https://www.inchcalculator.com/right-triangle-calculator/#idx_method_three_using_one_leg_and_one_angle",
+     "https://www.inchcalculator.com/right-triangle-calculator/#idx_how_to_find_the_perimeter",
+     "https://www.inchcalculator.com/right-triangle-calculator/#idx_special_right_triangles",
+     "https://www.inchcalculator.com/right-triangle-calculator/#idx_formulas_for_30_60_90_right_triangles",
+     "https://www.inchcalculator.com/right-triangle-calculator/#idx_formulas_for_45_45_90_right_triangles",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/zachary-boeder/",
+     "https://www.inchcalculator.com/right-triangle-calculator/",
+     "https://www.inchcalculator.com/triangle-calculator/",
+     "https://www.inchcalculator.com/isosceles-triangle-calculator/",
+     "https://www.inchcalculator.com/pythagorean-theorem-calculator/",
+     "https://www.inchcalculator.com/trigonometry-calculator/",
+     "https://www.inchcalculator.com/sohcahtoa-calculator/",
+     "https://www.inchcalculator.com/triangle-area-calculator/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fright-triangle-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fright-triangle-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fright-triangle-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fright-triangle-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fright-triangle-calculator%2F&text=Right+Triangle+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fright-triangle-calculator%2F&text=Right+Triangle+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/geometry-plane/triangles-right.php": {
+   "url": "https://www.calculatorsoup.com/calculators/geometry-plane/triangles-right.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/geometry-plane/triangles-right.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T07:51:55.184Z",
+   "title": "Right Triangles Calculator",
+   "metaDescription": "Calculator and Pythagorean Theorem to find sides, perimeter, semiperimeter, area and altitudes of Right Triangles. Given 1 known you can find the unknowns of the triangle.",
+   "canonical": "https://www.calculatorsoup.com/calculators/geometry-plane/triangles-right.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Right Triangles Calculator"
+   ],
+   "h2": [
+    "Right Triangle Shape",
+    "Pythagorean Triples"
+   ],
+   "h3": [
+    "Pythagorean Triple (3, 4, 5)",
+    "Pythagorean Triple (5, 12, 13)",
+    "Formulas and Calculations for a right triangle:",
+    "1. Given sides a and b find side c and the perimeter, semiperimeter, area and altitudes",
+    "2. Given sides a and c find side b and the perimeter, semiperimeter, area and altitudes",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Right Triangles Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Right Triangle Shape"
+    },
+    {
+     "level": 2,
+     "text": "Pythagorean Triples"
+    },
+    {
+     "level": 3,
+     "text": "Pythagorean Triple (3, 4, 5)"
+    },
+    {
+     "level": 3,
+     "text": "Pythagorean Triple (5, 12, 13)"
+    },
+    {
+     "level": 3,
+     "text": "Formulas and Calculations for a right triangle:"
+    },
+    {
+     "level": 3,
+     "text": "1. Given sides a and b find side c and the perimeter, semiperimeter, area and altitudes"
+    },
+    {
+     "level": 3,
+     "text": "2. Given sides a and c find side b and the perimeter, semiperimeter, area and altitudes"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 772,
+   "avgSentenceWords": 32,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "right triangle",
+     "weight": 26
+    },
+    {
+     "term": "right",
+     "weight": 25
+    },
+    {
+     "term": "triangle",
+     "weight": 19
+    },
+    {
+     "term": "pythagorean",
+     "weight": 14
+    },
+    {
+     "term": "calculator",
+     "weight": 11
+    },
+    {
+     "term": "right triangles",
+     "weight": 11
+    },
+    {
+     "term": "pythagorean triples",
+     "weight": 9
+    },
+    {
+     "term": "triangles",
+     "weight": 8
+    },
+    {
+     "term": "altitude",
+     "weight": 8
+    },
+    {
+     "term": "triangles calculator",
+     "weight": 8
+    },
+    {
+     "term": "angle",
+     "weight": 7
+    },
+    {
+     "term": "triples",
+     "weight": 7
+    },
+    {
+     "term": "calculators",
+     "weight": 6
+    },
+    {
+     "term": "sides",
+     "weight": 6
+    },
+    {
+     "term": "pythagorean theorem",
+     "weight": 6
+    },
+    {
+     "term": "side",
+     "weight": 5
+    },
+    {
+     "term": "area",
+     "weight": 5
+    },
+    {
+     "term": "perimeter",
+     "weight": 5
+    },
+    {
+     "term": "known",
+     "weight": 5
+    },
+    {
+     "term": "triple",
+     "weight": 5
+    },
+    {
+     "term": "find",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators geometry",
+     "weight": 5
+    },
+    {
+     "term": "pythagorean triple",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "geometry",
+     "weight": 4
+    },
+    {
+     "term": "theorem",
+     "weight": 4
+    },
+    {
+     "term": "know",
+     "weight": 4
+    },
+    {
+     "term": "semiperimeter",
+     "weight": 4
+    },
+    {
+     "term": "equation",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "A right triangle is a special case of a triangle where one angle is equal to 90 degrees.",
+    "In the case of a right triangle the length of the sides have a predictable relationship where a2 + b2 = c2.",
+    "In our calculations for a right triangle we only consider 2 known sides to calculate the other 7 unknowns."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 7,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "Choose a Calculation",
+    "a =",
+    "b =",
+    "Units*",
+    "Significant Figures",
+    "reset"
+   ],
+   "selectOptionsSample": "find c, p, s, k, ha, hb, hc | given a, b find b, p, s, k, ha, hb, hc | given a, c none km m cm mm mi yd ft in auto 3 4 5 6 7 8 9",
+   "unitToggle": true,
+   "wordsBeforeTool": 20,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "August 1, 2025",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 55,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 18,
+    "external": 4,
+    "contentInternal": 9,
+    "contentExternal": 4,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Geometry",
+     "Plane",
+     "Right Triangles Calculator",
+     "Triangle Image",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Let us know",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/geometry-calculators.php",
+     "https://www.calculatorsoup.com/calculators/geometry-plane/",
+     "https://www.calculatorsoup.com/calculators/geometry-plane/triangles-right.php",
+     "https://www.calculatorsoup.com/calculators/geometry-plane/triangles-right.php#calculationImage",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=geometry-calculators.php&folderName=Geometry&folder2=geometry-plane%2F&folderName2=Plane&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/geometry-plane/triangles-right.php&h1=Right+Triangles+Calculator&pop_w=400&pop_h=700",
+     "https://www.calculatorsoup.com/contact.php"
+    ],
+    "externalSample": [
+     "http://mathworld.wolfram.com/about/author.html",
+     "http://mathworld.wolfram.com/",
+     "http://mathworld.wolfram.com/RightTriangle.html",
+     "http://mathworld.wolfram.com/Altitude.html"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/math/right-triangle": {
+   "url": "https://www.omnicalculator.com/math/right-triangle",
+   "finalUrl": "https://www.omnicalculator.com/math/right-triangle",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T07:52:03.484Z",
+   "title": "Right Triangle Calculator",
+   "metaDescription": "The right triangle calculator helps you find the sides and area of a right triangle.",
+   "canonical": "https://www.omnicalculator.com/math/right-triangle",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Right Triangle Calculator"
+   ],
+   "h2": [
+    "What is a right triangle (or right-angled triangle)?",
+    "Hypotenuse calculator",
+    "How to find the area of a right triangle",
+    "Other considerations when dealing with a right triangle",
+    "Special triangles",
+    "Special right triangles",
+    "Right angled triangles and parallelograms",
+    "Pythagorean triplets, triangles meet maths",
+    "Shadows and right triangles (radius of the Earth)",
+    "FAQs"
+   ],
+   "h3": [
+    "Which side lengths form a right triangle?",
+    "Do 2, 3, and 4 make a right triangle?",
+    "How do I find the circumcenter of a right angle triangle?",
+    "How do I find the orthocenter of a right angle triangle?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Right Triangle Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is a right triangle (or right-angled triangle)?"
+    },
+    {
+     "level": 2,
+     "text": "Hypotenuse calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to find the area of a right triangle"
+    },
+    {
+     "level": 2,
+     "text": "Other considerations when dealing with a right triangle"
+    },
+    {
+     "level": 2,
+     "text": "Special triangles"
+    },
+    {
+     "level": 2,
+     "text": "Special right triangles"
+    },
+    {
+     "level": 2,
+     "text": "Right angled triangles and parallelograms"
+    },
+    {
+     "level": 2,
+     "text": "Pythagorean triplets, triangles meet maths"
+    },
+    {
+     "level": 2,
+     "text": "Shadows and right triangles (radius of the Earth)"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "Which side lengths form a right triangle?"
+    },
+    {
+     "level": 3,
+     "text": "Do 2, 3, and 4 make a right triangle?"
+    },
+    {
+     "level": 3,
+     "text": "How do I find the circumcenter of a right angle triangle?"
+    },
+    {
+     "level": 3,
+     "text": "How do I find the orthocenter of a right angle triangle?"
+    }
+   ],
+   "wordCount": 2494,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "Which side lengths form a right triangle?",
+    "Do 2, 3, and 4 make a right triangle?",
+    "How do I find the circumcenter of a right angle triangle?",
+    "How do I find the orthocenter of a right angle triangle?",
+    "What is a right triangle (or right-angled triangle)?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "right",
+     "weight": 77
+    },
+    {
+     "term": "triangle",
+     "weight": 75
+    },
+    {
+     "term": "right triangle",
+     "weight": 53
+    },
+    {
+     "term": "triangles",
+     "weight": 34
+    },
+    {
+     "term": "right angled",
+     "weight": 24
+    },
+    {
+     "term": "calculator",
+     "weight": 23
+    },
+    {
+     "term": "area",
+     "weight": 20
+    },
+    {
+     "term": "right triangles",
+     "weight": 20
+    },
+    {
+     "term": "angle",
+     "weight": 19
+    },
+    {
+     "term": "have",
+     "weight": 19
+    },
+    {
+     "term": "triangle calculator",
+     "weight": 18
+    },
+    {
+     "term": "right angle",
+     "weight": 17
+    },
+    {
+     "term": "hypotenuse",
+     "weight": 16
+    },
+    {
+     "term": "angled",
+     "weight": 16
+    },
+    {
+     "term": "special",
+     "weight": 16
+    },
+    {
+     "term": "angled triangle",
+     "weight": 14
+    },
+    {
+     "term": "sides",
+     "weight": 13
+    },
+    {
+     "term": "pythagorean",
+     "weight": 12
+    },
+    {
+     "term": "find",
+     "weight": 11
+    },
+    {
+     "term": "angled triangles",
+     "weight": 11
+    },
+    {
+     "term": "rectangle",
+     "weight": 10
+    },
+    {
+     "term": "pythagorean theorem",
+     "weight": 9
+    },
+    {
+     "term": "theorem",
+     "weight": 9
+    },
+    {
+     "term": "square",
+     "weight": 9
+    },
+    {
+     "term": "now",
+     "weight": 9
+    },
+    {
+     "term": "height",
+     "weight": 9
+    },
+    {
+     "term": "special triangles",
+     "weight": 9
+    },
+    {
+     "term": "numbers",
+     "weight": 9
+    },
+    {
+     "term": "let's",
+     "weight": 8
+    },
+    {
+     "term": "angles",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "The definition is very simple and might even seem obvious for those who already know it: a right-angled triangle is a triangle where one and only one of the angles is exactly 90°.",
+    "The other two angles will clearly be smaller than the right angle because the sum of all angles in a triangle is always 180°.",
+    "An easy way to determine if the triangle is right, and you just know the coordinates, is to see if the slopes of any two lines multiply to equal -1.",
+    "One of the most known special triangles is the equilateral triangle, which has three equal sides and all its angles are 60°.",
+    "Another of special triangles is the isosceles triangle, which has 2 sides of equal length, and hence two angles of the same size.",
+    "Special right triangles The so-called \"45 45 90\" triangle is probably the most special among all the special right triangles.",
+    "For those interested in knowing more about the most special of the special right triangles, we recommend checking out the 45 45 90 triangle calculator made for this purpose.",
+    "Another fascinating triangle from the group of special right triangles is the so-called \"30 60 90\" triangle.",
+    "The name comes from having one right angle (90°), then one angle of 30°, and another of 60°.",
+    "The consequences of this can be seen and understood with the 30 60 90 triangle calculator, but for those who are too lazy to click the link, we will summarize some of them here."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 4,
+   "images": 6,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Álvaro Díez",
+    "published": "2016-01-17T22:38:28.690Z",
+    "modified": "2026-07-13T21:19:22.343Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 602,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 22,
+    "external": 1,
+    "contentInternal": 6,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "the hypotenuse calculator",
+     "Pythagorean theorem calculator",
+     "area of a right triangle calculator",
+     "45 45 90 triangle calculator",
+     "30 60 90 triangle calculator",
+     "Pythagorean triple calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/math/hypotenuse",
+     "https://www.omnicalculator.com/math/pythagorean-theorem",
+     "https://www.omnicalculator.com/math/right-triangle-area",
+     "https://www.omnicalculator.com/math/triangle-45-45-90",
+     "https://www.omnicalculator.com/math/triangle-30-60-90",
+     "https://www.omnicalculator.com/math/pythagorean-triples"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.pearson.com/channels/it-IT/calculators/right-triangle-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.pearson.com/channels/calculators/right-triangle-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.geeksforgeeks.org/?p=1221146": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.miniwebtool.com/right-triangle-calculator/": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

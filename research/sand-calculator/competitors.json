@@ -1,0 +1,1165 @@
+{
+ "pages": {
+  "https://inchcalculator.com/sand-calculator": {
+   "url": "https://inchcalculator.com/sand-calculator",
+   "finalUrl": "https://www.inchcalculator.com/sand-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T07:50:47.796Z",
+   "title": "Sand Calculator - Find How Much Sand You Need - Inch Calculator",
+   "metaDescription": "Use our sand calculator to find out how much sand you need in tons and yards, plus learn how much it weighs.",
+   "canonical": "https://www.inchcalculator.com/sand-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Sand Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Sand Needed",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate Sand",
+    "Sand and Landscaping Material Weight",
+    "How to Account for Overage",
+    "Frequently Asked Questions",
+    "Similar Landscaping Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Estimated Material Cost",
+    "Step One: Calculate Volume in Yards",
+    "Step Two: Calculate Sand in Tons",
+    "What are the different types of sand?",
+    "Does the type of sand affect the weight?",
+    "Do you buy sand by the yard or ton?",
+    "What is sand used for?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Sand Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Sand Needed"
+    },
+    {
+     "level": 3,
+     "text": "Estimated Material Cost"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Sand"
+    },
+    {
+     "level": 3,
+     "text": "Step One: Calculate Volume in Yards"
+    },
+    {
+     "level": 4,
+     "text": "Cubic Yards Formula Using Inches"
+    },
+    {
+     "level": 4,
+     "text": "Cubic Yards Formula Using Feet"
+    },
+    {
+     "level": 3,
+     "text": "Step Two: Calculate Sand in Tons"
+    },
+    {
+     "level": 4,
+     "text": "How Much Does a Yard of Sand Weigh?"
+    },
+    {
+     "level": 4,
+     "text": "Cubic Yards to Tons Formula"
+    },
+    {
+     "level": 2,
+     "text": "Sand and Landscaping Material Weight"
+    },
+    {
+     "level": 2,
+     "text": "How to Account for Overage"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "What are the different types of sand?"
+    },
+    {
+     "level": 3,
+     "text": "Does the type of sand affect the weight?"
+    },
+    {
+     "level": 3,
+     "text": "Do you buy sand by the yard or ton?"
+    },
+    {
+     "level": 3,
+     "text": "What is sand used for?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Landscaping Calculators"
+    }
+   ],
+   "wordCount": 1216,
+   "avgSentenceWords": 26,
+   "faqs": [
+    "What are the different types of sand?",
+    "Does the type of sand affect the weight?",
+    "Do you buy sand by the yard or ton?",
+    "What is sand used for?",
+    "How Much Does a Yard of Sand Weigh?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "sand",
+     "weight": 47
+    },
+    {
+     "term": "cubic",
+     "weight": 28
+    },
+    {
+     "term": "tons",
+     "weight": 20
+    },
+    {
+     "term": "cubic yards",
+     "weight": 18
+    },
+    {
+     "term": "material",
+     "weight": 16
+    },
+    {
+     "term": "yards",
+     "weight": 15
+    },
+    {
+     "term": "weight",
+     "weight": 14
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "volume",
+     "weight": 13
+    },
+    {
+     "term": "yard",
+     "weight": 13
+    },
+    {
+     "term": "calculate",
+     "weight": 11
+    },
+    {
+     "term": "cubic yard",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "calculate sand",
+     "weight": 8
+    },
+    {
+     "term": "feet",
+     "weight": 7
+    },
+    {
+     "term": "inches",
+     "weight": 7
+    },
+    {
+     "term": "sand calculator",
+     "weight": 6
+    },
+    {
+     "term": "need",
+     "weight": 6
+    },
+    {
+     "term": "landscaping",
+     "weight": 6
+    },
+    {
+     "term": "material weight",
+     "weight": 6
+    },
+    {
+     "term": "area",
+     "weight": 6
+    },
+    {
+     "term": "cubic inches",
+     "weight": 6
+    },
+    {
+     "term": "yards cubic",
+     "weight": 6
+    },
+    {
+     "term": "gravel",
+     "weight": 6
+    },
+    {
+     "term": "much",
+     "weight": 5
+    },
+    {
+     "term": "depth",
+     "weight": 5
+    },
+    {
+     "term": "optional",
+     "weight": 5
+    },
+    {
+     "term": "have",
+     "weight": 5
+    },
+    {
+     "term": "step",
+     "weight": 5
+    },
+    {
+     "term": "lbs",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Dry sand weighs 1.3 to 1.5 tons per cubic yard, while damp sand weighs 1.5 to 1.7 tons per cubic yard.",
+    "If your project calls for 10 tons of sand, it is best to order 11 tons to account for these potential losses.",
+    "Sand classifications can be done by size or origin, with sand being classified by size as fine (0.075 to 0.425 mm), medium (0.425 to 2 mm), and coarse (2.0 to 4.75 mm)."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 2,
+   "images": 6,
+   "videos": 0,
+   "calculatorInputs": [
+    "Material",
+    "Length",
+    "Length Units",
+    "Width",
+    "Width Units",
+    "Depth",
+    "Depth Units",
+    "Price (optional)",
+    "Price Units",
+    "Material",
+    "Area",
+    "Area Units",
+    "Depth",
+    "Depth Units",
+    "Price (optional)",
+    "Price Units",
+    "Material",
+    "Volume",
+    "Volume Units",
+    "Price (optional)",
+    "Price Units"
+   ],
+   "selectOptionsSample": "sand (dry) sand (wet) gravel (¼\" - 2\") pea gravel (¼” - ⅜”) topsoil (dry) topsoil (compacted) topsoil (wet) in ft yd cm m in ft yd cm m in ft yd cm m per ton per cu yd sand (dry) sand (wet) gravel (¼\" - 2\") pea gravel (¼” - ⅜”) topsoil (dry) topsoil (compacted) topsoil (wet) sq ft sq yds sq m in ft ",
+   "unitToggle": true,
+   "wordsBeforeTool": 24,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2021-12-02",
+    "modified": "2026-03-08T19:08:18+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 137,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 50,
+    "external": 15,
+    "contentInternal": 26,
+    "contentExternal": 9,
+    "internalAnchors": [
+     "find square feet",
+     "find cubic yards",
+     "below",
+     "Add This to Your Site",
+     "Sand Calculator",
+     "How to Calculate Sand",
+     "Step One: Calculate Volume in Yards",
+     "Step Two: Calculate Sand in Tons",
+     "Sand and Landscaping Material Weight",
+     "How to Account for Overage",
+     "Frequently Asked Questions",
+     "Full bio",
+     "cubic inches",
+     "cubic feet",
+     "cubic yardage calculator",
+     "cubic yards to tons calculator",
+     "gravel",
+     "stone",
+     "soil",
+     "concrete"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/square-footage-calculator/",
+     "https://www.inchcalculator.com/cubic-yards-calculator/",
+     "https://www.inchcalculator.com/sand-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/sand/",
+     "https://www.inchcalculator.com/sand-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/sand-calculator/#idx_how_to_calculate_sand",
+     "https://www.inchcalculator.com/sand-calculator/#idx_step_one_calculate_volume_in_yards",
+     "https://www.inchcalculator.com/sand-calculator/#idx_step_two_calculate_sand_in_tons",
+     "https://www.inchcalculator.com/sand-calculator/#idx_sand_weight_chart",
+     "https://www.inchcalculator.com/sand-calculator/#idx_how_to_account_for_overage",
+     "https://www.inchcalculator.com/sand-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/sarabeth-asaff-south/",
+     "https://www.inchcalculator.com/sand-calculator/",
+     "https://www.inchcalculator.com/cubic-inches-calculator/",
+     "https://www.inchcalculator.com/cubic-footage-calculator/",
+     "https://www.inchcalculator.com/cubic-yards-to-tons-calculator/",
+     "https://www.inchcalculator.com/gravel-calculator/",
+     "https://www.inchcalculator.com/stone-calculator/",
+     "https://www.inchcalculator.com/soil-calculator/",
+     "https://www.inchcalculator.com/concrete-calculator/",
+     "https://www.inchcalculator.com/paint-calculator/",
+     "https://www.inchcalculator.com/gravel-driveway-calculator/",
+     "https://www.inchcalculator.com/mulch-calculator/",
+     "https://www.inchcalculator.com/paver-calculator/"
+    ],
+    "externalSample": [
+     "https://apps.apple.com/app/gravel-calculator-plus/id1504997190",
+     "https://play.google.com/store/apps/details?id=com.inchcalculator.gravel_calculator",
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fsand-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fsand-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fsand-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fsand-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fsand-calculator%2F&text=Sand+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fsand-calculator%2F&text=Sand+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/construction/sand": {
+   "url": "https://www.omnicalculator.com/construction/sand",
+   "finalUrl": "https://www.omnicalculator.com/construction/sand",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T07:54:27.919Z",
+   "title": "Sand Calculator",
+   "metaDescription": "Use our sand calculator to determine the amount of sand you need and how much will it cost you.",
+   "canonical": "https://www.omnicalculator.com/construction/sand",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Sand Calculator"
+   ],
+   "h2": [
+    "How much sand do I need?",
+    "All right, but how much does a yard of sand weigh?",
+    "What if I use concrete?",
+    "FAQs"
+   ],
+   "h3": [
+    "How heavy is a bag of sand?",
+    "How do you calculate cubic meters of sand?",
+    "What is the volume of 1 tonne of sand?",
+    "Is sand heavier when it's wet?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Sand Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How much sand do I need?"
+    },
+    {
+     "level": 2,
+     "text": "All right, but how much does a yard of sand weigh?"
+    },
+    {
+     "level": 2,
+     "text": "What if I use concrete?"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How heavy is a bag of sand?"
+    },
+    {
+     "level": 3,
+     "text": "How do you calculate cubic meters of sand?"
+    },
+    {
+     "level": 3,
+     "text": "What is the volume of 1 tonne of sand?"
+    },
+    {
+     "level": 3,
+     "text": "Is sand heavier when it's wet?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 730,
+   "avgSentenceWords": 16,
+   "faqs": [
+    "How heavy is a bag of sand?",
+    "How do you calculate cubic meters of sand?",
+    "What is the volume of 1 tonne of sand?",
+    "Is sand heavier when it's wet?",
+    "How much sand do I need?",
+    "Any sand left?",
+    "All right, but how much does a yard of sand weigh?",
+    "What if I use concrete?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "sand",
+     "weight": 33
+    },
+    {
+     "term": "volume",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "sand calculator",
+     "weight": 9
+    },
+    {
+     "term": "excavation",
+     "weight": 9
+    },
+    {
+     "term": "density",
+     "weight": 8
+    },
+    {
+     "term": "weight",
+     "weight": 7
+    },
+    {
+     "term": "area",
+     "weight": 6
+    },
+    {
+     "term": "length",
+     "weight": 5
+    },
+    {
+     "term": "width",
+     "weight": 5
+    },
+    {
+     "term": "depth",
+     "weight": 5
+    },
+    {
+     "term": "calculate",
+     "weight": 5
+    },
+    {
+     "term": "have",
+     "weight": 5
+    },
+    {
+     "term": "needed",
+     "weight": 4
+    },
+    {
+     "term": "building",
+     "weight": 4
+    },
+    {
+     "term": "material",
+     "weight": 4
+    },
+    {
+     "term": "much",
+     "weight": 4
+    },
+    {
+     "term": "multiply",
+     "weight": 4
+    },
+    {
+     "term": "cubic",
+     "weight": 4
+    },
+    {
+     "term": "concrete",
+     "weight": 4
+    },
+    {
+     "term": "price",
+     "weight": 3
+    },
+    {
+     "term": "total",
+     "weight": 3
+    },
+    {
+     "term": "total cost",
+     "weight": 3
+    },
+    {
+     "term": "help",
+     "weight": 3
+    },
+    {
+     "term": "much sand",
+     "weight": 3
+    },
+    {
+     "term": "need",
+     "weight": 3
+    },
+    {
+     "term": "equal",
+     "weight": 3
+    },
+    {
+     "term": "value",
+     "weight": 3
+    },
+    {
+     "term": "yard",
+     "weight": 3
+    },
+    {
+     "term": "cubic yard",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "Using the sand density as 1601.95 kg/m³ means each bag would fill a volume of up to 0.025 m³ or 0.882 ft³.",
+    "If you want to find the weight of the sand that has this volume, multiply this number by the sand's density (or simply use 1601.95 kg/m³).",
+    "A tonne of sand is approximately 0.624 m³ or 22.045 ft³."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Bogna Szyk",
+    "published": "2016-05-05T21:13:33.051Z",
+    "modified": "2026-08-18T17:27:01.707Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 663,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 23,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "paver sand calculator",
+     "sandbox",
+     "cubic yard",
+     "stone calculator",
+     "tonnage",
+     "concrete estimator",
+     "Stone Weight Calculator",
+     "Board and Batten Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/construction/paver-sand",
+     "https://www.omnicalculator.com/other/sandbox",
+     "https://www.omnicalculator.com/construction/cubic-yard",
+     "https://www.omnicalculator.com/construction/stone",
+     "https://www.omnicalculator.com/construction/tonnage",
+     "https://www.omnicalculator.com/construction/concrete-slab",
+     "https://www.omnicalculator.com/construction/board-and-batten"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.thecalculatorsite.com/conversions/common/cubic-yards-tons.php": {
+   "url": "https://www.thecalculatorsite.com/conversions/common/cubic-yards-tons.php",
+   "finalUrl": "https://www.thecalculatorsite.com/conversions/common/cubic-yards-tons.php",
+   "mode": "offline-parse",
+   "domain": "www.thecalculatorsite.com",
+   "fetchedAt": "2026-11-22T07:54:31.170Z",
+   "title": "Cubic Yards To Tons Calculator",
+   "metaDescription": "Convert between cubic yards and US tons and metric tonnes using this calculator tool",
+   "canonical": "https://www.thecalculatorsite.com/conversions/common/cubic-yards-tons.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Cubic Yards to Tons Calculator"
+   ],
+   "h2": [
+    "How do I convert cubic yards to tons?",
+    "How many tons of topsoil in a cubic yard?",
+    "Materials for cubic yards to tons conversion"
+   ],
+   "h3": [
+    "Cubic yards to tons for common materials"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Cubic Yards to Tons Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How do I convert cubic yards to tons?"
+    },
+    {
+     "level": 2,
+     "text": "How many tons of topsoil in a cubic yard?"
+    },
+    {
+     "level": 3,
+     "text": "Cubic yards to tons for common materials"
+    },
+    {
+     "level": 2,
+     "text": "Materials for cubic yards to tons conversion"
+    },
+    {
+     "level": 4,
+     "text": "Finance"
+    },
+    {
+     "level": 4,
+     "text": "Home & Garden"
+    },
+    {
+     "level": 4,
+     "text": "Cooking"
+    },
+    {
+     "level": 4,
+     "text": "Website"
+    }
+   ],
+   "wordCount": 1488,
+   "avgSentenceWords": 40,
+   "faqs": [
+    "How do I convert cubic yards to tons?",
+    "How many tons of topsoil in a cubic yard?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "calculator",
+     "weight": 58
+    },
+    {
+     "term": "cubic",
+     "weight": 34
+    },
+    {
+     "term": "cubic yards",
+     "weight": 27
+    },
+    {
+     "term": "tons",
+     "weight": 22
+    },
+    {
+     "term": "ft3",
+     "weight": 21
+    },
+    {
+     "term": "grams",
+     "weight": 19
+    },
+    {
+     "term": "yards",
+     "weight": 18
+    },
+    {
+     "term": "density",
+     "weight": 15
+    },
+    {
+     "term": "cubic yard",
+     "weight": 14
+    },
+    {
+     "term": "feet",
+     "weight": 13
+    },
+    {
+     "term": "weight",
+     "weight": 13
+    },
+    {
+     "term": "cups",
+     "weight": 11
+    },
+    {
+     "term": "pounds",
+     "weight": 11
+    },
+    {
+     "term": "gravel",
+     "weight": 11
+    },
+    {
+     "term": "topsoil",
+     "weight": 11
+    },
+    {
+     "term": "calculator cubic",
+     "weight": 11
+    },
+    {
+     "term": "square",
+     "weight": 10
+    },
+    {
+     "term": "calculators",
+     "weight": 9
+    },
+    {
+     "term": "yard",
+     "weight": 9
+    },
+    {
+     "term": "sand",
+     "weight": 9
+    },
+    {
+     "term": "dry",
+     "weight": 8
+    },
+    {
+     "term": "cubic feet",
+     "weight": 8
+    },
+    {
+     "term": "ounces",
+     "weight": 7
+    },
+    {
+     "term": "volume",
+     "weight": 7
+    },
+    {
+     "term": "asphalt",
+     "weight": 7
+    },
+    {
+     "term": "mulch",
+     "weight": 7
+    },
+    {
+     "term": "material",
+     "weight": 7
+    },
+    {
+     "term": "metric",
+     "weight": 7
+    },
+    {
+     "term": "interest",
+     "weight": 6
+    },
+    {
+     "term": "inches",
+     "weight": 6
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [],
+   "schemaFormats": [],
+   "tables": 1,
+   "lists": 28,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "I want to calculate/convert...",
+    "Material (approximations):",
+    "Density:",
+    "densityopt",
+    "Cubic yards:",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "selectOptionsSample": "-- select material -- asphalt (crushed) asphalt (hot mix) asphalt (liquid) cement (portland) concrete dirt gravel (loose, dry) gravel (dry, 1/4 to 2 in) gravel (wet 1/4 to 2 in) gravel (with sand) limestone (crushed) limestone (low density) limestone (high density) mulch (bark) mulch (woodchip) sand",
+   "unitToggle": true,
+   "wordsBeforeTool": 7,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 302,
+    "adNetworks": [
+     "gpt",
+     "adthrive",
+     "ezoic"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 159,
+    "external": 3,
+    "contentInternal": 159,
+    "contentExternal": 3,
+    "internalAnchors": [
+     "Finance Calculators",
+     "Compound Interest",
+     "Compound Interest (Daily)",
+     "Amortization Calculator",
+     "APY Calculator",
+     "CAGR Calculator",
+     "Car Loan Calculator",
+     "Cash Back Calculator",
+     "Currency Converter",
+     "Forex Compounding",
+     "Future Value Calculator",
+     "How Long to Save",
+     "Interest Rate Calculator",
+     "Investment Calculator",
+     "IRR Calculator",
+     "Loan Calculator",
+     "Loan Payoff Calculator",
+     "Margin Calculator",
+     "Million to Billion Converter",
+     "MMA Calculator"
+    ],
+    "internalSample": [
+     "https://www.thecalculatorsite.com/",
+     "https://www.thecalculatorsite.com/finance/",
+     "https://www.thecalculatorsite.com/finance/calculators/compoundinterestcalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/daily-compound-interest.php",
+     "https://www.thecalculatorsite.com/finance/calculators/amortization-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/apy-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/cagr-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/carloancalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/cash-back.php",
+     "https://www.thecalculatorsite.com/finance/calculators/currencyconverter.php",
+     "https://www.thecalculatorsite.com/finance/calculators/forex-compound-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/future-value-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/how-long-to-save",
+     "https://www.thecalculatorsite.com/finance/calculators/interest-rate-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/investment-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/irr-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/loancalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/loan-payoff-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/margin-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/million-billion",
+     "https://www.thecalculatorsite.com/finance/calculators/money-market-account.php",
+     "https://www.thecalculatorsite.com/finance/calculators/money-counter.php",
+     "https://www.thecalculatorsite.com/finance/calculators/price-per-sqft.php",
+     "https://www.thecalculatorsite.com/finance/calculators/savings-calculators.php",
+     "https://www.thecalculatorsite.com/finance/calculators/savings-goal-calculator.php"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=thecalculatorsite.com",
+     "https://www.engineeringtoolbox.com/density-materials-d_1652.html",
+     "https://www.simetric.co.uk/si_materials.htm"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatored.com/yards-to-tons-calculator": {
+   "url": "https://www.calculatored.com/yards-to-tons-calculator",
+   "finalUrl": "https://www.calculatored.com/yards-to-tons-calculator",
+   "mode": "offline-parse",
+   "domain": "www.calculatored.com",
+   "fetchedAt": "2026-11-22T07:54:35.098Z",
+   "title": "Yards To Tons Calculator",
+   "metaDescription": "Our Yards to Tons calculator calculates the cubic yards to tons of different products according to their density.",
+   "canonical": "https://www.calculatored.com/yards-to-tons-calculator",
+   "robotsMeta": "index, follow",
+   "lang": "en",
+   "h1": [
+    "Yards To Tons Calculator"
+   ],
+   "h2": [
+    "How do I Convert Yards to Tons?",
+    "Yards to Tons Formula:",
+    "Practical Examples:",
+    "How our Yards to Tons Calculator Operates:",
+    "Yards to Tons Conversion Table:",
+    "Citation:"
+   ],
+   "h3": [
+    "Solution:",
+    "Related Calculator"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Yards To Tons Calculator"
+    }
+   ],
+   "wordCount": 20,
+   "avgSentenceWords": 20,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [],
+   "claims": [],
+   "schemaTypes": [],
+   "schemaFormats": [],
+   "tables": 0,
+   "lists": 0,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "hp_ref_code",
+    "Material(Estimations):",
+    "Density:",
+    "lb/ft³ ▾",
+    "Cubic yards:",
+    "hp_ref_code"
+   ],
+   "selectOptionsSample": "own density asphalt (crushed) asphalt (liquid) cement (portland) concrete dirt gravel (loose, dry) gravel (dry, 1/4 to 2 in) gravel (wet 1/4 to 2 in) gravel (with sand) limestone (crushed) limestone (low density) limestone (high density) mulch (bark) mulch (woodchip) sand (dry) sand (loose) sand (we",
+   "unitToggle": true,
+   "wordsBeforeTool": 167,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 94,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 58,
+    "external": 6,
+    "contentInternal": 0,
+    "contentExternal": 0,
+    "internalAnchors": [],
+    "internalSample": [],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://omnicalculator.com/construction/sand": [
+   "unreachable (fetch failed)"
+  ],
+  "https://apps.apple.com/us/app/-/id1552854569": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.gigacalculator.com/calculators/sand-calculator.php": [
+   "disallowed by robots.txt"
+  ],
+  "https://www.angi.com/articles/sand-calculator.htm": [
+   "unreachable (fetch failed)"
+  ],
+  "https://apps.apple.com/mx/app/sand-calculator/id1552854569": [
+   "unreachable (fetch failed)"
+  ],
+  "https://wba.omnicalculator.com/construction/sand": [
+   "unreachable (fetch failed)"
+  ],
+  "https://paperform.co/templates/sand-calculator-for-pavers-sandbox.md": [
+   "unreachable (fetch failed)"
+  ],
+  "https://housing.com/news/how-to-use-sand-calculator/amp/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.holcim.co.uk/digital-tools/sands-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://hellogravel.com/calculators/products/sand/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://paperform.co/templates/sand-calculator-for-pavers-sandbox/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://bushe.co/tools/sand-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.homeadvisor.com/r/pool-sand-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.sciencing.com:443/calculate-weight-sand-8149924": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.easyunitconverter.com/sand-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://puretables.com/sand-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://backofnapkin.netlify.app/lawn-care-calculators/sand-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.ibran.com/pages/sand-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://topshelfaquatics.com/pages/aquarium-sand-bed-calculator": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

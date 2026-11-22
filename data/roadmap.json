@@ -2083,7 +2083,7 @@
     "www.calculator.net/gravel-calculator.html"
    ],
    "category": "construction",
-   "status": "todo",
+   "status": "live",
    "order": 12,
    "batch": 2
   },
@@ -2266,7 +2266,7 @@
     "www.calculator.net/army-body-fat-calculator.html"
    ],
    "category": "health",
-   "status": "todo",
+   "status": "live",
    "order": 13,
    "batch": 2
   },
@@ -2385,7 +2385,7 @@
     "www.calculator.net/401k-calculator.html"
    ],
    "category": "finance",
-   "status": "todo",
+   "status": "live",
    "order": 14,
    "batch": 2
   },
@@ -2442,7 +2442,7 @@
     "www.calculator.net/rounding-calculator.html"
    ],
    "category": "construction",
-   "status": "todo",
+   "status": "live",
    "order": 15,
    "batch": 2
   },
@@ -2788,7 +2788,7 @@
     "www.omnicalculator.com/math/right-triangle-area"
    ],
    "category": "math",
-   "status": "todo",
+   "status": "live",
    "order": 16,
    "batch": 2
   },
