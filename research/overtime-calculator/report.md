@@ -1,6 +1,6 @@
 # Competitor analysis: "overtime calculator"
 
-- Research id: `overtime-calculator` · roadmap page: Overtime Calculator · report generated 2026-11-22
+- Research id: `overtime-calculator` · roadmap page: Overtime Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -11,7 +11,7 @@
 | Volume 14800, KD 19, intent C | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #1: www.omnicalculator.com/finance/overtime | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
 | Result list for "overtime calculator time and a half [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-22 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -282,25 +282,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.inchcalculator.com/overtime-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/finance/overtime (inspected 2026-11-22, offline-parse)
-- https://www.thecalculatorsite.com/finance/calculators/overtime.php (inspected 2026-11-22, offline-parse)
-- https://www.calculatorsoup.com/calculators/financial/gross-pay-calculator.php (inspected 2026-11-22, offline-parse)
-- https://clockify.me/overtime-pay-calculators: not inspected (unreachable (fetch failed))
-- https://workforce.com/news/overtime-calculator: not inspected (unreachable (fetch failed))
-- https://www.pearson.com/channels/it-IT/calculators/overtime-calculator: not inspected (unreachable (fetch failed))
-- https://www.pearson.com/channels/it/calculators/overtime-calculator: not inspected (unreachable (fetch failed))
-- https://toggl.com/overtime-calculator/: not inspected (unreachable (fetch failed))
-- https://toggl.com/track/overtime-calculator/: not inspected (unreachable (fetch failed))
-- https://omnicalculator.com/finance/overtime: not inspected (unreachable (fetch failed))
-- https://www.zoho.com/people/hr-toolkit/free-calculators/overtime-calculators.html: not inspected (unreachable (fetch failed))
-- https://resourceguruapp.com/blog/time-management/overtime-calculator: not inspected (unreachable (fetch failed))
-- https://connecteam.com/free-tools/overtime-calculator/: not inspected (unreachable (fetch failed))
-- https://resourceguruapp.com/blog/?p=7577: not inspected (unreachable (fetch failed))
-- https://www.timecamp.com/resources/oc/overtime-calculator: not inspected (unreachable (fetch failed))
-- https://everhour.com/calculators/easy-overtime-calculator: not inspected (unreachable (fetch failed))
-- https://online.visual-paradigm.com/tabular/calculator/finance/overtime-calculator/: not inspected (unreachable (fetch failed))
-- https://everhour.com/calculators/lightweight-overtime-calculator: not inspected (unreachable (fetch failed))
-- https://wba.omnicalculator.com/finance/overtime: not inspected (unreachable (fetch failed))
-- https://www.aihr.com/?p=265244098: not inspected (unreachable (fetch failed))
-- https://zap-hosting.com/en/tools/calculators/overtime-calculator: not inspected (unreachable (fetch failed))
+- https://www.inchcalculator.com/overtime-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/finance/overtime (inspected 2026-11-23, offline-parse)
+- https://www.thecalculatorsite.com/finance/calculators/overtime.php (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/financial/gross-pay-calculator.php (inspected 2026-11-23, offline-parse)

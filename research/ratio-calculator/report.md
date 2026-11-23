@@ -1,6 +1,6 @@
 # Competitor analysis: "ratio calculator"
 
-- Research id: `ratio-calculator` · roadmap page: Ratio Calculator · report generated 2026-11-21
+- Research id: `ratio-calculator` · roadmap page: Ratio Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "ratio calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-21 |
 | Volume 1500000, KD 34 | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #2: www.calculator.net/ratio-calculator.html | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-21 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -251,10 +251,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://inchcalculator.com/ratio-calculator → https://www.inchcalculator.com/ratio-calculator/ (inspected 2026-11-21, offline-parse)
-- https://www.calculatorsoup.com/calculators/math/ratios.php (inspected 2026-11-21, offline-parse)
-- https://www.omnicalculator.com/mathematics/ratio → https://www.omnicalculator.com/math/ratio (inspected 2026-11-21, offline-parse)
-- https://www.calculator.net/ratio-calculator.htm → https://www.calculator.net/ratio-calculator.html (inspected 2026-11-21, offline-parse)
-- https://www.pearson.com/channels/ko-kr/calculators/ratio-calculator: not inspected (unreachable (fetch failed))
-- https://www.pearson.com/channels/calculators/ratio-calculator: not inspected (unreachable (fetch failed))
-- https://www.jainuniversity.ac.in/resources/calculator/ratio-calculator: not inspected (unreachable (fetch failed))
+- https://inchcalculator.com/ratio-calculator → https://www.inchcalculator.com/ratio-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/math/ratios.php (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/mathematics/ratio → https://www.omnicalculator.com/math/ratio (inspected 2026-11-23, offline-parse)
+- https://www.calculator.net/ratio-calculator.htm → https://www.calculator.net/ratio-calculator.html (inspected 2026-11-23, offline-parse)

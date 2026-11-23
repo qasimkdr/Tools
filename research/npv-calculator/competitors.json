@@ -5,7 +5,7 @@
    "finalUrl": "https://www.calculatorsoup.com/calculators/financial/net-present-value-calculator.php",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-22T10:21:26.277Z",
+   "fetchedAt": "2026-11-23T01:24:40.675Z",
    "title": "Net Present Value Calculator",
    "metaDescription": "Calculate the net present value of uneven, or even, cash flows. Finds the present value (PV) of future cash flows that start at the end or beginning of the first period. Similar to Excel function NPV().",
    "canonical": "https://www.calculatorsoup.com/calculators/financial/net-present-value-calculator.php",
@@ -257,7 +257,7 @@
    "finalUrl": "https://www.omnicalculator.com/finance/net-present-value",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T10:21:29.643Z",
+   "fetchedAt": "2026-11-23T01:24:42.143Z",
    "title": "NPV Calculator",
    "metaDescription": "NPV calculator determines the net present value of your investment.",
    "canonical": "https://www.omnicalculator.com/finance/net-present-value",
@@ -551,7 +551,7 @@
    "finalUrl": "https://www.inchcalculator.com/net-present-value-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-22T10:21:32.605Z",
+   "fetchedAt": "2026-11-23T01:24:43.611Z",
    "title": "Net Present Value Calculator - Inch Calculator",
    "metaDescription": "Calculate the net present value of an investment using our NPV calculator. Plus, learn the net present value formula and steps to find it.",
    "canonical": "https://www.inchcalculator.com/net-present-value-calculator/",
@@ -936,48 +936,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.pearson.com/channels/calculators/npv-irr-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.pearson.com/channels/it/calculators/npv-irr-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://vertex42.com/Calculators/npv-irr-calculator.html": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.gigacalculator.com/calculators/npv-calculator.php": [
-   "disallowed by robots.txt"
-  ],
-  "https://apps.apple.com/us/app/npv-calculator/id6449587062": [
-   "unreachable (fetch failed)"
-  ],
-  "https://getholdings.com/tools/npv-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://propertymetrics.com/?p=2944": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.scribd.com/doc/268712058/NPV-Calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://openstax.org/books/principles-of-finance-2e/pages/16-2-net-present-value-npv-method": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.onesdr.com/npv-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.blackridgeresearch.com/tools/npv-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://miniwebtool.com/npv-calculator/video/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://coefficient.io/calculate/net-present-value-npv": [
-   "unreachable (fetch failed)"
-  ],
-  "https://calculate.co.nz/npv-calculator.php": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

@@ -5,7 +5,7 @@
    "finalUrl": "https://www.inchcalculator.com/square-footage-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-21T19:29:23.464Z",
+   "fetchedAt": "2026-11-23T01:23:26.281Z",
    "title": "Square Footage Calculator - Inch Calculator",
    "metaDescription": "Find the square footage of an area, property, building, or shape and calculate project costs by entering the price per square foot.",
    "canonical": "https://www.inchcalculator.com/square-footage-calculator/",
@@ -449,7 +449,7 @@
    "finalUrl": "https://www.thecalculatorsite.com/misc/square-footage-calculator.php",
    "mode": "offline-parse",
    "domain": "www.thecalculatorsite.com",
-   "fetchedAt": "2026-11-21T19:29:34.329Z",
+   "fetchedAt": "2026-11-23T01:23:27.686Z",
    "title": "Square Footage Calculator",
    "metaDescription": "Calculate square footage instantly with our free calculator. Measure rooms, properties, and areas using feet, inches, or meters.",
    "canonical": "https://www.thecalculatorsite.com/misc/square-footage-calculator.php",
@@ -828,7 +828,7 @@
    "finalUrl": "https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-21T19:29:37.551Z",
+   "fetchedAt": "2026-11-23T01:23:29.139Z",
    "title": "Square Footage Calculator",
    "metaDescription": "Calculate square footage, square meters, square yards and acres for a house, room, roof or land parcel. How to measure and calculate square feet for flooring, carpet, painting or tile projects. Enter measurements in US or metric units. Calculate project cost based on price per square foot, square yard or square meter.",
    "canonical": "https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php",
@@ -1264,7 +1264,7 @@
    "finalUrl": "https://www.omnicalculator.com/construction/wall-square-footage",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-21T19:29:40.777Z",
+   "fetchedAt": "2026-11-23T01:23:30.522Z",
    "title": "Wall Square Footage Calculator",
    "metaDescription": "Our wall square footage calculator is a simple tool that allows you to calculate the area of yours walls and the amount of wallcovering needed to cover them.",
    "canonical": "https://www.omnicalculator.com/construction/wall-square-footage",
@@ -1551,51 +1551,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.homedepot.com/c/ah/how-to-calculate-square-footage/9ba683603be9fa5395fab90647548f6": [
-   "disallowed by robots.txt"
-  ],
-  "https://www.chase.com/personal/mortgage/education/owning-a-home/how-to-calculate-square-footage": [
-   "unreachable (fetch failed)"
-  ],
-  "https://blog.remax.ca/how-to-calculate-square-footage/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.newhomesource.com/learn/how-to-calculate-house-square-footage": [
-   "unreachable (fetch failed)"
-  ],
-  "https://angi.com/articles/how-to-figure-out-square-footage.htm": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.homedepot.ca/en/home/ideas-how-to/floors/how-to-calculate-square-footage.html": [
-   "unreachable (fetch failed)"
-  ],
-  "https://aol.com/calculate-square-feet-why-home-193420808.html": [
-   "unreachable (fetch failed)"
-  ],
-  "https://bankrate.com/real-estate/determine-square-footage-of-home": [
-   "unreachable (fetch failed)"
-  ],
-  "https://thecalculatorsite.com/articles/units/how-to-calculate-square-footage.php": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.homedit.com/calculators/how-to-calculate-square-footage": [
-   "unreachable (fetch failed)"
-  ],
-  "https://chase.com/personal/mortgage/education/owning-a-home/calculating-square-footage": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.masterclass.com/articles/how-to-measure-square-footage-of-a-house": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.redfin.com/blog/how-to-calculate-the-square-footage-of-your-home/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://homeserve.com/en-us/blog/how-to/calculate-square-footage": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.houzz.in/ideabooks/109244980/thumbs/do-you-know-how-to-calculate-a-home-s-square-footage": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

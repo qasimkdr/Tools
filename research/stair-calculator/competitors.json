@@ -5,7 +5,7 @@
    "finalUrl": "https://www.calculator.net/stair-calculator.html",
    "mode": "offline-parse",
    "domain": "www.calculator.net",
-   "fetchedAt": "2026-11-22T10:49:00.090Z",
+   "fetchedAt": "2026-11-23T01:26:27.196Z",
    "title": "Stair Calculator",
    "metaDescription": "This stair calculator computes stair parameters such as rise, total run, angle, and stringer length based on the height, run, tread, and headroom requirements.",
    "canonical": null,
@@ -317,7 +317,7 @@
    "finalUrl": "https://www.omnicalculator.com/construction/stairs",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T10:49:03.269Z",
+   "fetchedAt": "2026-11-23T01:26:28.595Z",
    "title": "Stair Calculator",
    "metaDescription": "The stair calculator helps you design comfortable stairs: it finds the stair stringer length, as well as the rise and run of individual steps.",
    "canonical": "https://www.omnicalculator.com/construction/stairs",
@@ -611,9 +611,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.inchcalculator.com/stair-calculator/": [
-   "HTTP 404"
-  ]
- }
+ "failed": {}
 }

@@ -1,6 +1,6 @@
 # Competitor analysis: "sourdough calculator"
 
-- Research id: `sourdough-calculator` · roadmap page: Sourdough Calculator · report generated 2026-11-22
+- Research id: `sourdough-calculator` · roadmap page: Sourdough Calculator · report generated 2026-11-23
 - Pages inspected: **1** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -9,7 +9,7 @@
 |---|---|---|---|
 | Result list for "sourdough calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 1600, KD 1, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -171,5 +171,4 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.omnicalculator.com/food/sourdough (inspected 2026-11-22, offline-parse)
-- https://www.gigacalculator.com/calculators/bread-calculator.php: not inspected (disallowed by robots.txt)
+- https://www.omnicalculator.com/food/sourdough (inspected 2026-11-23, offline-parse)

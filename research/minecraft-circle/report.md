@@ -1,6 +1,6 @@
 # Competitor analysis: "minecraft circle generator"
 
-- Research id: `minecraft-circle` · roadmap page: Minecraft Circle · report generated 2026-11-22
+- Research id: `minecraft-circle` · roadmap page: Minecraft Circle · report generated 2026-11-23
 - Pages inspected: **1** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "minecraft circle generator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 33100, KD 29, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #2: www.omnicalculator.com/other/minecraft-circle | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -165,5 +165,4 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.omnicalculator.com/other/minecraft-circle (inspected 2026-11-22, offline-parse)
-- https://www.calculate.co.nz/minecraft-circle-generator.php: not inspected (unreachable (fetch failed))
+- https://www.omnicalculator.com/other/minecraft-circle (inspected 2026-11-23, offline-parse)

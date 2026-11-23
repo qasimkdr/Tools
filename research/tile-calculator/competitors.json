@@ -5,7 +5,7 @@
    "finalUrl": "https://www.inchcalculator.com/tile-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-22T17:03:24.503Z",
+   "fetchedAt": "2026-11-23T01:26:46.937Z",
    "title": "Tile Calculator - Estimate Much Tile You Need - Inch Calculator",
    "metaDescription": "Calculate how much tile you need and learn how to measure flooring and backsplash projects to correctly estimate tile and material.",
    "canonical": "https://www.inchcalculator.com/tile-calculator/",
@@ -419,7 +419,7 @@
    "finalUrl": "https://www.omnicalculator.com/construction/tile",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T17:03:27.597Z",
+   "fetchedAt": "2026-11-23T01:26:48.352Z",
    "title": "Tile Calculator",
    "metaDescription": "Estimate your tile cost with precision using our tile square footage calculator. Get accurate pricing for your project. Try it now!",
    "canonical": "https://www.omnicalculator.com/construction/tile",
@@ -675,9 +675,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.calculatorsoup.com/calculators/construction/tile.php": [
-   "HTTP 404"
-  ]
- }
+ "failed": {}
 }

@@ -5,7 +5,7 @@
    "finalUrl": "https://www.omnicalculator.com/food/sourdough",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T17:03:34.644Z",
+   "fetchedAt": "2026-11-23T01:26:14.010Z",
    "title": "Sourdough Calculator",
    "metaDescription": "The sourdough calculator is an efficient tool for calculating the various ingredients ratios to make the perfect sourdough.",
    "canonical": "https://www.omnicalculator.com/food/sourdough",
@@ -304,9 +304,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.gigacalculator.com/calculators/bread-calculator.php": [
-   "disallowed by robots.txt"
-  ]
- }
+ "failed": {}
 }

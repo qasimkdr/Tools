@@ -1,6 +1,6 @@
 # Competitor analysis: "monthly mortgage calculator with taxes and insurance"
 
-- Research id: `mortgage-calculator` · roadmap page: Mortgage Calculator · report generated 2026-11-22
+- Research id: `mortgage-calculator` · roadmap page: Mortgage Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -11,7 +11,7 @@
 | Volume 2400, KD 2, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #10: www.calculator.net/mortgage-calculator.html | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
 | Result list for "monthly mortgage calculator with taxes and insurance [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-22 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -115,7 +115,7 @@ Calculator inputs observed:
 | Competitor | Words before tool | Ad networks | Ad slots | HTML KB | Viewport | Avg sentence |
 |---|---|---|---|---|---|---|
 | www.calculatorsoup.com | 28 | gpt | 0 | 51 | ✓ | 29 |
-| www.omnicalculator.com | 19 | gpt | 0 | 1820 | ✓ | 22 |
+| www.omnicalculator.com | 19 | gpt | 0 | 1819 | ✓ | 22 |
 | www.calculator.net | 13 | gpt | 1 | 108 | ✓ | 21 |
 | www.calculator.io | 106 | adsense | 6 | 161 | ✓ | 52 |
 
@@ -124,9 +124,9 @@ Calculator inputs observed:
 The crawler can't verify correctness. Check these competitor statements against primary sources before writing ours. They are quoted for fact-checking only; never reuse them as content.
 
 **www.omnicalculator.com**
-- "Mortgage Calculator Home value Down payment Down payment in percentage Loan amount Interest rate Loan term Interest calculation method Payment frequency First day ​ Payment Your mortgage payoff date is 11/21/2056."
+- "Mortgage Calculator Home value Down payment Down payment in percentage Loan amount Interest rate Loan term Interest calculation method Payment frequency First day ​ Payment Your mortgage payoff date is 11/22/2056."
 - "The total of the 360 mortgage payments is $246,249.06."
-- "The total payable Private Mortgage Insurance (PMI) is $4,106.25, with a $56.25 periodic contribution, that needs to be paid until 11/21/2032."
+- "The total payable Private Mortgage Insurance (PMI) is $4,106.25, with a $56.25 periodic contribution, that needs to be paid until 11/22/2032."
 - "Your total payment with all additional costs is $250,355.31."
 - "Usually, one can take a loan for up to 20 or even 30 years, but some mortgages might last for 40 or 50 years."
 - "For example, if your monthly payment is 200 dollars, but you decide to pay 100 dollars semi-monthly instead, the only gain comes from the compounding effect mentioned previously."
@@ -255,15 +255,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.calculatorsoup.com/calculators/financial/mortgage-payment-calculator.php (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com:443/finance/mortgage-calculator-with-taxes-and-insurance → https://www.omnicalculator.com/finance/mortgage (inspected 2026-11-22, offline-parse)
-- https://www.calculator.net/mortgage-calculator.html (inspected 2026-11-22, offline-parse)
-- https://www.calculator.io/mortgage-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.lendingtree.com/home/mortgage/mortgage-calculator/: not inspected (unreachable (fetch failed))
-- https://www.sofi.com/mortgage-calculator-with-taxes-and-insurance/: not inspected (unreachable (fetch failed))
-- https://www.dev.lendingtree.com/home/mortgage/mortgage-calculator: not inspected (unreachable (fetch failed))
-- https://www.sofi.com/mortgage-calculator-taxes/: not inspected (unreachable (fetch failed))
-- https://www.movoto.com/blog/?p=50274: not inspected (unreachable (fetch failed))
-- https://trulia.com/blog/3-reasons-to-use-a-mortgage-calculator-with-insurance-and-taxes: not inspected (unreachable (fetch failed))
-- https://smartasset.com/mortgage/mortgage-calculator: not inspected (unreachable (fetch failed))
-- https://www.nerdwallet.com/mortgages/calculators/mortgage-calculator?trk=nw_gn_5.0: not inspected (disallowed by robots.txt)
+- https://www.calculatorsoup.com/calculators/financial/mortgage-payment-calculator.php (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com:443/finance/mortgage-calculator-with-taxes-and-insurance → https://www.omnicalculator.com/finance/mortgage (inspected 2026-11-23, offline-parse)
+- https://www.calculator.net/mortgage-calculator.html (inspected 2026-11-23, offline-parse)
+- https://www.calculator.io/mortgage-calculator/ (inspected 2026-11-23, offline-parse)

@@ -1,6 +1,6 @@
 # Competitor analysis: "payment calculator"
 
-- Research id: `payment-calculator` · roadmap page: Payment Calculator · report generated 2026-11-21
+- Research id: `payment-calculator` · roadmap page: Payment Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -11,7 +11,7 @@
 | Volume 74000, KD 16, intent C | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #9: www.calculator.net/ | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
 | Result list for "payment calculator [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-21 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-21 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -67,7 +67,7 @@
 | [www.inchcalculator.com](https://www.inchcalculator.com/loan-payment-calculator/) | tool + guide | 1949 | 4 | 4 | 4 | 3 | 5 | 4 | **24** |
 | [www.calculator.io](https://www.calculator.io/payment-calculator/) | tool (JS-rendered; inputs not parsed) | 3610 | 3 | n/a | 3 | 2 | 5 | 4 | **17** /25 |
 | [www.omnicalculator.com](https://www.omnicalculator.com/finance/loan-payment) | tool (JS-rendered; inputs not parsed) | 1866 | 4 | n/a | 3 | 3 | 4 | 2 | **16** /25 |
-| [www.calculator.net](https://www.calculator.net/payment-calculator.htmlpayment) | tool + guide | 1372 | 2 | 3 | 4 | 0 | 5 | 3 | **17** |
+| [www.calculator.net](https://www.calculator.net/payment-calculator.htmlpayment) | tool + guide | 1372 | 3 | 3 | 4 | 0 | 5 | 3 | **18** |
 
 <details><summary>Scoring rubric</summary>
 
@@ -90,7 +90,7 @@
 | Download / export | · | · | · | · |
 | Cost / price estimate | ✓ | ✓ | ✓ | ✓ |
 | Formula shown | · | ✓ | · | ✓ |
-| Worked examples | · | ✓ | ✓ | ✓ |
+| Worked examples | ✓ | ✓ | ✓ | ✓ |
 | Step-by-step | · | · | ✓ | · |
 | Table | ✓ | ✓ | ✓ | ✓ |
 | Chart / graph | · | ✓ | ✓ | ✓ |
@@ -244,20 +244,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.calculator.net/payment-calculator.htmlpayment → https://www.calculator.net/payment-calculator.html (inspected 2026-11-21, offline-parse)
-- https://www.omnicalculator.com/finance/loan-payment (inspected 2026-11-21, offline-parse)
-- https://www.calculator.io/payment-calculator/ (inspected 2026-11-21, offline-parse)
-- https://www.inchcalculator.com/loan-payment-calculator/ (inspected 2026-11-21, offline-parse)
-- https://uat3.www.usbank.com/vehicle-loans/payment-calculators.html: not inspected (unreachable (fetch failed))
-- https://www.transunion.com/tools/loan-payment-calculator: not inspected (unreachable (fetch failed))
-- https://www.transunion.com/calculators/simple-loan-calculator: not inspected (unreachable (fetch failed))
-- https://finance.yahoo.com/markets/options/articles/calculate-loan-payments-costs-225352200.html: not inspected (unreachable (fetch failed))
-- https://chrome.google.com/webstore/detail/payment-calculator/joflaogkkphflpdpalbioebaoaochdpj/reviews: not inspected (unreachable (fetch failed))
-- https://www.size.ly/payment-calculator: not inspected (unreachable (fetch failed))
-- https://www.creditdonkey.com/payment-calculator.html: not inspected (unreachable (fetch failed))
-- https://accuratecalculators.com/payment-calculator: not inspected (unreachable (fetch failed))
-- https://www.bankrate.com/glossary/s/simple-interest-loan: not inspected (disallowed by robots.txt)
-- https://demonstrations.wolfram.com/LoanPaymentCalculator/: not inspected (unreachable (fetch failed))
-- https://www.nerdwallet.com/personal-loans/calculators/loan-calculator: not inspected (disallowed by robots.txt)
-- https://apps.apple.com/af/app/payment-caiculator/id6478268391: not inspected (unreachable (fetch failed))
-- https://cs.thomsonreuters.com/ua/toolbox/cs_us_en/Calculator_screen_overviews/csh_standardloanpaymentscreen.htm: not inspected (unreachable (fetch failed))
+- https://www.calculator.net/payment-calculator.htmlpayment → https://www.calculator.net/payment-calculator.html (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/finance/loan-payment (inspected 2026-11-23, offline-parse)
+- https://www.calculator.io/payment-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.inchcalculator.com/loan-payment-calculator/ (inspected 2026-11-23, offline-parse)

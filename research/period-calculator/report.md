@@ -1,6 +1,6 @@
 # Competitor analysis: "period calculator"
 
-- Research id: `period-calculator` · roadmap page: Period Calculator · report generated 2026-11-22
+- Research id: `period-calculator` · roadmap page: Period Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -11,7 +11,7 @@
 | Volume 40500, KD 16, intent C | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #18: www.omnicalculator.com/health/period | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
 | Result list for "period calculator [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-22 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -261,20 +261,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.omnicalculator.com/health/period (inspected 2026-11-22, offline-parse)
-- https://www.calculator.net/period-calculator.html (inspected 2026-11-22, offline-parse)
-- https://www.calculatorsoup.com/calculators/health/period-calculator.php (inspected 2026-11-22, offline-parse)
-- https://www.calculator.io/period-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.naturalcycles.com/cyclematters/period-calculator: not inspected (unreachable (fetch failed))
-- https://flo.health/tools/period-calculator: not inspected (unreachable (fetch failed))
-- https://chrome.google.com/webstore/detail/smart-period-calculator/odfcgglnhdongcefchmkddfpmhdkodhe/reviews: not inspected (unreachable (fetch failed))
-- https://thecalculatortoolbox.odoo.com/period-calculator: not inspected (unreachable (fetch failed))
-- https://www.apollohospitals.com/health-calculators/period-calculator: not inspected (unreachable (fetch failed))
-- https://www.always.co.uk/en-gb/period-calculator: not inspected (unreachable (fetch failed))
-- https://amp.flo.health/tools/period-calculator: not inspected (unreachable (fetch failed))
-- https://www.hdfcergo.com/health-insurance/wellness-corner/assess-your-wellness/period-calculator: not inspected (unreachable (fetch failed))
-- https://www.motherhoodindia.com/?p=84811: not inspected (unreachable (fetch failed))
-- https://www.vedantu.com/calculator/period: not inspected (unreachable (fetch failed))
-- https://www.calkoo.com/en/period-calculator: not inspected (unreachable (fetch failed))
-- https://www.ob-tampons.com/period-calculator: not inspected (unreachable (fetch failed))
-- https://proovtest.com/blogs/blog/what-is-a-period-calculator: not inspected (unreachable (fetch failed))
+- https://www.omnicalculator.com/health/period (inspected 2026-11-23, offline-parse)
+- https://www.calculator.net/period-calculator.html (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/health/period-calculator.php (inspected 2026-11-23, offline-parse)
+- https://www.calculator.io/period-calculator/ (inspected 2026-11-23, offline-parse)

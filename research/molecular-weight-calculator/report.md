@@ -1,6 +1,6 @@
 # Competitor analysis: "molecular weight calculator"
 
-- Research id: `molecular-weight-calculator` · roadmap page: Molecular Weight Calculator · report generated 2026-11-22
+- Research id: `molecular-weight-calculator` · roadmap page: Molecular Weight Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -11,7 +11,7 @@
 | Volume 1000000, KD 39, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #14: www.calculator.net/molecular-weight-calculator.html | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
 | Result list for "molecular weight calculator [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-22 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -233,23 +233,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.calculator.net/molecular-weight-calculator → https://www.calculator.net/molecular-weight-calculator.html (inspected 2026-11-22, offline-parse)
-- https://www.calculatorsoup.com/calculators/chemistry/molecular-weight.php (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/chemistry/molecular-weight (inspected 2026-11-22, offline-parse)
-- https://www.inchcalculator.com/molar-mass-calculator/ (inspected 2026-11-22, offline-parse)
-- https://Omnicalculator.com/chemistry/molecular-weight: not inspected (unreachable (fetch failed))
-- https://calculator.net/molecular-weight-calculator.html: not inspected (unreachable (fetch failed))
-- https://www.selleckchem.com/molecular-weight-calculator.html: not inspected (unreachable (fetch failed))
-- https://testbook.com/calculators/molecular-weight-calculator: not inspected (unreachable (fetch failed))
-- https://calctool.org/CALC/chem/molecular/mwt: not inspected (unreachable (fetch failed))
-- https://www.lenntech.com/molecular-weight-calculator.htm: not inspected (unreachable (fetch failed))
-- https://javalab.org/?p=13432: not inspected (unreachable (fetch failed))
-- https://javalab.org/en/molecular_weight_calculator_en/: not inspected (unreachable (fetch failed))
-- https://military.tutor.com/resources/resourceframe.aspx?id=367: not inspected (unreachable (fetch failed))
-- https://pnnl-comp-mass-spec.github.io/Molecular-Weight-Calculator-VB6: not inspected (unreachable (fetch failed))
-- https://cdn.wba.omnicalculator.com/chemistry/molecular-weight: not inspected (unreachable (fetch failed))
-- https://testbook.com/amp/calculators/molecular-weight-calculator: not inspected (unreachable (fetch failed))
-- https://www.webqc.org/molecular-weight-of-..html: not inspected (unreachable (fetch failed))
-- https://celnav.de/molwt.htm: not inspected (unreachable (fetch failed))
-- https://russellcottrell.com/blog/mwCalculator.htm: not inspected (unreachable (fetch failed))
-- https://www.pearson.com/channels/ko-KR/calculators/protein-molecular-weight-calculator: not inspected (unreachable (fetch failed))
+- https://www.calculator.net/molecular-weight-calculator → https://www.calculator.net/molecular-weight-calculator.html (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/chemistry/molecular-weight.php (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/chemistry/molecular-weight (inspected 2026-11-23, offline-parse)
+- https://www.inchcalculator.com/molar-mass-calculator/ (inspected 2026-11-23, offline-parse)

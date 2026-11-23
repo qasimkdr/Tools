@@ -5,7 +5,7 @@
    "finalUrl": "https://www.omnicalculator.com/math/square-root",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T09:25:01.950Z",
+   "fetchedAt": "2026-11-23T01:26:22.824Z",
    "title": "Square Root Calculator",
    "metaDescription": "Square root calculator helps you find the square root of any positive number.",
    "canonical": "https://www.omnicalculator.com/math/square-root",
@@ -375,7 +375,7 @@
    "finalUrl": "https://www.calculatorsoup.com/calculators/algebra/squareroots.php",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-22T09:30:38.598Z",
+   "fetchedAt": "2026-11-23T01:26:24.049Z",
    "title": "Square Root Calculator",
    "metaDescription": "Square root calculator and perfect square calculator. Find the square root, or the two roots, including the principal root, of positive and negative real numbers. Calculate the positive principal root and negative root of positive real numbers.  Also tells you if the entered number is a perfect square.",
    "canonical": "https://www.calculatorsoup.com/calculators/algebra/squareroots.php",
@@ -659,7 +659,7 @@
    "finalUrl": "https://www.calculator.net/root-calculator.html",
    "mode": "offline-parse",
    "domain": "www.calculator.net",
-   "fetchedAt": "2026-11-22T09:30:41.593Z",
+   "fetchedAt": "2026-11-23T01:26:25.257Z",
    "title": "Root Calculator",
    "metaDescription": "This free root calculator determines the roots of numbers, including common roots such as a square root or a cubed root.",
    "canonical": null,
@@ -944,66 +944,5 @@
    ]
   }
  },
- "failed": {
-  "https://dqydj.com/square-root-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://dqydj.com/?p=16263": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.gigacalculator.com/calculators/square-root-calculator.php": [
-   "disallowed by robots.txt"
-  ],
-  "https://calculatorsoup.com/calculators/algebra/squareroots.php": [
-   "unreachable (fetch failed)"
-  ],
-  "https://online.visual-paradigm.com/tabular/calculator/math/square-root-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://online.visual-paradigm.com/spreadsheet-editor/calculator/square-root-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.miniwebtool.com/square-root-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://lastminuteengineers.com/square-root-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.jainuniversity.ac.in/resources/calculator/square-root-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.cuemath.com/calculators/square-root-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.gigacalculator.com/calculators/square-root-calculator.php?number=3": [
-   "disallowed by robots.txt"
-  ],
-  "https://calculator.io/square-root-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://testbook.com/amp/calculators/square-root-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://github.com/pub-calculator-io/square-root-calculator": [
-   "HTTP 403"
-  ],
-  "https://www.size.ly/calculator/square-root-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://apps.apple.com/us/app/-/id6443969012": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.mathway.com/Calculator/square-root-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://mathgoodies.com/?p=292": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.rapidtables.com/calc/math/square-root-calculator.html": [
-   "disallowed by robots.txt"
-  ],
-  "https://www.inchcalculator.com/square-root-calculator/": [
-   "HTTP 404"
-  ]
- }
+ "failed": {}
 }

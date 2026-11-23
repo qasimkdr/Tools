@@ -5,7 +5,7 @@
    "finalUrl": "https://www.calculator.net/take-home-pay-calculator.html",
    "mode": "offline-parse",
    "domain": "www.calculator.net",
-   "fetchedAt": "2026-11-22T09:58:33.156Z",
+   "fetchedAt": "2026-11-23T01:25:01.183Z",
    "title": "Take-Home-Paycheck Calculator",
    "metaDescription": "Free calculator to find the actual paycheck amount taken home after taxes and deductions from salary, or to learn more about income tax in the U.S.",
    "canonical": null,
@@ -373,7 +373,7 @@
    "finalUrl": "https://www.calculator.io/paycheck-calculator/",
    "mode": "offline-parse",
    "domain": "www.calculator.io",
-   "fetchedAt": "2026-11-22T09:58:36.103Z",
+   "fetchedAt": "2026-11-23T01:25:02.524Z",
    "title": "Paycheck Calculator",
    "metaDescription": "Discover your true take-home pay with our free Paycheck Calculator. Easily calculate your net salary after US income taxes and deductions. Try it now!",
    "canonical": "https://www.calculator.io/paycheck-calculator/",
@@ -747,7 +747,7 @@
    "finalUrl": "https://www.calculatorsoup.com/calculators/financial/gross-pay-calculator.php",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-22T09:58:38.962Z",
+   "fetchedAt": "2026-11-23T01:25:03.953Z",
    "title": "Gross Pay Calculator",
    "metaDescription": "Calculate the gross amount of pay based on hours worked and rate of pay including overtime. Summary report for total hours and total pay. Free online gross pay salary calculator plus calculators for exponents, math, fractions, factoring, plane geometry, solid geometry, algebra, finance and more",
    "canonical": "https://www.calculatorsoup.com/calculators/financial/gross-pay-calculator.php",
@@ -977,7 +977,7 @@
    "finalUrl": "https://www.omnicalculator.com/finance/annual-income",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T09:58:42.253Z",
+   "fetchedAt": "2026-11-23T01:25:05.586Z",
    "title": "Annual Income Calculator",
    "metaDescription": "The annual income calculator determines your yearly salary based on the hourly rate.",
    "canonical": "https://www.omnicalculator.com/finance/annual-income",
@@ -1282,12 +1282,5 @@
    ]
   }
  },
- "failed": {
-  "https://everhour.com/calculators/hourly-wage-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.thesalarycalculator.co.uk/hourly.php": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

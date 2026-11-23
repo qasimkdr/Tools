@@ -1,6 +1,6 @@
 # Competitor analysis: "steps to miles calculator"
 
-- Research id: `steps-to-miles-calculator` · roadmap page: Steps To Miles Calculator · report generated 2026-11-22
+- Research id: `steps-to-miles-calculator` · roadmap page: Steps To Miles Calculator · report generated 2026-11-23
 - Pages inspected: **3** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "steps to miles calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 14800, KD 22, intent C | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #2: www.omnicalculator.com/sports/steps-to-miles | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -252,6 +252,6 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.inchcalculator.com/steps-to-miles-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/sports/steps-to-miles (inspected 2026-11-22, offline-parse)
-- https://www.thecalculatorsite.com/health/steps-miles.php (inspected 2026-11-22, offline-parse)
+- https://www.inchcalculator.com/steps-to-miles-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/sports/steps-to-miles (inspected 2026-11-23, offline-parse)
+- https://www.thecalculatorsite.com/health/steps-miles.php (inspected 2026-11-23, offline-parse)

@@ -5,7 +5,7 @@
    "finalUrl": "https://www.calculator.net/right-triangle-calculator.html",
    "mode": "offline-parse",
    "domain": "www.calculator.net",
-   "fetchedAt": "2026-11-22T07:51:48.851Z",
+   "fetchedAt": "2026-11-23T01:25:54.673Z",
    "title": "Right Triangle Calculator",
    "metaDescription": "Right triangle calculator to compute side length, angle, height, area, and perimeter of a right triangle given any 2 values. It gives the calculation steps.",
    "canonical": null,
@@ -285,7 +285,7 @@
    "finalUrl": "https://www.inchcalculator.com/right-triangle-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-22T07:51:52.336Z",
+   "fetchedAt": "2026-11-23T01:25:56.214Z",
    "title": "Right Triangle Calculator - Find Any Side or Angle - Inch Calculator",
    "metaDescription": "Use our right triangle calculator to find each side, angle, area, perimeter, height, inradius, and circumradius of a right triangle.",
    "canonical": "https://www.inchcalculator.com/right-triangle-calculator/",
@@ -705,7 +705,7 @@
    "finalUrl": "https://www.calculatorsoup.com/calculators/geometry-plane/triangles-right.php",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-22T07:51:55.184Z",
+   "fetchedAt": "2026-11-23T01:25:57.515Z",
    "title": "Right Triangles Calculator",
    "metaDescription": "Calculator and Pythagorean Theorem to find sides, perimeter, semiperimeter, area and altitudes of Right Triangles. Given 1 known you can find the unknowns of the triangle.",
    "canonical": "https://www.calculatorsoup.com/calculators/geometry-plane/triangles-right.php",
@@ -998,7 +998,7 @@
    "finalUrl": "https://www.omnicalculator.com/math/right-triangle",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T07:52:03.484Z",
+   "fetchedAt": "2026-11-23T01:25:59.030Z",
    "title": "Right Triangle Calculator",
    "metaDescription": "The right triangle calculator helps you find the sides and area of a right triangle.",
    "canonical": "https://www.omnicalculator.com/math/right-triangle",
@@ -1308,18 +1308,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.pearson.com/channels/it-IT/calculators/right-triangle-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.pearson.com/channels/calculators/right-triangle-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.geeksforgeeks.org/?p=1221146": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.miniwebtool.com/right-triangle-calculator/": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

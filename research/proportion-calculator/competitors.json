@@ -5,7 +5,7 @@
    "finalUrl": "https://www.omnicalculator.com/math/proportion",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-21T21:53:01.602Z",
+   "fetchedAt": "2026-11-23T01:25:29.474Z",
    "title": "Proportion Calculator (+How to Calculate Proportion w/ Formula)",
    "metaDescription": "Proportion calculator helps find equivalent proportions given three of the four parts of the two ratios.",
    "canonical": "https://www.omnicalculator.com/math/proportion",
@@ -296,7 +296,7 @@
    "finalUrl": "https://www.calculator.io/proportion-calculator/",
    "mode": "offline-parse",
    "domain": "www.calculator.io",
-   "fetchedAt": "2026-11-21T21:56:36.897Z",
+   "fetchedAt": "2026-11-23T01:25:30.998Z",
    "title": "Proportion Calculator",
    "metaDescription": "Solve missing ratio values instantly with our free Proportion Calculator. Easily scale, enlarge, or shrink proportions and solve complex ratio equations.",
    "canonical": "https://www.calculator.io/proportion-calculator/",
@@ -590,7 +590,7 @@
    "finalUrl": "https://www.calculatorsoup.com/calculators/math/fractionssolvex.php",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-21T21:57:28.761Z",
+   "fetchedAt": "2026-11-23T01:25:32.277Z",
    "title": "Fractions Solve for Unknown X",
    "metaDescription": "Calculator solves for unknown in fractions or proportions. Find the missing number in equivalent fractions and show the work. Cross multiply fractions to solve for X.",
    "canonical": "https://www.calculatorsoup.com/calculators/math/fractionssolvex.php",
@@ -856,7 +856,7 @@
    "finalUrl": "https://www.calculator.net/ratio-calculator.html",
    "mode": "offline-parse",
    "domain": "www.calculator.net",
-   "fetchedAt": "2026-11-21T21:57:40.132Z",
+   "fetchedAt": "2026-11-23T01:25:33.506Z",
    "title": "Ratio Calculator",
    "metaDescription": "This ratio calculator solves ratios, scales ratios, or finds the missing value in a set of ratios. It can also give out ratio visual representation samples.",
    "canonical": null,
@@ -1125,63 +1125,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.gigacalculator.com/calculators/proportion-calculator.php": [
-   "disallowed by robots.txt"
-  ],
-  "https://www.miniwebtool.com/proportion-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://testbook.com/calculators/proportion-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://testbook.com/amp/calculators/proportion-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://calculator.io/proportion-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://github.com/pub-calculator-io/proportion-calculator": [
-   "HTTP 403"
-  ],
-  "https://www.vedantu.com/calculator/proportion": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.size.ly/calculator/proportion-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.firgelliauto.com/es/blogs/calculators/proportion-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.calculate.co.nz/proportion-calculator.php": [
-   "unreachable (fetch failed)"
-  ],
-  "https://brightchamps.com/math/calculators/proportion-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.firgelliauto.com/en-nz/blogs/calculators/proportion-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://basic-mathematics.com/proportion-calculator.html": [
-   "unreachable (fetch failed)"
-  ],
-  "https://miniwebtool.com/proportion-calculator/video/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.calkoo.com/en/proportion-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://meracalculator.com/math/proportion.php": [
-   "unreachable (fetch failed)"
-  ],
-  "https://cuemath.com/calculators/percent-proportion-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.easyunitconverter.com/proportion-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.rapidtables.com/calc/math/ratio-calculator.html": [
-   "disallowed by robots.txt"
-  ]
- }
+ "failed": {}
 }

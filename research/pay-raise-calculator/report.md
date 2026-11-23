@@ -1,6 +1,6 @@
 # Competitor analysis: "pay raise calculator"
 
-- Research id: `pay-raise-calculator` · roadmap page: Pay Raise Calculator · report generated 2026-11-22
+- Research id: `pay-raise-calculator` · roadmap page: Pay Raise Calculator · report generated 2026-11-23
 - Pages inspected: **3** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "pay raise calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 18100, KD 26, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #1: www.omnicalculator.com/finance/pay-raise | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -238,7 +238,6 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.omnicalculator.com/finance/pay-raise (inspected 2026-11-22, offline-parse)
-- https://www.thecalculatorsite.com/finance/calculators/pay-raise.php (inspected 2026-11-22, offline-parse)
-- https://www.inchcalculator.com/pay-raise-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.calculatorsoup.com/calculators/financial/pay-raise-calculator.php: not inspected (HTTP 404)
+- https://www.omnicalculator.com/finance/pay-raise (inspected 2026-11-23, offline-parse)
+- https://www.thecalculatorsite.com/finance/calculators/pay-raise.php (inspected 2026-11-23, offline-parse)
+- https://www.inchcalculator.com/pay-raise-calculator/ (inspected 2026-11-23, offline-parse)

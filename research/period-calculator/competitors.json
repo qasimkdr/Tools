@@ -5,7 +5,7 @@
    "finalUrl": "https://www.omnicalculator.com/health/period",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T06:02:36.245Z",
+   "fetchedAt": "2026-11-23T01:25:13.787Z",
    "title": "Period Calculator",
    "metaDescription": "Use the period calculator to analyze your menstrual cycle and determine when your next period is due.",
    "canonical": "https://www.omnicalculator.com/health/period",
@@ -324,7 +324,7 @@
    "finalUrl": "https://www.calculator.net/period-calculator.html",
    "mode": "offline-parse",
    "domain": "www.calculator.net",
-   "fetchedAt": "2026-11-22T06:02:44.346Z",
+   "fetchedAt": "2026-11-23T01:25:14.850Z",
    "title": "Period Calculator",
    "metaDescription": "This free calculator estimates days in the future during which a person is expected to undergo their period, based on information of previous periods.",
    "canonical": null,
@@ -589,7 +589,7 @@
    "finalUrl": "https://www.calculatorsoup.com/calculators/health/period-calculator.php",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-22T06:02:49.941Z",
+   "fetchedAt": "2026-11-23T01:25:15.962Z",
    "title": "Period Calculator | Menstrual Cycle Calendar",
    "metaDescription": "Free period calculator estimates the start of your next period and tracks your cycle days. Create a 12-month period calendar based on your cycle history.",
    "canonical": "https://www.calculatorsoup.com/calculators/health/period-calculator.php",
@@ -868,7 +868,7 @@
    "finalUrl": "https://www.calculator.io/period-calculator/",
    "mode": "offline-parse",
    "domain": "www.calculator.io",
-   "fetchedAt": "2026-11-22T06:06:53.351Z",
+   "fetchedAt": "2026-11-23T01:25:17.596Z",
    "title": "Period Calculator",
    "metaDescription": "Accurately predict your next period, track your menstrual cycle, and estimate ovulation with our free Period Calculator. Take control of your health today!",
    "canonical": "https://www.calculator.io/period-calculator/",
@@ -1190,45 +1190,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.naturalcycles.com/cyclematters/period-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://flo.health/tools/period-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://chrome.google.com/webstore/detail/smart-period-calculator/odfcgglnhdongcefchmkddfpmhdkodhe/reviews": [
-   "unreachable (fetch failed)"
-  ],
-  "https://thecalculatortoolbox.odoo.com/period-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.apollohospitals.com/health-calculators/period-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.always.co.uk/en-gb/period-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://amp.flo.health/tools/period-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.hdfcergo.com/health-insurance/wellness-corner/assess-your-wellness/period-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.motherhoodindia.com/?p=84811": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.vedantu.com/calculator/period": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.calkoo.com/en/period-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.ob-tampons.com/period-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://proovtest.com/blogs/blog/what-is-a-period-calculator": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

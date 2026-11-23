@@ -175,4 +175,3 @@ The crawler can't verify correctness. Check these competitor statements against 
 ## Sources
 
 - https://www.omnicalculator.com/biology/pine-straw (inspected 2026-11-23, offline-parse)
-- https://www.inchcalculator.com/pine-straw-calculator/: not inspected (HTTP 404)

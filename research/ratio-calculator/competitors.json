@@ -5,7 +5,7 @@
    "finalUrl": "https://www.inchcalculator.com/ratio-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-21T21:54:18.838Z",
+   "fetchedAt": "2026-11-23T01:25:45.106Z",
    "title": "Ratio Calculator - Find, Solve, and Simplify Ratios - Inch Calculator",
    "metaDescription": "Calculate ratios using our ultimate ratio calculator to solve, reduce, scale, or compare. Plus, learn the steps and formulas for each.",
    "canonical": "https://www.inchcalculator.com/ratio-calculator/",
@@ -395,7 +395,7 @@
    "finalUrl": "https://www.calculatorsoup.com/calculators/math/ratios.php",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-21T21:54:24.426Z",
+   "fetchedAt": "2026-11-23T01:25:46.220Z",
    "title": "Ratio Calculator",
    "metaDescription": "Ratio calculator solves missing values and compares ratio pairs or 3 number ratios. Solve ratio problems A:B = C:D, scale ratio proportions, and check equivalence.",
    "canonical": "https://www.calculatorsoup.com/calculators/math/ratios.php",
@@ -711,7 +711,7 @@
    "finalUrl": "https://www.omnicalculator.com/math/ratio",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-21T21:54:28.781Z",
+   "fetchedAt": "2026-11-23T01:25:48.127Z",
    "title": "Ratio Calculator",
    "metaDescription": "Master ratios easily with our ratio calculator: Learn how to find a ratio and discover equivalent ratios quickly and accurately. Try it today!",
    "canonical": "https://www.omnicalculator.com/math/ratio",
@@ -1000,7 +1000,7 @@
    "finalUrl": "https://www.calculator.net/ratio-calculator.html",
    "mode": "offline-parse",
    "domain": "www.calculator.net",
-   "fetchedAt": "2026-11-21T21:54:32.000Z",
+   "fetchedAt": "2026-11-23T01:25:49.719Z",
    "title": "Ratio Calculator",
    "metaDescription": "This ratio calculator solves ratios, scales ratios, or finds the missing value in a set of ratios. It can also give out ratio visual representation samples.",
    "canonical": null,
@@ -1272,15 +1272,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.pearson.com/channels/ko-kr/calculators/ratio-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.pearson.com/channels/calculators/ratio-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.jainuniversity.ac.in/resources/calculator/ratio-calculator": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

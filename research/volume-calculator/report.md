@@ -1,6 +1,6 @@
 # Competitor analysis: "volume calculator"
 
-- Research id: `volume-calculator` · roadmap page: Volume Calculator · report generated 2026-11-22
+- Research id: `volume-calculator` · roadmap page: Volume Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -8,7 +8,7 @@
 | Data | Source | Type | Date |
 |---|---|---|---|
 | Result list for "volume calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -300,7 +300,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.calculator.net/volume-calculator.html (inspected 2026-11-22, offline-parse)
-- https://www.inchcalculator.com/volume-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/math/volume (inspected 2026-11-22, offline-parse)
-- https://www.calculatorsoup.com/calculators/geometry-solids/volume.php (inspected 2026-11-22, offline-parse)
+- https://www.calculator.net/volume-calculator.html (inspected 2026-11-23, offline-parse)
+- https://www.inchcalculator.com/volume-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/math/volume (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/geometry-solids/volume.php (inspected 2026-11-23, offline-parse)

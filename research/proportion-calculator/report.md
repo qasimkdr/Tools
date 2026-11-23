@@ -1,6 +1,6 @@
 # Competitor analysis: "proportion calculator"
 
-- Research id: `proportion-calculator` · roadmap page: Proportion Calculator · report generated 2026-11-21
+- Research id: `proportion-calculator` · roadmap page: Proportion Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -11,7 +11,7 @@
 | Volume 1200000, KD 31, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #2: www.omnicalculator.com/math/proportion | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
 | Result list for "proportion calculator [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-21 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-21 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -232,26 +232,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.omnicalculator.com/math/proportion (inspected 2026-11-21, offline-parse)
-- https://www.calculator.io/proportion-calculator/ (inspected 2026-11-21, offline-parse)
-- https://www.calculatorsoup.com/calculators/math/fractionssolvex.php (inspected 2026-11-21, offline-parse)
-- https://www.calculator.net/ratio-calculator.html (inspected 2026-11-21, offline-parse)
-- https://www.gigacalculator.com/calculators/proportion-calculator.php: not inspected (disallowed by robots.txt)
-- https://www.miniwebtool.com/proportion-calculator: not inspected (unreachable (fetch failed))
-- https://testbook.com/calculators/proportion-calculator: not inspected (unreachable (fetch failed))
-- https://testbook.com/amp/calculators/proportion-calculator: not inspected (unreachable (fetch failed))
-- https://calculator.io/proportion-calculator: not inspected (unreachable (fetch failed))
-- https://github.com/pub-calculator-io/proportion-calculator: not inspected (HTTP 403)
-- https://www.vedantu.com/calculator/proportion: not inspected (unreachable (fetch failed))
-- https://www.size.ly/calculator/proportion-calculator: not inspected (unreachable (fetch failed))
-- https://www.firgelliauto.com/es/blogs/calculators/proportion-calculator: not inspected (unreachable (fetch failed))
-- https://www.calculate.co.nz/proportion-calculator.php: not inspected (unreachable (fetch failed))
-- https://brightchamps.com/math/calculators/proportion-calculator: not inspected (unreachable (fetch failed))
-- https://www.firgelliauto.com/en-nz/blogs/calculators/proportion-calculator: not inspected (unreachable (fetch failed))
-- https://basic-mathematics.com/proportion-calculator.html: not inspected (unreachable (fetch failed))
-- https://miniwebtool.com/proportion-calculator/video/: not inspected (unreachable (fetch failed))
-- https://www.calkoo.com/en/proportion-calculator: not inspected (unreachable (fetch failed))
-- https://meracalculator.com/math/proportion.php: not inspected (unreachable (fetch failed))
-- https://cuemath.com/calculators/percent-proportion-calculator: not inspected (unreachable (fetch failed))
-- https://www.easyunitconverter.com/proportion-calculator: not inspected (unreachable (fetch failed))
-- https://www.rapidtables.com/calc/math/ratio-calculator.html: not inspected (disallowed by robots.txt)
+- https://www.omnicalculator.com/math/proportion (inspected 2026-11-23, offline-parse)
+- https://www.calculator.io/proportion-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/math/fractionssolvex.php (inspected 2026-11-23, offline-parse)
+- https://www.calculator.net/ratio-calculator.html (inspected 2026-11-23, offline-parse)

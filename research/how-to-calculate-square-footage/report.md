@@ -1,6 +1,6 @@
 # Competitor analysis: "how to calculate square footage"
 
-- Research id: `how-to-calculate-square-footage` · roadmap page: Square Footage Calculator · report generated 2026-11-21
+- Research id: `how-to-calculate-square-footage` · roadmap page: Square Footage Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -11,7 +11,7 @@
 | Volume 22200, KD 34, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #1: www.calculator.net/square-footage-calculator.html | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
 | Result list for "how to calculate square footage [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-21 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-21 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -317,22 +317,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.inchcalculator.com/square-footage-calculator/ (inspected 2026-11-21, offline-parse)
-- https://www.thecalculatorsite.com/misc/square-footage-calculator.php (inspected 2026-11-21, offline-parse)
-- https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php (inspected 2026-11-21, offline-parse)
-- https://www.omnicalculator.com/construction/wall-square-footage (inspected 2026-11-21, offline-parse)
-- https://www.homedepot.com/c/ah/how-to-calculate-square-footage/9ba683603be9fa5395fab90647548f6: not inspected (disallowed by robots.txt)
-- https://www.chase.com/personal/mortgage/education/owning-a-home/how-to-calculate-square-footage: not inspected (unreachable (fetch failed))
-- https://blog.remax.ca/how-to-calculate-square-footage/: not inspected (unreachable (fetch failed))
-- https://www.newhomesource.com/learn/how-to-calculate-house-square-footage: not inspected (unreachable (fetch failed))
-- https://angi.com/articles/how-to-figure-out-square-footage.htm: not inspected (unreachable (fetch failed))
-- https://www.homedepot.ca/en/home/ideas-how-to/floors/how-to-calculate-square-footage.html: not inspected (unreachable (fetch failed))
-- https://aol.com/calculate-square-feet-why-home-193420808.html: not inspected (unreachable (fetch failed))
-- https://bankrate.com/real-estate/determine-square-footage-of-home: not inspected (unreachable (fetch failed))
-- https://thecalculatorsite.com/articles/units/how-to-calculate-square-footage.php: not inspected (unreachable (fetch failed))
-- https://www.homedit.com/calculators/how-to-calculate-square-footage: not inspected (unreachable (fetch failed))
-- https://chase.com/personal/mortgage/education/owning-a-home/calculating-square-footage: not inspected (unreachable (fetch failed))
-- https://www.masterclass.com/articles/how-to-measure-square-footage-of-a-house: not inspected (unreachable (fetch failed))
-- https://www.redfin.com/blog/how-to-calculate-the-square-footage-of-your-home/: not inspected (unreachable (fetch failed))
-- https://homeserve.com/en-us/blog/how-to/calculate-square-footage: not inspected (unreachable (fetch failed))
-- https://www.houzz.in/ideabooks/109244980/thumbs/do-you-know-how-to-calculate-a-home-s-square-footage: not inspected (unreachable (fetch failed))
+- https://www.inchcalculator.com/square-footage-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.thecalculatorsite.com/misc/square-footage-calculator.php (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/construction/wall-square-footage (inspected 2026-11-23, offline-parse)

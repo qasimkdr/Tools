@@ -1,6 +1,6 @@
 # Competitor analysis: "hourly wage and tax calculator"
 
-- Research id: `paycheck-calculator` · roadmap page: Paycheck Calculator · report generated 2026-11-22
+- Research id: `paycheck-calculator` · roadmap page: Paycheck Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "hourly wage and tax calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 3600, KD 1, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Result list for "hourly paycheck calculator take home pay taxes [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-22 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -267,9 +267,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.calculator.net/take-home-pay-calculator.html (inspected 2026-11-22, offline-parse)
-- https://www.calculator.io/paycheck-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.calculatorsoup.com/calculators/financial/gross-pay-calculator.php (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/finance/annual-income (inspected 2026-11-22, offline-parse)
-- https://everhour.com/calculators/hourly-wage-calculator: not inspected (unreachable (fetch failed))
-- https://www.thesalarycalculator.co.uk/hourly.php: not inspected (unreachable (fetch failed))
+- https://www.calculator.net/take-home-pay-calculator.html (inspected 2026-11-23, offline-parse)
+- https://www.calculator.io/paycheck-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/financial/gross-pay-calculator.php (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/finance/annual-income (inspected 2026-11-23, offline-parse)

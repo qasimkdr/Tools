@@ -1,6 +1,6 @@
 # Competitor analysis: "square footage calculator"
 
-- Research id: `square-footage-calculator` · roadmap page: Square Footage Calculator · report generated 2026-11-22
+- Research id: `square-footage-calculator` · roadmap page: Square Footage Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "square footage calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 74000, KD 31, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #2: www.calculator.net/square-footage-calculator.html | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -300,18 +300,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.inchcalculator.com/square-footage-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php (inspected 2026-11-22, offline-parse)
-- https://www.thecalculatorsite.com/misc/square-footage-calculator.php (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/all/square-footage → https://www.omnicalculator.com/construction/square-footage (inspected 2026-11-22, offline-parse)
-- https://www.homedepot.com/c/ah/how-to-calculate-square-footage/9ba683603be9fa5395fab90647548f6: not inspected (disallowed by robots.txt)
-- https://www.housecallpro.com/general-contractor/templates-calculators/square-footage-calculator/: not inspected (unreachable (fetch failed))
-- https://calculator.net/square-footage-calculator.html: not inspected (unreachable (fetch failed))
-- https://www.homeadvisor.com/article.show.Calculating-Square-Footage.14155.html: not inspected (unreachable (fetch failed))
-- https://www.jainuniversity.ac.in/resources/calculator/square-footage-calculator: not inspected (unreachable (fetch failed))
-- https://www.gigacalculator.com/calculators/square-footage-calculator.php: not inspected (disallowed by robots.txt)
-- https://omnicalculator.com/construction/square-footage: not inspected (unreachable (fetch failed))
-- https://www.homelight.com/blog/square-footage-calculator/: not inspected (unreachable (fetch failed))
-- https://www.miniwebtool.com/square-footage-calculator/: not inspected (unreachable (fetch failed))
-- https://calculator.io/square-footage-calculator: not inspected (unreachable (fetch failed))
-- https://www.livehome3d.com/useful-articles/square-footage-calculators: not inspected (unreachable (fetch failed))
+- https://www.inchcalculator.com/square-footage-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php (inspected 2026-11-23, offline-parse)
+- https://www.thecalculatorsite.com/misc/square-footage-calculator.php (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/all/square-footage → https://www.omnicalculator.com/construction/square-footage (inspected 2026-11-23, offline-parse)

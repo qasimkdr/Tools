@@ -5,7 +5,7 @@
    "finalUrl": "https://www.omnicalculator.com/finance/pay-raise",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T17:03:41.796Z",
+   "fetchedAt": "2026-11-23T01:24:56.462Z",
    "title": "Pay Raise Calculator",
    "metaDescription": "The pay raise calculator can help you to calculate the salary increase, given the current and future wage amounts, and vice versa.",
    "canonical": "https://www.omnicalculator.com/finance/pay-raise",
@@ -293,7 +293,7 @@
    "finalUrl": "https://www.thecalculatorsite.com/finance/calculators/pay-raise.php",
    "mode": "offline-parse",
    "domain": "www.thecalculatorsite.com",
-   "fetchedAt": "2026-11-22T17:03:45.085Z",
+   "fetchedAt": "2026-11-23T01:24:58.174Z",
    "title": "Pay Raise Calculator (Hourly, Weekly, Monthly, Yearly)",
    "metaDescription": "Calculate the pay increase for an hourly, weekly, monthly or annual salary and see how your earnings increase.",
    "canonical": "https://www.thecalculatorsite.com/finance/calculators/pay-raise.php",
@@ -652,7 +652,7 @@
    "finalUrl": "https://www.inchcalculator.com/pay-raise-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-22T17:03:48.151Z",
+   "fetchedAt": "2026-11-23T01:24:59.388Z",
    "title": "Pay Raise Calculator - Calculate Salary Increase - Inch Calculator",
    "metaDescription": "Use our pay raise calculator to calculate your new wages after a raise. The calculator supports hourly or salary pay increases.",
    "canonical": "https://www.inchcalculator.com/pay-raise-calculator/",
@@ -1031,9 +1031,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.calculatorsoup.com/calculators/financial/pay-raise-calculator.php": [
-   "HTTP 404"
-  ]
- }
+ "failed": {}
 }

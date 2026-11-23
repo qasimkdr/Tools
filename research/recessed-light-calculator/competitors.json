@@ -5,7 +5,7 @@
    "finalUrl": "https://www.omnicalculator.com/everyday-life/recessed-lighting",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-23T00:24:34.356Z",
+   "fetchedAt": "2026-11-23T01:25:52.494Z",
    "title": "Free Recessed Lighting Calculator (Spacing & Placement)",
    "metaDescription": "Use this recessed lighting calculator when planning a lighting layout on a rectangular ceiling to determine the correct distances of recessed lighting fixtures for optimal room lighting.",
    "canonical": "https://www.omnicalculator.com/everyday-life/recessed-lighting",
@@ -284,9 +284,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.inchcalculator.com/recessed-lighting-calculator/": [
-   "HTTP 404"
-  ]
- }
+ "failed": {}
 }

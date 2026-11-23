@@ -5,7 +5,7 @@
    "finalUrl": "https://www.inchcalculator.com/triangle-hypotenuse-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-22T06:02:00.045Z",
+   "fetchedAt": "2026-11-23T01:23:36.306Z",
    "title": "Hypotenuse Calculator - Six Hypotenuse Formulas - Inch Calculator",
    "metaDescription": "Calculate the hypotenuse of a right triangle using the legs and angles and learn six formulas and methods to find the hypotenuse.",
    "canonical": "https://www.inchcalculator.com/triangle-hypotenuse-calculator/",
@@ -355,7 +355,7 @@
    "finalUrl": "https://www.omnicalculator.com/math/hypotenuse",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T06:06:14.668Z",
+   "fetchedAt": "2026-11-23T01:23:37.778Z",
    "title": "Hypotenuse Calculator",
    "metaDescription": "How to find the hypotenuse of a right triangle? What is the hypotenuse of a right triangle formula? Answer these questions with this hypotenuse calculator.",
    "canonical": "https://www.omnicalculator.com/math/hypotenuse",
@@ -679,7 +679,7 @@
    "finalUrl": "https://www.calculatorsoup.com/calculators/geometry-plane/pythagorean-theorem.php",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-22T06:08:43.750Z",
+   "fetchedAt": "2026-11-23T01:23:39.125Z",
    "title": "Pythagorean Theorem Calculator",
    "metaDescription": "Pythagorean Theorem Calculator uses the Pythagorean formula to find hypotenuse c, side a, side b, and area of a right triangle. Pythagorean triples explained.",
    "canonical": "https://www.calculatorsoup.com/calculators/geometry-plane/pythagorean-theorem.php",
@@ -985,7 +985,7 @@
    "finalUrl": "https://www.calculator.io/pythagorean-theorem-calculator/",
    "mode": "offline-parse",
    "domain": "www.calculator.io",
-   "fetchedAt": "2026-11-22T06:08:46.854Z",
+   "fetchedAt": "2026-11-23T01:23:40.384Z",
    "title": "Pythagorean Theorem Calculator",
    "metaDescription": "Easily find the missing side, hypotenuse, angles, area, and perimeter of any right triangle with our fast and accurate Pythagorean Theorem Calculator.",
    "canonical": "https://www.calculator.io/pythagorean-theorem-calculator/",
@@ -1305,42 +1305,5 @@
    ]
   }
  },
- "failed": {
-  "https://omnicalculator.com/math/hypotenuse": [
-   "unreachable (fetch failed)"
-  ],
-  "https://miniwebtool.com/hypotenuse-calculator/?a=2&b=3": [
-   "unreachable (fetch failed)"
-  ],
-  "https://cuemath.com/calculators/hypotenuse-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.geeksforgeeks.org/hypotenuse-of-a-triangle-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.calculate.co.nz/hypotenuse-calculator.php": [
-   "unreachable (fetch failed)"
-  ],
-  "https://wba.omnicalculator.com/math/hypotenuse": [
-   "unreachable (fetch failed)"
-  ],
-  "https://miniwebtool.com/hypotenuse-calculator/?a=7&b=9": [
-   "unreachable (fetch failed)"
-  ],
-  "https://mathcheck.net/calculators/hypotenuse": [
-   "unreachable (fetch failed)"
-  ],
-  "https://brightchamps.com/en-us/math/calculators/hypotenuse-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://brightchamps.com/en-ae/math/calculators/hypotenuse-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.jwdittrich.people.ysu.edu/CSIS_2610/hypotenuse.cpp": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.workybooks.com/resources/calculator/hypotenuse-calculator": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

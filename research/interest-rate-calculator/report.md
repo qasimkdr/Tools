@@ -1,6 +1,6 @@
 # Competitor analysis: "interest rate calculator"
 
-- Research id: `interest-rate-calculator` · roadmap page: Interest Rate Calculator · report generated 2026-11-21
+- Research id: `interest-rate-calculator` · roadmap page: Interest Rate Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "interest rate calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-21 |
 | Volume 27100, KD 7, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #14: www.omnicalculator.com/finance/savings-interest-rate | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-21 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -251,9 +251,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.calculator.net/interest-rate-calculator.html (inspected 2026-11-21, offline-parse)
-- https://www.thecalculatorsite.com/finance/calculators/interest-rate-calculator.php (inspected 2026-11-21, offline-parse)
-- https://www.omnicalculator.com/all/interest-rate → https://www.omnicalculator.com/finance/interest-rate (inspected 2026-11-21, offline-parse)
-- https://www.inchcalculator.com/interest-rate-calculator/ (inspected 2026-11-21, offline-parse)
-- https://huggingface.co/spaces/McGill-NLP/weblinx-explorer/raw/6c68b331c7bdf6443d0d1025fec3ce97a50e97c7/demonstrations/ahpnhdb/pages/page-30-0.html: not inspected (unreachable (fetch failed))
-- https://razorpay.com/s/interest-rate-calculator/: not inspected (unreachable (fetch failed))
+- https://www.calculator.net/interest-rate-calculator.html (inspected 2026-11-23, offline-parse)
+- https://www.thecalculatorsite.com/finance/calculators/interest-rate-calculator.php (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/all/interest-rate → https://www.omnicalculator.com/finance/interest-rate (inspected 2026-11-23, offline-parse)
+- https://www.inchcalculator.com/interest-rate-calculator/ (inspected 2026-11-23, offline-parse)

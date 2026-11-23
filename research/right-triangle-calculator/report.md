@@ -1,6 +1,6 @@
 # Competitor analysis: "right triangle calculator"
 
-- Research id: `right-triangle-calculator` · roadmap page: Right Triangle Calculator · report generated 2026-11-22
+- Research id: `right-triangle-calculator` · roadmap page: Right Triangle Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "right triangle calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 27100, KD 24, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #1: www.calculator.net/right-triangle-calculator.html | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -259,11 +259,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.calculator.net/right-triangle-calculator → https://www.calculator.net/right-triangle-calculator.html (inspected 2026-11-22, offline-parse)
-- https://inchcalculator.com/right-triangle-calculator → https://www.inchcalculator.com/right-triangle-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.calculatorsoup.com/calculators/geometry-plane/triangles-right.php (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/math/right-triangle (inspected 2026-11-22, offline-parse)
-- https://www.pearson.com/channels/it-IT/calculators/right-triangle-calculator: not inspected (unreachable (fetch failed))
-- https://www.pearson.com/channels/calculators/right-triangle-calculator: not inspected (unreachable (fetch failed))
-- https://www.geeksforgeeks.org/?p=1221146: not inspected (unreachable (fetch failed))
-- https://www.miniwebtool.com/right-triangle-calculator/: not inspected (unreachable (fetch failed))
+- https://www.calculator.net/right-triangle-calculator → https://www.calculator.net/right-triangle-calculator.html (inspected 2026-11-23, offline-parse)
+- https://inchcalculator.com/right-triangle-calculator → https://www.inchcalculator.com/right-triangle-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/geometry-plane/triangles-right.php (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/math/right-triangle (inspected 2026-11-23, offline-parse)

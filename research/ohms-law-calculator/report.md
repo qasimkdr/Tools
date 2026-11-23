@@ -1,6 +1,6 @@
 # Competitor analysis: "ohm calculator"
 
-- Research id: `ohms-law-calculator` · roadmap page: Ohm's Law Calculator · report generated 2026-11-22
+- Research id: `ohms-law-calculator` · roadmap page: Ohm's Law Calculator · report generated 2026-11-23
 - Pages inspected: **3** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "ohm calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 1000, KD 21, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #1: www.calculator.net/ohms-law-calculator.html | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -222,6 +222,6 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.calculator.net/ohms-law-calculator.html (inspected 2026-11-22, offline-parse)
-- https://www.inchcalculator.com/ohms-law-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/physics/ohms-law (inspected 2026-11-22, offline-parse)
+- https://www.calculator.net/ohms-law-calculator.html (inspected 2026-11-23, offline-parse)
+- https://www.inchcalculator.com/ohms-law-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/physics/ohms-law (inspected 2026-11-23, offline-parse)

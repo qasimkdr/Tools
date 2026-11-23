@@ -1,6 +1,6 @@
 # Competitor analysis: "modified adjusted gross income calculator"
 
-- Research id: `modified-adjusted-gross-income-calculator` · roadmap page: Modified Adjusted Gross Income Calculator · report generated 2026-11-22
+- Research id: `modified-adjusted-gross-income-calculator` · roadmap page: Modified Adjusted Gross Income Calculator · report generated 2026-11-23
 - Pages inspected: **2** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -9,7 +9,7 @@
 |---|---|---|---|
 | Result list for "modified adjusted gross income calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 2900, KD 3, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -195,5 +195,5 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.inchcalculator.com/magi-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/finance/magi (inspected 2026-11-22, offline-parse)
+- https://www.inchcalculator.com/magi-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/finance/magi (inspected 2026-11-23, offline-parse)

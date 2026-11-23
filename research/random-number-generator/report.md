@@ -1,6 +1,6 @@
 # Competitor analysis: "random number generator 1-100"
 
-- Research id: `random-number-generator` · roadmap page: Random Number Generator · report generated 2026-11-22
+- Research id: `random-number-generator` · roadmap page: Random Number Generator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -9,7 +9,7 @@
 |---|---|---|---|
 | Result list for "random number generator 1-100" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Result list for "random number generator 1-100 [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-22 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -251,20 +251,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.calculatorsoup.com/calculators/statistics/random-number-generator-1-100.php (inspected 2026-11-22, offline-parse)
-- https://www.calculator.net/random-number-generator.html (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/statistics/random-number (inspected 2026-11-22, offline-parse)
-- https://www.calculator.io/number-generator/ (inspected 2026-11-22, offline-parse)
-- https://chrome.google.com/webstore/detail/random-number-generator/edihajimfnplkhplpiffhobikcifjhlg/reviews: not inspected (unreachable (fetch failed))
-- https://inventivehq.com/tools/random/random-number-between-1-and-100: not inspected (unreachable (fetch failed))
-- https://spinthewheel.io/random-number-wheel-1-100: not inspected (unreachable (fetch failed))
-- https://inventivehq.com/tools/random-number-between-1-and-100: not inspected (unreachable (fetch failed))
-- https://medium.com/@simplifullstack/how-to-generate-random-numbers-between-1-to-100-in-java-5b23398f7412: not inspected (unreachable (fetch failed))
-- https://flows.nodered.org/node/node-red-contrib-random-generator: not inspected (unreachable (fetch failed))
-- https://apps.apple.com/ma/app/random-number/id1399595976: not inspected (unreachable (fetch failed))
-- https://wildandfreetools.com/blog/random-number-generator-1-100-most-common-uses: not inspected (unreachable (fetch failed))
-- https://www.github.com/infinitepower18/randomnumber-tauri: not inspected (HTTP 403)
-- https://lawrencejones-lblakej.cloudapps.unc.edu/inls-560/code/03/05_20_random_numbers3: not inspected (unreachable (fetch failed))
-- https://gamedev.net/forums/topic/637432-random-number-generator-game/: not inspected (unreachable (fetch failed))
-- https://www.justinmind.com/how-to-create-a-number-generator: not inspected (unreachable (fetch failed))
-- https://goodcalculators.com/random-number-generator/: not inspected (unreachable (fetch failed))
+- https://www.calculatorsoup.com/calculators/statistics/random-number-generator-1-100.php (inspected 2026-11-23, offline-parse)
+- https://www.calculator.net/random-number-generator.html (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/statistics/random-number (inspected 2026-11-23, offline-parse)
+- https://www.calculator.io/number-generator/ (inspected 2026-11-23, offline-parse)

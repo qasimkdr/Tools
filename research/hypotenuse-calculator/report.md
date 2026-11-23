@@ -1,6 +1,6 @@
 # Competitor analysis: "hypotenuse calculator"
 
-- Research id: `hypotenuse-calculator` · roadmap page: Hypotenuse Calculator · report generated 2026-11-22
+- Research id: `hypotenuse-calculator` · roadmap page: Hypotenuse Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -11,7 +11,7 @@
 | Volume 12100, KD 5, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #11: www.omnicalculator.com/math/pythagorean-theorem | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
 | Result list for "hypotenuse calculator [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-22 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -277,19 +277,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://inchcalculator.com/triangle-hypotenuse-calculator → https://www.inchcalculator.com/triangle-hypotenuse-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/math/hypotenuse (inspected 2026-11-22, offline-parse)
-- https://www.calculatorsoup.com/calculators/geometry-plane/pythagorean-theorem.php (inspected 2026-11-22, offline-parse)
-- https://www.calculator.io/pythagorean-theorem-calculator/ (inspected 2026-11-22, offline-parse)
-- https://omnicalculator.com/math/hypotenuse: not inspected (unreachable (fetch failed))
-- https://miniwebtool.com/hypotenuse-calculator/?a=2&b=3: not inspected (unreachable (fetch failed))
-- https://cuemath.com/calculators/hypotenuse-calculator: not inspected (unreachable (fetch failed))
-- https://www.geeksforgeeks.org/hypotenuse-of-a-triangle-calculator/: not inspected (unreachable (fetch failed))
-- https://www.calculate.co.nz/hypotenuse-calculator.php: not inspected (unreachable (fetch failed))
-- https://wba.omnicalculator.com/math/hypotenuse: not inspected (unreachable (fetch failed))
-- https://miniwebtool.com/hypotenuse-calculator/?a=7&b=9: not inspected (unreachable (fetch failed))
-- https://mathcheck.net/calculators/hypotenuse: not inspected (unreachable (fetch failed))
-- https://brightchamps.com/en-us/math/calculators/hypotenuse-calculator: not inspected (unreachable (fetch failed))
-- https://brightchamps.com/en-ae/math/calculators/hypotenuse-calculator: not inspected (unreachable (fetch failed))
-- https://www.jwdittrich.people.ysu.edu/CSIS_2610/hypotenuse.cpp: not inspected (unreachable (fetch failed))
-- https://www.workybooks.com/resources/calculator/hypotenuse-calculator: not inspected (unreachable (fetch failed))
+- https://inchcalculator.com/triangle-hypotenuse-calculator → https://www.inchcalculator.com/triangle-hypotenuse-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/math/hypotenuse (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/geometry-plane/pythagorean-theorem.php (inspected 2026-11-23, offline-parse)
+- https://www.calculator.io/pythagorean-theorem-calculator/ (inspected 2026-11-23, offline-parse)

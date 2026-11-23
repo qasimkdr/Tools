@@ -5,7 +5,7 @@
    "finalUrl": "https://www.inchcalculator.com/sand-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-22T07:50:47.796Z",
+   "fetchedAt": "2026-11-23T01:26:01.142Z",
    "title": "Sand Calculator - Find How Much Sand You Need - Inch Calculator",
    "metaDescription": "Use our sand calculator to find out how much sand you need in tons and yards, plus learn how much it weighs.",
    "canonical": "https://www.inchcalculator.com/sand-calculator/",
@@ -411,7 +411,7 @@
    "finalUrl": "https://www.omnicalculator.com/construction/sand",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T07:54:27.919Z",
+   "fetchedAt": "2026-11-23T01:26:02.575Z",
    "title": "Sand Calculator",
    "metaDescription": "Use our sand calculator to determine the amount of sand you need and how much will it cost you.",
    "canonical": "https://www.omnicalculator.com/construction/sand",
@@ -698,7 +698,7 @@
    "finalUrl": "https://www.thecalculatorsite.com/conversions/common/cubic-yards-tons.php",
    "mode": "offline-parse",
    "domain": "www.thecalculatorsite.com",
-   "fetchedAt": "2026-11-22T07:54:31.170Z",
+   "fetchedAt": "2026-11-23T01:26:03.823Z",
    "title": "Cubic Yards To Tons Calculator",
    "metaDescription": "Convert between cubic yards and US tons and metric tonnes using this calculator tool",
    "canonical": "https://www.thecalculatorsite.com/conversions/common/cubic-yards-tons.php",
@@ -1007,7 +1007,7 @@
    "finalUrl": "https://www.calculatored.com/yards-to-tons-calculator",
    "mode": "offline-parse",
    "domain": "www.calculatored.com",
-   "fetchedAt": "2026-11-22T07:54:35.098Z",
+   "fetchedAt": "2026-11-23T01:26:05.994Z",
    "title": "Yards To Tons Calculator",
    "metaDescription": "Our Yards to Tons calculator calculates the cubic yards to tons of different products according to their density.",
    "canonical": "https://www.calculatored.com/yards-to-tons-calculator",
@@ -1103,63 +1103,5 @@
    ]
   }
  },
- "failed": {
-  "https://omnicalculator.com/construction/sand": [
-   "unreachable (fetch failed)"
-  ],
-  "https://apps.apple.com/us/app/-/id1552854569": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.gigacalculator.com/calculators/sand-calculator.php": [
-   "disallowed by robots.txt"
-  ],
-  "https://www.angi.com/articles/sand-calculator.htm": [
-   "unreachable (fetch failed)"
-  ],
-  "https://apps.apple.com/mx/app/sand-calculator/id1552854569": [
-   "unreachable (fetch failed)"
-  ],
-  "https://wba.omnicalculator.com/construction/sand": [
-   "unreachable (fetch failed)"
-  ],
-  "https://paperform.co/templates/sand-calculator-for-pavers-sandbox.md": [
-   "unreachable (fetch failed)"
-  ],
-  "https://housing.com/news/how-to-use-sand-calculator/amp/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.holcim.co.uk/digital-tools/sands-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://hellogravel.com/calculators/products/sand/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://paperform.co/templates/sand-calculator-for-pavers-sandbox/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://bushe.co/tools/sand-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.homeadvisor.com/r/pool-sand-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.sciencing.com:443/calculate-weight-sand-8149924": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.easyunitconverter.com/sand-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://puretables.com/sand-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://backofnapkin.netlify.app/lawn-care-calculators/sand-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.ibran.com/pages/sand-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://topshelfaquatics.com/pages/aquarium-sand-bed-calculator": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

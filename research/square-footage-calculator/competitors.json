@@ -5,7 +5,7 @@
    "finalUrl": "https://www.inchcalculator.com/square-footage-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-22T08:42:11.954Z",
+   "fetchedAt": "2026-11-23T01:26:15.867Z",
    "title": "Square Footage Calculator - Inch Calculator",
    "metaDescription": "Find the square footage of an area, property, building, or shape and calculate project costs by entering the price per square foot.",
    "canonical": "https://www.inchcalculator.com/square-footage-calculator/",
@@ -449,7 +449,7 @@
    "finalUrl": "https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-22T08:42:15.062Z",
+   "fetchedAt": "2026-11-23T01:26:17.246Z",
    "title": "Square Footage Calculator",
    "metaDescription": "Calculate square footage, square meters, square yards and acres for a house, room, roof or land parcel. How to measure and calculate square feet for flooring, carpet, painting or tile projects. Enter measurements in US or metric units. Calculate project cost based on price per square foot, square yard or square meter.",
    "canonical": "https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php",
@@ -885,7 +885,7 @@
    "finalUrl": "https://www.thecalculatorsite.com/misc/square-footage-calculator.php",
    "mode": "offline-parse",
    "domain": "www.thecalculatorsite.com",
-   "fetchedAt": "2026-11-22T08:42:18.284Z",
+   "fetchedAt": "2026-11-23T01:26:18.645Z",
    "title": "Square Footage Calculator",
    "metaDescription": "Calculate square footage instantly with our free calculator. Measure rooms, properties, and areas using feet, inches, or meters.",
    "canonical": "https://www.thecalculatorsite.com/misc/square-footage-calculator.php",
@@ -1264,7 +1264,7 @@
    "finalUrl": "https://www.omnicalculator.com/construction/square-footage",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T08:42:51.428Z",
+   "fetchedAt": "2026-11-23T01:26:20.847Z",
    "title": "Square Footage Calculator",
    "metaDescription": "Utilize our free square footage calculator to determine the area of diverse property shapes in square feet (sq ft) accurately and effortlessly.",
    "canonical": "https://www.omnicalculator.com/construction/square-footage",
@@ -1573,39 +1573,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.homedepot.com/c/ah/how-to-calculate-square-footage/9ba683603be9fa5395fab90647548f6": [
-   "disallowed by robots.txt"
-  ],
-  "https://www.housecallpro.com/general-contractor/templates-calculators/square-footage-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://calculator.net/square-footage-calculator.html": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.homeadvisor.com/article.show.Calculating-Square-Footage.14155.html": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.jainuniversity.ac.in/resources/calculator/square-footage-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.gigacalculator.com/calculators/square-footage-calculator.php": [
-   "disallowed by robots.txt"
-  ],
-  "https://omnicalculator.com/construction/square-footage": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.homelight.com/blog/square-footage-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.miniwebtool.com/square-footage-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://calculator.io/square-footage-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.livehome3d.com/useful-articles/square-footage-calculators": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

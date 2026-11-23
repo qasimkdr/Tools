@@ -5,7 +5,7 @@
    "finalUrl": "https://www.omnicalculator.com/other/minecraft-circle",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T15:58:00.529Z",
+   "fetchedAt": "2026-11-23T01:24:05.062Z",
    "title": "Minecraft Circle Generator",
    "metaDescription": "The Minecraft circle generator can generate circles for you to build in Minecraft. Allows for circle diameter and thickness.",
    "canonical": "https://www.omnicalculator.com/other/minecraft-circle",
@@ -287,9 +287,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.calculate.co.nz/minecraft-circle-generator.php": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

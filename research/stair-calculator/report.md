@@ -1,6 +1,6 @@
 # Competitor analysis: "stairs calculator"
 
-- Research id: `stair-calculator` · roadmap page: Stair Calculator · report generated 2026-11-22
+- Research id: `stair-calculator` · roadmap page: Stair Calculator · report generated 2026-11-23
 - Pages inspected: **2** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -11,7 +11,7 @@
 | Volume 4400, KD 13, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #1: www.calculator.net/stair-calculator.html | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
 | Result list for "stair stringer calculator rise run [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-22 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -199,6 +199,5 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.calculator.net/stair-calculator.html (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/construction/stairs (inspected 2026-11-22, offline-parse)
-- https://www.inchcalculator.com/stair-calculator/: not inspected (HTTP 404)
+- https://www.calculator.net/stair-calculator.html (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/construction/stairs (inspected 2026-11-23, offline-parse)

@@ -1,6 +1,6 @@
 # Competitor analysis: "mean and standard deviation calculator"
 
-- Research id: `standard-deviation-calculator` · roadmap page: Standard Deviation Calculator · report generated 2026-11-22
+- Research id: `standard-deviation-calculator` · roadmap page: Standard Deviation Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -9,7 +9,7 @@
 |---|---|---|---|
 | Result list for "mean and standard deviation calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 1900, KD 5, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -256,7 +256,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.calculator.net/standard-deviation-calculator.html (inspected 2026-11-22, offline-parse)
-- https://www.calculatorsoup.com/calculators/statistics/standard-deviation-calculator.php (inspected 2026-11-22, offline-parse)
-- https://www.inchcalculator.com/standard-deviation-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/statistics/standard-deviation (inspected 2026-11-22, offline-parse)
+- https://www.calculator.net/standard-deviation-calculator.html (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/statistics/standard-deviation-calculator.php (inspected 2026-11-23, offline-parse)
+- https://www.inchcalculator.com/standard-deviation-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/statistics/standard-deviation (inspected 2026-11-23, offline-parse)

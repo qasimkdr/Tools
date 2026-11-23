@@ -5,7 +5,7 @@
    "finalUrl": "https://www.calculatorsoup.com/calculators/financial/mortgage-payment-calculator.php",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-22T09:26:22.187Z",
+   "fetchedAt": "2026-11-23T01:24:29.456Z",
    "title": "Mortgage Payment Calculator with Taxes and Insurance",
    "metaDescription": "Calculate total monthly mortgage payments on your home with taxes and insurance. Based on term of your mortgage, interest rate, loan amount, annual taxes and annual insurance, calculate your monthly payments.  Choose mortgage calculations for any number of years, months, amount and interest rate.  Pop up mortgage calculator.",
    "canonical": "https://www.calculatorsoup.com/calculators/financial/mortgage-payment-calculator.php",
@@ -254,7 +254,7 @@
    "finalUrl": "https://www.omnicalculator.com/finance/mortgage",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T09:26:26.177Z",
+   "fetchedAt": "2026-11-23T01:24:31.250Z",
    "title": "Mortgage Calculator",
    "metaDescription": "Mortgage calculator is a simple tool that helps you estimate the cost of your mortgage.",
    "canonical": "https://www.omnicalculator.com/finance/mortgage",
@@ -440,9 +440,9 @@
     }
    ],
    "claims": [
-    "Mortgage Calculator Home value Down payment Down payment in percentage Loan amount Interest rate Loan term Interest calculation method Payment frequency First day ​ Payment Your mortgage payoff date is 11/21/2056.",
+    "Mortgage Calculator Home value Down payment Down payment in percentage Loan amount Interest rate Loan term Interest calculation method Payment frequency First day ​ Payment Your mortgage payoff date is 11/22/2056.",
     "The total of the 360 mortgage payments is $246,249.06.",
-    "The total payable Private Mortgage Insurance (PMI) is $4,106.25, with a $56.25 periodic contribution, that needs to be paid until 11/21/2032.",
+    "The total payable Private Mortgage Insurance (PMI) is $4,106.25, with a $56.25 periodic contribution, that needs to be paid until 11/22/2032.",
     "Your total payment with all additional costs is $250,355.31.",
     "Usually, one can take a loan for up to 20 or even 30 years, but some mortgages might last for 40 or 50 years.",
     "For example, if your monthly payment is 200 dollars, but you decide to pay 100 dollars semi-monthly instead, the only gain comes from the compounding effect mentioned previously.",
@@ -492,7 +492,7 @@
     "authoritativeSources": []
    },
    "ux": {
-    "htmlKB": 1820,
+    "htmlKB": 1819,
     "adNetworks": [
      "gpt"
     ],
@@ -537,7 +537,7 @@
    "finalUrl": "https://www.calculator.net/mortgage-calculator.html",
    "mode": "offline-parse",
    "domain": "www.calculator.net",
-   "fetchedAt": "2026-11-22T09:30:51.690Z",
+   "fetchedAt": "2026-11-23T01:24:32.558Z",
    "title": "Mortgage Calculator",
    "metaDescription": "Free mortgage calculator to find monthly payment, total home ownership cost, and amortization schedule with options for taxes, PMI, HOA, and early payoff.",
    "canonical": null,
@@ -882,7 +882,7 @@
    "finalUrl": "https://www.calculator.io/mortgage-calculator/",
    "mode": "offline-parse",
    "domain": "www.calculator.io",
-   "fetchedAt": "2026-11-22T09:30:54.799Z",
+   "fetchedAt": "2026-11-23T01:24:33.993Z",
    "title": "Mortgage Calculator",
    "metaDescription": "Calculate your monthly mortgage payments instantly. Our free mortgage calculator includes taxes, PMI, HOA, and amortization schedules for smarter home buying.",
    "canonical": "https://www.calculator.io/mortgage-calculator/",
@@ -1263,30 +1263,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.lendingtree.com/home/mortgage/mortgage-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.sofi.com/mortgage-calculator-with-taxes-and-insurance/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.dev.lendingtree.com/home/mortgage/mortgage-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.sofi.com/mortgage-calculator-taxes/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.movoto.com/blog/?p=50274": [
-   "unreachable (fetch failed)"
-  ],
-  "https://trulia.com/blog/3-reasons-to-use-a-mortgage-calculator-with-insurance-and-taxes": [
-   "unreachable (fetch failed)"
-  ],
-  "https://smartasset.com/mortgage/mortgage-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.nerdwallet.com/mortgages/calculators/mortgage-calculator?trk=nw_gn_5.0": [
-   "disallowed by robots.txt"
-  ]
- }
+ "failed": {}
 }

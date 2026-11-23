@@ -1,6 +1,6 @@
 # Competitor analysis: "pool salt calculator"
 
-- Research id: `pool-salt-calculator` · roadmap page: Pool Salt Calculator · report generated 2026-11-22
+- Research id: `pool-salt-calculator` · roadmap page: Pool Salt Calculator · report generated 2026-11-23
 - Pages inspected: **1** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -11,7 +11,7 @@
 | Volume 8100, KD 16, intent C - I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #2: www.omnicalculator.com/everyday-life/pool-salt | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
 | Result list for "pool salt calculator pounds of salt [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-22 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -188,4 +188,4 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.omnicalculator.com/everyday-life/pool-salt (inspected 2026-11-22, offline-parse)
+- https://www.omnicalculator.com/everyday-life/pool-salt (inspected 2026-11-23, offline-parse)

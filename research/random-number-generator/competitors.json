@@ -5,7 +5,7 @@
    "finalUrl": "https://www.calculatorsoup.com/calculators/statistics/random-number-generator-1-100.php",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-22T06:03:17.670Z",
+   "fetchedAt": "2026-11-23T01:25:38.773Z",
    "title": "Random Number Generator 1-100",
    "metaDescription": "Generate a random number from 1 to 100. Get unlimited picks to randomly draw a number from 1 to 100. This generator is a pseudo-random number generator or PRNG.",
    "canonical": "https://www.calculatorsoup.com/calculators/statistics/random-number-generator-1-100.php",
@@ -269,7 +269,7 @@
    "finalUrl": "https://www.calculator.net/random-number-generator.html",
    "mode": "offline-parse",
    "domain": "www.calculator.net",
-   "fetchedAt": "2026-11-22T06:07:28.895Z",
+   "fetchedAt": "2026-11-23T01:25:39.825Z",
    "title": "Random Number Generator",
    "metaDescription": "Two free random number generators that work in user-defined min and max range. Both random integers and decimal numbers can be generated with high precision.",
    "canonical": null,
@@ -539,7 +539,7 @@
    "finalUrl": "https://www.omnicalculator.com/statistics/random-number",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T06:07:32.299Z",
+   "fetchedAt": "2026-11-23T01:25:41.358Z",
    "title": "Random Number Generator",
    "metaDescription": "No more straining with the tossing of a coin and the rolling of dice — this random number generator will give you the figures you need.",
    "canonical": "https://www.omnicalculator.com/statistics/random-number",
@@ -845,7 +845,7 @@
    "finalUrl": "https://www.calculator.io/number-generator/",
    "mode": "offline-parse",
    "domain": "www.calculator.io",
-   "fetchedAt": "2026-11-22T06:07:38.134Z",
+   "fetchedAt": "2026-11-23T01:25:42.802Z",
    "title": "Number Generator",
    "metaDescription": "Instantly generate random numbers with our customizable Number Generator. Set specific ranges, allow or prevent duplicates, and sort your results with ease.",
    "canonical": "https://www.calculator.io/number-generator/",
@@ -1178,45 +1178,5 @@
    ]
   }
  },
- "failed": {
-  "https://chrome.google.com/webstore/detail/random-number-generator/edihajimfnplkhplpiffhobikcifjhlg/reviews": [
-   "unreachable (fetch failed)"
-  ],
-  "https://inventivehq.com/tools/random/random-number-between-1-and-100": [
-   "unreachable (fetch failed)"
-  ],
-  "https://spinthewheel.io/random-number-wheel-1-100": [
-   "unreachable (fetch failed)"
-  ],
-  "https://inventivehq.com/tools/random-number-between-1-and-100": [
-   "unreachable (fetch failed)"
-  ],
-  "https://medium.com/@simplifullstack/how-to-generate-random-numbers-between-1-to-100-in-java-5b23398f7412": [
-   "unreachable (fetch failed)"
-  ],
-  "https://flows.nodered.org/node/node-red-contrib-random-generator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://apps.apple.com/ma/app/random-number/id1399595976": [
-   "unreachable (fetch failed)"
-  ],
-  "https://wildandfreetools.com/blog/random-number-generator-1-100-most-common-uses": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.github.com/infinitepower18/randomnumber-tauri": [
-   "HTTP 403"
-  ],
-  "https://lawrencejones-lblakej.cloudapps.unc.edu/inls-560/code/03/05_20_random_numbers3": [
-   "unreachable (fetch failed)"
-  ],
-  "https://gamedev.net/forums/topic/637432-random-number-generator-game/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.justinmind.com/how-to-create-a-number-generator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://goodcalculators.com/random-number-generator/": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

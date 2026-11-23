@@ -5,7 +5,7 @@
    "finalUrl": "https://www.calculator.net/interest-rate-calculator.html",
    "mode": "offline-parse",
    "domain": "www.calculator.net",
-   "fetchedAt": "2026-11-21T21:53:57.072Z",
+   "fetchedAt": "2026-11-23T01:23:48.272Z",
    "title": "Interest Rate Calculator",
    "metaDescription": "Free online calculator to find the interest rate as well as the total interest cost of an amortized loan with a fixed monthly payback amount.",
    "canonical": null,
@@ -298,7 +298,7 @@
    "finalUrl": "https://www.thecalculatorsite.com/finance/calculators/interest-rate-calculator.php",
    "mode": "offline-parse",
    "domain": "www.thecalculatorsite.com",
-   "fetchedAt": "2026-11-21T21:54:00.422Z",
+   "fetchedAt": "2026-11-23T01:23:49.796Z",
    "title": "Interest Rate Calculator for Savings, Loans or Credit",
    "metaDescription": "Calculate the interest rate you’re receiving on your savings, investment, loan, mortgage or credit card using this calculator tool",
    "canonical": "https://www.thecalculatorsite.com/finance/calculators/interest-rate-calculator.php",
@@ -675,7 +675,7 @@
    "finalUrl": "https://www.omnicalculator.com/finance/interest-rate",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-21T21:54:07.103Z",
+   "fetchedAt": "2026-11-23T01:23:52.218Z",
    "title": "Interest Rate Calculator",
    "metaDescription": "The Interest Rate Calculator is a device that computes various types of interest rate, from the point of view of either a loan or a deposit account.",
    "canonical": "https://www.omnicalculator.com/finance/interest-rate",
@@ -968,7 +968,7 @@
    "finalUrl": "https://www.inchcalculator.com/interest-rate-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-21T21:54:10.207Z",
+   "fetchedAt": "2026-11-23T01:23:53.390Z",
    "title": "Interest Rate Calculator - Inch Calculator",
    "metaDescription": "Use our interest rate calculator to find the rate of a compounded interest loan with regular payments. Plus, learn the formula to solve it.",
    "canonical": "https://www.inchcalculator.com/interest-rate-calculator/",
@@ -1339,12 +1339,5 @@
    ]
   }
  },
- "failed": {
-  "https://huggingface.co/spaces/McGill-NLP/weblinx-explorer/raw/6c68b331c7bdf6443d0d1025fec3ce97a50e97c7/demonstrations/ahpnhdb/pages/page-30-0.html": [
-   "unreachable (fetch failed)"
-  ],
-  "https://razorpay.com/s/interest-rate-calculator/": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

@@ -1,6 +1,6 @@
 # Competitor analysis: "inverse matrix calculator"
 
-- Research id: `matrix-inverse-calculator` · roadmap page: Matrix Inverse Calculator · report generated 2026-11-22
+- Research id: `matrix-inverse-calculator` · roadmap page: Matrix Inverse Calculator · report generated 2026-11-23
 - Pages inspected: **2** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "inverse matrix calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 6600, KD 15, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #18: www.omnicalculator.com/math/matrix-inverse | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -186,5 +186,5 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.omnicalculator.com/math/matrix-inverse (inspected 2026-11-22, offline-parse)
-- https://www.calculator.net/matrix-calculator.html (inspected 2026-11-22, offline-parse)
+- https://www.omnicalculator.com/math/matrix-inverse (inspected 2026-11-23, offline-parse)
+- https://www.calculator.net/matrix-calculator.html (inspected 2026-11-23, offline-parse)

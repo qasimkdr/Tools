@@ -1,6 +1,6 @@
 # Competitor analysis: "square root calculator"
 
-- Research id: `square-root-calculator` · roadmap page: Square Root Calculator · report generated 2026-11-22
+- Research id: `square-root-calculator` · roadmap page: Square Root Calculator · report generated 2026-11-23
 - Pages inspected: **3** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -9,7 +9,7 @@
 |---|---|---|---|
 | Result list for "square root calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Result list for "square root calculator [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-22 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -244,26 +244,6 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.omnicalculator.com/math/square-root (inspected 2026-11-22, offline-parse)
-- https://www.calculatorsoup.com/calculators/algebra/squareroots.php (inspected 2026-11-22, offline-parse)
-- https://www.calculator.net/root-calculator.html (inspected 2026-11-22, offline-parse)
-- https://dqydj.com/square-root-calculator/: not inspected (unreachable (fetch failed))
-- https://dqydj.com/?p=16263: not inspected (unreachable (fetch failed))
-- https://www.gigacalculator.com/calculators/square-root-calculator.php: not inspected (disallowed by robots.txt)
-- https://calculatorsoup.com/calculators/algebra/squareroots.php: not inspected (unreachable (fetch failed))
-- https://online.visual-paradigm.com/tabular/calculator/math/square-root-calculator: not inspected (unreachable (fetch failed))
-- https://online.visual-paradigm.com/spreadsheet-editor/calculator/square-root-calculator/: not inspected (unreachable (fetch failed))
-- https://www.miniwebtool.com/square-root-calculator: not inspected (unreachable (fetch failed))
-- https://lastminuteengineers.com/square-root-calculator/: not inspected (unreachable (fetch failed))
-- https://www.jainuniversity.ac.in/resources/calculator/square-root-calculator: not inspected (unreachable (fetch failed))
-- https://www.cuemath.com/calculators/square-root-calculator: not inspected (unreachable (fetch failed))
-- https://www.gigacalculator.com/calculators/square-root-calculator.php?number=3: not inspected (disallowed by robots.txt)
-- https://calculator.io/square-root-calculator: not inspected (unreachable (fetch failed))
-- https://testbook.com/amp/calculators/square-root-calculator: not inspected (unreachable (fetch failed))
-- https://github.com/pub-calculator-io/square-root-calculator: not inspected (HTTP 403)
-- https://www.size.ly/calculator/square-root-calculator: not inspected (unreachable (fetch failed))
-- https://apps.apple.com/us/app/-/id6443969012: not inspected (unreachable (fetch failed))
-- https://www.mathway.com/Calculator/square-root-calculator: not inspected (unreachable (fetch failed))
-- https://mathgoodies.com/?p=292: not inspected (unreachable (fetch failed))
-- https://www.rapidtables.com/calc/math/square-root-calculator.html: not inspected (disallowed by robots.txt)
-- https://www.inchcalculator.com/square-root-calculator/: not inspected (HTTP 404)
+- https://www.omnicalculator.com/math/square-root (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/algebra/squareroots.php (inspected 2026-11-23, offline-parse)
+- https://www.calculator.net/root-calculator.html (inspected 2026-11-23, offline-parse)

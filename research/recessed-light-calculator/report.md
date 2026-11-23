@@ -166,4 +166,3 @@ The crawler can't verify correctness. Check these competitor statements against 
 ## Sources
 
 - https://www.omnicalculator.com/construction/recessed-lighting → https://www.omnicalculator.com/everyday-life/recessed-lighting (inspected 2026-11-23, offline-parse)
-- https://www.inchcalculator.com/recessed-lighting-calculator/: not inspected (HTTP 404)

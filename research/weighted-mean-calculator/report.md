@@ -1,6 +1,6 @@
 # Competitor analysis: "weighted mean calculator"
 
-- Research id: `weighted-mean-calculator` · roadmap page: Weighted Mean Calculator · report generated 2026-11-22
+- Research id: `weighted-mean-calculator` · roadmap page: Weighted Mean Calculator · report generated 2026-11-23
 - Pages inspected: **2** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -9,7 +9,7 @@
 |---|---|---|---|
 | Result list for "weighted mean calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 3600, KD 11, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -193,6 +193,5 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.inchcalculator.com/weighted-average-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/math/weighted-average (inspected 2026-11-22, offline-parse)
-- https://www.calculatorsoup.com/calculators/math/weighted-average.php: not inspected (HTTP 404)
+- https://www.inchcalculator.com/weighted-average-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/math/weighted-average (inspected 2026-11-23, offline-parse)

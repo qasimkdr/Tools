@@ -5,7 +5,7 @@
    "finalUrl": "https://www.inchcalculator.com/overtime-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-22T09:55:56.633Z",
+   "fetchedAt": "2026-11-23T01:24:49.885Z",
    "title": "Overtime Calculator - Inch Calculator",
    "metaDescription": "Use our overtime calculator to calculate your overtime pay at time and a half, double-time, triple-time, or any other overtime rate.",
    "canonical": "https://www.inchcalculator.com/overtime-calculator/",
@@ -419,7 +419,7 @@
    "finalUrl": "https://www.omnicalculator.com/finance/overtime",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T09:56:32.732Z",
+   "fetchedAt": "2026-11-23T01:24:51.406Z",
    "title": "Overtime Calculator",
    "metaDescription": "The overtime calculator determines your wages, including overtime pay.",
    "canonical": "https://www.omnicalculator.com/finance/overtime",
@@ -726,7 +726,7 @@
    "finalUrl": "https://www.thecalculatorsite.com/finance/calculators/overtime.php",
    "mode": "offline-parse",
    "domain": "www.thecalculatorsite.com",
-   "fetchedAt": "2026-11-22T09:56:35.935Z",
+   "fetchedAt": "2026-11-23T01:24:52.864Z",
    "title": "Overtime Calculator For Overtime Pay",
    "metaDescription": "Work out the overtime pay for your additional working hours or holiday work and see how much money you’ve earned",
    "canonical": "https://www.thecalculatorsite.com/finance/calculators/overtime.php",
@@ -1101,7 +1101,7 @@
    "finalUrl": "https://www.calculatorsoup.com/calculators/financial/gross-pay-calculator.php",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-22T09:58:29.684Z",
+   "fetchedAt": "2026-11-23T01:24:54.182Z",
    "title": "Gross Pay Calculator",
    "metaDescription": "Calculate the gross amount of pay based on hours worked and rate of pay including overtime. Summary report for total hours and total pay. Free online gross pay salary calculator plus calculators for exponents, math, fractions, factoring, plane geometry, solid geometry, algebra, finance and more",
    "canonical": "https://www.calculatorsoup.com/calculators/financial/gross-pay-calculator.php",
@@ -1327,60 +1327,5 @@
    ]
   }
  },
- "failed": {
-  "https://clockify.me/overtime-pay-calculators": [
-   "unreachable (fetch failed)"
-  ],
-  "https://workforce.com/news/overtime-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.pearson.com/channels/it-IT/calculators/overtime-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.pearson.com/channels/it/calculators/overtime-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://toggl.com/overtime-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://toggl.com/track/overtime-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://omnicalculator.com/finance/overtime": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.zoho.com/people/hr-toolkit/free-calculators/overtime-calculators.html": [
-   "unreachable (fetch failed)"
-  ],
-  "https://resourceguruapp.com/blog/time-management/overtime-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://connecteam.com/free-tools/overtime-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://resourceguruapp.com/blog/?p=7577": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.timecamp.com/resources/oc/overtime-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://everhour.com/calculators/easy-overtime-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://online.visual-paradigm.com/tabular/calculator/finance/overtime-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://everhour.com/calculators/lightweight-overtime-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://wba.omnicalculator.com/finance/overtime": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.aihr.com/?p=265244098": [
-   "unreachable (fetch failed)"
-  ],
-  "https://zap-hosting.com/en/tools/calculators/overtime-calculator": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

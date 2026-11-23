@@ -48,7 +48,7 @@
 | Competitor | Type | Words | Content | Function | UX | Trust | Linking | Schema | Total /30 |
 |---|---|---|---|---|---|---|---|---|---|
 | [www.inchcalculator.com](https://www.inchcalculator.com/pto-calculator/) | tool | 986 | 4 | 3 | 4 | 4 | 5 | 3 | **23** |
-| [www.omnicalculator.com](https://www.omnicalculator.com/finance/off-day) | tool (JS-rendered; inputs not parsed) | 919 | 3 | n/a | 4 | 4 | 3 | 3 | **17** /25 |
+| [www.omnicalculator.com](https://www.omnicalculator.com/finance/off-day) | tool (JS-rendered; inputs not parsed) | 919 | 4 | n/a | 4 | 4 | 3 | 3 | **18** /25 |
 
 <details><summary>Scoring rubric</summary>
 
@@ -70,7 +70,7 @@
 | Share / copy | ✓ | ✓ |
 | Download / export | · | · |
 | Formula shown | ✓ | · |
-| Worked examples | ✓ | · |
+| Worked examples | ✓ | ✓ |
 | Step-by-step | ✓ | ✓ |
 | Table | · | · |
 | Chart / graph | · | · |
@@ -85,7 +85,7 @@
 
 **Missing everywhere (candidate opportunities; judge relevance):** Print, Download / export, Table, Chart / graph, Video
 
-**Only one competitor has:** Formula shown, Worked examples, Tips / mistakes, FAQ section (≥4), FAQ schema, Authoritative sources (.gov/.edu/…), Breadcrumbs
+**Only one competitor has:** Formula shown, Tips / mistakes, FAQ section (≥4), FAQ schema, Authoritative sources (.gov/.edu/…), Breadcrumbs
 
 Calculator inputs observed:
 - www.inchcalculator.com: Start Date, End Date, Calculate In, Starting Balance, PTO to Accrue, Frequency, Limit Max PTO, Accrual Limit
@@ -181,7 +181,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 1. Format: Transactional/utility: tool first, short supporting content.
 2. Possible differentiators no competitor has (keep only those that fit this intent): Print, Download / export, Table, Chart / graph, Video.
-3. Match rare strengths cheaply: Formula shown, Worked examples, Tips / mistakes, FAQ section (≥4), FAQ schema.
+3. Match rare strengths cheaply: Formula shown, Tips / mistakes, FAQ section (≥4), FAQ schema, Authoritative sources (.gov/.edu/…).
 4. Cover the shared topics: days, have, take.
 5. Write 8 FAQs (competitor median 7), answering questions from §6 in our own words.
 6. Length: competitors range 919–986 words (median 986). Match the intent; don't pad.

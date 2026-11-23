@@ -1,6 +1,6 @@
 # Competitor analysis: "npv calculator"
 
-- Research id: `npv-calculator` · roadmap page: Npv Calculator · report generated 2026-11-22
+- Research id: `npv-calculator` · roadmap page: Npv Calculator · report generated 2026-11-23
 - Pages inspected: **3** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "npv calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 4400, KD 7, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Result list for "npv calculator net present value [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-22 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -234,20 +234,6 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.calculatorsoup.com/calculators/financial/net-present-value-calculator.php (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/finance/net-present-value (inspected 2026-11-22, offline-parse)
-- https://www.inchcalculator.com/net-present-value-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.pearson.com/channels/calculators/npv-irr-calculator: not inspected (unreachable (fetch failed))
-- https://www.pearson.com/channels/it/calculators/npv-irr-calculator: not inspected (unreachable (fetch failed))
-- https://vertex42.com/Calculators/npv-irr-calculator.html: not inspected (unreachable (fetch failed))
-- https://www.gigacalculator.com/calculators/npv-calculator.php: not inspected (disallowed by robots.txt)
-- https://apps.apple.com/us/app/npv-calculator/id6449587062: not inspected (unreachable (fetch failed))
-- https://getholdings.com/tools/npv-calculator: not inspected (unreachable (fetch failed))
-- https://propertymetrics.com/?p=2944: not inspected (unreachable (fetch failed))
-- https://www.scribd.com/doc/268712058/NPV-Calculator: not inspected (unreachable (fetch failed))
-- https://openstax.org/books/principles-of-finance-2e/pages/16-2-net-present-value-npv-method: not inspected (unreachable (fetch failed))
-- https://www.onesdr.com/npv-calculator/: not inspected (unreachable (fetch failed))
-- https://www.blackridgeresearch.com/tools/npv-calculator: not inspected (unreachable (fetch failed))
-- https://miniwebtool.com/npv-calculator/video/: not inspected (unreachable (fetch failed))
-- https://coefficient.io/calculate/net-present-value-npv: not inspected (unreachable (fetch failed))
-- https://calculate.co.nz/npv-calculator.php: not inspected (unreachable (fetch failed))
+- https://www.calculatorsoup.com/calculators/financial/net-present-value-calculator.php (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/finance/net-present-value (inspected 2026-11-23, offline-parse)
+- https://www.inchcalculator.com/net-present-value-calculator/ (inspected 2026-11-23, offline-parse)

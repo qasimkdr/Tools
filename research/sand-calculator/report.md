@@ -1,6 +1,6 @@
 # Competitor analysis: "sand calculator"
 
-- Research id: `sand-calculator` · roadmap page: Sand Calculator · report generated 2026-11-22
+- Research id: `sand-calculator` · roadmap page: Sand Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -11,7 +11,7 @@
 | Volume 8100, KD 9, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #1: www.omnicalculator.com/construction/sand | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
 | Result list for "sand calculator [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-22 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -256,26 +256,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://inchcalculator.com/sand-calculator → https://www.inchcalculator.com/sand-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/construction/sand (inspected 2026-11-22, offline-parse)
-- https://www.thecalculatorsite.com/conversions/common/cubic-yards-tons.php (inspected 2026-11-22, offline-parse)
-- https://www.calculatored.com/yards-to-tons-calculator (inspected 2026-11-22, offline-parse)
-- https://omnicalculator.com/construction/sand: not inspected (unreachable (fetch failed))
-- https://apps.apple.com/us/app/-/id1552854569: not inspected (unreachable (fetch failed))
-- https://www.gigacalculator.com/calculators/sand-calculator.php: not inspected (disallowed by robots.txt)
-- https://www.angi.com/articles/sand-calculator.htm: not inspected (unreachable (fetch failed))
-- https://apps.apple.com/mx/app/sand-calculator/id1552854569: not inspected (unreachable (fetch failed))
-- https://wba.omnicalculator.com/construction/sand: not inspected (unreachable (fetch failed))
-- https://paperform.co/templates/sand-calculator-for-pavers-sandbox.md: not inspected (unreachable (fetch failed))
-- https://housing.com/news/how-to-use-sand-calculator/amp/: not inspected (unreachable (fetch failed))
-- https://www.holcim.co.uk/digital-tools/sands-calculator: not inspected (unreachable (fetch failed))
-- https://hellogravel.com/calculators/products/sand/: not inspected (unreachable (fetch failed))
-- https://paperform.co/templates/sand-calculator-for-pavers-sandbox/: not inspected (unreachable (fetch failed))
-- https://bushe.co/tools/sand-calculator/: not inspected (unreachable (fetch failed))
-- https://www.homeadvisor.com/r/pool-sand-calculator: not inspected (unreachable (fetch failed))
-- https://www.sciencing.com:443/calculate-weight-sand-8149924: not inspected (unreachable (fetch failed))
-- https://www.easyunitconverter.com/sand-calculator: not inspected (unreachable (fetch failed))
-- https://puretables.com/sand-calculator: not inspected (unreachable (fetch failed))
-- https://backofnapkin.netlify.app/lawn-care-calculators/sand-calculator: not inspected (unreachable (fetch failed))
-- https://www.ibran.com/pages/sand-calculator: not inspected (unreachable (fetch failed))
-- https://topshelfaquatics.com/pages/aquarium-sand-bed-calculator: not inspected (unreachable (fetch failed))
+- https://inchcalculator.com/sand-calculator → https://www.inchcalculator.com/sand-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/construction/sand (inspected 2026-11-23, offline-parse)
+- https://www.thecalculatorsite.com/conversions/common/cubic-yards-tons.php (inspected 2026-11-23, offline-parse)
+- https://www.calculatored.com/yards-to-tons-calculator (inspected 2026-11-23, offline-parse)

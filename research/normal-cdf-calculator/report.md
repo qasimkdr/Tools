@@ -1,6 +1,6 @@
 # Competitor analysis: "normal cdf calculator"
 
-- Research id: `normal-cdf-calculator` · roadmap page: Normal Cdf Calculator · report generated 2026-11-22
+- Research id: `normal-cdf-calculator` · roadmap page: Normal Cdf Calculator · report generated 2026-11-23
 - Pages inspected: **3** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -9,7 +9,7 @@
 |---|---|---|---|
 | Result list for "normal cdf calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 4400, KD 11, intent C | Semrush export (data/source) | Third-party estimate | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -231,6 +231,6 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.omnicalculator.com/statistics/normal-distribution (inspected 2026-11-22, offline-parse)
-- https://www.inchcalculator.com/normal-distribution-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.calculator.net/z-score-calculator.html (inspected 2026-11-22, offline-parse)
+- https://www.omnicalculator.com/statistics/normal-distribution (inspected 2026-11-23, offline-parse)
+- https://www.inchcalculator.com/normal-distribution-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.calculator.net/z-score-calculator.html (inspected 2026-11-23, offline-parse)

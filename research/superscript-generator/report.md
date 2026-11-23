@@ -1,6 +1,6 @@
 # Competitor analysis: "superscript generator"
 
-- Research id: `superscript-generator` · roadmap page: Superscript Generator · report generated 2026-11-22
+- Research id: `superscript-generator` · roadmap page: Superscript Generator · report generated 2026-11-23
 - Pages inspected: **1** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "superscript generator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 9900, KD 20, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #5: www.omnicalculator.com/other/superscript-generator | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -165,4 +165,4 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.omnicalculator.com/other/superscript-generator (inspected 2026-11-22, offline-parse)
+- https://www.omnicalculator.com/other/superscript-generator (inspected 2026-11-23, offline-parse)

@@ -5,7 +5,7 @@
    "finalUrl": "https://www.calculator.net/molecular-weight-calculator.html",
    "mode": "offline-parse",
    "domain": "www.calculator.net",
-   "fetchedAt": "2026-11-22T09:23:16.273Z",
+   "fetchedAt": "2026-11-23T01:24:15.567Z",
    "title": "Molecular Weight Calculator (Molar Mass)",
    "metaDescription": "This molecular weight calculator can determine the molecular weight or molar mass of a molecule based on its formula and also provides the percentage of the atoms.",
    "canonical": null,
@@ -302,7 +302,7 @@
    "finalUrl": "https://www.calculatorsoup.com/calculators/chemistry/molecular-weight.php",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-22T09:23:38.113Z",
+   "fetchedAt": "2026-11-23T01:24:16.653Z",
    "title": "Molecular Weight Calculator",
    "metaDescription": "Calculate the molecular weight of a formula.  Input the molecular formula and the weight is calculated. Also provides the atomic number, element name, base atomic weight and formula weight for the calcutated molecular formula.",
    "canonical": "https://www.calculatorsoup.com/calculators/chemistry/molecular-weight.php",
@@ -502,7 +502,7 @@
    "finalUrl": "https://www.omnicalculator.com/chemistry/molecular-weight",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T09:27:49.065Z",
+   "fetchedAt": "2026-11-23T01:24:18.170Z",
    "title": "Molecular Weight Calculator",
    "metaDescription": "The molecular weight calculator allows you to easily calculate the mass of a given molecule.",
    "canonical": "https://www.omnicalculator.com/chemistry/molecular-weight",
@@ -764,7 +764,7 @@
    "finalUrl": "https://www.inchcalculator.com/molar-mass-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-22T09:30:30.597Z",
+   "fetchedAt": "2026-11-23T01:24:19.523Z",
    "title": "Molar Mass Calculator - Inch Calculator",
    "metaDescription": "Calculate the molar mass and formula of a compound or substance, plus learn how to find molar mass and molecular weight.",
    "canonical": "https://www.inchcalculator.com/molar-mass-calculator/",
@@ -1099,54 +1099,5 @@
    ]
   }
  },
- "failed": {
-  "https://Omnicalculator.com/chemistry/molecular-weight": [
-   "unreachable (fetch failed)"
-  ],
-  "https://calculator.net/molecular-weight-calculator.html": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.selleckchem.com/molecular-weight-calculator.html": [
-   "unreachable (fetch failed)"
-  ],
-  "https://testbook.com/calculators/molecular-weight-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://calctool.org/CALC/chem/molecular/mwt": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.lenntech.com/molecular-weight-calculator.htm": [
-   "unreachable (fetch failed)"
-  ],
-  "https://javalab.org/?p=13432": [
-   "unreachable (fetch failed)"
-  ],
-  "https://javalab.org/en/molecular_weight_calculator_en/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://military.tutor.com/resources/resourceframe.aspx?id=367": [
-   "unreachable (fetch failed)"
-  ],
-  "https://pnnl-comp-mass-spec.github.io/Molecular-Weight-Calculator-VB6": [
-   "unreachable (fetch failed)"
-  ],
-  "https://cdn.wba.omnicalculator.com/chemistry/molecular-weight": [
-   "unreachable (fetch failed)"
-  ],
-  "https://testbook.com/amp/calculators/molecular-weight-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.webqc.org/molecular-weight-of-..html": [
-   "unreachable (fetch failed)"
-  ],
-  "https://celnav.de/molwt.htm": [
-   "unreachable (fetch failed)"
-  ],
-  "https://russellcottrell.com/blog/mwCalculator.htm": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.pearson.com/channels/ko-KR/calculators/protein-molecular-weight-calculator": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

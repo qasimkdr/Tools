@@ -5,7 +5,7 @@
    "finalUrl": "https://www.inchcalculator.com/weighted-average-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-22T15:58:26.887Z",
+   "fetchedAt": "2026-11-23T01:27:07.609Z",
    "title": "Weighted Average Calculator (with Steps to Solve) - Inch Calculator",
    "metaDescription": "Find a weighted average easily using our calculator, which shows how to calculate a weighted mean using the formula step-by-step.",
    "canonical": "https://www.inchcalculator.com/weighted-average-calculator/",
@@ -378,7 +378,7 @@
    "finalUrl": "https://www.omnicalculator.com/math/weighted-average",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T15:58:30.115Z",
+   "fetchedAt": "2026-11-23T01:27:09.118Z",
    "title": "Weighted Average Calculator",
    "metaDescription": "The Weighted average calculator helps you find the average when the values are not weighted equally.",
    "canonical": "https://www.omnicalculator.com/math/weighted-average",
@@ -680,9 +680,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.calculatorsoup.com/calculators/math/weighted-average.php": [
-   "HTTP 404"
-  ]
- }
+ "failed": {}
 }
