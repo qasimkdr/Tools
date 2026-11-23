@@ -110,15 +110,15 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 14 on policy hold).
 | 104 | 11 | live | Decimals Calculator | `decimals-calculator` | math | decimals calculator | 2400 | 12 | 2400 | 1 |
 | 105 | 11 | live | Watts to Amps Calculator | `watts-to-amps-calculator` | science | watt wattage | 5400 | 22 | 9400 | 3 |
 | 106 | 11 | live | Epoxy Resin Calculator | `epoxy-resin-calculator` | construction | epoxy resin calculator | 1600 | 5 | 1600 | 1 |
-| 107 | 11 | todo | Seller Financing Calculator | `seller-financing-calculator` | finance | seller financing calculator | 1300 | 6 | 1300 | 1 |
+| 107 | 11 | live | Seller Financing Calculator | `seller-financing-calculator` | finance | seller financing calculator | 1300 | 6 | 1300 | 1 |
 | 108 | 11 | todo | Lri Calculator | `lri-calculator` | everyday | lri calculator | 1300 | 2 | 1300 | 1 |
 | 109 | 11 | live | Molarity Calculator | `molarity-calculator` | science | molarity calculator | 18100 | 28 | 19400 | 1 |
 | 110 | 11 | todo | Garage Door Spring Calculator | `garage-door-spring-calculator` | construction | garage door spring calculator | 1000 | 3 | 1000 | 1 |
 | 111 | 12 | todo | Lawn Mowing Cost Calculator | `lawn-mowing-cost-calculator` | construction | lawn mowing cost calculator | 1000 | 1 | 1000 | 1 |
-| 112 | 12 | todo | Quarter Mile Calculator | `quarter-mile-calculator` | conversion | 1/4 mile calculator | 2400 | 11 | 5000 | 3 |
-| 113 | 12 | todo | How Long Will Retirement Savings Last Calculator | `how-long-will-retirement-savings-last-calculator` | finance | how long will my retirement savings last calculator | 2400 | 13 | 4800 | 2 |
-| 114 | 12 | todo | Firewood Calculator | `firewood-calculator` | construction | firewood calculator cord | 1900 | 8 | 3500 | 2 |
-| 115 | 12 | todo | Nether Portal Calculator | `nether-portal-calculator` | everyday | nether portal calculator | 8100 | 21 | 8100 | 1 |
+| 112 | 12 | live | Quarter Mile Calculator | `quarter-mile-calculator` | conversion | 1/4 mile calculator | 2400 | 11 | 5000 | 3 |
+| 113 | 12 | live | How Long Will Retirement Savings Last Calculator | `how-long-will-retirement-savings-last-calculator` | finance | how long will my retirement savings last calculator | 2400 | 13 | 4800 | 2 |
+| 114 | 12 | live | Firewood Calculator | `firewood-calculator` | construction | firewood calculator cord | 1900 | 8 | 3500 | 2 |
+| 115 | 12 | live | Nether Portal Calculator | `nether-portal-calculator` | everyday | nether portal calculator | 8100 | 21 | 8100 | 1 |
 | 116 | 12 | todo | Arv Calculator | `arv-calculator` | finance | arv calculator | 1300 | 7 | 1300 | 1 |
 | 117 | 12 | todo | Breastfeeding Calorie Calculator | `breastfeeding-calorie-calculator` | health | breastfeeding calorie calculator | 1300 | 6 | 1300 | 1 |
 | 118 | 12 | todo | Income Tax Calculator | `income-tax-calculator` | finance | taxable income calculator | 6600 | 41 | 9000 | 2 |

@@ -1,0 +1,292 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/everyday-life/cord-wood": {
+   "url": "https://www.omnicalculator.com/everyday-life/cord-wood",
+   "finalUrl": "https://www.omnicalculator.com/everyday-life/cord-wood",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T02:04:19.055Z",
+   "title": "Cord of Wood Calculator",
+   "metaDescription": "The cord of wood calculator can help you figure out the value of a stack of firewood and defines a cord of wood.",
+   "canonical": "https://www.omnicalculator.com/everyday-life/cord-wood",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Cord of Wood Calculator"
+   ],
+   "h2": [
+    "What is a cord of wood? How much is a cord of wood?",
+    "How to calculate a cord of firewood?",
+    "What is a face cord of wood?",
+    "What is the formula for a face cord of firewood?",
+    "How to use this cord of wood calculator?",
+    "FAQs"
+   ],
+   "h3": [
+    "How much does a cord of wood weigh?",
+    "How much is a 1/4 cord of wood?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Cord of Wood Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is a cord of wood? How much is a cord of wood?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate a cord of firewood?"
+    },
+    {
+     "level": 2,
+     "text": "What is a face cord of wood?"
+    },
+    {
+     "level": 2,
+     "text": "What is the formula for a face cord of firewood?"
+    },
+    {
+     "level": 2,
+     "text": "How to use this cord of wood calculator?"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How much does a cord of wood weigh?"
+    },
+    {
+     "level": 3,
+     "text": "How much is a 1/4 cord of wood?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 960,
+   "avgSentenceWords": 25,
+   "faqs": [
+    "How to calculate a cord of firewood?",
+    "What is a face cord of wood?",
+    "What is the formula for a face cord of firewood?",
+    "How much does a cord of wood weigh?",
+    "How much is a 1/4 cord of wood?",
+    "What is a cord of wood? How much is a cord of wood?",
+    "How to use this cord of wood calculator?"
+   ],
+   "faqSchemaCount": 5,
+   "topics": [
+    {
+     "term": "cord",
+     "weight": 35
+    },
+    {
+     "term": "wood",
+     "weight": 27
+    },
+    {
+     "term": "cords",
+     "weight": 18
+    },
+    {
+     "term": "face",
+     "weight": 17
+    },
+    {
+     "term": "face cord",
+     "weight": 15
+    },
+    {
+     "term": "feet",
+     "weight": 15
+    },
+    {
+     "term": "number",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "face cords",
+     "weight": 11
+    },
+    {
+     "term": "length",
+     "weight": 10
+    },
+    {
+     "term": "stack",
+     "weight": 10
+    },
+    {
+     "term": "height",
+     "weight": 9
+    },
+    {
+     "term": "width",
+     "weight": 9
+    },
+    {
+     "term": "volume",
+     "weight": 9
+    },
+    {
+     "term": "firewood",
+     "weight": 9
+    },
+    {
+     "term": "unit",
+     "weight": 8
+    },
+    {
+     "term": "cords length",
+     "weight": 8
+    },
+    {
+     "term": "wood calculator",
+     "weight": 6
+    },
+    {
+     "term": "much",
+     "weight": 6
+    },
+    {
+     "term": "formula",
+     "weight": 6
+    },
+    {
+     "term": "dimensions",
+     "weight": 5
+    },
+    {
+     "term": "amount",
+     "weight": 5
+    },
+    {
+     "term": "long",
+     "weight": 5
+    },
+    {
+     "term": "full cord",
+     "weight": 5
+    },
+    {
+     "term": "percentage",
+     "weight": 4
+    },
+    {
+     "term": "full",
+     "weight": 4
+    },
+    {
+     "term": "high",
+     "weight": 4
+    },
+    {
+     "term": "inches",
+     "weight": 4
+    },
+    {
+     "term": "enter",
+     "weight": 4
+    },
+    {
+     "term": "stacked",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "One full cord is 8 feet (2.44 m) long, by 4 feet (1.22 m) wide, by 4 feet (1.22 m) high.",
+    "The formula to convert a set of length, width, and height measurements of a stack of wood in feet to the number of cords of wood is as follows: number of cords = (length (ft) × width (ft) × height (ft)) / 128 ft³.",
+    "Or, if you wonder how much is a cord of wood using SI units (meters): number of cords = (length (m) × width (m) × height (m)) / 3.6246 m³.",
+    "If the stack consists of the standard 16 inch long logs, and the stack is only one log deep, we call it a face cord of wood.",
+    "So a face cord is 8 feet (2.44 m) long, 16 inches (40.6 cm) deep, and 4 feet (1.22 m) high, which is about the amount you'd see stacked up against a log cabin.",
+    "For example, outside our log cabin, we stack some standard length firewood, whose length is 7 feet (2.134 m) and height is 4 feet (1.219 m).",
+    "For a face cord, the calculator will accept any width measurement, but to be correct, change the units of the width row to inches and enter the number 16.",
+    "Cords of wood can weigh anywhere from 2,000 to 5,000 pounds, depending on the type of wood and whether it is green (fresh), seasoned, or kiln-dried firewood.",
+    "A quarter cord of wood has a volume of 32 cubic ft or typical dimensions of 4 feet high, 6 feet long, and 16 inches wide (4'×6'×16\")."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Steven Wooding",
+    "published": "2020-05-27T07:02:10.155Z",
+    "modified": "2026-08-29T11:22:29.774Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 687,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 19,
+    "external": 1,
+    "contentInternal": 3,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "volume of a rectangular prism calculator",
+     "hot tub cost calculator",
+     "Audiobook Speed Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/math/rectangular-prism-volume",
+     "https://www.omnicalculator.com/everyday-life/hot-tub-cost",
+     "https://www.omnicalculator.com/everyday-life/audiobook-speed"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.inchcalculator.com/firewood-calculator/": [
+   "HTTP 404"
+  ]
+ }
+}

@@ -1,0 +1,217 @@
+{
+ "keywords": {
+  "how long will my retirement savings last calculator": {
+   "fetchedAt": "2026-11-23T02:03:47.669Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 2400,
+   "fileKd": 13,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://regions.com/insights/personal/calculator/how-long-will-my-retirement-savings-last",
+     "domain": "regions.com",
+     "title": "How long will my retirement savings last?",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.nasdaq.com/articles/how-long-will-my-retirement-savings-last-2017-05-09",
+     "domain": "www.nasdaq.com",
+     "title": "How Long Will My Retirement Savings Last?",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.lpl.com/investors/investment-essentials/planning-calculators/calculating-how-long-my-retirement-savings-should-last.html",
+     "domain": "www.lpl.com",
+     "title": "Calculating How Long My Retirement Savings Should Last",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://2000www.mutualofomaha.com/calculator/how-long-will-my-savings-last",
+     "domain": "2000www.mutualofomaha.com",
+     "title": "I’m retired, how long will my savings last?",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://crr.bc.edu/?p=18250",
+     "domain": "crr.bc.edu",
+     "title": "How Long Will Retirement Savings Last?",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.nerdwallet.com/article/investing/7-ways-to-make-your-money-last-in-retirement",
+     "domain": "www.nerdwallet.com",
+     "title": "How Long Will My Money Last in Retirement? Calculator, How to Stretch It",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://crr.bc.edu/how-long-will-retirement-savings-last",
+     "domain": "crr.bc.edu",
+     "title": "How Long Will Retirement Savings Last?",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://calcs.americafirst.com/do/ret06",
+     "domain": "calcs.americafirst.com",
+     "title": "I'm Retired, How Long Will My Savings Last Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.nerdwallet.com/retirement/learn/how-long-will-your-retirement-savings-last",
+     "domain": "www.nerdwallet.com",
+     "title": "How Long Will My Money Last in Retirement? Calculator, How to Stretch It",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://allegiancecu.org/how-long-will-my-retirement-savings-last",
+     "domain": "allegiancecu.org",
+     "title": "how long will my retirement savings last",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.townebank.com/personal/resource/calculator/savings-last",
+     "domain": "www.townebank.com",
+     "title": "How Long Will My Savings Last?",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.pfcu.com/resources/education/financial-calculators/retirement-calculators/how-long-will-my-retirement-savings-last",
+     "domain": "www.pfcu.com",
+     "title": "How Long Will My Retirement Savings Last?",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://usaaef.org/tools/calculator/how-long-will-my-retirement-savings-last-calculator",
+     "domain": "usaaef.org",
+     "title": "How Long Will My Retirement Savings Last Calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://www.calculatorsoup.com/calculators/financial/retirement-savings-calculator.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "retirement savings calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://www.experian.com/blogs/ask-experian/how-long-will-my-retirement-savings-last/",
+     "domain": "www.experian.com",
+     "title": "How Long Will My Retirement Savings Last?",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "how-long-will-retirement-savings-last-calculator",
+ "page": "how-long-will-retirement-savings-last-calculator",
+ "category": "finance",
+ "name": "How Long Will Retirement Savings Last Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T02:03:47.670Z",
+ "topCompetitors": [
+  {
+   "domain": "bc.edu",
+   "bestRank": 5,
+   "keywords": 2,
+   "urls": [
+    "https://crr.bc.edu/?p=18250",
+    "https://crr.bc.edu/how-long-will-retirement-savings-last"
+   ]
+  },
+  {
+   "domain": "nerdwallet.com",
+   "bestRank": 6,
+   "keywords": 2,
+   "urls": [
+    "https://www.nerdwallet.com/article/investing/7-ways-to-make-your-money-last-in-retirement",
+    "https://www.nerdwallet.com/retirement/learn/how-long-will-your-retirement-savings-last"
+   ]
+  },
+  {
+   "domain": "regions.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://regions.com/insights/personal/calculator/how-long-will-my-retirement-savings-last"
+   ]
+  },
+  {
+   "domain": "nasdaq.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.nasdaq.com/articles/how-long-will-my-retirement-savings-last-2017-05-09"
+   ]
+  },
+  {
+   "domain": "lpl.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.lpl.com/investors/investment-essentials/planning-calculators/calculating-how-long-my-retirement-savings-should-last.html"
+   ]
+  },
+  {
+   "domain": "mutualofomaha.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://2000www.mutualofomaha.com/calculator/how-long-will-my-savings-last"
+   ]
+  },
+  {
+   "domain": "americafirst.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://calcs.americafirst.com/do/ret06"
+   ]
+  },
+  {
+   "domain": "allegiancecu.org",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://allegiancecu.org/how-long-will-my-retirement-savings-last"
+   ]
+  },
+  {
+   "domain": "townebank.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://www.townebank.com/personal/resource/calculator/savings-last"
+   ]
+  },
+  {
+   "domain": "pfcu.com",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://www.pfcu.com/resources/education/financial-calculators/retirement-calculators/how-long-will-my-retirement-savings-last"
+   ]
+  }
+ ]
+}

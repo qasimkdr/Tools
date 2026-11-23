@@ -1,0 +1,321 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/other/nether-portal": {
+   "url": "https://www.omnicalculator.com/other/nether-portal",
+   "finalUrl": "https://www.omnicalculator.com/other/nether-portal",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T02:04:28.571Z",
+   "title": "Nether Portal Calculator",
+   "metaDescription": "The Nether portal calculator firstly determines the coordinates of a Nether portal for both the Overworld and the Nether. It also calculates how many obsidian blocks you'd need to build a Nether portal.",
+   "canonical": "https://www.omnicalculator.com/other/nether-portal",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Nether Portal Calculator"
+   ],
+   "h2": [
+    "How to use the Nether portal calculator",
+    "How do I make a Nether portal in Minecraft? How many blocks of obsidian to make a Nether portal?",
+    "How do I make a Nether portal with lava?",
+    "How do I link Nether portals in Minecraft? How do I convert Nether portal coordinates?",
+    "Making of the nether portal calculator",
+    "FAQs"
+   ],
+   "h3": [
+    "How big is a Nether portal?",
+    "How do I activate a Nether portal?",
+    "How many obsidian blocks do I need for the Nether portal?",
+    "Can you make a Nether portal in the End?",
+    "How do I light a Nether portal without a flint and steel?",
+    "How do I break my Nether portal?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Nether Portal Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to use the Nether portal calculator"
+    },
+    {
+     "level": 2,
+     "text": "How do I make a Nether portal in Minecraft? How many blocks of obsidian to make a Nether portal?"
+    },
+    {
+     "level": 2,
+     "text": "How do I make a Nether portal with lava?"
+    },
+    {
+     "level": 2,
+     "text": "How do I link Nether portals in Minecraft? How do I convert Nether portal coordinates?"
+    },
+    {
+     "level": 2,
+     "text": "Making of the nether portal calculator"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How big is a Nether portal?"
+    },
+    {
+     "level": 3,
+     "text": "How do I activate a Nether portal?"
+    },
+    {
+     "level": 3,
+     "text": "How many obsidian blocks do I need for the Nether portal?"
+    },
+    {
+     "level": 3,
+     "text": "Can you make a Nether portal in the End?"
+    },
+    {
+     "level": 3,
+     "text": "How do I light a Nether portal without a flint and steel?"
+    },
+    {
+     "level": 3,
+     "text": "How do I break my Nether portal?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1686,
+   "avgSentenceWords": 16,
+   "faqs": [
+    "How big is a Nether portal?",
+    "How do I activate a Nether portal?",
+    "How many obsidian blocks do I need for the Nether portal?",
+    "Can you make a Nether portal in the End?",
+    "How do I light a Nether portal without a flint and steel?",
+    "How do I break my Nether portal?",
+    "How do I make a Nether portal in Minecraft? How many blocks of obsidian to make a Nether portal?",
+    "How do I make a Nether portal with lava?",
+    "How do I link Nether portals in Minecraft? How do I convert Nether portal coordinates?"
+   ],
+   "faqSchemaCount": 6,
+   "topics": [
+    {
+     "term": "nether portal",
+     "weight": 86
+    },
+    {
+     "term": "nether",
+     "weight": 85
+    },
+    {
+     "term": "portal",
+     "weight": 77
+    },
+    {
+     "term": "nether portals",
+     "weight": 23
+    },
+    {
+     "term": "obsidian",
+     "weight": 21
+    },
+    {
+     "term": "blocks",
+     "weight": 21
+    },
+    {
+     "term": "portals",
+     "weight": 19
+    },
+    {
+     "term": "calculator",
+     "weight": 18
+    },
+    {
+     "term": "minecraft",
+     "weight": 18
+    },
+    {
+     "term": "portal calculator",
+     "weight": 17
+    },
+    {
+     "term": "make",
+     "weight": 16
+    },
+    {
+     "term": "frame",
+     "weight": 16
+    },
+    {
+     "term": "obsidian blocks",
+     "weight": 14
+    },
+    {
+     "term": "portal frame",
+     "weight": 12
+    },
+    {
+     "term": "corners",
+     "weight": 10
+    },
+    {
+     "term": "overworld",
+     "weight": 9
+    },
+    {
+     "term": "end",
+     "weight": 7
+    },
+    {
+     "term": "build",
+     "weight": 7
+    },
+    {
+     "term": "without",
+     "weight": 7
+    },
+    {
+     "term": "coordinates",
+     "weight": 7
+    },
+    {
+     "term": "many",
+     "weight": 6
+    },
+    {
+     "term": "need",
+     "weight": 6
+    },
+    {
+     "term": "fire",
+     "weight": 6
+    },
+    {
+     "term": "dimension",
+     "weight": 5
+    },
+    {
+     "term": "block",
+     "weight": 5
+    },
+    {
+     "term": "dimensions",
+     "weight": 5
+    },
+    {
+     "term": "have",
+     "weight": 5
+    },
+    {
+     "term": "activate",
+     "weight": 5
+    },
+    {
+     "term": "lava",
+     "weight": 5
+    },
+    {
+     "term": "end portal",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Nether portals can be anything between 4×5 and 23×23.",
+    "For example, creating a Nether portal of size 5×5 blocks with corners requires 16 Obsidian blocks.",
+    "We therefore only need 10 obsidian blocks to make a functional Nether portal in Minecraft and still adhere to the required Nether portal dimensions.",
+    "You should add 4 4 obsidian blocks to the total if your portal will have its corners.",
+    "The Nether and the Overworld's coordinates don't line up in a 1:1 ratio, as distances don't work the same in the two dimensions.",
+    "Instead, the ratio is 1:8, meaning that traveling one block in the Nether equates to traveling eight blocks in the Overworld (although this doesn't apply for the Y-axis).",
+    "The search range is 17×17 chunks or 3×3 chunks, depending on whether D is in the Overworld or the Nether.",
+    "Nether portals can be between 4×5 and 23×23.",
+    "In previous versions of Minecraft, the portal could only be 4×5, and not bigger nor smaller.",
+    "You need at least 10 obsidian blocks to make a functioning Nether portal."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 5,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Rijk de Wet",
+    "published": "2021-09-11T07:46:01.944Z",
+    "modified": "2026-07-24T09:20:30.980Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 535,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 22,
+    "external": 1,
+    "contentInternal": 6,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Minecraft End portal finder",
+     "stack",
+     "Minecraft circle calculator",
+     "Editorial Policies page",
+     "Poker Odds Calculator",
+     "RAID Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/other/end-portal-finder",
+     "https://www.omnicalculator.com/other/minecraft-stack",
+     "https://www.omnicalculator.com/other/minecraft-circle",
+     "https://www.omnicalculator.com/editorial-policies",
+     "https://www.omnicalculator.com/other/poker-odds",
+     "https://www.omnicalculator.com/other/raid"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.calculate.co.nz/nether-portal-calculator.php": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

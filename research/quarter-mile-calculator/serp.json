@@ -1,0 +1,245 @@
+{
+ "keywords": {
+  "1/4 mile calculator": {
+   "fetchedAt": "2026-11-23T02:03:47.793Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 2400,
+   "fileKd": 11,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.omnicalculator.com/physics/quarter-mile",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://cdn.wba.omnicalculator.com/physics/quarter-mile",
+     "domain": "cdn.wba.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://calculator.net/engine-horsepower-calculator.html",
+     "domain": "calculator.net",
+     "title": "Engine Horsepower Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://goodcalculators.com/quarter-mile-calculator/",
+     "domain": "goodcalculators.com",
+     "title": "Quarter Mile Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.firgelliauto.com/blogs/engineering-calculators/quarter-mile-et-calculator-trap-speed",
+     "domain": "www.firgelliauto.com",
+     "title": "Quarter Mile ET Calculator — Trap Speed",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.miniwebtool.com/0-60-quarter-mile-calculator/",
+     "domain": "www.miniwebtool.com",
+     "title": "0 60 quarter mile calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://Omnicalculator.com/everyday-life/horsepower",
+     "domain": "omnicalculator.com",
+     "title": "Horsepower Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.speedwaymotors.com/the-toolbox/drag-racing-calculator-1-4-mile-and-1-8-mile-et-mph-and-horsepower/145871",
+     "domain": "www.speedwaymotors.com",
+     "title": "drag racing calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://ajdesigner.com/horsepower-elapsed-time/",
+     "domain": "ajdesigner.com",
+     "title": "Horsepower from Elapsed Time",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://forabodiesonly.com/mopar/posts/1974792622/printfriendly",
+     "domain": "forabodiesonly.com",
+     "title": "Horsepower Estimate?",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://gregraven.org/hotwater/calculators/qm-from-wt-hp",
+     "domain": "gregraven.org",
+     "title": "Water-Cooled VW Performance Handbook",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://musclecarsillustrated.com/quarter-mile-calculator/",
+     "domain": "musclecarsillustrated.com",
+     "title": "1/4 Mile Calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.beefcakeracing.com/quarter-mile-calculator",
+     "domain": "www.beefcakeracing.com",
+     "title": "quarter mile calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://dragracingwheels.com/track-calculator/",
+     "domain": "dragracingwheels.com",
+     "title": "track calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://www.drivingline.com/articles/drag-strip-math-finding-the-deeper-meaning-in-that-timeslip/",
+     "domain": "www.drivingline.com",
+     "title": "drag strip math",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://mycalcbuddy.com/hi/automotive/quarter-mile-calculator",
+     "domain": "mycalcbuddy.com",
+     "title": "Quarter Mile Calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://inchcalculator.com/engine-horsepower-calculator",
+     "domain": "inchcalculator.com",
+     "title": "Engine Horsepower Calculator",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://www.hakaru.io/guides/quarter-mile-calculator-guide",
+     "domain": "www.hakaru.io",
+     "title": "Quarter Mile Calculator Guide",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://calculator.academy/drag-racing-et-predictor-calculator/",
+     "domain": "calculator.academy",
+     "title": "drag racing et predictor calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "quarter-mile-calculator",
+ "page": "quarter-mile-calculator",
+ "category": "conversion",
+ "name": "Quarter Mile Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T02:03:47.794Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 3,
+   "urls": [
+    "https://www.omnicalculator.com/physics/quarter-mile",
+    "https://cdn.wba.omnicalculator.com/physics/quarter-mile",
+    "https://Omnicalculator.com/everyday-life/horsepower"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://calculator.net/engine-horsepower-calculator.html"
+   ]
+  },
+  {
+   "domain": "goodcalculators.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://goodcalculators.com/quarter-mile-calculator/"
+   ]
+  },
+  {
+   "domain": "firgelliauto.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.firgelliauto.com/blogs/engineering-calculators/quarter-mile-et-calculator-trap-speed"
+   ]
+  },
+  {
+   "domain": "miniwebtool.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.miniwebtool.com/0-60-quarter-mile-calculator/"
+   ]
+  },
+  {
+   "domain": "speedwaymotors.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.speedwaymotors.com/the-toolbox/drag-racing-calculator-1-4-mile-and-1-8-mile-et-mph-and-horsepower/145871"
+   ]
+  },
+  {
+   "domain": "ajdesigner.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://ajdesigner.com/horsepower-elapsed-time/"
+   ]
+  },
+  {
+   "domain": "forabodiesonly.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://forabodiesonly.com/mopar/posts/1974792622/printfriendly"
+   ]
+  },
+  {
+   "domain": "gregraven.org",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://gregraven.org/hotwater/calculators/qm-from-wt-hp"
+   ]
+  },
+  {
+   "domain": "musclecarsillustrated.com",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://musclecarsillustrated.com/quarter-mile-calculator/"
+   ]
+  }
+ ]
+}

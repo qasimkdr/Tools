@@ -1,0 +1,949 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/physics/quarter-mile": {
+   "url": "https://www.omnicalculator.com/physics/quarter-mile",
+   "finalUrl": "https://www.omnicalculator.com/physics/quarter-mile",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T02:04:09.372Z",
+   "title": "Quarter Mile Calculator",
+   "metaDescription": "Given a vehicle's power and weight, you can use this quarter-mile calculator to estimate the elapsed time and final speed over a 1/4-mile distance.",
+   "canonical": "https://www.omnicalculator.com/physics/quarter-mile",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Quarter Mile Calculator"
+   ],
+   "h2": [
+    "Huntington's quarter-mile ET and speed formulas",
+    "Fox's quarter-mile time and speed equations",
+    "Hale's quarter-mile speed and ET formulas",
+    "How to use the 1/4-mile calculator",
+    "Comparison of the three equations with a worked example"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Quarter Mile Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Huntington's quarter-mile ET and speed formulas"
+    },
+    {
+     "level": 2,
+     "text": "Fox's quarter-mile time and speed equations"
+    },
+    {
+     "level": 2,
+     "text": "Hale's quarter-mile speed and ET formulas"
+    },
+    {
+     "level": 2,
+     "text": "How to use the 1/4-mile calculator"
+    },
+    {
+     "level": 2,
+     "text": "Comparison of the three equations with a worked example"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1283,
+   "avgSentenceWords": 31,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "weight",
+     "weight": 36
+    },
+    {
+     "term": "power",
+     "weight": 35
+    },
+    {
+     "term": "quarter mile",
+     "weight": 27
+    },
+    {
+     "term": "speed",
+     "weight": 27
+    },
+    {
+     "term": "mile",
+     "weight": 24
+    },
+    {
+     "term": "calculator",
+     "weight": 24
+    },
+    {
+     "term": "final speed",
+     "weight": 20
+    },
+    {
+     "term": "quarter",
+     "weight": 18
+    },
+    {
+     "term": "final",
+     "weight": 14
+    },
+    {
+     "term": "weight power",
+     "weight": 12
+    },
+    {
+     "term": "elapsed",
+     "weight": 11
+    },
+    {
+     "term": "power weight",
+     "weight": 11
+    },
+    {
+     "term": "engine",
+     "weight": 8
+    },
+    {
+     "term": "vehicle",
+     "weight": 8
+    },
+    {
+     "term": "mile calculator",
+     "weight": 8
+    },
+    {
+     "term": "trap speed",
+     "weight": 8
+    },
+    {
+     "term": "equations",
+     "weight": 7
+    },
+    {
+     "term": "car",
+     "weight": 6
+    },
+    {
+     "term": "drag",
+     "weight": 6
+    },
+    {
+     "term": "estimate",
+     "weight": 6
+    },
+    {
+     "term": "horsepower",
+     "weight": 6
+    },
+    {
+     "term": "total weight",
+     "weight": 6
+    },
+    {
+     "term": "peak",
+     "weight": 6
+    },
+    {
+     "term": "trap",
+     "weight": 5
+    },
+    {
+     "term": "similar",
+     "weight": 5
+    },
+    {
+     "term": "formulas",
+     "weight": 5
+    },
+    {
+     "term": "huntington",
+     "weight": 5
+    },
+    {
+     "term": "distance",
+     "weight": 5
+    },
+    {
+     "term": "mph",
+     "weight": 5
+    },
+    {
+     "term": "mile elapsed",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Using only your car's power and weight, it will estimate its 1/4-mile elapsed time (ET) and final speed (trap speed).",
+    "Our 1/4-mile calculator (as well as the power-to-weight-ratio calculator) will handle all the unit conversions for you!",
+    "Fox's quarter-mile time and speed equations Later on, in the 1960s, a physics professor named Geoffrey Fox at the University of Santa Clara proposed a theoretical basis for Huntington's formula.",
+    "The results section shows you the estimated elapsed time over the 1/4-mile and the final speed at the quarter-mile point (you can estimate the braking zone with stopping distance calculator)."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 6,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Equation"
+   ],
+   "selectOptionsSample": "select huntington fox hale",
+   "unitToggle": true,
+   "wordsBeforeTool": 4,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Steven Wooding",
+    "published": "2019-11-04T10:52:18.968Z",
+    "modified": "2026-09-02T16:48:52.927Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 537,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 34,
+    "external": 1,
+    "contentInternal": 18,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "power-to-weight-ratio calculator",
+     "friction",
+     "Mass moment of inertia",
+     "tire rolling resistance",
+     "car center of mass calculator",
+     "average human reaction time",
+     "stopping distance calculator",
+     "horsepower calculator",
+     "VPD Calculator (Vapor Pressure Deficit)",
+     "Sod Calculator",
+     "Molar Mass Calculator",
+     "Stone Weight Calculator",
+     "Board and Batten Calculator",
+     "Poker Odds Calculator",
+     "RAID Calculator",
+     "Sum of Squares Calculator",
+     "Midrange Calculator",
+     "Coefficient of Variation Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/physics/power-to-weight-ratio",
+     "https://www.omnicalculator.com/physics/friction",
+     "https://www.omnicalculator.com/physics/mass-moment-of-inertia",
+     "https://www.omnicalculator.com/physics/rolling-resistance",
+     "https://www.omnicalculator.com/physics/car-mass-center",
+     "https://www.omnicalculator.com/physics/reaction-time",
+     "https://www.omnicalculator.com/physics/stopping-distance",
+     "https://www.omnicalculator.com/everyday-life/horsepower",
+     "https://www.omnicalculator.com/biology/vapor-pressure-deficit",
+     "https://www.omnicalculator.com/biology/sod",
+     "https://www.omnicalculator.com/chemistry/molar-mass",
+     "https://www.omnicalculator.com/construction/stone",
+     "https://www.omnicalculator.com/construction/board-and-batten",
+     "https://www.omnicalculator.com/other/poker-odds",
+     "https://www.omnicalculator.com/other/raid",
+     "https://www.omnicalculator.com/statistics/sum-of-squares",
+     "https://www.omnicalculator.com/statistics/midrange",
+     "https://www.omnicalculator.com/statistics/coefficient-of-variation"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/engine-horsepower-calculator.html": {
+   "url": "https://www.calculator.net/engine-horsepower-calculator.html",
+   "finalUrl": "https://www.calculator.net/engine-horsepower-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-23T02:04:12.164Z",
+   "title": "Engine Horsepower Calculator",
+   "metaDescription": "This free engine horsepower calculator estimates vehicle engine horsepower using two different methods: the elapsed time method and the trap-speed method.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Engine Horsepower Calculator"
+   ],
+   "h2": [
+    "The Elapsed Time (ET) Method",
+    "The Trap-Speed Method"
+   ],
+   "h3": [
+    "Precautions",
+    "What Is Horsepower?",
+    "Measuring Horsepower",
+    "Gross or Net Horsepower",
+    "Horsepower Versus Torque",
+    "Horsepower and Performance"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Engine Horsepower Calculator"
+    },
+    {
+     "level": 2,
+     "text": "The Elapsed Time (ET) Method"
+    },
+    {
+     "level": 2,
+     "text": "The Trap-Speed Method"
+    },
+    {
+     "level": 3,
+     "text": "Precautions"
+    },
+    {
+     "level": 3,
+     "text": "What Is Horsepower?"
+    },
+    {
+     "level": 3,
+     "text": "Measuring Horsepower"
+    },
+    {
+     "level": 3,
+     "text": "Gross or Net Horsepower"
+    },
+    {
+     "level": 3,
+     "text": "Horsepower Versus Torque"
+    },
+    {
+     "level": 3,
+     "text": "Horsepower and Performance"
+    }
+   ],
+   "wordCount": 1210,
+   "avgSentenceWords": 22,
+   "faqs": [
+    "What Is Horsepower?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "horsepower",
+     "weight": 31
+    },
+    {
+     "term": "engine",
+     "weight": 16
+    },
+    {
+     "term": "vehicle",
+     "weight": 16
+    },
+    {
+     "term": "weight",
+     "weight": 14
+    },
+    {
+     "term": "torque",
+     "weight": 12
+    },
+    {
+     "term": "speed",
+     "weight": 11
+    },
+    {
+     "term": "quarter mile",
+     "weight": 11
+    },
+    {
+     "term": "car",
+     "weight": 10
+    },
+    {
+     "term": "vehicle weight",
+     "weight": 9
+    },
+    {
+     "term": "work",
+     "weight": 8
+    },
+    {
+     "term": "power",
+     "weight": 8
+    },
+    {
+     "term": "quarter",
+     "weight": 7
+    },
+    {
+     "term": "mile",
+     "weight": 7
+    },
+    {
+     "term": "elapsed",
+     "weight": 6
+    },
+    {
+     "term": "measured",
+     "weight": 6
+    },
+    {
+     "term": "pounds",
+     "weight": 6
+    },
+    {
+     "term": "net horsepower",
+     "weight": 6
+    },
+    {
+     "term": "racing car",
+     "weight": 6
+    },
+    {
+     "term": "coal",
+     "weight": 5
+    },
+    {
+     "term": "much",
+     "weight": 5
+    },
+    {
+     "term": "net",
+     "weight": 5
+    },
+    {
+     "term": "high",
+     "weight": 5
+    },
+    {
+     "term": "tractor",
+     "weight": 5
+    },
+    {
+     "term": "engine horsepower",
+     "weight": 5
+    },
+    {
+     "term": "work output",
+     "weight": 5
+    },
+    {
+     "term": "weight ratio",
+     "weight": 5
+    },
+    {
+     "term": "finish",
+     "weight": 4
+    },
+    {
+     "term": "output",
+     "weight": 4
+    },
+    {
+     "term": "method",
+     "weight": 4
+    },
+    {
+     "term": "measure",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "The Elapsed Time (ET) Method This method uses the vehicle weight and the elapsed time (ET) to finish a quarter mile (402.3 meters) on the formula of Horsepower = Weight (ET/5.825)3 .",
+    "The Ferrari will go from zero to 60 miles per hour much faster than the Ford Explorer."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 5,
+   "lists": 0,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "v1weight",
+    "v1weightunit",
+    "v1time",
+    "v1timeunit",
+    "v2weight",
+    "v2weightunit",
+    "v2speed",
+    "v2speedunit"
+   ],
+   "selectOptionsSample": "pound ton kilogram second minute hour day pound ton kilogram miles per hour kilometers per hour meters per second",
+   "unitToggle": false,
+   "wordsBeforeTool": 123,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 14,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 24,
+    "external": 0,
+    "contentInternal": 24,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "other",
+     "engine horsepower calculator",
+     "Other Calculators",
+     "Age",
+     "Date",
+     "Time",
+     "Hours",
+     "GPA",
+     "Grade",
+     "Height",
+     "Concrete",
+     "IP Subnet",
+     "Bra Size",
+     "Password Generator",
+     "Dice Roller",
+     "Conversion",
+     "More Other Calculators",
+     "Financial"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/engine-horsepower-calculator.html",
+     "https://www.calculator.net/age-calculator.html",
+     "https://www.calculator.net/date-calculator.html",
+     "https://www.calculator.net/time-calculator.html",
+     "https://www.calculator.net/hours-calculator.html",
+     "https://www.calculator.net/gpa-calculator.html",
+     "https://www.calculator.net/grade-calculator.html",
+     "https://www.calculator.net/height-calculator.html",
+     "https://www.calculator.net/concrete-calculator.html",
+     "https://www.calculator.net/ip-subnet-calculator.html",
+     "https://www.calculator.net/bra-size-calculator.html",
+     "https://www.calculator.net/password-generator.html",
+     "https://www.calculator.net/dice-roller.html",
+     "https://www.calculator.net/conversion-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/engine-horsepower-calculator/": {
+   "url": "https://www.inchcalculator.com/engine-horsepower-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/engine-horsepower-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-23T02:04:15.236Z",
+   "title": "Engine Horsepower Calculator - Inch Calculator",
+   "metaDescription": "Calculate the horsepower of an engine using one of three different methods, plus see the formulas and learn to do the calculations yourself.",
+   "canonical": "https://www.inchcalculator.com/engine-horsepower-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Engine Horsepower Calculator"
+   ],
+   "h2": [
+    "Calculate Using Elapsed 1/4 Mile Time",
+    "Calculate Using 1/4 Mile Speed",
+    "Calculate Using RPM & Torque",
+    "Tell Us What You Think",
+    "Results: Estimated Horsepower",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate Engine Horsepower",
+    "Similar Automotive Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Calculate Horsepower with the Elapsed Time Method",
+    "Calculate Horsepower with the Trap Speed Method",
+    "Calculate Horsepower with the RPM & Torque Method"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Engine Horsepower Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Calculate Using Elapsed 1/4 Mile Time"
+    },
+    {
+     "level": 2,
+     "text": "Calculate Using 1/4 Mile Speed"
+    },
+    {
+     "level": 2,
+     "text": "Calculate Using RPM & Torque"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Estimated Horsepower"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Engine Horsepower"
+    },
+    {
+     "level": 3,
+     "text": "Calculate Horsepower with the Elapsed Time Method"
+    },
+    {
+     "level": 3,
+     "text": "Calculate Horsepower with the Trap Speed Method"
+    },
+    {
+     "level": 3,
+     "text": "Calculate Horsepower with the RPM & Torque Method"
+    },
+    {
+     "level": 2,
+     "text": "Similar Automotive Calculators"
+    }
+   ],
+   "wordCount": 910,
+   "avgSentenceWords": 31,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "horsepower",
+     "weight": 49
+    },
+    {
+     "term": "engine",
+     "weight": 20
+    },
+    {
+     "term": "calculate",
+     "weight": 18
+    },
+    {
+     "term": "rpm",
+     "weight": 15
+    },
+    {
+     "term": "method",
+     "weight": 14
+    },
+    {
+     "term": "weight",
+     "weight": 12
+    },
+    {
+     "term": "speed",
+     "weight": 12
+    },
+    {
+     "term": "torque",
+     "weight": 12
+    },
+    {
+     "term": "calculator",
+     "weight": 11
+    },
+    {
+     "term": "engine horsepower",
+     "weight": 11
+    },
+    {
+     "term": "calculate horsepower",
+     "weight": 11
+    },
+    {
+     "term": "quarter mile",
+     "weight": 11
+    },
+    {
+     "term": "mile",
+     "weight": 9
+    },
+    {
+     "term": "vehicle",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "trap speed",
+     "weight": 8
+    },
+    {
+     "term": "speed method",
+     "weight": 8
+    },
+    {
+     "term": "quarter",
+     "weight": 7
+    },
+    {
+     "term": "elapsed",
+     "weight": 6
+    },
+    {
+     "term": "rpm torque",
+     "weight": 6
+    },
+    {
+     "term": "torque method",
+     "weight": 6
+    },
+    {
+     "term": "pounds",
+     "weight": 6
+    },
+    {
+     "term": "400 meter",
+     "weight": 6
+    },
+    {
+     "term": "defined",
+     "weight": 6
+    },
+    {
+     "term": "trap",
+     "weight": 5
+    },
+    {
+     "term": "horsepower calculator",
+     "weight": 5
+    },
+    {
+     "term": "method calculate",
+     "weight": 5
+    },
+    {
+     "term": "meter run",
+     "weight": 5
+    },
+    {
+     "term": "example let",
+     "weight": 5
+    },
+    {
+     "term": "maximum horsepower",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Calculate Horsepower with the Elapsed Time Method The elapsed time method is a way of finding engine horsepower by using the time it takes a vehicle to complete a quarter-mile or 400-meter run.",
+    "By using the quarter-mile/400-meter time and the vehicle weight, it is possible to estimate the horsepower of the vehicle.",
+    "For example, let’s calculate the horsepower for a vehicle weighing 3,750 pounds that completes the quarter-mile in 13 seconds.",
+    "For example, let’s calculate horsepower for a vehicle weighing 3,750 pounds with a quarter-mile speed of 100 mph."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 2,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "Time",
+    "Time Units",
+    "Weight",
+    "Weight Units",
+    "Speed",
+    "Speed Units",
+    "Weight",
+    "Weight Units",
+    "RPM",
+    "Torque"
+   ],
+   "selectOptionsSample": "s ms lbs tons kg mph kmh lbs tons kg",
+   "unitToggle": true,
+   "wordsBeforeTool": 40,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2019-06-20",
+    "modified": "2026-07-21T15:57:36+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 124,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 46,
+    "external": 13,
+    "contentInternal": 22,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "find engine torque",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate Engine Horsepower",
+     "Calculate Horsepower with the Elapsed Time Method",
+     "Calculate Horsepower with the Trap Speed Method",
+     "Calculate Horsepower with the RPM & Torque Method",
+     "Full bio",
+     "Engine Horsepower Calculator",
+     "speed",
+     "torque",
+     "force",
+     "engine’s RPM",
+     "horsepower conversion calculators",
+     "carburetor size calculator",
+     "Gear Ratio Calculator",
+     "Transmission Gear Ratio and RPM Calculator",
+     "Engine RPM Calculator",
+     "Ring & Pinion Gear Ratio Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/engine-horsepower-calculator/#idx_how_to_calculate_horsepower",
+     "https://www.inchcalculator.com/engine-torque-calculator/",
+     "https://www.inchcalculator.com/engine-horsepower-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/engine-horsepower/",
+     "https://www.inchcalculator.com/engine-horsepower-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/engine-horsepower-calculator/#idx_calculate_horsepower_with_the_elapsed_time_method",
+     "https://www.inchcalculator.com/engine-horsepower-calculator/#idx_calculate_horsepower_with_the_trap_speed_method",
+     "https://www.inchcalculator.com/engine-horsepower-calculator/#idx_calculate_horsepower_with_the_rpm_038_torque_method",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/stephen-fogel/",
+     "https://www.inchcalculator.com/engine-horsepower-calculator/",
+     "https://www.inchcalculator.com/speed-calculator/",
+     "https://www.inchcalculator.com/torque-calculator/",
+     "https://www.inchcalculator.com/force-calculator/",
+     "https://www.inchcalculator.com/engine-rpm-calculator/",
+     "https://www.inchcalculator.com/convert/from-horsepower/",
+     "https://www.inchcalculator.com/carburetor-size-calculator/",
+     "https://www.inchcalculator.com/gear-ratio-calculator/",
+     "https://www.inchcalculator.com/transmission-gear-ratio-calculator/",
+     "https://www.inchcalculator.com/ring-pinion-gear-ratio-calculator/",
+     "https://www.inchcalculator.com/fuel-flow-rate-conversion-calculator/",
+     "https://www.inchcalculator.com/engine-transmission-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fengine-horsepower-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fengine-horsepower-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fengine-horsepower-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fengine-horsepower-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fengine-horsepower-calculator%2F&text=Engine+Horsepower+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fengine-horsepower-calculator%2F&text=Engine+Horsepower+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

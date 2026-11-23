@@ -1,0 +1,226 @@
+{
+ "keywords": {
+  "seller financing calculator": {
+   "fetchedAt": "2026-11-23T02:03:47.542Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1300,
+   "fileKd": 6,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://biggerpockets.com/forums/50/topics/885494-mortgage-calculator-for-seller-finance-help",
+     "domain": "biggerpockets.com",
+     "title": "885494 mortgage calculator for seller finance help",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://levelup.gitconnected.com/unlock-the-power-of-creative-financing-build-your-own-seller-financing-calculator-in-python-97759329e9e0",
+     "domain": "levelup.gitconnected.com",
+     "title": "Member-only story",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.biggerpockets.com/forums/50/topics/161617-calculating-seller-finance-payments",
+     "domain": "www.biggerpockets.com",
+     "title": "161617 calculating seller finance payments",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://flippa.com/finance-calculator/",
+     "domain": "flippa.com",
+     "title": "Seller Financing Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.revenue.state.mn.us/sites/default/files/2019-06/Balloon%20payment%20calculator.pdf",
+     "domain": "www.revenue.state.mn.us",
+     "title": "state.mn.us",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://biggerpockets.com/forums/50/topics/547469-new-to-bp-question-about-seller-financing",
+     "domain": "biggerpockets.com",
+     "title": "Creative Real Estate Financing",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.biggerpockets.com/forums/49/topics/547497-seller-financing-deal-trouble-with-amortization-schedule",
+     "domain": "www.biggerpockets.com",
+     "title": "547497 seller financing deal trouble with amortization schedule",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://vertex42.com/ExcelTemplates/balloon-loan-calculator.html",
+     "domain": "vertex42.com",
+     "title": "Balloon Loan Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://joingerald.com/blog/seller-financing-calculator-with-balloon-payment",
+     "domain": "joingerald.com",
+     "title": "Gerald Wallet Home",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.loopnet.com/cre-explained/tools/balloon-payment-calculator",
+     "domain": "www.loopnet.com",
+     "title": "balloon payment calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://fitsmallbusiness.com/balloon-mortgage-calculator/",
+     "domain": "fitsmallbusiness.com",
+     "title": "Balloon Mortgage Calculator | Fit Small Business",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://tool.teamzlab.com/real-estate/seller-financing-balloon-amortization-calculator/",
+     "domain": "tool.teamzlab.com",
+     "title": "Seller Financing Balloon Amortization Calculator 2027",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.experian.com/blogs/ask-experian/balloon-mortgage-calculator/",
+     "domain": "www.experian.com",
+     "title": "Balloon Mortgage Calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://mortgagecalculator.org/calcs/balloon.php",
+     "domain": "mortgagecalculator.org",
+     "title": "mortgagecalculator.org",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://tool.teamzlab.com/mortgage/seller-financing-calculator/",
+     "domain": "tool.teamzlab.com",
+     "title": "Seller Financing Calculator",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://crunchmilk.pages.dev/seller-financing-calculator/",
+     "domain": "crunchmilk.pages.dev",
+     "title": "Seller Financing Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "seller-financing-calculator",
+ "page": "seller-financing-calculator",
+ "category": "finance",
+ "name": "Seller Financing Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T02:03:47.543Z",
+ "topCompetitors": [
+  {
+   "domain": "biggerpockets.com",
+   "bestRank": 1,
+   "keywords": 4,
+   "urls": [
+    "https://biggerpockets.com/forums/50/topics/885494-mortgage-calculator-for-seller-finance-help",
+    "https://www.biggerpockets.com/forums/50/topics/161617-calculating-seller-finance-payments",
+    "https://biggerpockets.com/forums/50/topics/547469-new-to-bp-question-about-seller-financing",
+    "https://www.biggerpockets.com/forums/49/topics/547497-seller-financing-deal-trouble-with-amortization-schedule"
+   ]
+  },
+  {
+   "domain": "teamzlab.com",
+   "bestRank": 12,
+   "keywords": 2,
+   "urls": [
+    "https://tool.teamzlab.com/real-estate/seller-financing-balloon-amortization-calculator/",
+    "https://tool.teamzlab.com/mortgage/seller-financing-calculator/"
+   ]
+  },
+  {
+   "domain": "gitconnected.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://levelup.gitconnected.com/unlock-the-power-of-creative-financing-build-your-own-seller-financing-calculator-in-python-97759329e9e0"
+   ]
+  },
+  {
+   "domain": "flippa.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://flippa.com/finance-calculator/"
+   ]
+  },
+  {
+   "domain": "mn.us",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.revenue.state.mn.us/sites/default/files/2019-06/Balloon%20payment%20calculator.pdf"
+   ]
+  },
+  {
+   "domain": "vertex42.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://vertex42.com/ExcelTemplates/balloon-loan-calculator.html"
+   ]
+  },
+  {
+   "domain": "joingerald.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://joingerald.com/blog/seller-financing-calculator-with-balloon-payment"
+   ]
+  },
+  {
+   "domain": "loopnet.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://www.loopnet.com/cre-explained/tools/balloon-payment-calculator"
+   ]
+  },
+  {
+   "domain": "fitsmallbusiness.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://fitsmallbusiness.com/balloon-mortgage-calculator/"
+   ]
+  },
+  {
+   "domain": "experian.com",
+   "bestRank": 13,
+   "keywords": 1,
+   "urls": [
+    "https://www.experian.com/blogs/ask-experian/balloon-mortgage-calculator/"
+   ]
+  }
+ ]
+}

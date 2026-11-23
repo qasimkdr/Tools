@@ -1,0 +1,239 @@
+{
+ "keywords": {
+  "firewood calculator cord": {
+   "fetchedAt": "2026-11-23T02:03:47.924Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1900,
+   "fileKd": 8,
+   "fileIntent": "C",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.omnicalculator.com/everyday-life/cord-wood",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://gaftp.epa.gov/AIR/nei/2023/doc/supporting_data/nonpoint/how-much-firewood-is-in-a-cord_website.docx",
+     "domain": "gaftp.epa.gov",
+     "title": "how much firewood is in a cord website",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://wba.omnicalculator.com/everyday-life/cord-wood",
+     "domain": "wba.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.bobvila.com/articles/how-much-is-a-cord-of-wood.md",
+     "domain": "www.bobvila.com",
+     "title": "how much is a cord of wood",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://bobvila.com/articles/how-much-is-a-cord-of-wood",
+     "domain": "bobvila.com",
+     "title": "Solved! How Much Wood Is in a Cord of Wood?",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.google.co.il/amp/s/www.engineeringtoolbox.com/amp/cord-fuel-wood-d_820.html",
+     "domain": "www.google.co.il",
+     "title": "Fire Wood - the Cord",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www11.maine.gov/dacf/mfs/projects/woodheatmaine/downloads/firewoodfacts2.pdf",
+     "domain": "www11.maine.gov",
+     "title": "www11.maine.gov",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www1.maine.gov/DACF/mfs/projects/woodheatmaine/downloads/firewoodfacts2.pdf",
+     "domain": "www1.maine.gov",
+     "title": "www1.maine.gov",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://wikipedia.com/wiki/Cord-foot",
+     "domain": "wikipedia.com",
+     "title": "Cord (unit)",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.firepitsurplus.com/blogs/calculator/firewood-cord-calculator",
+     "domain": "www.firepitsurplus.com",
+     "title": "firewood cord calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://forestry.extension.wisc.edu/files/2023/05/fem_044.pdf",
+     "domain": "forestry.extension.wisc.edu",
+     "title": "fem 044",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://northernwoodlands.org/knots_and_bolts/a_cord_is_a_cord_is_a_cord",
+     "domain": "northernwoodlands.org",
+     "title": "a cord is a cord is a cord",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.theenvironmentalblog.org/?p=12700",
+     "domain": "www.theenvironmentalblog.org",
+     "title": "What Are Cords of Wood?",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://woodworkingadvisor.com/firewood-cord-calculator/",
+     "domain": "woodworkingadvisor.com",
+     "title": "Firewood Cord Calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://firewoodhoardersclub.com/forums/resources/firewood-cord-calcuations.16/reviews",
+     "domain": "firewoodhoardersclub.com",
+     "title": "firewood cord calcuations",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://miniwebtool.com/firewood-cord-calculator/",
+     "domain": "miniwebtool.com",
+     "title": "firewood cord calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://ruggedmade.com/ruggedliving/how-to-stack-and-measure-a-firewood-cord.html",
+     "domain": "ruggedmade.com",
+     "title": "how to stack and measure a firewood cord",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://www.suttersheriff.gov/home/showpublisheddocument/2852/639075174598800000",
+     "domain": "www.suttersheriff.gov",
+     "title": "www.suttersheriff.gov",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "firewood-calculator",
+ "page": "firewood-calculator",
+ "category": "construction",
+ "name": "Firewood Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T02:03:47.924Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://www.omnicalculator.com/everyday-life/cord-wood",
+    "https://wba.omnicalculator.com/everyday-life/cord-wood"
+   ]
+  },
+  {
+   "domain": "bobvila.com",
+   "bestRank": 4,
+   "keywords": 2,
+   "urls": [
+    "https://www.bobvila.com/articles/how-much-is-a-cord-of-wood.md",
+    "https://bobvila.com/articles/how-much-is-a-cord-of-wood"
+   ]
+  },
+  {
+   "domain": "maine.gov",
+   "bestRank": 7,
+   "keywords": 2,
+   "urls": [
+    "https://www11.maine.gov/dacf/mfs/projects/woodheatmaine/downloads/firewoodfacts2.pdf",
+    "https://www1.maine.gov/DACF/mfs/projects/woodheatmaine/downloads/firewoodfacts2.pdf"
+   ]
+  },
+  {
+   "domain": "epa.gov",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://gaftp.epa.gov/AIR/nei/2023/doc/supporting_data/nonpoint/how-much-firewood-is-in-a-cord_website.docx"
+   ]
+  },
+  {
+   "domain": "google.co.il",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.google.co.il/amp/s/www.engineeringtoolbox.com/amp/cord-fuel-wood-d_820.html"
+   ]
+  },
+  {
+   "domain": "wikipedia.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://wikipedia.com/wiki/Cord-foot"
+   ]
+  },
+  {
+   "domain": "firepitsurplus.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://www.firepitsurplus.com/blogs/calculator/firewood-cord-calculator"
+   ]
+  },
+  {
+   "domain": "wisc.edu",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://forestry.extension.wisc.edu/files/2023/05/fem_044.pdf"
+   ]
+  },
+  {
+   "domain": "northernwoodlands.org",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://northernwoodlands.org/knots_and_bolts/a_cord_is_a_cord_is_a_cord"
+   ]
+  },
+  {
+   "domain": "theenvironmentalblog.org",
+   "bestRank": 13,
+   "keywords": 1,
+   "urls": [
+    "https://www.theenvironmentalblog.org/?p=12700"
+   ]
+  }
+ ]
+}

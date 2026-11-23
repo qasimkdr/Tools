@@ -1,0 +1,348 @@
+{
+ "pages": {
+  "https://www.calculator.net/mortgage-calculator.html": {
+   "url": "https://www.calculator.net/mortgage-calculator.html",
+   "finalUrl": "https://www.calculator.net/mortgage-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-23T02:03:49.202Z",
+   "title": "Mortgage Calculator",
+   "metaDescription": "Free mortgage calculator to find monthly payment, total home ownership cost, and amortization schedule with options for taxes, PMI, HOA, and early payoff.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Mortgage Calculator"
+   ],
+   "h2": [
+    "Monthly Pay: $2,171.04",
+    "Amortization schedule"
+   ],
+   "h3": [
+    "Mortgages",
+    "Mortgage Calculator Components",
+    "Costs Associated with Home Ownership and Mortgages",
+    "Early Repayment and Extra Payments",
+    "Brief History of Mortgages in the U.S."
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Mortgage Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Monthly Pay: $2,171.04"
+    },
+    {
+     "level": 2,
+     "text": "Amortization schedule"
+    },
+    {
+     "level": 3,
+     "text": "Mortgages"
+    },
+    {
+     "level": 3,
+     "text": "Mortgage Calculator Components"
+    },
+    {
+     "level": 3,
+     "text": "Costs Associated with Home Ownership and Mortgages"
+    },
+    {
+     "level": 3,
+     "text": "Early Repayment and Extra Payments"
+    },
+    {
+     "level": 3,
+     "text": "Brief History of Mortgages in the U.S."
+    }
+   ],
+   "wordCount": 2725,
+   "avgSentenceWords": 21,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "mortgage",
+     "weight": 41
+    },
+    {
+     "term": "interest",
+     "weight": 27
+    },
+    {
+     "term": "costs",
+     "weight": 27
+    },
+    {
+     "term": "loan",
+     "weight": 26
+    },
+    {
+     "term": "payment",
+     "weight": 22
+    },
+    {
+     "term": "property",
+     "weight": 21
+    },
+    {
+     "term": "home",
+     "weight": 18
+    },
+    {
+     "term": "payments",
+     "weight": 18
+    },
+    {
+     "term": "down payment",
+     "weight": 15
+    },
+    {
+     "term": "borrower",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "down",
+     "weight": 14
+    },
+    {
+     "term": "rate",
+     "weight": 14
+    },
+    {
+     "term": "pay",
+     "weight": 14
+    },
+    {
+     "term": "mortgages",
+     "weight": 14
+    },
+    {
+     "term": "borrowers",
+     "weight": 14
+    },
+    {
+     "term": "extra payments",
+     "weight": 14
+    },
+    {
+     "term": "insurance",
+     "weight": 13
+    },
+    {
+     "term": "extra",
+     "weight": 12
+    },
+    {
+     "term": "amount",
+     "weight": 11
+    },
+    {
+     "term": "interest rate",
+     "weight": 11
+    },
+    {
+     "term": "home insurance",
+     "weight": 11
+    },
+    {
+     "term": "financial",
+     "weight": 10
+    },
+    {
+     "term": "cost",
+     "weight": 10
+    },
+    {
+     "term": "monthly",
+     "weight": 10
+    },
+    {
+     "term": "mortgage calculator",
+     "weight": 9
+    },
+    {
+     "term": "term",
+     "weight": 9
+    },
+    {
+     "term": "annual",
+     "weight": 9
+    },
+    {
+     "term": "fee",
+     "weight": 9
+    },
+    {
+     "term": "year",
+     "weight": 9
+    }
+   ],
+   "claims": [
+    "In essence, the lender helps the buyer pay the seller of a house, and the buyer agrees to repay the money borrowed over a period of time, usually 15 or 30 years in the U.S."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 8,
+   "lists": 6,
+   "images": 11,
+   "videos": 0,
+   "calculatorInputs": [
+    "chouseprice",
+    "cdownpayment",
+    "cdownpaymentunit",
+    "cloanterm",
+    "cinterestrate",
+    "cstartmonth",
+    "cstartyear",
+    "Include Taxes & Costs Below",
+    "cpropertytaxes",
+    "cpropertytaxesunit",
+    "chomeins",
+    "chomeinsunit",
+    "cpmi",
+    "cpmiunit",
+    "choa",
+    "choaunit",
+    "cothercost",
+    "cothercostunit",
+    "cptinc",
+    "chiinc",
+    "choainc",
+    "cocinc",
+    "cexma",
+    "cexmsm",
+    "cexmsy",
+    "cexya",
+    "cexysm",
+    "cexysy",
+    "cexoa",
+    "cexosm",
+    "cexosy",
+    "xa1",
+    "xm1",
+    "xy1",
+    "xa2",
+    "xm2",
+    "xy2",
+    "xa3",
+    "xm3",
+    "xy3"
+   ],
+   "selectOptionsSample": "% $ jan feb mar apr may jun jul aug sep oct nov dec % $ % $ % $ % $ % $ jan feb mar apr may jun jul aug sep oct nov dec jan feb mar apr may jun jul aug sep oct nov dec jan feb mar apr may jun jul aug sep oct nov dec jan feb mar apr may jun jul aug sep oct nov dec jan feb mar apr may jun jul aug sep ",
+   "unitToggle": false,
+   "wordsBeforeTool": 13,
+   "actions": {
+    "print": true,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 108,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 30,
+    "external": 0,
+    "contentInternal": 30,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "financial",
+     "mortgage calculator",
+     "Print",
+     "+ More Options",
+     "Additional One-Time Payments",
+     "House Affordability Calculator",
+     "Financial Calculators",
+     "Mortgage",
+     "Loan",
+     "Auto Loan",
+     "Interest",
+     "Payment",
+     "Retirement",
+     "Amortization",
+     "Investment",
+     "Currency",
+     "Inflation",
+     "Finance"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/mortgage-calculator.html",
+     "https://www.calculator.net/mortgage-calculator.html#",
+     "https://www.calculator.net/house-affordability-calculator.html",
+     "https://www.calculator.net/loan-calculator.html",
+     "https://www.calculator.net/auto-loan-calculator.html",
+     "https://www.calculator.net/interest-calculator.html",
+     "https://www.calculator.net/payment-calculator.html",
+     "https://www.calculator.net/retirement-calculator.html",
+     "https://www.calculator.net/amortization-calculator.html",
+     "https://www.calculator.net/investment-calculator.html",
+     "https://www.calculator.net/currency-calculator.html",
+     "https://www.calculator.net/inflation-calculator.html",
+     "https://www.calculator.net/finance-calculator.html",
+     "https://www.calculator.net/mortgage-payoff-calculator.html",
+     "https://www.calculator.net/tax-calculator.html",
+     "https://www.calculator.net/compound-interest-calculator.html",
+     "https://www.calculator.net/salary-calculator.html",
+     "https://www.calculator.net/401k-calculator.html",
+     "https://www.calculator.net/interest-rate-calculator.html",
+     "https://www.calculator.net/sales-tax-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.omnicalculator.com/finance/seller-financing": [
+   "HTTP 404"
+  ],
+  "https://www.calculatorsoup.com/calculators/financial/balloon-loan-calculator.php": [
+   "HTTP 404"
+  ]
+ }
+}

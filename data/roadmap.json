@@ -10297,7 +10297,7 @@
    ],
    "competitors": [],
    "category": "finance",
-   "status": "todo",
+   "status": "live",
    "order": 107,
    "batch": 11
   },
@@ -10327,6 +10327,7 @@
    "competitors": [],
    "category": "everyday",
    "status": "todo",
+   "note": "intent unclear (\"LRI\") \u2014 check SERP before building",
    "order": 108,
    "batch": 11
   },
@@ -10395,6 +10396,7 @@
    "competitors": [],
    "category": "construction",
    "status": "todo",
+   "note": "skipped 2026-11-23: torsion-spring (IPPT) formulas not verifiable from reachable sources",
    "order": 110,
    "batch": 11
   },
@@ -10424,6 +10426,7 @@
    "competitors": [],
    "category": "construction",
    "status": "todo",
+   "note": "skipped 2026-11-23: needs verifiable price data; revisit as a user-rate estimator",
    "order": 111,
    "batch": 12
   },
@@ -10470,7 +10473,7 @@
    ],
    "competitors": [],
    "category": "conversion",
-   "status": "todo",
+   "status": "live",
    "order": 112,
    "batch": 12
   },
@@ -10508,7 +10511,7 @@
    ],
    "competitors": [],
    "category": "finance",
-   "status": "todo",
+   "status": "live",
    "order": 113,
    "batch": 12
   },
@@ -10546,7 +10549,7 @@
    ],
    "competitors": [],
    "category": "construction",
-   "status": "todo",
+   "status": "live",
    "order": 114,
    "batch": 12
   },
@@ -10577,7 +10580,7 @@
     "www.omnicalculator.com/other/nether-portal"
    ],
    "category": "everyday",
-   "status": "todo",
+   "status": "live",
    "order": 115,
    "batch": 12
   },

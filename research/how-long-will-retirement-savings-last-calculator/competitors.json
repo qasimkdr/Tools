@@ -1,0 +1,651 @@
+{
+ "pages": {
+  "https://www.calculatorsoup.com/calculators/financial/retirement-savings-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/financial/retirement-savings-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/financial/retirement-savings-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-23T02:03:59.293Z",
+   "title": "Retirement Savings Calculator",
+   "metaDescription": "How long will my retirement savings last? Estimate how many years your savings will last based on what you have to start, your monthly income deposits, and your monthly expense withdrawals.",
+   "canonical": "https://www.calculatorsoup.com/calculators/financial/retirement-savings-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Retirement Savings Calculator"
+   ],
+   "h2": [],
+   "h3": [
+    "How long will my retirement savings last?",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Retirement Savings Calculator"
+    },
+    {
+     "level": 3,
+     "text": "How long will my retirement savings last?"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 473,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "How long will my retirement savings last?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "retirement savings",
+     "weight": 18
+    },
+    {
+     "term": "savings",
+     "weight": 18
+    },
+    {
+     "term": "calculator",
+     "weight": 16
+    },
+    {
+     "term": "monthly",
+     "weight": 15
+    },
+    {
+     "term": "retirement",
+     "weight": 13
+    },
+    {
+     "term": "savings calculator",
+     "weight": 11
+    },
+    {
+     "term": "last",
+     "weight": 9
+    },
+    {
+     "term": "account",
+     "weight": 9
+    },
+    {
+     "term": "monthly income",
+     "weight": 8
+    },
+    {
+     "term": "calculators",
+     "weight": 7
+    },
+    {
+     "term": "interest",
+     "weight": 6
+    },
+    {
+     "term": "income",
+     "weight": 6
+    },
+    {
+     "term": "monthly expenses",
+     "weight": 6
+    },
+    {
+     "term": "rate",
+     "weight": 5
+    },
+    {
+     "term": "expenses",
+     "weight": 5
+    },
+    {
+     "term": "have",
+     "weight": 5
+    },
+    {
+     "term": "month",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators financial",
+     "weight": 5
+    },
+    {
+     "term": "account balance",
+     "weight": 5
+    },
+    {
+     "term": "annual interest",
+     "weight": 5
+    },
+    {
+     "term": "interest rate",
+     "weight": 5
+    },
+    {
+     "term": "social security",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "financial",
+     "weight": 4
+    },
+    {
+     "term": "balance",
+     "weight": 4
+    },
+    {
+     "term": "years",
+     "weight": 4
+    },
+    {
+     "term": "amount",
+     "weight": 4
+    },
+    {
+     "term": "enter",
+     "weight": 4
+    },
+    {
+     "term": "saving",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "For example, an annual interest rate of 7% will be approximated as a monthly rate of [ 0.07/12 months = 0.00583 or 0.583% ].",
+    "Example Use Let's say you have a starting balance of $75,000 at 4% interest and you know your monthly income will be $1,800.",
+    "You want to know how much you can withdraw on a monthly basis to make your saving last at least 10 years.",
+    "Try entering expenses as $2,800 per month and you'll see that savings will last 8 Years and 1 Month.",
+    "At $2,550 the savings will last about 10 Years and 1 Month."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 0,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Account Balance: $ Retirement Savings",
+    "Annual Interest Rate: %",
+    "Deposits: $ monthly income",
+    "Withdrawals: $ monthly expenses",
+    "reset"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 30,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "August 1, 2025",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 49,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 18,
+    "external": 0,
+    "contentInternal": 8,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Financial",
+     "Saving and Investing",
+     "Retirement Savings Calculator",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Future Value of an Investment Account Calculator",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/financial/",
+     "https://www.calculatorsoup.com/calculators/financial/index-savings-calculators.php",
+     "https://www.calculatorsoup.com/calculators/financial/retirement-savings-calculator.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=financial%2F&folderName=Financial&folder2=financial%2Findex-savings-calculators.php&folderName2=Saving+and+Investing&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/financial/retirement-savings-calculator.php&h1=Retirement+Savings+Calculator&pop_w=400&pop_h=700",
+     "https://www.calculatorsoup.com/calculators/financial/future-value-investment-account-calculator.php"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/retirement-calculator.html": {
+   "url": "https://www.calculator.net/retirement-calculator.html",
+   "finalUrl": "https://www.calculator.net/retirement-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-23T02:04:05.349Z",
+   "title": "Retirement Calculator",
+   "metaDescription": "Free calculators that help with retirement planning with inflation, social security, life expectancy, and many more factors being taken into account.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Retirement Calculator"
+   ],
+   "h2": [
+    "How much do you need to retire?",
+    "How can you save for retirement?",
+    "How much can you withdraw after retirement?",
+    "How long can your money last?",
+    "What is Retirement?",
+    "How Much to Save for Retirement",
+    "Common Sources of Retirement Funds"
+   ],
+   "h3": [
+    "Why Retire?",
+    "10% Rule",
+    "80% Rule",
+    "4% Rule",
+    "Impact of Inflation on Retirement Savings",
+    "Social Security",
+    "Pensions, 401(k)s, Individual Retirement Accounts (IRA), and Other Savings Plans",
+    "Other Sources of Retirement Income"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Retirement Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How much do you need to retire?"
+    },
+    {
+     "level": 2,
+     "text": "How can you save for retirement?"
+    },
+    {
+     "level": 2,
+     "text": "How much can you withdraw after retirement?"
+    },
+    {
+     "level": 2,
+     "text": "How long can your money last?"
+    },
+    {
+     "level": 2,
+     "text": "What is Retirement?"
+    },
+    {
+     "level": 3,
+     "text": "Why Retire?"
+    },
+    {
+     "level": 2,
+     "text": "How Much to Save for Retirement"
+    },
+    {
+     "level": 3,
+     "text": "10% Rule"
+    },
+    {
+     "level": 3,
+     "text": "80% Rule"
+    },
+    {
+     "level": 3,
+     "text": "4% Rule"
+    },
+    {
+     "level": 3,
+     "text": "Impact of Inflation on Retirement Savings"
+    },
+    {
+     "level": 2,
+     "text": "Common Sources of Retirement Funds"
+    },
+    {
+     "level": 3,
+     "text": "Social Security"
+    },
+    {
+     "level": 3,
+     "text": "Pensions, 401(k)s, Individual Retirement Accounts (IRA), and Other Savings Plans"
+    },
+    {
+     "level": 3,
+     "text": "Other Sources of Retirement Income"
+    }
+   ],
+   "wordCount": 2745,
+   "avgSentenceWords": 22,
+   "faqs": [
+    "How much do you need to retire?",
+    "How can you save for retirement?",
+    "How much can you withdraw after retirement?",
+    "How long can your money last?",
+    "What is Retirement?",
+    "Why Retire?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "retirement",
+     "weight": 71
+    },
+    {
+     "term": "income",
+     "weight": 36
+    },
+    {
+     "term": "social security",
+     "weight": 23
+    },
+    {
+     "term": "tax",
+     "weight": 21
+    },
+    {
+     "term": "calculator",
+     "weight": 20
+    },
+    {
+     "term": "savings",
+     "weight": 20
+    },
+    {
+     "term": "inflation",
+     "weight": 18
+    },
+    {
+     "term": "year",
+     "weight": 16
+    },
+    {
+     "term": "social",
+     "weight": 16
+    },
+    {
+     "term": "security",
+     "weight": 15
+    },
+    {
+     "term": "investments",
+     "weight": 15
+    },
+    {
+     "term": "have",
+     "weight": 14
+    },
+    {
+     "term": "retire",
+     "weight": 13
+    },
+    {
+     "term": "person",
+     "weight": 13
+    },
+    {
+     "term": "benefits",
+     "weight": 13
+    },
+    {
+     "term": "much",
+     "weight": 12
+    },
+    {
+     "term": "retirement savings",
+     "weight": 12
+    },
+    {
+     "term": "people",
+     "weight": 12
+    },
+    {
+     "term": "please visit",
+     "weight": 12
+    },
+    {
+     "term": "save",
+     "weight": 11
+    },
+    {
+     "term": "during",
+     "weight": 11
+    },
+    {
+     "term": "after retirement",
+     "weight": 11
+    },
+    {
+     "term": "age",
+     "weight": 10
+    },
+    {
+     "term": "ira",
+     "weight": 10
+    },
+    {
+     "term": "after",
+     "weight": 9
+    },
+    {
+     "term": "information",
+     "weight": 9
+    },
+    {
+     "term": "financial",
+     "weight": 8
+    },
+    {
+     "term": "investment",
+     "weight": 8
+    },
+    {
+     "term": "pension",
+     "weight": 8
+    },
+    {
+     "term": "there",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "In the U.S., Social Security benefits are only designed to replace about 40% of the average worker's wages during retirement.",
+    "Roughly speaking, by saving 10% starting at age 25, a $1 million nest egg by the time of retirement is possible.",
+    "80% Rule Another popular rule suggests that an income of 70% to 80% of a worker's pre-retirement income can maintain a retiree's standard of living after retirement.",
+    "For example, if a person made roughly $100,000 a year on average during his working life, this person can have a similar standard of living with $70,000 - $80,000 a year of income after retirement.",
+    "This 70% - 80% figure can vary greatly depending on how people envision their retirements.",
+    "4% Rule People who have a good estimate of how much they will require a year in retirement can divide this number by 4% to determine the nest egg required to enable their lifestyle.",
+    "Some experts claim that savings of 15 to 25 times of a person's current annual income are enough to last them throughout their retirement.",
+    "Yet, approximately one-third of the working population and 50% of retirees expect Social Security to be their major source of income after retirement.",
+    "Investments and CDs In the U.S., while pensions, 401(k)s, and IRAs are great ways to save for retirement due to their tax benefits, they all have annual investment limits that can vary based on income or other factors."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 5,
+   "lists": 0,
+   "images": 6,
+   "videos": 0,
+   "calculatorInputs": [
+    "cagenow",
+    "cretireage",
+    "clifeexp",
+    "cincomenow",
+    "cincomeinc",
+    "cretinclevel",
+    "crilunit",
+    "cinvreturn",
+    "cinflation",
+    "cotherincome",
+    "csavingnow",
+    "cannualsave",
+    "csaveunit",
+    "cagenow",
+    "cretireage",
+    "cneededamount",
+    "csavingnow",
+    "cinvreturn",
+    "cagenow",
+    "cretireage",
+    "clifeexp",
+    "csavingnow",
+    "cannualaddition",
+    "cmonthlyaddition",
+    "cinvreturn",
+    "cinflation",
+    "cneededamount",
+    "cmonthlywithdraw",
+    "cinvreturn"
+   ],
+   "selectOptionsSample": "% $ % $",
+   "unitToggle": false,
+   "wordsBeforeTool": 62,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": [
+     "https://www.ssa.gov/"
+    ]
+   },
+   "ux": {
+    "htmlKB": 34,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 36,
+    "external": 1,
+    "contentInternal": 36,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "financial",
+     "retirement calculator",
+     "401K Calculator",
+     "Roth IRA Calculator",
+     "Investment Calculator",
+     "Inflation Calculator",
+     "Social Security Calculator",
+     "IRA Calculator",
+     "Pension Calculator",
+     "Annuity Calculator",
+     "Annuity Payout Calculator",
+     "Rental Property Calculator",
+     "Estate Tax Calculator",
+     "Financial Calculators",
+     "Mortgage",
+     "Loan",
+     "Auto Loan",
+     "Interest"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/retirement-calculator.html",
+     "https://www.calculator.net/401k-calculator.html",
+     "https://www.calculator.net/roth-ira-calculator.html",
+     "https://www.calculator.net/investment-calculator.html",
+     "https://www.calculator.net/inflation-calculator.html",
+     "https://www.calculator.net/social-security-calculator.html",
+     "https://www.calculator.net/ira-calculator.html",
+     "https://www.calculator.net/pension-calculator.html",
+     "https://www.calculator.net/annuity-calculator.html",
+     "https://www.calculator.net/annuity-payout-calculator.html",
+     "https://www.calculator.net/rental-property-calculator.html",
+     "https://www.calculator.net/estate-tax-calculator.html",
+     "https://www.calculator.net/mortgage-calculator.html",
+     "https://www.calculator.net/loan-calculator.html",
+     "https://www.calculator.net/auto-loan-calculator.html",
+     "https://www.calculator.net/interest-calculator.html",
+     "https://www.calculator.net/payment-calculator.html",
+     "https://www.calculator.net/amortization-calculator.html",
+     "https://www.calculator.net/currency-calculator.html",
+     "https://www.calculator.net/finance-calculator.html",
+     "https://www.calculator.net/mortgage-payoff-calculator.html",
+     "https://www.calculator.net/tax-calculator.html"
+    ],
+    "externalSample": [
+     "https://www.ssa.gov/"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.omnicalculator.com/finance/retirement-savings": [
+   "HTTP 404"
+  ]
+ }
+}
