@@ -45,6 +45,7 @@ export default function Content() {
       <h2 id="credit">What do AP scores mean for college?</h2>
       <p>AP scores run from 1 to 5, and many colleges grant credit or placement for a 3 or higher; selective schools often want a 4 or 5. Policies vary by college and subject, so check each school&apos;s AP credit page. To see how your class grades add up, use the <Link href="/gpa-calculator/">GPA calculator</Link>. More <Link href="/category/education/">education calculators</Link>.</p>
       <p className="text-sm">AP® is a registered trademark of the College Board, which isn&apos;t affiliated with and doesn&apos;t endorse this site.</p>
+      <p>Related AP calculators: estimate your <Link href="/ap-biology-score-calculator/">AP Biology score</Link>, <Link href="/ap-chemistry-score-calculator/">AP Chemistry score</Link> or <Link href="/ap-english-language-score-calculator/">AP English Language score</Link>, and see what you need on a final with the <Link href="/grade-calculator/">grade calculator</Link>.</p>
     </>
   );
 }

@@ -46,6 +46,7 @@ export default function Content() {
       <h2 id="limits">Important limits</h2>
       <p><strong>This calculator is not birth control</strong> and can&apos;t tell you which days are &quot;safe&quot;. Ovulation can shift from cycle to cycle, so calendar estimates alone aren&apos;t reliable for preventing pregnancy. If you&apos;re trying to conceive, ovulation tests or a provider can give more precise timing. If you might be pregnant, take a pregnancy test; pregnancy due dates are counted as 40 weeks from the first day of the last period (see <Link href="/weeks-from-today/40/">40 weeks from today</Link>).</p>
       <p>This page is for general information and doesn&apos;t replace medical advice. More <Link href="/category/health/">health calculators</Link>.</p>
+      <p>Related health tools: check your <Link href="/bmi-women-calculator/">BMI for women</Link>, plan your <Link href="/water-intake-calculator/">daily water intake</Link>, or estimate <Link href="/body-fat-calculator/">body fat percentage</Link>.</p>
     </>
   );
 }

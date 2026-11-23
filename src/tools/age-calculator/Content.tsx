@@ -42,6 +42,7 @@ export default function Content() {
 
       <h2 id="chronological">Chronological age vs other &quot;ages&quot;</h2>
       <p><strong>Chronological age</strong>, the calendar time since birth, is what this calculator gives and what forms ask for. It&apos;s different from estimates such as biological age or a child&apos;s developmental age, which are assessed by professionals and can differ from the calendar. See more <Link href="/category/time-date/">date and time calculators</Link>.</p>
+      <p>Related: measure the <Link href="/date-difference-calculator/">time between any two dates</Link>, find your <Link href="/half-birthday-calculator/">half birthday</Link>, or estimate a <Link href="/height-calculator/">child&apos;s adult height</Link>.</p>
     </>
   );
 }

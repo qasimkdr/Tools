@@ -50,6 +50,7 @@ export default function Content() {
         <li>Prize draws and lotteries may have legal requirements where you live. Check before running one.</li>
       </ul>
       <p>Browse more <Link href="/category/math/">math tools</Link> or see <Link href="/tools/">all calculators</Link>.</p>
+      <p>Related: find the <Link href="/hypergeometric-calculator/">odds of drawing specific cards</Link>, measure the <Link href="/standard-deviation-calculator/">spread of a set of numbers</Link>, or get <Link href="/normal-cdf-calculator/">normal distribution probabilities</Link>.</p>
     </>
   );
 }

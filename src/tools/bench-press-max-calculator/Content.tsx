@@ -47,6 +47,7 @@ export default function Content() {
       <h2 id="beyond">Beyond the number</h2>
       <p>A bigger bench usually comes from consistent, progressive training: small weekly increases, enough protein and sleep, and regular deloads. Plan a training block by counting weeks to a test day, such as <Link href="/weeks-from-today/12/">12 weeks from today</Link>. Tracking body composition? Try the <Link href="/army-body-fat-calculator/">waist-to-height checker</Link>. More <Link href="/category/health/">health and fitness calculators</Link>.</p>
       <p className="text-sm">Estimates for training purposes only. Consult a qualified coach or medical professional if you have injuries or health conditions.</p>
+      <p>Related: track lean muscle with the <Link href="/ffmi-calculator/">FFMI calculator</Link>, estimate <Link href="/body-fat-calculator/">body fat percentage</Link>, or see how high you need to jump with the <Link href="/dunk-calculator/">dunk calculator</Link>.</p>
     </>
   );
 }

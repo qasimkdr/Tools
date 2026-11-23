@@ -59,6 +59,7 @@ export default function Content() {
       <h2 id="beyond">Beyond the standard</h2>
       <p>Waist-to-height ratio is widely used as a simple health screen because it tracks abdominal fat better than weight alone. To count down to an assessment date, use <Link href="/days-from-today/90/">90 days from today</Link>. See more <Link href="/category/health/">health and fitness calculators</Link>.</p>
       <p className="text-sm">Not an official Army tool or medical advice. Policies can change. Always follow current Army publications and your unit&apos;s guidance.</p>
+      <p>Related: estimate body fat with the <Link href="/body-fat-calculator/">U.S. Navy tape method</Link>, check muscularity with the <Link href="/ffmi-calculator/">fat-free mass index (FFMI)</Link>, or estimate your <Link href="/bench-press-max-calculator/">one-rep bench press max</Link>.</p>
     </>
   );
 }

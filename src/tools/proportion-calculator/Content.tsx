@@ -40,6 +40,7 @@ export default function Content() {
       <h2 id="ratios">Proportions vs ratios</h2>
       <p>A <strong>ratio</strong> compares two quantities (3:4). A <strong>proportion</strong> states that two ratios are equal (3:4 = 6:8). If you need to simplify a ratio, scale it, or split a total in a given ratio (such as sharing $100 in the ratio 2:3), use our <Link href="/ratio-calculator/">ratio calculator</Link>. It can also solve A:B = C:D written with colons.</p>
       <p>Proportions turn up everywhere: unit prices at the store, dosage per body weight, scale drawings, currency exchange and similar triangles in geometry. Browse more <Link href="/category/math/">math calculators</Link>, or see <Link href="/tools/">all calculators</Link>.</p>
+      <p>Related: split a bill or rent with the <Link href="/pro-rata-calculator/">pro rata calculator</Link>, work out <Link href="/discount-calculator/">percentage off a price</Link> or scale a recipe with the <Link href="/sourdough-calculator/">sourdough baker&apos;s percentage calculator</Link>.</p>
     </>
   );
 }

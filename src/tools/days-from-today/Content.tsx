@@ -85,6 +85,7 @@ export default function Content({ buildISO }: { buildISO: string }) {
         trigger day and extend a deadline that lands on a weekend or holiday to the next business day. This calculator
         follows the common convention, but always check the exact wording of the rule that applies to you.
       </p>
+      <p>Related: count the <Link href="/date-difference-calculator/">days between two dates</Link>, plan a <Link href="/lead-time-calculator/">delivery date from a lead time</Link> or add up <Link href="/hours-calculator/">hours between two times</Link>.</p>
     </>
   );
 }

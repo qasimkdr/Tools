@@ -50,6 +50,7 @@ export default function Content() {
       <h2 id="withdrawals">Withdrawals and the 4% rule</h2>
       <p>Withdrawals before age 59½ generally owe a 10% additional tax on top of income tax, with some exceptions. In retirement, the <strong>4% rule</strong> is a common starting point: withdraw about 4% in year one, then adjust for inflation. The calculator shows that figure, but it&apos;s a rule of thumb, not a guarantee. To see how a rate of return compares with a loan&apos;s cost, try the <Link href="/interest-rate-calculator/">interest rate calculator</Link>.</p>
       <p className="text-sm">Estimates only, not financial advice. Returns aren&apos;t guaranteed and plan rules differ, so check your plan documents or a financial professional. More <Link href="/category/finance/">finance calculators</Link>.</p>
+      <p>Related: see your <Link href="/paycheck-calculator/">take-home pay after 401(k) deductions</Link>, model growth with <Link href="/interest-calculator/">compound interest</Link>, or work out your <Link href="/modified-adjusted-gross-income-calculator/">modified adjusted gross income (MAGI)</Link>.</p>
     </>
   );
 }
