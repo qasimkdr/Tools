@@ -1,0 +1,190 @@
+{
+ "keywords": {
+  "taxable income calculator": {
+   "fetchedAt": "2026-11-23T07:50:30.609Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 6600,
+   "fileKd": 41,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 5,
+    "url": "www.calculator.net/tax-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.xero.com/us/calculators/income-tax-calculator/",
+     "domain": "www.xero.com",
+     "title": "Income tax calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.nerdwallet.com/taxes/learn/taxable-income",
+     "domain": "www.nerdwallet.com",
+     "title": "Taxable Income: Definition, How to Calculate It",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://taxfoundation.org/taxedu/videos/taxable-income-explained/",
+     "domain": "taxfoundation.org",
+     "title": "taxable income explained",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.hrblock.com/tax-center/income/how-to-calculate-taxable-income/",
+     "domain": "www.hrblock.com",
+     "title": "How to calculate taxable income",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.aarp.org/money/taxes/1040-tax-calculator/",
+     "domain": "www.aarp.org",
+     "title": "1040 tax calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://smartasset.com/taxes/how-to-calculate-taxable-income",
+     "domain": "smartasset.com",
+     "title": "How to calculate taxable income",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.kiplinger.com/taxes/what-is-taxable-income",
+     "domain": "www.kiplinger.com",
+     "title": "Taxable Income: What It Is and How to Calculate It",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.calculator.net/tax-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Income Tax Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.calculatorsoup.com/calculators/financial/tax-federal-est.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Income Tax Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://turbotax.com/tax-tools/calculators/tax-bracket/",
+     "domain": "turbotax.com",
+     "title": "Tax Bracket Calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://ustax.tools/taxable-income-calculator/",
+     "domain": "ustax.tools",
+     "title": "Gross income to taxable income",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "income-tax-calculator",
+ "page": "income-tax-calculator",
+ "category": "finance",
+ "name": "Income Tax Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T07:50:30.610Z",
+ "topCompetitors": [
+  {
+   "domain": "xero.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.xero.com/us/calculators/income-tax-calculator/"
+   ]
+  },
+  {
+   "domain": "nerdwallet.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.nerdwallet.com/taxes/learn/taxable-income"
+   ]
+  },
+  {
+   "domain": "taxfoundation.org",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://taxfoundation.org/taxedu/videos/taxable-income-explained/"
+   ]
+  },
+  {
+   "domain": "hrblock.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.hrblock.com/tax-center/income/how-to-calculate-taxable-income/"
+   ]
+  },
+  {
+   "domain": "aarp.org",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.aarp.org/money/taxes/1040-tax-calculator/"
+   ]
+  },
+  {
+   "domain": "smartasset.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://smartasset.com/taxes/how-to-calculate-taxable-income"
+   ]
+  },
+  {
+   "domain": "kiplinger.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.kiplinger.com/taxes/what-is-taxable-income"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculator.net/tax-calculator.html"
+   ]
+  },
+  {
+   "domain": "calculatorsoup.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculatorsoup.com/calculators/financial/tax-federal-est.php"
+   ]
+  },
+  {
+   "domain": "ustax.tools",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://ustax.tools/taxable-income-calculator/"
+   ]
+  }
+ ]
+}

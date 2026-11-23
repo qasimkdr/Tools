@@ -1,0 +1,135 @@
+{
+ "keywords": {
+  "cement block calculator": {
+   "fetchedAt": "2026-11-23T07:50:31.088Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1300,
+   "fileKd": 8,
+   "fileIntent": "C",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://omnicalculator.com/construction/concrete-block",
+     "domain": "omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.housecallpro.com/general-contractor/templates-calculators/concrete-block-calculator/",
+     "domain": "www.housecallpro.com",
+     "title": "concrete block calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://proremodeler.com/appcenter/concrete-block-calculator",
+     "domain": "proremodeler.com",
+     "title": "concrete block calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.inchcalculator.com/concrete-block-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Concrete Block Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.hunker.com/12594939/how-to-calculate-the-number-of-cement-blocks-for-a-building",
+     "domain": "www.hunker.com",
+     "title": "How To Calculate The Number Of Cement Blocks For A Building",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.everything-about-concrete.com/concrete-block-calculator.html",
+     "domain": "www.everything-about-concrete.com",
+     "title": "Concrete Block Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://billd.com/calculators/concrete-block/",
+     "domain": "billd.com",
+     "title": "Concrete Block Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "cement-block-calculator",
+ "page": "cement-block-calculator",
+ "category": "construction",
+ "name": "Cement Block Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T07:50:31.089Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://omnicalculator.com/construction/concrete-block"
+   ]
+  },
+  {
+   "domain": "housecallpro.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.housecallpro.com/general-contractor/templates-calculators/concrete-block-calculator/"
+   ]
+  },
+  {
+   "domain": "proremodeler.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://proremodeler.com/appcenter/concrete-block-calculator"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/concrete-block-calculator/"
+   ]
+  },
+  {
+   "domain": "hunker.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.hunker.com/12594939/how-to-calculate-the-number-of-cement-blocks-for-a-building"
+   ]
+  },
+  {
+   "domain": "everything-about-concrete.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.everything-about-concrete.com/concrete-block-calculator.html"
+   ]
+  },
+  {
+   "domain": "billd.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://billd.com/calculators/concrete-block/"
+   ]
+  }
+ ]
+}

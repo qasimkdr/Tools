@@ -1,0 +1,165 @@
+{
+ "keywords": {
+  "bps calculator": {
+   "fetchedAt": "2026-11-23T07:50:31.223Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1900,
+   "fileKd": 11,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://inchcalculator.com/basis-point-calculator",
+     "domain": "inchcalculator.com",
+     "title": "Basis Point Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://wallstreetprep.com/knowledge/basis-points-bps",
+     "domain": "wallstreetprep.com",
+     "title": "basis points bps",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.nerdwallet.com/banking/learn/what-is-a-basis-point",
+     "domain": "www.nerdwallet.com",
+     "title": "What Are Basis Points?",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://testbook.com/calculators/basis-point-calculator",
+     "domain": "testbook.com",
+     "title": "Basis Point Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://equalsmoney.com/financial-calculators/basis-points-calculator",
+     "domain": "equalsmoney.com",
+     "title": "Basis points calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://moneyhub.co.nz/basis-points-calculator.html",
+     "domain": "moneyhub.co.nz",
+     "title": "Basis Points Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.omnicalculator.com/finance/basis-point",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://goodcalculators.com/basis-points-conversion-calculator/",
+     "domain": "goodcalculators.com",
+     "title": "Basis Points Conversion Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.calculate.co.nz/basis-point-calculator.php",
+     "domain": "www.calculate.co.nz",
+     "title": "Basis Point Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "basis-point-calculator",
+ "page": "basis-point-calculator",
+ "category": "finance",
+ "name": "Basis Point Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T07:50:31.223Z",
+ "topCompetitors": [
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://inchcalculator.com/basis-point-calculator"
+   ]
+  },
+  {
+   "domain": "wallstreetprep.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://wallstreetprep.com/knowledge/basis-points-bps"
+   ]
+  },
+  {
+   "domain": "nerdwallet.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.nerdwallet.com/banking/learn/what-is-a-basis-point"
+   ]
+  },
+  {
+   "domain": "testbook.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://testbook.com/calculators/basis-point-calculator"
+   ]
+  },
+  {
+   "domain": "equalsmoney.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://equalsmoney.com/financial-calculators/basis-points-calculator"
+   ]
+  },
+  {
+   "domain": "moneyhub.co.nz",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://moneyhub.co.nz/basis-points-calculator.html"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/finance/basis-point"
+   ]
+  },
+  {
+   "domain": "goodcalculators.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://goodcalculators.com/basis-points-conversion-calculator/"
+   ]
+  },
+  {
+   "domain": "calculate.co.nz",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculate.co.nz/basis-point-calculator.php"
+   ]
+  }
+ ]
+}

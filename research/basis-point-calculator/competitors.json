@@ -1,0 +1,639 @@
+{
+ "pages": {
+  "https://www.inchcalculator.com/basis-point-calculator/": {
+   "url": "https://www.inchcalculator.com/basis-point-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/basis-point-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-23T07:51:22.451Z",
+   "title": "Basis Point Calculator - BPS Conversion - Inch Calculator",
+   "metaDescription": "Use our basis point calculator to convert percentages to basis points or vice versa. Plus, learn the bps conversion formulas.",
+   "canonical": "https://www.inchcalculator.com/basis-point-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Basis Point Calculator"
+   ],
+   "h2": [
+    "On this page:",
+    "Cite This Page",
+    "How to Convert Percentage to Basis Points",
+    "How to Convert Basis Points to a Percentage",
+    "Basis Point Conversion Chart",
+    "Frequently Asked Questions",
+    "Similar Investment Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "What are basis points?",
+    "Why do we use basis points?",
+    "How much is one basis point?",
+    "How much is 100 basis points?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Basis Point Calculator"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Convert Percentage to Basis Points"
+    },
+    {
+     "level": 2,
+     "text": "How to Convert Basis Points to a Percentage"
+    },
+    {
+     "level": 2,
+     "text": "Basis Point Conversion Chart"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "What are basis points?"
+    },
+    {
+     "level": 3,
+     "text": "Why do we use basis points?"
+    },
+    {
+     "level": 3,
+     "text": "How much is one basis point?"
+    },
+    {
+     "level": 3,
+     "text": "How much is 100 basis points?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Investment Calculators"
+    }
+   ],
+   "wordCount": 583,
+   "avgSentenceWords": 19,
+   "faqs": [
+    "What are basis points?",
+    "Why do we use basis points?",
+    "How much is one basis point?",
+    "How much is 100 basis points?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "basis points",
+     "weight": 39
+    },
+    {
+     "term": "basis",
+     "weight": 37
+    },
+    {
+     "term": "points",
+     "weight": 26
+    },
+    {
+     "term": "bps",
+     "weight": 23
+    },
+    {
+     "term": "basis point",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "percentage",
+     "weight": 12
+    },
+    {
+     "term": "point",
+     "weight": 10
+    },
+    {
+     "term": "convert",
+     "weight": 9
+    },
+    {
+     "term": "percentages",
+     "weight": 8
+    },
+    {
+     "term": "percentage basis",
+     "weight": 6
+    },
+    {
+     "term": "equal",
+     "weight": 5
+    },
+    {
+     "term": "point calculator",
+     "weight": 5
+    },
+    {
+     "term": "convert percentages",
+     "weight": 5
+    },
+    {
+     "term": "interest rates",
+     "weight": 5
+    },
+    {
+     "term": "100 basis",
+     "weight": 5
+    },
+    {
+     "term": "decimal",
+     "weight": 3
+    },
+    {
+     "term": "points bps",
+     "weight": 3
+    },
+    {
+     "term": "convert percentage",
+     "weight": 3
+    },
+    {
+     "term": "convert basis",
+     "weight": 3
+    },
+    {
+     "term": "point conversion",
+     "weight": 3
+    },
+    {
+     "term": "conversion chart",
+     "weight": 3
+    },
+    {
+     "term": "frequently",
+     "weight": 3
+    },
+    {
+     "term": "frequently asked",
+     "weight": 3
+    },
+    {
+     "term": "asked questions",
+     "weight": 3
+    },
+    {
+     "term": "inch calculator",
+     "weight": 3
+    },
+    {
+     "term": "full bio",
+     "weight": 3
+    },
+    {
+     "term": "finance",
+     "weight": 3
+    },
+    {
+     "term": "share",
+     "weight": 3
+    },
+    {
+     "term": "commonly used",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "0.5 × 100 = 50 bps So, 0.5% is equivalent to 50 basis points."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 2,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "Decimal",
+    "Percentage",
+    "Basis Points"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 19,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2023-04-26",
+    "modified": "2026-10-05T19:11:59+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 100,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 41,
+    "external": 10,
+    "contentInternal": 17,
+    "contentExternal": 4,
+    "internalAnchors": [
+     "Add this calculator to your site",
+     "Calculator",
+     "How to Convert Percentage to Basis Points",
+     "How to Convert Basis Points to a Percentage",
+     "Basis Point Conversion Chart",
+     "Frequently Asked Questions",
+     "Full bio",
+     "Basis Point Calculator",
+     "interest rates",
+     "percentages",
+     "Bond Price Calculator",
+     "Bond Yield Calculator",
+     "Yield to Maturity Calculator",
+     "Stock Average Calculator",
+     "Stock Profit Calculator",
+     "See All"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/widgets/w/basis-point/",
+     "https://www.inchcalculator.com/basis-point-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/basis-point-calculator/#idx_how_to_convert_percentage_to_basis_points",
+     "https://www.inchcalculator.com/basis-point-calculator/#idx_how_to_convert_basis_points_to_a_percentage",
+     "https://www.inchcalculator.com/basis-point-calculator/#idx_basis_point_conversion_chart",
+     "https://www.inchcalculator.com/basis-point-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/laura-deimling/",
+     "https://www.inchcalculator.com/basis-point-calculator/",
+     "https://www.inchcalculator.com/interest-rate-calculator/",
+     "https://www.inchcalculator.com/percentage-calculator/",
+     "https://www.inchcalculator.com/bond-price-calculator/",
+     "https://www.inchcalculator.com/bond-yield-calculator/",
+     "https://www.inchcalculator.com/yield-to-maturity-calculator/",
+     "https://www.inchcalculator.com/stock-average-calculator/",
+     "https://www.inchcalculator.com/stock-profit-calculator/",
+     "https://www.inchcalculator.com/investment-and-annuity-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fbasis-point-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fbasis-point-calculator%2F&text=Basis+Point+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fbasis-point-calculator%2F&text=Basis+Point+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/finance/basis-point": {
+   "url": "https://www.omnicalculator.com/finance/basis-point",
+   "finalUrl": "https://www.omnicalculator.com/finance/basis-point",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T07:51:25.572Z",
+   "title": "Basis Point Calculator",
+   "metaDescription": "Basis point calculator converts between basis points, percents, permilles and decimal values.",
+   "canonical": "https://www.omnicalculator.com/finance/basis-point",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Basis Point Calculator"
+   ],
+   "h2": [
+    "What is a basis point?",
+    "Why do we have basis points?",
+    "How to convert basis points to percents?",
+    "Where are basis points used?",
+    "FAQs"
+   ],
+   "h3": [
+    "What are basis points in mortgages?",
+    "Can basis points be negative?",
+    "Why do we use basis points?",
+    "How much is 40 basis points?",
+    "What is meant by 50 basis points?",
+    "How do you calculate basis points for commission?",
+    "What is 50 basis points in decimal form?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Basis Point Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is a basis point?"
+    },
+    {
+     "level": 2,
+     "text": "Why do we have basis points?"
+    },
+    {
+     "level": 2,
+     "text": "How to convert basis points to percents?"
+    },
+    {
+     "level": 2,
+     "text": "Where are basis points used?"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What are basis points in mortgages?"
+    },
+    {
+     "level": 3,
+     "text": "Can basis points be negative?"
+    },
+    {
+     "level": 3,
+     "text": "Why do we use basis points?"
+    },
+    {
+     "level": 3,
+     "text": "How much is 40 basis points?"
+    },
+    {
+     "level": 3,
+     "text": "What is meant by 50 basis points?"
+    },
+    {
+     "level": 3,
+     "text": "How do you calculate basis points for commission?"
+    },
+    {
+     "level": 3,
+     "text": "What is 50 basis points in decimal form?"
+    }
+   ],
+   "wordCount": 1177,
+   "avgSentenceWords": 18,
+   "faqs": [
+    "What are basis points in mortgages?",
+    "Can basis points be negative?",
+    "Why do we use basis points?",
+    "How much is 40 basis points?",
+    "What is meant by 50 basis points?",
+    "How do you calculate basis points for commission?",
+    "What is 50 basis points in decimal form?",
+    "What is a basis point?",
+    "Why do we have basis points?",
+    "How to convert basis points to percents?",
+    "Where are basis points used?"
+   ],
+   "faqSchemaCount": 7,
+   "topics": [
+    {
+     "term": "basis points",
+     "weight": 57
+    },
+    {
+     "term": "basis",
+     "weight": 55
+    },
+    {
+     "term": "points",
+     "weight": 41
+    },
+    {
+     "term": "basis point",
+     "weight": 26
+    },
+    {
+     "term": "point",
+     "weight": 18
+    },
+    {
+     "term": "value",
+     "weight": 18
+    },
+    {
+     "term": "rate",
+     "weight": 15
+    },
+    {
+     "term": "has increased",
+     "weight": 12
+    },
+    {
+     "term": "bps",
+     "weight": 10
+    },
+    {
+     "term": "calculator",
+     "weight": 9
+    },
+    {
+     "term": "has",
+     "weight": 9
+    },
+    {
+     "term": "increased",
+     "weight": 9
+    },
+    {
+     "term": "interest",
+     "weight": 9
+    },
+    {
+     "term": "interest rate",
+     "weight": 9
+    },
+    {
+     "term": "used",
+     "weight": 9
+    },
+    {
+     "term": "percentage",
+     "weight": 8
+    },
+    {
+     "term": "decimal form",
+     "weight": 8
+    },
+    {
+     "term": "decimal",
+     "weight": 7
+    },
+    {
+     "term": "percent",
+     "weight": 7
+    },
+    {
+     "term": "say",
+     "weight": 7
+    },
+    {
+     "term": "point calculator",
+     "weight": 6
+    },
+    {
+     "term": "example",
+     "weight": 5
+    },
+    {
+     "term": "convert",
+     "weight": 5
+    },
+    {
+     "term": "permyriad",
+     "weight": 5
+    },
+    {
+     "term": "same",
+     "weight": 5
+    },
+    {
+     "term": "commission",
+     "weight": 5
+    },
+    {
+     "term": "form",
+     "weight": 5
+    },
+    {
+     "term": "value has",
+     "weight": 5
+    },
+    {
+     "term": "convert basis",
+     "weight": 5
+    },
+    {
+     "term": "stock",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "1.5 bps of $65,000.00 equals $9.75 Example: A stock worth $65,000.00 has increased by 1.5 bps.",
+    "To avoid this confusion, you can say it has increased by 1000 BPS.",
+    "To express the percentage in basis points, calculate the difference and multiply it by 100: 1.5% - 1.25% = 0.25% 0.25 × 100 = 25 You can say that the interest rate decreased by 25 BPS.",
+    "We sold our stock option for $150000, so 100 bps is $1,500.",
+    "We earn a 30 bps commission, so we earnt $450 on our sale."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 4,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Rita Rain",
+    "published": "2019-06-03T13:29:07.131Z",
+    "modified": "2026-09-29T15:01:38.490Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 664,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 22,
+    "external": 1,
+    "contentInternal": 6,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "loans",
+     "interest rate",
+     "EAR calculator",
+     "effective annual yield calculator",
+     "effective interest rate calculator",
+     "equivalent rate calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/finance/loan-payment",
+     "https://www.omnicalculator.com/finance/simple-interest",
+     "https://www.omnicalculator.com/finance/ear",
+     "https://www.omnicalculator.com/finance/effective-annual-yield",
+     "https://www.omnicalculator.com/finance/effective-interest-rate",
+     "https://www.omnicalculator.com/finance/equivalent-rate"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.goodcalculators.com/basis-points-conversion-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.calculator.io/basis-point-calculator/": [
+   "HTTP 404"
+  ]
+ }
+}

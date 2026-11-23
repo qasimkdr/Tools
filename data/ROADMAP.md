@@ -121,7 +121,7 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 14 on policy hold).
 | 115 | 12 | live | Nether Portal Calculator | `nether-portal-calculator` | everyday | nether portal calculator | 8100 | 21 | 8100 | 1 |
 | 116 | 12 | live | Arv Calculator | `arv-calculator` | finance | arv calculator | 1300 | 7 | 1300 | 1 |
 | 117 | 12 | live | Breastfeeding Calorie Calculator | `breastfeeding-calorie-calculator` | health | breastfeeding calorie calculator | 1300 | 6 | 1300 | 1 |
-| 118 | 12 | todo | Income Tax Calculator | `income-tax-calculator` | finance | taxable income calculator | 6600 | 41 | 9000 | 2 |
+| 118 | 12 | live | Income Tax Calculator | `income-tax-calculator` | finance | taxable income calculator | 6600 | 41 | 9000 | 2 |
 | 119 | 12 | live | Vpd Calculator | `vpd-calculator` | science | vpd calculator | 1300 | 4 | 1300 | 1 |
 | 120 | 12 | live | Goat Gestation Calculator | `goat-gestation-calculator` | everyday | goat gestation calculator | 2900 | 14 | 2900 | 1 |
 | 121 | 13 | live | Markup Calculator | `markup-calculator` | finance | markup calculator | 14800 | 27 | 14800 | 1 |
@@ -132,11 +132,11 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 14 on policy hold).
 | 126 | 13 | todo | Vinegar Carbon Dosing Calculator Ml Per Ppm Nitrate | `vinegar-carbon-dosing-calculator-ml-per-ppm-nitrate` | science | vinegar carbon dosing calculator ml per ppm nitrate | 1000 | 0 | 1000 | 1 |
 | 127 | 13 | live | Simplify Radicals Calculator | `simplify-radicals-calculator` | math | simplifying radical expressions solver | 1900 | 10 | 6400 | 4 |
 | 128 | 13 | live | Redacted Text Generator | `redacted-text-generator` | text | redacted text generator | 1000 | 4 | 1000 | 1 |
-| 129 | 13 | todo | Wedding Alcohol Calculator | `wedding-alcohol-calculator` | everyday | liquor calculator wedding | 1900 | 12 | 6100 | 4 |
+| 129 | 13 | live | Wedding Alcohol Calculator | `wedding-alcohol-calculator` | everyday | liquor calculator wedding | 1900 | 12 | 6100 | 4 |
 | 130 | 13 | live | Percent Calculator | `percent-calculator` | math | percent difference calculator | 18100 | 37 | 288800 | 2 |
-| 131 | 14 | todo | Army Fitness Test (AFT) Calculator | `army-fitness-test-aft-calculator` | health | aft calculator | 18100 | 30 | 24800 | 5 |
-| 132 | 14 | todo | Cement Block Calculator | `cement-block-calculator` | construction | cement block calculator | 1300 | 8 | 1300 | 1 |
-| 133 | 14 | todo | Basis Point Calculator | `basis-point-calculator` | finance | bps calculator | 1900 | 11 | 3800 | 2 |
+| 131 | 14 | live | Army Fitness Test (AFT) Calculator | `army-fitness-test-aft-calculator` | health | aft calculator | 18100 | 30 | 24800 | 5 |
+| 132 | 14 | live | Cement Block Calculator | `cement-block-calculator` | construction | cement block calculator | 1300 | 8 | 1300 | 1 |
+| 133 | 14 | live | Basis Point Calculator | `basis-point-calculator` | finance | bps calculator | 1900 | 11 | 3800 | 2 |
 | 134 | 14 | todo | Voo Calculator | `voo-calculator` | finance | voo calculator | 1900 | 14 | 1900 | 1 |
 | 135 | 14 | todo | Rounding Calculator | `rounding-calculator` | math | rounding calculator | 12100 | 29 | 37200 | 1 |
 | 136 | 14 | live | Tire Size Calculator | `tire-size-calculator` | science | tacoma tire calculator | 1600 | 17 | 15000 | 1 |

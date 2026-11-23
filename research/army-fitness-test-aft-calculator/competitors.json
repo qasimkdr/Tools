@@ -1,0 +1,632 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/health/aft": {
+   "url": "https://www.omnicalculator.com/health/aft",
+   "finalUrl": "https://www.omnicalculator.com/health/aft",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T07:50:59.131Z",
+   "title": "AFT Calculator (New Army Fitness Test)",
+   "metaDescription": "This AFT calculator will allow you to calculate your points in the US Army Fitness Test and let you know if you'll pass.",
+   "canonical": "https://www.omnicalculator.com/health/aft",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "AFT Calculator — US Army Fitness Test"
+   ],
+   "h2": [
+    "How to use this Army AFT calculator",
+    "FAQs"
+   ],
+   "h3": [
+    "Your details",
+    "Your performance",
+    "Results",
+    "How does the new Army Fitness Test scoring work?",
+    "What are the Army AFT minimum scores?",
+    "What is the AFT minimum run time?",
+    "What is the minimum AFT plank time?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "AFT Calculator — US Army Fitness Test"
+    },
+    {
+     "level": 2,
+     "text": "How to use this Army AFT calculator"
+    },
+    {
+     "level": 3,
+     "text": "Your details"
+    },
+    {
+     "level": 3,
+     "text": "Your performance"
+    },
+    {
+     "level": 3,
+     "text": "Results"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How does the new Army Fitness Test scoring work?"
+    },
+    {
+     "level": 3,
+     "text": "What are the Army AFT minimum scores?"
+    },
+    {
+     "level": 3,
+     "text": "What is the AFT minimum run time?"
+    },
+    {
+     "level": 3,
+     "text": "What is the minimum AFT plank time?"
+    }
+   ],
+   "wordCount": 566,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "How does the new Army Fitness Test scoring work?",
+    "What are the Army AFT minimum scores?",
+    "What is the AFT minimum run time?",
+    "What is the minimum AFT plank time?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "aft",
+     "weight": 21
+    },
+    {
+     "term": "army",
+     "weight": 18
+    },
+    {
+     "term": "fitness test",
+     "weight": 12
+    },
+    {
+     "term": "test",
+     "weight": 10
+    },
+    {
+     "term": "calculator",
+     "weight": 9
+    },
+    {
+     "term": "army fitness",
+     "weight": 9
+    },
+    {
+     "term": "army aft",
+     "weight": 9
+    },
+    {
+     "term": "fitness",
+     "weight": 8
+    },
+    {
+     "term": "minimum",
+     "weight": 8
+    },
+    {
+     "term": "aft calculator",
+     "weight": 8
+    },
+    {
+     "term": "aft standard",
+     "weight": 8
+    },
+    {
+     "term": "combat",
+     "weight": 7
+    },
+    {
+     "term": "standard",
+     "weight": 6
+    },
+    {
+     "term": "enter",
+     "weight": 6
+    },
+    {
+     "term": "run",
+     "weight": 5
+    },
+    {
+     "term": "score",
+     "weight": 5
+    },
+    {
+     "term": "events",
+     "weight": 5
+    },
+    {
+     "term": "event",
+     "weight": 5
+    },
+    {
+     "term": "mile run",
+     "weight": 5
+    },
+    {
+     "term": "body fat",
+     "weight": 5
+    },
+    {
+     "term": "minimum aft",
+     "weight": 5
+    },
+    {
+     "term": "non combat",
+     "weight": 5
+    },
+    {
+     "term": "five events",
+     "weight": 5
+    },
+    {
+     "term": "aft minimum",
+     "weight": 5
+    },
+    {
+     "term": "age",
+     "weight": 4
+    },
+    {
+     "term": "sex",
+     "weight": 4
+    },
+    {
+     "term": "plank",
+     "weight": 4
+    },
+    {
+     "term": "body",
+     "weight": 4
+    },
+    {
+     "term": "you'll",
+     "weight": 4
+    },
+    {
+     "term": "five",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "Your performance Here you'll enter your results for the five Army AFT events: MDL: Enter the maximum weight you successfully lifted for 3 consecutive reps, using proper technique.",
+    "Minimum AFT plank time ranges from 1:10 to 1:25."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 4,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Age group",
+    "AFT standard",
+    "Sex"
+   ],
+   "selectOptionsSample": "select 17-21 22-26 27-31 32-36 37-41 42-46 47-51 52-56 57-61 over 62 select general (non-combat) combat select male female",
+   "unitToggle": false,
+   "wordsBeforeTool": 9,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Luis Hoyos",
+    "published": "2025-11-15T22:39:29.557Z",
+    "modified": "2026-08-17T11:47:23.160Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 767,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 22,
+    "external": 1,
+    "contentInternal": 6,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Army AFT score chart​s",
+     "ACFT calculator",
+     "APFT calculator",
+     "Army AFT standards",
+     "Army AFT events",
+     "Army body fat calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/aft-score-charts",
+     "https://www.omnicalculator.com/health/acft",
+     "https://www.omnicalculator.com/health/apft",
+     "https://www.omnicalculator.com/army-aft-standards",
+     "https://www.omnicalculator.com/army-aft-events",
+     "https://www.omnicalculator.com/health/army-body-fat"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/aft-calculator/": {
+   "url": "https://www.inchcalculator.com/aft-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/aft-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-23T07:51:02.253Z",
+   "title": "AFT Calculator - Calculate Your Army Fitness Test Score",
+   "metaDescription": "Use our AFT calculator to calculate your score for the Army Fitness Test. Updated for the latest 2025 standard and scoring scales.",
+   "canonical": "https://www.inchcalculator.com/aft-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "AFT Calculator – Calculate Your Army Fitness Test Score"
+   ],
+   "h2": [
+    "Total Points:",
+    "Result:",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate an AFT Score",
+    "AFT Scoring Scales",
+    "AFT Implementation Timeline",
+    "Similar Fitness Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "AFT Events",
+    "Scoring"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "AFT Calculator – Calculate Your Army Fitness Test Score"
+    },
+    {
+     "level": 2,
+     "text": "Total Points:"
+    },
+    {
+     "level": 2,
+     "text": "Result:"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate an AFT Score"
+    },
+    {
+     "level": 3,
+     "text": "AFT Events"
+    },
+    {
+     "level": 3,
+     "text": "Scoring"
+    },
+    {
+     "level": 2,
+     "text": "AFT Scoring Scales"
+    },
+    {
+     "level": 2,
+     "text": "AFT Implementation Timeline"
+    },
+    {
+     "level": 2,
+     "text": "Similar Fitness Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 1273,
+   "avgSentenceWords": 36,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "aft",
+     "weight": 31
+    },
+    {
+     "term": "army",
+     "weight": 21
+    },
+    {
+     "term": "score",
+     "weight": 16
+    },
+    {
+     "term": "calculator",
+     "weight": 15
+    },
+    {
+     "term": "fitness test",
+     "weight": 15
+    },
+    {
+     "term": "test",
+     "weight": 15
+    },
+    {
+     "term": "points",
+     "weight": 14
+    },
+    {
+     "term": "army fitness",
+     "weight": 14
+    },
+    {
+     "term": "120 120",
+     "weight": 14
+    },
+    {
+     "term": "fitness",
+     "weight": 13
+    },
+    {
+     "term": "140 140",
+     "weight": 9
+    },
+    {
+     "term": "calculate",
+     "weight": 8
+    },
+    {
+     "term": "scoring",
+     "weight": 8
+    },
+    {
+     "term": "event",
+     "weight": 8
+    },
+    {
+     "term": "female 100",
+     "weight": 8
+    },
+    {
+     "term": "male 100",
+     "weight": 8
+    },
+    {
+     "term": "events",
+     "weight": 7
+    },
+    {
+     "term": "soldiers",
+     "weight": 7
+    },
+    {
+     "term": "aft calculator",
+     "weight": 6
+    },
+    {
+     "term": "test score",
+     "weight": 6
+    },
+    {
+     "term": "combat",
+     "weight": 6
+    },
+    {
+     "term": "aft score",
+     "weight": 6
+    },
+    {
+     "term": "aft scoring",
+     "weight": 6
+    },
+    {
+     "term": "june",
+     "weight": 6
+    },
+    {
+     "term": "soldier",
+     "weight": 6
+    },
+    {
+     "term": "350 350",
+     "weight": 6
+    },
+    {
+     "term": "total",
+     "weight": 5
+    },
+    {
+     "term": "standard",
+     "weight": 5
+    },
+    {
+     "term": "minimum",
+     "weight": 5
+    },
+    {
+     "term": "female",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Scores shall be recorded using the Army Fitness Test Scorecard – DA Form 705-TEST.[2] If a Soldier fails the AFT, he or she is flagged, and unit commanders suspend favorable personnel actions.",
+    "Soldiers began taking the AFT in June 2025."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 4,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "Age",
+    "Gender",
+    "Maximum Deadlift (MDL):",
+    "Hand Release Push-Up (HRP):",
+    "Sprint Drag Carry (SDC):",
+    "Plank Hold (PLK):",
+    "2-Mile Run (2MR):",
+    "Combat Specialty"
+   ],
+   "selectOptionsSample": "17-21 22-26 27-31 32-36 37-41 42-46 47-51 52-56 57-61 62+ male female",
+   "unitToggle": false,
+   "wordsBeforeTool": 27,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2021-01-07",
+    "modified": "2025-09-28T20:10:59+00:00",
+    "authoritativeSources": [
+     "https://www.army.mil/aft/",
+     "https://armypubs.army.mil/pub/eforms/DR_a/ARN43863-DA_FORM_705-TEST-107-WEB-8.pdf",
+     "https://www.army.mil/e2/downloads/rv7/aft/AFT_Scoring_Scales_250601.pdf"
+    ]
+   },
+   "ux": {
+    "htmlKB": 112,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 47,
+    "external": 13,
+    "contentInternal": 23,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "Add this calculator to your site",
+     "Army Fitness Test Calculator",
+     "How to Calculate an AFT Score",
+     "AFT Events",
+     "Scoring",
+     "AFT Scoring Scales",
+     "AFT Implementation Timeline",
+     "References",
+     "Full bio",
+     "AFT Calculator – Calculate Your Army Fitness Test Score",
+     "body fat requirements",
+     "Push-Up",
+     "max deadlift event",
+     "1RM calculator",
+     "Navy PRT",
+     "USMC PFT",
+     "Air Force PT test",
+     "American flag sizing calculator",
+     "Army Body Fat Calculator",
+     "Target Heart Rate Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/widgets/w/aft/",
+     "https://www.inchcalculator.com/aft-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/aft-calculator/#idx_how_to_calculate_an_aft_score",
+     "https://www.inchcalculator.com/aft-calculator/#idx_aft_events",
+     "https://www.inchcalculator.com/aft-calculator/#idx_scoring",
+     "https://www.inchcalculator.com/aft-calculator/#idx_aft_scoring_scales",
+     "https://www.inchcalculator.com/aft-calculator/#idx_aft_implementation_timeline",
+     "https://www.inchcalculator.com/aft-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/lisa-swanson/",
+     "https://www.inchcalculator.com/aft-calculator/",
+     "https://www.inchcalculator.com/army-body-fat-calculator/",
+     "https://www.inchcalculator.com/push-ups-calorie-calculator/",
+     "https://www.inchcalculator.com/deadlift-max-calculator/",
+     "https://www.inchcalculator.com/one-rep-max-calculator/",
+     "https://www.inchcalculator.com/navy-prt-calculator/",
+     "https://www.inchcalculator.com/usmc-pft-calculator/",
+     "https://www.inchcalculator.com/air-force-pt-test-calculator/",
+     "https://www.inchcalculator.com/american-flag-size-proportions-calculator/",
+     "https://www.inchcalculator.com/target-heart-rate-calculator/",
+     "https://www.inchcalculator.com/pace-distance-calculator/",
+     "https://www.inchcalculator.com/zone-2-heart-rate-calculator/",
+     "https://www.inchcalculator.com/fitness-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Faft-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Faft-calculator%2F&text=AFT+Calculator+%26%238211%3B+Calculate+Your+Army+Fitness+Test+Score",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Faft-calculator%2F&text=AFT+Calculator+%26%238211%3B+Calculate+Your+Army+Fitness+Test+Score",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://www.army.mil/aft/",
+     "https://armypubs.army.mil/pub/eforms/DR_a/ARN43863-DA_FORM_705-TEST-107-WEB-8.pdf",
+     "https://www.army.mil/e2/downloads/rv7/aft/AFT_Scoring_Scales_250601.pdf"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.calculator.io/aft-calculator/": [
+   "HTTP 404"
+  ]
+ }
+}

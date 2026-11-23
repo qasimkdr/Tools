@@ -1,0 +1,996 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/construction/concrete-block": {
+   "url": "https://www.omnicalculator.com/construction/concrete-block",
+   "finalUrl": "https://www.omnicalculator.com/construction/concrete-block",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T07:51:09.913Z",
+   "title": "Concrete Block Calculator",
+   "metaDescription": "Use this concrete block calculator to estimate the number of blocks needed to build a wall with specific dimensions, as well as to calculate the costs.",
+   "canonical": "https://www.omnicalculator.com/construction/concrete-block",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Concrete Block Calculator"
+   ],
+   "h2": [
+    "How to use the concrete block calculator",
+    "How many concrete blocks do I need?",
+    "Calculating concrete blocks - example",
+    "A note on using the concrete block calculator",
+    "FAQs"
+   ],
+   "h3": [
+    "How many concrete blocks do I need to build a 10 square meter wall?",
+    "How do I calculate the number of blocks that I need for my wall?",
+    "How do I calculate the total cost of my wall?",
+    "How many bags of mortars do I need?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Concrete Block Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to use the concrete block calculator"
+    },
+    {
+     "level": 2,
+     "text": "How many concrete blocks do I need?"
+    },
+    {
+     "level": 2,
+     "text": "Calculating concrete blocks - example"
+    },
+    {
+     "level": 2,
+     "text": "A note on using the concrete block calculator"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How many concrete blocks do I need to build a 10 square meter wall?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate the number of blocks that I need for my wall?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate the total cost of my wall?"
+    },
+    {
+     "level": 3,
+     "text": "How many bags of mortars do I need?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1148,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "How many concrete blocks do I need to build a 10 square meter wall?",
+    "How do I calculate the number of blocks that I need for my wall?",
+    "How do I calculate the total cost of my wall?",
+    "How many bags of mortars do I need?",
+    "How many concrete blocks do I need?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "block",
+     "weight": 35
+    },
+    {
+     "term": "blocks",
+     "weight": 33
+    },
+    {
+     "term": "concrete",
+     "weight": 30
+    },
+    {
+     "term": "wall",
+     "weight": 23
+    },
+    {
+     "term": "concrete blocks",
+     "weight": 21
+    },
+    {
+     "term": "need",
+     "weight": 20
+    },
+    {
+     "term": "concrete block",
+     "weight": 18
+    },
+    {
+     "term": "area",
+     "weight": 16
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "mortar",
+     "weight": 14
+    },
+    {
+     "term": "number",
+     "weight": 13
+    },
+    {
+     "term": "bags",
+     "weight": 11
+    },
+    {
+     "term": "needed",
+     "weight": 10
+    },
+    {
+     "term": "size",
+     "weight": 9
+    },
+    {
+     "term": "calculate",
+     "weight": 9
+    },
+    {
+     "term": "height",
+     "weight": 8
+    },
+    {
+     "term": "width",
+     "weight": 8
+    },
+    {
+     "term": "many",
+     "weight": 8
+    },
+    {
+     "term": "block calculator",
+     "weight": 8
+    },
+    {
+     "term": "blocks needed",
+     "weight": 8
+    },
+    {
+     "term": "many concrete",
+     "weight": 8
+    },
+    {
+     "term": "wall area",
+     "weight": 6
+    },
+    {
+     "term": "single",
+     "weight": 6
+    },
+    {
+     "term": "price",
+     "weight": 6
+    },
+    {
+     "term": "total",
+     "weight": 6
+    },
+    {
+     "term": "cost",
+     "weight": 6
+    },
+    {
+     "term": "find",
+     "weight": 6
+    },
+    {
+     "term": "single block",
+     "weight": 6
+    },
+    {
+     "term": "square",
+     "weight": 6
+    },
+    {
+     "term": "much",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "On average, it takes three standard mortar bags to bond 100 concrete blocks together.",
+    "If you use a standard 16\" x 8\" block, the area of a single block is 128 square inches, and you will need 563 concrete blocks, as 500 ft² / 128 in² = 72,000 in² / 128 in² = 562.5 (rounding up to the nearest whole number).",
+    "If one cinder block costs $1.5, you will pay 563 × $1.5 = $844.5 As for the mortar bags estimation, dividing 563 by 33.3 results in 16.9.",
+    "A note on using the concrete block calculator As with all construction projects, we advise that you buy at least 10% more material than you think needed in case of any unexpected mishaps.",
+    "A 16 inch by 8 inch block covers 0.0826 square meters.",
+    "In this case, we have 10 square meters divided by 0.0826 square meters, so we will need 121 concrete blocks.",
+    "Usually, 100 blocks of 16 inches by 8 inches require three standard bags of mortar (40 kilograms).",
+    "To be more precise, some mortar manufacturers recommend 26 bags per 1000 blocks, meaning 2.6 bags per 100 blocks."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 6,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Block size"
+   ],
+   "selectOptionsSample": "select 8\" x 8\" 12\" x 8\" 16\" x 8\" 8\" x 4\" 12\" x 4\" 16\" x 4\"",
+   "unitToggle": true,
+   "wordsBeforeTool": 33,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Maria Kluziak",
+    "published": "2020-04-22T07:49:32.295Z",
+    "modified": "2026-08-07T15:21:43.231Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 768,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 22,
+    "external": 1,
+    "contentInternal": 6,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "brick calculator",
+     "length converter",
+     "concrete block fill calculator",
+     "cement calculator",
+     "Stone Weight Calculator",
+     "Board and Batten Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/construction/brick",
+     "https://www.omnicalculator.com/conversion/length-converter",
+     "https://www.omnicalculator.com/construction/concrete-block-fill",
+     "https://www.omnicalculator.com/construction/cement",
+     "https://www.omnicalculator.com/construction/stone",
+     "https://www.omnicalculator.com/construction/board-and-batten"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/concrete-block-calculator/": {
+   "url": "https://www.inchcalculator.com/concrete-block-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/concrete-block-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-23T07:51:12.970Z",
+   "title": "Concrete Block Calculator - Find How Many Blocks You Need",
+   "metaDescription": "Calculate how many concrete blocks you need for a wall or foundation, and learn how to estimate concrete block and mortar for a project.",
+   "canonical": "https://www.inchcalculator.com/concrete-block-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Concrete Block Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Material Needed",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How Many Concrete Blocks Do You Need?",
+    "How to Calculate Concrete Blocks",
+    "How to Estimate Mortar for a Block Wall",
+    "How to Estimate Grout or Concrete Fill",
+    "Tools Needed to Install a Concrete Block Wall",
+    "Standard Concrete Block Sizes",
+    "How Much Does a Block Wall Cost?",
+    "Similar Masonry Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Estimated Material Cost:",
+    "Step One: Find Wall Square Footage",
+    "Step Two: Find Block Square Footage",
+    "Step Three: Calculate Blocks",
+    "2″ and 3″ CMU Block Dimensions",
+    "4″ CMU Block Dimensions",
+    "6″ CMU Block Dimensions",
+    "8″ CMU Block Dimensions",
+    "10″ CMU Block Dimensions",
+    "12″ CMU Block Dimensions",
+    "14″ CMU Block Dimensions"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Concrete Block Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Material Needed"
+    },
+    {
+     "level": 3,
+     "text": "Estimated Material Cost:"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How Many Concrete Blocks Do You Need?"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Concrete Blocks"
+    },
+    {
+     "level": 3,
+     "text": "Step One: Find Wall Square Footage"
+    },
+    {
+     "level": 3,
+     "text": "Step Two: Find Block Square Footage"
+    },
+    {
+     "level": 3,
+     "text": "Step Three: Calculate Blocks"
+    },
+    {
+     "level": 2,
+     "text": "How to Estimate Mortar for a Block Wall"
+    },
+    {
+     "level": 2,
+     "text": "How to Estimate Grout or Concrete Fill"
+    },
+    {
+     "level": 2,
+     "text": "Tools Needed to Install a Concrete Block Wall"
+    },
+    {
+     "level": 2,
+     "text": "Standard Concrete Block Sizes"
+    },
+    {
+     "level": 3,
+     "text": "2″ and 3″ CMU Block Dimensions"
+    },
+    {
+     "level": 3,
+     "text": "4″ CMU Block Dimensions"
+    },
+    {
+     "level": 3,
+     "text": "6″ CMU Block Dimensions"
+    },
+    {
+     "level": 3,
+     "text": "8″ CMU Block Dimensions"
+    },
+    {
+     "level": 3,
+     "text": "10″ CMU Block Dimensions"
+    },
+    {
+     "level": 3,
+     "text": "12″ CMU Block Dimensions"
+    },
+    {
+     "level": 3,
+     "text": "14″ CMU Block Dimensions"
+    },
+    {
+     "level": 2,
+     "text": "How Much Does a Block Wall Cost?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Masonry Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 2073,
+   "avgSentenceWords": 28,
+   "faqs": [
+    "How Many Concrete Blocks Do You Need?",
+    "How Much Does a Block Wall Cost?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "blocks",
+     "weight": 59
+    },
+    {
+     "term": "block",
+     "weight": 50
+    },
+    {
+     "term": "wall",
+     "weight": 37
+    },
+    {
+     "term": "concrete",
+     "weight": 33
+    },
+    {
+     "term": "concrete block",
+     "weight": 20
+    },
+    {
+     "term": "dimensions",
+     "weight": 19
+    },
+    {
+     "term": "mortar",
+     "weight": 18
+    },
+    {
+     "term": "needed",
+     "weight": 18
+    },
+    {
+     "term": "calculator",
+     "weight": 17
+    },
+    {
+     "term": "size",
+     "weight": 17
+    },
+    {
+     "term": "square footage",
+     "weight": 17
+    },
+    {
+     "term": "need",
+     "weight": 16
+    },
+    {
+     "term": "square",
+     "weight": 15
+    },
+    {
+     "term": "number",
+     "weight": 15
+    },
+    {
+     "term": "block wall",
+     "weight": 14
+    },
+    {
+     "term": "blocks needed",
+     "weight": 14
+    },
+    {
+     "term": "many",
+     "weight": 13
+    },
+    {
+     "term": "standard",
+     "weight": 13
+    },
+    {
+     "term": "concrete blocks",
+     "weight": 12
+    },
+    {
+     "term": "block dimensions",
+     "weight": 12
+    },
+    {
+     "term": "footage",
+     "weight": 11
+    },
+    {
+     "term": "cmu block",
+     "weight": 11
+    },
+    {
+     "term": "dimensions chart",
+     "weight": 11
+    },
+    {
+     "term": "chart showing",
+     "weight": 11
+    },
+    {
+     "term": "wall size",
+     "weight": 11
+    },
+    {
+     "term": "100 ft2",
+     "weight": 11
+    },
+    {
+     "term": "calculate",
+     "weight": 10
+    },
+    {
+     "term": "nominal",
+     "weight": 9
+    },
+    {
+     "term": "height",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "A concrete block wall typically requires 1 1/8 blocks per square foot.",
+    "To do this, multiply the height and length of the block and divide by 144 – the number of square inches in a foot.",
+    "The standard block size is 8″ high x 16″ long and has a square footage of 0.89.",
+    "blocks = wall sq ft / block sq ft If you’re using a standard 8″ x 8″ x 16″ block, find the number of blocks needed by dividing the wall square footage by 0.89.",
+    "blocks = wall sq ft / 0.89 We recommend adding 5%-10% additional blocks to account for broken blocks or blocks that need to be cut for the edges.",
+    "If you are planning on mixing your mortar yourself, you will need a yield of 1:3 cement to sand mixture.",
+    "On average, it takes about three bags of cement for every 100 blocks.",
+    "Divide the number of blocks being installed by 33.3 to calculate how many bags are needed.",
+    "Typical measurements for webs and shells may be around 1″ or 1.25″ depending on the size of the block.",
+    "The nominal size is the block’s actual size, while the size includes a 3/8″ mortar joint and is the size that should be used when estimating material."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 9,
+   "lists": 4,
+   "images": 7,
+   "videos": 0,
+   "calculatorInputs": [
+    "Width",
+    "Width Units",
+    "Height",
+    "Height Units",
+    "Block Size",
+    "Width",
+    "Width Units",
+    "Height",
+    "Height Units",
+    "Price (optional)"
+   ],
+   "selectOptionsSample": "in ft yd cm m in ft yd cm m 8\" x 8\" 8\" x 12\" 8\" x 16\" 4\" x 8\" 4\" x 8\" 4\" x 16\" custom size in cm in cm",
+   "unitToggle": true,
+   "wordsBeforeTool": 39,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2015-03-27",
+    "modified": "2024-03-12T21:04:58+00:00",
+    "authoritativeSources": [
+     "https://en.wikipedia.org/wiki/Concrete_masonry_unit"
+    ]
+   },
+   "ux": {
+    "htmlKB": 142,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 59,
+    "external": 16,
+    "contentInternal": 35,
+    "contentExternal": 10,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Concrete Block Calculator",
+     "How Many Concrete Blocks Do You Need?",
+     "How to Calculate Concrete Blocks",
+     "How to Estimate Mortar for a Block Wall",
+     "How to Estimate Grout or Concrete Fill",
+     "Tools Needed to Install a Concrete Block Wall",
+     "Standard Concrete Block Sizes",
+     "How Much Does a Block Wall Cost?",
+     "References",
+     "Full bio",
+     "retaining wall calculator",
+     "Get Free Estimates",
+     "square footage calculator",
+     "sand",
+     "mortar calculator",
+     "total number of cubic yards needed",
+     "block fill calculator",
+     "Brick Trowel"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/concrete-block-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/concrete-block/",
+     "https://www.inchcalculator.com/concrete-block-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/concrete-block-calculator/#idx_how_many_concrete_blocks_do_you_need",
+     "https://www.inchcalculator.com/concrete-block-calculator/#idx_how_to_calculate_concrete_blocks",
+     "https://www.inchcalculator.com/concrete-block-calculator/#idx_how_to_estimate_mortar_for_a_block_wall",
+     "https://www.inchcalculator.com/concrete-block-calculator/#idx_how_to_estimate_grout_or_concrete_fill",
+     "https://www.inchcalculator.com/concrete-block-calculator/#idx_tools_needed_to_install_a_concrete_block_wall",
+     "https://www.inchcalculator.com/concrete-block-calculator/#idx_standard_concrete_block_sizes",
+     "https://www.inchcalculator.com/concrete-block-calculator/#idx_how_much_does_a_block_wall_cost",
+     "https://www.inchcalculator.com/concrete-block-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/sarabeth-asaff-south/",
+     "https://www.inchcalculator.com/concrete-block-calculator/",
+     "https://www.inchcalculator.com/retaining-wall-calculator/",
+     "https://www.inchcalculator.com/get-free-home-repair-estimates/?preset_project_type=Concrete%2C+Stone%2C+%26+Brick&preset_service_id=",
+     "https://www.inchcalculator.com/square-footage-calculator/",
+     "https://www.inchcalculator.com/sand-calculator/",
+     "https://www.inchcalculator.com/block-mortar-calculator/",
+     "https://www.inchcalculator.com/cubic-yards-calculator/",
+     "https://www.inchcalculator.com/concrete-block-fill-calculator/",
+     "https://www.inchcalculator.com/recommended/mason-trowel",
+     "https://www.inchcalculator.com/recommended/mason-line",
+     "https://www.inchcalculator.com/recommended/4-foot-level",
+     "https://www.inchcalculator.com/recommended/mason-jointer"
+    ],
+    "externalSample": [
+     "https://apps.apple.com/app/block-calculator-plus/id1494396680",
+     "https://play.google.com/store/apps/details?id=com.inchcalculator.block_calculator",
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fconcrete-block-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fconcrete-block-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fconcrete-block-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fconcrete-block-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fconcrete-block-calculator%2F&text=Concrete+Block+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fconcrete-block-calculator%2F&text=Concrete+Block+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://en.wikipedia.org/wiki/Concrete_masonry_unit"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/concrete-calculator.html": {
+   "url": "https://www.calculator.net/concrete-calculator.html",
+   "finalUrl": "https://www.calculator.net/concrete-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-23T07:51:15.952Z",
+   "title": "Concrete Calculator",
+   "metaDescription": "This free concrete calculator estimates the amount of concrete necessary for a project and can account for different shapes and quantities.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Concrete Calculator"
+   ],
+   "h2": [
+    "Slabs, Square Footings, or Walls",
+    "Hole, Column, or Round Footings",
+    "Circular Slab or Tube",
+    "Curb and Gutter Barrier",
+    "Stairs"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Concrete Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Slabs, Square Footings, or Walls"
+    },
+    {
+     "level": 2,
+     "text": "Hole, Column, or Round Footings"
+    },
+    {
+     "level": 2,
+     "text": "Circular Slab or Tube"
+    },
+    {
+     "level": 2,
+     "text": "Curb and Gutter Barrier"
+    },
+    {
+     "level": 2,
+     "text": "Stairs"
+    }
+   ],
+   "wordCount": 413,
+   "avgSentenceWords": 26,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "concrete",
+     "weight": 23
+    },
+    {
+     "term": "cement",
+     "weight": 6
+    },
+    {
+     "term": "calculator",
+     "weight": 5
+    },
+    {
+     "term": "concrete calculator",
+     "weight": 5
+    },
+    {
+     "term": "height",
+     "weight": 4
+    },
+    {
+     "term": "quantity",
+     "weight": 4
+    },
+    {
+     "term": "calculator concrete",
+     "weight": 3
+    },
+    {
+     "term": "concrete slabs",
+     "weight": 3
+    },
+    {
+     "term": "length",
+     "weight": 3
+    },
+    {
+     "term": "width",
+     "weight": 3
+    },
+    {
+     "term": "diameter",
+     "weight": 3
+    },
+    {
+     "term": "depth",
+     "weight": 3
+    },
+    {
+     "term": "curb",
+     "weight": 3
+    },
+    {
+     "term": "materials",
+     "weight": 3
+    },
+    {
+     "term": "water",
+     "weight": 3
+    },
+    {
+     "term": "financial fitness",
+     "weight": 3
+    },
+    {
+     "term": "health math",
+     "weight": 3
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 11,
+   "lists": 0,
+   "images": 6,
+   "videos": 0,
+   "calculatorInputs": [
+    "slablength",
+    "slablengthunit",
+    "slabwidth",
+    "slabwidthunit",
+    "slabthick",
+    "slabthickunit",
+    "slabquantity",
+    "holediameter",
+    "holediameterunit",
+    "holedepth",
+    "holedepthunit",
+    "holequantity",
+    "tubediameter",
+    "tubediameterunit",
+    "tubeindiameter",
+    "tubeindiameterunit",
+    "tubedepth",
+    "tubedepthunit",
+    "tubequantity",
+    "curbdepth",
+    "curbdepthunit",
+    "curbgwidth",
+    "curbgwidthunit",
+    "curbheight",
+    "curbheightunit",
+    "curbfthick",
+    "curbfthickunit",
+    "curblength",
+    "curblengthunit",
+    "curbquantity",
+    "stairrun",
+    "stairrununit",
+    "stairrise",
+    "stairriseunit",
+    "stairwidth",
+    "stairwidthunit",
+    "stairpdepth",
+    "stairpdepthunit",
+    "stairquantity"
+   ],
+   "selectOptionsSample": "feet inches yards meters centimeters feet inches yards meters centimeters feet inches yards meters centimeters feet inches yards meters centimeters feet inches yards meters centimeters feet inches yards meters centimeters feet inches yards meters centimeters feet inches yards meters centimeters feet",
+   "unitToggle": true,
+   "wordsBeforeTool": 49,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 18,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 24,
+    "external": 0,
+    "contentInternal": 24,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "other",
+     "concrete calculator",
+     "Volume Calculator",
+     "Other Calculators",
+     "Age",
+     "Date",
+     "Time",
+     "Hours",
+     "GPA",
+     "Grade",
+     "Height",
+     "Concrete",
+     "IP Subnet",
+     "Bra Size",
+     "Password Generator",
+     "Dice Roller",
+     "Conversion",
+     "More Other Calculators"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/concrete-calculator.html",
+     "https://www.calculator.net/volume-calculator.html",
+     "https://www.calculator.net/age-calculator.html",
+     "https://www.calculator.net/date-calculator.html",
+     "https://www.calculator.net/time-calculator.html",
+     "https://www.calculator.net/hours-calculator.html",
+     "https://www.calculator.net/gpa-calculator.html",
+     "https://www.calculator.net/grade-calculator.html",
+     "https://www.calculator.net/height-calculator.html",
+     "https://www.calculator.net/ip-subnet-calculator.html",
+     "https://www.calculator.net/bra-size-calculator.html",
+     "https://www.calculator.net/password-generator.html",
+     "https://www.calculator.net/dice-roller.html",
+     "https://www.calculator.net/conversion-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.calculatorsoup.com/calculators/construction/blocks.php": [
+   "HTTP 404"
+  ]
+ }
+}

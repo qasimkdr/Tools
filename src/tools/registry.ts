@@ -127,13 +127,18 @@ import bmr from "./bmr-calculator/meta";
 import protein from "./protein-calculator/meta";
 import average from "./average-calculator/meta";
 import tireSize from "./tire-size-calculator/meta";
+import incomeTax from "./income-tax-calculator/meta";
+import weddingAlcohol from "./wedding-alcohol-calculator/meta";
+import aft from "./army-fitness-test-aft-calculator/meta";
+import cementBlock from "./cement-block-calculator/meta";
+import basisPoint from "./basis-point-calculator/meta";
 
 /**
  * Registry of PUBLISHED tools only (never list unbuilt tools → no broken links, no thin pages).
  * Add a tool: create src/tools/<slug>/meta.ts, import it here, add to TOOLS. That's the only wiring needed
  * for sitemap, category hubs, /tools/ index, home page and related-tool links.
  */
-export const TOOLS: ToolMeta[] = [daysFromToday, payment, interestRate, discount, ratio, proportion, hypotenuse, rng, rightTriangle, age, hours, period, armyBodyFat, bench, cubicYard, gravel, sand, sqft, k401, mortgage, gpa, apWorld, bowling, fraction, sqrt, molWeight, cylinder, overtime, paycheck, asphalt, apBio, bmiWomen, apChem, concrete, npvCalc, halfBday, dogPreg, binary, poolSalt, rafter, stair, sciNot, gradeCalc, magi, moneyMarket, confInt, superscript, era, apStats, gcf, apr, wire, cone, normCdf, matInv, ccPayoff, skirt, crossStitch, fillDirt, hyper, stud, boardFoot, soffit, apLang, moneyCounter, ffmi, dunk, horseGest, linearFeet, proRata, water, stepsMiles, mcCircle, densityAlt, heightCalc, weightedMeanCalc, stdDev, bodyFat, tile, sourdough, payRaise, audiobook, cdCalc, areaCalc, gradeCurve, btu, arrowSpeed, volumeCalc, productivity, dateDiff, bloodPressure, ohmsLaw, interestCalc, recessed, fencePost, pineStraw, leadTime, molarity, wattsAmps, timeOff, decimals, epoxy, sellerFin, retireLast, quarterMile, firewood, netherPortal, markup, aspectRatio, goatGest, vpd, gasOil, percent, arv, radicals, leaseVsBuy, redacted, split, partialFrac, implicitDiff, breastfeeding, macro, tip, bmr, protein, average, tireSize];
+export const TOOLS: ToolMeta[] = [daysFromToday, payment, interestRate, discount, ratio, proportion, hypotenuse, rng, rightTriangle, age, hours, period, armyBodyFat, bench, cubicYard, gravel, sand, sqft, k401, mortgage, gpa, apWorld, bowling, fraction, sqrt, molWeight, cylinder, overtime, paycheck, asphalt, apBio, bmiWomen, apChem, concrete, npvCalc, halfBday, dogPreg, binary, poolSalt, rafter, stair, sciNot, gradeCalc, magi, moneyMarket, confInt, superscript, era, apStats, gcf, apr, wire, cone, normCdf, matInv, ccPayoff, skirt, crossStitch, fillDirt, hyper, stud, boardFoot, soffit, apLang, moneyCounter, ffmi, dunk, horseGest, linearFeet, proRata, water, stepsMiles, mcCircle, densityAlt, heightCalc, weightedMeanCalc, stdDev, bodyFat, tile, sourdough, payRaise, audiobook, cdCalc, areaCalc, gradeCurve, btu, arrowSpeed, volumeCalc, productivity, dateDiff, bloodPressure, ohmsLaw, interestCalc, recessed, fencePost, pineStraw, leadTime, molarity, wattsAmps, timeOff, decimals, epoxy, sellerFin, retireLast, quarterMile, firewood, netherPortal, markup, aspectRatio, goatGest, vpd, gasOil, percent, arv, radicals, leaseVsBuy, redacted, split, partialFrac, implicitDiff, breastfeeding, macro, tip, bmr, protein, average, tireSize, incomeTax, weddingAlcohol, aft, cementBlock, basisPoint];
 
 const bySlug = new Map(TOOLS.map((t) => [t.slug, t]));
 export const getTool = (slug: string) => {

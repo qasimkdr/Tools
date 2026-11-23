@@ -1,0 +1,143 @@
+{
+ "keywords": {
+  "liquor calculator wedding": {
+   "fetchedAt": "2026-11-23T07:50:30.773Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1900,
+   "fileKd": 12,
+   "fileIntent": "C",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.theknot.com/content/how-to-stock-the-bar-at-your-wedding",
+     "domain": "www.theknot.com",
+     "title": "how to stock the bar at your wedding",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.zola.com/expert-advice/wedding-planning-101/wedding-planning-tools/how-to-calculate-alcohol-needs-for-your-wedding",
+     "domain": "www.zola.com",
+     "title": "how to calculate alcohol needs for your wedding",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://zola.com/expert-advice/how-to-spend-smarter-on-your-wedding-bar",
+     "domain": "zola.com",
+     "title": "Wedding Alcohol Calculator: How Much to Buy",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.omnicalculator.com/food/wedding-alcohol",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://withjoy.com/blog/wedding-alcohol-calculator/",
+     "domain": "withjoy.com",
+     "title": "Joy Wedding",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://thebudgetsavvybride.com/wedding-alcohol-calculator/",
+     "domain": "thebudgetsavvybride.com",
+     "title": "wedding alcohol calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://apracticalwedding.com/wedding-alcohol-calculator/",
+     "domain": "apracticalwedding.com",
+     "title": "How To Buy Booze For Your Wedding",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.weddingforward.com/wedding-alcohol-calculator",
+     "domain": "www.weddingforward.com",
+     "title": "Ultimate Wedding Alcohol Calculator For Your Party",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "wedding-alcohol-calculator",
+ "page": "wedding-alcohol-calculator",
+ "category": "everyday",
+ "name": "Wedding Alcohol Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T07:50:30.773Z",
+ "topCompetitors": [
+  {
+   "domain": "zola.com",
+   "bestRank": 2,
+   "keywords": 2,
+   "urls": [
+    "https://www.zola.com/expert-advice/wedding-planning-101/wedding-planning-tools/how-to-calculate-alcohol-needs-for-your-wedding",
+    "https://zola.com/expert-advice/how-to-spend-smarter-on-your-wedding-bar"
+   ]
+  },
+  {
+   "domain": "theknot.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.theknot.com/content/how-to-stock-the-bar-at-your-wedding"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/food/wedding-alcohol"
+   ]
+  },
+  {
+   "domain": "withjoy.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://withjoy.com/blog/wedding-alcohol-calculator/"
+   ]
+  },
+  {
+   "domain": "thebudgetsavvybride.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://thebudgetsavvybride.com/wedding-alcohol-calculator/"
+   ]
+  },
+  {
+   "domain": "apracticalwedding.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://apracticalwedding.com/wedding-alcohol-calculator/"
+   ]
+  },
+  {
+   "domain": "weddingforward.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.weddingforward.com/wedding-alcohol-calculator"
+   ]
+  }
+ ]
+}

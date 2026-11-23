@@ -1,0 +1,101 @@
+{
+ "keywords": {
+  "aft calculator": {
+   "fetchedAt": "2026-11-23T07:50:30.932Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 18100,
+   "fileKd": 30,
+   "fileIntent": "C - I",
+   "semrushCompetitor": {
+    "position": 11,
+    "url": "www.omnicalculator.com/health/aft"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.omnicalculator.com/health/aft",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.inchcalculator.com/aft-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "AFT Calculator – Calculate Your Army Fitness Test Score",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://apps.apple.com/app/id6744953982",
+     "domain": "apps.apple.com",
+     "title": "AFT Calculator and Resources",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://fitnessvolt.com/military-pt/army-aft-calculator/",
+     "domain": "fitnessvolt.com",
+     "title": "Army Fitness Test (AFT) Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://apps.apple.com/us/app/id1619926227",
+     "domain": "apps.apple.com",
+     "title": "AFT Score Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "army-fitness-test-aft-calculator",
+ "page": "army-fitness-test-aft-calculator",
+ "category": "health",
+ "name": "Army Fitness Test (AFT) Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T07:50:30.933Z",
+ "topCompetitors": [
+  {
+   "domain": "apple.com",
+   "bestRank": 3,
+   "keywords": 2,
+   "urls": [
+    "https://apps.apple.com/app/id6744953982",
+    "https://apps.apple.com/us/app/id1619926227"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/health/aft"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/aft-calculator/"
+   ]
+  },
+  {
+   "domain": "fitnessvolt.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://fitnessvolt.com/military-pt/army-aft-calculator/"
+   ]
+  }
+ ]
+}

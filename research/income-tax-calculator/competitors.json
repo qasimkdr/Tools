@@ -1,0 +1,679 @@
+{
+ "pages": {
+  "https://www.calculator.net/tax-calculator.html": {
+   "url": "https://www.calculator.net/tax-calculator.html",
+   "finalUrl": "https://www.calculator.net/tax-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-23T07:50:33.172Z",
+   "title": "Income Tax Calculator",
+   "metaDescription": "Free online income tax calculator to estimate U.S federal tax refund or owed amount for both salary earners and independent contractors.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Income Tax Calculator"
+   ],
+   "h2": [
+    "Taxable Income",
+    "Other Taxable Income",
+    "Exemptions",
+    "Tax Deductions",
+    "Tax Credits",
+    "Alternative Minimum Tax (AMT)"
+   ],
+   "h3": [
+    "Standard vs. Itemized Deductions",
+    "Income",
+    "Children",
+    "Education & Retirement",
+    "Environmental"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Income Tax Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Taxable Income"
+    },
+    {
+     "level": 2,
+     "text": "Other Taxable Income"
+    },
+    {
+     "level": 2,
+     "text": "Exemptions"
+    },
+    {
+     "level": 2,
+     "text": "Tax Deductions"
+    },
+    {
+     "level": 3,
+     "text": "Standard vs. Itemized Deductions"
+    },
+    {
+     "level": 2,
+     "text": "Tax Credits"
+    },
+    {
+     "level": 3,
+     "text": "Income"
+    },
+    {
+     "level": 3,
+     "text": "Children"
+    },
+    {
+     "level": 3,
+     "text": "Education & Retirement"
+    },
+    {
+     "level": 3,
+     "text": "Environmental"
+    },
+    {
+     "level": 2,
+     "text": "Alternative Minimum Tax (AMT)"
+    }
+   ],
+   "wordCount": 3417,
+   "avgSentenceWords": 21,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "tax",
+     "weight": 91
+    },
+    {
+     "term": "income",
+     "weight": 73
+    },
+    {
+     "term": "deduction",
+     "weight": 35
+    },
+    {
+     "term": "deductions",
+     "weight": 34
+    },
+    {
+     "term": "credit",
+     "weight": 31
+    },
+    {
+     "term": "income tax",
+     "weight": 29
+    },
+    {
+     "term": "expenses",
+     "weight": 24
+    },
+    {
+     "term": "gross income",
+     "weight": 23
+    },
+    {
+     "term": "adjusted gross",
+     "weight": 23
+    },
+    {
+     "term": "tax credit",
+     "weight": 18
+    },
+    {
+     "term": "interest",
+     "weight": 17
+    },
+    {
+     "term": "qualified",
+     "weight": 17
+    },
+    {
+     "term": "tax credits",
+     "weight": 17
+    },
+    {
+     "term": "gross",
+     "weight": 16
+    },
+    {
+     "term": "taxpayers",
+     "weight": 16
+    },
+    {
+     "term": "business",
+     "weight": 15
+    },
+    {
+     "term": "adjusted",
+     "weight": 15
+    },
+    {
+     "term": "standard",
+     "weight": 15
+    },
+    {
+     "term": "year",
+     "weight": 14
+    },
+    {
+     "term": "refundable",
+     "weight": 14
+    },
+    {
+     "term": "credits",
+     "weight": 13
+    },
+    {
+     "term": "contributions",
+     "weight": 12
+    },
+    {
+     "term": "modified adjusted",
+     "weight": 12
+    },
+    {
+     "term": "standard deduction",
+     "weight": 12
+    },
+    {
+     "term": "non refundable",
+     "weight": 12
+    },
+    {
+     "term": "box",
+     "weight": 11
+    },
+    {
+     "term": "student",
+     "weight": 11
+    },
+    {
+     "term": "deducted",
+     "weight": 11
+    },
+    {
+     "term": "irs",
+     "weight": 11
+    },
+    {
+     "term": "non",
+     "weight": 11
+    }
+   ],
+   "claims": [
+    "Taking gross income, subtract deductions and exemptions such as contributions to a 401(k) or pension plan.",
+    "The \"line\" in question is the adjusted gross income (AGI) of the taxpayer and is the bottom number on the front of Form 1040.",
+    "The deduction phases out for taxpayers with a modified adjusted gross income over $150,000 ($300,000 for joint filers).",
+    "The deduction phases out for taxpayers with a modified adjusted gross income over $150,000 ($300,000 for joint filers).",
+    "The deduction phases out for taxpayers with a modified adjusted gross income over $100,000 ($200,000 for joint filers).",
+    "The deduction phases out for taxpayers with a modified adjusted gross income over $75,000 ($150,000 for joint filers).",
+    "For example, a $1,000 deduction can only reduce net taxable income by $1,000.",
+    "If premiums are paid with after-tax dollars, deductions are limited only to the expenses that exceed 10% of adjusted gross income, and 7.5% for anyone 65 and older.",
+    "The SALT cap begins to phase down to $10,000 once the Modified Adjusted Gross Income exceeds $500,000 for 2025 and $505,000 for 2026.",
+    "The child tax credit starts to phase out once the income reaches $200,000 ($400,000 for joint filers)."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 8,
+   "lists": 5,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "cfilestatus",
+    "callowance",
+    "callowanceold",
+    "2026 (return filed in 2027)",
+    "2025 (return filed in 2026)",
+    "cage",
+    "csalaryincome",
+    "cwithheld",
+    "csalarystate",
+    "csalarylocal",
+    "yes",
+    "no",
+    "cbusinessincome",
+    "cestimatedtax",
+    "cmedicarewage",
+    "cage2",
+    "csalaryincome2",
+    "cwithheld2",
+    "csalarystate2",
+    "csalarylocal2",
+    "yes",
+    "no",
+    "cbusinessincome2",
+    "cestimatedtax2",
+    "cmedicarewage2",
+    "cssincome",
+    "cinterestincome",
+    "cordinarydividends",
+    "cqualifieddividends",
+    "crentalincome",
+    "cshortcapitalgain",
+    "clongcapitalgain",
+    "cotherincome",
+    "cstatetaxrate",
+    "ctips",
+    "covertime",
+    "ccar",
+    "cira",
+    "csalestax",
+    "cmortgage"
+   ],
+   "selectOptionsSample": "single married filing jointly married filing separately head of household qualified widow",
+   "unitToggle": false,
+   "wordsBeforeTool": 68,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 37,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 28,
+    "external": 0,
+    "contentInternal": 28,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "financial",
+     "income tax calculator",
+     "Financial Calculators",
+     "Mortgage",
+     "Loan",
+     "Auto Loan",
+     "Interest",
+     "Payment",
+     "Retirement",
+     "Amortization",
+     "Investment",
+     "Currency",
+     "Inflation",
+     "Finance",
+     "Mortgage Payoff",
+     "Income Tax",
+     "Compound Interest",
+     "Salary"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/tax-calculator.html",
+     "https://www.calculator.net/mortgage-calculator.html",
+     "https://www.calculator.net/loan-calculator.html",
+     "https://www.calculator.net/auto-loan-calculator.html",
+     "https://www.calculator.net/interest-calculator.html",
+     "https://www.calculator.net/payment-calculator.html",
+     "https://www.calculator.net/retirement-calculator.html",
+     "https://www.calculator.net/amortization-calculator.html",
+     "https://www.calculator.net/investment-calculator.html",
+     "https://www.calculator.net/currency-calculator.html",
+     "https://www.calculator.net/inflation-calculator.html",
+     "https://www.calculator.net/finance-calculator.html",
+     "https://www.calculator.net/mortgage-payoff-calculator.html",
+     "https://www.calculator.net/compound-interest-calculator.html",
+     "https://www.calculator.net/salary-calculator.html",
+     "https://www.calculator.net/401k-calculator.html",
+     "https://www.calculator.net/interest-rate-calculator.html",
+     "https://www.calculator.net/sales-tax-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/financial/tax-federal-est.php": {
+   "url": "https://www.calculatorsoup.com/calculators/financial/tax-federal-est.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/financial/tax-federal-est.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-23T07:50:36.433Z",
+   "title": "Income Tax Calculator",
+   "metaDescription": "Estimate Federal Income Tax for 2026, 2025, 2024, 2023, 2022, 2021, 2020, and 2019 from IRS tax rate schedules. Find your total federal tax as a percentage of your taxable income. Calculate net income after taxes.",
+   "canonical": "https://www.calculatorsoup.com/calculators/financial/tax-federal-est.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Income Tax Calculator"
+   ],
+   "h2": [
+    "Income Tax Calculator"
+   ],
+   "h3": [
+    "Calculator Variables and Results",
+    "Estimating Federal Income Tax",
+    "References",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Income Tax Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Income Tax Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Calculator Variables and Results"
+    },
+    {
+     "level": 4,
+     "text": "Tax Year"
+    },
+    {
+     "level": 4,
+     "text": "Filing Status"
+    },
+    {
+     "level": 4,
+     "text": "Taxable Income"
+    },
+    {
+     "level": 4,
+     "text": "Estimated Tax"
+    },
+    {
+     "level": 4,
+     "text": "Tax Bracket"
+    },
+    {
+     "level": 4,
+     "text": "Tax as a percentage of your taxable income"
+    },
+    {
+     "level": 4,
+     "text": "Net Income after Tax is paid"
+    },
+    {
+     "level": 3,
+     "text": "Estimating Federal Income Tax"
+    },
+    {
+     "level": 3,
+     "text": "References"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 501,
+   "avgSentenceWords": 24,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "tax",
+     "weight": 35
+    },
+    {
+     "term": "income",
+     "weight": 26
+    },
+    {
+     "term": "income tax",
+     "weight": 17
+    },
+    {
+     "term": "calculator",
+     "weight": 16
+    },
+    {
+     "term": "taxable income",
+     "weight": 15
+    },
+    {
+     "term": "taxable",
+     "weight": 10
+    },
+    {
+     "term": "tax calculator",
+     "weight": 9
+    },
+    {
+     "term": "taxes",
+     "weight": 8
+    },
+    {
+     "term": "tax bracket",
+     "weight": 8
+    },
+    {
+     "term": "calculators",
+     "weight": 7
+    },
+    {
+     "term": "filing",
+     "weight": 7
+    },
+    {
+     "term": "estimated",
+     "weight": 7
+    },
+    {
+     "term": "net income",
+     "weight": 6
+    },
+    {
+     "term": "married filing",
+     "weight": 6
+    },
+    {
+     "term": "estimated tax",
+     "weight": 6
+    },
+    {
+     "term": "pay",
+     "weight": 5
+    },
+    {
+     "term": "bracket",
+     "weight": 5
+    },
+    {
+     "term": "federal",
+     "weight": 5
+    },
+    {
+     "term": "self",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators financial",
+     "weight": 5
+    },
+    {
+     "term": "filing status",
+     "weight": 5
+    },
+    {
+     "term": "form 1040",
+     "weight": 5
+    },
+    {
+     "term": "self employed",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "financial",
+     "weight": 4
+    },
+    {
+     "term": "year",
+     "weight": 4
+    },
+    {
+     "term": "status",
+     "weight": 4
+    },
+    {
+     "term": "percentage",
+     "weight": 4
+    },
+    {
+     "term": "net",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "Estimate your US federal income tax for 2026, 2025, 2024, 2023, 2022, 2021, 2020, or 2019 using IRS formulas."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 0,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Tax Year:",
+    "Filing Status:",
+    "Taxable Income: $",
+    "reset"
+   ],
+   "selectOptionsSample": "2026 2025 2024 2023 2022 2021 2020 2019 single married file jointly married file separately head of household",
+   "unitToggle": false,
+   "wordsBeforeTool": 21,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "August 1, 2025",
+    "authoritativeSources": [
+     "https://www.irs.gov/pub/irs-pdf/f1040es.pdf",
+     "https://www.irs.gov/forms-instructions"
+    ]
+   },
+   "ux": {
+    "htmlKB": 51,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 17,
+    "external": 2,
+    "contentInternal": 7,
+    "contentExternal": 2,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Financial",
+     "Money, Pay, Taxes",
+     "Income Tax Calculator",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/financial/",
+     "https://www.calculatorsoup.com/calculators/financial/index-money-pay-taxes-calculators.php",
+     "https://www.calculatorsoup.com/calculators/financial/tax-federal-est.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=financial%2F&folderName=Financial&folder2=financial%2Findex-money-pay-taxes-calculators.php&folderName2=Money%2C+Pay%2C+Taxes&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/financial/tax-federal-est.php&h1=Income+Tax+Calculator&pop_w=400&pop_h=600"
+    ],
+    "externalSample": [
+     "https://www.irs.gov/pub/irs-pdf/f1040es.pdf",
+     "https://www.irs.gov/forms-instructions"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.nerdwallet.com/article/taxes/federal-income-tax-calculator": [
+   "disallowed by robots.txt"
+  ],
+  "https://smartasset.com/taxes/income-taxes": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.omnicalculator.com/finance/tax": [
+   "HTTP 404"
+  ]
+ }
+}

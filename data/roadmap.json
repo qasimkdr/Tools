@@ -10677,7 +10677,7 @@
     "www.calculator.net/tax-calculator.html"
    ],
    "category": "finance",
-   "status": "todo",
+   "status": "live",
    "order": 118,
    "batch": 12
   },
@@ -11045,6 +11045,7 @@
    "competitors": [],
    "category": "science",
    "status": "todo",
+   "note": "skipped 2026-11-23: no authoritative dosing source (only conflicting forum figures); a wrong dose risks oxygen depletion and livestock loss",
    "order": 126,
    "batch": 13
   },
@@ -11185,7 +11186,7 @@
    ],
    "competitors": [],
    "category": "everyday",
-   "status": "todo",
+   "status": "live",
    "order": 129,
    "batch": 13
   },
@@ -11596,7 +11597,7 @@
     "www.omnicalculator.com/health/aft"
    ],
    "category": "health",
-   "status": "todo",
+   "status": "live",
    "order": 131,
    "batch": 14
   },
@@ -11625,7 +11626,7 @@
    ],
    "competitors": [],
    "category": "construction",
-   "status": "todo",
+   "status": "live",
    "order": 132,
    "batch": 14
   },
@@ -11663,7 +11664,7 @@
    ],
    "competitors": [],
    "category": "finance",
-   "status": "todo",
+   "status": "live",
    "order": 133,
    "batch": 14
   },

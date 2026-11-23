@@ -1,0 +1,270 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/food/wedding-alcohol": {
+   "url": "https://www.omnicalculator.com/food/wedding-alcohol",
+   "finalUrl": "https://www.omnicalculator.com/food/wedding-alcohol",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T07:51:42.028Z",
+   "title": "Wedding Alcohol Calculator",
+   "metaDescription": "Wedding alcohol calculator is an invaluable tool for planning your wedding reception party. Use it to estimate the amount of alcohol you will need for your guests.",
+   "canonical": "https://www.omnicalculator.com/food/wedding-alcohol",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Wedding Alcohol Calculator"
+   ],
+   "h2": [
+    "How to use the wedding alcohol calculator?",
+    "Notes on using the wedding alcohol calculator",
+    "Using the wedding alcohol calculator - example",
+    "Other kinds of alcohol",
+    "Some additional tips for wedding planning"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Wedding Alcohol Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to use the wedding alcohol calculator?"
+    },
+    {
+     "level": 2,
+     "text": "Notes on using the wedding alcohol calculator"
+    },
+    {
+     "level": 2,
+     "text": "Using the wedding alcohol calculator - example"
+    },
+    {
+     "level": 2,
+     "text": "Other kinds of alcohol"
+    },
+    {
+     "level": 2,
+     "text": "Some additional tips for wedding planning"
+    }
+   ],
+   "wordCount": 1192,
+   "avgSentenceWords": 22,
+   "faqs": [
+    "How to use the wedding alcohol calculator?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "wedding",
+     "weight": 29
+    },
+    {
+     "term": "wine",
+     "weight": 28
+    },
+    {
+     "term": "number",
+     "weight": 22
+    },
+    {
+     "term": "bottles",
+     "weight": 20
+    },
+    {
+     "term": "alcohol",
+     "weight": 19
+    },
+    {
+     "term": "calculator",
+     "weight": 16
+    },
+    {
+     "term": "alcohol calculator",
+     "weight": 15
+    },
+    {
+     "term": "wedding alcohol",
+     "weight": 14
+    },
+    {
+     "term": "wine bottles",
+     "weight": 14
+    },
+    {
+     "term": "beer",
+     "weight": 12
+    },
+    {
+     "term": "champagne",
+     "weight": 12
+    },
+    {
+     "term": "need",
+     "weight": 11
+    },
+    {
+     "term": "red wine",
+     "weight": 11
+    },
+    {
+     "term": "guests",
+     "weight": 10
+    },
+    {
+     "term": "wedding reception",
+     "weight": 9
+    },
+    {
+     "term": "reception",
+     "weight": 9
+    },
+    {
+     "term": "red",
+     "weight": 8
+    },
+    {
+     "term": "white",
+     "weight": 8
+    },
+    {
+     "term": "party",
+     "weight": 8
+    },
+    {
+     "term": "liter",
+     "weight": 8
+    },
+    {
+     "term": "sparkling wine",
+     "weight": 8
+    },
+    {
+     "term": "make sure",
+     "weight": 8
+    },
+    {
+     "term": "drinkers",
+     "weight": 7
+    },
+    {
+     "term": "much",
+     "weight": 7
+    },
+    {
+     "term": "vodka",
+     "weight": 6
+    },
+    {
+     "term": "white wine",
+     "weight": 6
+    },
+    {
+     "term": "make",
+     "weight": 6
+    },
+    {
+     "term": "want",
+     "weight": 6
+    },
+    {
+     "term": "buy",
+     "weight": 6
+    },
+    {
+     "term": "size",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "It is most common to serve 50% white wine and 50% red wine, but feel free to modify this number to your liking, for example by serving 75% of white and 25% of red if your wedding is in the summer.",
+    "Put in the number of vodka drinkers, and the wedding alcohol calculator will return the number of 0.5-liter bottles of vodka that you need to buy.",
+    "Our imaginary couple, Bob and Alice, are planning to invite 200 people to their wedding.",
+    "Now we know that for their wedding Alice and Bob need 24 bottles of white and red wine each, 342 bottles of beer and 29 bottles of sparkling wine."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 9,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Champagne type"
+   ],
+   "selectOptionsSample": "select standard sparkling wine",
+   "unitToggle": false,
+   "wordsBeforeTool": 23,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Maria Kluziak",
+    "published": "2019-06-11T08:36:37.355Z",
+    "modified": "2026-07-30T14:15:19.230Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 528,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 23,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "tent size calculator",
+     "taco bar calculator",
+     "BBQ grill size calculator",
+     "volume converter",
+     "ring size converter",
+     "lighting calculator",
+     "blood alcohol calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/everyday-life/tent-size",
+     "https://www.omnicalculator.com/food/taco-bar",
+     "https://www.omnicalculator.com/food/bbq-grill-size",
+     "https://www.omnicalculator.com/math/volume",
+     "https://www.omnicalculator.com/everyday-life/ring-size",
+     "https://www.omnicalculator.com/everyday-life/lighting",
+     "https://www.omnicalculator.com/health/bac"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.inchcalculator.com/alcohol-calculator/": [
+   "HTTP 404"
+  ]
+ }
+}
