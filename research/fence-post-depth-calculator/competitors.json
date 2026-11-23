@@ -1,0 +1,281 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/construction/fence-post-depth": {
+   "url": "https://www.omnicalculator.com/construction/fence-post-depth",
+   "finalUrl": "https://www.omnicalculator.com/construction/fence-post-depth",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T00:24:19.151Z",
+   "title": "Fence Post Depth Calculator",
+   "metaDescription": "Use this fence post depth calculator to determine the ideal depth for your fence posts.",
+   "canonical": "https://www.omnicalculator.com/construction/fence-post-depth",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Fence Post Depth Calculator"
+   ],
+   "h2": [
+    "How to calculate the ideal depth for your fence posts",
+    "How to use this fence post depth calculator",
+    "Example: 6-foot chain link fence post depth",
+    "Fence post depth chart",
+    "What to take into account when digging a hole for a post?"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Fence Post Depth Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate the ideal depth for your fence posts"
+    },
+    {
+     "level": 2,
+     "text": "How to use this fence post depth calculator"
+    },
+    {
+     "level": 2,
+     "text": "Example: 6-foot chain link fence post depth"
+    },
+    {
+     "level": 2,
+     "text": "Fence post depth chart"
+    },
+    {
+     "level": 2,
+     "text": "What to take into account when digging a hole for a post?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 992,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "What to take into account when digging a hole for a post?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "post",
+     "weight": 43
+    },
+    {
+     "term": "fence",
+     "weight": 41
+    },
+    {
+     "term": "depth",
+     "weight": 28
+    },
+    {
+     "term": "post depth",
+     "weight": 26
+    },
+    {
+     "term": "fence post",
+     "weight": 23
+    },
+    {
+     "term": "calculator",
+     "weight": 17
+    },
+    {
+     "term": "height",
+     "weight": 13
+    },
+    {
+     "term": "fence posts",
+     "weight": 12
+    },
+    {
+     "term": "posts",
+     "weight": 12
+    },
+    {
+     "term": "post height",
+     "weight": 11
+    },
+    {
+     "term": "depth calculator",
+     "weight": 9
+    },
+    {
+     "term": "hole",
+     "weight": 8
+    },
+    {
+     "term": "post length",
+     "weight": 8
+    },
+    {
+     "term": "length",
+     "weight": 7
+    },
+    {
+     "term": "holes",
+     "weight": 7
+    },
+    {
+     "term": "ratio",
+     "weight": 7
+    },
+    {
+     "term": "feet",
+     "weight": 6
+    },
+    {
+     "term": "want",
+     "weight": 5
+    },
+    {
+     "term": "must",
+     "weight": 5
+    },
+    {
+     "term": "length post",
+     "weight": 5
+    },
+    {
+     "term": "height post",
+     "weight": 5
+    },
+    {
+     "term": "above ground",
+     "weight": 5
+    },
+    {
+     "term": "depth post",
+     "weight": 5
+    },
+    {
+     "term": "height ratio",
+     "weight": 5
+    },
+    {
+     "term": "depth chart",
+     "weight": 5
+    },
+    {
+     "term": "feet meters",
+     "weight": 5
+    },
+    {
+     "term": "check",
+     "weight": 4
+    },
+    {
+     "term": "above",
+     "weight": 4
+    },
+    {
+     "term": "need",
+     "weight": 4
+    },
+    {
+     "term": "soil",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "The minimum depth for the fence post should be at least 1/3 of the post's above-ground height.",
+    "Some say that the concealed part of the post should be equal to at least 1/3 (0.33) of the above-ground portion.",
+    "The only thing we know for sure is that the minimum depth for the fence post is at least 1/3 of the post height.",
+    "Example: 6-foot chain link fence post depth Let's look at an example to make calculating the depth of your posts' holes even more straightforward.",
+    "Let's say you want to know a 6-foot chain link fence post depth.",
+    "Let's consider that the holes should be about 1 / 3 1/3 of the total height of the post and that your fence is 6 feet high.",
+    "Post depth = 6 × 0.33 ≈ 1.98 ft Postdepth=6×0.33≈1.98 ft The hole for each post should be at least 1.98 feet deep.",
+    "Post length = 6 × ( 1 + 0.33 ) ≈ 7.98 ft Postlength=6×(1+0.33)≈7.98 ft Thus, your posts must be about 7.98 feet long."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 5,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Claudia Herambourg",
+    "published": "2023-09-04T09:24:00.405Z",
+    "modified": "2026-07-22T17:18:50.962Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 490,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 24,
+    "external": 1,
+    "contentInternal": 8,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "fence material calculator",
+     "vinyl fence calculator",
+     "how much it costs to build a fence",
+     "post hole concrete calculator",
+     "fence calculator",
+     "hoop house calculator",
+     "Stone Weight Calculator",
+     "Board and Batten Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/construction/fence-material",
+     "https://www.omnicalculator.com/construction/vinyl-fence",
+     "https://www.omnicalculator.com/construction/fence-cost",
+     "https://www.omnicalculator.com/construction/post-hole-concrete",
+     "https://www.omnicalculator.com/construction/fence",
+     "https://www.omnicalculator.com/construction/hoop-house",
+     "https://www.omnicalculator.com/construction/stone",
+     "https://www.omnicalculator.com/construction/board-and-batten"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.inchcalculator.com/fence-post-depth-calculator/": [
+   "HTTP 404"
+  ],
+  "https://www.calculator.net/fence-calculator.html": [
+   "HTTP 404"
+  ]
+ }
+}

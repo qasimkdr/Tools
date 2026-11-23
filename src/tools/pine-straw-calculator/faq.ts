@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How many square feet does a bale of pine straw cover?", a: "It depends on the bale size and how thick you spread it. Many sources put a standard square bale at roughly 35 to 50 sq ft at a 2–3 in layer: closer to 50 sq ft when spread thinner and closer to 35 when spread thicker. Larger bales cover more, so check the coverage stated by your supplier." },
+  { q: "How do I calculate how much pine straw I need?", a: "Measure the beds in square feet (length × width, or π × r² for a round tree ring), divide by the coverage per bale, add about 10% for curved edges and uneven spreading, and round up. 300 sq ft at 40 sq ft per bale is 7.5 bales, or 9 with 10% extra." },
+  { q: "How thick should pine straw be?", a: "A layer of about 2–3 in after it settles is common for weed control and moisture retention. New beds often get a thicker first application; later top-ups can be thinner." },
+  { q: "How do I measure a tree ring?", a: "Measure the diameter of the circle you want to cover. Area = π × (diameter ÷ 2)². A 6 ft ring covers about 28.3 sq ft; three rings cover about 84.8 sq ft." },
+  { q: "Is pine straw better than wood mulch?", a: "Each has advantages. Pine straw is light, easy to spread, stays in place on slopes and lets water through. Wood mulch lasts longer and comes in more colors. Pine straw is flammable when dry, so keep it a few feet away from buildings in wildfire-prone areas." },
+  { q: "Does pine straw make soil acidic?", a: "Not noticeably in most gardens. Fresh pine needles are slightly acidic, but as a surface mulch they have little effect on soil pH. Test your soil if you're unsure." },
+];

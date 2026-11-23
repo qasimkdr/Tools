@@ -1,0 +1,318 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/biology/pine-straw": {
+   "url": "https://www.omnicalculator.com/biology/pine-straw",
+   "finalUrl": "https://www.omnicalculator.com/biology/pine-straw",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T00:24:11.929Z",
+   "title": "Pine Straw Calculator",
+   "metaDescription": "The pine straw calculator estimates the amount of pine straw needed for landscaping projects, ensuring efficient planning and resource usage.",
+   "canonical": "https://www.omnicalculator.com/biology/pine-straw",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Pine Straw Calculator"
+   ],
+   "h2": [
+    "What is pine straw?",
+    "Why do we use pine straw in our gardens?",
+    "How to use the pine straw calculator",
+    "How much is a bale of pine straw?",
+    "How do I calculate how much pine straw I need?",
+    "How do I use pine straw as mulch?",
+    "How many square feet does a bale of straw cover?",
+    "What formula should I use to calculate the numbers of bales of straw I need?",
+    "FAQs"
+   ],
+   "h3": [
+    "What is the recommended depth for pine straw?",
+    "How much area does one bale of pine straw cover?",
+    "How many pine straw bales do I need for a 82ft² garden?",
+    "What is the difference between pine straw and mulch?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Pine Straw Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is pine straw?"
+    },
+    {
+     "level": 2,
+     "text": "Why do we use pine straw in our gardens?"
+    },
+    {
+     "level": 2,
+     "text": "How to use the pine straw calculator"
+    },
+    {
+     "level": 2,
+     "text": "How much is a bale of pine straw?"
+    },
+    {
+     "level": 2,
+     "text": "How do I calculate how much pine straw I need?"
+    },
+    {
+     "level": 2,
+     "text": "How do I use pine straw as mulch?"
+    },
+    {
+     "level": 2,
+     "text": "How many square feet does a bale of straw cover?"
+    },
+    {
+     "level": 2,
+     "text": "What formula should I use to calculate the numbers of bales of straw I need?"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What is the recommended depth for pine straw?"
+    },
+    {
+     "level": 3,
+     "text": "How much area does one bale of pine straw cover?"
+    },
+    {
+     "level": 3,
+     "text": "How many pine straw bales do I need for a 82ft² garden?"
+    },
+    {
+     "level": 3,
+     "text": "What is the difference between pine straw and mulch?"
+    }
+   ],
+   "wordCount": 1165,
+   "avgSentenceWords": 18,
+   "faqs": [
+    "What is the recommended depth for pine straw?",
+    "How much area does one bale of pine straw cover?",
+    "How many pine straw bales do I need for a 82ft² garden?",
+    "What is the difference between pine straw and mulch?",
+    "What is pine straw?",
+    "Why do we use pine straw in our gardens?",
+    "How much is a bale of pine straw?",
+    "How do I calculate how much pine straw I need?",
+    "How do I use pine straw as mulch?",
+    "How many square feet does a bale of straw cover?",
+    "What formula should I use to calculate the numbers of bales of straw I need?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "pine straw",
+     "weight": 66
+    },
+    {
+     "term": "straw",
+     "weight": 54
+    },
+    {
+     "term": "pine",
+     "weight": 51
+    },
+    {
+     "term": "bales",
+     "weight": 23
+    },
+    {
+     "term": "area",
+     "weight": 17
+    },
+    {
+     "term": "need",
+     "weight": 16
+    },
+    {
+     "term": "mulch",
+     "weight": 14
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "number",
+     "weight": 12
+    },
+    {
+     "term": "bale",
+     "weight": 11
+    },
+    {
+     "term": "feet",
+     "weight": 10
+    },
+    {
+     "term": "calculate",
+     "weight": 10
+    },
+    {
+     "term": "cover",
+     "weight": 10
+    },
+    {
+     "term": "straw calculator",
+     "weight": 9
+    },
+    {
+     "term": "square feet",
+     "weight": 9
+    },
+    {
+     "term": "soil",
+     "weight": 9
+    },
+    {
+     "term": "square",
+     "weight": 7
+    },
+    {
+     "term": "garden",
+     "weight": 7
+    },
+    {
+     "term": "much",
+     "weight": 7
+    },
+    {
+     "term": "depth",
+     "weight": 6
+    },
+    {
+     "term": "many",
+     "weight": 6
+    },
+    {
+     "term": "needed",
+     "weight": 5
+    },
+    {
+     "term": "bales needed",
+     "weight": 5
+    },
+    {
+     "term": "many bales",
+     "weight": 5
+    },
+    {
+     "term": "pine needles",
+     "weight": 5
+    },
+    {
+     "term": "landscaping projects",
+     "weight": 5
+    },
+    {
+     "term": "pine straws",
+     "weight": 5
+    },
+    {
+     "term": "length",
+     "weight": 4
+    },
+    {
+     "term": "width",
+     "weight": 4
+    },
+    {
+     "term": "covers",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "Pine Straw Calculator Length Width Number of bales needed We are working on the assumption that each bale covers roughly 35-40 square feet when used for a 2\"-3\" depth.",
+    "Our calculator assumes that you will use 1 bale of straw for every 40 square feet.",
+    "This quantity is enough to ensure 3 inches of straw coverage.",
+    "For the longleaf pine straw, which is very scarce and is rarely carried by most stores, the cost can reach up to US $50-$700.",
+    "There are other pine straws available for the low price of $17.",
+    "Bales of straw = 1500/40 The figure you get is the number of bales you need for your project: 37.5 bales of pine straw We have made the process easier for you by creating a pine straw estimator.",
+    "To use the pine straw as mulch, you will need to place it at least 2 to 3 inches thick and about 1 inch away from the tree or plant root.",
+    "A bale of pine straw covers 35 to 40 square feet.",
+    "Use this formula to calculate the number of bales of pine straw needed for a project: Bales of straw = area/ number of bales per unit Let’s say you have a garden space that is 15 feet long and 30 feet wide.",
+    "Area = length × width = 15 ft × 30 ft = 450 ft² Assuming that we are distributing 1 bale of straw to a 40 feet2 area."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 4,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Komal Rafay",
+    "published": "2024-04-11T18:09:09.942Z",
+    "modified": "2026-06-02T09:26:27.507Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 525,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 19,
+    "external": 1,
+    "contentInternal": 3,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "mulch calculator",
+     "soil calculator",
+     "compost calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/biology/mulch",
+     "https://www.omnicalculator.com/biology/soil",
+     "https://www.omnicalculator.com/biology/compost"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.inchcalculator.com/pine-straw-calculator/": [
+   "HTTP 404"
+  ]
+ }
+}

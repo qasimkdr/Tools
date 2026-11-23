@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How far apart should recessed lights be?", a: "A common rule of thumb is to divide the ceiling height by 2: about 4 ft apart for an 8 ft ceiling, 4.5 ft for 9 ft and 5 ft for 10 ft. Narrow-beam fixtures need closer spacing; wide-beam fixtures can go farther apart." },
+  { q: "How far should recessed lights be from the wall?", a: "About half the spacing between lights, so roughly 2 ft from the wall with an 8 ft ceiling. To wash a wall or highlight artwork, place lights closer, about 1.5–3 ft away." },
+  { q: "How many recessed lights do I need?", a: "Divide each room dimension by the spacing and round up, then multiply. A 14 × 12 ft room with an 8 ft ceiling (4 ft spacing) needs 4 × 3 = 12 lights for even general lighting." },
+  { q: "Should recessed lights be in rows?", a: "For general (ambient) lighting, a grid of evenly spaced rows looks tidy and lights the room evenly. In kitchens, task lights usually line up over counters instead, and accent lights follow walls or features." },
+  { q: "What size recessed lights should I use?", a: "4 in fixtures suit smaller rooms, task and accent lighting; 6 in fixtures are common for general lighting in larger rooms and higher ceilings. Choose brightness (lumens) and color temperature for the room's use." },
+  { q: "Do I need special fixtures in insulated ceilings?", a: "Yes. Use IC-rated (insulation contact) housings or canless LED fixtures rated for contact with insulation, and airtight models to limit drafts. Follow the manufacturer's instructions and local electrical code, or hire an electrician." },
+];

@@ -97,16 +97,16 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 13 on policy hold).
 | 91 | 10 | live | Date Difference Calculator | `date-difference-calculator` | time-date | time between calculator | 2900 | 10 | 7400 | 2 |
 | 92 | 10 | live | Blood Pressure By Age Calculator | `blood-pressure-by-age-calculator` | health | blood pressure by age calculator | 2400 | 10 | 2400 | 1 |
 | 93 | 10 | todo | Calories Burned Calculator | `calories-burned-calculator` | health | kcal burned walking calculator | 3600 | 33 | 45700 | 1 |
-| 94 | 10 | todo | Pine Straw Calculator | `pine-straw-calculator` | construction | pine straw calculator | 1000 | 0 | 1000 | 1 |
+| 94 | 10 | live | Pine Straw Calculator | `pine-straw-calculator` | construction | pine straw calculator | 1000 | 0 | 1000 | 1 |
 | 95 | 10 | todo | Split Calculator | `split-calculator` | everyday | split calculator | 2400 | 8 | 2400 | 1 |
 | 96 | 10 | live | Ohm's Law Calculator | `ohms-law-calculator` | science | ohm calculator | 1000 | 21 | 34500 | 1 |
-| 97 | 10 | todo | Fence Post Depth Calculator | `fence-post-depth-calculator` | construction | fence post depth calculator | 1600 | 3 | 1600 | 1 |
-| 98 | 10 | todo | Lead Time Calculator | `lead-time-calculator` | time-date | lead time calculator | 2900 | 11 | 2900 | 1 |
-| 99 | 10 | todo | Recessed Light Calculator | `recessed-light-calculator` | construction | recessed light calculator | 1600 | 6 | 3200 | 2 |
+| 97 | 10 | live | Fence Post Depth Calculator | `fence-post-depth-calculator` | construction | fence post depth calculator | 1600 | 3 | 1600 | 1 |
+| 98 | 10 | live | Lead Time Calculator | `lead-time-calculator` | time-date | lead time calculator | 2900 | 11 | 2900 | 1 |
+| 99 | 10 | live | Recessed Light Calculator | `recessed-light-calculator` | construction | recessed light calculator | 1600 | 6 | 3200 | 2 |
 | 100 | 10 | todo | Partial Fraction Calculator | `partial-fraction-calculator` | math | partial fraction calculator | 2400 | 9 | 2400 | 1 |
 | 101 | 11 | todo | Implicit Differentiation Calculator | `implicit-differentiation-calculator` | finance | implicit differentiation calculator | 1900 | 7 | 1900 | 1 |
 | 102 | 11 | todo | Time Off Calculator | `time-off-calculator` | time-date | time off calculator | 1900 | 12 | 1900 | 1 |
-| 103 | 11 | todo | Interest Calculator | `interest-calculator` | finance | interest calculator | 135000 | 42 | 172100 | 1 |
+| 103 | 11 | live | Interest Calculator | `interest-calculator` | finance | interest calculator | 135000 | 42 | 172100 | 1 |
 | 104 | 11 | todo | Decimals Calculator | `decimals-calculator` | math | decimals calculator | 2400 | 12 | 2400 | 1 |
 | 105 | 11 | todo | Watts to Amps Calculator | `watts-to-amps-calculator` | science | watt wattage | 5400 | 22 | 9400 | 3 |
 | 106 | 11 | todo | Epoxy Resin Calculator | `epoxy-resin-calculator` | construction | epoxy resin calculator | 1600 | 5 | 1600 | 1 |

@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "What is lead time?", a: "Lead time is the total time between placing an order and having it ready to use: order processing, production (or picking), shipping and receiving. For a customer it's order-to-delivery; for a manufacturer it's often order-to-finished-product." },
+  { q: "How do you calculate lead time?", a: "Add up each stage. A common supply-chain formula is lead time = reordering (processing) delay + supply delay. With 2 days processing, 5 days production, 4 days shipping and 1 day receiving, lead time is 12 days." },
+  { q: "Should I count business days or calendar days?", a: "Use whatever your supplier quotes. Many suppliers and carriers quote business days (Monday to Friday, excluding holidays); some quote calendar days. 12 business days from Tuesday, December 1, 2026 is Thursday, December 17." },
+  { q: "How do I find the latest date to place an order?", a: "Count the lead time backwards from the date you need the goods. To have something by Friday, January 15, 2027 with a 12-business-day lead time (skipping Christmas and New Year's Day), order by Tuesday, December 29, 2026." },
+  { q: "What is a reorder point?", a: "The stock level that should trigger a new order: reorder point = daily demand × lead time (in days) + safety stock. Selling 20 units a day with a 12-day lead time and 50 units of safety stock gives a reorder point of 290 units." },
+  { q: "How can I reduce lead time?", a: "Order before supplier cut-off times, keep approved suppliers closer to you, share forecasts so suppliers can stock ahead, choose faster shipping for urgent orders, and remove internal approval delays." },
+];

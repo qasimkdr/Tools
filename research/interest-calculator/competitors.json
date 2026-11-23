@@ -1,0 +1,1390 @@
+{
+ "pages": {
+  "https://www.calculator.net/interest-calculator.html": {
+   "url": "https://www.calculator.net/interest-calculator.html",
+   "finalUrl": "https://www.calculator.net/interest-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-23T00:24:41.148Z",
+   "title": "Interest Calculator",
+   "metaDescription": "Free compound interest calculator to find the interest, final balance, and schedule using either a fixed initial investment and/or periodic contributions.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Interest Calculator"
+   ],
+   "h2": [
+    "Results",
+    "Accumulation Schedule"
+   ],
+   "h3": [
+    "Simple Interest",
+    "Compound Interest",
+    "The Rule of 72",
+    "Fixed vs. Floating Interest Rate",
+    "Contributions",
+    "Tax Rate",
+    "Inflation Rate"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Interest Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Results"
+    },
+    {
+     "level": 2,
+     "text": "Accumulation Schedule"
+    },
+    {
+     "level": 3,
+     "text": "Simple Interest"
+    },
+    {
+     "level": 3,
+     "text": "Compound Interest"
+    },
+    {
+     "level": 3,
+     "text": "The Rule of 72"
+    },
+    {
+     "level": 3,
+     "text": "Fixed vs. Floating Interest Rate"
+    },
+    {
+     "level": 3,
+     "text": "Contributions"
+    },
+    {
+     "level": 3,
+     "text": "Tax Rate"
+    },
+    {
+     "level": 3,
+     "text": "Inflation Rate"
+    }
+   ],
+   "wordCount": 1375,
+   "avgSentenceWords": 21,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "interest",
+     "weight": 64
+    },
+    {
+     "term": "rate",
+     "weight": 33
+    },
+    {
+     "term": "interest rate",
+     "weight": 15
+    },
+    {
+     "term": "inflation",
+     "weight": 12
+    },
+    {
+     "term": "calculator",
+     "weight": 11
+    },
+    {
+     "term": "principal",
+     "weight": 11
+    },
+    {
+     "term": "year",
+     "weight": 11
+    },
+    {
+     "term": "bank",
+     "weight": 11
+    },
+    {
+     "term": "interest calculator",
+     "weight": 9
+    },
+    {
+     "term": "compound interest",
+     "weight": 9
+    },
+    {
+     "term": "compound",
+     "weight": 8
+    },
+    {
+     "term": "tax",
+     "weight": 8
+    },
+    {
+     "term": "end",
+     "weight": 8
+    },
+    {
+     "term": "period",
+     "weight": 8
+    },
+    {
+     "term": "years",
+     "weight": 8
+    },
+    {
+     "term": "derek",
+     "weight": 8
+    },
+    {
+     "term": "tax rate",
+     "weight": 8
+    },
+    {
+     "term": "inflation rate",
+     "weight": 8
+    },
+    {
+     "term": "simple interest",
+     "weight": 8
+    },
+    {
+     "term": "financial",
+     "weight": 7
+    },
+    {
+     "term": "compounding",
+     "weight": 7
+    },
+    {
+     "term": "contributions",
+     "weight": 6
+    },
+    {
+     "term": "investment",
+     "weight": 6
+    },
+    {
+     "term": "money",
+     "weight": 6
+    },
+    {
+     "term": "example",
+     "weight": 6
+    },
+    {
+     "term": "interest rates",
+     "weight": 6
+    },
+    {
+     "term": "fixed",
+     "weight": 5
+    },
+    {
+     "term": "amount",
+     "weight": 5
+    },
+    {
+     "term": "simple",
+     "weight": 5
+    },
+    {
+     "term": "later 100",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "To calculate interest: $100 × 10% = $10 This interest is added to the principal, and the sum becomes Derek's required repayment to the bank one year later.",
+    "$100 + $10 = $110 Derek owes the bank $110 a year later, $100 for the principal and $10 as interest.",
+    "Let's assume that Derek wanted to borrow $100 for two years instead of one, and the bank calculates interest annually.",
+    "$100 + $10(year 1) + $10(year 2) = $120 Derek owes the bank $120 two years later, $100 for the principal and $20 as interest.",
+    "Compound Interest Compounding interest requires more than one period, so let's go back to the example of Derek borrowing $100 from the bank for two years at a 10% interest rate.",
+    "$100 × 10% = $10 This interest is added to the principal, and the sum becomes Derek's required repayment to the bank for that present time.",
+    "In Derek's case: $110 × 10% = $11 Derek's interest charge at the end of year 2 is $11.",
+    "This is added to what is owed after year 1: $110 + $11 = $121 When the loan ends, the bank collects $121 from Derek instead of $120 if it were calculated using simple interest instead.",
+    "The following is a graph showing just that, a $1,000 investment at various compounding frequencies earning 20% interest.",
+    "The Rule of 72 Anyone who wants to estimate compound interest in their head may find the rule of 72 very useful."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 9,
+   "lists": 0,
+   "images": 5,
+   "videos": 0,
+   "calculatorInputs": [
+    "cstartingprinciple",
+    "cannualaddition",
+    "cmonthlyaddition",
+    "beginning",
+    "end",
+    "cinterestrate",
+    "ccompound",
+    "cyears",
+    "cmonths",
+    "ctaxtrate",
+    "cinflationrate"
+   ],
+   "selectOptionsSample": "annually semiannually quarterly monthly semimonthly biweekly weekly daily continuously",
+   "unitToggle": false,
+   "wordsBeforeTool": 53,
+   "actions": {
+    "print": true,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 35,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 31,
+    "external": 0,
+    "contentInternal": 31,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "financial",
+     "interest calculator",
+     "Print",
+     "Investment Calculator",
+     "Average Return Calculator",
+     "ROI Calculator",
+     "Inflation Calculator",
+     "Financial Calculators",
+     "Mortgage",
+     "Loan",
+     "Auto Loan",
+     "Interest",
+     "Payment",
+     "Retirement",
+     "Amortization",
+     "Investment",
+     "Currency",
+     "Inflation"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/interest-calculator.html",
+     "https://www.calculator.net/interest-calculator.html#",
+     "https://www.calculator.net/investment-calculator.html",
+     "https://www.calculator.net/average-return-calculator.html",
+     "https://www.calculator.net/roi-calculator.html",
+     "https://www.calculator.net/inflation-calculator.html",
+     "https://www.calculator.net/mortgage-calculator.html",
+     "https://www.calculator.net/loan-calculator.html",
+     "https://www.calculator.net/auto-loan-calculator.html",
+     "https://www.calculator.net/payment-calculator.html",
+     "https://www.calculator.net/retirement-calculator.html",
+     "https://www.calculator.net/amortization-calculator.html",
+     "https://www.calculator.net/currency-calculator.html",
+     "https://www.calculator.net/finance-calculator.html",
+     "https://www.calculator.net/mortgage-payoff-calculator.html",
+     "https://www.calculator.net/tax-calculator.html",
+     "https://www.calculator.net/compound-interest-calculator.html",
+     "https://www.calculator.net/salary-calculator.html",
+     "https://www.calculator.net/401k-calculator.html",
+     "https://www.calculator.net/interest-rate-calculator.html",
+     "https://www.calculator.net/sales-tax-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/interest-calculator/": {
+   "url": "https://www.inchcalculator.com/interest-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/interest-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-23T00:24:44.218Z",
+   "title": "Interest Calculator - Inch Calculator",
+   "metaDescription": "Use our interest calculator to calculate how much your money will grow over time using simple or compound interest. With formulas!",
+   "canonical": "https://www.inchcalculator.com/interest-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Interest Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Future Value using Simple Interest",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate Interest",
+    "How to Calculate an Interest Rate",
+    "Frequently Asked Questions",
+    "Similar Finance Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Balance by Year",
+    "Balance by Year",
+    "Simple Interest",
+    "Compound Interest",
+    "APY Interest Rate",
+    "APR Interest Rate",
+    "Nominal Interest Rate",
+    "Effective Annual Interest Rate",
+    "What are the two types of interest?",
+    "Why do we have to pay interest?",
+    "How do you earn interest?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Interest Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Future Value using Simple Interest"
+    },
+    {
+     "level": 3,
+     "text": "Balance by Year"
+    },
+    {
+     "level": 3,
+     "text": "Balance by Year"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Interest"
+    },
+    {
+     "level": 3,
+     "text": "Simple Interest"
+    },
+    {
+     "level": 3,
+     "text": "Compound Interest"
+    },
+    {
+     "level": 4,
+     "text": "The Rule of 72"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate an Interest Rate"
+    },
+    {
+     "level": 3,
+     "text": "APY Interest Rate"
+    },
+    {
+     "level": 3,
+     "text": "APR Interest Rate"
+    },
+    {
+     "level": 3,
+     "text": "Nominal Interest Rate"
+    },
+    {
+     "level": 3,
+     "text": "Effective Annual Interest Rate"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "What are the two types of interest?"
+    },
+    {
+     "level": 3,
+     "text": "Why do we have to pay interest?"
+    },
+    {
+     "level": 3,
+     "text": "How do you earn interest?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Finance Calculators"
+    }
+   ],
+   "wordCount": 2010,
+   "avgSentenceWords": 22,
+   "faqs": [
+    "What are the two types of interest? ",
+    "Why do we have to pay interest?",
+    "How do you earn interest?",
+    "What are the two types of interest?"
+   ],
+   "faqSchemaCount": 3,
+   "topics": [
+    {
+     "term": "interest",
+     "weight": 140
+    },
+    {
+     "term": "interest rate",
+     "weight": 66
+    },
+    {
+     "term": "rate",
+     "weight": 50
+    },
+    {
+     "term": "simple interest",
+     "weight": 27
+    },
+    {
+     "term": "times",
+     "weight": 23
+    },
+    {
+     "term": "compound interest",
+     "weight": 23
+    },
+    {
+     "term": "nominal interest",
+     "weight": 20
+    },
+    {
+     "term": "loan",
+     "weight": 19
+    },
+    {
+     "term": "simple",
+     "weight": 19
+    },
+    {
+     "term": "compound",
+     "weight": 15
+    },
+    {
+     "term": "000 times",
+     "weight": 15
+    },
+    {
+     "term": "total",
+     "weight": 14
+    },
+    {
+     "term": "annual",
+     "weight": 14
+    },
+    {
+     "term": "compounded",
+     "weight": 14
+    },
+    {
+     "term": "total interest",
+     "weight": 14
+    },
+    {
+     "term": "effective annual",
+     "weight": 14
+    },
+    {
+     "term": "value",
+     "weight": 13
+    },
+    {
+     "term": "principal",
+     "weight": 13
+    },
+    {
+     "term": "nominal",
+     "weight": 13
+    },
+    {
+     "term": "ear",
+     "weight": 13
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "annual interest",
+     "weight": 12
+    },
+    {
+     "term": "money",
+     "weight": 12
+    },
+    {
+     "term": "left",
+     "weight": 12
+    },
+    {
+     "term": "right",
+     "weight": 12
+    },
+    {
+     "term": "compounding",
+     "weight": 12
+    },
+    {
+     "term": "paid",
+     "weight": 10
+    },
+    {
+     "term": "effective",
+     "weight": 9
+    },
+    {
+     "term": "times left",
+     "weight": 9
+    },
+    {
+     "term": "frac",
+     "weight": 9
+    }
+   ],
+   "claims": [
+    "Therefore, the total interest in this scenario will be $4,000.",
+    "We will assume here that interest is compounded annually, so n is equal to 1.",
+    "Since interest is compounded daily, n will equal 365.",
+    "A = \\$20,000 \\times \\left (1 + \\frac{0.04}{365} \\right )^{365 \\times 5} A = \\$20,000 \\times 1.0109589^{1,825} A = \\$20,000 \\times 1.22138937 A = \\$24,428 The total interest in this example is $4,428.",
+    "Using these assumptions, interest compounded daily is $95 more than interest compounded annually.",
+    "This is found by dividing 72 by the interest rate you expect to earn.",
+    "r = \\frac{\\$4,000}{\\$20,000 \\times 5} r = \\frac{\\$4,000}{\\$100,000} r = 4\\% We get the exact interest rate we were expecting."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 5,
+   "lists": 2,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "Principal",
+    "Interest Rate",
+    "Time",
+    "Principal",
+    "Contributions",
+    "Interest Rate",
+    "Time",
+    "Compound Interest",
+    "Interest Type",
+    "Loan Amount",
+    "Monthly Payment",
+    "Loan Term",
+    "Loan Term Units",
+    "View interest as a table",
+    "View interest as a table"
+   ],
+   "selectOptionsSample": "daily monthly quarterly semiannually annually continuous simple interest compound interest months years",
+   "unitToggle": false,
+   "wordsBeforeTool": 29,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joseph Rich",
+    "published": "2022-04-03",
+    "modified": "2023-03-29T14:16:14+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 170,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 53,
+    "external": 13,
+    "contentInternal": 29,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate Interest",
+     "Simple Interest",
+     "Compound Interest",
+     "How to Calculate an Interest Rate",
+     "APY Interest Rate",
+     "APR Interest Rate",
+     "Nominal Interest Rate",
+     "Effective Annual Interest Rate",
+     "Frequently Asked Questions",
+     "Full bio",
+     "Interest Calculator",
+     "simple interest",
+     "compound interest",
+     "daily compound interest calculator",
+     "Rule of 72",
+     "simple interest rate",
+     "annual percentage yield"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/interest-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/interest/",
+     "https://www.inchcalculator.com/interest-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/interest-calculator/#idx_how_to_calculate_interest",
+     "https://www.inchcalculator.com/interest-calculator/#idx_simple_interest",
+     "https://www.inchcalculator.com/interest-calculator/#idx_compound_interest",
+     "https://www.inchcalculator.com/interest-calculator/#idx_how_to_calculate_an_interest_rate",
+     "https://www.inchcalculator.com/interest-calculator/#idx_apy_interest_rate",
+     "https://www.inchcalculator.com/interest-calculator/#idx_apr_interest_rate",
+     "https://www.inchcalculator.com/interest-calculator/#idx_nominal_interest_rate",
+     "https://www.inchcalculator.com/interest-calculator/#idx_effective_annual_interest_rate",
+     "https://www.inchcalculator.com/interest-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/joseph-rich/",
+     "https://www.inchcalculator.com/author/laura-deimling/",
+     "https://www.inchcalculator.com/interest-calculator/",
+     "https://www.inchcalculator.com/simple-interest-calculator/",
+     "https://www.inchcalculator.com/compound-interest-calculator/",
+     "https://www.inchcalculator.com/daily-compound-interest-calculator/",
+     "https://www.inchcalculator.com/rule-of-72-calculator/",
+     "https://www.inchcalculator.com/interest-rate-calculator/",
+     "https://www.inchcalculator.com/apy-calculator/",
+     "https://www.inchcalculator.com/apr-calculator/",
+     "https://www.inchcalculator.com/ear-calculator/",
+     "https://www.inchcalculator.com/atv-loan-calculator/",
+     "https://www.inchcalculator.com/boat-loan-calculator/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Finterest-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Finterest-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Finterest-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Finterest-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Finterest-calculator%2F&text=Interest+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Finterest-calculator%2F&text=Interest+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/finance/simple-interest": {
+   "url": "https://www.omnicalculator.com/finance/simple-interest",
+   "finalUrl": "https://www.omnicalculator.com/finance/simple-interest",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T00:24:47.310Z",
+   "title": "Simple Interest Calculator",
+   "metaDescription": "With our simple interest calculator, you can easily compute the simple interest on the principal amount.",
+   "canonical": "https://www.omnicalculator.com/finance/simple-interest",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Simple Interest Calculator"
+   ],
+   "h2": [
+    "How to use the simple interest calculator",
+    "What is interest?",
+    "Interest rate definition",
+    "Simple and compound interest",
+    "Simple interest definition and simple interest formula",
+    "How to calculate simple interest?",
+    "An example of simple interest in practice",
+    "An alternative — compound interest",
+    "The real-life examples of simple interest loans",
+    "Simple interest rate and perpetuity",
+    "Further interest rate calculations",
+    "Interest rate calculators in everyday life",
+    "Interest rate in business calculations",
+    "FAQs"
+   ],
+   "h3": [
+    "What is the difference between simple and compound interest?",
+    "How do you find the future value of simple interest?",
+    "What is principal in simple interest?",
+    "What is 6% interest on a $30,000 loan?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Simple Interest Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to use the simple interest calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is interest?"
+    },
+    {
+     "level": 2,
+     "text": "Interest rate definition"
+    },
+    {
+     "level": 2,
+     "text": "Simple and compound interest"
+    },
+    {
+     "level": 2,
+     "text": "Simple interest definition and simple interest formula"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate simple interest?"
+    },
+    {
+     "level": 2,
+     "text": "An example of simple interest in practice"
+    },
+    {
+     "level": 2,
+     "text": "An alternative — compound interest"
+    },
+    {
+     "level": 2,
+     "text": "The real-life examples of simple interest loans"
+    },
+    {
+     "level": 2,
+     "text": "Simple interest rate and perpetuity"
+    },
+    {
+     "level": 2,
+     "text": "Further interest rate calculations"
+    },
+    {
+     "level": 2,
+     "text": "Interest rate calculators in everyday life"
+    },
+    {
+     "level": 2,
+     "text": "Interest rate in business calculations"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What is the difference between simple and compound interest?"
+    },
+    {
+     "level": 3,
+     "text": "How do you find the future value of simple interest?"
+    },
+    {
+     "level": 3,
+     "text": "What is principal in simple interest?"
+    },
+    {
+     "level": 3,
+     "text": "What is 6% interest on a $30,000 loan?"
+    }
+   ],
+   "wordCount": 2713,
+   "avgSentenceWords": 18,
+   "faqs": [
+    "What is the difference between simple and compound interest?",
+    "How do you find the future value of simple interest?",
+    "What is principal in simple interest?",
+    "What is 6% interest on a $30,000 loan?",
+    "What is interest?",
+    "How to calculate simple interest?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "interest",
+     "weight": 134
+    },
+    {
+     "term": "simple interest",
+     "weight": 71
+    },
+    {
+     "term": "simple",
+     "weight": 55
+    },
+    {
+     "term": "interest rate",
+     "weight": 44
+    },
+    {
+     "term": "rate",
+     "weight": 37
+    },
+    {
+     "term": "amount",
+     "weight": 31
+    },
+    {
+     "term": "compound interest",
+     "weight": 23
+    },
+    {
+     "term": "calculator",
+     "weight": 21
+    },
+    {
+     "term": "value",
+     "weight": 21
+    },
+    {
+     "term": "loan",
+     "weight": 20
+    },
+    {
+     "term": "principal",
+     "weight": 19
+    },
+    {
+     "term": "have",
+     "weight": 19
+    },
+    {
+     "term": "principal amount",
+     "weight": 18
+    },
+    {
+     "term": "compound",
+     "weight": 15
+    },
+    {
+     "term": "original amount",
+     "weight": 14
+    },
+    {
+     "term": "year",
+     "weight": 13
+    },
+    {
+     "term": "monthly",
+     "weight": 11
+    },
+    {
+     "term": "balance",
+     "weight": 10
+    },
+    {
+     "term": "month",
+     "weight": 10
+    },
+    {
+     "term": "future value",
+     "weight": 9
+    },
+    {
+     "term": "calculations",
+     "weight": 9
+    },
+    {
+     "term": "annual",
+     "weight": 9
+    },
+    {
+     "term": "original",
+     "weight": 9
+    },
+    {
+     "term": "future",
+     "weight": 8
+    },
+    {
+     "term": "compute",
+     "weight": 8
+    },
+    {
+     "term": "payments",
+     "weight": 8
+    },
+    {
+     "term": "initial",
+     "weight": 8
+    },
+    {
+     "term": "financial",
+     "weight": 8
+    },
+    {
+     "term": "calculate",
+     "weight": 8
+    },
+    {
+     "term": "need",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "(Note that you can also treat this $1,000 as the initial value of your loan with simple interest).",
+    "To get a monthly interest, divide this value by the number of months in a year (12).",
+    "An example of simple interest in practice You inherit $1,000,000 and intend to use it to provide a steady income - you don't want to spend it, nor invest it.",
+    "You put it into a bank account with a 5% annual interest rate.",
+    "The real-life examples of simple interest loans Well, not everyone will inherit $1,000,000 (although we sincerely wish you that).",
+    "So: $5,000 + $150 = $5,150 Assume that you have a credit card with a $2,500 limit and a 15% interest rate that is not compounded.",
+    "The interest that will accrue on your credit card this month is: $1,700 × 15% / 12 = $21.25 However, be aware that credit cards usually have compounded interest rate.",
+    "We also need to assume that, the interest rate is 4% and is constant over time.",
+    "To find the future value, F, of simple interest, follow these steps: Write down the simple interest value, r, as a decimal (e.g., 5% is 0.05).",
+    "6% interest on a $30,000 loan is $1,800 per year or $150 per month."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 9,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Tomasz Jedynak",
+    "published": "2015-11-05T12:06:22.784Z",
+    "modified": "2026-09-29T23:54:19.690Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 693,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 30,
+    "external": 1,
+    "contentInternal": 14,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Simple and compound interest",
+     "effective annual rate (EAR)",
+     "effective interest rate calculator",
+     "Simple interest definition and simple interest formula",
+     "rule of 72 calculator",
+     "credit card payoff calculator",
+     "mortgage calculator",
+     "loan balance calculator",
+     "cap rate calculator",
+     "dream come true calculator",
+     "lease calculator",
+     "present value calculator",
+     "NPV calculator",
+     "discounted cash flow calculator (DCF)"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/finance/simple-interest#simple-and-compound-interest",
+     "https://www.omnicalculator.com/finance/ear",
+     "https://www.omnicalculator.com/finance/effective-interest-rate",
+     "https://www.omnicalculator.com/finance/simple-interest#simple-interest-definition-and-simple-interest-formula",
+     "https://www.omnicalculator.com/finance/rule-of-72",
+     "https://www.omnicalculator.com/finance/credit-card-payoff",
+     "https://www.omnicalculator.com/finance/mortgage",
+     "https://www.omnicalculator.com/finance/loan-balance",
+     "https://www.omnicalculator.com/finance/cap-rate",
+     "https://www.omnicalculator.com/finance/dream-come-true",
+     "https://www.omnicalculator.com/finance/lease",
+     "https://www.omnicalculator.com/finance/present-value",
+     "https://www.omnicalculator.com/finance/net-present-value",
+     "https://www.omnicalculator.com/finance/dcf"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/financial/simple-interest-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/financial/simple-interest-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/financial/simple-interest-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-23T00:24:50.377Z",
+   "title": "Simple Interest Calculator I = Prt | Interest Only",
+   "metaDescription": "Calculate interest, principal, rate or time using the simple interest formula I=Prt. Calculator for simple interest on savings or an investment with no interest compounding.",
+   "canonical": "https://www.calculatorsoup.com/calculators/financial/simple-interest-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Simple Interest Calculator I = Prt"
+   ],
+   "h2": [
+    "What is Simple Interest?",
+    "How to Calculate Simple Interest",
+    "Simple Interest for Different Units of Time",
+    "Simple Interest vs. Compound Interest",
+    "Example Calculation: Simple Interest on a CD or Certificate of Deposit",
+    "Simple Interest on Car Loans or Student Loans",
+    "Simple Interest Formulas and Calculations:"
+   ],
+   "h3": [
+    "Time Conversion Factors Used in this Simple Interest Calculator",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Simple Interest Calculator I = Prt"
+    },
+    {
+     "level": 2,
+     "text": "What is Simple Interest?"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Simple Interest"
+    },
+    {
+     "level": 2,
+     "text": "Simple Interest for Different Units of Time"
+    },
+    {
+     "level": 2,
+     "text": "Simple Interest vs. Compound Interest"
+    },
+    {
+     "level": 2,
+     "text": "Example Calculation: Simple Interest on a CD or Certificate of Deposit"
+    },
+    {
+     "level": 2,
+     "text": "Simple Interest on Car Loans or Student Loans"
+    },
+    {
+     "level": 2,
+     "text": "Simple Interest Formulas and Calculations:"
+    },
+    {
+     "level": 3,
+     "text": "Time Conversion Factors Used in this Simple Interest Calculator"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 1385,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "What is Simple Interest?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "interest",
+     "weight": 97
+    },
+    {
+     "term": "simple interest",
+     "weight": 72
+    },
+    {
+     "term": "simple",
+     "weight": 51
+    },
+    {
+     "term": "calculator",
+     "weight": 29
+    },
+    {
+     "term": "rate",
+     "weight": 18
+    },
+    {
+     "term": "interest calculator",
+     "weight": 17
+    },
+    {
+     "term": "principal",
+     "weight": 15
+    },
+    {
+     "term": "loan",
+     "weight": 15
+    },
+    {
+     "term": "interest rate",
+     "weight": 15
+    },
+    {
+     "term": "years",
+     "weight": 15
+    },
+    {
+     "term": "prt",
+     "weight": 14
+    },
+    {
+     "term": "calculate",
+     "weight": 14
+    },
+    {
+     "term": "compound interest",
+     "weight": 12
+    },
+    {
+     "term": "amount",
+     "weight": 11
+    },
+    {
+     "term": "calculate simple",
+     "weight": 11
+    },
+    {
+     "term": "number",
+     "weight": 10
+    },
+    {
+     "term": "calculation",
+     "weight": 9
+    },
+    {
+     "term": "loans",
+     "weight": 9
+    },
+    {
+     "term": "year",
+     "weight": 8
+    },
+    {
+     "term": "compound",
+     "weight": 8
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 8
+    },
+    {
+     "term": "days",
+     "weight": 8
+    },
+    {
+     "term": "balance",
+     "weight": 8
+    },
+    {
+     "term": "interest calculation",
+     "weight": 8
+    },
+    {
+     "term": "calculators",
+     "weight": 7
+    },
+    {
+     "term": "savings",
+     "weight": 7
+    },
+    {
+     "term": "investment",
+     "weight": 7
+    },
+    {
+     "term": "decimal",
+     "weight": 7
+    },
+    {
+     "term": "months",
+     "weight": 7
+    },
+    {
+     "term": "formula",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Note that this simple interest calculator offers two options for days per year -- 360 and 365 -- if you want to calculate interest in terms of days.",
+    "The annual or yearly interest rate is 4.5%, and the investment period 24 months.",
+    "One, remember to convert the interest rate as a percentage R to a decimal r by dividing 4.5 by 100 to get 0.045.",
+    "I = Prt I = 50,000 * 0.045 * 2 I = 4,500 So for a CD of $50,000 at a rate of 4.5% over 2 years, the calculation results in a simple interest amount of $4,500.",
+    "In simple interest calculations that involve months, we divide 365 by 12 to get the average of 30.4167 days per month."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 7,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Calculate:",
+    "Principal (P): $",
+    "Rate (R): % per year",
+    "Time (t):",
+    "time unit",
+    "reset"
+   ],
+   "selectOptionsSample": "interest (i) principal (p) rate (r) time period (t) days, 360/yr days, 365/yr weeks months quarters years",
+   "unitToggle": false,
+   "wordsBeforeTool": 26,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "August 1, 2025",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 57,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 22,
+    "external": 0,
+    "contentInternal": 12,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Financial",
+     "Interest & APR",
+     "Simple Interest Calculator I = Prt",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "simple vs. compound interest",
+     "Simple Interest Plus Principal Calculator",
+     "time conversion factors",
+     "Compound Interest Calculator",
+     "Amortization Calculator",
+     "Simple Interest Calculator I = Prt | Interest Only",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/financial/",
+     "https://www.calculatorsoup.com/calculators/financial/index-interest-apr-calculators.php",
+     "https://www.calculatorsoup.com/calculators/financial/simple-interest-calculator.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=financial%2F&folderName=Financial&folder2=financial%2Findex-interest-apr-calculators.php&folderName2=Interest+%26amp%3B+APR&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/financial/simple-interest-calculator.php&h1=Simple+Interest+Calculator+I+%3D+Prt&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/financial/simple-interest-calculator.php#simpleVsCompound",
+     "https://www.calculatorsoup.com/calculators/financial/simple-interest-plus-principal-calculator.php",
+     "https://www.calculatorsoup.com/calculators/financial/simple-interest-calculator.php#conversionFactors",
+     "https://www.calculatorsoup.com/calculators/financial/compound-interest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/financial/amortization-schedule-calculator.php"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

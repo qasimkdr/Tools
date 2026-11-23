@@ -1,0 +1,242 @@
+{
+ "keywords": {
+  "lead time calculator": {
+   "fetchedAt": "2026-11-23T00:24:09.410Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 2900,
+   "fileKd": 11,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://quickbooks.intuit.com/uk/blog/lead-time-calculator/",
+     "domain": "quickbooks.intuit.com",
+     "title": "Lead time calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://quickbooks.intuit.com/au/tools-and-templates/lead-time-calculator/",
+     "domain": "quickbooks.intuit.com",
+     "title": "lead time calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.zoho.com/inventory/free-lead-time-calculator/",
+     "domain": "www.zoho.com",
+     "title": "free lead time calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.omnicalculator.com/everyday-life/lead-time",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.zoho.com/inventory/academy/order-fulfillment/lead-time-calculator.html",
+     "domain": "www.zoho.com",
+     "title": "Lead time calculator: Compute your total lead time in 60 seconds",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://omnicalculator.com/business/lead-time",
+     "domain": "omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.replicon.com/?p=153125",
+     "domain": "www.replicon.com",
+     "title": "Introduction to Lead Time Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://clickup.com/blog?p=13319",
+     "domain": "clickup.com",
+     "title": "How To Calculate Lead Time?",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://clickup.com/blog/lead-time-formula/",
+     "domain": "clickup.com",
+     "title": "How To Calculate Lead Time?",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://replicon.com/resource/lead-time-calculator",
+     "domain": "replicon.com",
+     "title": "Contact Us Contact Us Replicon Login",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://docs.oracle.com/cd/E26228_01/doc.93/e21777/appx_app_ld_tm_calc.htm",
+     "domain": "docs.oracle.com",
+     "title": "A Lead Time Calculations",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.blackridgeresearch.com/tools/lead-time-calculator",
+     "domain": "www.blackridgeresearch.com",
+     "title": "Lead Time Calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://docs.infor.com/csi/2023.x/en-us/csbiolh/aps_config_cl_sl/hpd1487326905143.html",
+     "domain": "docs.infor.com",
+     "title": "The Lead Time Processor Algorithm",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://projectmanager.com/blog/lead-time-how-to-calculate",
+     "domain": "projectmanager.com",
+     "title": "What Is Lead Time? How to Calculate Lead Time in Manufacturing",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://www.fishbowlinventory.com/blog/how-to-calculate-lead-time",
+     "domain": "www.fishbowlinventory.com",
+     "title": "What is the lead time formula and how do you calculate it?",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://www.blackridgeresearch.com/tools/gpt/lead-time-calculator",
+     "domain": "www.blackridgeresearch.com",
+     "title": "Lead Time Calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://onlinecomponents.com/leadtimecalculator",
+     "domain": "onlinecomponents.com",
+     "title": "onlinecomponents.com",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://www.wrike.com/blog/what-is-lead-time/",
+     "domain": "www.wrike.com",
+     "title": "what is lead time",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "lead-time-calculator",
+ "page": "lead-time-calculator",
+ "category": "time-date",
+ "name": "Lead Time Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T00:24:09.411Z",
+ "topCompetitors": [
+  {
+   "domain": "intuit.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://quickbooks.intuit.com/uk/blog/lead-time-calculator/",
+    "https://quickbooks.intuit.com/au/tools-and-templates/lead-time-calculator/"
+   ]
+  },
+  {
+   "domain": "zoho.com",
+   "bestRank": 3,
+   "keywords": 2,
+   "urls": [
+    "https://www.zoho.com/inventory/free-lead-time-calculator/",
+    "https://www.zoho.com/inventory/academy/order-fulfillment/lead-time-calculator.html"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 4,
+   "keywords": 2,
+   "urls": [
+    "https://www.omnicalculator.com/everyday-life/lead-time",
+    "https://omnicalculator.com/business/lead-time"
+   ]
+  },
+  {
+   "domain": "replicon.com",
+   "bestRank": 7,
+   "keywords": 2,
+   "urls": [
+    "https://www.replicon.com/?p=153125",
+    "https://replicon.com/resource/lead-time-calculator"
+   ]
+  },
+  {
+   "domain": "clickup.com",
+   "bestRank": 8,
+   "keywords": 2,
+   "urls": [
+    "https://clickup.com/blog?p=13319",
+    "https://clickup.com/blog/lead-time-formula/"
+   ]
+  },
+  {
+   "domain": "blackridgeresearch.com",
+   "bestRank": 12,
+   "keywords": 2,
+   "urls": [
+    "https://www.blackridgeresearch.com/tools/lead-time-calculator",
+    "https://www.blackridgeresearch.com/tools/gpt/lead-time-calculator"
+   ]
+  },
+  {
+   "domain": "oracle.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://docs.oracle.com/cd/E26228_01/doc.93/e21777/appx_app_ld_tm_calc.htm"
+   ]
+  },
+  {
+   "domain": "infor.com",
+   "bestRank": 13,
+   "keywords": 1,
+   "urls": [
+    "https://docs.infor.com/csi/2023.x/en-us/csbiolh/aps_config_cl_sl/hpd1487326905143.html"
+   ]
+  },
+  {
+   "domain": "projectmanager.com",
+   "bestRank": 14,
+   "keywords": 1,
+   "urls": [
+    "https://projectmanager.com/blog/lead-time-how-to-calculate"
+   ]
+  },
+  {
+   "domain": "fishbowlinventory.com",
+   "bestRank": 15,
+   "keywords": 1,
+   "urls": [
+    "https://www.fishbowlinventory.com/blog/how-to-calculate-lead-time"
+   ]
+  }
+ ]
+}

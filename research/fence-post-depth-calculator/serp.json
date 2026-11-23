@@ -1,0 +1,225 @@
+{
+ "keywords": {
+  "fence post depth calculator": {
+   "fetchedAt": "2026-11-23T00:24:09.292Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1600,
+   "fileKd": 3,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.angi.com/articles/how-deep-should-a-fence-post-be.htm",
+     "domain": "www.angi.com",
+     "title": "how deep should a fence post be",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://business.google.com/v/hb-fence-decking-construction-llc/05986150539779332000/d427/_/lp/8408995306603102843",
+     "domain": "business.google.com",
+     "title": "business.google.com",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.vevor.com/diy-ideas/?p=86691",
+     "domain": "www.vevor.com",
+     "title": "diy ideas",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.iamcountryside.com/fences-sheds-barns/proper-fence-post-depth-strong-fences/",
+     "domain": "www.iamcountryside.com",
+     "title": "Proper Fence Post Depth to Build Strong Fences",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.lowes.com/n/how-to/lay-out-and-dig-a-post-hole",
+     "domain": "www.lowes.com",
+     "title": "lay out and dig a post hole",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://issuu.com/fencenewsusa/docs/fn_june_2022_webissuu/s/15909021",
+     "domain": "issuu.com",
+     "title": "4 minute read",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.dino.co.uk/how-deep-should-a-fence-post-be/",
+     "domain": "www.dino.co.uk",
+     "title": "Products in Stock",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://bobvila.com/articles/setting-fence-posts",
+     "domain": "bobvila.com",
+     "title": "setting fence posts",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://hgtv.com/outdoors/landscaping-and-hardscaping/how-deep-should-dig-fence-posts",
+     "domain": "hgtv.com",
+     "title": "How Deep Should I Dig Fence Posts?",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://inman.com/2005/07/22/setting-fence-posts-right-way",
+     "domain": "inman.com",
+     "title": "setting fence posts right way",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.thisoldhouse.com/fences/post-installation",
+     "domain": "www.thisoldhouse.com",
+     "title": "post installation",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.vevor.com/iw/diy-ideas/fence-post-depth/",
+     "domain": "www.vevor.com",
+     "title": "fence post depth",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.bobvila.com/articles/how-much-concrete-per-fence-post.md",
+     "domain": "www.bobvila.com",
+     "title": "how much concrete per fence post",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://housedigest.com/1756390/why-frost-line-matters-fence-post",
+     "domain": "housedigest.com",
+     "title": "Why The Frost Line Matters When Setting Your Fence Post",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://www.vevor.com/el/diy-ideas/fence-post-depth/",
+     "domain": "www.vevor.com",
+     "title": "fence post depth",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://www.longfence.com/blog/how-deep-should-i-dig-wood-fence-posts/",
+     "domain": "www.longfence.com",
+     "title": "How Deep Should I Dig Wood Fence Posts?",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "fence-post-depth-calculator",
+ "page": "fence-post-depth-calculator",
+ "category": "construction",
+ "name": "Fence Post Depth Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T00:24:09.292Z",
+ "topCompetitors": [
+  {
+   "domain": "vevor.com",
+   "bestRank": 3,
+   "keywords": 3,
+   "urls": [
+    "https://www.vevor.com/diy-ideas/?p=86691",
+    "https://www.vevor.com/iw/diy-ideas/fence-post-depth/",
+    "https://www.vevor.com/el/diy-ideas/fence-post-depth/"
+   ]
+  },
+  {
+   "domain": "bobvila.com",
+   "bestRank": 8,
+   "keywords": 2,
+   "urls": [
+    "https://bobvila.com/articles/setting-fence-posts",
+    "https://www.bobvila.com/articles/how-much-concrete-per-fence-post.md"
+   ]
+  },
+  {
+   "domain": "angi.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.angi.com/articles/how-deep-should-a-fence-post-be.htm"
+   ]
+  },
+  {
+   "domain": "google.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://business.google.com/v/hb-fence-decking-construction-llc/05986150539779332000/d427/_/lp/8408995306603102843"
+   ]
+  },
+  {
+   "domain": "iamcountryside.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.iamcountryside.com/fences-sheds-barns/proper-fence-post-depth-strong-fences/"
+   ]
+  },
+  {
+   "domain": "lowes.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.lowes.com/n/how-to/lay-out-and-dig-a-post-hole"
+   ]
+  },
+  {
+   "domain": "issuu.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://issuu.com/fencenewsusa/docs/fn_june_2022_webissuu/s/15909021"
+   ]
+  },
+  {
+   "domain": "dino.co.uk",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.dino.co.uk/how-deep-should-a-fence-post-be/"
+   ]
+  },
+  {
+   "domain": "hgtv.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://hgtv.com/outdoors/landscaping-and-hardscaping/how-deep-should-dig-fence-posts"
+   ]
+  },
+  {
+   "domain": "inman.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://inman.com/2005/07/22/setting-fence-posts-right-way"
+   ]
+  }
+ ]
+}

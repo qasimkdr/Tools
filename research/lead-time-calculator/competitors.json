@@ -1,0 +1,272 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/everyday-life/lead-time": {
+   "url": "https://www.omnicalculator.com/everyday-life/lead-time",
+   "finalUrl": "https://www.omnicalculator.com/everyday-life/lead-time",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T00:24:29.179Z",
+   "title": "Lead Time Calculator",
+   "metaDescription": "The lead time calculator helps you calculate the lead time of your order, manufacturing company, or supply chain.",
+   "canonical": "https://www.omnicalculator.com/everyday-life/lead-time",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Lead Time Calculator"
+   ],
+   "h2": [
+    "Lead time definition 🕒",
+    "Manufacturing lead time formula",
+    "Manufacturing lead time calculator",
+    "How to calculate lead time in supply chain management? 📦",
+    "What is lead time in other fields?",
+    "Cycle time vs. lead time"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Lead Time Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Lead time definition 🕒"
+    },
+    {
+     "level": 2,
+     "text": "Manufacturing lead time formula"
+    },
+    {
+     "level": 2,
+     "text": "Manufacturing lead time calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate lead time in supply chain management? 📦"
+    },
+    {
+     "level": 2,
+     "text": "What is lead time in other fields?"
+    },
+    {
+     "level": 2,
+     "text": "Cycle time vs. lead time"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1144,
+   "avgSentenceWords": 19,
+   "faqs": [
+    "What is lead time in other fields?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "lead",
+     "weight": 50
+    },
+    {
+     "term": "calculator",
+     "weight": 16
+    },
+    {
+     "term": "order",
+     "weight": 16
+    },
+    {
+     "term": "processing",
+     "weight": 15
+    },
+    {
+     "term": "supply",
+     "weight": 9
+    },
+    {
+     "term": "delivery",
+     "weight": 9
+    },
+    {
+     "term": "manufacturing",
+     "weight": 9
+    },
+    {
+     "term": "management",
+     "weight": 8
+    },
+    {
+     "term": "supply chain",
+     "weight": 8
+    },
+    {
+     "term": "chain management",
+     "weight": 8
+    },
+    {
+     "term": "manufacturing lead",
+     "weight": 8
+    },
+    {
+     "term": "calculate",
+     "weight": 7
+    },
+    {
+     "term": "cycle",
+     "weight": 7
+    },
+    {
+     "term": "takes",
+     "weight": 7
+    },
+    {
+     "term": "day",
+     "weight": 7
+    },
+    {
+     "term": "delay",
+     "weight": 7
+    },
+    {
+     "term": "calculate lead",
+     "weight": 6
+    },
+    {
+     "term": "know",
+     "weight": 6
+    },
+    {
+     "term": "pre processing",
+     "weight": 6
+    },
+    {
+     "term": "post processing",
+     "weight": 6
+    },
+    {
+     "term": "pre",
+     "weight": 5
+    },
+    {
+     "term": "production",
+     "weight": 5
+    },
+    {
+     "term": "post",
+     "weight": 5
+    },
+    {
+     "term": "check",
+     "weight": 5
+    },
+    {
+     "term": "between",
+     "weight": 5
+    },
+    {
+     "term": "chain",
+     "weight": 5
+    },
+    {
+     "term": "project",
+     "weight": 5
+    },
+    {
+     "term": "sales order",
+     "weight": 5
+    },
+    {
+     "term": "order lead",
+     "weight": 5
+    },
+    {
+     "term": "supply delay",
+     "weight": 5
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 9,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Julia Żuławińska",
+    "published": "2019-07-31T12:35:51.640Z",
+    "modified": "2026-08-29T14:20:54.750Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 498,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 25,
+    "external": 1,
+    "contentInternal": 9,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "deadline calculator",
+     "time card calculator",
+     "reorder point",
+     "date calculator",
+     "slack time calculator",
+     "PERT calculator",
+     "takt time calculator",
+     "cycle time calculator",
+     "Audiobook Speed Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/everyday-life/deadline",
+     "https://www.omnicalculator.com/everyday-life/time-card",
+     "https://www.omnicalculator.com/other/reorder-point",
+     "https://www.omnicalculator.com/everyday-life/date",
+     "https://www.omnicalculator.com/everyday-life/slack-time",
+     "https://www.omnicalculator.com/other/pert",
+     "https://www.omnicalculator.com/other/takt-time",
+     "https://www.omnicalculator.com/everyday-life/cycle-time",
+     "https://www.omnicalculator.com/everyday-life/audiobook-speed"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

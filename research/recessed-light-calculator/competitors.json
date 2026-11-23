@@ -1,0 +1,292 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/construction/recessed-lighting": {
+   "url": "https://www.omnicalculator.com/construction/recessed-lighting",
+   "finalUrl": "https://www.omnicalculator.com/everyday-life/recessed-lighting",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T00:24:34.356Z",
+   "title": "Free Recessed Lighting Calculator (Spacing & Placement)",
+   "metaDescription": "Use this recessed lighting calculator when planning a lighting layout on a rectangular ceiling to determine the correct distances of recessed lighting fixtures for optimal room lighting.",
+   "canonical": "https://www.omnicalculator.com/everyday-life/recessed-lighting",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Recessed Lighting Calculator"
+   ],
+   "h2": [
+    "What is a recessed lighting?",
+    "How to use this recessed lighting calculator",
+    "How to calculate recessed lighting spacing and placement",
+    "FAQs"
+   ],
+   "h3": [
+    "How far apart should recessed lights be?",
+    "How do I layout recessed lighting fixtures?",
+    "What is the optimal spacing of recessed lightings?",
+    "How do I calculate recessed lighting spacing?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Recessed Lighting Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is a recessed lighting?"
+    },
+    {
+     "level": 2,
+     "text": "How to use this recessed lighting calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate recessed lighting spacing and placement"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How far apart should recessed lights be?"
+    },
+    {
+     "level": 3,
+     "text": "How do I layout recessed lighting fixtures?"
+    },
+    {
+     "level": 3,
+     "text": "What is the optimal spacing of recessed lightings?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate recessed lighting spacing?"
+    }
+   ],
+   "wordCount": 1454,
+   "avgSentenceWords": 26,
+   "faqs": [
+    "How far apart should recessed lights be?",
+    "How do I layout recessed lighting fixtures?",
+    "What is the optimal spacing of recessed lightings?",
+    "How do I calculate recessed lighting spacing?",
+    "What is a recessed lighting?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "lighting",
+     "weight": 61
+    },
+    {
+     "term": "recessed lighting",
+     "weight": 60
+    },
+    {
+     "term": "recessed",
+     "weight": 50
+    },
+    {
+     "term": "lighting fixtures",
+     "weight": 30
+    },
+    {
+     "term": "ceiling",
+     "weight": 28
+    },
+    {
+     "term": "fixtures",
+     "weight": 24
+    },
+    {
+     "term": "calculator",
+     "weight": 18
+    },
+    {
+     "term": "spacing",
+     "weight": 17
+    },
+    {
+     "term": "offset",
+     "weight": 12
+    },
+    {
+     "term": "want",
+     "weight": 12
+    },
+    {
+     "term": "room",
+     "weight": 12
+    },
+    {
+     "term": "lighting calculator",
+     "weight": 11
+    },
+    {
+     "term": "calculate",
+     "weight": 10
+    },
+    {
+     "term": "have",
+     "weight": 9
+    },
+    {
+     "term": "width",
+     "weight": 8
+    },
+    {
+     "term": "outer",
+     "weight": 8
+    },
+    {
+     "term": "layout",
+     "weight": 8
+    },
+    {
+     "term": "lighting along",
+     "weight": 8
+    },
+    {
+     "term": "centered lighting's",
+     "weight": 8
+    },
+    {
+     "term": "length",
+     "weight": 7
+    },
+    {
+     "term": "divide",
+     "weight": 7
+    },
+    {
+     "term": "centered",
+     "weight": 7
+    },
+    {
+     "term": "meters",
+     "weight": 7
+    },
+    {
+     "term": "columns",
+     "weight": 6
+    },
+    {
+     "term": "rows",
+     "weight": 6
+    },
+    {
+     "term": "outer row",
+     "weight": 6
+    },
+    {
+     "term": "row",
+     "weight": 6
+    },
+    {
+     "term": "row offset",
+     "weight": 6
+    },
+    {
+     "term": "column",
+     "weight": 6
+    },
+    {
+     "term": "lighting fixture",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Let's say we want 2 columns of recessed lighting along the width of the room and 3 rows of recessed lighting along the length of the room, for a total of six lighting fixtures.",
+    "Likewise, if there are two or more centered lighting along the horizontal, we can calculate their spacing as follows: 𝑥 i = 𝐵 2 xi​=2B​ where: 𝑥 i xi​ — Centered lighting's spacing.",
+    "To layout recessed light fixtures, say with four recessed lighting fixtures on a square ceiling, 3 meters wide: First, divide the ceiling into how many recessed lighting fixtures you want to install.",
+    "Since we want four recessed lightings, we need to divide the ceiling into four equal squares on a 2-by-2 layout.",
+    "Finally, we place the recessed lighting fixtures at the center of each square, where their locations would be 1.5 meters / 2 = 0.75 meters away from the walls.",
+    "Installing 2 recessed lightings requires us to split the ceiling in half so that each fixture will illuminate the corresponding floor areas beneath them almost equally.",
+    "To calculate recessed lighting spacing, we need to: Determine the dimensions of the ceiling; say its length is 5 meters and width is 3 meters."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 9,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Kenneth Alambra",
+    "published": "2023-03-06T02:43:37.462Z",
+    "modified": "2026-08-29T11:21:46.249Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 658,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 23,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "blind size calculator",
+     "lumen calculator",
+     "bathroom mirror size calculator",
+     "picture frame calculator",
+     "lighting calculator",
+     "LED savings calculator",
+     "classroom spacing calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/everyday-life/blind-size",
+     "https://www.omnicalculator.com/physics/lumen",
+     "https://www.omnicalculator.com/everyday-life/bathroom-mirror-size",
+     "https://www.omnicalculator.com/everyday-life/picture-frame",
+     "https://www.omnicalculator.com/everyday-life/lighting",
+     "https://www.omnicalculator.com/everyday-life/led-savings",
+     "https://www.omnicalculator.com/other/classroom-spacing"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.inchcalculator.com/recessed-lighting-calculator/": [
+   "HTTP 404"
+  ]
+ }
+}
