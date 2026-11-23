@@ -1,0 +1,1002 @@
+{
+ "pages": {
+  "https://www.calculator.net/tire-size-calculator.html": {
+   "url": "https://www.calculator.net/tire-size-calculator.html",
+   "finalUrl": "https://www.calculator.net/tire-size-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-23T06:45:43.639Z",
+   "title": "Tire Size Calculator",
+   "metaDescription": "Free calculator to find the dimensions of a tire based on its code. It also helps in choosing alternative tire sizes based on rim size or comparing two tires.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Tire Size Calculator"
+   ],
+   "h2": [
+    "Tire Size Comparison Calculator"
+   ],
+   "h3": [
+    "Tire code",
+    "How is tire size calculated?",
+    "What to consider when changing tire/wheel size?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Tire Size Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tire Size Comparison Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Tire code"
+    },
+    {
+     "level": 3,
+     "text": "How is tire size calculated?"
+    },
+    {
+     "level": 3,
+     "text": "What to consider when changing tire/wheel size?"
+    }
+   ],
+   "wordCount": 1740,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "How is tire size calculated?",
+    "What to consider when changing tire/wheel size?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "tire",
+     "weight": 74
+    },
+    {
+     "term": "tires",
+     "weight": 34
+    },
+    {
+     "term": "code",
+     "weight": 25
+    },
+    {
+     "term": "wheel",
+     "weight": 17
+    },
+    {
+     "term": "size",
+     "weight": 16
+    },
+    {
+     "term": "section",
+     "weight": 15
+    },
+    {
+     "term": "section height",
+     "weight": 15
+    },
+    {
+     "term": "tire code",
+     "weight": 12
+    },
+    {
+     "term": "width",
+     "weight": 12
+    },
+    {
+     "term": "internal construction",
+     "weight": 12
+    },
+    {
+     "term": "diameter",
+     "weight": 12
+    },
+    {
+     "term": "height",
+     "weight": 11
+    },
+    {
+     "term": "tire size",
+     "weight": 11
+    },
+    {
+     "term": "digit number",
+     "weight": 11
+    },
+    {
+     "term": "car",
+     "weight": 10
+    },
+    {
+     "term": "construction",
+     "weight": 10
+    },
+    {
+     "term": "part",
+     "weight": 9
+    },
+    {
+     "term": "number",
+     "weight": 9
+    },
+    {
+     "term": "load index",
+     "weight": 9
+    },
+    {
+     "term": "wheel diameter",
+     "weight": 9
+    },
+    {
+     "term": "digit",
+     "weight": 8
+    },
+    {
+     "term": "indicates",
+     "weight": 8
+    },
+    {
+     "term": "internal",
+     "weight": 8
+    },
+    {
+     "term": "speed",
+     "weight": 8
+    },
+    {
+     "term": "section width",
+     "weight": 8
+    },
+    {
+     "term": "aspect ratio",
+     "weight": 8
+    },
+    {
+     "term": "load",
+     "weight": 7
+    },
+    {
+     "term": "calculator",
+     "weight": 6
+    },
+    {
+     "term": "wheel size",
+     "weight": 6
+    },
+    {
+     "term": "change",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Tire 1: / R Tire 2: / R Tire code Car tires are described by an alphanumeric code, as shown in the figure below.",
+    "Intended use: The first part of the code is made up of 1 or 2 letters (P, LT, ST, T) that describe the type of vehicle that the tire is intended to be used with.",
+    "Nominal section width: The second part of the code is a 3-digit number that describes the nominal section width of the tire in millimeters (mm).",
+    "In the figure above, the 215 means that the nominal section width of the tire is 215 mm.",
+    "It is a 2- or 3-digit number that indicates the ratio of the tire's section height to its width.",
+    "A tire with the code xxx/65 indicates that the section height of the tire is 65% of its width.",
+    "For example, for a tire with code 200/65, the section height is 200 × 65% = 130 mm.",
+    "Cross-ply tires are tires whose internal construction is made of nylon cord placed diagonally across each other, usually at an angle of 55°.",
+    "Diameter of the wheel: The next part of the code is a 1- or 2-digit number that indicates the diameter of the wheel, in units of inches, that the tire is designed to fit.",
+    "Load index: The next part of the code is a 2- or 3-digit number referred to as the load index of the tire."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 5,
+   "lists": 2,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "ctw",
+    "car",
+    "cws",
+    "Yes",
+    "No",
+    "cnws",
+    "ctw1",
+    "car1",
+    "cws1",
+    "ctw2",
+    "car2",
+    "cws2"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 46,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 18,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 24,
+    "external": 0,
+    "contentInternal": 24,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "other",
+     "tire size calculator",
+     "Other Calculators",
+     "Age",
+     "Date",
+     "Time",
+     "Hours",
+     "GPA",
+     "Grade",
+     "Height",
+     "Concrete",
+     "IP Subnet",
+     "Bra Size",
+     "Password Generator",
+     "Dice Roller",
+     "Conversion",
+     "More Other Calculators",
+     "Financial"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/tire-size-calculator.html",
+     "https://www.calculator.net/age-calculator.html",
+     "https://www.calculator.net/date-calculator.html",
+     "https://www.calculator.net/time-calculator.html",
+     "https://www.calculator.net/hours-calculator.html",
+     "https://www.calculator.net/gpa-calculator.html",
+     "https://www.calculator.net/grade-calculator.html",
+     "https://www.calculator.net/height-calculator.html",
+     "https://www.calculator.net/concrete-calculator.html",
+     "https://www.calculator.net/ip-subnet-calculator.html",
+     "https://www.calculator.net/bra-size-calculator.html",
+     "https://www.calculator.net/password-generator.html",
+     "https://www.calculator.net/dice-roller.html",
+     "https://www.calculator.net/conversion-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/tire-size-calculator/": {
+   "url": "https://www.inchcalculator.com/tire-size-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/tire-size-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-23T06:45:46.732Z",
+   "title": "Tire Size Calculator - Inch Calculator",
+   "metaDescription": "Use our tire size calculator to find the dimensions and specs for a p-metric, metric, LT, or flotation tire. Or compare multiple tire sizes.",
+   "canonical": "https://www.inchcalculator.com/tire-size-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Tire Size Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Tire Dimensions and Specs",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate Tire Size",
+    "How to Read Tire Size",
+    "Tire Size Chart",
+    "Flotation Tires",
+    "Similar Automotive Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Speedometer Error",
+    "Speedometer Error",
+    "How to Calculate Sidewall Height",
+    "How to Calculate Tire Height (Diameter)",
+    "How to Calculate Tire Circumference",
+    "How to Calculate Revolutions Per Mile",
+    "Where to Find the Tire Size",
+    "What Do the Tire Size Numbers Mean?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Tire Size Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Tire Dimensions and Specs"
+    },
+    {
+     "level": 3,
+     "text": "Speedometer Error"
+    },
+    {
+     "level": 3,
+     "text": "Speedometer Error"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Tire Size"
+    },
+    {
+     "level": 3,
+     "text": "How to Calculate Sidewall Height"
+    },
+    {
+     "level": 3,
+     "text": "How to Calculate Tire Height (Diameter)"
+    },
+    {
+     "level": 3,
+     "text": "How to Calculate Tire Circumference"
+    },
+    {
+     "level": 3,
+     "text": "How to Calculate Revolutions Per Mile"
+    },
+    {
+     "level": 2,
+     "text": "How to Read Tire Size"
+    },
+    {
+     "level": 3,
+     "text": "Where to Find the Tire Size"
+    },
+    {
+     "level": 3,
+     "text": "What Do the Tire Size Numbers Mean?"
+    },
+    {
+     "level": 2,
+     "text": "Tire Size Chart"
+    },
+    {
+     "level": 2,
+     "text": "Flotation Tires"
+    },
+    {
+     "level": 2,
+     "text": "Similar Automotive Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 2255,
+   "avgSentenceWords": 30,
+   "faqs": [
+    "What Do the Tire Size Numbers Mean?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "tire",
+     "weight": 111
+    },
+    {
+     "term": "tire size",
+     "weight": 57
+    },
+    {
+     "term": "size",
+     "weight": 47
+    },
+    {
+     "term": "diameter",
+     "weight": 33
+    },
+    {
+     "term": "height",
+     "weight": 25
+    },
+    {
+     "term": "sidewall",
+     "weight": 24
+    },
+    {
+     "term": "section width",
+     "weight": 23
+    },
+    {
+     "term": "width",
+     "weight": 21
+    },
+    {
+     "term": "tires",
+     "weight": 21
+    },
+    {
+     "term": "aspect ratio",
+     "weight": 20
+    },
+    {
+     "term": "vehicle",
+     "weight": 18
+    },
+    {
+     "term": "calculate",
+     "weight": 17
+    },
+    {
+     "term": "circumference",
+     "weight": 17
+    },
+    {
+     "term": "find",
+     "weight": 17
+    },
+    {
+     "term": "sidewall height",
+     "weight": 17
+    },
+    {
+     "term": "section",
+     "weight": 16
+    },
+    {
+     "term": "calculator",
+     "weight": 15
+    },
+    {
+     "term": "mile",
+     "weight": 15
+    },
+    {
+     "term": "rim diameter",
+     "weight": 15
+    },
+    {
+     "term": "tire height",
+     "weight": 15
+    },
+    {
+     "term": "ratio",
+     "weight": 14
+    },
+    {
+     "term": "calculate tire",
+     "weight": 14
+    },
+    {
+     "term": "aspect",
+     "weight": 13
+    },
+    {
+     "term": "inches",
+     "weight": 13
+    },
+    {
+     "term": "rim",
+     "weight": 12
+    },
+    {
+     "term": "height diameter",
+     "weight": 12
+    },
+    {
+     "term": "flotation",
+     "weight": 11
+    },
+    {
+     "term": "revolutions",
+     "weight": 9
+    },
+    {
+     "term": "flotation tire",
+     "weight": 9
+    },
+    {
+     "term": "tire circumference",
+     "weight": 9
+    }
+   ],
+   "claims": [
+    "225/65R17 or 28.5x9R17 Tire One Section Width / Aspect Ratio R Rim Diameter e.g.",
+    "225/65R17 or 28.5x9R17 Tire Two Section Width / Aspect Ratio R Rim Diameter e.g.",
+    "225/65R17 or 28.5x9R17 Metric Tire Size Section Width / Aspect Ratio R Rim Diameter e.g.",
+    "225/65R17 LT/Flotation Tire Size Section Width x Aspect Ratio R Rim Diameter e.g.",
+    "Tire Size Chart Flotation Tires References By Joe Sexton Joe is the creator of Inch Calculator and has over 20 years of experience in engineering and construction.",
+    "The formula to find the height of the sidewall is: sidewall = section width × aspect ratio / 100 To find the sidewall height, simply enter the tire’s section width and aspect ratio into the formula and solve.",
+    "For example, let’s find the sidewall height of a 245/40R18 tire.",
+    "sidewall = 245mm × 40 / 100 sidewall = 245mm × .4 sidewall = 98mm How to Calculate Tire Height (Diameter) You can find the tire height/diameter using the sidewall height dimension from the previous step.",
+    "The formula to calculate tire height/diameter is: diameter = (2 × sidewall) + rim diameter Thus, the tire height/diameter is equal to the sidewall height times two, added to the rim diameter.",
+    "For example, let’s find the tire height/diameter of the same 245/40R18 tire."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 8,
+   "lists": 3,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "Section Width",
+    "Aspect Ratio",
+    "Rim Diameter",
+    "Section Width",
+    "Aspect Ratio",
+    "Rim Diameter",
+    "Section Width",
+    "Aspect Ratio",
+    "Rim Diameter",
+    "Section Width",
+    "Aspect Ratio",
+    "Rim Diameter",
+    "Section Width",
+    "Aspect Ratio",
+    "Rim Diameter",
+    "View results in imperial or metric",
+    "View results in imperial or metric"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": true,
+   "wordsBeforeTool": 64,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2019-06-24",
+    "modified": "2025-10-21T14:48:03+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 164,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 50,
+    "external": 16,
+    "contentInternal": 26,
+    "contentExternal": 10,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Tire Size Calculator",
+     "How to Calculate Tire Size",
+     "How to Calculate Sidewall Height",
+     "How to Calculate Tire Height (Diameter)",
+     "How to Calculate Tire Circumference",
+     "How to Calculate Revolutions Per Mile",
+     "How to Read Tire Size",
+     "Where to Find the Tire Size",
+     "What Do the Tire Size Numbers Mean?",
+     "Tire Size Chart",
+     "Flotation Tires",
+     "References",
+     "Full bio",
+     "conversion calculator",
+     "calculate speedometer error",
+     "wheel offset calculator",
+     "aspect ratio for a TV",
+     "speed"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/tire-size-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/tire-size/",
+     "https://www.inchcalculator.com/tire-size-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/tire-size-calculator/#idx_how_to_calculate_tire_size",
+     "https://www.inchcalculator.com/tire-size-calculator/#idx_how_to_calculate_sidewall_height",
+     "https://www.inchcalculator.com/tire-size-calculator/#idx_how_to_calculate_tire_height_diameter",
+     "https://www.inchcalculator.com/tire-size-calculator/#idx_how_to_calculate_tire_circumference",
+     "https://www.inchcalculator.com/tire-size-calculator/#idx_how_to_calculate_revolutions_per_mile",
+     "https://www.inchcalculator.com/tire-size-calculator/#idx_how_to_read_tire_size",
+     "https://www.inchcalculator.com/tire-size-calculator/#idx_where_to_find_the_tire_size",
+     "https://www.inchcalculator.com/tire-size-calculator/#idx_what_do_the_tire_size_numbers_mean",
+     "https://www.inchcalculator.com/tire-size-calculator/#idx_tire_size_chart",
+     "https://www.inchcalculator.com/tire-size-calculator/#idx_flotation_tires",
+     "https://www.inchcalculator.com/tire-size-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/stephen-fogel/",
+     "https://www.inchcalculator.com/tire-size-calculator/",
+     "https://www.inchcalculator.com/convert/millimeter-to-inch/",
+     "https://www.inchcalculator.com/speedometer-error-calculator/",
+     "https://www.inchcalculator.com/wheel-offset-calculator/",
+     "https://www.inchcalculator.com/aspect-ratio-calculator/",
+     "https://www.inchcalculator.com/speed-calculator/",
+     "https://www.inchcalculator.com/tire-comparison-calculator/",
+     "https://www.inchcalculator.com/tire-size-conversion-calculator/",
+     "https://www.inchcalculator.com/speedometer-gear-calculator/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Ftire-size-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Ftire-size-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Ftire-size-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Ftire-size-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Ftire-size-calculator%2F&text=Tire+Size+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Ftire-size-calculator%2F&text=Tire+Size+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://www.tirerack.com/upgrade-garage/what-is-load-index",
+     "https://www.bfgoodrichtires.com/auto/learn/tires-101/tire-speed-rating-and-tread-life",
+     "https://ok4wd.com/blog/?p=what-are-flotation-tires"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/everyday-life/tire-size": {
+   "url": "https://www.omnicalculator.com/everyday-life/tire-size",
+   "finalUrl": "https://www.omnicalculator.com/everyday-life/tire-size",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T06:45:49.844Z",
+   "title": "Tire Size Calculator",
+   "metaDescription": "This tire size calculator finds the tire diameter, sidewall height, and circumference, using the tire code on the tire. It includes a tire comparison feature and tire size speedometer calculator.",
+   "canonical": "https://www.omnicalculator.com/everyday-life/tire-size",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Tire Size Calculator"
+   ],
+   "h2": [
+    "How do tire sizes work?",
+    "How to calculate tire size?",
+    "How to use the tire size calculator",
+    "Example of tire size comparison",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I read the tire size?",
+    "How long do tires last?",
+    "How do I change a tire?",
+    "What does the number 2023 mean on my tire?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Tire Size Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How do tire sizes work?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate tire size?"
+    },
+    {
+     "level": 2,
+     "text": "How to use the tire size calculator"
+    },
+    {
+     "level": 2,
+     "text": "Example of tire size comparison"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I read the tire size?"
+    },
+    {
+     "level": 3,
+     "text": "How long do tires last?"
+    },
+    {
+     "level": 3,
+     "text": "How do I change a tire?"
+    },
+    {
+     "level": 3,
+     "text": "What does the number 2023 mean on my tire?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1677,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "How do I read the tire size?",
+    "How long do tires last?",
+    "How do I change a tire?",
+    "What does the number 2023 mean on my tire?",
+    "How do tire sizes work?",
+    "How to calculate tire size?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "tire",
+     "weight": 84
+    },
+    {
+     "term": "tire size",
+     "weight": 27
+    },
+    {
+     "term": "diameter",
+     "weight": 23
+    },
+    {
+     "term": "size",
+     "weight": 22
+    },
+    {
+     "term": "calculator",
+     "weight": 18
+    },
+    {
+     "term": "sidewall height",
+     "weight": 17
+    },
+    {
+     "term": "tire code",
+     "weight": 17
+    },
+    {
+     "term": "tire diameter",
+     "weight": 15
+    },
+    {
+     "term": "sidewall",
+     "weight": 14
+    },
+    {
+     "term": "height",
+     "weight": 13
+    },
+    {
+     "term": "code",
+     "weight": 13
+    },
+    {
+     "term": "size calculator",
+     "weight": 12
+    },
+    {
+     "term": "width",
+     "weight": 12
+    },
+    {
+     "term": "speed",
+     "weight": 11
+    },
+    {
+     "term": "see",
+     "weight": 11
+    },
+    {
+     "term": "inches",
+     "weight": 11
+    },
+    {
+     "term": "ratio",
+     "weight": 10
+    },
+    {
+     "term": "wheel",
+     "weight": 10
+    },
+    {
+     "term": "number",
+     "weight": 10
+    },
+    {
+     "term": "tires",
+     "weight": 9
+    },
+    {
+     "term": "profile ratio",
+     "weight": 9
+    },
+    {
+     "term": "car",
+     "weight": 9
+    },
+    {
+     "term": "circumference",
+     "weight": 8
+    },
+    {
+     "term": "change",
+     "weight": 8
+    },
+    {
+     "term": "percentage change",
+     "weight": 8
+    },
+    {
+     "term": "actual speed",
+     "weight": 8
+    },
+    {
+     "term": "profile",
+     "weight": 7
+    },
+    {
+     "term": "tire's",
+     "weight": 7
+    },
+    {
+     "term": "percentage",
+     "weight": 7
+    },
+    {
+     "term": "vehicle",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Next is a forward-slash for character separation, then there's a 2- or 3-digit number representing the profile of the tire.",
+    "If the number is more than 200, then it represents the tire's diameter in millimeters.",
+    "Radial (R) is now the most common and the standard design for car tires today, with over a 98% market share.",
+    "To calculate the sidewall height, we multiply the profile ratio by the tire width (dividing by 100 as the ratio is a percentage).",
+    "Note that if you are looking to put this second tire on your vehicle, the difference in tire diameter should be no more than 2.5% smaller or larger.",
+    "Example of tire size comparison Let's take a more in-depth look at the tire comparison feature by comparing two tires with the tire codes 195/65R15 and 195/85R15.",
+    "The diameter calculated for the first tire is 25 inches, and the second one is just over 28 inches in diameter.",
+    "The tire code usually looks something like this: P215/60R16.",
+    "\"P\" stands for passenger tire; \"215\" is the tire width in millimeters; \"60\" is the aspect ratio, the height compared to the width; \"R\" means it's a radial tire; and \"16\" is the rim diameter in inches.",
+    "So, in this example, it's a passenger tire that's 215 millimeters wide with a height of 60% of the width, meant for a 16-inch rim."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 17,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Steven Wooding",
+    "published": "2020-02-12T12:22:03.590Z",
+    "modified": "2026-08-22T14:35:04.820Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 658,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 20,
+    "external": 1,
+    "contentInternal": 4,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "wheel offset calculator",
+     "fuel cost calculator",
+     "speedometer gear calculator",
+     "Audiobook Speed Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/everyday-life/wheel-offset",
+     "https://www.omnicalculator.com/everyday-life/fuel-cost",
+     "https://www.omnicalculator.com/everyday-life/speedometer-gear",
+     "https://www.omnicalculator.com/everyday-life/audiobook-speed"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.goodcalculators.com/tire-size-calculator/": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

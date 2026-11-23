@@ -51,3 +51,21 @@ function plan(kcal: number, protein: number, carbs: number, fat: number): MacroP
 
 export const lbToKg = (lb: number) => lb * 0.45359237;
 export const inToCm = (inch: number) => inch * 2.54;
+
+/** Revised Harris–Benedict (Roza & Shizgal, Am J Clin Nutr 1984;40:168–82). */
+export function harrisBenedict(sex: Sex, kg: number, cm: number, age: number): number {
+  return sex === "male" ? 88.362 + 13.397 * kg + 4.799 * cm - 5.677 * age : 447.593 + 9.247 * kg + 3.098 * cm - 4.33 * age;
+}
+/** Katch–McArdle (McArdle, Katch & Katch, Exercise Physiology): 370 + 21.6 × lean body mass (kg). */
+export function katchMcArdle(kg: number, bodyFatPct: number): number {
+  return 370 + 21.6 * kg * (1 - bodyFatPct / 100);
+}
+
+/** Daily protein targets in g per kg of body weight, with the source of each range. */
+export const PROTEIN_TARGETS = [
+  { id: "rda", label: "Healthy adult, little exercise", lo: 0.8, hi: 0.8, src: "RDA (National Academies)" },
+  { id: "older", label: "Age 65 or older", lo: 1.0, hi: 1.2, src: "PROT-AGE study group (2013)" },
+  { id: "active", label: "Exercise regularly", lo: 1.4, hi: 2.0, src: "ISSN position stand (2017)" },
+  { id: "cut", label: "Lean, lifting weights and cutting calories", lo: 2.3, hi: 3.1, src: "ISSN position stand (2017)" },
+  { id: "preg", label: "Pregnant or breastfeeding", lo: 1.1, hi: 1.3, src: "US Dietary Reference Intakes" },
+] as const;

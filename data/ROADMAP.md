@@ -139,7 +139,7 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 14 on policy hold).
 | 133 | 14 | todo | Basis Point Calculator | `basis-point-calculator` | finance | bps calculator | 1900 | 11 | 3800 | 2 |
 | 134 | 14 | todo | Voo Calculator | `voo-calculator` | finance | voo calculator | 1900 | 14 | 1900 | 1 |
 | 135 | 14 | todo | Rounding Calculator | `rounding-calculator` | math | rounding calculator | 12100 | 29 | 37200 | 1 |
-| 136 | 14 | todo | Tire Size Calculator | `tire-size-calculator` | science | tacoma tire calculator | 1600 | 17 | 15000 | 1 |
+| 136 | 14 | live | Tire Size Calculator | `tire-size-calculator` | science | tacoma tire calculator | 1600 | 17 | 15000 | 1 |
 | 137 | 14 | todo | Anniversary Calculator | `anniversary-calculator` | time-date | anniversary calculator | 1300 | 6 | 1300 | 1 |
 | 138 | 14 | todo | Gc Calculator | `gc-calculator` | everyday | gc calculator | 1300 | 6 | 1300 | 1 |
 | 139 | 14 | todo | Llc Tax Calculator | `llc-tax-calculator` | finance | llc tax calculator | 1000 | 12 | 1000 | 1 |
@@ -151,7 +151,7 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 14 on policy hold).
 | 145 | 15 | todo | Sq Ft To Linear Ft Calculator | `sq-ft-to-linear-ft-calculator` | construction | sq ft to linear ft calculator | 1600 | 10 | 1600 | 1 |
 | 146 | 15 | todo | Roofing Calculator | `roofing-calculator` | construction | roof calculator | 4400 | 22 | 43400 | 1 |
 | 147 | 15 | todo | New Jersey Tax Calculator | `new-jersey-tax-calculator` | finance | new jersey tax calculator | 1300 | 13 | 2300 | 2 |
-| 148 | 15 | todo | Average Calculator | `average-calculator` | math | averages calculator | 1300 | 18 | 39700 | 1 |
+| 148 | 15 | live | Average Calculator | `average-calculator` | math | averages calculator | 1300 | 18 | 39700 | 1 |
 | 149 | 15 | todo | Puppy Weight Estimator | `puppy-weight-estimator` | health | puppy weight estimator | 1300 | 11 | 1300 | 1 |
 | 150 | 15 | todo | Horsepower Calculator | `horsepower-calculator` | science | horsepower calculator | 1900 | 17 | 1900 | 1 |
 | 151 | 16 | todo | Ski Din Calculator | `ski-din-calculator` | health | ski din calculator | 1300 | 8 | 1300 | 1 |
@@ -291,7 +291,7 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 14 on policy hold).
 | 285 | 29 | todo | Time Calculator | `time-calculator` | time-date | add time calculator | 8100 | 43 | 56100 | 1 |
 | 286 | 29 | todo | Big Number Calculator | `big-number-calculator` | math | big number calculator | 4400 | 36 | 8600 | 1 |
 | 287 | 29 | todo | Mm To Inches Conversion Calculator | `mm-to-inches-conversion-calculator` | conversion | mm to inches calculator | 9900 | 38 | 9900 | 1 |
-| 288 | 29 | todo | Tip Calculator | `tip-calculator` | finance | geekzilla.io tip calculator | 4400 | 39 | 51300 | 1 |
+| 288 | 29 | live | Tip Calculator | `tip-calculator` | finance | geekzilla.io tip calculator | 4400 | 39 | 51300 | 1 |
 | 289 | 29 | todo | Scientific Calculator | `scientific-calculator` | math | physics calculator | 1900 | 31 | 25100 | 1 |
 | 290 | 29 | todo | Trigonometry Calculator | `trigonometry-calculator` | math | calculator trigonometri | 18100 | 46 | 18100 | 1 |
 | 291 | 30 | todo | Love Calculator | `love-calculator` | everyday | love calculator paper | 1900 | 30 | 11700 | 1 |
@@ -312,7 +312,7 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 14 on policy hold).
 | 306 | 31 | todo | Remainder | `remainder` | math | remainder solver | 5400 | 40 | 5400 | 1 |
 | 307 | 31 | todo | New York Tax Calculator | `new-york-tax-calculator` | finance | nyc income tax calculator | 12100 | 43 | 12100 | 1 |
 | 308 | 31 | todo | Commission Calculator | `commission-calculator` | finance | commission calculator | 2900 | 36 | 3900 | 1 |
-| 309 | 31 | todo | Bmr Calculator | `bmr-calculator` | health | harris benedict calculator | 1300 | 32 | 17600 | 1 |
+| 309 | 31 | live | Bmr Calculator | `bmr-calculator` | health | harris benedict calculator | 1300 | 32 | 17600 | 1 |
 | 310 | 31 | todo | Title Case | `title-case` | text | title case converter | 6600 | 43 | 6600 | 1 |
 | 311 | 32 | todo | Pregnancy Calculator | `pregnancy-calculator` | health | pregnancy test calculator | 4400 | 40 | 4400 | 1 |
 | 312 | 32 | todo | Conception Calculator | `conception-calculator` | health | implantation estimator | 3600 | 40 | 9100 | 1 |
@@ -324,7 +324,7 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 14 on policy hold).
 | 318 | 32 | todo | Auto Lease Calculator | `auto-lease-calculator` | finance | lease buyout calculator | 1300 | 31 | 2600 | 1 |
 | 319 | 32 | todo | Systems Of Equations Calculator | `systems-of-equations-calculator` | math | systems of equations calculator | 6600 | 41 | 6600 | 1 |
 | 320 | 32 | todo | Currency Calculator | `currency-calculator` | finance | money calculator online | 1300 | 32 | 4200 | 1 |
-| 321 | 33 | todo | Protein Calculator | `protein-calculator` | health | protein calculator in food | 1000 | 32 | 12100 | 1 |
+| 321 | 33 | live | Protein Calculator | `protein-calculator` | health | protein calculator in food | 1000 | 32 | 12100 | 1 |
 | 322 | 33 | todo | Rent Vs Buy Calculator | `rent-vs-buy-calculator` | finance | rent vs buy calculator nyt | 4400 | 42 | 4400 | 1 |
 | 323 | 33 | todo | Half Life Calculator | `half-life-calculator` | science | half life converter | 1900 | 37 | 8200 | 1 |
 | 324 | 33 | todo | Acreage Calculator | `acreage-calculator` | construction | acreage calculator | 5400 | 44 | 5400 | 1 |

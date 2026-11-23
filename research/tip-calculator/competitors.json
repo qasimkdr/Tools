@@ -1,0 +1,1200 @@
+{
+ "pages": {
+  "https://www.calculator.net/tip-calculator.html": {
+   "url": "https://www.calculator.net/tip-calculator.html",
+   "finalUrl": "https://www.calculator.net/tip-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-23T06:44:50.771Z",
+   "title": "Tip Calculator",
+   "metaDescription": "This free tip calculator computes tip amounts for various situations. It can also calculate the tip amount split between a given number of people.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Tip Calculator"
+   ],
+   "h2": [
+    "Shared Bill Tip Calculator"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Tip Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Shared Bill Tip Calculator"
+    }
+   ],
+   "wordCount": 555,
+   "avgSentenceWords": 33,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "tip",
+     "weight": 17
+    },
+    {
+     "term": "expected",
+     "weight": 16
+    },
+    {
+     "term": "service",
+     "weight": 8
+    },
+    {
+     "term": "tip calculator",
+     "weight": 8
+    },
+    {
+     "term": "calculator",
+     "weight": 6
+    },
+    {
+     "term": "amount",
+     "weight": 6
+    },
+    {
+     "term": "united states",
+     "weight": 6
+    },
+    {
+     "term": "depending",
+     "weight": 6
+    },
+    {
+     "term": "price",
+     "weight": 5
+    },
+    {
+     "term": "bill",
+     "weight": 5
+    },
+    {
+     "term": "countries",
+     "weight": 5
+    },
+    {
+     "term": "tips",
+     "weight": 5
+    },
+    {
+     "term": "tipping",
+     "weight": 5
+    },
+    {
+     "term": "united",
+     "weight": 4
+    },
+    {
+     "term": "states",
+     "weight": 4
+    },
+    {
+     "term": "services",
+     "weight": 4
+    },
+    {
+     "term": "cost",
+     "weight": 3
+    },
+    {
+     "term": "total",
+     "weight": 3
+    },
+    {
+     "term": "shared bill",
+     "weight": 3
+    },
+    {
+     "term": "bill tip",
+     "weight": 3
+    },
+    {
+     "term": "number",
+     "weight": 3
+    },
+    {
+     "term": "person",
+     "weight": 3
+    },
+    {
+     "term": "well",
+     "weight": 3
+    },
+    {
+     "term": "tip amounts",
+     "weight": 3
+    },
+    {
+     "term": "typical tip",
+     "weight": 3
+    },
+    {
+     "term": "tipped",
+     "weight": 3
+    },
+    {
+     "term": "financial fitness",
+     "weight": 3
+    },
+    {
+     "term": "health math",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "In the U.S., a tip of 15% of the before tax meal price is typically expected."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 7,
+   "lists": 0,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "serviceprice",
+    "billamount",
+    "tippct",
+    "numberofpeople"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 52,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 12,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 24,
+    "external": 0,
+    "contentInternal": 24,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "other",
+     "tip calculator",
+     "Other Calculators",
+     "Age",
+     "Date",
+     "Time",
+     "Hours",
+     "GPA",
+     "Grade",
+     "Height",
+     "Concrete",
+     "IP Subnet",
+     "Bra Size",
+     "Password Generator",
+     "Dice Roller",
+     "Conversion",
+     "More Other Calculators",
+     "Financial"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/tip-calculator.html",
+     "https://www.calculator.net/age-calculator.html",
+     "https://www.calculator.net/date-calculator.html",
+     "https://www.calculator.net/time-calculator.html",
+     "https://www.calculator.net/hours-calculator.html",
+     "https://www.calculator.net/gpa-calculator.html",
+     "https://www.calculator.net/grade-calculator.html",
+     "https://www.calculator.net/height-calculator.html",
+     "https://www.calculator.net/concrete-calculator.html",
+     "https://www.calculator.net/ip-subnet-calculator.html",
+     "https://www.calculator.net/bra-size-calculator.html",
+     "https://www.calculator.net/password-generator.html",
+     "https://www.calculator.net/dice-roller.html",
+     "https://www.calculator.net/conversion-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/financial/tip-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/financial/tip-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/financial/tip-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-23T06:44:53.882Z",
+   "title": "Tip Calculator",
+   "metaDescription": "Calculate tip for a meal, bar tab or service gratuity. Input check amount and tip percent to get tip plus total bill. Split the check and see how much each person pays.",
+   "canonical": "https://www.calculatorsoup.com/calculators/financial/tip-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Tip Calculator"
+   ],
+   "h2": [
+    "How to Calculate Tip",
+    "How to Calculate Tip on Your Phone's Calculator",
+    "How to Calculate Tip in Your Head",
+    "How Much to Tip"
+   ],
+   "h3": [
+    "Example Tip Calculation",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Tip Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Tip"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Tip on Your Phone's Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Example Tip Calculation"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Tip in Your Head"
+    },
+    {
+     "level": 2,
+     "text": "How Much to Tip"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 2478,
+   "avgSentenceWords": 17,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "tip",
+     "weight": 93
+    },
+    {
+     "term": "service",
+     "weight": 43
+    },
+    {
+     "term": "bill",
+     "weight": 40
+    },
+    {
+     "term": "leave",
+     "weight": 30
+    },
+    {
+     "term": "amount",
+     "weight": 29
+    },
+    {
+     "term": "tipping",
+     "weight": 28
+    },
+    {
+     "term": "calculator",
+     "weight": 17
+    },
+    {
+     "term": "expected",
+     "weight": 17
+    },
+    {
+     "term": "service charge",
+     "weight": 17
+    },
+    {
+     "term": "total",
+     "weight": 16
+    },
+    {
+     "term": "gratuity",
+     "weight": 16
+    },
+    {
+     "term": "restaurants",
+     "weight": 16
+    },
+    {
+     "term": "leaving",
+     "weight": 15
+    },
+    {
+     "term": "check",
+     "weight": 14
+    },
+    {
+     "term": "server",
+     "weight": 13
+    },
+    {
+     "term": "tip calculator",
+     "weight": 12
+    },
+    {
+     "term": "good",
+     "weight": 12
+    },
+    {
+     "term": "good service",
+     "weight": 12
+    },
+    {
+     "term": "bars",
+     "weight": 11
+    },
+    {
+     "term": "tips",
+     "weight": 11
+    },
+    {
+     "term": "charge",
+     "weight": 11
+    },
+    {
+     "term": "total amount",
+     "weight": 11
+    },
+    {
+     "term": "tax",
+     "weight": 10
+    },
+    {
+     "term": "percentage",
+     "weight": 10
+    },
+    {
+     "term": "generally",
+     "weight": 10
+    },
+    {
+     "term": "change",
+     "weight": 10
+    },
+    {
+     "term": "it's",
+     "weight": 10
+    },
+    {
+     "term": "add",
+     "weight": 9
+    },
+    {
+     "term": "want",
+     "weight": 9
+    },
+    {
+     "term": "tip percentage",
+     "weight": 9
+    }
+   ],
+   "claims": [
+    "In the United States people generally tip 15-20% of the bill.",
+    "To calculate tip multiply the total check by 1 plus the decimal percentage tip you'd like to leave.",
+    "If you wanted to leave a 20% tip, you would add 1 to 0.20 to get 1.20.",
+    "Multiply the bill by 1.20 to get the total amount you'd leave including tip.",
+    "Decide on tip percentage Add the decimal form of tip percentage to 1 to get your rate Multiply the bill by your rate Alternatively you can calculate the percentage tip and then add it to the bill.",
+    "Use the rate 1 + tip percentage as a decimal and multiply that by your check amount.",
+    "If you want to leave 18% for your server, multiply your bill amount by 1.18.",
+    "If you need to know exactly how much your gratuity is, multiply the bill amount by 0.18.",
+    "Example Tip Calculation Say you and a friend had dinner and the check came to $26.50.",
+    "Put the percentage in decimal form as 0.18 then multiply the check amount by this number."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Total Bill $",
+    "Do not tip on tax",
+    "Tax Amount $",
+    "Tip %",
+    "Split the Bill? number of people",
+    "Round total up to dollars",
+    "reset"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 19,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "August 1, 2025",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 66,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 17,
+    "external": 0,
+    "contentInternal": 7,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Financial",
+     "Money, Pay, Taxes",
+     "Tip Calculator",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/financial/",
+     "https://www.calculatorsoup.com/calculators/financial/index-money-pay-taxes-calculators.php",
+     "https://www.calculatorsoup.com/calculators/financial/tip-calculator.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=financial%2F&folderName=Financial&folder2=financial%2Findex-money-pay-taxes-calculators.php&folderName2=Money%2C+Pay%2C+Taxes&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/financial/tip-calculator.php&h1=Tip+Calculator&pop_w=400&pop_h=600"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/tip-calculator/": {
+   "url": "https://www.inchcalculator.com/tip-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/tip-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-23T06:44:56.741Z",
+   "title": "Tip Calculator - Inch Calculator",
+   "metaDescription": "Calculate the tip and compute the total bill amount for a meal or service. You can also split the tip or bill between several people.",
+   "canonical": "https://www.inchcalculator.com/tip-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Tip Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Tip Amount",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate the Tip",
+    "A Simple Trick to Calculate the Tip",
+    "How Much is a Good Tip?",
+    "Frequently Asked Questions",
+    "Similar Personal Finance Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Suggested Tips for Various Services",
+    "What type of vendors should I tip?",
+    "What is a normal tip outside of the United States?",
+    "What tip should I leave if the service I received wasn’t good?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Tip Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Tip Amount"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate the Tip"
+    },
+    {
+     "level": 2,
+     "text": "A Simple Trick to Calculate the Tip"
+    },
+    {
+     "level": 2,
+     "text": "How Much is a Good Tip?"
+    },
+    {
+     "level": 3,
+     "text": "Suggested Tips for Various Services"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "What type of vendors should I tip?"
+    },
+    {
+     "level": 3,
+     "text": "What is a normal tip outside of the United States?"
+    },
+    {
+     "level": 3,
+     "text": "What tip should I leave if the service I received wasn’t good?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Personal Finance Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 936,
+   "avgSentenceWords": 23,
+   "faqs": [
+    "What type of vendors should I tip?",
+    "What is a normal tip outside of the United States?",
+    "What tip should I leave if the service I received wasn’t good?",
+    "How Much is a Good Tip?"
+   ],
+   "faqSchemaCount": 3,
+   "topics": [
+    {
+     "term": "tip",
+     "weight": 50
+    },
+    {
+     "term": "bill",
+     "weight": 18
+    },
+    {
+     "term": "amount",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "tip percentage",
+     "weight": 12
+    },
+    {
+     "term": "tip amount",
+     "weight": 12
+    },
+    {
+     "term": "percentage",
+     "weight": 10
+    },
+    {
+     "term": "calculate",
+     "weight": 9
+    },
+    {
+     "term": "decimal",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "total",
+     "weight": 7
+    },
+    {
+     "term": "much",
+     "weight": 7
+    },
+    {
+     "term": "service",
+     "weight": 7
+    },
+    {
+     "term": "total bill",
+     "weight": 6
+    },
+    {
+     "term": "good",
+     "weight": 6
+    },
+    {
+     "term": "tips",
+     "weight": 5
+    },
+    {
+     "term": "example",
+     "weight": 5
+    },
+    {
+     "term": "tipping",
+     "weight": 5
+    },
+    {
+     "term": "tip calculator",
+     "weight": 5
+    },
+    {
+     "term": "bill amount",
+     "weight": 5
+    },
+    {
+     "term": "good tip",
+     "weight": 5
+    },
+    {
+     "term": "various services",
+     "weight": 5
+    },
+    {
+     "term": "decimal form",
+     "weight": 5
+    },
+    {
+     "term": "price",
+     "weight": 4
+    },
+    {
+     "term": "services",
+     "weight": 4
+    },
+    {
+     "term": "point",
+     "weight": 4
+    },
+    {
+     "term": "people",
+     "weight": 3
+    },
+    {
+     "term": "total tip",
+     "weight": 3
+    },
+    {
+     "term": "amount bill",
+     "weight": 3
+    },
+    {
+     "term": "bill tip",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "Suggested Tips for Various Services Frequently Asked Questions References By Joe Sexton Joe is the creator of Inch Calculator and has over 20 years of experience in engineering and construction.",
+    "Start by dividing the tip percentage by 100 to get the percentage as a decimal.",
+    "tip as decimal = tip percentage ÷ 100 For example, if the tip percentage is 15%, divide 15 by 100 to find the decimal form, which is 0.15.",
+    "For example, let’s calculate a 20% tip for a $75 bill.",
+    "tip as decimal = 20% ÷ 100 tip as decimal = 0.20 tip amount = $75 × 0.20 tip amount = $15 Thus, $15 would be a 20% tip on a $75 bill.",
+    "Thus, the tip amount in this example is $20.",
+    "It’s generally agreed on that 15% is a good starting point for a tip.[1] Suggested Tips for Various Services The amount you might consider tipping also varies for different services and industries.",
+    "Many earn a majority of their income through tips, which can make up 50% or more of their total wages.",
+    "If the service you received wasn’t good, it’s generally normal to tip less than 15%-20%."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 3,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "Bill",
+    "Tip",
+    "Number of People"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 22,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2020-07-09",
+    "modified": "2026-11-17T16:09:23+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 121,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 45,
+    "external": 15,
+    "contentInternal": 21,
+    "contentExternal": 9,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate the Tip",
+     "A Simple Trick to Calculate the Tip",
+     "How Much is a Good Tip?",
+     "Suggested Tips for Various Services",
+     "Frequently Asked Questions",
+     "References",
+     "Full bio",
+     "Tip Calculator",
+     "bill splitter",
+     "calculator",
+     "discounts",
+     "percentage off",
+     "Pay Raise Calculator",
+     "Overtime Calculator",
+     "Hours Calculator",
+     "Fair Bill Split Calculator",
+     "Bill Splitter – Split Check Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/tip-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/tip/",
+     "https://www.inchcalculator.com/tip-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/tip-calculator/#idx_how_to_calculate_the_tip",
+     "https://www.inchcalculator.com/tip-calculator/#idx_a_simple_trick_to_calculate_the_tip",
+     "https://www.inchcalculator.com/tip-calculator/#idx_how_much_is_a_good_tip",
+     "https://www.inchcalculator.com/tip-calculator/#idx_suggested_tips_for_various_services",
+     "https://www.inchcalculator.com/tip-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/tip-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/laura-deimling/",
+     "https://www.inchcalculator.com/tip-calculator/",
+     "https://www.inchcalculator.com/split-bill-calculator/",
+     "https://www.inchcalculator.com/calculator/",
+     "https://www.inchcalculator.com/discount-calculator/",
+     "https://www.inchcalculator.com/percent-off-calculator/",
+     "https://www.inchcalculator.com/pay-raise-calculator/",
+     "https://www.inchcalculator.com/overtime-calculator/",
+     "https://www.inchcalculator.com/hours-calculator/",
+     "https://www.inchcalculator.com/fair-bill-split-calculator/",
+     "https://www.inchcalculator.com/personal-finance-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Ftip-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Ftip-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Ftip-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Ftip-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Ftip-calculator%2F&text=Tip+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Ftip-calculator%2F&text=Tip+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://www.usatoday.com/story/money/2015/06/14/much-tip-depends/71137254/",
+     "https://money.cnn.com/pf/features/lists/tipping/"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/finance/tip": {
+   "url": "https://www.omnicalculator.com/finance/tip",
+   "finalUrl": "https://www.omnicalculator.com/other/tip",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T06:45:00.499Z",
+   "title": "Tip Calculator",
+   "metaDescription": "Use the tip calculator to avoid awkward situations at the restaurant or bar. Know exactly how much you and your friends should tip, every time.",
+   "canonical": "https://www.omnicalculator.com/other/tip",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "TIP CALCULATOR"
+   ],
+   "h2": [
+    "Tip definition",
+    "How to calculate a tip? Choosing a tip percentage",
+    "How to use our gratuity calculator?",
+    "How much to tip?",
+    "When to tip? Why should we do it?",
+    "How to tip different services?",
+    "Tipping in Spain",
+    "Tipping in France",
+    "Tipping in Japan"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "TIP CALCULATOR"
+    },
+    {
+     "level": 2,
+     "text": "Tip definition"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate a tip? Choosing a tip percentage"
+    },
+    {
+     "level": 2,
+     "text": "How to use our gratuity calculator?"
+    },
+    {
+     "level": 2,
+     "text": "How much to tip?"
+    },
+    {
+     "level": 2,
+     "text": "When to tip? Why should we do it?"
+    },
+    {
+     "level": 2,
+     "text": "How to tip different services?"
+    },
+    {
+     "level": 2,
+     "text": "Tipping in Spain"
+    },
+    {
+     "level": 2,
+     "text": "Tipping in France"
+    },
+    {
+     "level": 2,
+     "text": "Tipping in Japan"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 2531,
+   "avgSentenceWords": 19,
+   "faqs": [
+    "How to use our gratuity calculator?",
+    "How much to tip?",
+    "When to tip? Why should we do it?",
+    "How to tip different services?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "tip",
+     "weight": 73
+    },
+    {
+     "term": "tipping",
+     "weight": 27
+    },
+    {
+     "term": "service",
+     "weight": 18
+    },
+    {
+     "term": "calculator",
+     "weight": 16
+    },
+    {
+     "term": "bill",
+     "weight": 16
+    },
+    {
+     "term": "value",
+     "weight": 15
+    },
+    {
+     "term": "money",
+     "weight": 14
+    },
+    {
+     "term": "there",
+     "weight": 12
+    },
+    {
+     "term": "total",
+     "weight": 11
+    },
+    {
+     "term": "have",
+     "weight": 11
+    },
+    {
+     "term": "leave",
+     "weight": 10
+    },
+    {
+     "term": "tip calculator",
+     "weight": 9
+    },
+    {
+     "term": "spain",
+     "weight": 9
+    },
+    {
+     "term": "room",
+     "weight": 9
+    },
+    {
+     "term": "euros",
+     "weight": 9
+    },
+    {
+     "term": "people",
+     "weight": 8
+    },
+    {
+     "term": "percentage",
+     "weight": 8
+    },
+    {
+     "term": "want",
+     "weight": 8
+    },
+    {
+     "term": "amount",
+     "weight": 7
+    },
+    {
+     "term": "restaurant",
+     "weight": 7
+    },
+    {
+     "term": "calculate",
+     "weight": 7
+    },
+    {
+     "term": "rules",
+     "weight": 7
+    },
+    {
+     "term": "places",
+     "weight": 7
+    },
+    {
+     "term": "tips",
+     "weight": 7
+    },
+    {
+     "term": "euro",
+     "weight": 7
+    },
+    {
+     "term": "well",
+     "weight": 6
+    },
+    {
+     "term": "france",
+     "weight": 6
+    },
+    {
+     "term": "japan",
+     "weight": 6
+    },
+    {
+     "term": "restaurants",
+     "weight": 6
+    },
+    {
+     "term": "however",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "There is an unwritten rule that a tip should be between 10% and 20% of the total value of the bill.",
+    "If you wish to leave a 20% tip, you just have to multiply the 10% value by two.",
+    "In the event you want to leave a 15% tip, it is easier first to figure out a 10% tip and then add half of that value again.",
+    "Although calculating 10% of a value is not a very complicated mathematical equation, there is certainly an easier way to figure out the tip.",
+    "We have already mentioned that the average tip is between 10% to 20% of the total bill.",
+    "In the Spanish restaurants during the daytime, it is perfectly fine to tip 1 euro per person.",
+    "At nighttime, when Spanish streets are thronging with life, people go out to feast, and a tip of 5% - 10% for an excellent service, especially in a fancy restaurant, is highly appreciated.",
+    "An exciting trip around the town should be gratified with a bigger tip (5 euros if you are a part of a larger group, 10 – 15 euros if the trip was more private).",
+    "Leaving a tip of 5% to 10% (or 1 – 2 euros per 20 euro if you will) will be perfect.",
+    "As can be expected, they appreciate the work of their hairdressers and tip around 10% for a new haircut."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 5,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Kacper Pawlik",
+    "published": "2015-11-05T12:06:22.784Z",
+    "modified": "2026-09-09T20:58:58.964Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 728,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 22,
+    "external": 1,
+    "contentInternal": 6,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "pizza tip calculator",
+     "tip from net price calculator",
+     "sales tax",
+     "percentage increase calculator",
+     "Poker Odds Calculator",
+     "RAID Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/other/pizza-tip",
+     "https://www.omnicalculator.com/other/tip-from-net-price",
+     "https://www.omnicalculator.com/finance/sales-tax",
+     "https://www.omnicalculator.com/math/percentage-increase",
+     "https://www.omnicalculator.com/other/poker-odds",
+     "https://www.omnicalculator.com/other/raid"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

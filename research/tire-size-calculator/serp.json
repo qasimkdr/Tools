@@ -1,0 +1,165 @@
+{
+ "keywords": {
+  "tire size calculator": {
+   "fetchedAt": "2026-11-23T06:44:49.424Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": null,
+   "fileKd": null,
+   "fileIntent": null,
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.lesschwab.com/article/tire-size-calculator-what-size-tires-should-you-get.html",
+     "domain": "www.lesschwab.com",
+     "title": "Tire Size Calculator: What Size Tires Should You Get?",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.inchcalculator.com/tire-size-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Tire Size Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://calculator.net/tire-size-calculator.html",
+     "domain": "calculator.net",
+     "title": "Tire Size Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://Carid.Com/tire-size-calculator.html",
+     "domain": "carid.com",
+     "title": "Tire Size Calculator & Comparison",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.americantrucks.com/shop-truck-accessories-parts/truck-suspensions-lift-kits-leveling-kits-more/control-arms-accessories/tire-size-calculator.html",
+     "domain": "www.americantrucks.com",
+     "title": "Tire Size Calculator and Tire Size Comparison Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.omnicalculator.com/everyday-life/tire-size",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.pepboys.com/tips-guides/tire-buying/tire-size-calculator",
+     "domain": "www.pepboys.com",
+     "title": "Tire Diameter",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.americastire.com/learn/tire-size-calculator",
+     "domain": "www.americastire.com",
+     "title": "Tire Size Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.tiresize.com/tire-size-calculator/",
+     "domain": "www.tiresize.com",
+     "title": "tire size calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "tire-size-calculator",
+ "page": "tire-size-calculator",
+ "category": "science",
+ "name": "Tire Size Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T06:44:49.425Z",
+ "topCompetitors": [
+  {
+   "domain": "lesschwab.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.lesschwab.com/article/tire-size-calculator-what-size-tires-should-you-get.html"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/tire-size-calculator/"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://calculator.net/tire-size-calculator.html"
+   ]
+  },
+  {
+   "domain": "carid.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://Carid.Com/tire-size-calculator.html"
+   ]
+  },
+  {
+   "domain": "americantrucks.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.americantrucks.com/shop-truck-accessories-parts/truck-suspensions-lift-kits-leveling-kits-more/control-arms-accessories/tire-size-calculator.html"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/everyday-life/tire-size"
+   ]
+  },
+  {
+   "domain": "pepboys.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.pepboys.com/tips-guides/tire-buying/tire-size-calculator"
+   ]
+  },
+  {
+   "domain": "americastire.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.americastire.com/learn/tire-size-calculator"
+   ]
+  },
+  {
+   "domain": "tiresize.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://www.tiresize.com/tire-size-calculator/"
+   ]
+  }
+ ]
+}

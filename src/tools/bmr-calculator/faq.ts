@@ -1,0 +1,9 @@
+export const faq = [
+  { q: "What is BMR?", a: "Basal metabolic rate is the energy your body uses at complete rest to keep you alive: breathing, circulation, temperature and cell repair. For most adults it is the largest part of daily calorie burn." },
+  { q: "How do I calculate my BMR?", a: "Use the Mifflin–St Jeor equation: 10 × weight (kg) + 6.25 × height (cm) − 5 × age, then add 5 for men or subtract 161 for women. A 35-year-old man who is 177.8 cm and 81.65 kg has a BMR of about 1,758 kcal a day." },
+  { q: "Which BMR formula is most accurate?", a: "Mifflin–St Jeor is the most common default for healthy adults. Katch–McArdle can be better for lean, muscular people if you know your body fat accurately. The revised Harris–Benedict equation tends to give slightly higher results." },
+  { q: "What is the difference between BMR and TDEE?", a: "BMR is calories burned at rest. TDEE (total daily energy expenditure) is BMR multiplied by an activity level, roughly 1.4 for mostly sitting up to 2.2 for very hard physical work. TDEE is the number to use for maintaining weight." },
+  { q: "Is it bad to eat below my BMR?", a: "Eating below your BMR for a long time makes it hard to meet nutrient needs and can cost muscle. For weight loss, a moderate cut from your TDEE is usually enough. Talk to a doctor or dietitian before a very-low-calorie diet." },
+  { q: "Why does my BMR go down with age?", a: "All three equations include age because resting energy use tends to fall over the years, mostly through loss of muscle. In Mifflin–St Jeor, BMR drops by 5 kcal a day for each year of age." },
+  { q: "How accurate is a BMR calculator?", a: "Prediction equations are estimates. The revised Harris–Benedict authors reported about 14% precision for healthy people, and individuals can be higher or lower. Measured resting metabolic rate (indirect calorimetry) is the only exact method." },
+];

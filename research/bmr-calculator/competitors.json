@@ -1,0 +1,1002 @@
+{
+ "pages": {
+  "https://www.calculator.net/bmr-calculator.html": {
+   "url": "https://www.calculator.net/bmr-calculator.html",
+   "finalUrl": "https://www.calculator.net/bmr-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-23T06:45:04.363Z",
+   "title": "BMR Calculator",
+   "metaDescription": "This free BMR calculator estimates basal metabolic rate based on well-known formulas. Also, learn more about variables that affect BMR.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "BMR Calculator"
+   ],
+   "h2": [
+    "Result"
+   ],
+   "h3": [
+    "BMR Variables",
+    "BMR Tests",
+    "Resting Metabolic Rate",
+    "Modern Wisdom",
+    "Reference"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "BMR Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Result"
+    },
+    {
+     "level": 3,
+     "text": "BMR Variables"
+    },
+    {
+     "level": 3,
+     "text": "BMR Tests"
+    },
+    {
+     "level": 3,
+     "text": "Resting Metabolic Rate"
+    },
+    {
+     "level": 3,
+     "text": "Modern Wisdom"
+    },
+    {
+     "level": 3,
+     "text": "Reference"
+    }
+   ],
+   "wordCount": 1274,
+   "avgSentenceWords": 24,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "bmr",
+     "weight": 41
+    },
+    {
+     "term": "energy",
+     "weight": 13
+    },
+    {
+     "term": "rate",
+     "weight": 11
+    },
+    {
+     "term": "exercise",
+     "weight": 11
+    },
+    {
+     "term": "body",
+     "weight": 11
+    },
+    {
+     "term": "metabolic rate",
+     "weight": 11
+    },
+    {
+     "term": "equation",
+     "weight": 10
+    },
+    {
+     "term": "intense exercise",
+     "weight": 8
+    },
+    {
+     "term": "fitness",
+     "weight": 7
+    },
+    {
+     "term": "health",
+     "weight": 7
+    },
+    {
+     "term": "calculator",
+     "weight": 7
+    },
+    {
+     "term": "metabolic",
+     "weight": 7
+    },
+    {
+     "term": "weight",
+     "weight": 7
+    },
+    {
+     "term": "daily",
+     "weight": 7
+    },
+    {
+     "term": "activity",
+     "weight": 7
+    },
+    {
+     "term": "used",
+     "weight": 7
+    },
+    {
+     "term": "accurate",
+     "weight": 7
+    },
+    {
+     "term": "basal metabolic",
+     "weight": 6
+    },
+    {
+     "term": "while",
+     "weight": 6
+    },
+    {
+     "term": "times week",
+     "weight": 6
+    },
+    {
+     "term": "resting",
+     "weight": 6
+    },
+    {
+     "term": "harris benedict",
+     "weight": 6
+    },
+    {
+     "term": "benedict equation",
+     "weight": 6
+    },
+    {
+     "term": "jeor equation",
+     "weight": 6
+    },
+    {
+     "term": "mass",
+     "weight": 6
+    },
+    {
+     "term": "basal",
+     "weight": 5
+    },
+    {
+     "term": "level",
+     "weight": 5
+    },
+    {
+     "term": "intense",
+     "weight": 5
+    },
+    {
+     "term": "fat",
+     "weight": 5
+    },
+    {
+     "term": "mifflin",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "The daily caloric need is the BMR value multiplied by a factor with a value between 1.2 and 1.9, depending on activity level.",
+    "It was revised in 1984 to be more accurate and was used up until 1990, when the Mifflin-St Jeor Equation was introduced.",
+    "BMR increases approximately 7% for every increase of 1.36 degrees Fahrenheit in the body's internal temperature.",
+    "On the other hand, starvation can reduce BMR by as much as 30%.",
+    "Modern Wisdom A 2005 meta-analysis study on BMR* showed that when controlling all factors of metabolic rate, there is still a 26% unknown variance between people."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 7,
+   "lists": 1,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [
+    "cage",
+    "male",
+    "female",
+    "cheightfeet",
+    "cheightinch",
+    "cpound",
+    "cheightmeter",
+    "ckg",
+    "Calories",
+    "Kilojoules",
+    "Mifflin St Jeor",
+    "Revised Harris-Benedict",
+    "Katch-McArdle",
+    "cfatpct"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": true,
+   "wordsBeforeTool": 61,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 20,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 23,
+    "external": 0,
+    "contentInternal": 23,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "fitness & health",
+     "bmr calculator",
+     "US units",
+     "metric units",
+     "other units",
+     "+ Settings",
+     "Body Fat:",
+     "Body Fat Calculator",
+     "Calorie Calculator",
+     "Fitness and Health Calculators",
+     "BMI",
+     "Calorie",
+     "Body Fat",
+     "BMR",
+     "Macro",
+     "Ideal Weight",
+     "Pregnancy",
+     "Pregnancy Weight Gain"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/bmr-calculator.html",
+     "https://www.calculator.net/bmr-calculator.html#",
+     "https://www.calculator.net/bmr-calculator.html#BMRformula",
+     "https://www.calculator.net/body-fat-calculator.html",
+     "https://www.calculator.net/calorie-calculator.html",
+     "https://www.calculator.net/bmi-calculator.html",
+     "https://www.calculator.net/macro-calculator.html",
+     "https://www.calculator.net/ideal-weight-calculator.html",
+     "https://www.calculator.net/pregnancy-calculator.html",
+     "https://www.calculator.net/pregnancy-weight-gain-calculator.html",
+     "https://www.calculator.net/pregnancy-conception-calculator.html",
+     "https://www.calculator.net/due-date-calculator.html",
+     "https://www.calculator.net/pace-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/bmr-calculator/": {
+   "url": "https://www.inchcalculator.com/bmr-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/bmr-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-23T06:45:07.417Z",
+   "title": "BMR Calculator - Basal Metabolic Rate - Inch Calculator",
+   "metaDescription": "Use our BMR calculator to find your Basal Metabolic Rate using one of several formulas. Plus, learn how to calculate your BMR.",
+   "canonical": "https://www.inchcalculator.com/bmr-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "BMR Calculator – Basal Metabolic Rate"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Basal Metabolic Rate (BMR)",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "What is BMR?",
+    "How to Calculate BMR",
+    "BMR vs. RMR",
+    "Similar Nutrition Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Your Daily Calorie Requirements",
+    "BMR formulas"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "BMR Calculator – Basal Metabolic Rate"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Basal Metabolic Rate (BMR)"
+    },
+    {
+     "level": 3,
+     "text": "Your Daily Calorie Requirements"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "What is BMR?"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate BMR"
+    },
+    {
+     "level": 3,
+     "text": "BMR formulas"
+    },
+    {
+     "level": 4,
+     "text": "Harris-Benedict Equations"
+    },
+    {
+     "level": 4,
+     "text": "Revised Harris-Benedict Equation"
+    },
+    {
+     "level": 4,
+     "text": "Mifflin St Jeor Equation"
+    },
+    {
+     "level": 4,
+     "text": "Katch-McArdle Equation"
+    },
+    {
+     "level": 2,
+     "text": "BMR vs. RMR"
+    },
+    {
+     "level": 2,
+     "text": "Similar Nutrition Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 1597,
+   "avgSentenceWords": 26,
+   "faqs": [
+    "What is BMR?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "bmr",
+     "weight": 43
+    },
+    {
+     "term": "metabolic rate",
+     "weight": 24
+    },
+    {
+     "term": "body",
+     "weight": 21
+    },
+    {
+     "term": "basal metabolic",
+     "weight": 20
+    },
+    {
+     "term": "rate",
+     "weight": 18
+    },
+    {
+     "term": "equation",
+     "weight": 17
+    },
+    {
+     "term": "metabolic",
+     "weight": 16
+    },
+    {
+     "term": "weight",
+     "weight": 14
+    },
+    {
+     "term": "lean body",
+     "weight": 14
+    },
+    {
+     "term": "body mass",
+     "weight": 14
+    },
+    {
+     "term": "basal",
+     "weight": 13
+    },
+    {
+     "term": "height",
+     "weight": 13
+    },
+    {
+     "term": "energy",
+     "weight": 12
+    },
+    {
+     "term": "harris benedict",
+     "weight": 12
+    },
+    {
+     "term": "calculator",
+     "weight": 11
+    },
+    {
+     "term": "mass",
+     "weight": 11
+    },
+    {
+     "term": "age",
+     "weight": 10
+    },
+    {
+     "term": "have",
+     "weight": 10
+    },
+    {
+     "term": "equations",
+     "weight": 10
+    },
+    {
+     "term": "lean",
+     "weight": 10
+    },
+    {
+     "term": "https",
+     "weight": 9
+    },
+    {
+     "term": "resting",
+     "weight": 9
+    },
+    {
+     "term": "benedict equation",
+     "weight": 9
+    },
+    {
+     "term": "age years",
+     "weight": 9
+    },
+    {
+     "term": "calculate",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "rest",
+     "weight": 8
+    },
+    {
+     "term": "harris",
+     "weight": 8
+    },
+    {
+     "term": "benedict",
+     "weight": 8
+    },
+    {
+     "term": "bmr calculator",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "This formula was derived in 1919 and is still widely used today to estimate BMR.",
+    "Mifflin St Jeor Equation Due to the finding that the Harris-Benedict Equations overestimated BMR by about 5%, new predictive equations have been created.",
+    "The Katch-McArdle equation was developed to include lean body mass when calculating BMR to better estimate resting metabolism.[6] This involves one more step in the calculation since you need to know your lean body mass.",
+    "BMR = 370 + (21.6 × lean body mass [kg]) The formulas used in the BMR calculator are the Mifflin St Jeor, Harris-Benedict equation, & Katch-McArdle equation."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 3,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [
+    "Age",
+    "Gender",
+    "Height",
+    "Height Units",
+    "Weight",
+    "Weight Units",
+    "BMR Formula",
+    "Body Fat Percentage"
+   ],
+   "selectOptionsSample": "male female in cm lb kg st mifflin st jeor katch-mcardle revised harris-benedict harris-benedict schofield",
+   "unitToggle": true,
+   "wordsBeforeTool": 18,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Holly Smith",
+    "published": "2021-04-23",
+    "modified": "2023-11-20T21:45:37+00:00",
+    "authoritativeSources": [
+     "https://pubmed.ncbi.nlm.nih.gov/2305711/",
+     "https://pubmed.ncbi.nlm.nih.gov/7435418/",
+     "https://pubmed.ncbi.nlm.nih.gov/1115020/"
+    ]
+   },
+   "ux": {
+    "htmlKB": 132,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 49,
+    "external": 21,
+    "contentInternal": 25,
+    "contentExternal": 15,
+    "internalAnchors": [
+     "+ Advanced Options",
+     "below",
+     "Add This to Your Site",
+     "BMR Calculator",
+     "What is BMR?",
+     "How to Calculate BMR",
+     "BMR formulas",
+     "BMR vs. RMR",
+     "References",
+     "Full bio",
+     "BMR Calculator – Basal Metabolic Rate",
+     "Mifflin-St Jeor equation",
+     "Harris-Benedict equation",
+     "how many calories you burn",
+     "measure your body fat percentage",
+     "calculate lean body mass",
+     "total number of calories",
+     "total daily energy expenditure (TDEE)",
+     "Resting metabolic rate",
+     "Mifflin St. Jeor Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/bmr-calculator/#",
+     "https://www.inchcalculator.com/bmr-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/bmr/",
+     "https://www.inchcalculator.com/bmr-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/bmr-calculator/#idx_what_is_bmr",
+     "https://www.inchcalculator.com/bmr-calculator/#idx_how_to_calculate_bmr",
+     "https://www.inchcalculator.com/bmr-calculator/#idx_bmr_formulas",
+     "https://www.inchcalculator.com/bmr-calculator/#idx_bmr_vs_rmr",
+     "https://www.inchcalculator.com/bmr-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/holly-smith/",
+     "https://www.inchcalculator.com/author/elise-harlow/",
+     "https://www.inchcalculator.com/author/donna-schwontkowski/",
+     "https://www.inchcalculator.com/bmr-calculator/",
+     "https://www.inchcalculator.com/mifflin-st-jeor-calculator/",
+     "https://www.inchcalculator.com/harris-benedict-calculator/",
+     "https://www.inchcalculator.com/calories-burned-calculator/",
+     "https://www.inchcalculator.com/body-fat-calculator/",
+     "https://www.inchcalculator.com/lean-body-mass-calculator/",
+     "https://www.inchcalculator.com/calorie-calculator/",
+     "https://www.inchcalculator.com/tdee-calculator/",
+     "https://www.inchcalculator.com/rmr-calculator/",
+     "https://www.inchcalculator.com/water-intake-calculator/",
+     "https://www.inchcalculator.com/net-carb-calculator/",
+     "https://www.inchcalculator.com/maintenance-calorie-calculator/",
+     "https://www.inchcalculator.com/dietary-and-nutrition-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fbmr-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fbmr-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fbmr-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fbmr-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fbmr-calculator%2F&text=BMR+Calculator+%26%238211%3B+Basal+Metabolic+Rate",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fbmr-calculator%2F&text=BMR+Calculator+%26%238211%3B+Basal+Metabolic+Rate",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://doi.org/10.3390/jcm8091387",
+     "https://doi.org/10.1093/ajcn/40.1.168",
+     "https://pubmed.ncbi.nlm.nih.gov/2305711/",
+     "https://pubmed.ncbi.nlm.nih.gov/7435418/",
+     "https://www.jci.org/articles/view/114857",
+     "https://pubmed.ncbi.nlm.nih.gov/1115020/",
+     "https://doi.org/10.1007/978-3-319-47829-6_1429-1",
+     "https://www.webmd.com/fitness-exercise/difference-between-bmr-and-rmr"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/health/bmr": {
+   "url": "https://www.omnicalculator.com/health/bmr",
+   "finalUrl": "https://www.omnicalculator.com/health/bmr",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T06:45:10.501Z",
+   "title": "BMR Calculator",
+   "metaDescription": "Use the BMR CALCULATOR to determine how many calories you should consume while resting all day, and learn how much energy you burn while you rest.",
+   "canonical": "https://www.omnicalculator.com/health/bmr",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "BMR Calculator (Basal Metabolic Rate, Mifflin St Jeor Equation)"
+   ],
+   "h2": [
+    "What is BMR? – BMR definition",
+    "How to use the basal metabolic rate calculator",
+    "How to calculate BMR – the BMR formula",
+    "BMR for man calculation – an example",
+    "BMR for woman calculation – an example",
+    "BMR vs. RMR",
+    "Factors affecting BMR",
+    "FAQs"
+   ],
+   "h3": [
+    "What is BMR?",
+    "Do I burn calories when sleeping?",
+    "How do I calculate my BMR?",
+    "What is the BMR of a 31 years old female, 168 cm tall and weighing 65 kg?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "BMR Calculator (Basal Metabolic Rate, Mifflin St Jeor Equation)"
+    },
+    {
+     "level": 2,
+     "text": "What is BMR? – BMR definition"
+    },
+    {
+     "level": 2,
+     "text": "How to use the basal metabolic rate calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate BMR – the BMR formula"
+    },
+    {
+     "level": 2,
+     "text": "BMR for man calculation – an example"
+    },
+    {
+     "level": 2,
+     "text": "BMR for woman calculation – an example"
+    },
+    {
+     "level": 2,
+     "text": "BMR vs. RMR"
+    },
+    {
+     "level": 2,
+     "text": "Factors affecting BMR"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What is BMR?"
+    },
+    {
+     "level": 3,
+     "text": "Do I burn calories when sleeping?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate my BMR?"
+    },
+    {
+     "level": 3,
+     "text": "What is the BMR of a 31 years old female, 168 cm tall and weighing 65 kg?"
+    }
+   ],
+   "wordCount": 2953,
+   "avgSentenceWords": 17,
+   "faqs": [
+    "What is BMR?",
+    "Do I burn calories when sleeping?",
+    "How do I calculate my BMR?",
+    "What is the BMR of a 31 years old female, 168 cm tall and weighing 65 kg?",
+    "Still looking for the perfect diet?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "bmr",
+     "weight": 80
+    },
+    {
+     "term": "metabolic rate",
+     "weight": 53
+    },
+    {
+     "term": "basal metabolic",
+     "weight": 44
+    },
+    {
+     "term": "rate",
+     "weight": 40
+    },
+    {
+     "term": "metabolic",
+     "weight": 35
+    },
+    {
+     "term": "basal",
+     "weight": 30
+    },
+    {
+     "term": "body",
+     "weight": 27
+    },
+    {
+     "term": "energy",
+     "weight": 27
+    },
+    {
+     "term": "kcal day",
+     "weight": 27
+    },
+    {
+     "term": "day",
+     "weight": 26
+    },
+    {
+     "term": "calculator",
+     "weight": 23
+    },
+    {
+     "term": "weight",
+     "weight": 23
+    },
+    {
+     "term": "kcal",
+     "weight": 20
+    },
+    {
+     "term": "equation",
+     "weight": 19
+    },
+    {
+     "term": "have",
+     "weight": 19
+    },
+    {
+     "term": "age",
+     "weight": 15
+    },
+    {
+     "term": "calculate",
+     "weight": 15
+    },
+    {
+     "term": "formula",
+     "weight": 14
+    },
+    {
+     "term": "jeor equation",
+     "weight": 12
+    },
+    {
+     "term": "calories",
+     "weight": 12
+    },
+    {
+     "term": "energy expenditure",
+     "weight": 12
+    },
+    {
+     "term": "fat",
+     "weight": 12
+    },
+    {
+     "term": "height",
+     "weight": 11
+    },
+    {
+     "term": "mass",
+     "weight": 11
+    },
+    {
+     "term": "rate calculator",
+     "weight": 11
+    },
+    {
+     "term": "mifflin",
+     "weight": 10
+    },
+    {
+     "term": "jeor",
+     "weight": 10
+    },
+    {
+     "term": "calculate bmr",
+     "weight": 9
+    },
+    {
+     "term": "resting metabolic",
+     "weight": 9
+    },
+    {
+     "term": "expenditure",
+     "weight": 9
+    }
+   ],
+   "claims": [
+    "Your BMR accounts for about 60% to 75% of your total energy expenditure (TEE), depending on your lifestyle and activity level.",
+    "This BMR formula is as follows: BMR (kcal/day) = 10 × weight (kg) + 6.25 × height (cm) – 5 × age (y) + s (kcal/day), where s is +5 for males and -161 for females.",
+    "BMR (kcal/day)= 10 × weight (kg) + 6.25 × height (cm) – 5 × age (y) – 161 (kcal/day) As you may have already noticed, the only difference between these two formulas is the last part.",
+    "– BMR definition paragraph, food digestion accounts for around 10% percent of your Total Energy Expenditure.",
+    "Jeor equation for women: BMR (kcal/day)= 10 × 65 kg + 6.25 × 168 cm – 5 × 31 y – 161 kcal/day = 1,384 kcal/day."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 5,
+   "images": 0,
+   "videos": 1,
+   "calculatorInputs": [
+    "BMR formula",
+    "Sex"
+   ],
+   "selectOptionsSample": "select mifflin-st jeor harris-benedict revised harris-benedict katch-mcardle schofield select male ♂️ female ♀️",
+   "unitToggle": true,
+   "wordsBeforeTool": 11,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Kacper Pawlik",
+    "published": "2015-12-14T11:10:19.283Z",
+    "modified": "2026-10-02T08:11:15.851Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 623,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 28,
+    "external": 2,
+    "contentInternal": 12,
+    "contentExternal": 2,
+    "internalAnchors": [
+     "maintenance calorie calculator",
+     "dietary reference intake (DRI) calculator",
+     "factors affecting BMR paragraph",
+     "What is BMR? – BMR definition",
+     "ideal weight calculator",
+     "body mass index calculator",
+     "Harris-Benedict equation",
+     "Katch-McArdle formula",
+     "what is BMR? – BMR definition paragraph",
+     "resting metabolic rate calculator",
+     "TDEE Calculator",
+     "max heart rate calculator",
+     "due date calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/health/maintenance-calorie",
+     "https://www.omnicalculator.com/health/dri",
+     "https://www.omnicalculator.com/health/bmr#factors-affecting-bmr",
+     "https://www.omnicalculator.com/health/bmr#what-is-bmr-bmr-definition",
+     "https://www.omnicalculator.com/health/ideal-weight",
+     "https://www.omnicalculator.com/health/bmi",
+     "https://www.omnicalculator.com/health/bmr-harris-benedict-equation",
+     "https://www.omnicalculator.com/health/bmr-katch-mcardle",
+     "https://www.omnicalculator.com/health/rmr",
+     "https://www.omnicalculator.com/health/tdee",
+     "https://www.omnicalculator.com/sports/max-heart-rate",
+     "https://www.omnicalculator.com/health/pregnancy-due-date"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com",
+     "https://youtu.be/dLoiGu7jSm8"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

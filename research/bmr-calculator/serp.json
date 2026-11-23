@@ -1,0 +1,113 @@
+{
+ "keywords": {
+  "bmr calculator mifflin st jeor": {
+   "fetchedAt": "2026-11-23T06:44:49.051Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": null,
+   "fileKd": null,
+   "fileIntent": null,
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://inchcalculator.com/mifflin-st-jeor-calculator",
+     "domain": "inchcalculator.com",
+     "title": "Mifflin St. Jeor Calculator (TDEE & BMR)",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.pearson.com/channels/calculators/bmr-calculator",
+     "domain": "www.pearson.com",
+     "title": "bmr calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.calculator.net/bmr-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "BMR Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.zavamed.com/uk/bmr-calculator.html",
+     "domain": "www.zavamed.com",
+     "title": "BMR calculator: work out your basal metabolic rate",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://inchcalculator.com/bmr-calculator",
+     "domain": "inchcalculator.com",
+     "title": "BMR Calculator – Basal Metabolic Rate",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.omnicalculator.com/health/bmr",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "bmr-calculator",
+ "page": "bmr-calculator",
+ "category": "health",
+ "name": "Bmr Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T06:44:49.052Z",
+ "topCompetitors": [
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://inchcalculator.com/mifflin-st-jeor-calculator",
+    "https://inchcalculator.com/bmr-calculator"
+   ]
+  },
+  {
+   "domain": "pearson.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.pearson.com/channels/calculators/bmr-calculator"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculator.net/bmr-calculator.html"
+   ]
+  },
+  {
+   "domain": "zavamed.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.zavamed.com/uk/bmr-calculator.html"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/health/bmr"
+   ]
+  }
+ ]
+}

@@ -11858,7 +11858,7 @@
     "www.calculator.net/tire-size-calculator.html"
    ],
    "category": "science",
-   "status": "todo",
+   "status": "live",
    "order": 136,
    "batch": 14
   },
@@ -12467,7 +12467,7 @@
     "www.calculator.net/average-calculator.html"
    ],
    "category": "math",
-   "status": "todo",
+   "status": "live",
    "order": 148,
    "batch": 15
   },
@@ -19464,7 +19464,7 @@
     "www.calculator.net/tip-calculator.html"
    ],
    "category": "finance",
-   "status": "todo",
+   "status": "live",
    "order": 288,
    "batch": 29
   },
@@ -20563,7 +20563,7 @@
     "www.calculator.net/bmr-calculator.html"
    ],
    "category": "health",
-   "status": "todo",
+   "status": "live",
    "order": 309,
    "batch": 31
   },
@@ -21143,7 +21143,7 @@
     "www.calculator.net/protein-calculator.html"
    ],
    "category": "health",
-   "status": "todo",
+   "status": "live",
    "order": 321,
    "batch": 33
   },

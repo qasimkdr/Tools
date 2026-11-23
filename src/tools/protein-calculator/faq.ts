@@ -1,0 +1,9 @@
+export const faq = [
+  { q: "How much protein do I need a day?", a: "Healthy adults need at least 0.8 g per kg of body weight (the RDA), which is 65 g for a 180 lb (81.6 kg) person. If you exercise regularly, the International Society of Sports Nutrition suggests 1.4–2.0 g/kg, or 114–163 g for the same person." },
+  { q: "How much protein do I need to build muscle?", a: "Most people who lift weights do well on 1.4–2.0 g per kg of body weight a day, together with progressive training and enough calories. Lean, trained people cutting calories may need 2.3–3.1 g/kg to keep muscle." },
+  { q: "How much protein should I eat per meal?", a: "About 0.25 g per kg of body weight, roughly 20–40 g, every 3–4 hours is a common recommendation from the ISSN. For an 81.6 kg person, that is about 20 g per meal at minimum." },
+  { q: "Do older adults need more protein?", a: "Yes. The PROT-AGE study group recommends at least 1.0–1.2 g per kg a day for people over 65, and 1.2 g/kg or more for those who are active, to help maintain muscle and function. People with severe kidney disease may need less; ask a doctor." },
+  { q: "How much protein do I need when pregnant or breastfeeding?", a: "Protein needs rise to about 1.1–1.3 g per kg of body weight a day under the US Dietary Reference Intakes. Ask your doctor or midwife for advice specific to you." },
+  { q: "Can you eat too much protein?", a: "Healthy adults generally tolerate intakes in the ranges shown here. People with kidney disease or other medical conditions may need to limit protein, so check with a doctor before raising it substantially." },
+  { q: "Should I use my current weight or goal weight?", a: "Most guidelines use current body weight. If you carry a lot of body fat, using a healthy or goal weight gives a more realistic target, since protein needs track lean mass more than fat mass." },
+];

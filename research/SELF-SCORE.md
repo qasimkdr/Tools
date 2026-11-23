@@ -127,3 +127,8 @@ Rule-based on-page signals only — not rankings.
 | implicit-differentiation-calculator | **25/30** | 5 | 2 | 5 | 4 | 4 | 5 | www.symbolab.com | 19/25 | ahead |
 | breastfeeding-calorie-calculator | **26/30** | 5 | 2 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 17/25 | ahead |
 | macro-calculator | **27/30** | 5 | 3 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
+| tip-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 24/30 | ahead |
+| bmr-calculator | **27/30** | 5 | 3 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 25/30 | ahead |
+| protein-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 16/25 | ahead |
+| average-calculator | **23/25** | 5 | null | 5 | 4 | 4 | 5 | www.inchcalculator.com | 20/25 | ahead |
+| tire-size-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 24/30 | ahead |

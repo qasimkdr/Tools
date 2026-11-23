@@ -1,0 +1,165 @@
+{
+ "keywords": {
+  "average calculator": {
+   "fetchedAt": "2026-11-23T06:44:49.303Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": null,
+   "fileKd": null,
+   "fileIntent": null,
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://dqydj.com/average-calculator/",
+     "domain": "dqydj.com",
+     "title": "Average Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.pearson.com/channels/calculators/average-calculator",
+     "domain": "www.pearson.com",
+     "title": "average calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.inchcalculator.com/average-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Average Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.omnicalculator.com/statistics/average",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.calculator.net/average-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Average Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.cuemath.com/calculators/average-calculator",
+     "domain": "www.cuemath.com",
+     "title": "Average Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://calculator.io/average-calculator",
+     "domain": "calculator.io",
+     "title": "Statistics Calculators",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.rapidtables.com/calc/math/average-calculator.html",
+     "domain": "www.rapidtables.com",
+     "title": "Average Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.calculatorsoup.com/calculators/statistics/average.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Mean Calculator | Average Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "average-calculator",
+ "page": "average-calculator",
+ "category": "math",
+ "name": "Average Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T06:44:49.303Z",
+ "topCompetitors": [
+  {
+   "domain": "dqydj.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://dqydj.com/average-calculator/"
+   ]
+  },
+  {
+   "domain": "pearson.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.pearson.com/channels/calculators/average-calculator"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/average-calculator/"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/statistics/average"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculator.net/average-calculator.html"
+   ]
+  },
+  {
+   "domain": "cuemath.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.cuemath.com/calculators/average-calculator"
+   ]
+  },
+  {
+   "domain": "calculator.io",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://calculator.io/average-calculator"
+   ]
+  },
+  {
+   "domain": "rapidtables.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.rapidtables.com/calc/math/average-calculator.html"
+   ]
+  },
+  {
+   "domain": "calculatorsoup.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculatorsoup.com/calculators/statistics/average.php"
+   ]
+  }
+ ]
+}

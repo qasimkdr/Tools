@@ -1,0 +1,180 @@
+{
+ "keywords": {
+  "protein calculator": {
+   "fetchedAt": "2026-11-23T06:44:49.177Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": null,
+   "fileKd": null,
+   "fileIntent": null,
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://cdn.britannica.com/88/276788-101-9657849D/default.html",
+     "domain": "cdn.britannica.com",
+     "title": "Comprehensive Protein Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.calculator.net/protein-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Protein Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://omnicalculator.com/health/protein",
+     "domain": "omnicalculator.com",
+     "title": "Protein Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.optimumnutrition.com/protein-calculator",
+     "domain": "www.optimumnutrition.com",
+     "title": "Protein Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.zavamed.com/uk/protein-calculator.html",
+     "domain": "www.zavamed.com",
+     "title": "Protein calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.gigacalculator.com/calculators/protein-intake-calculator.php",
+     "domain": "www.gigacalculator.com",
+     "title": "Protein Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://nakednutrition.com/pages/protein-calculator",
+     "domain": "nakednutrition.com",
+     "title": "protein calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://thedoctorskitchen.com/protein_calculator.php",
+     "domain": "thedoctorskitchen.com",
+     "title": "Protein Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://goodcalculators.com/protein-calculator/",
+     "domain": "goodcalculators.com",
+     "title": "Protein Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.bodybuilding.com/fun/built-by-science-protein-calculator.html",
+     "domain": "www.bodybuilding.com",
+     "title": "Built By Science: Protein Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "protein-calculator",
+ "page": "protein-calculator",
+ "category": "health",
+ "name": "Protein Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T06:44:49.178Z",
+ "topCompetitors": [
+  {
+   "domain": "britannica.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://cdn.britannica.com/88/276788-101-9657849D/default.html"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculator.net/protein-calculator.html"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://omnicalculator.com/health/protein"
+   ]
+  },
+  {
+   "domain": "optimumnutrition.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.optimumnutrition.com/protein-calculator"
+   ]
+  },
+  {
+   "domain": "zavamed.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.zavamed.com/uk/protein-calculator.html"
+   ]
+  },
+  {
+   "domain": "gigacalculator.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.gigacalculator.com/calculators/protein-intake-calculator.php"
+   ]
+  },
+  {
+   "domain": "nakednutrition.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://nakednutrition.com/pages/protein-calculator"
+   ]
+  },
+  {
+   "domain": "thedoctorskitchen.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://thedoctorskitchen.com/protein_calculator.php"
+   ]
+  },
+  {
+   "domain": "goodcalculators.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://goodcalculators.com/protein-calculator/"
+   ]
+  },
+  {
+   "domain": "bodybuilding.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://www.bodybuilding.com/fun/built-by-science-protein-calculator.html"
+   ]
+  }
+ ]
+}

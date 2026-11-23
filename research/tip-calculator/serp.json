@@ -1,0 +1,187 @@
+{
+ "keywords": {
+  "tip calculator": {
+   "fetchedAt": "2026-11-23T06:44:48.905Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": null,
+   "fileKd": null,
+   "fileIntent": null,
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://calculator.net/tip-calculator.html",
+     "domain": "calculator.net",
+     "title": "Tip Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.creditkarma.com/calculators/additional/tip",
+     "domain": "www.creditkarma.com",
+     "title": "Calculators",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.pearson.com/channels/calculators/tip-calculator",
+     "domain": "www.pearson.com",
+     "title": "tip calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.nerdwallet.com/article/finance/tip-calculator",
+     "domain": "www.nerdwallet.com",
+     "title": "Tip Calculator & Bill Splitter",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://wise.com/us/travel-money/tip-calculator",
+     "domain": "wise.com",
+     "title": "Tip Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://calculatorsoup.com/calculators/financial/tip-calculator.php",
+     "domain": "calculatorsoup.com",
+     "title": "tip calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.jotform.com/products/apps/tip-calculator-app/",
+     "domain": "www.jotform.com",
+     "title": "Tip Calculator App",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://apps.apple.com/us/app/tip-calculator-tap-tip-pro/id700227331",
+     "domain": "apps.apple.com",
+     "title": "Tip Calculator - Tap Tip Pro",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://inchcalculator.com/tip-calculator",
+     "domain": "inchcalculator.com",
+     "title": "Tip Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.omnicalculator.com/finance/tip",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://miniwebtool.com/tip-calculator/",
+     "domain": "miniwebtool.com",
+     "title": "tip calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "tip-calculator",
+ "page": "tip-calculator",
+ "category": "finance",
+ "name": "Tip Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T06:44:48.906Z",
+ "topCompetitors": [
+  {
+   "domain": "calculator.net",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://calculator.net/tip-calculator.html"
+   ]
+  },
+  {
+   "domain": "creditkarma.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.creditkarma.com/calculators/additional/tip"
+   ]
+  },
+  {
+   "domain": "pearson.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.pearson.com/channels/calculators/tip-calculator"
+   ]
+  },
+  {
+   "domain": "nerdwallet.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.nerdwallet.com/article/finance/tip-calculator"
+   ]
+  },
+  {
+   "domain": "wise.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://wise.com/us/travel-money/tip-calculator"
+   ]
+  },
+  {
+   "domain": "calculatorsoup.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://calculatorsoup.com/calculators/financial/tip-calculator.php"
+   ]
+  },
+  {
+   "domain": "jotform.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.jotform.com/products/apps/tip-calculator-app/"
+   ]
+  },
+  {
+   "domain": "apple.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://apps.apple.com/us/app/tip-calculator-tap-tip-pro/id700227331"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://inchcalculator.com/tip-calculator"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/finance/tip"
+   ]
+  }
+ ]
+}

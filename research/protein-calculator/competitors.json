@@ -1,0 +1,584 @@
+{
+ "pages": {
+  "https://www.calculator.net/protein-calculator.html": {
+   "url": "https://www.calculator.net/protein-calculator.html",
+   "finalUrl": "https://www.calculator.net/protein-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-23T06:45:14.226Z",
+   "title": "Protein Calculator",
+   "metaDescription": "This free protein calculator estimates the amount of protein a person needs each day to remain healthy based on certain averages and recommendations.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Protein Calculator"
+   ],
+   "h2": [],
+   "h3": [
+    "What are proteins?",
+    "How much protein do I need?",
+    "Foods high in protein"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Protein Calculator"
+    },
+    {
+     "level": 3,
+     "text": "What are proteins?"
+    },
+    {
+     "level": 3,
+     "text": "How much protein do I need?"
+    },
+    {
+     "level": 3,
+     "text": "Foods high in protein"
+    }
+   ],
+   "wordCount": 1256,
+   "avgSentenceWords": 31,
+   "faqs": [
+    "What are proteins?",
+    "How much protein do I need?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "protein",
+     "weight": 40
+    },
+    {
+     "term": "proteins",
+     "weight": 18
+    },
+    {
+     "term": "body",
+     "weight": 17
+    },
+    {
+     "term": "amino acids",
+     "weight": 14
+    },
+    {
+     "term": "age",
+     "weight": 10
+    },
+    {
+     "term": "intake",
+     "weight": 9
+    },
+    {
+     "term": "amino",
+     "weight": 9
+    },
+    {
+     "term": "acids",
+     "weight": 9
+    },
+    {
+     "term": "foods",
+     "weight": 9
+    },
+    {
+     "term": "complete",
+     "weight": 9
+    },
+    {
+     "term": "complete protein",
+     "weight": 9
+    },
+    {
+     "term": "calculator",
+     "weight": 8
+    },
+    {
+     "term": "based",
+     "weight": 8
+    },
+    {
+     "term": "many",
+     "weight": 8
+    },
+    {
+     "term": "protein intake",
+     "weight": 8
+    },
+    {
+     "term": "protein foods",
+     "weight": 8
+    },
+    {
+     "term": "there",
+     "weight": 7
+    },
+    {
+     "term": "meat",
+     "weight": 7
+    },
+    {
+     "term": "health",
+     "weight": 6
+    },
+    {
+     "term": "amount",
+     "weight": 6
+    },
+    {
+     "term": "weight",
+     "weight": 6
+    },
+    {
+     "term": "sources",
+     "weight": 6
+    },
+    {
+     "term": "dairy",
+     "weight": 6
+    },
+    {
+     "term": "plant based",
+     "weight": 6
+    },
+    {
+     "term": "examples",
+     "weight": 6
+    },
+    {
+     "term": "incomplete proteins",
+     "weight": 6
+    },
+    {
+     "term": "cup",
+     "weight": 6
+    },
+    {
+     "term": "fitness",
+     "weight": 5
+    },
+    {
+     "term": "dietary",
+     "weight": 5
+    },
+    {
+     "term": "activity",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "There are 20 different amino acids in total, and the sequence of amino acids determines a protein's structure and function.",
+    "The recommended range of protein intake is between 0.8 g/kg and 1.8 g/kg of body weight, dependent on the many factors listed above."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 9,
+   "lists": 6,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "cage",
+    "male",
+    "female",
+    "cheightfeet",
+    "cheightinch",
+    "cpound",
+    "cheightmeter",
+    "ckg",
+    "cactivity",
+    "Mifflin St Jeor",
+    "Katch-McArdle",
+    "cfatpct"
+   ],
+   "selectOptionsSample": "sedentary: little or no exercise light: exercise 1-3 times/week moderate: exercise 4-5 times/week active: daily exercise or intense exercise 3-4 times/week very active: intense exercise 6-7 times/week extra active: very intense exercise daily, or physical job",
+   "unitToggle": true,
+   "wordsBeforeTool": 78,
+   "actions": {
+    "print": true,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 21,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 25,
+    "external": 0,
+    "contentInternal": 25,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "fitness & health",
+     "protein calculator",
+     "Print",
+     "US units",
+     "metric units",
+     "other units",
+     "+ Settings",
+     "Body Fat:",
+     "Calorie Calculator",
+     "Carbohydrate Calculator",
+     "Fat Intake Calculator",
+     "Fitness and Health Calculators",
+     "BMI",
+     "Calorie",
+     "Body Fat",
+     "BMR",
+     "Macro",
+     "Ideal Weight"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/protein-calculator.html",
+     "https://www.calculator.net/protein-calculator.html#",
+     "https://www.calculator.net/body-fat-calculator.html",
+     "https://www.calculator.net/calorie-calculator.html",
+     "https://www.calculator.net/carbohydrate-calculator.html",
+     "https://www.calculator.net/fat-intake-calculator.html",
+     "https://www.calculator.net/bmi-calculator.html",
+     "https://www.calculator.net/bmr-calculator.html",
+     "https://www.calculator.net/macro-calculator.html",
+     "https://www.calculator.net/ideal-weight-calculator.html",
+     "https://www.calculator.net/pregnancy-calculator.html",
+     "https://www.calculator.net/pregnancy-weight-gain-calculator.html",
+     "https://www.calculator.net/pregnancy-conception-calculator.html",
+     "https://www.calculator.net/due-date-calculator.html",
+     "https://www.calculator.net/pace-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/health/protein": {
+   "url": "https://www.omnicalculator.com/health/protein",
+   "finalUrl": "https://www.omnicalculator.com/health/protein",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T06:45:17.539Z",
+   "title": "Protein Calculator",
+   "metaDescription": "Protein calculator finds the optimal protein intake for maintaining your current weight.",
+   "canonical": "https://www.omnicalculator.com/health/protein",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Protein Calculator"
+   ],
+   "h2": [
+    "What are proteins? – protein definition",
+    "How much protein do I need? – recommended protein intake",
+    "DRI – nutrition guidelines",
+    "How to use our daily protein calculator?",
+    "Foods high in protein",
+    "Banana protein shake",
+    "Proteins and weight loss",
+    "Protein deficiency – when the hunger kills"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Protein Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What are proteins? – protein definition"
+    },
+    {
+     "level": 2,
+     "text": "How much protein do I need? – recommended protein intake"
+    },
+    {
+     "level": 2,
+     "text": "DRI – nutrition guidelines"
+    },
+    {
+     "level": 2,
+     "text": "How to use our daily protein calculator?"
+    },
+    {
+     "level": 2,
+     "text": "Foods high in protein"
+    },
+    {
+     "level": 2,
+     "text": "Banana protein shake"
+    },
+    {
+     "level": 2,
+     "text": "Proteins and weight loss"
+    },
+    {
+     "level": 2,
+     "text": "Protein deficiency – when the hunger kills"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 2098,
+   "avgSentenceWords": 18,
+   "faqs": [
+    "If proteins are so essential, where can you find them?",
+    "Now, how much protein per day should you eat?",
+    "How to use our daily protein calculator?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "protein",
+     "weight": 65
+    },
+    {
+     "term": "proteins",
+     "weight": 22
+    },
+    {
+     "term": "protein intake",
+     "weight": 21
+    },
+    {
+     "term": "calculator",
+     "weight": 16
+    },
+    {
+     "term": "intake",
+     "weight": 16
+    },
+    {
+     "term": "protein calculator",
+     "weight": 11
+    },
+    {
+     "term": "daily protein",
+     "weight": 11
+    },
+    {
+     "term": "protein shake",
+     "weight": 11
+    },
+    {
+     "term": "weight",
+     "weight": 9
+    },
+    {
+     "term": "daily",
+     "weight": 9
+    },
+    {
+     "term": "many",
+     "weight": 9
+    },
+    {
+     "term": "have",
+     "weight": 9
+    },
+    {
+     "term": "recommended",
+     "weight": 8
+    },
+    {
+     "term": "diet",
+     "weight": 8
+    },
+    {
+     "term": "foods high",
+     "weight": 8
+    },
+    {
+     "term": "banana protein",
+     "weight": 8
+    },
+    {
+     "term": "protein deficiency",
+     "weight": 8
+    },
+    {
+     "term": "much protein",
+     "weight": 8
+    },
+    {
+     "term": "protein powder",
+     "weight": 8
+    },
+    {
+     "term": "level",
+     "weight": 7
+    },
+    {
+     "term": "shake",
+     "weight": 7
+    },
+    {
+     "term": "fat",
+     "weight": 7
+    },
+    {
+     "term": "eat",
+     "weight": 7
+    },
+    {
+     "term": "bodies",
+     "weight": 6
+    },
+    {
+     "term": "blood",
+     "weight": 6
+    },
+    {
+     "term": "foods",
+     "weight": 6
+    },
+    {
+     "term": "banana",
+     "weight": 6
+    },
+    {
+     "term": "energy",
+     "weight": 6
+    },
+    {
+     "term": "day",
+     "weight": 6
+    },
+    {
+     "term": "whey protein",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "According to USDA Dietary Guideline, we should keep the percentage of proteins in the total calorie intake at 10-30%.",
+    "An adult should consume about 0.83 g of protein per kilogram of body weight per day, and this amount is expected to meet the protein needs of 97.5 percent of the world's healthy adult population.",
+    "If you want to recalculate calories of protein into grams, you should use the following equation: 4 kcal = 1 g This protein intake calculator uses this formula to estimate your recommended daily protein.",
+    "Banana protein shake recipe: Prepare: 1 cup of milk – low-fat, almond or any other – it's your call!",
+    "1 banana, cut into small pieces; 3 tablespoons peanut butter; 1/3 teaspoon of vanilla extract; 1 scoop of whey protein powder – preferably vanilla flavor; Some ice cubes if you like your protein shake frozen."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 6,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Activity level"
+   ],
+   "selectOptionsSample": "select little/no exercise exercise 1-2 times/week exercise 2-3 times/week exercise 3-5 times/week exercise 6-7 times/week professional athlete",
+   "unitToggle": false,
+   "wordsBeforeTool": 36,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Kacper Pawlik",
+    "published": "2018-02-08T11:09:04.088Z",
+    "modified": "2024-12-21T03:41:35.029Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 576,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 22,
+    "external": 1,
+    "contentInternal": 6,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "macronutrients calculator",
+     "fat intake calculator",
+     "carbohydrate calculator",
+     "albumin globulin ratio calculator",
+     "meal calorie calculator",
+     "ACFT Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/health/macro",
+     "https://www.omnicalculator.com/health/fat",
+     "https://www.omnicalculator.com/health/carb",
+     "https://www.omnicalculator.com/health/albumin-globulin-ratio",
+     "https://www.omnicalculator.com/health/meal-calorie",
+     "https://www.omnicalculator.com/health/acft"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.gigacalculator.com/calculators/protein-intake-calculator.php": [
+   "disallowed by robots.txt"
+  ],
+  "https://www.goodcalculators.com/protein-calculator/": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

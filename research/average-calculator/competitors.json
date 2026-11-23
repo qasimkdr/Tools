@@ -1,0 +1,1171 @@
+{
+ "pages": {
+  "https://www.calculator.net/average-calculator.html": {
+   "url": "https://www.calculator.net/average-calculator.html",
+   "finalUrl": "https://www.calculator.net/average-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-23T06:45:27.469Z",
+   "title": "Average Calculator",
+   "metaDescription": "Free calculator to determine the average, or the arithmetic mean, of a given data set. It also returns the calculation steps, sum, count, and more.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Average Calculator"
+   ],
+   "h2": [],
+   "h3": [
+    "What is an average?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Average Calculator"
+    },
+    {
+     "level": 3,
+     "text": "What is an average?"
+    }
+   ],
+   "wordCount": 188,
+   "avgSentenceWords": 24,
+   "faqs": [
+    "What is an average?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "average",
+     "weight": 10
+    },
+    {
+     "term": "math",
+     "weight": 5
+    },
+    {
+     "term": "calculator",
+     "weight": 5
+    },
+    {
+     "term": "numbers",
+     "weight": 5
+    },
+    {
+     "term": "number",
+     "weight": 4
+    },
+    {
+     "term": "average calculator",
+     "weight": 3
+    },
+    {
+     "term": "math calculators",
+     "weight": 3
+    },
+    {
+     "term": "financial fitness",
+     "weight": 3
+    },
+    {
+     "term": "health math",
+     "weight": 3
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 7,
+   "lists": 0,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "numberinputs"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 24,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 7,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 19,
+    "external": 0,
+    "contentInternal": 19,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "math",
+     "average calculator",
+     "Standard Deviation Calculator",
+     "Sample Size Calculator",
+     "Math Calculators",
+     "Scientific",
+     "Fraction",
+     "Percentage",
+     "Triangle",
+     "Volume",
+     "Standard Deviation",
+     "Random Number Generator",
+     "More Math Calculators",
+     "Financial",
+     "Fitness and Health",
+     "Math",
+     "Other",
+     "about us"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/average-calculator.html",
+     "https://www.calculator.net/standard-deviation-calculator.html",
+     "https://www.calculator.net/sample-size-calculator.html",
+     "https://www.calculator.net/scientific-calculator.html",
+     "https://www.calculator.net/fraction-calculator.html",
+     "https://www.calculator.net/percent-calculator.html",
+     "https://www.calculator.net/triangle-calculator.html",
+     "https://www.calculator.net/volume-calculator.html",
+     "https://www.calculator.net/random-number-generator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/average-calculator/": {
+   "url": "https://www.inchcalculator.com/average-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/average-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-23T06:45:30.290Z",
+   "title": "Average Calculator - Inch Calculator",
+   "metaDescription": "Use our average calculator to find the mean for a set of numbers. Plus, learn the average formula and steps to solve it.",
+   "canonical": "https://www.inchcalculator.com/average-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Average Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Average",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Find the Average",
+    "Frequently Asked Questions",
+    "Similar Statistics Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Steps to Solve:",
+    "Average Formula",
+    "Find the Average in Three Easy Steps",
+    "What's an average in math?",
+    "Does average always mean the mean?",
+    "Which is better, average or median?",
+    "What does it mean if average is higher than median?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Average Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Average"
+    },
+    {
+     "level": 3,
+     "text": "Steps to Solve:"
+    },
+    {
+     "level": 4,
+     "text": "Step One: Count the Numbers"
+    },
+    {
+     "level": 4,
+     "text": "Step Two: Find the Sum of the Numbers"
+    },
+    {
+     "level": 4,
+     "text": "Step Three: Use the Average Formula"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Find the Average"
+    },
+    {
+     "level": 3,
+     "text": "Average Formula"
+    },
+    {
+     "level": 3,
+     "text": "Find the Average in Three Easy Steps"
+    },
+    {
+     "level": 4,
+     "text": "Step One: Find the Count"
+    },
+    {
+     "level": 4,
+     "text": "Step Two: Find the Sum"
+    },
+    {
+     "level": 4,
+     "text": "Step Three: Find the Average"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "What's an average in math?"
+    },
+    {
+     "level": 3,
+     "text": "Does average always mean the mean?"
+    },
+    {
+     "level": 3,
+     "text": "Which is better, average or median?"
+    },
+    {
+     "level": 3,
+     "text": "What does it mean if average is higher than median?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Statistics Calculators"
+    }
+   ],
+   "wordCount": 956,
+   "avgSentenceWords": 22,
+   "faqs": [
+    "What's an average in math?",
+    "Does average always mean the mean?",
+    "Which is better, average or median?",
+    "What does it mean if average is higher than median?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "average",
+     "weight": 42
+    },
+    {
+     "term": "calculator",
+     "weight": 15
+    },
+    {
+     "term": "find",
+     "weight": 15
+    },
+    {
+     "term": "mean",
+     "weight": 15
+    },
+    {
+     "term": "data",
+     "weight": 14
+    },
+    {
+     "term": "set",
+     "weight": 13
+    },
+    {
+     "term": "numbers",
+     "weight": 12
+    },
+    {
+     "term": "median",
+     "weight": 12
+    },
+    {
+     "term": "step",
+     "weight": 9
+    },
+    {
+     "term": "count",
+     "weight": 8
+    },
+    {
+     "term": "sum",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "average formula",
+     "weight": 8
+    },
+    {
+     "term": "formula",
+     "weight": 7
+    },
+    {
+     "term": "used",
+     "weight": 7
+    },
+    {
+     "term": "three",
+     "weight": 6
+    },
+    {
+     "term": "arithmetic",
+     "weight": 6
+    },
+    {
+     "term": "arithmetic mean",
+     "weight": 6
+    },
+    {
+     "term": "mode",
+     "weight": 6
+    },
+    {
+     "term": "value",
+     "weight": 5
+    },
+    {
+     "term": "averages",
+     "weight": 5
+    },
+    {
+     "term": "above",
+     "weight": 5
+    },
+    {
+     "term": "average calculator",
+     "weight": 5
+    },
+    {
+     "term": "full bio",
+     "weight": 5
+    },
+    {
+     "term": "data set",
+     "weight": 5
+    },
+    {
+     "term": "mean median",
+     "weight": 5
+    },
+    {
+     "term": "steps",
+     "weight": 4
+    },
+    {
+     "term": "calculate",
+     "weight": 4
+    },
+    {
+     "term": "frequently",
+     "weight": 4
+    },
+    {
+     "term": "several",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "Average incomes are above median incomes, for example, because it is not possible to make less than 0 in income and some people have incomes in the millions or even hundreds of millions of dollars."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 2,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [
+    "Number Set"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 13,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2022-11-07",
+    "modified": "2023-09-19T18:22:28+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 122,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 50,
+    "external": 13,
+    "contentInternal": 26,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "mean calculator",
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Find the Average",
+     "Average Formula",
+     "Find the Average in Three Easy Steps",
+     "Frequently Asked Questions",
+     "Full bio",
+     "Average Calculator",
+     "mean",
+     "statistics",
+     "geometric averages",
+     "weighted averages",
+     "median",
+     "mode",
+     "mean, median, mode calculator",
+     "outliers",
+     "average time calculator",
+     "Expected Value Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/mean-calculator/",
+     "https://www.inchcalculator.com/average-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/average/",
+     "https://www.inchcalculator.com/average-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/average-calculator/#idx_how_to_find_the_average",
+     "https://www.inchcalculator.com/average-calculator/#idx_average_formula",
+     "https://www.inchcalculator.com/average-calculator/#idx_find_the_average_in_three_easy_steps",
+     "https://www.inchcalculator.com/average-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/brian-libgober/",
+     "https://www.inchcalculator.com/author/pateakia-heath/",
+     "https://www.inchcalculator.com/average-calculator/",
+     "https://www.inchcalculator.com/statistics-calculator/",
+     "https://www.inchcalculator.com/geometric-mean-calculator/",
+     "https://www.inchcalculator.com/weighted-average-calculator/",
+     "https://www.inchcalculator.com/median-calculator/",
+     "https://www.inchcalculator.com/mode-calculator/",
+     "https://www.inchcalculator.com/mean-median-mode-calculator/",
+     "https://www.inchcalculator.com/outlier-calculator/",
+     "https://www.inchcalculator.com/average-time-calculator/",
+     "https://www.inchcalculator.com/expected-value-calculator/",
+     "https://www.inchcalculator.com/winning-percentage-calculator/",
+     "https://www.inchcalculator.com/standard-error-calculator/",
+     "https://www.inchcalculator.com/central-limit-theorem-calculator/",
+     "https://www.inchcalculator.com/t-test-calculator/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Faverage-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Faverage-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Faverage-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Faverage-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Faverage-calculator%2F&text=Average+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Faverage-calculator%2F&text=Average+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/statistics/average.php": {
+   "url": "https://www.calculatorsoup.com/calculators/statistics/average.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/statistics/average.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-23T06:45:33.126Z",
+   "title": "Mean Calculator | Average Calculator",
+   "metaDescription": "Calculate the average of a set of numbers. Mean calculator finds the mean by adding all numbers and dividing by the count. Free online statistics calculators.",
+   "canonical": "https://www.calculatorsoup.com/calculators/statistics/average.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Mean Calculator | Average Calculator"
+   ],
+   "h2": [
+    "What is Average? What is the Mean?",
+    "Average is the Same as Mean",
+    "How to Find the Mean",
+    "Mean Formula",
+    "Calculator Use"
+   ],
+   "h3": [
+    "Related Statistics Calculators",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Mean Calculator | Average Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is Average? What is the Mean?"
+    },
+    {
+     "level": 2,
+     "text": "Average is the Same as Mean"
+    },
+    {
+     "level": 2,
+     "text": "How to Find the Mean"
+    },
+    {
+     "level": 2,
+     "text": "Mean Formula"
+    },
+    {
+     "level": 2,
+     "text": "Calculator Use"
+    },
+    {
+     "level": 3,
+     "text": "Related Statistics Calculators"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 469,
+   "avgSentenceWords": 28,
+   "faqs": [
+    "What is Average? What is the Mean?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "calculator",
+     "weight": 22
+    },
+    {
+     "term": "mean",
+     "weight": 21
+    },
+    {
+     "term": "average",
+     "weight": 17
+    },
+    {
+     "term": "data",
+     "weight": 11
+    },
+    {
+     "term": "mean calculator",
+     "weight": 11
+    },
+    {
+     "term": "data set",
+     "weight": 11
+    },
+    {
+     "term": "calculator average",
+     "weight": 9
+    },
+    {
+     "term": "average calculator",
+     "weight": 9
+    },
+    {
+     "term": "set",
+     "weight": 9
+    },
+    {
+     "term": "sum",
+     "weight": 8
+    },
+    {
+     "term": "calculators",
+     "weight": 7
+    },
+    {
+     "term": "statistics",
+     "weight": 7
+    },
+    {
+     "term": "count",
+     "weight": 6
+    },
+    {
+     "term": "values",
+     "weight": 6
+    },
+    {
+     "term": "numbers",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators statistics",
+     "weight": 5
+    },
+    {
+     "term": "calculator mean",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "find",
+     "weight": 4
+    },
+    {
+     "term": "average mean",
+     "weight": 3
+    },
+    {
+     "term": "data values",
+     "weight": 3
+    },
+    {
+     "term": "values divided",
+     "weight": 3
+    },
+    {
+     "term": "set average",
+     "weight": 3
+    },
+    {
+     "term": "number",
+     "weight": 3
+    },
+    {
+     "term": "mean formula",
+     "weight": 3
+    },
+    {
+     "term": "statistics calculators",
+     "weight": 3
+    },
+    {
+     "term": "com",
+     "weight": 3
+    },
+    {
+     "term": "com calculators",
+     "weight": 3
+    },
+    {
+     "term": "https www",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "\\[ \\text{mean} = \\bar{x} = \\dfrac{\\sum_{i=1}^{n}x_i}{n} \\] Calculator Use Use this calculator to find the average or mean of a data set."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 2,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Enter Data Set",
+    "reset"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 22,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "October 1, 2026",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 53,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 18,
+    "external": 0,
+    "contentInternal": 8,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Statistics",
+     "Mean Calculator | Average Calculator",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Mean, Median and Mode Calculator",
+     "Statistics Calculator",
+     "https://www.calculatorsoup.com/calculators/statistics/average.php",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/statistics/",
+     "https://www.calculatorsoup.com/calculators/statistics/average.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=statistics%2F&folderName=Statistics&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/statistics/average.php&h1=Mean+Calculator+%7C+Average+Calculator&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/statistics/mean-median-mode.php",
+     "https://www.calculatorsoup.com/calculators/statistics/statistics.php"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/statistics/average": {
+   "url": "https://www.omnicalculator.com/statistics/average",
+   "finalUrl": "https://www.omnicalculator.com/math/average",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T06:45:39.697Z",
+   "title": "Average Calculator",
+   "metaDescription": "Calculate the average (mean) with our user-friendly tool. Discover how to find averages or perform quick calculations effortlessly.",
+   "canonical": "https://www.omnicalculator.com/math/average",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Average Calculator"
+   ],
+   "h2": [
+    "How to use the average calculator",
+    "How to calculate an average",
+    "Similar concepts involving averages",
+    "Behind the scenes of the average calculator",
+    "FAQs"
+   ],
+   "h3": [
+    "What are the 4 averages?",
+    "Why do we calculate average?",
+    "Why are averages misleading?",
+    "How do I calculate my grade average?",
+    "How do I calculate a weighted average?",
+    "Is average better than mode?",
+    "What is better, average or median?",
+    "How do you calculate the average percentage in Excel?",
+    "Can you average averages?",
+    "Is the average of averages accurate?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Average Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to use the average calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate an average"
+    },
+    {
+     "level": 2,
+     "text": "Similar concepts involving averages"
+    },
+    {
+     "level": 2,
+     "text": "Behind the scenes of the average calculator"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What are the 4 averages?"
+    },
+    {
+     "level": 3,
+     "text": "Why do we calculate average?"
+    },
+    {
+     "level": 3,
+     "text": "Why are averages misleading?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate my grade average?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate a weighted average?"
+    },
+    {
+     "level": 3,
+     "text": "Is average better than mode?"
+    },
+    {
+     "level": 3,
+     "text": "What is better, average or median?"
+    },
+    {
+     "level": 3,
+     "text": "How do you calculate the average percentage in Excel?"
+    },
+    {
+     "level": 3,
+     "text": "Can you average averages?"
+    },
+    {
+     "level": 3,
+     "text": "Is the average of averages accurate?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1638,
+   "avgSentenceWords": 17,
+   "faqs": [
+    "What are the 4 averages?",
+    "Why do we calculate average?",
+    "Why are averages misleading?",
+    "How do I calculate my grade average?",
+    "How do I calculate a weighted average?",
+    "Is average better than mode?",
+    "What is better, average or median?",
+    "How do you calculate the average percentage in Excel?",
+    "Can you average averages?",
+    "Is the average of averages accurate?"
+   ],
+   "faqSchemaCount": 10,
+   "topics": [
+    {
+     "term": "average",
+     "weight": 64
+    },
+    {
+     "term": "calculator",
+     "weight": 31
+    },
+    {
+     "term": "average calculator",
+     "weight": 18
+    },
+    {
+     "term": "number",
+     "weight": 16
+    },
+    {
+     "term": "averages",
+     "weight": 16
+    },
+    {
+     "term": "data",
+     "weight": 15
+    },
+    {
+     "term": "values",
+     "weight": 13
+    },
+    {
+     "term": "mean",
+     "weight": 13
+    },
+    {
+     "term": "weighted",
+     "weight": 12
+    },
+    {
+     "term": "calculate",
+     "weight": 11
+    },
+    {
+     "term": "sum",
+     "weight": 11
+    },
+    {
+     "term": "numbers",
+     "weight": 10
+    },
+    {
+     "term": "value",
+     "weight": 9
+    },
+    {
+     "term": "set",
+     "weight": 8
+    },
+    {
+     "term": "grades",
+     "weight": 8
+    },
+    {
+     "term": "median",
+     "weight": 7
+    },
+    {
+     "term": "grade",
+     "weight": 7
+    },
+    {
+     "term": "weighted average",
+     "weight": 6
+    },
+    {
+     "term": "mode",
+     "weight": 6
+    },
+    {
+     "term": "divide",
+     "weight": 5
+    },
+    {
+     "term": "outliers",
+     "weight": 5
+    },
+    {
+     "term": "geometric mean",
+     "weight": 5
+    },
+    {
+     "term": "total number",
+     "weight": 5
+    },
+    {
+     "term": "grade average",
+     "weight": 5
+    },
+    {
+     "term": "similar",
+     "weight": 4
+    },
+    {
+     "term": "add",
+     "weight": 4
+    },
+    {
+     "term": "there",
+     "weight": 4
+    },
+    {
+     "term": "class",
+     "weight": 4
+    },
+    {
+     "term": "simply",
+     "weight": 4
+    },
+    {
+     "term": "input",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "If the scores are 56, 75, 88, 45, and 92, the calculator will determine the average to be 71.2.",
+    "As you input the 50th reading, the average of all 50 temperatures will be automatically calculated and presented to you.",
+    "For example, suppose we want an average of 24,55, 17, 87 and 100.",
+    "Note that the average rating calculator does a similar math — it calculates an average rating given the number of votes with values from 1 to 5.",
+    "Then their average salary $4,000 exceeds four times the typical salary of $1,000 while being much lower than the highest earning of $16,000.",
+    "Although it is easier to use the Omni Average Calculator, here is a recipe for calculating the average percentage in Excel: Input your desired data, e.g., from cells A1 to A10.",
+    "In another cell, input =AVERAGE(cell 1, cell 2,…).",
+    "In our example, this would be =AVERAGE(A1:A10).",
+    "The average GDP per country is $16,000, while the average GDP per person is ~$30,000, both vastly different figures showing vastly different things — so be careful."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 6,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Mateusz Mucha",
+    "published": "2016-01-20T14:57:13.025Z",
+    "modified": "2026-07-04T16:27:23.846Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 699,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 23,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "geometric mean calculator",
+     "median",
+     "average rating calculator",
+     "The weighted average calculator",
+     "GPA calculator",
+     "Least Common Multiple Calculator",
+     "Absolute Value Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/math/geometric-mean",
+     "https://www.omnicalculator.com/statistics/median",
+     "https://www.omnicalculator.com/statistics/five-star-rating",
+     "https://www.omnicalculator.com/math/weighted-average",
+     "https://www.omnicalculator.com/other/gpa",
+     "https://www.omnicalculator.com/math/least-common-multiple",
+     "https://www.omnicalculator.com/math/absolute-value"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.rapidtables.com/calc/math/average-calculator.html": [
+   "disallowed by robots.txt"
+  ]
+ }
+}

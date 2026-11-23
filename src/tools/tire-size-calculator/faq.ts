@@ -1,0 +1,9 @@
+export const faq = [
+  { q: "How do I calculate tire diameter?", a: "Multiply the width (mm) by the aspect ratio ÷ 100 to get the sidewall height, convert it to inches (÷ 25.4), double it and add the wheel diameter. For 225/65R17: 225 × 0.65 = 146.25 mm = 5.76 in, so the diameter is 17 + 2 × 5.76 = 28.52 in." },
+  { q: "What do the numbers on a tire mean?", a: "In 225/65R17, 225 is the tread width in millimeters, 65 is the aspect ratio (the sidewall is 65% as tall as the tire is wide), R means radial, and 17 is the wheel diameter in inches." },
+  { q: "How much bigger can I go on tire size?", a: "A common rule of thumb is to keep the overall diameter within about 3% of the original. Beyond that, speedometer error grows and ABS, stability control and clearance can be affected. Always keep at least the original load index." },
+  { q: "How does a bigger tire affect my speedometer?", a: "A larger diameter covers more ground per turn, so you travel faster than the speedometer shows. Going from 225/65R17 to 235/65R17 (+1.79%), an indicated 60 mph is really about 61.1 mph." },
+  { q: "Can I put 235 tires instead of 225?", a: "Often yes, if the diameter stays within about 3%, the tire fits your wheel width and there is enough clearance. 235/65R17 is 1.79% taller than 225/65R17. Check your vehicle maker's approved sizes and the tire's load index." },
+  { q: "What is the aspect ratio of a tire?", a: "The sidewall height as a percentage of the tread width. A 55 aspect ratio on a 205 mm tire means the sidewall is 205 × 0.55 = 112.75 mm (4.44 in) tall. Lower numbers mean shorter, stiffer sidewalls." },
+  { q: "Why doesn't my measured tire match the calculator?", a: "The calculator uses the nominal size. Actual dimensions vary by brand and model, tread wears down over time, rim width changes the section width, and a loaded tire squats slightly, so measured diameter and revolutions per mile differ a little." },
+];

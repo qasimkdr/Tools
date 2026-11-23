@@ -1,0 +1,9 @@
+export const faq = [
+  { q: "How do you calculate the average?", a: "Add all the values and divide by how many there are. For 4, 8, 15, 16, 23 and 42, the sum is 108 and there are 6 values, so the average is 108 ÷ 6 = 18." },
+  { q: "How do you calculate an average percentage?", a: "If every percentage comes from a group of the same size, average them normally. If the groups differ in size, multiply each percentage by its group size, add them up and divide by the total size. 80% of 50 and 90% of 10 average to (40 + 9) ÷ 60 = 81.67%, not 85%." },
+  { q: "How do you calculate an average time?", a: "Convert each time to seconds, find the average, then convert back. 5:30, 6:15, 5:58 and 6:02 are 330, 375, 358 and 362 seconds; the total is 1,425, so the average is 356.25 seconds, or 5:56.3." },
+  { q: "What is the difference between mean, median and mode?", a: "The mean is the sum divided by the count. The median is the middle value when the numbers are sorted. The mode is the value that appears most often. For 2, 3, 3, 8, the mean is 4, the median is 3 and the mode is 3." },
+  { q: "When should I use the median instead of the average?", a: "Use the median when a few extreme values would distort the mean, such as incomes, house prices or response times. The median shows the typical value; the mean shows the total shared out equally." },
+  { q: "Can I average averages?", a: "Only if each average covers the same number of items. Otherwise weight each average by its count, or add up the original totals and divide by the total count." },
+  { q: "What are the geometric and harmonic means?", a: "The geometric mean multiplies the values and takes the nth root; it is the right average for growth rates. The harmonic mean divides the count by the sum of reciprocals; it is the right average for rates like speed over equal distances. Both need positive numbers." },
+];
