@@ -39,6 +39,11 @@ for (const path of urls) {
       const bodyLinks = await page.locator('article a[href^="/"]').count();
       expect(bodyLinks, "internal links in article").toBeGreaterThanOrEqual(3);
       await expect(page.locator("article time[datetime]")).toHaveCount(1);
+      if (!/-from-today\/\d+\/$/.test(path)) {
+        const rel = await page.locator('[data-testid="related-list"] a[href^="/"]').evaluateAll((as) => [...new Set(as.map((a) => (a as HTMLAnchorElement).pathname))]);
+        expect(rel.length, `related tools on ${path}`).toBe(6);
+        expect(rel).not.toContain(path);
+      }
     }
   });
 }

@@ -122,25 +122,82 @@ const tokens = (t: ToolMeta) =>
   new Set([t.name, t.primaryKw, ...t.keywords].join(" ").toLowerCase().split(/[^a-z0-9]+/).filter((w) => w.length > 2 && !STOP.has(w)));
 const STOP = new Set(["calculator", "calc", "the", "how", "what", "for", "and", "from", "with", "online", "free", "calculate", "find"]);
 
+// Topic neighbours used only to fill a block when a tool has too few close matches.
+const NEIGHBOURS: Record<CategoryId, CategoryId[]> = {
+  finance: ["time-date", "math"], "time-date": ["finance", "everyday"], math: ["science", "education"], science: ["math", "construction"],
+  construction: ["math", "everyday"], health: ["education", "everyday"], education: ["math", "health"], everyday: ["time-date", "math"],
+  conversion: ["math", "science"], text: ["math", "everyday"],
+};
+const RELATED_SIZE = 6, MIN_INBOUND = 3;
+
+/** Topical relevance of b for a page about a (keyword overlap, category, hand-picked links in either direction). */
+function relevance(a: ToolMeta, b: ToolMeta) {
+  const ta = tokens(a);
+  let score = 0;
+  for (const w of tokens(b)) if (ta.has(w)) score += 1;
+  if (a.category === b.category) score += 2;
+  else if (NEIGHBOURS[a.category]?.includes(b.category)) score += 0.5;
+  if (a.related.includes(b.slug) || b.related.includes(a.slug)) score += 3;
+  return score;
+}
+
 /**
- * Internal-linking engine: 1) hand-picked `related` (strongest intent match) 2) keyword-token overlap
- * 3) same category. Only returns published tools. Deterministic → stable link graph between builds.
+ * Internal-linking engine, computed once at build time (static HTML, no client JS):
+ * 1) hand-picked `related` (published only), 2) closest matches by keyword/category/reciprocal links,
+ * 3) fill to 6 from neighbouring topics, then the site's most-linked tools, so every page shows 6;
+ * 4) every tool appears in ≥3 other tools' blocks: under-linked tools replace the weakest auto-picked card
+ *    on their most relevant pages (hand-picked cards are never replaced). Deterministic → stable link graph.
  */
-export function relatedTools(slug: string, limit = 6): ToolMeta[] {
-  const me = bySlug.get(slug);
-  if (!me) return [];
-  const out: ToolMeta[] = [];
-  for (const s of me.related) { const t = bySlug.get(s); if (t && t.slug !== slug) out.push(t); }
-  const mine = tokens(me);
-  const scored = TOOLS.filter((t) => t.slug !== slug && !out.includes(t))
-    .map((t) => {
-      let score = t.category === me.category ? 2 : 0;
-      for (const w of tokens(t)) if (mine.has(w)) score += 1;
-      if (t.related.includes(slug)) score += 3; // reciprocal links
-      return { t, score };
-    })
-    .filter((x) => x.score > 0)
-    .sort((a, b) => b.score - a.score || a.t.name.localeCompare(b.t.name));
-  for (const { t } of scored) { if (out.length >= limit) break; out.push(t); }
-  return out.slice(0, limit);
+let GRAPH: Map<string, ToolMeta[]> | null = null;
+function buildGraph() {
+  const byName = (x: ToolMeta, y: ToolMeta) => x.name.localeCompare(y.name);
+  const lists = new Map<string, ToolMeta[]>(), explicit = new Map<string, Set<string>>();
+  for (const me of TOOLS) {
+    const picks = me.related.map((s) => bySlug.get(s)).filter((t): t is ToolMeta => !!t && t.slug !== me.slug);
+    explicit.set(me.slug, new Set(picks.map((t) => t.slug)));
+    const rest = TOOLS.filter((t) => t.slug !== me.slug && !picks.includes(t))
+      .map((t) => ({ t, r: relevance(me, t) }))
+      .filter((x) => x.r >= 1)
+      .sort((x, y) => y.r - x.r || byName(x.t, y.t))
+      .map((x) => x.t);
+    lists.set(me.slug, [...picks, ...rest].slice(0, RELATED_SIZE));
+  }
+  const inbound = () => { const c = new Map(TOOLS.map((t) => [t.slug, 0])); for (const l of lists.values()) for (const t of l) c.set(t.slug, (c.get(t.slug) ?? 0) + 1); return c; };
+  // Fill short blocks: neighbouring topics first, then most-linked tools.
+  let inb = inbound();
+  for (const me of TOOLS) {
+    const l = lists.get(me.slug)!;
+    if (l.length >= RELATED_SIZE) continue;
+    const pool = TOOLS.filter((t) => t.slug !== me.slug && !l.includes(t))
+      .sort((x, y) => relevance(me, y) - relevance(me, x) || (inb.get(y.slug) ?? 0) - (inb.get(x.slug) ?? 0) || byName(x, y));
+    l.push(...pool.slice(0, RELATED_SIZE - l.length));
+  }
+  // Guarantee inbound links for under-linked tools.
+  inb = inbound();
+  const weak = [...TOOLS].sort((x, y) => (inb.get(x.slug) ?? 0) - (inb.get(y.slug) ?? 0) || byName(x, y));
+  for (const target of weak) {
+    if ((inb.get(target.slug) ?? 0) >= MIN_INBOUND) continue;
+    const hosts = TOOLS.filter((h) => h.slug !== target.slug && !lists.get(h.slug)!.includes(target))
+      .map((h) => ({ h, r: relevance(h, target) })).filter((x) => x.r >= 1)
+      .sort((x, y) => y.r - x.r || byName(x.h, y.h));
+    for (const { h } of hosts) {
+      if ((inb.get(target.slug) ?? 0) >= MIN_INBOUND) break;
+      const l = lists.get(h.slug)!, fixed = explicit.get(h.slug)!;
+      // Weakest replaceable card on a topically related page: auto-picked and still well linked after removal.
+      const cands = l.map((t, i) => ({ t, i, r: relevance(h, t) }))
+        .filter((x) => !fixed.has(x.t.slug) && (inb.get(x.t.slug) ?? 0) > MIN_INBOUND)
+        .sort((x, y) => x.r - y.r || (inb.get(y.t.slug) ?? 0) - (inb.get(x.t.slug) ?? 0));
+      if (!cands.length) continue;
+      const out = cands[0];
+      l[out.i] = target;
+      inb.set(out.t.slug, (inb.get(out.t.slug) ?? 0) - 1);
+      inb.set(target.slug, (inb.get(target.slug) ?? 0) + 1);
+    }
+  }
+  return lists;
+}
+
+export function relatedTools(slug: string, limit = RELATED_SIZE): ToolMeta[] {
+  GRAPH ??= buildGraph();
+  return (GRAPH.get(slug) ?? []).slice(0, limit);
 }
