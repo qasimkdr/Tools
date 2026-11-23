@@ -1,0 +1,478 @@
+{
+ "pages": {
+  "https://www.calculatorsoup.com/calculators/algebra/radicals-simplify.php": {
+   "url": "https://www.calculatorsoup.com/calculators/algebra/radicals-simplify.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/algebra/radicals-simplify.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-23T03:36:20.441Z",
+   "title": "Simplify Radical Expressions Calculator",
+   "metaDescription": "Enter the radical and radicand of the radical expression you want to simplify and the expression will be simplified for you. Shows the work. Calculator roots.",
+   "canonical": "https://www.calculatorsoup.com/calculators/algebra/radicals-simplify.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Simplify Radical Expressions Calculator"
+   ],
+   "h2": [],
+   "h3": [
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Simplify Radical Expressions Calculator"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 178,
+   "avgSentenceWords": 20,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "simplify radical",
+     "weight": 9
+    },
+    {
+     "term": "radical expressions",
+     "weight": 9
+    },
+    {
+     "term": "radical",
+     "weight": 8
+    },
+    {
+     "term": "expressions calculator",
+     "weight": 8
+    },
+    {
+     "term": "simplify",
+     "weight": 7
+    },
+    {
+     "term": "calculators",
+     "weight": 6
+    },
+    {
+     "term": "expressions",
+     "weight": 6
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators algebra",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "algebra",
+     "weight": 4
+    },
+    {
+     "term": "calculator simplify",
+     "weight": 3
+    },
+    {
+     "term": "com",
+     "weight": 3
+    },
+    {
+     "term": "com calculators",
+     "weight": 3
+    },
+    {
+     "term": "https www",
+     "weight": 3
+    },
+    {
+     "term": "www calculatorsoup",
+     "weight": 3
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 0,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "n =",
+    "x =",
+    "y =",
+    "reset"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 28,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "October 1, 2026",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 50,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 16,
+    "external": 0,
+    "contentInternal": 6,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Algebra",
+     "Simplify Radical Expressions Calculator",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/algebra/",
+     "https://www.calculatorsoup.com/calculators/algebra/radicals-simplify.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=algebra%2F&folderName=Algebra&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/algebra/radicals-simplify.php&h1=Simplify+Radical+Expressions+Calculator&pop_w=400&pop_h=600"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/math/simplify-radicals": {
+   "url": "https://www.omnicalculator.com/math/simplify-radicals",
+   "finalUrl": "https://www.omnicalculator.com/math/simplify-radicals",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T03:36:23.697Z",
+   "title": "Simplifying Radicals Calculator",
+   "metaDescription": "The simplifying radicals calculator takes your expression containing roots and transforms it into the simplest radical form.",
+   "canonical": "https://www.omnicalculator.com/math/simplify-radicals",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Simplifying Radicals Calculator"
+   ],
+   "h2": [
+    "Exponents and roots",
+    "How to simplify square roots",
+    "How to simplify radical expressions",
+    "Example: using the simplifying radicals calculator"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Simplifying Radicals Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Exponents and roots"
+    },
+    {
+     "level": 2,
+     "text": "How to simplify square roots"
+    },
+    {
+     "level": 2,
+     "text": "How to simplify radical expressions"
+    },
+    {
+     "level": 2,
+     "text": "Example: using the simplifying radicals calculator"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 2308,
+   "avgSentenceWords": 19,
+   "faqs": [
+    "What could that monstrosity be?",
+    "Quite a tool, isn't it?",
+    "Why don't we prove them wrong?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "calculator",
+     "weight": 35
+    },
+    {
+     "term": "radical",
+     "weight": 24
+    },
+    {
+     "term": "root",
+     "weight": 23
+    },
+    {
+     "term": "radicals",
+     "weight": 20
+    },
+    {
+     "term": "simplify",
+     "weight": 18
+    },
+    {
+     "term": "square roots",
+     "weight": 17
+    },
+    {
+     "term": "roots",
+     "weight": 16
+    },
+    {
+     "term": "simplifying",
+     "weight": 14
+    },
+    {
+     "term": "expressions",
+     "weight": 14
+    },
+    {
+     "term": "number",
+     "weight": 14
+    },
+    {
+     "term": "have",
+     "weight": 14
+    },
+    {
+     "term": "radical expressions",
+     "weight": 14
+    },
+    {
+     "term": "square",
+     "weight": 13
+    },
+    {
+     "term": "under",
+     "weight": 13
+    },
+    {
+     "term": "radicals calculator",
+     "weight": 12
+    },
+    {
+     "term": "order",
+     "weight": 12
+    },
+    {
+     "term": "numbers",
+     "weight": 12
+    },
+    {
+     "term": "simplifying radicals",
+     "weight": 11
+    },
+    {
+     "term": "expression",
+     "weight": 10
+    },
+    {
+     "term": "them",
+     "weight": 10
+    },
+    {
+     "term": "form",
+     "weight": 10
+    },
+    {
+     "term": "see",
+     "weight": 9
+    },
+    {
+     "term": "prime",
+     "weight": 9
+    },
+    {
+     "term": "prime factorization",
+     "weight": 9
+    },
+    {
+     "term": "factorization",
+     "weight": 9
+    },
+    {
+     "term": "same",
+     "weight": 8
+    },
+    {
+     "term": "find",
+     "weight": 8
+    },
+    {
+     "term": "need",
+     "weight": 8
+    },
+    {
+     "term": "number under",
+     "weight": 8
+    },
+    {
+     "term": "simplify radical",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "8√(58) = 5 Let us take this opportunity to mention a couple of essential rules that govern Omni's simplify radicals calculator.",
+    "How to simplify square roots Square roots are radicals of order 2.",
+    "a × n√b For n = 2, this boils down to simplifying square roots (described in the above section).",
+    "And once we apply it, we get something that returns us to point 1., and simplifying such radical expressions is no biggie.",
+    "First of all, we need to find prime factorizations of the two numbers under the radicals: 6 = 2 × 3, 64 = 2 × 2 × 2 × 2 × 2 × 2 = 26.",
+    "Now for simplifying the radical expression with the product: 2√6 × 4√64."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Maciej Kowalski",
+    "published": "2020-11-16T16:16:48.225Z",
+    "modified": "2026-07-09T09:02:07.941Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 621,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 35,
+    "external": 1,
+    "contentInternal": 19,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "root calculator",
+     "radical",
+     "Square roots",
+     "prime factorization calculator",
+     "cube root",
+     "the above section",
+     "VPD Calculator (Vapor Pressure Deficit)",
+     "Sod Calculator",
+     "Molar Mass Calculator",
+     "Least Common Multiple Calculator",
+     "Absolute Value Calculator",
+     "Interval Notation Calculator",
+     "Least Common Denominator Calculator",
+     "Null Space Calculator",
+     "Trig Identities Calculator",
+     "Partial Fraction Decomposition Calculator",
+     "Unit Rate Calculator",
+     "Exponential Function Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/math/root",
+     "https://www.omnicalculator.com/math/radical",
+     "https://www.omnicalculator.com/math/square-root",
+     "https://www.omnicalculator.com/math/prime-factorization",
+     "https://www.omnicalculator.com/math/cube-root",
+     "https://www.omnicalculator.com/math/simplify-radicals#how-to-simplify-square-roots",
+     "https://www.omnicalculator.com/math/simplify-radicals#how-to-simplify-radical-expressions",
+     "https://www.omnicalculator.com/biology/vapor-pressure-deficit",
+     "https://www.omnicalculator.com/biology/sod",
+     "https://www.omnicalculator.com/chemistry/molar-mass",
+     "https://www.omnicalculator.com/math/least-common-multiple",
+     "https://www.omnicalculator.com/math/absolute-value",
+     "https://www.omnicalculator.com/math/interval-notation",
+     "https://www.omnicalculator.com/math/least-common-denominator",
+     "https://www.omnicalculator.com/math/null-space",
+     "https://www.omnicalculator.com/math/trig-identities",
+     "https://www.omnicalculator.com/math/partial-fraction-decomposition",
+     "https://www.omnicalculator.com/math/unit-rate",
+     "https://www.omnicalculator.com/math/exponential-function"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

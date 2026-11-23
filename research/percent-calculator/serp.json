@@ -1,0 +1,193 @@
+{
+ "keywords": {
+  "percent difference calculator": {
+   "fetchedAt": "2026-11-23T03:36:01.088Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 18100,
+   "fileKd": 37,
+   "fileIntent": "C",
+   "semrushCompetitor": {
+    "position": 3,
+    "url": "www.calculator.net/percent-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://statisticsbyjim.com/basics/percent-change/",
+     "domain": "statisticsbyjim.com",
+     "title": "percent change",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://dqydj.com/?p=16172",
+     "domain": "dqydj.com",
+     "title": "dqydj.com",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://splashlearn.com/math-vocabulary/?p=36451",
+     "domain": "splashlearn.com",
+     "title": "Percent Difference Formula",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://corporatefinanceinstitute.com/learn/resources/excel/difference-formula",
+     "domain": "corporatefinanceinstitute.com",
+     "title": "% Difference Formula",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://dqydj.com/percent-difference-calculator/",
+     "domain": "dqydj.com",
+     "title": "Percent Difference Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.splashlearn.com/math-vocabulary/percent-difference-formula",
+     "domain": "www.splashlearn.com",
+     "title": "Percent Difference Formula",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://cuemath.com/percent-difference-formula",
+     "domain": "cuemath.com",
+     "title": "Percent Difference Formula",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://inchcalculator.com:443/percent-difference-calculator",
+     "domain": "inchcalculator.com",
+     "title": "Percent Difference Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.omnicalculator.com/statistics/percentage-difference",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.mathsisfun.com/data/percentage-difference-vs-error.htm",
+     "domain": "www.mathsisfun.com",
+     "title": "Percentage Difference",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://omnicalculator.com/math/percentage-change",
+     "domain": "omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.omnicalculator.com/finance/percentage-change",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://splashlearn.com/math-vocabulary/?p=32335",
+     "domain": "splashlearn.com",
+     "title": "How to Calculate Percent Difference",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "percent-calculator",
+ "page": "percent-calculator",
+ "category": "math",
+ "name": "Percent Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T03:36:01.089Z",
+ "topCompetitors": [
+  {
+   "domain": "splashlearn.com",
+   "bestRank": 3,
+   "keywords": 3,
+   "urls": [
+    "https://splashlearn.com/math-vocabulary/?p=36451",
+    "https://www.splashlearn.com/math-vocabulary/percent-difference-formula",
+    "https://splashlearn.com/math-vocabulary/?p=32335"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 9,
+   "keywords": 3,
+   "urls": [
+    "https://www.omnicalculator.com/statistics/percentage-difference",
+    "https://omnicalculator.com/math/percentage-change",
+    "https://www.omnicalculator.com/finance/percentage-change"
+   ]
+  },
+  {
+   "domain": "dqydj.com",
+   "bestRank": 2,
+   "keywords": 2,
+   "urls": [
+    "https://dqydj.com/?p=16172",
+    "https://dqydj.com/percent-difference-calculator/"
+   ]
+  },
+  {
+   "domain": "statisticsbyjim.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://statisticsbyjim.com/basics/percent-change/"
+   ]
+  },
+  {
+   "domain": "corporatefinanceinstitute.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://corporatefinanceinstitute.com/learn/resources/excel/difference-formula"
+   ]
+  },
+  {
+   "domain": "cuemath.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://cuemath.com/percent-difference-formula"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://inchcalculator.com:443/percent-difference-calculator"
+   ]
+  },
+  {
+   "domain": "mathsisfun.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://www.mathsisfun.com/data/percentage-difference-vs-error.htm"
+   ]
+  }
+ ]
+}

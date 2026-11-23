@@ -1,0 +1,304 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/finance/arv": {
+   "url": "https://www.omnicalculator.com/finance/arv",
+   "finalUrl": "https://www.omnicalculator.com/finance/arv",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T03:36:16.915Z",
+   "title": "ARV Calculator",
+   "metaDescription": "ARV calculator computes the maximum amount an investor should bid for purchasing a property based on the current and expected value of the property after renovations so that they can understand the potential ROI.",
+   "canonical": "https://www.omnicalculator.com/finance/arv",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "ARV Calculator – After Repair Value"
+   ],
+   "h2": [
+    "What is the meaning of ARV?",
+    "Investors purchase rule of 70% for real estate",
+    "How to use the after repair value calculator?",
+    "How to calculate the ARV of a property using the ARV real estate formula?",
+    "FAQs"
+   ],
+   "h3": [
+    "What is ARV in real estate?",
+    "What is the difference between market value and after repair value?",
+    "How do I calculate ARV?",
+    "What is the ARV if the property value is $400,000 and the renovation costs $100,000?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "ARV Calculator – After Repair Value"
+    },
+    {
+     "level": 2,
+     "text": "What is the meaning of ARV?"
+    },
+    {
+     "level": 2,
+     "text": "Investors purchase rule of 70% for real estate"
+    },
+    {
+     "level": 2,
+     "text": "How to use the after repair value calculator?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate the ARV of a property using the ARV real estate formula?"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What is ARV in real estate?"
+    },
+    {
+     "level": 3,
+     "text": "What is the difference between market value and after repair value?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate ARV?"
+    },
+    {
+     "level": 3,
+     "text": "What is the ARV if the property value is $400,000 and the renovation costs $100,000?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1580,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "What is ARV in real estate?",
+    "What is the difference between market value and after repair value?",
+    "How do I calculate ARV?",
+    "What is the ARV if the property value is $400,000 and the renovation costs $100,000?",
+    "What is the meaning of ARV?",
+    "How to use the after repair value calculator?",
+    "How to calculate the ARV of a property using the ARV real estate formula?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "value",
+     "weight": 53
+    },
+    {
+     "term": "property",
+     "weight": 45
+    },
+    {
+     "term": "arv",
+     "weight": 44
+    },
+    {
+     "term": "000 usd",
+     "weight": 38
+    },
+    {
+     "term": "usd",
+     "weight": 32
+    },
+    {
+     "term": "after repair",
+     "weight": 30
+    },
+    {
+     "term": "repair value",
+     "weight": 30
+    },
+    {
+     "term": "after",
+     "weight": 28
+    },
+    {
+     "term": "repair",
+     "weight": 26
+    },
+    {
+     "term": "renovation",
+     "weight": 19
+    },
+    {
+     "term": "calculate",
+     "weight": 19
+    },
+    {
+     "term": "area",
+     "weight": 18
+    },
+    {
+     "term": "calculator",
+     "weight": 17
+    },
+    {
+     "term": "cost",
+     "weight": 17
+    },
+    {
+     "term": "total",
+     "weight": 16
+    },
+    {
+     "term": "price",
+     "weight": 15
+    },
+    {
+     "term": "square",
+     "weight": 13
+    },
+    {
+     "term": "real estate",
+     "weight": 12
+    },
+    {
+     "term": "total area",
+     "weight": 12
+    },
+    {
+     "term": "repairs",
+     "weight": 11
+    },
+    {
+     "term": "property value",
+     "weight": 11
+    },
+    {
+     "term": "square foot",
+     "weight": 11
+    },
+    {
+     "term": "requires repairs",
+     "weight": 11
+    },
+    {
+     "term": "renovations",
+     "weight": 10
+    },
+    {
+     "term": "potential",
+     "weight": 10
+    },
+    {
+     "term": "enter",
+     "weight": 10
+    },
+    {
+     "term": "property's",
+     "weight": 9
+    },
+    {
+     "term": "average",
+     "weight": 9
+    },
+    {
+     "term": "150 000",
+     "weight": 9
+    },
+    {
+     "term": "repair cost",
+     "weight": 9
+    }
+   ],
+   "claims": [
+    "This rule suggests that you should pay only up to 70% of a property's calculated ARV or after repair value to maximize your returns on the invested capital.",
+    "So, the maximum price you should offer on a regular property is 70% of its potential ARV and holding period while subtracting your renovation costs.",
+    "The first method calculates ARV based on the current value of the property: Enter the property's current value in the first field, e.g., 100,000 USD.",
+    "The second method calculates ARV based on the average price in the area: Enter the average area price per square foot of the locality in the first field, e.g., 150 USD.",
+    "In our examples, the ARV or after repair value calculator tells us: If a property's initial value is 100,000 USD; Or if the price in the area is 150 USD per sq.",
+    "For example, if the average price per square foot of our property is 150 USD with a total area of 1000 square feet, we can calculate it as follows: ARV = 150 USD × 1000 sq.",
+    "= 25,000 USD Knowing the ARV of a property gives you the potential to make the most out of your investment and maximize your returns.",
+    "The after repair value (ARV) will be $500,000."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 18,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "AbdulRafay Moeen",
+    "published": "2022-01-21T01:59:24.791Z",
+    "modified": "2026-09-14T10:12:03.798Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 952,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 25,
+    "external": 1,
+    "contentInternal": 9,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "home value calculator",
+     "what to offer on a house calculator",
+     "ROIC calculator",
+     "average collection period",
+     "cap rate calculator",
+     "gross rent multiplier calculator",
+     "Prorated Rent Calculator",
+     "Emergency Fund Calculator",
+     "Full-time Equivalent (FTE) Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/finance/home-value-us",
+     "https://www.omnicalculator.com/finance/what-to-offer-on-a-house",
+     "https://www.omnicalculator.com/finance/roic",
+     "https://www.omnicalculator.com/finance/average-collection",
+     "https://www.omnicalculator.com/finance/cap-rate",
+     "https://www.omnicalculator.com/finance/gross-rent-multiplier",
+     "https://www.omnicalculator.com/finance/prorated-rent",
+     "https://www.omnicalculator.com/finance/emergency-fund",
+     "https://www.omnicalculator.com/finance/full-time-equivalent"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

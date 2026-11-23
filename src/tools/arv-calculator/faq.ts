@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "What is ARV in real estate?", a: "After-repair value (ARV) is the estimated market value of a property once planned renovations are finished. Investors base it on recent sales of comparable, renovated homes nearby, not on the property's current condition." },
+  { q: "How do you calculate ARV?", a: "Find three or more comparable sales (similar size, beds, baths and condition after repairs, nearby and recent), work out each one's price per square foot, average them and multiply by the subject property's square footage. Three comps averaging $148.56 per sq ft value a 1,750 sq ft house at about $260,000." },
+  { q: "What is the 70% rule in house flipping?", a: "A screening rule: pay no more than 70% of the ARV minus repair costs. With a $300,000 ARV and $40,000 of repairs, the maximum offer is 0.70 × 300,000 − 40,000 = $170,000. The other 30% is meant to cover holding, selling and financing costs plus profit." },
+  { q: "Is the 70% rule always right?", a: "No, it's a quick filter. In expensive or very competitive markets investors may use 75–80%, while riskier projects may call for 65%. Always run the full numbers: purchase, repairs, holding costs, selling costs and your target profit." },
+  { q: "What costs should I include in a flip?", a: "Purchase and closing costs, the renovation budget (with a contingency), holding costs for every month you own it (loan interest, taxes, insurance, utilities) and selling costs such as agent commissions and seller closing costs." },
+  { q: "What is a wholesale fee?", a: "The assignment fee a wholesaler charges for passing a contract to an investor. Wholesalers subtract it from the maximum offer: MAO = ARV × 70% − repairs − fee." },
+];

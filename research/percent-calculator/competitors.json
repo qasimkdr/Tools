@@ -1,0 +1,1257 @@
+{
+ "pages": {
+  "https://www.calculator.net/percent-calculator.html": {
+   "url": "https://www.calculator.net/percent-calculator.html",
+   "finalUrl": "https://www.calculator.net/percent-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-23T03:36:02.946Z",
+   "title": "Percentage Calculator",
+   "metaDescription": "This free percentage calculator computes a number of values involving percentages, including the percentage difference between two given values.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Percentage Calculator"
+   ],
+   "h2": [
+    "Percentage Calculator in Common Phrases",
+    "Percentage Difference Calculator",
+    "Percentage Change Calculator"
+   ],
+   "h3": [
+    "What is a percentage?",
+    "Percentage formula",
+    "Percentage difference formula",
+    "Percentage change formula"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Percentage Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Percentage Calculator in Common Phrases"
+    },
+    {
+     "level": 2,
+     "text": "Percentage Difference Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Percentage Change Calculator"
+    },
+    {
+     "level": 3,
+     "text": "What is a percentage?"
+    },
+    {
+     "level": 3,
+     "text": "Percentage formula"
+    },
+    {
+     "level": 3,
+     "text": "Percentage difference formula"
+    },
+    {
+     "level": 3,
+     "text": "Percentage change formula"
+    }
+   ],
+   "wordCount": 603,
+   "avgSentenceWords": 22,
+   "faqs": [
+    "What is a percentage?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "percentage",
+     "weight": 23
+    },
+    {
+     "term": "value",
+     "weight": 14
+    },
+    {
+     "term": "calculator",
+     "weight": 9
+    },
+    {
+     "term": "difference",
+     "weight": 8
+    },
+    {
+     "term": "decimal",
+     "weight": 8
+    },
+    {
+     "term": "number",
+     "weight": 7
+    },
+    {
+     "term": "values",
+     "weight": 6
+    },
+    {
+     "term": "percentage difference",
+     "weight": 6
+    },
+    {
+     "term": "percent",
+     "weight": 6
+    },
+    {
+     "term": "difference between",
+     "weight": 6
+    },
+    {
+     "term": "math",
+     "weight": 5
+    },
+    {
+     "term": "between",
+     "weight": 5
+    },
+    {
+     "term": "formula",
+     "weight": 5
+    },
+    {
+     "term": "increase",
+     "weight": 5
+    },
+    {
+     "term": "percentage calculator",
+     "weight": 5
+    },
+    {
+     "term": "decimal form",
+     "weight": 5
+    },
+    {
+     "term": "initial value",
+     "weight": 5
+    },
+    {
+     "term": "below",
+     "weight": 4
+    },
+    {
+     "term": "ratio",
+     "weight": 4
+    },
+    {
+     "term": "equivalent",
+     "weight": 4
+    },
+    {
+     "term": "multiplying",
+     "weight": 4
+    },
+    {
+     "term": "result",
+     "weight": 4
+    },
+    {
+     "term": "decrease",
+     "weight": 4
+    },
+    {
+     "term": "calculator please",
+     "weight": 3
+    },
+    {
+     "term": "please provide",
+     "weight": 3
+    },
+    {
+     "term": "values below",
+     "weight": 3
+    },
+    {
+     "term": "calculate button",
+     "weight": 3
+    },
+    {
+     "term": "third value",
+     "weight": 3
+    },
+    {
+     "term": "percentage change",
+     "weight": 3
+    },
+    {
+     "term": "numbers",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "In mathematics, a percentage is a number or ratio that represents a fraction of 100.",
+    "Percentages are computed by multiplying the value of a ratio by 100.",
+    "P × V1 = V2 P is the percentage, V1 is the first value that the percentage will modify, and V2 is the result of the percentage operating on V1.",
+    "EX: P × 30 = 1.5 P = 1.5 30 = 0.05 × 100 = 5% If solving manually, the formula requires the percentage in decimal form, so the solution for P needs to be multiplied by 100 in order to convert it to a percent.",
+    "Multiplying the result by 100 will yield the solution in percent, rather than decimal form.",
+    "It basically involves converting a percent into its decimal equivalent, and either subtracting (decrease) or adding (increase) the decimal equivalent from and to 1, respectively."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 14,
+   "lists": 0,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "cpar1",
+    "cpar2",
+    "cpar3",
+    "c21par1",
+    "c21par2",
+    "c22par1",
+    "c22par2",
+    "c23par1",
+    "c23par2",
+    "c3par1",
+    "c3par2",
+    "c2par1",
+    "c2type",
+    "c2par2",
+    "c2par3"
+   ],
+   "selectOptionsSample": "increase decrease",
+   "unitToggle": false,
+   "wordsBeforeTool": 26,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 12,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 17,
+    "external": 0,
+    "contentInternal": 17,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "math",
+     "percentage calculator",
+     "Math Calculators",
+     "Scientific",
+     "Fraction",
+     "Percentage",
+     "Triangle",
+     "Volume",
+     "Standard Deviation",
+     "Random Number Generator",
+     "More Math Calculators",
+     "Financial",
+     "Fitness and Health",
+     "Math",
+     "Other",
+     "about us",
+     "sitemap",
+     "terms of use"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/percent-calculator.html",
+     "https://www.calculator.net/scientific-calculator.html",
+     "https://www.calculator.net/fraction-calculator.html",
+     "https://www.calculator.net/triangle-calculator.html",
+     "https://www.calculator.net/volume-calculator.html",
+     "https://www.calculator.net/standard-deviation-calculator.html",
+     "https://www.calculator.net/random-number-generator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/percent-difference-calculator/": {
+   "url": "https://www.inchcalculator.com/percent-difference-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/percent-difference-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-23T03:36:05.960Z",
+   "title": "Percent Difference Calculator - Inch Calculator",
+   "metaDescription": "Find the percent difference between two numbers using our calculator. Plus, learn how to calculate percent difference, step by step.",
+   "canonical": "https://www.inchcalculator.com/percent-difference-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Percent Difference Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Percent Difference",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate Percent Difference",
+    "How are Percent Difference and Percent Change Different?",
+    "Frequently Asked Questions",
+    "Similar Percentage Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Steps to Solve Percent Difference:",
+    "Percent Difference Formula",
+    "Steps to Find Percent Difference",
+    "What is the purpose of percent difference?",
+    "Is percent difference the same as percent error?",
+    "Can you have a negative difference?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Percent Difference Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Percent Difference"
+    },
+    {
+     "level": 3,
+     "text": "Steps to Solve Percent Difference:"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Percent Difference"
+    },
+    {
+     "level": 3,
+     "text": "Percent Difference Formula"
+    },
+    {
+     "level": 3,
+     "text": "Steps to Find Percent Difference"
+    },
+    {
+     "level": 4,
+     "text": "Step One: Find the Difference"
+    },
+    {
+     "level": 4,
+     "text": "Step Two: Find the Average"
+    },
+    {
+     "level": 4,
+     "text": "Step Three: Divide the Difference by the Average"
+    },
+    {
+     "level": 4,
+     "text": "Step Four: Convert to a Percentage"
+    },
+    {
+     "level": 2,
+     "text": "How are Percent Difference and Percent Change Different?"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "What is the purpose of percent difference?"
+    },
+    {
+     "level": 3,
+     "text": "Is percent difference the same as percent error?"
+    },
+    {
+     "level": 3,
+     "text": "Can you have a negative difference?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Percentage Calculators"
+    }
+   ],
+   "wordCount": 826,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "What is the purpose of percent difference?",
+    "Is percent difference the same as percent error?",
+    "Can you have a negative difference?",
+    "How are Percent Difference and Percent Change Different?"
+   ],
+   "faqSchemaCount": 3,
+   "topics": [
+    {
+     "term": "difference",
+     "weight": 47
+    },
+    {
+     "term": "percent difference",
+     "weight": 45
+    },
+    {
+     "term": "percent",
+     "weight": 40
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "difference between",
+     "weight": 12
+    },
+    {
+     "term": "value",
+     "weight": 11
+    },
+    {
+     "term": "find",
+     "weight": 9
+    },
+    {
+     "term": "percentage",
+     "weight": 9
+    },
+    {
+     "term": "between",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "average",
+     "weight": 8
+    },
+    {
+     "term": "step",
+     "weight": 8
+    },
+    {
+     "term": "percent change",
+     "weight": 8
+    },
+    {
+     "term": "values",
+     "weight": 7
+    },
+    {
+     "term": "change",
+     "weight": 7
+    },
+    {
+     "term": "difference calculator",
+     "weight": 6
+    },
+    {
+     "term": "numbers",
+     "weight": 6
+    },
+    {
+     "term": "steps",
+     "weight": 6
+    },
+    {
+     "term": "calculate",
+     "weight": 5
+    },
+    {
+     "term": "percentage calculator",
+     "weight": 5
+    },
+    {
+     "term": "calculator percent",
+     "weight": 5
+    },
+    {
+     "term": "solve",
+     "weight": 4
+    },
+    {
+     "term": "formula",
+     "weight": 4
+    },
+    {
+     "term": "has",
+     "weight": 4
+    },
+    {
+     "term": "same",
+     "weight": 4
+    },
+    {
+     "term": "divide",
+     "weight": 4
+    },
+    {
+     "term": "negative",
+     "weight": 4
+    },
+    {
+     "term": "have",
+     "weight": 3
+    },
+    {
+     "term": "see",
+     "weight": 3
+    },
+    {
+     "term": "add",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "Finally, multiply by 100 to get a percentage.",
+    "Percent Difference Formula The formula for percent difference is: p = |a – b| / (a + b) ÷ 2 × 100 Thus, percent difference p is equal to the absolute value of a minus b, divided by a plus b divided by 2, times 100."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 2,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "Value A",
+    "Value B"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 25,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2018-03-15",
+    "modified": "2023-06-05T20:40:56+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 122,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 43,
+    "external": 13,
+    "contentInternal": 19,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Percent Difference Calculator",
+     "How to Calculate Percent Difference",
+     "Percent Difference Formula",
+     "Steps to Find Percent Difference",
+     "How are Percent Difference and Percent Change Different?",
+     "Frequently Asked Questions",
+     "Full bio",
+     "percent change calculator",
+     "percentage calculator",
+     "percent error",
+     "Percentage Calculator",
+     "Marks Percentage Calculator",
+     "Percent Yield Calculator",
+     "Percent to Fraction Calculator",
+     "Percent to Ratio Calculator",
+     "See All"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/percent-difference-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/percent-difference/",
+     "https://www.inchcalculator.com/percent-difference-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/percent-difference-calculator/#idx_how_to_calculate_percent_difference",
+     "https://www.inchcalculator.com/percent-difference-calculator/#idx_percent_difference_formula",
+     "https://www.inchcalculator.com/percent-difference-calculator/#idx_steps_to_find_percent_difference",
+     "https://www.inchcalculator.com/percent-difference-calculator/#idx_how_are_percent_difference_and_percent_change_different",
+     "https://www.inchcalculator.com/percent-difference-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/pateakia-heath/",
+     "https://www.inchcalculator.com/percent-difference-calculator/",
+     "https://www.inchcalculator.com/percent-change-calculator/",
+     "https://www.inchcalculator.com/percentage-calculator/",
+     "https://www.inchcalculator.com/percent-error-calculator/",
+     "https://www.inchcalculator.com/marks-percentage-calculator/",
+     "https://www.inchcalculator.com/percent-yield-calculator/",
+     "https://www.inchcalculator.com/percent-to-fraction-calculator/",
+     "https://www.inchcalculator.com/percent-to-ratio-calculator/",
+     "https://www.inchcalculator.com/percentage-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fpercent-difference-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fpercent-difference-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fpercent-difference-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fpercent-difference-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fpercent-difference-calculator%2F&text=Percent+Difference+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fpercent-difference-calculator%2F&text=Percent+Difference+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/statistics/percentage-difference": {
+   "url": "https://www.omnicalculator.com/statistics/percentage-difference",
+   "finalUrl": "https://www.omnicalculator.com/math/percentage-difference",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T03:36:09.941Z",
+   "title": "Percentage Difference Calculator",
+   "metaDescription": "The percentage difference calculator calculates the percentage when the direction of the change is unknown.",
+   "canonical": "https://www.omnicalculator.com/math/percentage-difference",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Percentage Difference Calculator"
+   ],
+   "h2": [
+    "How to use percentage difference calculator",
+    "What is percentage difference?",
+    "How to find the percentage difference?",
+    "The percentage difference formula",
+    "When is the percentage difference useful and when is it confusing?",
+    "The meaning of percentage difference in real life",
+    "How to lie with data without lying",
+    "Behind the scenes of the percentage difference calculator",
+    "FAQs"
+   ],
+   "h3": [
+    "Is percentage difference equal to percentage change?",
+    "What is the percentage difference between 20 and 30?",
+    "When is the percentage difference equal to 100%?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Percentage Difference Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to use percentage difference calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is percentage difference?"
+    },
+    {
+     "level": 2,
+     "text": "How to find the percentage difference?"
+    },
+    {
+     "level": 2,
+     "text": "The percentage difference formula"
+    },
+    {
+     "level": 2,
+     "text": "When is the percentage difference useful and when is it confusing?"
+    },
+    {
+     "level": 2,
+     "text": "The meaning of percentage difference in real life"
+    },
+    {
+     "level": 2,
+     "text": "How to lie with data without lying"
+    },
+    {
+     "level": 2,
+     "text": "Behind the scenes of the percentage difference calculator"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "Is percentage difference equal to percentage change?"
+    },
+    {
+     "level": 3,
+     "text": "What is the percentage difference between 20 and 30?"
+    },
+    {
+     "level": 3,
+     "text": "When is the percentage difference equal to 100%?"
+    }
+   ],
+   "wordCount": 2532,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "How to find the percentage difference?",
+    "Is percentage difference equal to percentage change?",
+    "What is the percentage difference between 20 and 30?",
+    "When is the percentage difference equal to 100%?",
+    "What is percentage difference?",
+    "When is the percentage difference useful and when is it confusing?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "percentage difference",
+     "weight": 107
+    },
+    {
+     "term": "percentage",
+     "weight": 101
+    },
+    {
+     "term": "difference",
+     "weight": 86
+    },
+    {
+     "term": "numbers",
+     "weight": 27
+    },
+    {
+     "term": "between",
+     "weight": 24
+    },
+    {
+     "term": "difference between",
+     "weight": 23
+    },
+    {
+     "term": "calculator",
+     "weight": 17
+    },
+    {
+     "term": "data",
+     "weight": 17
+    },
+    {
+     "term": "difference calculator",
+     "weight": 15
+    },
+    {
+     "term": "change",
+     "weight": 13
+    },
+    {
+     "term": "now",
+     "weight": 13
+    },
+    {
+     "term": "have",
+     "weight": 13
+    },
+    {
+     "term": "percentage change",
+     "weight": 12
+    },
+    {
+     "term": "want",
+     "weight": 11
+    },
+    {
+     "term": "calculate",
+     "weight": 10
+    },
+    {
+     "term": "value",
+     "weight": 10
+    },
+    {
+     "term": "example",
+     "weight": 10
+    },
+    {
+     "term": "company",
+     "weight": 10
+    },
+    {
+     "term": "problem",
+     "weight": 9
+    },
+    {
+     "term": "has",
+     "weight": 9
+    },
+    {
+     "term": "formula",
+     "weight": 8
+    },
+    {
+     "term": "presented",
+     "weight": 8
+    },
+    {
+     "term": "say",
+     "weight": 8
+    },
+    {
+     "term": "let's",
+     "weight": 8
+    },
+    {
+     "term": "employees",
+     "weight": 8
+    },
+    {
+     "term": "difference formula",
+     "weight": 8
+    },
+    {
+     "term": "talk",
+     "weight": 7
+    },
+    {
+     "term": "number",
+     "weight": 7
+    },
+    {
+     "term": "point",
+     "weight": 6
+    },
+    {
+     "term": "tool",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "For example, suppose you're interested in finding the percentage difference between the numbers 70 and 85.",
+    "If you input these values into the calculator, it would show that the percentage difference between 70 and 85 is 19.355%, and the difference between the two numbers is 15.",
+    "For example, we can say that 5 is 20% percentage of a number 25, or 2 is 5% of 40.",
+    "When we talk about a percentage, we can think of the % sign as meaning 1/100.",
+    "Let's take, for example, 23 and 31; their difference is 8.",
+    "Divide the difference by the average: |a - b| / ((a + b) / 2).",
+    "Express the result as percentages by multiplying it by 100.",
+    "If you have read how to calculate percentage change, you'd know that we either have a 50% or -33.3333% change, depending on which value is the initial and which one is the final.",
+    "The percentage difference formula is as follows: percentage difference = 100 × |a - b| / ((a + b) / 2) To get even more specific, you may talk about a percentage increase or percentage decrease.",
+    "In this case, using the percentage difference calculator, we can see that there is a difference of 22.86%."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 4,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Álvaro Díez",
+    "published": "2016-01-08T17:03:36.309Z",
+    "modified": "2026-06-17T17:35:09.581Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 585,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 22,
+    "external": 1,
+    "contentInternal": 6,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "percentage calculators",
+     "percentage point calculator",
+     "percentage of a number",
+     "how to calculate percentage change",
+     "percent error calculator",
+     "Editorial Policies page"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/math/percentage",
+     "https://www.omnicalculator.com/math/percentage-point",
+     "https://www.omnicalculator.com/math/percentage-of-percentage",
+     "https://www.omnicalculator.com/math/percentage-change",
+     "https://www.omnicalculator.com/math/percent-error",
+     "https://www.omnicalculator.com/editorial-policies"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/algebra/percent-difference-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/algebra/percent-difference-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/algebra/percent-difference-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-23T03:36:13.051Z",
+   "title": "Percentage Difference Calculator",
+   "metaDescription": "Calculating percentage difference of two numbers. ( | ΔV |/ ( ∑V/2) ) * 100 = ( | (V1 - V2) | / ((V1 + V2)/2) ) * 100 = percentage difference. How to calculate percentage difference and percentage formula.",
+   "canonical": "https://www.calculatorsoup.com/calculators/algebra/percent-difference-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Percentage Difference Calculator"
+   ],
+   "h2": [
+    "References"
+   ],
+   "h3": [
+    "Percentage Difference Formula:",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Percentage Difference Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Percentage Difference Formula:"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 456,
+   "avgSentenceWords": 27,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "difference",
+     "weight": 26
+    },
+    {
+     "term": "percentage difference",
+     "weight": 20
+    },
+    {
+     "term": "calculator",
+     "weight": 18
+    },
+    {
+     "term": "percentage",
+     "weight": 18
+    },
+    {
+     "term": "difference calculator",
+     "weight": 14
+    },
+    {
+     "term": "dfrac",
+     "weight": 11
+    },
+    {
+     "term": "times 100",
+     "weight": 11
+    },
+    {
+     "term": "percent",
+     "weight": 9
+    },
+    {
+     "term": "numbers",
+     "weight": 8
+    },
+    {
+     "term": "dfrac lvert",
+     "weight": 8
+    },
+    {
+     "term": "rvert dfrac",
+     "weight": 8
+    },
+    {
+     "term": "difference between",
+     "weight": 8
+    },
+    {
+     "term": "times",
+     "weight": 7
+    },
+    {
+     "term": "calculators",
+     "weight": 6
+    },
+    {
+     "term": "between",
+     "weight": 6
+    },
+    {
+     "term": "percent difference",
+     "weight": 6
+    },
+    {
+     "term": "lvert",
+     "weight": 5
+    },
+    {
+     "term": "rvert",
+     "weight": 5
+    },
+    {
+     "term": "change",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators algebra",
+     "weight": 5
+    },
+    {
+     "term": "calculator percentage",
+     "weight": 5
+    },
+    {
+     "term": "percentage change",
+     "weight": 5
+    },
+    {
+     "term": "100 dfrac",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "algebra",
+     "weight": 4
+    },
+    {
+     "term": "calculate",
+     "weight": 3
+    },
+    {
+     "term": "number",
+     "weight": 3
+    },
+    {
+     "term": "last",
+     "weight": 3
+    },
+    {
+     "term": "last visited",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "Percentage Difference Formula: Percentage difference equals the absolute value of the change in value, divided by the average of the 2 numbers, all multiplied by 100.",
+    "References Percent Difference Equations Formulas Calculator from AJ Design Software, last visited 22, Feb."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 0,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "V1 =",
+    "V2 =",
+    "reset"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 38,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "October 1, 2026",
+    "authoritativeSources": [
+     "http://en.wikipedia.org/wiki/Percent_difference"
+    ]
+   },
+   "ux": {
+    "htmlKB": 53,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 22,
+    "external": 2,
+    "contentInternal": 12,
+    "contentExternal": 2,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Algebra",
+     "Percentage Difference Calculator",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "calculate percentage change",
+     "Percentage Calculator",
+     "Percentage Change Calculator",
+     "Decimal to Percent",
+     "Percent to Decimal",
+     "Fraction to Percent",
+     "Percent to Fraction",
+     "percentage change",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/algebra/",
+     "https://www.calculatorsoup.com/calculators/algebra/percent-difference-calculator.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=algebra%2F&folderName=Algebra&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/algebra/percent-difference-calculator.php&h1=Percentage+Difference+Calculator&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/algebra/percent-change-calculator.php",
+     "https://www.calculatorsoup.com/calculators/math/percentage.php",
+     "https://www.calculatorsoup.com/calculators/math/decimal-to-percent-calculator.php",
+     "https://www.calculatorsoup.com/calculators/math/percent-to-decimal-calculator.php",
+     "https://www.calculatorsoup.com/calculators/math/fraction-to-percent-calculator.php",
+     "https://www.calculatorsoup.com/calculators/math/percent-to-fraction-calculator.php"
+    ],
+    "externalSample": [
+     "http://www.ajdesigner.com/phppercentdifference/percent_difference_equation.php",
+     "http://en.wikipedia.org/wiki/Percent_difference"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

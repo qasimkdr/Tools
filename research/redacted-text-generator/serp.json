@@ -1,0 +1,143 @@
+{
+ "keywords": {
+  "redacted text generator": {
+   "fetchedAt": "2026-11-23T03:36:01.506Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1000,
+   "fileKd": 4,
+   "fileIntent": "C",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.omnicalculator.com/other/strikethrough-text",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.namecheap.com/visual/font-generator/strikethrough/",
+     "domain": "www.namecheap.com",
+     "title": "Strikethrough text generator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://felo.ai/agents/JdoMtYwQAr4J6rHD8VwG4W",
+     "domain": "felo.ai",
+     "title": "felo.ai",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://felo.ai/agents/DxnJc9efAiyYDwuFJ6sfoG",
+     "domain": "felo.ai",
+     "title": "felo.ai",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://gitlab.com/vincenttunru/obfuscate/-/issues/2",
+     "domain": "gitlab.com",
+     "title": "Look into using the Redacted font",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://portswigger.net/daily-swig/new-tool-can-uncover-redacted-pixelated-text-to-reveal-sensitive-data",
+     "domain": "portswigger.net",
+     "title": "Developer warns that redaction method is insecure",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.itpro.com/security/362302/only-use-black-bars-to-redact-text-warns-researcher",
+     "domain": "www.itpro.com",
+     "title": "Only ever use black bars to redact text",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://hackaday.com/2022/02/23/pixelating-text-not-a-good-idea",
+     "domain": "hackaday.com",
+     "title": "pixelating text not a good idea",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "redacted-text-generator",
+ "page": "redacted-text-generator",
+ "category": "text",
+ "name": "Redacted Text Generator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T03:36:01.507Z",
+ "topCompetitors": [
+  {
+   "domain": "felo.ai",
+   "bestRank": 3,
+   "keywords": 2,
+   "urls": [
+    "https://felo.ai/agents/JdoMtYwQAr4J6rHD8VwG4W",
+    "https://felo.ai/agents/DxnJc9efAiyYDwuFJ6sfoG"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/other/strikethrough-text"
+   ]
+  },
+  {
+   "domain": "namecheap.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.namecheap.com/visual/font-generator/strikethrough/"
+   ]
+  },
+  {
+   "domain": "gitlab.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://gitlab.com/vincenttunru/obfuscate/-/issues/2"
+   ]
+  },
+  {
+   "domain": "portswigger.net",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://portswigger.net/daily-swig/new-tool-can-uncover-redacted-pixelated-text-to-reveal-sensitive-data"
+   ]
+  },
+  {
+   "domain": "itpro.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.itpro.com/security/362302/only-use-black-bars-to-redact-text-warns-researcher"
+   ]
+  },
+  {
+   "domain": "hackaday.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://hackaday.com/2022/02/23/pixelating-text-not-a-good-idea"
+   ]
+  }
+ ]
+}

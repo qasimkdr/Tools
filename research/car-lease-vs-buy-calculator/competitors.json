@@ -1,0 +1,652 @@
+{
+ "pages": {
+  "https://www.inchcalculator.com/lease-vs-buy-car-calculator/": {
+   "url": "https://www.inchcalculator.com/lease-vs-buy-car-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/lease-vs-buy-car-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-23T03:36:27.271Z",
+   "title": "Lease vs. Buy Car Calculator - Inch Calculator",
+   "metaDescription": "Compare the cost of leasing and buying a car using our lease vs. buy calculator. See several key factors to consider when leasing or buying.",
+   "canonical": "https://www.inchcalculator.com/lease-vs-buy-car-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Lease vs. Buy Car Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Lease vs. Buy",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Compare the Costs of Leasing vs. Buying a Car",
+    "Similar Loan Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Leasing a Car",
+    "Buying a Car",
+    "Factors to Consider When Comparing Leasing to Purchasing",
+    "Long-Term Cost Considerations"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Lease vs. Buy Car Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Lease vs. Buy"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Compare the Costs of Leasing vs. Buying a Car"
+    },
+    {
+     "level": 3,
+     "text": "Leasing a Car"
+    },
+    {
+     "level": 3,
+     "text": "Buying a Car"
+    },
+    {
+     "level": 3,
+     "text": "Factors to Consider When Comparing Leasing to Purchasing"
+    },
+    {
+     "level": 4,
+     "text": "Depreciation"
+    },
+    {
+     "level": 4,
+     "text": "Mileage"
+    },
+    {
+     "level": 4,
+     "text": "Maintenance and Repairs"
+    },
+    {
+     "level": 4,
+     "text": "Tax Implications"
+    },
+    {
+     "level": 3,
+     "text": "Long-Term Cost Considerations"
+    },
+    {
+     "level": 2,
+     "text": "Similar Loan Calculators"
+    }
+   ],
+   "wordCount": 1203,
+   "avgSentenceWords": 24,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "lease",
+     "weight": 27
+    },
+    {
+     "term": "vehicle",
+     "weight": 25
+    },
+    {
+     "term": "car",
+     "weight": 21
+    },
+    {
+     "term": "loan",
+     "weight": 16
+    },
+    {
+     "term": "leasing",
+     "weight": 13
+    },
+    {
+     "term": "payment",
+     "weight": 13
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "buying",
+     "weight": 12
+    },
+    {
+     "term": "term",
+     "weight": 12
+    },
+    {
+     "term": "buy",
+     "weight": 11
+    },
+    {
+     "term": "cost",
+     "weight": 11
+    },
+    {
+     "term": "payments",
+     "weight": 11
+    },
+    {
+     "term": "monthly",
+     "weight": 9
+    },
+    {
+     "term": "value",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "down payment",
+     "weight": 8
+    },
+    {
+     "term": "lease term",
+     "weight": 8
+    },
+    {
+     "term": "down",
+     "weight": 7
+    },
+    {
+     "term": "have",
+     "weight": 7
+    },
+    {
+     "term": "financial",
+     "weight": 7
+    },
+    {
+     "term": "costs",
+     "weight": 7
+    },
+    {
+     "term": "trade",
+     "weight": 6
+    },
+    {
+     "term": "total",
+     "weight": 6
+    },
+    {
+     "term": "loan payments",
+     "weight": 6
+    },
+    {
+     "term": "long",
+     "weight": 6
+    },
+    {
+     "term": "long term",
+     "weight": 6
+    },
+    {
+     "term": "lease payment",
+     "weight": 6
+    },
+    {
+     "term": "upfront costs",
+     "weight": 6
+    },
+    {
+     "term": "total cost",
+     "weight": 6
+    },
+    {
+     "term": "loan calculator",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Leasing a Car A lease is essentially a long-term rental agreement offering the use of a vehicle for a set period, typically 2-4 years, in exchange for a monthly lease payment."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 2,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "Vehicle Price",
+    "Residual Value",
+    "Trade-in Value",
+    "Down Payment",
+    "Dealer Reductions",
+    "Sales Tax",
+    "Dealer Fees",
+    "Lease Term",
+    "Lease Term Units",
+    "Money Factor",
+    "Loan Term",
+    "Loan Term Units",
+    "Interest Rate"
+   ],
+   "selectOptionsSample": "mo yr mo yr",
+   "unitToggle": false,
+   "wordsBeforeTool": 26,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2024-01-02",
+    "modified": "2024-01-09T16:25:24+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 126,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 45,
+    "external": 13,
+    "contentInternal": 21,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "find rate",
+     "below",
+     "Calculator",
+     "How to Compare the Costs of Leasing vs. Buying a Car",
+     "Leasing a Car",
+     "Buying a Car",
+     "Factors to Consider When Comparing Leasing to Purchasing",
+     "Long-Term Cost Considerations",
+     "Full bio",
+     "Lease vs. Buy Car Calculator",
+     "lease",
+     "auto loan",
+     "depreciation",
+     "loan is paid off",
+     "loan payments",
+     "ATV Loan Calculator",
+     "Boat Loan Calculator",
+     "Motorcycle Loan Calculator",
+     "RV Loan Calculator",
+     "Car Lease Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/apr-calculator/",
+     "https://www.inchcalculator.com/lease-vs-buy-car-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/lease-vs-buy-car-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/lease-vs-buy-car-calculator/#idx_how_to_compare_the_costs_of_leasing_vs_buying_a_car",
+     "https://www.inchcalculator.com/lease-vs-buy-car-calculator/#idx_leasing_a_car",
+     "https://www.inchcalculator.com/lease-vs-buy-car-calculator/#idx_buying_a_car",
+     "https://www.inchcalculator.com/lease-vs-buy-car-calculator/#idx_factors_to_consider_when_comparing_leasing_to_purchasing",
+     "https://www.inchcalculator.com/lease-vs-buy-car-calculator/#idx_long-term_cost_considerations",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/stephen-fogel/",
+     "https://www.inchcalculator.com/lease-vs-buy-car-calculator/",
+     "https://www.inchcalculator.com/car-lease-calculator/",
+     "https://www.inchcalculator.com/auto-loan-calculator/",
+     "https://www.inchcalculator.com/depreciation-calculator/",
+     "https://www.inchcalculator.com/loan-payoff-calculator/",
+     "https://www.inchcalculator.com/loan-payment-calculator/",
+     "https://www.inchcalculator.com/atv-loan-calculator/",
+     "https://www.inchcalculator.com/boat-loan-calculator/",
+     "https://www.inchcalculator.com/motorcycle-loan-calculator/",
+     "https://www.inchcalculator.com/rv-loan-calculator/",
+     "https://www.inchcalculator.com/vehicle-loan-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Flease-vs-buy-car-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Flease-vs-buy-car-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Flease-vs-buy-car-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Flease-vs-buy-car-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Flease-vs-buy-car-calculator%2F&text=Lease+vs.+Buy+Car+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Flease-vs-buy-car-calculator%2F&text=Lease+vs.+Buy+Car+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/auto-lease-calculator.html": {
+   "url": "https://www.calculator.net/auto-lease-calculator.html",
+   "finalUrl": "https://www.calculator.net/auto-lease-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-23T03:36:30.279Z",
+   "title": "Auto Lease Calculator",
+   "metaDescription": "Free auto lease calculator to find the monthly payment and total cost for an auto lease. It also compares the cost of leasing to that of purchasing a vehicle.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Auto Lease Calculator"
+   ],
+   "h2": [],
+   "h3": [
+    "Auto Leases",
+    "Why Lease?",
+    "Getting out of a Car Lease Early",
+    "Explanation of How the Calculator Computes Monthly Leases"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Auto Lease Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Auto Leases"
+    },
+    {
+     "level": 3,
+     "text": "Why Lease?"
+    },
+    {
+     "level": 3,
+     "text": "Getting out of a Car Lease Early"
+    },
+    {
+     "level": 3,
+     "text": "Explanation of How the Calculator Computes Monthly Leases"
+    }
+   ],
+   "wordCount": 2399,
+   "avgSentenceWords": 24,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "lease",
+     "weight": 61
+    },
+    {
+     "term": "car",
+     "weight": 36
+    },
+    {
+     "term": "leases",
+     "weight": 21
+    },
+    {
+     "term": "monthly",
+     "weight": 18
+    },
+    {
+     "term": "lessee",
+     "weight": 18
+    },
+    {
+     "term": "auto",
+     "weight": 15
+    },
+    {
+     "term": "there",
+     "weight": 15
+    },
+    {
+     "term": "value",
+     "weight": 14
+    },
+    {
+     "term": "financial",
+     "weight": 13
+    },
+    {
+     "term": "payment",
+     "weight": 13
+    },
+    {
+     "term": "leased",
+     "weight": 12
+    },
+    {
+     "term": "vehicle",
+     "weight": 12
+    },
+    {
+     "term": "wear",
+     "weight": 12
+    },
+    {
+     "term": "tear",
+     "weight": 12
+    },
+    {
+     "term": "residual value",
+     "weight": 11
+    },
+    {
+     "term": "monthly lease",
+     "weight": 11
+    },
+    {
+     "term": "excessive wear",
+     "weight": 11
+    },
+    {
+     "term": "price",
+     "weight": 10
+    },
+    {
+     "term": "cost",
+     "weight": 10
+    },
+    {
+     "term": "lease calculator",
+     "weight": 9
+    },
+    {
+     "term": "calculator",
+     "weight": 9
+    },
+    {
+     "term": "residual",
+     "weight": 9
+    },
+    {
+     "term": "payments",
+     "weight": 9
+    },
+    {
+     "term": "leased vehicles",
+     "weight": 9
+    },
+    {
+     "term": "vehicles",
+     "weight": 9
+    },
+    {
+     "term": "money factor",
+     "weight": 9
+    },
+    {
+     "term": "lessees",
+     "weight": 9
+    },
+    {
+     "term": "excessive",
+     "weight": 9
+    },
+    {
+     "term": "down",
+     "weight": 8
+    },
+    {
+     "term": "cars",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "To get the money factor, divide the APR on the lease by 24 or 2400, depending on whether it is expressed as a decimal or percent.",
+    "In the U.S., standard auto leases generally allow annual mileage limits of 10,000 to 15,000, with most coming in at 12,000.",
+    "Explanation of How the Calculator Computes Monthly Leases Take a car leasable for 3 years and has an agreed-upon value of $50,000 after negotiations on the auto price (capitalized cost) as an example.",
+    "The lending financial institution for the lease has placed a residual value of $25,000 on the car after the 3 years and has given the lessee an APR of 6% after a down payment of $8,000.",
+    "The lessee is also willing to trade in a used car with a value of $5,000, and the transaction occurs in a state with a 6% tax rate.",
+    "$50,000 - $8,000 - $5,000 = $37,000 Subtract the residual value as supplied by the financial institution, $37,000 - $25,000 = $12,000 This is the amount that needs to be amortized over the life of the lease."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 3,
+   "lists": 5,
+   "images": 5,
+   "videos": 0,
+   "calculatorInputs": [
+    "cloanamount",
+    "cmonthlypay",
+    "cloanterm",
+    "cratetype",
+    "cinterestrate",
+    "cdownpayment",
+    "ctradeinvalue",
+    "csaletax",
+    "cresidualvalue"
+   ],
+   "selectOptionsSample": "interest rate(%) money factor",
+   "unitToggle": false,
+   "wordsBeforeTool": 21,
+   "actions": {
+    "print": true,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 25,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 31,
+    "external": 0,
+    "contentInternal": 31,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "financial",
+     "auto lease calculator",
+     "Print",
+     "Total Price",
+     "Monthly Payment",
+     "Auto Loan Calculator",
+     "Lease Calculator",
+     "Financial Calculators",
+     "Mortgage",
+     "Loan",
+     "Auto Loan",
+     "Interest",
+     "Payment",
+     "Retirement",
+     "Amortization",
+     "Investment",
+     "Currency",
+     "Inflation"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/auto-lease-calculator.html",
+     "https://www.calculator.net/auto-lease-calculator.html#",
+     "https://www.calculator.net/auto-loan-calculator.html",
+     "https://www.calculator.net/lease-calculator.html",
+     "https://www.calculator.net/mortgage-calculator.html",
+     "https://www.calculator.net/loan-calculator.html",
+     "https://www.calculator.net/interest-calculator.html",
+     "https://www.calculator.net/payment-calculator.html",
+     "https://www.calculator.net/retirement-calculator.html",
+     "https://www.calculator.net/amortization-calculator.html",
+     "https://www.calculator.net/investment-calculator.html",
+     "https://www.calculator.net/currency-calculator.html",
+     "https://www.calculator.net/inflation-calculator.html",
+     "https://www.calculator.net/finance-calculator.html",
+     "https://www.calculator.net/mortgage-payoff-calculator.html",
+     "https://www.calculator.net/tax-calculator.html",
+     "https://www.calculator.net/compound-interest-calculator.html",
+     "https://www.calculator.net/salary-calculator.html",
+     "https://www.calculator.net/401k-calculator.html",
+     "https://www.calculator.net/interest-rate-calculator.html",
+     "https://www.calculator.net/sales-tax-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

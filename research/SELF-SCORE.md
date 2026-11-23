@@ -60,7 +60,7 @@ Rule-based on-page signals only — not rankings.
 | cone-volume-calculator | **26/30** | 4 | 4 | 5 | 4 | 4 | 5 | www.calculatorsoup.com | 22/30 | ahead |
 | normal-cdf-calculator | **25/30** | 4 | 3 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 23/30 | ahead |
 | matrix-inverse-calculator | **27/30** | 5 | 3 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 16/25 | ahead |
-| credit-card-payoff-calculator | **28/30** | 5 | 4 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
+| credit-card-payoff-calculator | **27/30** | 5 | 4 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
 | circle-skirt-calculator | **25/30** | 5 | 3 | 5 | 3 | 4 | 5 | www.omnicalculator.com | 19/25 | ahead |
 | cross-stitch-calculator | **25/30** | 5 | 3 | 5 | 3 | 4 | 5 | www.omnicalculator.com | 16/25 | ahead |
 | fill-dirt-calculator | **28/30** | 5 | 5 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 26/30 | ahead |
@@ -117,3 +117,8 @@ Rule-based on-page signals only — not rankings.
 | goat-gestation-calculator | **26/30** | 5 | 2 | 5 | 5 | 4 | 5 | www.calculatorsoup.com | 23/30 | ahead |
 | vpd-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 16/25 | ahead |
 | 50-to-1-gas-oil-mix-calculator | **25/30** | 5 | 2 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 17/25 | ahead |
+| percent-calculator | **26/30** | 4 | 3 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 24/30 | ahead |
+| arv-calculator | **26/30** | 5 | 4 | 5 | 3 | 4 | 5 | www.omnicalculator.com | 17/25 | ahead |
+| simplify-radicals-calculator | **25/30** | 4 | 2 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 17/25 | ahead |
+| car-lease-vs-buy-calculator | **27/30** | 5 | 4 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
+| redacted-text-generator | **25/30** | 4 | 3 | 5 | 5 | 3 | 5 | www.omnicalculator.com | 17/30 | ahead |

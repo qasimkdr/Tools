@@ -1,0 +1,290 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/other/strikethrough-text": {
+   "url": "https://www.omnicalculator.com/other/strikethrough-text",
+   "finalUrl": "https://www.omnicalculator.com/other/strikethrough-text",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T03:36:34.039Z",
+   "title": "Strikethrough Text Generator",
+   "metaDescription": "Instantly cross out or censor your text in multiple styles using our strikethrough text generator.",
+   "canonical": "https://www.omnicalculator.com/other/strikethrough-text",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Strikethrough Text Generator"
+   ],
+   "h2": [
+    "What is strikethrough text?",
+    "How strikeout text works",
+    "Why people use censored text",
+    "How to use strikethrough text generator/censored text generator",
+    "Text formatting tools similar to a strikeout text generator",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I cross out text in Google Docs?",
+    "What does redacted mean?",
+    "What does a strikethrough look like?",
+    "What are the strikethrough shortcuts for popular apps?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Strikethrough Text Generator"
+    },
+    {
+     "level": 2,
+     "text": "What is strikethrough text?"
+    },
+    {
+     "level": 2,
+     "text": "How strikeout text works"
+    },
+    {
+     "level": 2,
+     "text": "Why people use censored text"
+    },
+    {
+     "level": 2,
+     "text": "How to use strikethrough text generator/censored text generator"
+    },
+    {
+     "level": 2,
+     "text": "Text formatting tools similar to a strikeout text generator"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I cross out text in Google Docs?"
+    },
+    {
+     "level": 3,
+     "text": "What does redacted mean?"
+    },
+    {
+     "level": 3,
+     "text": "What does a strikethrough look like?"
+    },
+    {
+     "level": 3,
+     "text": "What are the strikethrough shortcuts for popular apps?"
+    }
+   ],
+   "wordCount": 1059,
+   "avgSentenceWords": 18,
+   "faqs": [
+    "How do I cross out text in Google Docs?",
+    "What does redacted mean?",
+    "What does a strikethrough look like?",
+    "What are the strikethrough shortcuts for popular apps?",
+    "What is strikethrough text?",
+    "Did you know?",
+    "Love experimenting with text Styles?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "text",
+     "weight": 66
+    },
+    {
+     "term": "strikethrough",
+     "weight": 22
+    },
+    {
+     "term": "strikethrough text",
+     "weight": 17
+    },
+    {
+     "term": "text generator",
+     "weight": 17
+    },
+    {
+     "term": "generator",
+     "weight": 13
+    },
+    {
+     "term": "censored text",
+     "weight": 11
+    },
+    {
+     "term": "strikeout text",
+     "weight": 11
+    },
+    {
+     "term": "through",
+     "weight": 9
+    },
+    {
+     "term": "censored",
+     "weight": 9
+    },
+    {
+     "term": "formatting",
+     "weight": 9
+    },
+    {
+     "term": "line",
+     "weight": 9
+    },
+    {
+     "term": "google docs",
+     "weight": 8
+    },
+    {
+     "term": "redacted",
+     "weight": 7
+    },
+    {
+     "term": "strikeout",
+     "weight": 7
+    },
+    {
+     "term": "redaction",
+     "weight": 7
+    },
+    {
+     "term": "google",
+     "weight": 6
+    },
+    {
+     "term": "crossed",
+     "weight": 6
+    },
+    {
+     "term": "letter",
+     "weight": 6
+    },
+    {
+     "term": "docs",
+     "weight": 5
+    },
+    {
+     "term": "words",
+     "weight": 5
+    },
+    {
+     "term": "word",
+     "weight": 5
+    },
+    {
+     "term": "strikethrough shortcuts",
+     "weight": 5
+    },
+    {
+     "term": "horizontal line",
+     "weight": 5
+    },
+    {
+     "term": "line through",
+     "weight": 5
+    },
+    {
+     "term": "paste",
+     "weight": 4
+    },
+    {
+     "term": "documents",
+     "weight": 4
+    },
+    {
+     "term": "cross",
+     "weight": 4
+    },
+    {
+     "term": "shortcuts",
+     "weight": 4
+    },
+    {
+     "term": "different",
+     "weight": 4
+    },
+    {
+     "term": "used",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "Apply the strikethrough formatting, you can: Go to Format → Text → Strikethrough in the menu; or Use the shortcut Alt + Shift + 5 (Windows/ChromeOS) or ⌘ + Shift + X (Mac)."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 7,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joanna Śmietańska",
+    "published": "2026-03-03T11:41:36.285Z",
+    "modified": "2026-04-24T09:14:36.530Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 455,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 21,
+    "external": 1,
+    "contentInternal": 5,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Sentence case converter",
+     "Capital case converter",
+     "Subscript generator",
+     "Superscript generator",
+     "Underline text generator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/other/sentence-case-converter",
+     "https://www.omnicalculator.com/other/capital-case-converter",
+     "https://www.omnicalculator.com/other/subscript-generator",
+     "https://www.omnicalculator.com/other/superscript-generator",
+     "https://www.omnicalculator.com/everyday-life/underline-text"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "article/guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

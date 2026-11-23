@@ -1,0 +1,194 @@
+{
+ "keywords": {
+  "lease vs buy car calculator": {
+   "fetchedAt": "2026-11-23T03:36:01.405Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1600,
+   "fileKd": 8,
+   "fileIntent": "C",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://kbb.com/car-lease-calculator/",
+     "domain": "kbb.com",
+     "title": "car lease calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.creditkarma.com/calculators/auto/lease-vs-buy-car",
+     "domain": "www.creditkarma.com",
+     "title": "lease vs buy calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://autotrader.com/car-lease-calculator",
+     "domain": "autotrader.com",
+     "title": "Car Lease Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.centralwcu.org/node/146",
+     "domain": "www.centralwcu.org",
+     "title": "LEASING VS BUYING A CAR",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.inchcalculator.com/lease-vs-buy-car-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Lease vs. Buy Car Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://calculator.net/auto-lease-calculator.html",
+     "domain": "calculator.net",
+     "title": "Auto Lease Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://cs.thomsonreuters.com/ua/help/us-en/staff/advisory/pfin/pfin-buying-vs-leasing-auto.htm",
+     "domain": "cs.thomsonreuters.com",
+     "title": "Buying vs. Leasing - Auto",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.bhfcu.com/Calculators/Vehicle-Calculators/Leasing-vs-Buying-a-Car-Calculator",
+     "domain": "www.bhfcu.com",
+     "title": "Leasing vs Buying a Car Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://moneyzine.com/calculators/auto-loan-calculators/buy-or-lease-a-car-calculator/",
+     "domain": "moneyzine.com",
+     "title": "buy or lease a car calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.experian.com/blogs/ask-experian/auto-lease-calculator/",
+     "domain": "www.experian.com",
+     "title": "Auto Lease Calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.bankrate.com/loans/auto-loans/lease-vs-buy-calculator",
+     "domain": "www.bankrate.com",
+     "title": "lease vs buy calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://autofinder.com/tools/lease-vs-buy-calculator",
+     "domain": "autofinder.com",
+     "title": "Lease vs Buy Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "car-lease-vs-buy-calculator",
+ "page": "car-lease-vs-buy-calculator",
+ "category": "finance",
+ "name": "Car Lease vs Buy Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T03:36:01.405Z",
+ "topCompetitors": [
+  {
+   "domain": "kbb.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://kbb.com/car-lease-calculator/"
+   ]
+  },
+  {
+   "domain": "creditkarma.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.creditkarma.com/calculators/auto/lease-vs-buy-car"
+   ]
+  },
+  {
+   "domain": "autotrader.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://autotrader.com/car-lease-calculator"
+   ]
+  },
+  {
+   "domain": "centralwcu.org",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.centralwcu.org/node/146"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/lease-vs-buy-car-calculator/"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://calculator.net/auto-lease-calculator.html"
+   ]
+  },
+  {
+   "domain": "thomsonreuters.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://cs.thomsonreuters.com/ua/help/us-en/staff/advisory/pfin/pfin-buying-vs-leasing-auto.htm"
+   ]
+  },
+  {
+   "domain": "bhfcu.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.bhfcu.com/Calculators/Vehicle-Calculators/Leasing-vs-Buying-a-Car-Calculator"
+   ]
+  },
+  {
+   "domain": "moneyzine.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://moneyzine.com/calculators/auto-loan-calculators/buy-or-lease-a-car-calculator/"
+   ]
+  },
+  {
+   "domain": "experian.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://www.experian.com/blogs/ask-experian/auto-lease-calculator/"
+   ]
+  }
+ ]
+}

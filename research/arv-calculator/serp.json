@@ -1,0 +1,210 @@
+{
+ "keywords": {
+  "arv calculator": {
+   "fetchedAt": "2026-11-23T03:36:01.198Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1300,
+   "fileKd": 7,
+   "fileIntent": "C",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://resimpli.com/blog/70-rule-calculator/",
+     "domain": "resimpli.com",
+     "title": "70 rule calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://resimpli.com/calculators/70-rule-calculator/",
+     "domain": "resimpli.com",
+     "title": "REsimpli 70 rule calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.kiavi.com/blog/what-is-70-rule-in-house-flipping",
+     "domain": "www.kiavi.com",
+     "title": "what is 70 rule in house flipping",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://biggerpockets.com/blog/?p=90493",
+     "domain": "biggerpockets.com",
+     "title": "biggerpockets.com",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.chase.com/personal/mortgage/education/buying-a-home/mao-real-estate",
+     "domain": "www.chase.com",
+     "title": "mao real estate",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.landlordstudio.com/free-70-percent-calculator/",
+     "domain": "www.landlordstudio.com",
+     "title": "70% Rule Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://dealcheck.io/blog/what-is-the-70-percent-rule/",
+     "domain": "dealcheck.io",
+     "title": "what is the 70 percent rule",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.landlordstudio.com/calculators/free-70-percent-calculator",
+     "domain": "www.landlordstudio.com",
+     "title": "70% Rule Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.rocketmortgage.com/learn/what-is-70-rule-in-house-flipping",
+     "domain": "www.rocketmortgage.com",
+     "title": "What is the 70% rule in house flipping?",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.omnicalculator.com/all/arv",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.flipperforce.com/70-percent-rule-formula.html",
+     "domain": "www.flipperforce.com",
+     "title": "The 70% Rule in House Flipping",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.bobvila.com/articles/70-percent-rule-in-house-flipping.md",
+     "domain": "www.bobvila.com",
+     "title": "70 percent rule in house flipping",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.masterclass.com/articles/70-percent-rule-explained",
+     "domain": "www.masterclass.com",
+     "title": "70 percent rule explained",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://innago.com/70-percent-rule-calculator/",
+     "domain": "innago.com",
+     "title": "70 percent rule calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "arv-calculator",
+ "page": "arv-calculator",
+ "category": "finance",
+ "name": "Arv Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T03:36:01.198Z",
+ "topCompetitors": [
+  {
+   "domain": "resimpli.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://resimpli.com/blog/70-rule-calculator/",
+    "https://resimpli.com/calculators/70-rule-calculator/"
+   ]
+  },
+  {
+   "domain": "landlordstudio.com",
+   "bestRank": 6,
+   "keywords": 2,
+   "urls": [
+    "https://www.landlordstudio.com/free-70-percent-calculator/",
+    "https://www.landlordstudio.com/calculators/free-70-percent-calculator"
+   ]
+  },
+  {
+   "domain": "kiavi.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.kiavi.com/blog/what-is-70-rule-in-house-flipping"
+   ]
+  },
+  {
+   "domain": "biggerpockets.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://biggerpockets.com/blog/?p=90493"
+   ]
+  },
+  {
+   "domain": "chase.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.chase.com/personal/mortgage/education/buying-a-home/mao-real-estate"
+   ]
+  },
+  {
+   "domain": "dealcheck.io",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://dealcheck.io/blog/what-is-the-70-percent-rule/"
+   ]
+  },
+  {
+   "domain": "rocketmortgage.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://www.rocketmortgage.com/learn/what-is-70-rule-in-house-flipping"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/all/arv"
+   ]
+  },
+  {
+   "domain": "flipperforce.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://www.flipperforce.com/70-percent-rule-formula.html"
+   ]
+  },
+  {
+   "domain": "bobvila.com",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://www.bobvila.com/articles/70-percent-rule-in-house-flipping.md"
+   ]
+  }
+ ]
+}

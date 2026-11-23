@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How do I make redacted text?", a: "Type or paste your text, choose what to redact (everything, specific words, or parts you put in [square brackets]), pick a bar style and copy the result. Each hidden letter becomes a block character such as █." },
+  { q: "What character is the black bar?", a: "The full block, Unicode U+2588 (█). It's part of the Block Elements range (U+2580–U+259F), which also includes lighter and shorter blocks like ▓ and ▇. Because it's a normal text character, you can paste it anywhere that supports Unicode." },
+  { q: "Can I paste redacted text on social media?", a: "Yes. Block characters are standard Unicode, so they work in most apps, comments, messages and bios. A few fonts draw them slightly narrower or taller, but they stay readable as bars." },
+  { q: "Is this real redaction?", a: "No. It's cosmetic: the original words aren't in the output, but if you share the original anywhere, it can still be read, and the length of each bar can hint at the hidden word. Turn on 'Hide word lengths' to use fixed-width bars. For legal or confidential documents, use proper redaction software that removes the underlying text." },
+  { q: "How do I redact only some words?", a: "Either wrap the parts to hide in square brackets, like Meet at [9pm], or choose 'Chosen words' and list them separated by commas. Matching ignores capital letters and only hides whole words." },
+  { q: "Why keep punctuation visible?", a: "It keeps the shape of the sentence, which looks more like a real censored document. Turn it off to hide every non-space character." },
+];

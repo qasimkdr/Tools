@@ -1,0 +1,150 @@
+{
+ "keywords": {
+  "simplifying radicals calculator": {
+   "fetchedAt": "2026-11-23T03:36:01.301Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1900,
+   "fileKd": 11,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://omnicalculator.com/math/simplify-radicals",
+     "domain": "omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://cuemath.com/calculators/simplifying-radicals-calculator",
+     "domain": "cuemath.com",
+     "title": "Simplifying Radicals Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.miniwebtool.com/radical-simplifier/",
+     "domain": "www.miniwebtool.com",
+     "title": "radical simplifier",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.calculatorsoup.com/calculators/algebra/radicals-simplify.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Simplify Radical Expressions Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.pearson.com/channels/ko-kr/calculators/square-cube-nth-root-calculator",
+     "domain": "www.pearson.com",
+     "title": "square cube nth root calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://mathcheck.net/calculators/simplify-radicals",
+     "domain": "mathcheck.net",
+     "title": "simplify radicals",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://coddy.tech/math/calculators/radical-calculator",
+     "domain": "coddy.tech",
+     "title": "radical calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://brightchamps.com/en-sa/math/calculators/simplifying-radicals-calculator",
+     "domain": "brightchamps.com",
+     "title": "Simplifying Radicals Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "simplify-radicals-calculator",
+ "page": "simplify-radicals-calculator",
+ "category": "math",
+ "name": "Simplify Radicals Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T03:36:01.302Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://omnicalculator.com/math/simplify-radicals"
+   ]
+  },
+  {
+   "domain": "cuemath.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://cuemath.com/calculators/simplifying-radicals-calculator"
+   ]
+  },
+  {
+   "domain": "miniwebtool.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.miniwebtool.com/radical-simplifier/"
+   ]
+  },
+  {
+   "domain": "calculatorsoup.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculatorsoup.com/calculators/algebra/radicals-simplify.php"
+   ]
+  },
+  {
+   "domain": "pearson.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.pearson.com/channels/ko-kr/calculators/square-cube-nth-root-calculator"
+   ]
+  },
+  {
+   "domain": "mathcheck.net",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://mathcheck.net/calculators/simplify-radicals"
+   ]
+  },
+  {
+   "domain": "coddy.tech",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://coddy.tech/math/calculators/radical-calculator"
+   ]
+  },
+  {
+   "domain": "brightchamps.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://brightchamps.com/en-sa/math/calculators/simplifying-radicals-calculator"
+   ]
+  }
+ ]
+}
