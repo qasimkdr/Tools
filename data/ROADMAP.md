@@ -122,12 +122,12 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 14 on policy hold).
 | 116 | 12 | todo | Arv Calculator | `arv-calculator` | finance | arv calculator | 1300 | 7 | 1300 | 1 |
 | 117 | 12 | todo | Breastfeeding Calorie Calculator | `breastfeeding-calorie-calculator` | health | breastfeeding calorie calculator | 1300 | 6 | 1300 | 1 |
 | 118 | 12 | todo | Income Tax Calculator | `income-tax-calculator` | finance | taxable income calculator | 6600 | 41 | 9000 | 2 |
-| 119 | 12 | todo | Vpd Calculator | `vpd-calculator` | science | vpd calculator | 1300 | 4 | 1300 | 1 |
-| 120 | 12 | todo | Goat Gestation Calculator | `goat-gestation-calculator` | everyday | goat gestation calculator | 2900 | 14 | 2900 | 1 |
-| 121 | 13 | todo | Markup Calculator | `markup-calculator` | finance | markup calculator | 14800 | 27 | 14800 | 1 |
-| 122 | 13 | todo | 50 To 1 Gas Oil Mix Calculator | `50-to-1-gas-oil-mix-calculator` | conversion | 50 to 1 gas oil mix calculator | 1300 | 5 | 1300 | 1 |
+| 119 | 12 | live | Vpd Calculator | `vpd-calculator` | science | vpd calculator | 1300 | 4 | 1300 | 1 |
+| 120 | 12 | live | Goat Gestation Calculator | `goat-gestation-calculator` | everyday | goat gestation calculator | 2900 | 14 | 2900 | 1 |
+| 121 | 13 | live | Markup Calculator | `markup-calculator` | finance | markup calculator | 14800 | 27 | 14800 | 1 |
+| 122 | 13 | live | 50 To 1 Gas Oil Mix Calculator | `50-to-1-gas-oil-mix-calculator` | conversion | 50 to 1 gas oil mix calculator | 1300 | 5 | 1300 | 1 |
 | 123 | 13 | todo | Car Lease vs Buy Calculator | `car-lease-vs-buy-calculator` | finance | lease vs buy car calculator | 1600 | 8 | 2320 | 2 |
-| 124 | 13 | todo | Aspect Ratio Calculator | `aspect-ratio-calculator` | math | aspect ratio calculator | 12100 | 22 | 12100 | 1 |
+| 124 | 13 | live | Aspect Ratio Calculator | `aspect-ratio-calculator` | math | aspect ratio calculator | 12100 | 22 | 12100 | 1 |
 | 125 | 13 | todo | Macro Calculator | `macro-calculator` | health | macroeconomics calculator | 1600 | 16 | 24900 | 1 |
 | 126 | 13 | todo | Vinegar Carbon Dosing Calculator Ml Per Ppm Nitrate | `vinegar-carbon-dosing-calculator-ml-per-ppm-nitrate` | science | vinegar carbon dosing calculator ml per ppm nitrate | 1000 | 0 | 1000 | 1 |
 | 127 | 13 | todo | Simplify Radicals Calculator | `simplify-radicals-calculator` | math | simplifying radical expressions solver | 1900 | 10 | 6400 | 4 |

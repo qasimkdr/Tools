@@ -1,0 +1,1240 @@
+{
+ "pages": {
+  "https://www.inchcalculator.com/markup-calculator/": {
+   "url": "https://www.inchcalculator.com/markup-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/markup-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-23T02:18:17.457Z",
+   "title": "Markup Calculator - Inch Calculator",
+   "metaDescription": "Calculate markup, gross profit margin, and profit using our markup calculator. See the markup formula and learn the steps to find it.",
+   "canonical": "https://www.inchcalculator.com/markup-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Markup Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results:",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate Markup",
+    "Markup vs. Gross Margin",
+    "Cost-Plus Pricing",
+    "Average Markup by Industry",
+    "Understanding and Applying Markup",
+    "Similar Business Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "What is Markup?",
+    "Markup Formula",
+    "How to Express Markup as a Percentage",
+    "Gross Profit Margin Formula",
+    "Gross Profit Formula"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Markup Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results:"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Markup"
+    },
+    {
+     "level": 3,
+     "text": "What is Markup?"
+    },
+    {
+     "level": 3,
+     "text": "Markup Formula"
+    },
+    {
+     "level": 3,
+     "text": "How to Express Markup as a Percentage"
+    },
+    {
+     "level": 2,
+     "text": "Markup vs. Gross Margin"
+    },
+    {
+     "level": 3,
+     "text": "Gross Profit Margin Formula"
+    },
+    {
+     "level": 3,
+     "text": "Gross Profit Formula"
+    },
+    {
+     "level": 2,
+     "text": "Cost-Plus Pricing"
+    },
+    {
+     "level": 2,
+     "text": "Average Markup by Industry"
+    },
+    {
+     "level": 2,
+     "text": "Understanding and Applying Markup"
+    },
+    {
+     "level": 2,
+     "text": "Similar Business Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 1918,
+   "avgSentenceWords": 28,
+   "faqs": [
+    "What is Markup?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "markup",
+     "weight": 62
+    },
+    {
+     "term": "gross profit",
+     "weight": 45
+    },
+    {
+     "term": "profit",
+     "weight": 41
+    },
+    {
+     "term": "gross",
+     "weight": 33
+    },
+    {
+     "term": "cost",
+     "weight": 31
+    },
+    {
+     "term": "profit margin",
+     "weight": 27
+    },
+    {
+     "term": "margin",
+     "weight": 26
+    },
+    {
+     "term": "revenue",
+     "weight": 19
+    },
+    {
+     "term": "business",
+     "weight": 17
+    },
+    {
+     "term": "calculate",
+     "weight": 13
+    },
+    {
+     "term": "formula",
+     "weight": 13
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "pricing",
+     "weight": 11
+    },
+    {
+     "term": "company",
+     "weight": 11
+    },
+    {
+     "term": "cost plus",
+     "weight": 11
+    },
+    {
+     "term": "plus pricing",
+     "weight": 11
+    },
+    {
+     "term": "percentage",
+     "weight": 10
+    },
+    {
+     "term": "have",
+     "weight": 9
+    },
+    {
+     "term": "calculate markup",
+     "weight": 9
+    },
+    {
+     "term": "businesses",
+     "weight": 9
+    },
+    {
+     "term": "figures",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "costs",
+     "weight": 8
+    },
+    {
+     "term": "price",
+     "weight": 8
+    },
+    {
+     "term": "pricing model",
+     "weight": 8
+    },
+    {
+     "term": "profit margins",
+     "weight": 8
+    },
+    {
+     "term": "plus",
+     "weight": 7
+    },
+    {
+     "term": "numbers",
+     "weight": 7
+    },
+    {
+     "term": "different",
+     "weight": 7
+    },
+    {
+     "term": "markup calculator",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "To calculate the markup as a percentage, you use the following formula: markup percentage = revenue – cost / cost × 100% So, to express the markup as a percentage, simply multiply it by 100%.",
+    "Suppose it costs a company $100 to produce a widget and, using the cost-plus pricing model, the company wants to sell that widget with a 25% markup.",
+    "In order to determine the final price, you will then need to use the following formula: price = cost × (1 + markup) For example, let’s calculate the cost-plus pricing for a markup of 0.25."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 3,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "Cost",
+    "Revenue",
+    "Profit",
+    "Markup"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 26,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Andrew Paniello",
+    "published": "2022-04-15",
+    "modified": "2022-10-10T15:05:02+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 130,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 50,
+    "external": 15,
+    "contentInternal": 26,
+    "contentExternal": 9,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate Markup",
+     "What is Markup?",
+     "Markup Formula",
+     "How to Express Markup as a Percentage",
+     "Markup vs. Gross Margin",
+     "Gross Profit Margin Formula",
+     "Gross Profit Formula",
+     "Cost-Plus Pricing",
+     "Average Markup by Industry",
+     "Understanding and Applying Markup",
+     "References",
+     "Full bio",
+     "Markup Calculator",
+     "return on their investment",
+     "percentage",
+     "margin calculator",
+     "sales commissions"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/markup-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/markup/",
+     "https://www.inchcalculator.com/markup-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/markup-calculator/#idx_how_to_calculate_markup",
+     "https://www.inchcalculator.com/markup-calculator/#idx_what_is_markup",
+     "https://www.inchcalculator.com/markup-calculator/#idx_markup_formula",
+     "https://www.inchcalculator.com/markup-calculator/#idx_how_to_express_markup_as_a_percentage",
+     "https://www.inchcalculator.com/markup-calculator/#idx_markup_vs_gross_margin",
+     "https://www.inchcalculator.com/markup-calculator/#idx_gross_profit_margin_formula",
+     "https://www.inchcalculator.com/markup-calculator/#idx_gross_profit_formula",
+     "https://www.inchcalculator.com/markup-calculator/#idx_cost-plus_pricing",
+     "https://www.inchcalculator.com/markup-calculator/#idx_average_markup_by_industry",
+     "https://www.inchcalculator.com/markup-calculator/#idx_understanding_and_applying_markup",
+     "https://www.inchcalculator.com/markup-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/andrew-paniello/",
+     "https://www.inchcalculator.com/author/monica-greer/",
+     "https://www.inchcalculator.com/markup-calculator/",
+     "https://www.inchcalculator.com/roi-calculator/",
+     "https://www.inchcalculator.com/percentage-calculator/",
+     "https://www.inchcalculator.com/margin-calculator/",
+     "https://www.inchcalculator.com/commission-calculator/",
+     "https://www.inchcalculator.com/price-per-square-foot-calculator/",
+     "https://www.inchcalculator.com/appreciation-calculator/",
+     "https://www.inchcalculator.com/cross-price-elasticity-calculator/",
+     "https://www.inchcalculator.com/price-elasticity-of-supply-calculator/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fmarkup-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fmarkup-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fmarkup-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fmarkup-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fmarkup-calculator%2F&text=Markup+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fmarkup-calculator%2F&text=Markup+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://www.accountingtools.com/articles/what-is-the-difference-between-margin-and-markup.html",
+     "https://cfohub.com/what-is-a-good-gross-profit-margin/"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/finance/markup": {
+   "url": "https://www.omnicalculator.com/finance/markup",
+   "finalUrl": "https://www.omnicalculator.com/finance/markup",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T02:18:20.663Z",
+   "title": "Markup Calculator",
+   "metaDescription": "Markup calculator is a tool for sales people most often used to calculate the price you should charge.",
+   "canonical": "https://www.omnicalculator.com/finance/markup",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Markup Calculator"
+   ],
+   "h2": [
+    "What is the markup definition?",
+    "What is the difference between margin and markup?",
+    "How do I calculate markup?",
+    "What is the markup formula?",
+    "Markup in price management",
+    "Markup by specific industries",
+    "Other considerations",
+    "References",
+    "FAQs"
+   ],
+   "h3": [
+    "What is my profit for markup 40% given cost of $50?",
+    "What does it mean to markup 100%?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Markup Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is the markup definition?"
+    },
+    {
+     "level": 2,
+     "text": "What is the difference between margin and markup?"
+    },
+    {
+     "level": 2,
+     "text": "How do I calculate markup?"
+    },
+    {
+     "level": 2,
+     "text": "What is the markup formula?"
+    },
+    {
+     "level": 2,
+     "text": "Markup in price management"
+    },
+    {
+     "level": 2,
+     "text": "Markup by specific industries"
+    },
+    {
+     "level": 2,
+     "text": "Other considerations"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What is my profit for markup 40% given cost of $50?"
+    },
+    {
+     "level": 3,
+     "text": "What does it mean to markup 100%?"
+    }
+   ],
+   "wordCount": 1764,
+   "avgSentenceWords": 17,
+   "faqs": [
+    "What is the markup definition?",
+    "What is the difference between margin and markup?",
+    "How do I calculate markup?",
+    "What is the markup formula?",
+    "What is my profit for markup 40% given cost of $50?",
+    "What does it mean to markup 100%?"
+   ],
+   "faqSchemaCount": 6,
+   "topics": [
+    {
+     "term": "markup",
+     "weight": 70
+    },
+    {
+     "term": "cost",
+     "weight": 35
+    },
+    {
+     "term": "profit",
+     "weight": 27
+    },
+    {
+     "term": "price",
+     "weight": 25
+    },
+    {
+     "term": "calculator",
+     "weight": 16
+    },
+    {
+     "term": "revenue",
+     "weight": 13
+    },
+    {
+     "term": "margin",
+     "weight": 13
+    },
+    {
+     "term": "percent",
+     "weight": 13
+    },
+    {
+     "term": "have",
+     "weight": 12
+    },
+    {
+     "term": "markups",
+     "weight": 12
+    },
+    {
+     "term": "costs",
+     "weight": 10
+    },
+    {
+     "term": "unit",
+     "weight": 10
+    },
+    {
+     "term": "product",
+     "weight": 9
+    },
+    {
+     "term": "formula",
+     "weight": 8
+    },
+    {
+     "term": "products",
+     "weight": 8
+    },
+    {
+     "term": "markup calculator",
+     "weight": 8
+    },
+    {
+     "term": "markup formula",
+     "weight": 8
+    },
+    {
+     "term": "markup 100",
+     "weight": 8
+    },
+    {
+     "term": "unit costs",
+     "weight": 8
+    },
+    {
+     "term": "percentage",
+     "weight": 7
+    },
+    {
+     "term": "calculate",
+     "weight": 6
+    },
+    {
+     "term": "markup percentage",
+     "weight": 6
+    },
+    {
+     "term": "difference between",
+     "weight": 6
+    },
+    {
+     "term": "between",
+     "weight": 6
+    },
+    {
+     "term": "ratio",
+     "weight": 6
+    },
+    {
+     "term": "profit margin",
+     "weight": 6
+    },
+    {
+     "term": "pricing",
+     "weight": 6
+    },
+    {
+     "term": "percent markup",
+     "weight": 6
+    },
+    {
+     "term": "high",
+     "weight": 6
+    },
+    {
+     "term": "business",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "The ratio of profit ($20) to cost ($80) is 25%, so 25% is the markup.",
+    "The markup formula is as follows: markup = 100 × profit / cost.",
+    "We multiply by 100 because we express markup as a percentage, not as a fraction (25% is the same as 0.25, 1/4, or 20/80).",
+    "The markup formula becomes: markup = 100 × (revenue − cost) / cost.",
+    "And finally, if you need the selling price, then try revenue = cost + cost × markup / 100.",
+    "Merely relying on the typical markup rate and unit costs doesn't require extensive research or analysis which makes the approach very popular: around 75 percent of companies employ a cost-plus pricing method.",
+    "Each umbrella costs $5, and you sell each of them for $10 each, according to the chosen markup and unit costs.",
+    "Here are the typical markups for a selection of industries: Grocery retail usually applies around a 15 percent markup.",
+    "Restaurants use around a 60 percent markup for food, but it can reach 500 percent for beverages.",
+    "Jewelry industry typically employs a 50 percent markup."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 5,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Tibor Pál",
+    "published": "2016-01-11T13:26:41.975Z",
+    "modified": "2026-09-29T06:32:11.339Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 568,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 24,
+    "external": 1,
+    "contentInternal": 8,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "markup/margin with VAT calculator",
+     "markup/margin with sales tax calculator",
+     "VAT calculator",
+     "sales tax calculator",
+     "markdown calculator",
+     "profit calculator",
+     "gross margin calculator",
+     "price / quantity calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/finance/margin-and-vat",
+     "https://www.omnicalculator.com/finance/margin-sales-tax",
+     "https://www.omnicalculator.com/finance/vat",
+     "https://www.omnicalculator.com/finance/sales-tax",
+     "https://www.omnicalculator.com/finance/markdown",
+     "https://www.omnicalculator.com/finance/profit",
+     "https://www.omnicalculator.com/finance/gross-margin",
+     "https://www.omnicalculator.com/finance/price-quantity"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/financial/markup-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/financial/markup-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/financial/markup-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-23T02:18:23.749Z",
+   "title": "Markup Calculator",
+   "metaDescription": "Calculate markup on a product based on cost and margin. Calculate markup, profit and selling price. Online price and sales markup calculators.",
+   "canonical": "https://www.calculatorsoup.com/calculators/financial/markup-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Markup Calculator"
+   ],
+   "h2": [],
+   "h3": [
+    "Markup Formulas and Calculations:",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Markup Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Markup Formulas and Calculations:"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 294,
+   "avgSentenceWords": 27,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "markup",
+     "weight": 12
+    },
+    {
+     "term": "markup calculator",
+     "weight": 11
+    },
+    {
+     "term": "gross",
+     "weight": 10
+    },
+    {
+     "term": "gross profit",
+     "weight": 9
+    },
+    {
+     "term": "selling price",
+     "weight": 8
+    },
+    {
+     "term": "calculators",
+     "weight": 7
+    },
+    {
+     "term": "revenue",
+     "weight": 7
+    },
+    {
+     "term": "cost",
+     "weight": 6
+    },
+    {
+     "term": "gross margin",
+     "weight": 6
+    },
+    {
+     "term": "price",
+     "weight": 6
+    },
+    {
+     "term": "profit",
+     "weight": 6
+    },
+    {
+     "term": "selling",
+     "weight": 5
+    },
+    {
+     "term": "percentage",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators financial",
+     "weight": 5
+    },
+    {
+     "term": "markup percentage",
+     "weight": 5
+    },
+    {
+     "term": "decimal form",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "financial",
+     "weight": 4
+    },
+    {
+     "term": "margin",
+     "weight": 4
+    },
+    {
+     "term": "decimal",
+     "weight": 4
+    },
+    {
+     "term": "calculator markup",
+     "weight": 3
+    },
+    {
+     "term": "calculate",
+     "weight": 3
+    },
+    {
+     "term": "calculate revenue",
+     "weight": 3
+    },
+    {
+     "term": "revenue selling",
+     "weight": 3
+    },
+    {
+     "term": "price markup",
+     "weight": 3
+    },
+    {
+     "term": "form",
+     "weight": 3
+    },
+    {
+     "term": "com",
+     "weight": 3
+    },
+    {
+     "term": "com calculators",
+     "weight": 3
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 5,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Cost: $",
+    "Gross Margin: %",
+    "reset"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 16,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "August 1, 2025",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 47,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 18,
+    "external": 0,
+    "contentInternal": 8,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Financial",
+     "Sales",
+     "Markup Calculator",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Price Calculator",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/financial/",
+     "https://www.calculatorsoup.com/calculators/financial/index-sales-calculators.php",
+     "https://www.calculatorsoup.com/calculators/financial/markup-calculator.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=financial%2F&folderName=Financial&folder2=financial%2Findex-sales-calculators.php&folderName2=Sales&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/financial/markup-calculator.php&h1=Markup+Calculator&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/financial/price-calculator.php"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/margin-calculator.html": {
+   "url": "https://www.calculator.net/margin-calculator.html",
+   "finalUrl": "https://www.calculator.net/margin-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-23T02:18:26.674Z",
+   "title": "Margin Calculator",
+   "metaDescription": "Three free calculators for profit margin, stock trading margin, or currency exchange margin calculations. Learn the different definitions of margin in finance.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Margin Calculator"
+   ],
+   "h2": [
+    "Profit Margin Calculator",
+    "Result",
+    "Stock Trading Margin Calculator",
+    "Result",
+    "Currency Exchange Margin Calculator",
+    "Result"
+   ],
+   "h3": [
+    "Profit Margin",
+    "Margin Trading",
+    "Currency Exchange Margin"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Margin Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Profit Margin Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Result"
+    },
+    {
+     "level": 2,
+     "text": "Stock Trading Margin Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Result"
+    },
+    {
+     "level": 2,
+     "text": "Currency Exchange Margin Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Result"
+    },
+    {
+     "level": 3,
+     "text": "Profit Margin"
+    },
+    {
+     "level": 3,
+     "text": "Margin Trading"
+    },
+    {
+     "level": 3,
+     "text": "Currency Exchange Margin"
+    }
+   ],
+   "wordCount": 1146,
+   "avgSentenceWords": 22,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "margin",
+     "weight": 47
+    },
+    {
+     "term": "profit",
+     "weight": 18
+    },
+    {
+     "term": "profit margin",
+     "weight": 14
+    },
+    {
+     "term": "amount",
+     "weight": 13
+    },
+    {
+     "term": "account",
+     "weight": 12
+    },
+    {
+     "term": "required",
+     "weight": 11
+    },
+    {
+     "term": "currency",
+     "weight": 11
+    },
+    {
+     "term": "trading",
+     "weight": 9
+    },
+    {
+     "term": "revenue",
+     "weight": 9
+    },
+    {
+     "term": "purchase",
+     "weight": 9
+    },
+    {
+     "term": "margin requirement",
+     "weight": 9
+    },
+    {
+     "term": "amount required",
+     "weight": 9
+    },
+    {
+     "term": "exchange",
+     "weight": 9
+    },
+    {
+     "term": "financial",
+     "weight": 8
+    },
+    {
+     "term": "cost",
+     "weight": 8
+    },
+    {
+     "term": "market",
+     "weight": 8
+    },
+    {
+     "term": "margin calculator",
+     "weight": 8
+    },
+    {
+     "term": "rate",
+     "weight": 7
+    },
+    {
+     "term": "calculator",
+     "weight": 6
+    },
+    {
+     "term": "price",
+     "weight": 6
+    },
+    {
+     "term": "requirement",
+     "weight": 6
+    },
+    {
+     "term": "currency exchange",
+     "weight": 6
+    },
+    {
+     "term": "exchange rate",
+     "weight": 6
+    },
+    {
+     "term": "percentage",
+     "weight": 5
+    },
+    {
+     "term": "broker",
+     "weight": 5
+    },
+    {
+     "term": "net",
+     "weight": 5
+    },
+    {
+     "term": "assets",
+     "weight": 5
+    },
+    {
+     "term": "deposit",
+     "weight": 5
+    },
+    {
+     "term": "calculator calculate",
+     "weight": 5
+    },
+    {
+     "term": "maintenance margin",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Cost Revenue Margin Profit Result Margin: 25.00% Profit: $40.00 Markup: 33.33% Cost: The cost of the product."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 5,
+   "lists": 0,
+   "images": 5,
+   "videos": 0,
+   "calculatorInputs": [
+    "ccost",
+    "csale",
+    "cmargin",
+    "cprofit",
+    "cprice",
+    "cmarginratio",
+    "cexchange",
+    "cratio",
+    "cunits"
+   ],
+   "selectOptionsSample": "1:1 5:1 10:1 20:1 25:1 30:1 40:1 50:1",
+   "unitToggle": false,
+   "wordsBeforeTool": 39,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 19,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 29,
+    "external": 0,
+    "contentInternal": 29,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "financial",
+     "margin calculator",
+     "Financial Calculators",
+     "Mortgage",
+     "Loan",
+     "Auto Loan",
+     "Interest",
+     "Payment",
+     "Retirement",
+     "Amortization",
+     "Investment",
+     "Currency",
+     "Inflation",
+     "Finance",
+     "Mortgage Payoff",
+     "Income Tax",
+     "Compound Interest",
+     "Salary"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/margin-calculator.html",
+     "https://www.calculator.net/mortgage-calculator.html",
+     "https://www.calculator.net/loan-calculator.html",
+     "https://www.calculator.net/auto-loan-calculator.html",
+     "https://www.calculator.net/interest-calculator.html",
+     "https://www.calculator.net/payment-calculator.html",
+     "https://www.calculator.net/retirement-calculator.html",
+     "https://www.calculator.net/amortization-calculator.html",
+     "https://www.calculator.net/investment-calculator.html",
+     "https://www.calculator.net/currency-calculator.html",
+     "https://www.calculator.net/inflation-calculator.html",
+     "https://www.calculator.net/finance-calculator.html",
+     "https://www.calculator.net/mortgage-payoff-calculator.html",
+     "https://www.calculator.net/tax-calculator.html",
+     "https://www.calculator.net/compound-interest-calculator.html",
+     "https://www.calculator.net/salary-calculator.html",
+     "https://www.calculator.net/401k-calculator.html",
+     "https://www.calculator.net/interest-rate-calculator.html",
+     "https://www.calculator.net/sales-tax-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/other-calculator.html"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

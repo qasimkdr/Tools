@@ -1,0 +1,221 @@
+{
+ "keywords": {
+  "markup calculator": {
+   "fetchedAt": "2026-11-23T02:18:15.742Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 14800,
+   "fileKd": 27,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 1,
+    "url": "www.omnicalculator.com/finance/markup"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.sage.com/en-gb/blog/what-is-markup-percentage/",
+     "domain": "www.sage.com",
+     "title": "Markup Calculator (and how to calculate markup)",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.zoho.com/inventory/academy/inventory-management/markup-vs-margin.html",
+     "domain": "www.zoho.com",
+     "title": "Markup vs. Margin: Difference, formulas & live converter (2026)",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.lightspeedhq.com/blog/markup-vs-margin/",
+     "domain": "www.lightspeedhq.com",
+     "title": "markup vs margin",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.patriotsoftware.com/blog/accounting/margin-vs-markup-chart-infographic/",
+     "domain": "www.patriotsoftware.com",
+     "title": "Margin vs. Markup: Chart, Infographic, & More",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.sage.com/en-us/blog/what-is-markup-percentage/",
+     "domain": "www.sage.com",
+     "title": "Money Matters",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.patriotsoftware.com/accounting/training/blog/margin-vs-markup-chart-infographic/",
+     "domain": "www.patriotsoftware.com",
+     "title": "Margin vs. Markup: Chart, Infographic, & More",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.sage.com/en-us/blog/markup-calculator/",
+     "domain": "www.sage.com",
+     "title": "Money Matters",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://inchcalculator.com/markup-calculator",
+     "domain": "inchcalculator.com",
+     "title": "Markup Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.xero.com/us/glossary/margin-vs-markup/",
+     "domain": "www.xero.com",
+     "title": "Margin vs Markup",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.keka.com/free-tools/calculators/margin-vs-markup-calculator",
+     "domain": "www.keka.com",
+     "title": "Margin vs. Markup Calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://fitsmallbusiness.com/gross-margin-markup-calculator/",
+     "domain": "fitsmallbusiness.com",
+     "title": "Profit Margin & Retail Markup Calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://Omnicalculator.com/finance/margin-2-sets",
+     "domain": "omnicalculator.com",
+     "title": "Markup and Margin — Two Set Comparison Calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://theretailexec.com/merchandising/margin-markup-calculator/",
+     "domain": "theretailexec.com",
+     "title": "Margin Markup Calculator With Formulas & Tips",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://inflowinventory.com/blog/calculate-margin-vs-markup",
+     "domain": "inflowinventory.com",
+     "title": "Key takeaways",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://bench.co/blog/accounting/how-to-calculate-profit-margin",
+     "domain": "bench.co",
+     "title": "Easy Formula to Calculate Markup & Margin",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "markup-calculator",
+ "page": "markup-calculator",
+ "category": "finance",
+ "name": "Markup Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T02:18:15.742Z",
+ "topCompetitors": [
+  {
+   "domain": "sage.com",
+   "bestRank": 1,
+   "keywords": 3,
+   "urls": [
+    "https://www.sage.com/en-gb/blog/what-is-markup-percentage/",
+    "https://www.sage.com/en-us/blog/what-is-markup-percentage/",
+    "https://www.sage.com/en-us/blog/markup-calculator/"
+   ]
+  },
+  {
+   "domain": "patriotsoftware.com",
+   "bestRank": 4,
+   "keywords": 2,
+   "urls": [
+    "https://www.patriotsoftware.com/blog/accounting/margin-vs-markup-chart-infographic/",
+    "https://www.patriotsoftware.com/accounting/training/blog/margin-vs-markup-chart-infographic/"
+   ]
+  },
+  {
+   "domain": "zoho.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.zoho.com/inventory/academy/inventory-management/markup-vs-margin.html"
+   ]
+  },
+  {
+   "domain": "lightspeedhq.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.lightspeedhq.com/blog/markup-vs-margin/"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://inchcalculator.com/markup-calculator"
+   ]
+  },
+  {
+   "domain": "xero.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://www.xero.com/us/glossary/margin-vs-markup/"
+   ]
+  },
+  {
+   "domain": "keka.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://www.keka.com/free-tools/calculators/margin-vs-markup-calculator"
+   ]
+  },
+  {
+   "domain": "fitsmallbusiness.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://fitsmallbusiness.com/gross-margin-markup-calculator/"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://Omnicalculator.com/finance/margin-2-sets"
+   ]
+  },
+  {
+   "domain": "theretailexec.com",
+   "bestRank": 13,
+   "keywords": 1,
+   "urls": [
+    "https://theretailexec.com/merchandising/margin-markup-calculator/"
+   ]
+  }
+ ]
+}

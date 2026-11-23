@@ -1,0 +1,284 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/biology/vapor-pressure-deficit": {
+   "url": "https://www.omnicalculator.com/biology/vapor-pressure-deficit",
+   "finalUrl": "https://www.omnicalculator.com/biology/vapor-pressure-deficit",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T02:18:47.155Z",
+   "title": "VPD Calculator",
+   "metaDescription": "The VPD calculator finds the vapor pressure deficit for a given temperature and humidity measurement.",
+   "canonical": "https://www.omnicalculator.com/biology/vapor-pressure-deficit",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "VPD Calculator (Vapor Pressure Deficit)"
+   ],
+   "h2": [
+    "What is vapor pressure deficit (VPD)?",
+    "What does the vapor pressure deficit mean for plants?",
+    "Relative humidity vs. vapor pressure",
+    "How to calculate vapor pressure deficit?",
+    "What if I don't know canopy temperature?",
+    "Calculate VPD using dew point",
+    "Calculate VPD using wet-bulb temperature",
+    "Example calculation of vapor pressure deficit"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "VPD Calculator (Vapor Pressure Deficit)"
+    },
+    {
+     "level": 2,
+     "text": "What is vapor pressure deficit (VPD)?"
+    },
+    {
+     "level": 2,
+     "text": "What does the vapor pressure deficit mean for plants?"
+    },
+    {
+     "level": 2,
+     "text": "Relative humidity vs. vapor pressure"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate vapor pressure deficit?"
+    },
+    {
+     "level": 2,
+     "text": "What if I don't know canopy temperature?"
+    },
+    {
+     "level": 2,
+     "text": "Calculate VPD using dew point"
+    },
+    {
+     "level": 2,
+     "text": "Calculate VPD using wet-bulb temperature"
+    },
+    {
+     "level": 2,
+     "text": "Example calculation of vapor pressure deficit"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1796,
+   "avgSentenceWords": 24,
+   "faqs": [
+    "What is vapor pressure deficit (VPD)?",
+    "What does the vapor pressure deficit mean for plants?",
+    "How to calculate vapor pressure deficit?",
+    "What if I don't know canopy temperature?",
+    "How does dew point replace relative humidity and temperature?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "vapor pressure",
+     "weight": 114
+    },
+    {
+     "term": "vapor",
+     "weight": 80
+    },
+    {
+     "term": "pressure",
+     "weight": 77
+    },
+    {
+     "term": "air",
+     "weight": 51
+    },
+    {
+     "term": "pressure deficit",
+     "weight": 50
+    },
+    {
+     "term": "relative humidity",
+     "weight": 45
+    },
+    {
+     "term": "temperature",
+     "weight": 41
+    },
+    {
+     "term": "deficit",
+     "weight": 33
+    },
+    {
+     "term": "relative",
+     "weight": 32
+    },
+    {
+     "term": "humidity",
+     "weight": 30
+    },
+    {
+     "term": "calculate",
+     "weight": 25
+    },
+    {
+     "term": "saturation vapor",
+     "weight": 23
+    },
+    {
+     "term": "leaf",
+     "weight": 22
+    },
+    {
+     "term": "air temperature",
+     "weight": 21
+    },
+    {
+     "term": "dew point",
+     "weight": 20
+    },
+    {
+     "term": "vpd",
+     "weight": 17
+    },
+    {
+     "term": "saturation",
+     "weight": 16
+    },
+    {
+     "term": "calculator",
+     "weight": 15
+    },
+    {
+     "term": "calculate vapor",
+     "weight": 14
+    },
+    {
+     "term": "dew",
+     "weight": 13
+    },
+    {
+     "term": "point",
+     "weight": 13
+    },
+    {
+     "term": "plants",
+     "weight": 11
+    },
+    {
+     "term": "water",
+     "weight": 11
+    },
+    {
+     "term": "leaf temperature",
+     "weight": 11
+    },
+    {
+     "term": "vpd calculator",
+     "weight": 9
+    },
+    {
+     "term": "equation",
+     "weight": 9
+    },
+    {
+     "term": "canopy",
+     "weight": 8
+    },
+    {
+     "term": "moisture",
+     "weight": 8
+    },
+    {
+     "term": "canopy temperature",
+     "weight": 8
+    },
+    {
+     "term": "tetens equation",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "Our VPD calculator uses the equation set out by Tetens in 1930 to calculate vapor pressure of liquid water, which is equal to the vapor pressure of air at saturation."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": true,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Jasmine J Mah",
+    "published": "2019-12-05T02:15:13.180Z",
+    "modified": "2026-08-12T13:42:54.367Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 583,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 23,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "wet bulb calculator",
+     "daily light integral calculator",
+     "water potential calculator",
+     "relative humidity calculator",
+     "vapor pressure of water calculator",
+     "dew point calculator",
+     "Sod Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/physics/wet-bulb",
+     "https://www.omnicalculator.com/biology/daily-light-integral-dli",
+     "https://www.omnicalculator.com/biology/water-potential",
+     "https://www.omnicalculator.com/physics/relative-humidity",
+     "https://www.omnicalculator.com/chemistry/vapour-pressure-of-water",
+     "https://www.omnicalculator.com/physics/dew-point",
+     "https://www.omnicalculator.com/biology/sod"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

@@ -1,0 +1,285 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/everyday-life/gas-oil-ratio": {
+   "url": "https://www.omnicalculator.com/everyday-life/gas-oil-ratio",
+   "finalUrl": "https://www.omnicalculator.com/everyday-life/gas-oil-ratio",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T02:18:50.793Z",
+   "title": "Gas Oil Ratio Calculator",
+   "metaDescription": "Calculate the fuel mix for your vehicle using our gas-oil ratio calculator.",
+   "canonical": "https://www.omnicalculator.com/everyday-life/gas-oil-ratio",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Gas Oil Ratio Calculator"
+   ],
+   "h2": [
+    "2-stroke vs. 4-stroke",
+    "What is a gas/oil ratio?",
+    "How to use our gas oil ratio calculator to find gas and oil mix",
+    "FAQs"
+   ],
+   "h3": [
+    "What is a 50 to 1 mixture?",
+    "How do I calculate gas oil ratio?",
+    "What is the mix ratio for 2 ounces of oil per gallon of gas?",
+    "What is the gas/oil ratio for the Husqvarna chainsaw?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Gas Oil Ratio Calculator"
+    },
+    {
+     "level": 2,
+     "text": "2-stroke vs. 4-stroke"
+    },
+    {
+     "level": 2,
+     "text": "What is a gas/oil ratio?"
+    },
+    {
+     "level": 2,
+     "text": "How to use our gas oil ratio calculator to find gas and oil mix"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What is a 50 to 1 mixture?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate gas oil ratio?"
+    },
+    {
+     "level": 3,
+     "text": "What is the mix ratio for 2 ounces of oil per gallon of gas?"
+    },
+    {
+     "level": 3,
+     "text": "What is the gas/oil ratio for the Husqvarna chainsaw?"
+    }
+   ],
+   "wordCount": 1143,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "What is a 50 to 1 mixture?",
+    "How do I calculate gas oil ratio?",
+    "What is the mix ratio for 2 ounces of oil per gallon of gas?",
+    "What is the gas/oil ratio for the Husqvarna chainsaw?",
+    "What is a gas/oil ratio?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "oil",
+     "weight": 48
+    },
+    {
+     "term": "ratio",
+     "weight": 33
+    },
+    {
+     "term": "gas",
+     "weight": 31
+    },
+    {
+     "term": "oil ratio",
+     "weight": 24
+    },
+    {
+     "term": "gas oil",
+     "weight": 20
+    },
+    {
+     "term": "engine",
+     "weight": 17
+    },
+    {
+     "term": "stroke",
+     "weight": 17
+    },
+    {
+     "term": "calculator",
+     "weight": 15
+    },
+    {
+     "term": "mixture",
+     "weight": 12
+    },
+    {
+     "term": "stroke engines",
+     "weight": 12
+    },
+    {
+     "term": "gasoline",
+     "weight": 12
+    },
+    {
+     "term": "mix",
+     "weight": 11
+    },
+    {
+     "term": "engines",
+     "weight": 11
+    },
+    {
+     "term": "ratio calculator",
+     "weight": 8
+    },
+    {
+     "term": "parts",
+     "weight": 7
+    },
+    {
+     "term": "calculate",
+     "weight": 7
+    },
+    {
+     "term": "stroke engine",
+     "weight": 6
+    },
+    {
+     "term": "amount",
+     "weight": 6
+    },
+    {
+     "term": "oil mix",
+     "weight": 6
+    },
+    {
+     "term": "mix ratio",
+     "weight": 6
+    },
+    {
+     "term": "fuel",
+     "weight": 5
+    },
+    {
+     "term": "need",
+     "weight": 5
+    },
+    {
+     "term": "gal",
+     "weight": 5
+    },
+    {
+     "term": "add",
+     "weight": 4
+    },
+    {
+     "term": "common",
+     "weight": 4
+    },
+    {
+     "term": "have",
+     "weight": 4
+    },
+    {
+     "term": "part",
+     "weight": 4
+    },
+    {
+     "term": "units",
+     "weight": 4
+    },
+    {
+     "term": "check",
+     "weight": 3
+    },
+    {
+     "term": "transportation calculators",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "4-stroke In the world of engines, the gas/oil ratio is a crucial concept, especially when it comes to 2-stroke (2t) engines.",
+    "Unlike 4-stroke engines, which have a separate oil compartment, 2-stroke engines require a mixture of gasoline (petrol) and oil to operate.",
+    "This mixture is necessary for a few critical reasons: Lubrication — In 2-stroke engines, the gas and oil mix provides the necessary lubrication for internal parts.",
+    "2-stroke engines can run hot, and the oil helps dissipate heat away from critical areas.",
+    "Common ratios include 50:1 (50 parts gasoline to 1 part oil) or 40:1.",
+    "Check out the mix ratio table below to see how much oil you need to add to your gasoline to attain one of the 5 most popular mix ratios.",
+    "How to use our gas oil ratio calculator to find gas and oil mix Our calculator is a user-friendly tool designed to help you mix gas and oil correctly for your 2-stroke engine.",
+    "Here’s how to use our gas oil ratio calculator: Set your ratio — The default mixture of gas to oil is 50:1, but you can change it.",
+    "A 50 to 1 mixture refers to the ratio of gasoline to oil used in 2-stroke engines.",
+    "This means for every 50 parts of gasoline, you mix in 1 part of oil."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 3,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": true,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Dawid Siuda",
+    "published": "2024-01-15T11:37:25.971Z",
+    "modified": "2026-07-09T14:35:03.826Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 412,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 20,
+    "external": 1,
+    "contentInternal": 4,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "fuel consumption calculator",
+     "idling fuel consumption calculator",
+     "stopping distance calculator",
+     "car jump distance calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/everyday-life/fuel-consumption",
+     "https://www.omnicalculator.com/everyday-life/idling-fuel-consumption",
+     "https://www.omnicalculator.com/physics/stopping-distance",
+     "https://www.omnicalculator.com/physics/car-jump-distance"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

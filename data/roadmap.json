@@ -10707,7 +10707,7 @@
    ],
    "competitors": [],
    "category": "science",
-   "status": "todo",
+   "status": "live",
    "order": 119,
    "batch": 12
   },
@@ -10736,7 +10736,7 @@
    ],
    "competitors": [],
    "category": "everyday",
-   "status": "todo",
+   "status": "live",
    "order": 120,
    "batch": 12
   },
@@ -10767,7 +10767,7 @@
     "www.omnicalculator.com/finance/markup"
    ],
    "category": "finance",
-   "status": "todo",
+   "status": "live",
    "order": 121,
    "batch": 13
   },
@@ -10796,7 +10796,7 @@
    ],
    "competitors": [],
    "category": "conversion",
-   "status": "todo",
+   "status": "live",
    "order": 122,
    "batch": 13
   },
@@ -10865,7 +10865,7 @@
     "www.omnicalculator.com/other/aspect-ratio"
    ],
    "category": "math",
-   "status": "todo",
+   "status": "live",
    "order": 124,
    "batch": 13
   },

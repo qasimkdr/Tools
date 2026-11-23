@@ -1,0 +1,137 @@
+{
+ "keywords": {
+  "vpd calculator": {
+   "fetchedAt": "2026-11-23T02:18:16.133Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1300,
+   "fileKd": 4,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://omnicalculator.com/biology/vapor-pressure-deficit",
+     "domain": "omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://sigrow.com/?p=5810",
+     "domain": "sigrow.com",
+     "title": "VPD Calculator & VPD Chart",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://sigrow.com/vpd-calculator/",
+     "domain": "sigrow.com",
+     "title": "VPD Calculator & VPD Chart",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://hydrobuilder.com/pages/vapor-pressure-deficit-vpd-calculator",
+     "domain": "hydrobuilder.com",
+     "title": "Vapor Pressure Deficit (VPD) Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://sigrow.com/tools/vpd-calculator/",
+     "domain": "sigrow.com",
+     "title": "VPD Calculator & VPD Chart",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://learn.hydrobuilder.com/vapor-pressure-deficit-vpd/",
+     "domain": "learn.hydrobuilder.com",
+     "title": "vapor pressure deficit vpd",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://trimleaf.com/pages/ultimate-vpd-guide-for-plant-growth-vpd-chart",
+     "domain": "trimleaf.com",
+     "title": "VPD Chart & Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://learn.hydrobuilder.com/?p=10189",
+     "domain": "learn.hydrobuilder.com",
+     "title": "Vapor Pressure Deficit (VPD)",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.questclimate.com/vapor-pressure-deficit-indoor-growing-part-3-different-stages-vpd/",
+     "domain": "www.questclimate.com",
+     "title": "Vapor Pressure Deficit and Indoor Growing",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "vpd-calculator",
+ "page": "vpd-calculator",
+ "category": "science",
+ "name": "Vpd Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T02:18:16.134Z",
+ "topCompetitors": [
+  {
+   "domain": "sigrow.com",
+   "bestRank": 2,
+   "keywords": 3,
+   "urls": [
+    "https://sigrow.com/?p=5810",
+    "https://sigrow.com/vpd-calculator/",
+    "https://sigrow.com/tools/vpd-calculator/"
+   ]
+  },
+  {
+   "domain": "hydrobuilder.com",
+   "bestRank": 4,
+   "keywords": 3,
+   "urls": [
+    "https://hydrobuilder.com/pages/vapor-pressure-deficit-vpd-calculator",
+    "https://learn.hydrobuilder.com/vapor-pressure-deficit-vpd/",
+    "https://learn.hydrobuilder.com/?p=10189"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://omnicalculator.com/biology/vapor-pressure-deficit"
+   ]
+  },
+  {
+   "domain": "trimleaf.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://trimleaf.com/pages/ultimate-vpd-guide-for-plant-growth-vpd-chart"
+   ]
+  },
+  {
+   "domain": "questclimate.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://www.questclimate.com/vapor-pressure-deficit-indoor-growing-part-3-different-stages-vpd/"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "What is VPD?", a: "Vapor pressure deficit is the difference between how much water vapor the air could hold at saturation and how much it actually holds, in kilopascals (kPa). It drives how fast plants transpire: low VPD means humid, slow-drying air; high VPD means dry air that pulls water out of leaves quickly." },
+  { q: "How do you calculate VPD?", a: "Find the saturation vapor pressure with the Tetens equation, SVP = 0.61078 × e^(17.27T ÷ (T + 237.3)) kPa, with T in °C. Air VPD = SVP(air) × (1 − RH/100). Leaf VPD = SVP(leaf temperature) − SVP(air) × RH/100." },
+  { q: "What is a good VPD for plants?", a: "A widely used guide is about 0.4–0.8 kPa for propagation and seedlings, 0.8–1.2 kPa for vegetative growth and 1.2–1.6 kPa for flowering and fruiting. Below about 0.4 kPa the air is so humid that disease risk rises; above about 1.6 kPa many plants close their stomata and slow down." },
+  { q: "Why use leaf temperature instead of air temperature?", a: "The leaf surface is where water evaporates, and transpiring leaves are usually a little cooler than the air, often 1–3 °C. At 25 °C and 60% RH, air VPD is 1.27 kPa, but with leaves 2 °C cooler the leaf VPD is about 0.91 kPa." },
+  { q: "How do I raise or lower VPD?", a: "To lower VPD, raise humidity (humidifier, less extraction) or lower temperature. To raise VPD, lower humidity (dehumidifier, more air exchange) or raise temperature. Change one thing at a time and give plants time to adjust." },
+  { q: "What humidity do I need for a target VPD?", a: "RH = (SVP at leaf temperature − target VPD) ÷ SVP at air temperature × 100. At 25 °C with leaves 2 °C cooler, a 1.0 kPa target needs about 57% RH. The calculator shows the RH range for the selected growth stage." },
+];

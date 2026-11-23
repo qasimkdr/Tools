@@ -1,0 +1,195 @@
+{
+ "keywords": {
+  "goat gestation calculator": {
+   "fetchedAt": "2026-11-23T02:18:16.001Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 2900,
+   "fileKd": 14,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.farmbrite.com/amp/goat-gestation-calculator",
+     "domain": "www.farmbrite.com",
+     "title": "goat gestation calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.farmbrite.com/post/goat-gestation-calculator",
+     "domain": "www.farmbrite.com",
+     "title": "top of page",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.farmkeep.com/farm-guides/calculator/goat-gestation",
+     "domain": "www.farmkeep.com",
+     "title": "goat gestation",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://omnicalculator.com/biology/goat-gestation",
+     "domain": "omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://cals.cornell.edu/nys-4-h-animal-science-programs/livestock/goats/goat-fact-sheets/when-will-my-doe-kid",
+     "domain": "cals.cornell.edu",
+     "title": "When will my doe kid?",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://wrasse-cricket-7a2z.squarespace.com/blog/goat-pregnancy-calculator-what-you-need-to-know",
+     "domain": "wrasse-cricket-7a2z.squarespace.com",
+     "title": "Goat Pregnancy Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.indiehackers.com/post/how-a-goat-pregnancy-calculator-can-help-farmers-plan-the-kidding-season-ElHX6ISPozYMtR1W3LAA",
+     "domain": "www.indiehackers.com",
+     "title": "goat pregnancy calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.calculate.co.nz/goat-gestation-calculator.php",
+     "domain": "www.calculate.co.nz",
+     "title": "Goat Gestation Calculator NZ",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://thefreerangelife.com/goat-gestation-calculator/",
+     "domain": "thefreerangelife.com",
+     "title": "goat gestation calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://creatures.com/learn/care/gestation-calculator-goats",
+     "domain": "creatures.com",
+     "title": "gestation calculator goats",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.abga.org/gestation-calculator",
+     "domain": "www.abga.org",
+     "title": "ABGA gestation calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.calculatorsoup.com/calculators/health/gestation-calculator.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "gestation calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "goat-gestation-calculator",
+ "page": "goat-gestation-calculator",
+ "category": "everyday",
+ "name": "Goat Gestation Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T02:18:16.002Z",
+ "topCompetitors": [
+  {
+   "domain": "farmbrite.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://www.farmbrite.com/amp/goat-gestation-calculator",
+    "https://www.farmbrite.com/post/goat-gestation-calculator"
+   ]
+  },
+  {
+   "domain": "farmkeep.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.farmkeep.com/farm-guides/calculator/goat-gestation"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://omnicalculator.com/biology/goat-gestation"
+   ]
+  },
+  {
+   "domain": "cornell.edu",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://cals.cornell.edu/nys-4-h-animal-science-programs/livestock/goats/goat-fact-sheets/when-will-my-doe-kid"
+   ]
+  },
+  {
+   "domain": "squarespace.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://wrasse-cricket-7a2z.squarespace.com/blog/goat-pregnancy-calculator-what-you-need-to-know"
+   ]
+  },
+  {
+   "domain": "indiehackers.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.indiehackers.com/post/how-a-goat-pregnancy-calculator-can-help-farmers-plan-the-kidding-season-ElHX6ISPozYMtR1W3LAA"
+   ]
+  },
+  {
+   "domain": "calculate.co.nz",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculate.co.nz/goat-gestation-calculator.php"
+   ]
+  },
+  {
+   "domain": "thefreerangelife.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://thefreerangelife.com/goat-gestation-calculator/"
+   ]
+  },
+  {
+   "domain": "creatures.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://creatures.com/learn/care/gestation-calculator-goats"
+   ]
+  },
+  {
+   "domain": "abga.org",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://www.abga.org/gestation-calculator"
+   ]
+  }
+ ]
+}

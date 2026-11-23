@@ -75,10 +75,10 @@ Rule-based on-page signals only — not rankings.
 | horse-gestation-calculator | **25/30** | 5 | 2 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 19/30 | ahead |
 | linear-feet-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 25/30 | ahead |
 | pro-rata-calculator | **26/30** | 4 | 3 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
-| water-intake-calculator | **25/30** | 5 | 2 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 23/30 | ahead |
+| water-intake-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 23/30 | ahead |
 | steps-to-miles-calculator | **26/30** | 5 | 2 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 25/30 | ahead |
 | minecraft-circle | **24/30** | 4 | 2 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 16/30 | ahead |
-| density-altitude-calculator | **25/30** | 5 | 2 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 15/25 | ahead |
+| density-altitude-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 15/25 | ahead |
 | height-calculator | **27/30** | 5 | 4 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 25/30 | ahead |
 | weighted-mean-calculator | **26/30** | 4 | 3 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 24/30 | ahead |
 | standard-deviation-calculator | **23/25** | 5 | null | 5 | 4 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
@@ -102,7 +102,7 @@ Rule-based on-page signals only — not rankings.
 | fence-post-depth-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 17/25 | ahead |
 | pine-straw-calculator | **27/30** | 5 | 3 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
 | lead-time-calculator | **26/30** | 4 | 3 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 17/25 | ahead |
-| molarity-calculator | **25/30** | 4 | 2 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 19/25 | ahead |
+| molarity-calculator | **26/30** | 4 | 3 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 19/25 | ahead |
 | watts-to-amps-calculator | **25/30** | 5 | 2 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 21/30 | ahead |
 | time-off-calculator | **25/30** | 4 | 3 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 23/30 | ahead |
 | decimals-calculator | **25/30** | 4 | 2 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
@@ -112,3 +112,8 @@ Rule-based on-page signals only — not rankings.
 | quarter-mile-calculator | **25/30** | 4 | 2 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
 | firewood-calculator | **28/30** | 5 | 4 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 17/25 | ahead |
 | nether-portal-calculator | **24/30** | 4 | 2 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
+| markup-calculator | **26/30** | 4 | 3 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
+| aspect-ratio-calculator | **25/30** | 5 | 2 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 23/30 | ahead |
+| goat-gestation-calculator | **26/30** | 5 | 2 | 5 | 5 | 4 | 5 | www.calculatorsoup.com | 23/30 | ahead |
+| vpd-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 16/25 | ahead |
+| 50-to-1-gas-oil-mix-calculator | **25/30** | 5 | 2 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 17/25 | ahead |

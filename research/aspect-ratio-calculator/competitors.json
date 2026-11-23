@@ -1,0 +1,935 @@
+{
+ "pages": {
+  "https://www.inchcalculator.com/aspect-ratio-calculator/": {
+   "url": "https://www.inchcalculator.com/aspect-ratio-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/aspect-ratio-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-23T02:18:30.272Z",
+   "title": "Aspect Ratio Calculator - Convert & Scale Ratios - Inch Calculator",
+   "metaDescription": "Calculate aspect ratios for video and images using our calculator to find, convert, scale, or reduce aspect ratios and resolutions.",
+   "canonical": "https://www.inchcalculator.com/aspect-ratio-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Aspect Ratio Calculator"
+   ],
+   "h2": [
+    "Calculate the Aspect Ratio for a Resolution",
+    "Scale a Resolution Maintaining the Aspect Ratio",
+    "Tell Us What You Think",
+    "Results: Aspect Ratio",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate an Aspect Ratio",
+    "How to Reduce an Aspect Ratio",
+    "How to Scale an Aspect Ratio",
+    "Common Image Aspect Ratios",
+    "Common Video Aspect Ratios",
+    "How to Convert Video to a Different Aspect Ratio",
+    "Similar TV & Video Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Aspect Ratio Formula",
+    "Cropping",
+    "Pillar-Boxing",
+    "Letterboxing"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Aspect Ratio Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Calculate the Aspect Ratio for a Resolution"
+    },
+    {
+     "level": 2,
+     "text": "Scale a Resolution Maintaining the Aspect Ratio"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Aspect Ratio"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate an Aspect Ratio"
+    },
+    {
+     "level": 3,
+     "text": "Aspect Ratio Formula"
+    },
+    {
+     "level": 2,
+     "text": "How to Reduce an Aspect Ratio"
+    },
+    {
+     "level": 2,
+     "text": "How to Scale an Aspect Ratio"
+    },
+    {
+     "level": 2,
+     "text": "Common Image Aspect Ratios"
+    },
+    {
+     "level": 2,
+     "text": "Common Video Aspect Ratios"
+    },
+    {
+     "level": 2,
+     "text": "How to Convert Video to a Different Aspect Ratio"
+    },
+    {
+     "level": 3,
+     "text": "Cropping"
+    },
+    {
+     "level": 3,
+     "text": "Pillar-Boxing"
+    },
+    {
+     "level": 3,
+     "text": "Letterboxing"
+    },
+    {
+     "level": 2,
+     "text": "Similar TV & Video Calculators"
+    }
+   ],
+   "wordCount": 1177,
+   "avgSentenceWords": 26,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "aspect ratio",
+     "weight": 59
+    },
+    {
+     "term": "aspect",
+     "weight": 52
+    },
+    {
+     "term": "ratio",
+     "weight": 43
+    },
+    {
+     "term": "video",
+     "weight": 35
+    },
+    {
+     "term": "resolution",
+     "weight": 20
+    },
+    {
+     "term": "aspect ratios",
+     "weight": 20
+    },
+    {
+     "term": "ratios",
+     "weight": 15
+    },
+    {
+     "term": "common",
+     "weight": 14
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "display",
+     "weight": 11
+    },
+    {
+     "term": "image",
+     "weight": 10
+    },
+    {
+     "term": "scale",
+     "weight": 10
+    },
+    {
+     "term": "height",
+     "weight": 9
+    },
+    {
+     "term": "number",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "columns",
+     "weight": 8
+    },
+    {
+     "term": "video aspect",
+     "weight": 8
+    },
+    {
+     "term": "results",
+     "weight": 7
+    },
+    {
+     "term": "width",
+     "weight": 7
+    },
+    {
+     "term": "ratio calculator",
+     "weight": 6
+    },
+    {
+     "term": "calculate",
+     "weight": 6
+    },
+    {
+     "term": "example",
+     "weight": 6
+    },
+    {
+     "term": "same",
+     "weight": 5
+    },
+    {
+     "term": "images",
+     "weight": 5
+    },
+    {
+     "term": "different",
+     "weight": 5
+    },
+    {
+     "term": "screen",
+     "weight": 5
+    },
+    {
+     "term": "rows",
+     "weight": 5
+    },
+    {
+     "term": "factor",
+     "weight": 5
+    },
+    {
+     "term": "both",
+     "weight": 5
+    },
+    {
+     "term": "landscape",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Aspect ratios for video applications are usually reduced to either 16:9, 16:10, or 4:3.",
+    "Some video aspect ratios cannot be evenly reduced into these ratios, in which case they should be reduced to the number of columns to 1 row of pixels.",
+    "For instance, cinema projection screens often use a ratio of 2.35:1 or 2.4:1 (cinemascope).",
+    "For example, let’s find the aspect ratio for a 3840×2160 resolution display.",
+    "So, you can divide both the number of rows and the number of columns by 240 to reduce the resolution down to its aspect ratio.",
+    "columns = 3840 ÷ 240 = 16 rows = 2160 ÷ 240 = 9 aspect ratio = 16:9 How to Scale an Aspect Ratio Sometimes you need to scale an aspect ratio to a larger or smaller resolution.",
+    "The most common is 16:9; see the table below for the most common ratios for each type of use.",
+    "Video Format Common Aspect Ratios Cinema 1.85:1, 2.39:1 TV Video 4:3, 16:9 Computers 4:3, 16:10 See a full list of modern aspect ratios and resolutions."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 2,
+   "images": 6,
+   "videos": 0,
+   "calculatorInputs": [
+    "Custom Resolution",
+    "Pixel Width",
+    "Pixel Height",
+    "Custom Resolution",
+    "Pixel Width",
+    "Pixel Height",
+    "Pixel Width",
+    "Pixel Height"
+   ],
+   "selectOptionsSample": "custom resolution --- sd video (4:3) hd video (16:9) pc monitor (16:10) ultrawide monitor (21:9) --- whuxga (7680 x 4800) 8k uhdtv (7680 x 4320) 6k apple pro xdr (6016 x 3384) 5k imac retina (5120 x 2880) wquxga (3840 x 2400) 4k uhdtv (3840 x 2160) wqsxga (3200 x 2048) 1440p (2560 x 1440) wqxga (256",
+   "unitToggle": false,
+   "wordsBeforeTool": 50,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2017-10-10",
+    "modified": "2023-02-11T23:47:09+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 131,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 47,
+    "external": 13,
+    "contentInternal": 24,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate an Aspect Ratio",
+     "Aspect Ratio Formula",
+     "How to Reduce an Aspect Ratio",
+     "How to Scale an Aspect Ratio",
+     "Common Image Aspect Ratios",
+     "Common Video Aspect Ratios",
+     "How to Convert Video to a Different Aspect Ratio",
+     "Full bio",
+     "Aspect Ratio Calculator",
+     "rectangles",
+     "ratio",
+     "projector calculator",
+     "greatest common factor",
+     "scale calculator",
+     "modern aspect ratios and resolutions",
+     "TV viewing distance calculator",
+     "TV Mounting and Installation Cost Guide"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/aspect-ratio-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/aspect-ratio/",
+     "https://www.inchcalculator.com/aspect-ratio-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/aspect-ratio-calculator/#idx_how_to_calculate_an_aspect_ratio",
+     "https://www.inchcalculator.com/aspect-ratio-calculator/#idx_aspect_ratio_formula",
+     "https://www.inchcalculator.com/aspect-ratio-calculator/#idx_how_to_reduce_an_aspect_ratio",
+     "https://www.inchcalculator.com/aspect-ratio-calculator/#idx_how_to_scale_an_aspect_ratio",
+     "https://www.inchcalculator.com/aspect-ratio-calculator/#idx_common_image_aspect_ratios",
+     "https://www.inchcalculator.com/aspect-ratio-calculator/#idx_common_video_aspect_ratios",
+     "https://www.inchcalculator.com/aspect-ratio-calculator/#idx_how_to_convert_video_to_a_different_aspect_ratio",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/pateakia-heath/",
+     "https://www.inchcalculator.com/aspect-ratio-calculator/",
+     "https://www.inchcalculator.com/rectangle-calculator/",
+     "https://www.inchcalculator.com/ratio-calculator/",
+     "https://www.inchcalculator.com/projector-calculator/",
+     "https://www.inchcalculator.com/gcf-calculator/",
+     "https://www.inchcalculator.com/scale-calculator/",
+     "https://www.inchcalculator.com/common-computer-tv-video-display-resolutions/",
+     "https://www.inchcalculator.com/tv-size-viewing-distance-calculator/",
+     "https://www.inchcalculator.com/how-much-does-tv-install-cost/",
+     "https://www.inchcalculator.com/tv-size-distance-ranges/",
+     "https://www.inchcalculator.com/169-tv-dimensions/",
+     "https://www.inchcalculator.com/tv-video-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Faspect-ratio-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Faspect-ratio-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Faspect-ratio-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Faspect-ratio-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Faspect-ratio-calculator%2F&text=Aspect+Ratio+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Faspect-ratio-calculator%2F&text=Aspect+Ratio+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/technology/aspect-ratio-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/technology/aspect-ratio-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/technology/aspect-ratio-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-23T02:18:33.098Z",
+   "title": "Aspect Ratio Calculator",
+   "metaDescription": "Aspect Ratio Calculator finds the width:length ratio for displays and images. A 16:9 aspect ratio means for every 16 units of width there are 9 units of height.",
+   "canonical": "https://www.calculatorsoup.com/calculators/technology/aspect-ratio-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Aspect Ratio Calculator"
+   ],
+   "h2": [
+    "How to Calculate Aspect Ratio",
+    "What is Aspect Ratio Used For?",
+    "Standard Aspect Ratios in Use"
+   ],
+   "h3": [
+    "Example Aspect Ratio Calculation",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Aspect Ratio Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Aspect Ratio"
+    },
+    {
+     "level": 3,
+     "text": "Example Aspect Ratio Calculation"
+    },
+    {
+     "level": 2,
+     "text": "What is Aspect Ratio Used For?"
+    },
+    {
+     "level": 2,
+     "text": "Standard Aspect Ratios in Use"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 1306,
+   "avgSentenceWords": 28,
+   "faqs": [
+    "What is Aspect Ratio Used For?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "aspect ratio",
+     "weight": 60
+    },
+    {
+     "term": "ratio",
+     "weight": 48
+    },
+    {
+     "term": "aspect",
+     "weight": 47
+    },
+    {
+     "term": "width",
+     "weight": 30
+    },
+    {
+     "term": "height",
+     "weight": 27
+    },
+    {
+     "term": "calculator",
+     "weight": 15
+    },
+    {
+     "term": "width height",
+     "weight": 12
+    },
+    {
+     "term": "ratio calculator",
+     "weight": 11
+    },
+    {
+     "term": "aspect ratios",
+     "weight": 11
+    },
+    {
+     "term": "image",
+     "weight": 10
+    },
+    {
+     "term": "calculate",
+     "weight": 9
+    },
+    {
+     "term": "standard aspect",
+     "weight": 9
+    },
+    {
+     "term": "standard",
+     "weight": 8
+    },
+    {
+     "term": "ratios",
+     "weight": 8
+    },
+    {
+     "term": "calculate aspect",
+     "weight": 8
+    },
+    {
+     "term": "whole numbers",
+     "weight": 8
+    },
+    {
+     "term": "calculators",
+     "weight": 6
+    },
+    {
+     "term": "display",
+     "weight": 6
+    },
+    {
+     "term": "numbers",
+     "weight": 6
+    },
+    {
+     "term": "images",
+     "weight": 5
+    },
+    {
+     "term": "pixels",
+     "weight": 5
+    },
+    {
+     "term": "whole",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators technology",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "technology",
+     "weight": 4
+    },
+    {
+     "term": "displays",
+     "weight": 4
+    },
+    {
+     "term": "method",
+     "weight": 4
+    },
+    {
+     "term": "find",
+     "weight": 4
+    },
+    {
+     "term": "divide",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "For displays and images the aspect ratio is the ratio of width to height, for example, 16:9 or 2.35:1.",
+    "One method gives you the ratio as a decimal w in proportion to h=1.",
+    "Divide using the formula: aspect ratio = (width / height):1 In this case width/height = 1920/1080 = 1.77777...",
+    "To calculate the aspect ratio of a computer display 1920 pixels wide x 1080 pixels high as whole numbers, first find the Greatest Common Factor of 1920 and 1080.",
+    "1920 / 120 = 16 1080 / 120 = 9 So the aspect ratio in whole numbers is 16:9.",
+    "The aspect ratio of sceens with this ratio are commonly referred to as 16:9 or 1.7:1 or 1.78:1."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 2,
+   "lists": 2,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Calculate:",
+    "width",
+    "height",
+    "Units:",
+    "reset"
+   ],
+   "selectOptionsSample": "aspect ratio width height width & height resize / compare no units pixels (px) inches (in) centimeters (cm) millimeters (mm)",
+   "unitToggle": true,
+   "wordsBeforeTool": 16,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "August 1, 2025",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 68,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 18,
+    "external": 0,
+    "contentInternal": 8,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Technology",
+     "Aspect Ratio Calculator",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Greatest Common Factor",
+     "Greatest Common Factor of 1920 and 1080",
+     "Contact Us",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/technology/",
+     "https://www.calculatorsoup.com/calculators/technology/aspect-ratio-calculator.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=technology%2F&folderName=Technology&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/technology/aspect-ratio-calculator.php&h1=Aspect+Ratio+Calculator&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/math/gcf.php",
+     "https://www.calculatorsoup.com/calculators/math/gcf.php?input=1920+1080&action=solve"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/other/aspect-ratio": {
+   "url": "https://www.omnicalculator.com/other/aspect-ratio",
+   "finalUrl": "https://www.omnicalculator.com/other/aspect-ratio",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T02:18:36.303Z",
+   "title": "Aspect Ratio Calculator",
+   "metaDescription": "Aspect ratio calculator allows you to quickly resize your files to fit in a designated area.",
+   "canonical": "https://www.omnicalculator.com/other/aspect-ratio",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Aspect Ratio Calculator"
+   ],
+   "h2": [
+    "What is aspect ratio?",
+    "How to calculate aspect ratio?",
+    "What is screen size?",
+    "How to calculate screen size?",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I find the aspect ratio of my screen?",
+    "How do I calculate 16:9 aspect ratio?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Aspect Ratio Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is aspect ratio?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate aspect ratio?"
+    },
+    {
+     "level": 2,
+     "text": "What is screen size?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate screen size?"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I find the aspect ratio of my screen?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate 16:9 aspect ratio?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 978,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "What is aspect ratio?",
+    "What is screen size?",
+    "How do I find the aspect ratio of my screen?",
+    "How do I calculate 16:9 aspect ratio?",
+    "How to calculate aspect ratio?",
+    "How to calculate screen size?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "aspect ratio",
+     "weight": 44
+    },
+    {
+     "term": "aspect",
+     "weight": 31
+    },
+    {
+     "term": "ratio",
+     "weight": 31
+    },
+    {
+     "term": "screen",
+     "weight": 25
+    },
+    {
+     "term": "height",
+     "weight": 22
+    },
+    {
+     "term": "width",
+     "weight": 21
+    },
+    {
+     "term": "screen size",
+     "weight": 17
+    },
+    {
+     "term": "size",
+     "weight": 13
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "pixels",
+     "weight": 10
+    },
+    {
+     "term": "ratio calculator",
+     "weight": 9
+    },
+    {
+     "term": "calculate",
+     "weight": 8
+    },
+    {
+     "term": "inches",
+     "weight": 5
+    },
+    {
+     "term": "standard screen",
+     "weight": 5
+    },
+    {
+     "term": "video",
+     "weight": 4
+    },
+    {
+     "term": "image",
+     "weight": 4
+    },
+    {
+     "term": "devices",
+     "weight": 4
+    },
+    {
+     "term": "original",
+     "weight": 4
+    },
+    {
+     "term": "standard",
+     "weight": 4
+    },
+    {
+     "term": "units",
+     "weight": 4
+    },
+    {
+     "term": "width pixels",
+     "weight": 3
+    },
+    {
+     "term": "pixels height",
+     "weight": 3
+    },
+    {
+     "term": "preferred",
+     "weight": 3
+    },
+    {
+     "term": "them",
+     "weight": 3
+    },
+    {
+     "term": "definition",
+     "weight": 3
+    },
+    {
+     "term": "calculate aspect",
+     "weight": 3
+    },
+    {
+     "term": "calculate screen",
+     "weight": 3
+    },
+    {
+     "term": "between",
+     "weight": 3
+    },
+    {
+     "term": "number",
+     "weight": 3
+    },
+    {
+     "term": "social media",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "Keep reading to learn: The definition of aspect ratio is; How to calculate aspect ratio; What is screen size; How to calculate screen size; and How to calculate 16:9 aspect ratio.",
+    "Divide the height by the width, e.g., 1200 / 1600 = 0.75 This is the aspect ratio expressed as a decimal.",
+    "Then, the aspect ratio is going to be given as: AR = 2560/1440 = (16 × 160)/(9 × 160) = 16/9 Therefore, we obtain the famous 16:9 aspect ratio.",
+    "Compare the result with the popular aspect ratios, e.g., 16:9, to determine which standard your screen follows.",
+    "To make sure you'll get a screen with an aspect ratio of 16:9: If you know the screen's height, multiply it by 16/9 to get the necessary width."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 6,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Mateusz Mucha",
+    "published": "2016-03-28T14:55:28.035Z",
+    "modified": "2025-05-15T08:07:55.287Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 542,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 21,
+    "external": 1,
+    "contentInternal": 5,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "PPI",
+     "proportion calculator",
+     "golden ratio calculator",
+     "Poker Odds Calculator",
+     "RAID Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/other/pixels-per-inch",
+     "https://www.omnicalculator.com/math/proportion",
+     "https://www.omnicalculator.com/math/golden-ratio",
+     "https://www.omnicalculator.com/other/poker-odds",
+     "https://www.omnicalculator.com/other/raid"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

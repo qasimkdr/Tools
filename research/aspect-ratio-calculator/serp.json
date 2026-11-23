@@ -1,0 +1,219 @@
+{
+ "keywords": {
+  "aspect ratio calculator": {
+   "fetchedAt": "2026-11-23T02:18:15.870Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 12100,
+   "fileKd": 22,
+   "fileIntent": null,
+   "semrushCompetitor": {
+    "position": 20,
+    "url": "www.omnicalculator.com/other/aspect-ratio"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.inchcalculator.com/aspect-ratio-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Aspect Ratio Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://calculatorsoup.com/calculators/technology/aspect-ratio-calculator.php",
+     "domain": "calculatorsoup.com",
+     "title": "Aspect Ratio Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://omnicalculator.com/math/aspect-ratio",
+     "domain": "omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.omnicalculator.com/other/aspect-ratio",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.miniwebtool.com/aspect-ratio-calculator/",
+     "domain": "www.miniwebtool.com",
+     "title": "aspect ratio calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://codeshack.io/aspect-ratio-calculator/",
+     "domain": "codeshack.io",
+     "title": "Aspect Ratio Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.shadcn.io/tools/aspect-ratio-calculator",
+     "domain": "www.shadcn.io",
+     "title": "aspect ratio calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://rows.com/calculators/aspect-ratio-calculator",
+     "domain": "rows.com",
+     "title": "aspect ratio calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.w3schools.com/tools/tool_aspect_ratio.php",
+     "domain": "www.w3schools.com",
+     "title": "tool aspect ratio",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://havecamerawilltravel.com/workflow/aspect-ratio-calculator/",
+     "domain": "havecamerawilltravel.com",
+     "title": "The Aspect Ratio Calculator: Perfect Crops for Print & Web",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.howtogeek.com/728149/what-is-aspect-ratio/",
+     "domain": "www.howtogeek.com",
+     "title": "what is aspect ratio",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.premiumbeat.com/blog/understanding-aspect-ratios-and-aspect-ratio-calculators",
+     "domain": "www.premiumbeat.com",
+     "title": "understanding aspect ratios",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://artincontext.org/aspect-ratio-calculator/",
+     "domain": "artincontext.org",
+     "title": "Aspect Ratio Calculator for Art",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://flaviocopes.com/tools/aspect-ratio/",
+     "domain": "flaviocopes.com",
+     "title": "Aspect ratio calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://www.calculate.co.nz/aspect-ratio-calculator.php",
+     "domain": "www.calculate.co.nz",
+     "title": "Aspect Ratio Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "aspect-ratio-calculator",
+ "page": "aspect-ratio-calculator",
+ "category": "math",
+ "name": "Aspect Ratio Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T02:18:15.871Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 3,
+   "keywords": 2,
+   "urls": [
+    "https://omnicalculator.com/math/aspect-ratio",
+    "https://www.omnicalculator.com/other/aspect-ratio"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/aspect-ratio-calculator/"
+   ]
+  },
+  {
+   "domain": "calculatorsoup.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://calculatorsoup.com/calculators/technology/aspect-ratio-calculator.php"
+   ]
+  },
+  {
+   "domain": "miniwebtool.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.miniwebtool.com/aspect-ratio-calculator/"
+   ]
+  },
+  {
+   "domain": "codeshack.io",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://codeshack.io/aspect-ratio-calculator/"
+   ]
+  },
+  {
+   "domain": "shadcn.io",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.shadcn.io/tools/aspect-ratio-calculator"
+   ]
+  },
+  {
+   "domain": "rows.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://rows.com/calculators/aspect-ratio-calculator"
+   ]
+  },
+  {
+   "domain": "w3schools.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://www.w3schools.com/tools/tool_aspect_ratio.php"
+   ]
+  },
+  {
+   "domain": "havecamerawilltravel.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://havecamerawilltravel.com/workflow/aspect-ratio-calculator/"
+   ]
+  },
+  {
+   "domain": "howtogeek.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://www.howtogeek.com/728149/what-is-aspect-ratio/"
+   ]
+  }
+ ]
+}

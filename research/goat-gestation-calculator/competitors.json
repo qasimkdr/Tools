@@ -1,0 +1,590 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/biology/goat-gestation": {
+   "url": "https://www.omnicalculator.com/biology/goat-gestation",
+   "finalUrl": "https://www.omnicalculator.com/biology/goat-gestation",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T02:18:40.103Z",
+   "title": "Goat Gestation Calculator",
+   "metaDescription": "The goat gestation calculator is here to compute the goat gestation period and tell you when you can expect the kids to appear based on the breeding date.",
+   "canonical": "https://www.omnicalculator.com/biology/goat-gestation",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Goat Gestation Calculator"
+   ],
+   "h2": [
+    "How long is goat gestation?",
+    "Goat gestation calendar",
+    "Example: using the goat pregnancy calculator",
+    "FAQs"
+   ],
+   "h3": [
+    "How long are goats pregnant?",
+    "How do I tell if a goat is pregnant?",
+    "How many babies do goats have per pregnancy?",
+    "Can you use a pregnancy test on a goat?",
+    "When do you breed goats after kidding?",
+    "How do I calculate a goat's due date?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Goat Gestation Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How long is goat gestation?"
+    },
+    {
+     "level": 2,
+     "text": "Goat gestation calendar"
+    },
+    {
+     "level": 2,
+     "text": "Example: using the goat pregnancy calculator"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How long are goats pregnant?"
+    },
+    {
+     "level": 3,
+     "text": "How do I tell if a goat is pregnant?"
+    },
+    {
+     "level": 3,
+     "text": "How many babies do goats have per pregnancy?"
+    },
+    {
+     "level": 3,
+     "text": "Can you use a pregnancy test on a goat?"
+    },
+    {
+     "level": 3,
+     "text": "When do you breed goats after kidding?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate a goat's due date?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 922,
+   "avgSentenceWords": 16,
+   "faqs": [
+    "How long are goats pregnant?",
+    "How do I tell if a goat is pregnant?",
+    "How many babies do goats have per pregnancy?",
+    "Can you use a pregnancy test on a goat?",
+    "When do you breed goats after kidding?",
+    "How do I calculate a goat's due date?",
+    "How long is goat gestation?",
+    "And what time of year does it usually happen?"
+   ],
+   "faqSchemaCount": 6,
+   "topics": [
+    {
+     "term": "goat",
+     "weight": 26
+    },
+    {
+     "term": "calculator",
+     "weight": 18
+    },
+    {
+     "term": "goat gestation",
+     "weight": 17
+    },
+    {
+     "term": "gestation",
+     "weight": 15
+    },
+    {
+     "term": "date",
+     "weight": 13
+    },
+    {
+     "term": "days",
+     "weight": 13
+    },
+    {
+     "term": "pregnancy",
+     "weight": 11
+    },
+    {
+     "term": "gestation calculator",
+     "weight": 11
+    },
+    {
+     "term": "kids",
+     "weight": 8
+    },
+    {
+     "term": "goats",
+     "weight": 8
+    },
+    {
+     "term": "breeds",
+     "weight": 8
+    },
+    {
+     "term": "omni's goat",
+     "weight": 8
+    },
+    {
+     "term": "due date",
+     "weight": 8
+    },
+    {
+     "term": "breed",
+     "weight": 7
+    },
+    {
+     "term": "breeding",
+     "weight": 7
+    },
+    {
+     "term": "breeding date",
+     "weight": 6
+    },
+    {
+     "term": "pregnant",
+     "weight": 6
+    },
+    {
+     "term": "standard",
+     "weight": 6
+    },
+    {
+     "term": "standard breeds",
+     "weight": 6
+    },
+    {
+     "term": "miniature breeds",
+     "weight": 6
+    },
+    {
+     "term": "150 days",
+     "weight": 6
+    },
+    {
+     "term": "omni's",
+     "weight": 5
+    },
+    {
+     "term": "number",
+     "weight": 5
+    },
+    {
+     "term": "long",
+     "weight": 5
+    },
+    {
+     "term": "miniature",
+     "weight": 5
+    },
+    {
+     "term": "due",
+     "weight": 5
+    },
+    {
+     "term": "around",
+     "weight": 5
+    },
+    {
+     "term": "five",
+     "weight": 5
+    },
+    {
+     "term": "remember",
+     "weight": 5
+    },
+    {
+     "term": "goat due",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "For instance, if we choose the standard breed and input that the breeding happened on Halloween, October 31, then the goat gestation calendar will tell you to expect the kids around March 30.",
+    "Most goats give birth once a year, so waiting 12 months from the last breeding sounds like a good idea."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 6,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Breeding date",
+    "Kidding date"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 12,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Bogna Szyk",
+    "published": "2021-05-10T12:43:51.963Z",
+    "modified": "2024-01-18T12:05:40.934Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 455,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 21,
+    "external": 1,
+    "contentInternal": 5,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "calendar",
+     "cow gestation calculator",
+     "sheep gestation calculator",
+     "VPD Calculator (Vapor Pressure Deficit)",
+     "Sod Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/everyday-life/calendar",
+     "https://www.omnicalculator.com/biology/cow-gestation",
+     "https://www.omnicalculator.com/biology/sheep-gestation",
+     "https://www.omnicalculator.com/biology/vapor-pressure-deficit",
+     "https://www.omnicalculator.com/biology/sod"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/health/gestation-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/health/gestation-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/health/gestation-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-23T02:18:43.166Z",
+   "title": "Gestation Calculator",
+   "metaDescription": "Use this gestation calculator to estimate due dates for farm animals and pets. Find due dates or calculate breeding dates for cows, goats, dogs, cats and more.",
+   "canonical": "https://www.calculatorsoup.com/calculators/health/gestation-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Gestation Calculator"
+   ],
+   "h2": [
+    "What is Gestation?",
+    "Using the Gestation Calculator",
+    "How to Calculate Due Dates and Breeding Dates",
+    "Why It's Important to Track Pregnancies in Herds and Flocks",
+    "Frequently Asked Questions"
+   ],
+   "h3": [
+    "Calculate an Animal's Due Date",
+    "Breed an Animal for a Specific Due Date",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Gestation Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is Gestation?"
+    },
+    {
+     "level": 2,
+     "text": "Using the Gestation Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Due Dates and Breeding Dates"
+    },
+    {
+     "level": 3,
+     "text": "Calculate an Animal's Due Date"
+    },
+    {
+     "level": 3,
+     "text": "Breed an Animal for a Specific Due Date"
+    },
+    {
+     "level": 2,
+     "text": "Why It's Important to Track Pregnancies in Herds and Flocks"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 825,
+   "avgSentenceWords": 25,
+   "faqs": [
+    "What is Gestation?",
+    "What is a breeding date vs. conception date?",
+    "Can I use an ultrasound to determine due date?",
+    "How can I tell if my animal is pregnant?",
+    "When should I call a vet during an animal pregnancy?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "date",
+     "weight": 34
+    },
+    {
+     "term": "gestation",
+     "weight": 30
+    },
+    {
+     "term": "due date",
+     "weight": 24
+    },
+    {
+     "term": "due",
+     "weight": 18
+    },
+    {
+     "term": "breeding date",
+     "weight": 18
+    },
+    {
+     "term": "gestation period",
+     "weight": 18
+    },
+    {
+     "term": "calculator",
+     "weight": 16
+    },
+    {
+     "term": "breeding",
+     "weight": 15
+    },
+    {
+     "term": "period",
+     "weight": 14
+    },
+    {
+     "term": "gestation calculator",
+     "weight": 14
+    },
+    {
+     "term": "average gestation",
+     "weight": 14
+    },
+    {
+     "term": "animals",
+     "weight": 12
+    },
+    {
+     "term": "animal",
+     "weight": 10
+    },
+    {
+     "term": "average",
+     "weight": 10
+    },
+    {
+     "term": "calculators",
+     "weight": 6
+    },
+    {
+     "term": "calculate",
+     "weight": 6
+    },
+    {
+     "term": "farm animals",
+     "weight": 6
+    },
+    {
+     "term": "pregnancy",
+     "weight": 6
+    },
+    {
+     "term": "days",
+     "weight": 6
+    },
+    {
+     "term": "date average",
+     "weight": 6
+    },
+    {
+     "term": "months",
+     "weight": 6
+    },
+    {
+     "term": "health",
+     "weight": 5
+    },
+    {
+     "term": "farm",
+     "weight": 5
+    },
+    {
+     "term": "find",
+     "weight": 5
+    },
+    {
+     "term": "conception",
+     "weight": 5
+    },
+    {
+     "term": "have",
+     "weight": 5
+    },
+    {
+     "term": "pregnancies",
+     "weight": 5
+    },
+    {
+     "term": "farmers",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators health",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Gestation Calculator Animal: Enter: Breeding Date Due Date Gestation Period: Days Range for a Cow is 279 to 287 days.",
+    "Goat pregnancies typically last about 150 days.",
+    "Rabbits have an average 32-day gestation period."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 1,
+   "lists": 6,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Animal:",
+    "date_entered",
+    "date_entered",
+    "breeding date or due date",
+    "Gestation Period:",
+    "reset"
+   ],
+   "selectOptionsSample": "cow pig sheep goat horse chicken quail dog cat rabbit guinea pig hamster elephant ferret",
+   "unitToggle": false,
+   "wordsBeforeTool": 40,
+   "actions": {
+    "print": true,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "March 17, 2026",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 58,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 17,
+    "external": 0,
+    "contentInternal": 7,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Health",
+     "Gestation Calculator",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Conception Calculator",
+     "contact us",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/health/",
+     "https://www.calculatorsoup.com/calculators/health/gestation-calculator.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=health%2F&folderName=Health&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/health/gestation-calculator.php&h1=Gestation+Calculator&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/health/conception-calculator.php"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}
