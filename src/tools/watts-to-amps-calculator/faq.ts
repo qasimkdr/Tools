@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How do you convert watts to amps?", a: "For DC: amps = watts ÷ volts. For single-phase AC: amps = watts ÷ (power factor × volts). For three-phase AC with line-to-line voltage: amps = watts ÷ (√3 × power factor × volts)." },
+  { q: "How many amps is 1,500 watts?", a: "At 120 V with a power factor of 1 (a space heater, for example), 1,500 W draws 1,500 ÷ 120 = 12.5 A. At 240 V it draws 6.25 A, and at 230 V with a 0.9 power factor about 7.25 A." },
+  { q: "How do you convert amps to watts?", a: "Watts = amps × volts for DC, amps × volts × power factor for single-phase AC, and √3 × amps × volts × power factor for three-phase AC (line-to-line voltage). 10 A at 120 V is 1,200 W for a resistive load." },
+  { q: "What is power factor?", a: "The ratio of real power (watts) to apparent power (volt-amperes). Resistive loads such as heaters, kettles and incandescent bulbs have a power factor of about 1. Motors, compressors and some electronics are lower, so they draw more current for the same wattage. The equipment nameplate often lists it." },
+  { q: "How do I calculate three-phase amps?", a: "Divide the power by √3 × voltage × power factor when you know the line-to-line voltage. A 15 kW load at 400 V and 0.9 power factor draws 15,000 ÷ (1.732 × 400 × 0.9) ≈ 24.06 A per phase." },
+  { q: "What size breaker do I need for my load?", a: "For continuous loads, U.S. practice is to keep the load at no more than 80% of the breaker rating, so divide the amps by 0.8: a 10 A continuous load needs at least a 12.5 A circuit, in practice a 15 A breaker. Wire size must also match; have an electrician confirm." },
+];

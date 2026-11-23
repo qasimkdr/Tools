@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How much epoxy do I need per square foot?", a: "At a 1/8 in (3 mm) flood coat, one square foot needs 144 × 0.125 = 18 cubic inches, about 10 US fl oz of mixed epoxy. Coverage charts from epoxy makers list similar figures (roughly 9.6–10.7 fl oz per sq ft at 1/8 in). Double the depth and you double the epoxy." },
+  { q: "How do I calculate epoxy for a table top?", a: "Multiply length × width × depth in inches to get cubic inches, divide by 1.805 for fluid ounces (or by 231 for gallons), then add about 10% for spills and drips off the edges. A 48 × 24 in top at 1/8 in needs about 80 fl oz, or 88 fl oz with 10% extra." },
+  { q: "How much epoxy does a river table need?", a: "Estimate the share of the table the river covers and multiply by the slab area and thickness. A 1.5 in thick, 72 × 36 in table with a river over 25% of the area needs about 972 cubic inches, roughly 4.2 gallons before extra. Use a deep-pour epoxy rated for that thickness." },
+  { q: "How do I split resin and hardener?", a: "Divide the total by the parts in the ratio. For 88 fl oz at 1:1, mix 44 fl oz of each; at 2:1, about 58.7 fl oz resin and 29.3 fl oz hardener. Check whether your product's ratio is by volume or by weight." },
+  { q: "How thick can I pour epoxy in one layer?", a: "It depends on the product. Table-top (coating) epoxies are usually poured in thin layers around 1/8 in, while deep-pour casting resins are designed for much thicker pours. Exceeding the maximum depth can overheat the epoxy and cause cracking or yellowing." },
+  { q: "How much extra epoxy should I mix?", a: "About 10% covers what clings to cups and drips off the edges. Add more for porous wood that soaks up a seal coat, or for live edges and voids." },
+];

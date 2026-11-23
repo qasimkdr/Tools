@@ -1,0 +1,638 @@
+{
+ "pages": {
+  "https://www.inchcalculator.com/pto-calculator/": {
+   "url": "https://www.inchcalculator.com/pto-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/pto-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-23T00:48:18.323Z",
+   "title": "PTO Calculator - Inch Calculator",
+   "metaDescription": "Use our PTO calculator to estimate how much paid time off you will accrue over a time period. Plus, learn the steps to estimate PTO.",
+   "canonical": "https://www.inchcalculator.com/pto-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "PTO Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Total PTO",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate How Much PTO You Have",
+    "Impact of Accrual Frequency",
+    "Similar Personal Finance Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Step One: Determine Your Accrual Rate",
+    "Step Two: Calculate the Total Accrual",
+    "Step Three: Adjust for Overtime, Part-Time, or Variable Hours",
+    "Step Four: Consider Your PTO Limit"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "PTO Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Total PTO"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate How Much PTO You Have"
+    },
+    {
+     "level": 3,
+     "text": "Step One: Determine Your Accrual Rate"
+    },
+    {
+     "level": 3,
+     "text": "Step Two: Calculate the Total Accrual"
+    },
+    {
+     "level": 4,
+     "text": "PTO Formula"
+    },
+    {
+     "level": 3,
+     "text": "Step Three: Adjust for Overtime, Part-Time, or Variable Hours"
+    },
+    {
+     "level": 3,
+     "text": "Step Four: Consider Your PTO Limit"
+    },
+    {
+     "level": 2,
+     "text": "Impact of Accrual Frequency"
+    },
+    {
+     "level": 2,
+     "text": "Similar Personal Finance Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 986,
+   "avgSentenceWords": 27,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "pto",
+     "weight": 47
+    },
+    {
+     "term": "accrual",
+     "weight": 19
+    },
+    {
+     "term": "hours",
+     "weight": 15
+    },
+    {
+     "term": "year",
+     "weight": 13
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "period",
+     "weight": 11
+    },
+    {
+     "term": "pay",
+     "weight": 11
+    },
+    {
+     "term": "accrual rate",
+     "weight": 11
+    },
+    {
+     "term": "pto accrual",
+     "weight": 9
+    },
+    {
+     "term": "calculate",
+     "weight": 9
+    },
+    {
+     "term": "have",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "step",
+     "weight": 8
+    },
+    {
+     "term": "much pto",
+     "weight": 8
+    },
+    {
+     "term": "pay period",
+     "weight": 8
+    },
+    {
+     "term": "off",
+     "weight": 7
+    },
+    {
+     "term": "accrue",
+     "weight": 7
+    },
+    {
+     "term": "rate",
+     "weight": 7
+    },
+    {
+     "term": "pto calculator",
+     "weight": 6
+    },
+    {
+     "term": "much",
+     "weight": 6
+    },
+    {
+     "term": "total",
+     "weight": 6
+    },
+    {
+     "term": "pay periods",
+     "weight": 6
+    },
+    {
+     "term": "periods",
+     "weight": 6
+    },
+    {
+     "term": "days",
+     "weight": 6
+    },
+    {
+     "term": "frequency",
+     "weight": 5
+    },
+    {
+     "term": "limit",
+     "weight": 5
+    },
+    {
+     "term": "employees",
+     "weight": 5
+    },
+    {
+     "term": "take",
+     "weight": 5
+    },
+    {
+     "term": "weekly",
+     "weight": 5
+    },
+    {
+     "term": "number",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Bureau of Labor Statistics.[1] To calculate how much PTO you will accrue, you’ll need to know your company’s accrual rate, which is often provided in your employee handbook or job offer."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 4,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Start Date",
+    "End Date",
+    "Calculate In",
+    "Starting Balance",
+    "PTO to Accrue",
+    "Frequency",
+    "Limit Max PTO",
+    "Accrual Limit"
+   ],
+   "selectOptionsSample": "hours days daily weekly bi-weekly semi-monthly monthly",
+   "unitToggle": false,
+   "wordsBeforeTool": 25,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2024-05-23",
+    "modified": "2024-05-23T18:54:41+00:00",
+    "authoritativeSources": [
+     "https://www.bls.gov/charts/employee-benefits/paid-leave-sick-vacation-days-by-service-requirement.htm"
+    ]
+   },
+   "ux": {
+    "htmlKB": 118,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 44,
+    "external": 14,
+    "contentInternal": 20,
+    "contentExternal": 8,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate How Much PTO You Have",
+     "Step One: Determine Your Accrual Rate",
+     "Step Two: Calculate the Total Accrual",
+     "Step Three: Adjust for Overtime, Part-Time, or Variable Hours",
+     "Step Four: Consider Your PTO Limit",
+     "Impact of Accrual Frequency",
+     "References",
+     "Full bio",
+     "PTO Calculator",
+     "annual income",
+     "bi-weekly pay period",
+     "overtime",
+     "Pay Raise Calculator",
+     "Overtime Calculator",
+     "Hours Calculator",
+     "Fair Bill Split Calculator",
+     "Bill Splitter – Split Check Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/pto-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/pto/",
+     "https://www.inchcalculator.com/pto-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/pto-calculator/#idx_how_to_calculate_how_much_pto_you_have",
+     "https://www.inchcalculator.com/pto-calculator/#idx_step_one_determine_your_accrual_rate",
+     "https://www.inchcalculator.com/pto-calculator/#idx_step_two_calculate_the_total_accrual",
+     "https://www.inchcalculator.com/pto-calculator/#idx_step_three_adjust_for_overtime_part-time_or_variable_hours",
+     "https://www.inchcalculator.com/pto-calculator/#idx_step_four_consider_your_pto_limit",
+     "https://www.inchcalculator.com/pto-calculator/#idx_impact_of_accrual_frequency",
+     "https://www.inchcalculator.com/pto-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/pto-calculator/",
+     "https://www.inchcalculator.com/annual-income-calculator/",
+     "https://www.inchcalculator.com/biweekly-pay-calculator/",
+     "https://www.inchcalculator.com/overtime-calculator/",
+     "https://www.inchcalculator.com/pay-raise-calculator/",
+     "https://www.inchcalculator.com/hours-calculator/",
+     "https://www.inchcalculator.com/fair-bill-split-calculator/",
+     "https://www.inchcalculator.com/split-bill-calculator/",
+     "https://www.inchcalculator.com/personal-finance-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fpto-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fpto-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fpto-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fpto-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fpto-calculator%2F&text=PTO+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fpto-calculator%2F&text=PTO+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://www.bls.gov/charts/employee-benefits/paid-leave-sick-vacation-days-by-service-requirement.htm"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/finance/off-day": {
+   "url": "https://www.omnicalculator.com/finance/off-day",
+   "finalUrl": "https://www.omnicalculator.com/finance/off-day",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T00:48:21.826Z",
+   "title": "Days Off Calculator",
+   "metaDescription": "Our days off calculator allows you to calculate the number of off-days you are entitled to.",
+   "canonical": "https://www.omnicalculator.com/finance/off-day",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Days Off Calculator"
+   ],
+   "h2": [
+    "What is days off? What is paid leave?",
+    "How to use this days off calculator to calculate your paid leave?",
+    "What is the importance of calculating your days off?",
+    "FAQs"
+   ],
+   "h3": [
+    "What is the number of days off I am entitled to in the UK, including public holidays?",
+    "What are the factors that will affect the number of days off I am entitled to?",
+    "How do I calculate my paid leave if I'm a part-time employee?",
+    "Can I take unpaid leave if I've used up my paid leave?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Days Off Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is days off? What is paid leave?"
+    },
+    {
+     "level": 2,
+     "text": "How to use this days off calculator to calculate your paid leave?"
+    },
+    {
+     "level": 2,
+     "text": "What is the importance of calculating your days off?"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What is the number of days off I am entitled to in the UK, including public holidays?"
+    },
+    {
+     "level": 3,
+     "text": "What are the factors that will affect the number of days off I am entitled to?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate my paid leave if I'm a part-time employee?"
+    },
+    {
+     "level": 3,
+     "text": "Can I take unpaid leave if I've used up my paid leave?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 919,
+   "avgSentenceWords": 16,
+   "faqs": [
+    "What is the number of days off I am entitled to in the UK, including public holidays?",
+    "What are the factors that will affect the number of days off I am entitled to?",
+    "How do I calculate my paid leave if I'm a part-time employee?",
+    "Can I take unpaid leave if I've used up my paid leave?",
+    "What is days off? What is paid leave?",
+    "How to use this days off calculator to calculate your paid leave?",
+    "What is the importance of calculating your days off?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "days off",
+     "weight": 35
+    },
+    {
+     "term": "days",
+     "weight": 29
+    },
+    {
+     "term": "off",
+     "weight": 28
+    },
+    {
+     "term": "paid leave",
+     "weight": 24
+    },
+    {
+     "term": "leave",
+     "weight": 23
+    },
+    {
+     "term": "paid",
+     "weight": 18
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "entitled",
+     "weight": 10
+    },
+    {
+     "term": "calculate",
+     "weight": 10
+    },
+    {
+     "term": "work",
+     "weight": 10
+    },
+    {
+     "term": "contract",
+     "weight": 9
+    },
+    {
+     "term": "number",
+     "weight": 9
+    },
+    {
+     "term": "off calculator",
+     "weight": 6
+    },
+    {
+     "term": "full",
+     "weight": 6
+    },
+    {
+     "term": "planning",
+     "weight": 6
+    },
+    {
+     "term": "unpaid",
+     "weight": 6
+    },
+    {
+     "term": "understand",
+     "weight": 6
+    },
+    {
+     "term": "employer",
+     "weight": 5
+    },
+    {
+     "term": "employee",
+     "weight": 5
+    },
+    {
+     "term": "take",
+     "weight": 5
+    },
+    {
+     "term": "legally entitled",
+     "weight": 5
+    },
+    {
+     "term": "work life",
+     "weight": 5
+    },
+    {
+     "term": "life balance",
+     "weight": 5
+    },
+    {
+     "term": "public holidays",
+     "weight": 5
+    },
+    {
+     "term": "leave entitlement",
+     "weight": 5
+    },
+    {
+     "term": "unpaid leave",
+     "weight": 5
+    },
+    {
+     "term": "country",
+     "weight": 4
+    },
+    {
+     "term": "employers",
+     "weight": 4
+    },
+    {
+     "term": "help",
+     "weight": 4
+    },
+    {
+     "term": "have",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "However, in reality, most US employers offer around 10 to 15 paid-off days to their full-time workers.",
+    "This days off calculator currently accounts for 3 countries, i.e., the United States, the United Kingdom, and Poland.",
+    "You are entitled to 20 days off and 28 days to 30 days in total, depending on the number of public holidays in that year."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 5,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Wei Bin Loo",
+    "published": "2023-08-11T23:07:40.060Z",
+    "modified": "2026-09-22T23:40:38.983Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 480,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 23,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "unpaid work calculator",
+     "day counter",
+     "vacation countdown calculator",
+     "absence percentage calculator",
+     "Bradford factor calculator",
+     "man-hours calculator",
+     "Full-time Equivalent (FTE) Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/finance/unpaid-work",
+     "https://www.omnicalculator.com/everyday-life/day-counter",
+     "https://www.omnicalculator.com/everyday-life/vacation-countdown",
+     "https://www.omnicalculator.com/finance/absence-percentage",
+     "https://www.omnicalculator.com/finance/bradford-factor",
+     "https://www.omnicalculator.com/finance/man-hours",
+     "https://www.omnicalculator.com/finance/full-time-equivalent"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

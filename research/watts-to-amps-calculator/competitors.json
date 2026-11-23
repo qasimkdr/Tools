@@ -1,0 +1,918 @@
+{
+ "pages": {
+  "https://www.inchcalculator.com/watts-to-amps-calculator/": {
+   "url": "https://www.inchcalculator.com/watts-to-amps-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/watts-to-amps-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-23T00:48:08.309Z",
+   "title": "Watts to Amps Calculator - Inch Calculator",
+   "metaDescription": "Convert watts to amps for DC and single or three-phase AC circuits, plus learn several formulas for watt to amp electrical conversions.",
+   "canonical": "https://www.inchcalculator.com/watts-to-amps-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Watts to Amps Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Current in Amps",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Convert Watts to Amps",
+    "How to Convert Watts and Ohms to Amps",
+    "Table: Watts to Amps at 120V & 240V AC",
+    "Table: Watts to Amps at 12V DC",
+    "Similar Electrical Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Watts to Amps Formula",
+    "How Many Amps Are in a Watt?",
+    "Conversion for Single-Phase AC Circuits",
+    "Conversion for Three-Phase AC Circuits"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Watts to Amps Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Current in Amps"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Convert Watts to Amps"
+    },
+    {
+     "level": 3,
+     "text": "Watts to Amps Formula"
+    },
+    {
+     "level": 3,
+     "text": "How Many Amps Are in a Watt?"
+    },
+    {
+     "level": 3,
+     "text": "Conversion for Single-Phase AC Circuits"
+    },
+    {
+     "level": 3,
+     "text": "Conversion for Three-Phase AC Circuits"
+    },
+    {
+     "level": 4,
+     "text": "Using Line-to-Line Voltage"
+    },
+    {
+     "level": 4,
+     "text": "Using Line-to-Neutral Voltage"
+    },
+    {
+     "level": 2,
+     "text": "How to Convert Watts and Ohms to Amps"
+    },
+    {
+     "level": 2,
+     "text": "Table: Watts to Amps at 120V & 240V AC"
+    },
+    {
+     "level": 2,
+     "text": "Table: Watts to Amps at 12V DC"
+    },
+    {
+     "level": 2,
+     "text": "Similar Electrical Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 1482,
+   "avgSentenceWords": 44,
+   "faqs": [
+    "How Many Amps Are in a Watt?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "amps",
+     "weight": 100
+    },
+    {
+     "term": "watts",
+     "weight": 89
+    },
+    {
+     "term": "volts",
+     "weight": 66
+    },
+    {
+     "term": "120 volts",
+     "weight": 42
+    },
+    {
+     "term": "amps 120",
+     "weight": 38
+    },
+    {
+     "term": "power",
+     "weight": 25
+    },
+    {
+     "term": "current",
+     "weight": 22
+    },
+    {
+     "term": "240 volts",
+     "weight": 20
+    },
+    {
+     "term": "voltage",
+     "weight": 17
+    },
+    {
+     "term": "amps 240",
+     "weight": 17
+    },
+    {
+     "term": "convert watts",
+     "weight": 15
+    },
+    {
+     "term": "phase",
+     "weight": 14
+    },
+    {
+     "term": "three phase",
+     "weight": 14
+    },
+    {
+     "term": "three",
+     "weight": 13
+    },
+    {
+     "term": "convert",
+     "weight": 12
+    },
+    {
+     "term": "line",
+     "weight": 12
+    },
+    {
+     "term": "calculator",
+     "weight": 11
+    },
+    {
+     "term": "formula",
+     "weight": 11
+    },
+    {
+     "term": "watt",
+     "weight": 11
+    },
+    {
+     "term": "power factor",
+     "weight": 11
+    },
+    {
+     "term": "600 watts",
+     "weight": 9
+    },
+    {
+     "term": "circuits",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "conversion",
+     "weight": 8
+    },
+    {
+     "term": "amps calculator",
+     "weight": 8
+    },
+    {
+     "term": "single phase",
+     "weight": 8
+    },
+    {
+     "term": "watts divided",
+     "weight": 8
+    },
+    {
+     "term": "100 watts",
+     "weight": 8
+    },
+    {
+     "term": "667 amps",
+     "weight": 8
+    },
+    {
+     "term": "400 watts",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "At 120 volts, 0.008333 amps of current are drawn to generate 1 watt of power, and 0.8333 amps are drawn to generate 100 watts.",
+    "At 240 volts, 0.004167 amps of current are drawn to generate 1 watt of power, and 0.4167 amps are drawn to generate 100 watts.",
+    "For example, let’s calculate how much current in amps a 1,500-watt microwave operating at 120 volts will draw.",
+    "I(A) = 1,500 W ÷ 120 V I(A) = 12.5 A So, a 1,500-watt microwave will draw 12.5 amps of current at 120 volts.",
+    "Because 1 kilowatt is equal to 1,000 watts, it is also possible to use the formulas above to convert kW to amps, but watts need to be converted to kW first.",
+    "Table: Watts to Amps at 120V & 240V AC Table showing watts converted to amps at 120 and 240 volts AC."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 3,
+   "images": 6,
+   "videos": 0,
+   "calculatorInputs": [
+    "Circuit Type",
+    "Power",
+    "Power Units",
+    "Voltage",
+    "Voltage Units",
+    "Voltage Type",
+    "Power Factor",
+    "Current Unit"
+   ],
+   "selectOptionsSample": "dc ac - single-phase ac - three-phase milliwatts watts kilowatts millivolts volts kilovolts line to line voltage line to neutral voltage a ma",
+   "unitToggle": false,
+   "wordsBeforeTool": 33,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2018-05-08",
+    "modified": "2025-12-22T15:02:42+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 132,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 52,
+    "external": 17,
+    "contentInternal": 28,
+    "contentExternal": 11,
+    "internalAnchors": [
+     "Amps to Watts",
+     "find power factor",
+     "below",
+     "Add This to Your Site",
+     "Watts to Amps Calculator",
+     "How to Convert Watts to Amps",
+     "Watts to Amps Formula",
+     "How Many Amps Are in a Watt?",
+     "Conversion for Single-Phase AC Circuits",
+     "Conversion for Three-Phase AC Circuits",
+     "How to Convert Watts and Ohms to Amps",
+     "Table: Watts to Amps at 120V & 240V AC",
+     "Table: Watts to Amps at 12V DC",
+     "References",
+     "Full bio",
+     "Watt’s Law power formula",
+     "current",
+     "power",
+     "voltage",
+     "power factor calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/amps-to-watts-calculator/",
+     "https://www.inchcalculator.com/power-factor-calculator/",
+     "https://www.inchcalculator.com/watts-to-amps-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/watts-to-amps/",
+     "https://www.inchcalculator.com/watts-to-amps-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/watts-to-amps-calculator/#idx_how_to_convert_watts_to_amps",
+     "https://www.inchcalculator.com/watts-to-amps-calculator/#idx_watts_to_amps_formula",
+     "https://www.inchcalculator.com/watts-to-amps-calculator/#idx_how_many_amps_are_in_a_watt",
+     "https://www.inchcalculator.com/watts-to-amps-calculator/#idx_conversion_for_single-phase_ac_circuits",
+     "https://www.inchcalculator.com/watts-to-amps-calculator/#idx_conversion_for_three-phase_ac_circuits",
+     "https://www.inchcalculator.com/watts-to-amps-calculator/#idx_how_to_convert_watts_and_ohms_to_amps",
+     "https://www.inchcalculator.com/watts-to-amps-calculator/#idx_table_watts_to_amps_at_120v_038_240v_ac",
+     "https://www.inchcalculator.com/watts-to-amps-calculator/#idx_table_watts_to_amps_at_12v_dc",
+     "https://www.inchcalculator.com/watts-to-amps-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/aditya-dua/",
+     "https://www.inchcalculator.com/author/kevin-weekly/",
+     "https://www.inchcalculator.com/watts-to-amps-calculator/",
+     "https://www.inchcalculator.com/ohms-law-calculator/#watts_law",
+     "https://www.inchcalculator.com/current-calculator/",
+     "https://www.inchcalculator.com/wattage-calculator/",
+     "https://www.inchcalculator.com/voltage-calculator/",
+     "https://www.inchcalculator.com/kilowatts-to-amps-calculator/",
+     "https://www.inchcalculator.com/convert/power/",
+     "https://www.inchcalculator.com/convert/electric-current/"
+    ],
+    "externalSample": [
+     "https://apps.apple.com/app/electrical-calculator-plus/id6479804242",
+     "https://play.google.com/store/apps/details?id=com.inchcalculator.electrical_calculator",
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fwatts-to-amps-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fwatts-to-amps-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fwatts-to-amps-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fwatts-to-amps-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fwatts-to-amps-calculator%2F&text=Watts+to+Amps+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fwatts-to-amps-calculator%2F&text=Watts+to+Amps+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://www.google.com/books/edition/NFPA_s_Electrical_References/raUyIi7i-asC",
+     "https://books.google.com/books?id=1kS8DwAAQBAJ"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/physics/watts-to-amps": {
+   "url": "https://www.omnicalculator.com/physics/watts-to-amps",
+   "finalUrl": "https://www.omnicalculator.com/physics/watts-to-amps",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T00:48:11.563Z",
+   "title": "Watts to Amps Calculator",
+   "metaDescription": "Watts to amps calculator helps you convert the electric power into amperage, or vice versa, depending on the applied kind of current.",
+   "canonical": "https://www.omnicalculator.com/physics/watts-to-amps",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Watts to Amps Calculator"
+   ],
+   "h2": [
+    "The convention of using watts, amps, and volts",
+    "How to convert watts to amps or amps to watts?",
+    "How to calculate watts?",
+    "How to use the watts to amps calculator?",
+    "The difference between line-to-line and line-to-neutral voltages"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Watts to Amps Calculator"
+    },
+    {
+     "level": 2,
+     "text": "The convention of using watts, amps, and volts"
+    },
+    {
+     "level": 2,
+     "text": "How to convert watts to amps or amps to watts?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate watts?"
+    },
+    {
+     "level": 2,
+     "text": "How to use the watts to amps calculator?"
+    },
+    {
+     "level": 2,
+     "text": "The difference between line-to-line and line-to-neutral voltages"
+    }
+   ],
+   "wordCount": 980,
+   "avgSentenceWords": 25,
+   "faqs": [
+    "How to convert watts to amps or amps to watts?",
+    "How to calculate watts?",
+    "How to use the watts to amps calculator?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "watts",
+     "weight": 23
+    },
+    {
+     "term": "amps",
+     "weight": 22
+    },
+    {
+     "term": "current",
+     "weight": 17
+    },
+    {
+     "term": "calculator",
+     "weight": 16
+    },
+    {
+     "term": "voltage",
+     "weight": 16
+    },
+    {
+     "term": "power",
+     "weight": 15
+    },
+    {
+     "term": "line",
+     "weight": 13
+    },
+    {
+     "term": "three phase",
+     "weight": 11
+    },
+    {
+     "term": "phase",
+     "weight": 10
+    },
+    {
+     "term": "three",
+     "weight": 9
+    },
+    {
+     "term": "amps calculator",
+     "weight": 8
+    },
+    {
+     "term": "phase current",
+     "weight": 8
+    },
+    {
+     "term": "amperage",
+     "weight": 7
+    },
+    {
+     "term": "neutral",
+     "weight": 7
+    },
+    {
+     "term": "power factor",
+     "weight": 6
+    },
+    {
+     "term": "between",
+     "weight": 6
+    },
+    {
+     "term": "neutral voltage",
+     "weight": 6
+    },
+    {
+     "term": "volts",
+     "weight": 6
+    },
+    {
+     "term": "type",
+     "weight": 5
+    },
+    {
+     "term": "factor",
+     "weight": 5
+    },
+    {
+     "term": "convert",
+     "weight": 5
+    },
+    {
+     "term": "convert watts",
+     "weight": 5
+    },
+    {
+     "term": "100 volts",
+     "weight": 5
+    },
+    {
+     "term": "find",
+     "weight": 4
+    },
+    {
+     "term": "configuration",
+     "weight": 4
+    },
+    {
+     "term": "formula",
+     "weight": 4
+    },
+    {
+     "term": "there",
+     "weight": 4
+    },
+    {
+     "term": "circuit",
+     "weight": 3
+    },
+    {
+     "term": "choose",
+     "weight": 3
+    },
+    {
+     "term": "calculate",
+     "weight": 3
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 4,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Wojciech Sas",
+    "published": "2016-01-17T13:52:35.976Z",
+    "modified": "2026-09-24T13:06:40.510Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 481,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 23,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Ohm's law",
+     "wire size calculator",
+     "electrical power calculator",
+     "sin calculator",
+     "power factor calculator",
+     "AC wattage calculator",
+     "voltage divider calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/physics/ohms-law",
+     "https://www.omnicalculator.com/physics/wire-size",
+     "https://www.omnicalculator.com/physics/electrical-power",
+     "https://www.omnicalculator.com/math/sin",
+     "https://www.omnicalculator.com/physics/power-factor",
+     "https://www.omnicalculator.com/physics/ac-wattage",
+     "https://www.omnicalculator.com/physics/voltage-divider"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/electricity-calculator.html": {
+   "url": "https://www.calculator.net/electricity-calculator.html",
+   "finalUrl": "https://www.calculator.net/electricity-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-23T00:48:14.556Z",
+   "title": "Electricity Calculator",
+   "metaDescription": "Free electricity calculator to estimate electricity usage as well as cost based on the power requirements and usage of appliances.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Electricity Calculator"
+   ],
+   "h2": [],
+   "h3": [
+    "Units of electricity:",
+    "Amount of energy used by common appliances:",
+    "Energy saving tips:"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Electricity Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Units of electricity:"
+    },
+    {
+     "level": 3,
+     "text": "Amount of energy used by common appliances:"
+    },
+    {
+     "level": 3,
+     "text": "Energy saving tips:"
+    }
+   ],
+   "wordCount": 1282,
+   "avgSentenceWords": 23,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "energy",
+     "weight": 25
+    },
+    {
+     "term": "power",
+     "weight": 16
+    },
+    {
+     "term": "btu",
+     "weight": 16
+    },
+    {
+     "term": "appliances",
+     "weight": 12
+    },
+    {
+     "term": "used",
+     "weight": 11
+    },
+    {
+     "term": "appliance",
+     "weight": 10
+    },
+    {
+     "term": "electricity",
+     "weight": 9
+    },
+    {
+     "term": "horsepower",
+     "weight": 9
+    },
+    {
+     "term": "kilowatt",
+     "weight": 9
+    },
+    {
+     "term": "hours",
+     "weight": 9
+    },
+    {
+     "term": "unit",
+     "weight": 9
+    },
+    {
+     "term": "units",
+     "weight": 8
+    },
+    {
+     "term": "watts",
+     "weight": 8
+    },
+    {
+     "term": "heat",
+     "weight": 8
+    },
+    {
+     "term": "ton",
+     "weight": 8
+    },
+    {
+     "term": "light",
+     "weight": 8
+    },
+    {
+     "term": "kilowatt hours",
+     "weight": 8
+    },
+    {
+     "term": "usage",
+     "weight": 7
+    },
+    {
+     "term": "windows",
+     "weight": 7
+    },
+    {
+     "term": "cost",
+     "weight": 6
+    },
+    {
+     "term": "common",
+     "weight": 6
+    },
+    {
+     "term": "hour",
+     "weight": 6
+    },
+    {
+     "term": "750 2000",
+     "weight": 6
+    },
+    {
+     "term": "electric",
+     "weight": 6
+    },
+    {
+     "term": "light bulbs",
+     "weight": 6
+    },
+    {
+     "term": "home",
+     "weight": 5
+    },
+    {
+     "term": "amount",
+     "weight": 5
+    },
+    {
+     "term": "kwh",
+     "weight": 5
+    },
+    {
+     "term": "watt",
+     "weight": 5
+    },
+    {
+     "term": "possible",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "One kilowatt (kW) is equal to 1,000 watts.",
+    "1 BTU = 0.2931 watt-hours 1 BTU = 0.0002931 kWh 1 kWh ≈ 3412 BTU BTU/h, BTU per hour, is a unit of power that represents the energy transfer rate of BTU per hour."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 4,
+   "lists": 1,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "appliance",
+    "power",
+    "powerunit",
+    "capacity",
+    "usage",
+    "usageunit",
+    "price"
+   ],
+   "selectOptionsSample": "define your own air conditioner (hvac) air conditioner (window unit) heater (home) heater (portable) humidifier dehumidifier fan (ceiling, table) light bulb (led) light bulb (incandescent) electric water heater refrigerator electric range/oven electric cooktop/stove microwave oven dishwashers coffee",
+   "unitToggle": true,
+   "wordsBeforeTool": 64,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 19,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 24,
+    "external": 0,
+    "contentInternal": 24,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "other",
+     "electricity calculator",
+     "Other Calculators",
+     "Age",
+     "Date",
+     "Time",
+     "Hours",
+     "GPA",
+     "Grade",
+     "Height",
+     "Concrete",
+     "IP Subnet",
+     "Bra Size",
+     "Password Generator",
+     "Dice Roller",
+     "Conversion",
+     "More Other Calculators",
+     "Financial"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/electricity-calculator.html",
+     "https://www.calculator.net/age-calculator.html",
+     "https://www.calculator.net/date-calculator.html",
+     "https://www.calculator.net/time-calculator.html",
+     "https://www.calculator.net/hours-calculator.html",
+     "https://www.calculator.net/gpa-calculator.html",
+     "https://www.calculator.net/grade-calculator.html",
+     "https://www.calculator.net/height-calculator.html",
+     "https://www.calculator.net/concrete-calculator.html",
+     "https://www.calculator.net/ip-subnet-calculator.html",
+     "https://www.calculator.net/bra-size-calculator.html",
+     "https://www.calculator.net/password-generator.html",
+     "https://www.calculator.net/dice-roller.html",
+     "https://www.calculator.net/conversion-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

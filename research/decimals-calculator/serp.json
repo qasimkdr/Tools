@@ -1,0 +1,231 @@
+{
+ "keywords": {
+  "decimals calculator": {
+   "fetchedAt": "2026-11-23T00:47:57.100Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 2400,
+   "fileKd": 12,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.omnicalculator.com/math/decimal",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.mometrix.com/academy/decimal-calculator/",
+     "domain": "www.mometrix.com",
+     "title": "Decimal Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.mometrix.com/academy/?p=213614",
+     "domain": "www.mometrix.com",
+     "title": "Decimal Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://dqydj.com/decimal-calculator/",
+     "domain": "dqydj.com",
+     "title": "Decimal Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://dqydj.com/?p=16546",
+     "domain": "dqydj.com",
+     "title": "dqydj.com",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://mathcracker.com/decimal-calculator",
+     "domain": "mathcracker.com",
+     "title": "Decimal Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.meracalculator.com/math/decimal-calculator.php",
+     "domain": "www.meracalculator.com",
+     "title": "decimal calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://brightchamps.com/en-us/math/calculators/decimal-calculator",
+     "domain": "brightchamps.com",
+     "title": "BrightChamps Logo",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://fibonacci-numbers.surrey.ac.uk/Fractions/FractionsCalc.html",
+     "domain": "fibonacci-numbers.surrey.ac.uk",
+     "title": "Fractions – Decimals Calculator version 2.6",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.getcalc.com/digital-decimal-calculator.htm",
+     "domain": "www.getcalc.com",
+     "title": "Decimal Calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.scu.edu.au/media/scu-dep/current-students/learning-zone/numeracy/Decimals.pdf",
+     "domain": "www.scu.edu.au",
+     "title": "www.scu.edu.au",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://cameramath.com/mathsolver/decimal-calculator",
+     "domain": "cameramath.com",
+     "title": "decimal calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.easyunitconverter.com/decimal-calculator",
+     "domain": "www.easyunitconverter.com",
+     "title": "Decimal Calculator",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://brightchamps.com/en-us/math/calculators/decimal-notation-calculator",
+     "domain": "brightchamps.com",
+     "title": "Last updated on June 26th, 2025",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://calculatorsoup.com/calculators/math/math.php",
+     "domain": "calculatorsoup.com",
+     "title": "calculatorsoup.com",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://best-calculators.com/math-conversion/decimal-calculator/",
+     "domain": "best-calculators.com",
+     "title": "Decimal Calculator - Add, Subtract, Multiply, Exponent",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://libguides.leedsbeckett.ac.uk/skills-for-learning/maths-and-stats/basics/decimals",
+     "domain": "libguides.leedsbeckett.ac.uk",
+     "title": "libguides.leedsbeckett.ac.uk",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "decimals-calculator",
+ "page": "decimals-calculator",
+ "category": "math",
+ "name": "Decimals Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T00:47:57.100Z",
+ "topCompetitors": [
+  {
+   "domain": "dqydj.com",
+   "bestRank": 4,
+   "keywords": 2,
+   "urls": [
+    "https://dqydj.com/decimal-calculator/",
+    "https://dqydj.com/?p=16546"
+   ]
+  },
+  {
+   "domain": "brightchamps.com",
+   "bestRank": 8,
+   "keywords": 2,
+   "urls": [
+    "https://brightchamps.com/en-us/math/calculators/decimal-calculator",
+    "https://brightchamps.com/en-us/math/calculators/decimal-notation-calculator"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/math/decimal"
+   ]
+  },
+  {
+   "domain": "mathcracker.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://mathcracker.com/decimal-calculator"
+   ]
+  },
+  {
+   "domain": "meracalculator.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.meracalculator.com/math/decimal-calculator.php"
+   ]
+  },
+  {
+   "domain": "surrey.ac.uk",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://fibonacci-numbers.surrey.ac.uk/Fractions/FractionsCalc.html"
+   ]
+  },
+  {
+   "domain": "getcalc.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://www.getcalc.com/digital-decimal-calculator.htm"
+   ]
+  },
+  {
+   "domain": "edu.au",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://www.scu.edu.au/media/scu-dep/current-students/learning-zone/numeracy/Decimals.pdf"
+   ]
+  },
+  {
+   "domain": "cameramath.com",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://cameramath.com/mathsolver/decimal-calculator"
+   ]
+  },
+  {
+   "domain": "easyunitconverter.com",
+   "bestRank": 13,
+   "keywords": 1,
+   "urls": [
+    "https://www.easyunitconverter.com/decimal-calculator"
+   ]
+  }
+ ]
+}

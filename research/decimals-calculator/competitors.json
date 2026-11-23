@@ -1,0 +1,559 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/math/decimal": {
+   "url": "https://www.omnicalculator.com/math/decimal",
+   "finalUrl": "https://www.omnicalculator.com/math/decimal",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T00:48:25.925Z",
+   "title": "Decimal Calculator",
+   "metaDescription": "The decimal calculator will help you find the sum, difference, product, and quotient of any two decimals you give it. Plus exponent, root, and logarithm operations involving decimal numbers.",
+   "canonical": "https://www.omnicalculator.com/math/decimal",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Decimal Calculator"
+   ],
+   "h2": [
+    "Adding decimals calculator",
+    "Subtracting decimals calculator",
+    "Multiplying decimals calculator",
+    "Dividing decimals calculator",
+    "Decimal exponents",
+    "(Square) root of a decimal",
+    "Logarithms with decimals",
+    "Using the decimal calculator",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I divide decimals without a calculator?",
+    "How do I multiply decimals without a calculator?",
+    "How do I calculate the square root of a decimal number?",
+    "How do I calculate decimal exponents?",
+    "How do I calculate the log of a decimal number?",
+    "How do I subtract decimals without a calculator?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Decimal Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Adding decimals calculator"
+    },
+    {
+     "level": 2,
+     "text": "Subtracting decimals calculator"
+    },
+    {
+     "level": 2,
+     "text": "Multiplying decimals calculator"
+    },
+    {
+     "level": 2,
+     "text": "Dividing decimals calculator"
+    },
+    {
+     "level": 2,
+     "text": "Decimal exponents"
+    },
+    {
+     "level": 2,
+     "text": "(Square) root of a decimal"
+    },
+    {
+     "level": 2,
+     "text": "Logarithms with decimals"
+    },
+    {
+     "level": 2,
+     "text": "Using the decimal calculator"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I divide decimals without a calculator?"
+    },
+    {
+     "level": 3,
+     "text": "How do I multiply decimals without a calculator?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate the square root of a decimal number?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate decimal exponents?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate the log of a decimal number?"
+    },
+    {
+     "level": 3,
+     "text": "How do I subtract decimals without a calculator?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 2338,
+   "avgSentenceWords": 18,
+   "faqs": [
+    "How do I divide decimals without a calculator?",
+    "How do I multiply decimals without a calculator?",
+    "How do I calculate the square root of a decimal number?",
+    "How do I calculate decimal exponents?",
+    "How do I calculate the log of a decimal number?",
+    "How do I subtract decimals without a calculator?"
+   ],
+   "faqSchemaCount": 6,
+   "topics": [
+    {
+     "term": "decimal",
+     "weight": 47
+    },
+    {
+     "term": "decimals",
+     "weight": 45
+    },
+    {
+     "term": "calculator",
+     "weight": 38
+    },
+    {
+     "term": "number",
+     "weight": 32
+    },
+    {
+     "term": "decimals calculator",
+     "weight": 23
+    },
+    {
+     "term": "decimal calculator",
+     "weight": 21
+    },
+    {
+     "term": "dot",
+     "weight": 19
+    },
+    {
+     "term": "digits after",
+     "weight": 17
+    },
+    {
+     "term": "root",
+     "weight": 16
+    },
+    {
+     "term": "log",
+     "weight": 16
+    },
+    {
+     "term": "decimal dot",
+     "weight": 15
+    },
+    {
+     "term": "have",
+     "weight": 15
+    },
+    {
+     "term": "digits",
+     "weight": 15
+    },
+    {
+     "term": "after",
+     "weight": 14
+    },
+    {
+     "term": "operation",
+     "weight": 13
+    },
+    {
+     "term": "result",
+     "weight": 12
+    },
+    {
+     "term": "exponent",
+     "weight": 12
+    },
+    {
+     "term": "same",
+     "weight": 11
+    },
+    {
+     "term": "calculator choose",
+     "weight": 11
+    },
+    {
+     "term": "operation variable",
+     "weight": 11
+    },
+    {
+     "term": "variable field",
+     "weight": 11
+    },
+    {
+     "term": "square root",
+     "weight": 11
+    },
+    {
+     "term": "calculate",
+     "weight": 10
+    },
+    {
+     "term": "adding",
+     "weight": 9
+    },
+    {
+     "term": "multiplying",
+     "weight": 9
+    },
+    {
+     "term": "decimal exponents",
+     "weight": 9
+    },
+    {
+     "term": "choose",
+     "weight": 9
+    },
+    {
+     "term": "fraction",
+     "weight": 9
+    },
+    {
+     "term": "step",
+     "weight": 9
+    },
+    {
+     "term": "subtracting",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "Decimals are fractions that have very special denominators: a power of 10.",
+    "019 12+114​.300.719.019​​ And that's how the adding decimals calculator works.",
+    "76 5−22​.10.34.76​​ And that's all there is to the subtracting decimals calculator.",
+    "Multiply both decimals by 10 to the power from point 2."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 10,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Operation"
+   ],
+   "selectOptionsSample": "select addition subtraction multiplication division exponent root logarithm",
+   "unitToggle": false,
+   "wordsBeforeTool": 3,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Maciej Kowalski",
+    "published": "2021-03-23T13:28:22.062Z",
+    "modified": "2026-07-14T15:11:27.271Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 790,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 25,
+    "external": 1,
+    "contentInternal": 9,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "adding and subtracting fractions with different denominators",
+     "simplifying fractions",
+     "how to multiply fractions",
+     "fraction exponent",
+     "mixed number",
+     "rounding calculator",
+     "change of base formula",
+     "Least Common Multiple Calculator",
+     "Absolute Value Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/math/adding-and-subtracting-fractions",
+     "https://www.omnicalculator.com/math/simplify-fractions",
+     "https://www.omnicalculator.com/math/multiplying-fractions",
+     "https://www.omnicalculator.com/math/fractional-exponent",
+     "https://www.omnicalculator.com/math/mixed-number",
+     "https://www.omnicalculator.com/math/rounding",
+     "https://www.omnicalculator.com/math/change-of-base",
+     "https://www.omnicalculator.com/math/least-common-multiple",
+     "https://www.omnicalculator.com/math/absolute-value"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/math/math.php": {
+   "url": "https://www.calculatorsoup.com/calculators/math/math.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/math/math.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-23T00:48:29.105Z",
+   "title": "Math Calculator",
+   "metaDescription": "Free online math calculator to add, subtract, multiply and divide positive and negative numbers. Online decimal calculator to find sum, difference and products of numbers.",
+   "canonical": "https://www.calculatorsoup.com/calculators/math/math.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Math Calculator"
+   ],
+   "h2": [],
+   "h3": [
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Math Calculator"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 252,
+   "avgSentenceWords": 25,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "calculator",
+     "weight": 17
+    },
+    {
+     "term": "math",
+     "weight": 11
+    },
+    {
+     "term": "math calculator",
+     "weight": 8
+    },
+    {
+     "term": "calculators",
+     "weight": 7
+    },
+    {
+     "term": "numbers",
+     "weight": 6
+    },
+    {
+     "term": "work long",
+     "weight": 6
+    },
+    {
+     "term": "shows work",
+     "weight": 6
+    },
+    {
+     "term": "decimal",
+     "weight": 5
+    },
+    {
+     "term": "work",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators math",
+     "weight": 5
+    },
+    {
+     "term": "decimal numbers",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "negative",
+     "weight": 4
+    },
+    {
+     "term": "long",
+     "weight": 4
+    },
+    {
+     "term": "shows",
+     "weight": 4
+    },
+    {
+     "term": "math math",
+     "weight": 3
+    },
+    {
+     "term": "scientific notation",
+     "weight": 3
+    },
+    {
+     "term": "notation",
+     "weight": 3
+    },
+    {
+     "term": "calculations",
+     "weight": 3
+    },
+    {
+     "term": "com",
+     "weight": 3
+    },
+    {
+     "term": "com calculators",
+     "weight": 3
+    },
+    {
+     "term": "https www",
+     "weight": 3
+    },
+    {
+     "term": "www calculatorsoup",
+     "weight": 3
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 2,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "operand 1",
+    "operator",
+    "operand 2",
+    "Rounding to: Do Not Round Thousands Hundreds Tens Ones 1 decimal 2 decimals 3 decimals 4 decimals 5 decimals 6 decimals",
+    "reset"
+   ],
+   "selectOptionsSample": "+ − × ÷ do not round thousands hundreds tens ones 1 decimal 2 decimals 3 decimals 4 decimals 5 decimals 6 decimals",
+   "unitToggle": false,
+   "wordsBeforeTool": 14,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "August 1, 2025",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 49,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 21,
+    "external": 0,
+    "contentInternal": 11,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Math",
+     "Math Calculator",
+     "Rounding",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Long Multiplication Calculator",
+     "Long Division Calculator",
+     "Long Addition Calculator",
+     "Long Subtraction with Regrouping (Borrowing) Calculator",
+     "https://www.calculatorsoup.com/calculators/math/math.php",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/math/",
+     "https://www.calculatorsoup.com/calculators/math/math.php",
+     "https://www.calculatorsoup.com/calculators/math/roundingnumbers.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=math%2F&folderName=Math&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/math/math.php&h1=Math+Calculator&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/math/longmultiplication.php",
+     "https://www.calculatorsoup.com/calculators/math/longdivisiondecimals.php",
+     "https://www.calculatorsoup.com/calculators/math/long-addition-calculator.php",
+     "https://www.calculatorsoup.com/calculators/math/long-subtraction-with-regrouping-calculator.php"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

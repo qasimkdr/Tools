@@ -1,0 +1,973 @@
+{
+ "pages": {
+  "https://www.calculator.net/molarity-calculator.html": {
+   "url": "https://www.calculator.net/molarity-calculator.html",
+   "finalUrl": "https://www.calculator.net/molarity-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-23T00:47:58.195Z",
+   "title": "Molarity Calculator",
+   "metaDescription": "This free molarity calculator determines any of the four variables in the molarity equation, given the other three.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Molarity Calculator"
+   ],
+   "h2": [],
+   "h3": [
+    "Measuring molarity using molecular weight",
+    "Disambiguation of terminology"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Molarity Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Measuring molarity using molecular weight"
+    },
+    {
+     "level": 3,
+     "text": "Disambiguation of terminology"
+    }
+   ],
+   "wordCount": 1000,
+   "avgSentenceWords": 21,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "mass",
+     "weight": 26
+    },
+    {
+     "term": "molecular weight",
+     "weight": 23
+    },
+    {
+     "term": "molarity",
+     "weight": 21
+    },
+    {
+     "term": "molecular",
+     "weight": 19
+    },
+    {
+     "term": "solution",
+     "weight": 19
+    },
+    {
+     "term": "molar mass",
+     "weight": 17
+    },
+    {
+     "term": "weight",
+     "weight": 16
+    },
+    {
+     "term": "solute",
+     "weight": 16
+    },
+    {
+     "term": "molar",
+     "weight": 13
+    },
+    {
+     "term": "mol",
+     "weight": 12
+    },
+    {
+     "term": "moles",
+     "weight": 10
+    },
+    {
+     "term": "used",
+     "weight": 8
+    },
+    {
+     "term": "terms",
+     "weight": 7
+    },
+    {
+     "term": "volume",
+     "weight": 6
+    },
+    {
+     "term": "substance",
+     "weight": 6
+    },
+    {
+     "term": "units",
+     "weight": 6
+    },
+    {
+     "term": "number",
+     "weight": 6
+    },
+    {
+     "term": "liter",
+     "weight": 6
+    },
+    {
+     "term": "sodium chloride",
+     "weight": 6
+    },
+    {
+     "term": "molecular mass",
+     "weight": 6
+    },
+    {
+     "term": "calculator",
+     "weight": 5
+    },
+    {
+     "term": "solvent",
+     "weight": 5
+    },
+    {
+     "term": "terms used",
+     "weight": 5
+    },
+    {
+     "term": "potassium nitrate",
+     "weight": 5
+    },
+    {
+     "term": "concentration",
+     "weight": 4
+    },
+    {
+     "term": "given",
+     "weight": 4
+    },
+    {
+     "term": "typically",
+     "weight": 4
+    },
+    {
+     "term": "context",
+     "weight": 4
+    },
+    {
+     "term": "example",
+     "weight": 4
+    },
+    {
+     "term": "sodium",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "To find the molarity of the solution: M = mMW×V = 10 g58.44 g/mol × 0.5 L = 0.342 M Thus, the molarity of the sodium chloride solution is 0.342 M.",
+    "First, rearrange the molarity equation to solve for the mass of solute m: m = M×MW×V = 1 M × 101.1 g/mol × 2 L = 202.2 g So, you need to weigh out 202.2 grams of potassium nitrate to make 2 liter of a 1 M solution."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 3,
+   "lists": 2,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "cmass",
+    "cmassunit",
+    "cmw",
+    "cmwunit",
+    "cvolume",
+    "cvolumeunit",
+    "cconcentration",
+    "cconcentrationunit"
+   ],
+   "selectOptionsSample": "t [metric ton] kg [kilogram] g [gram] mg [miligram] μg [microgram] da [atomic mass unit] lb [pound] oz [ounce] g/mol [gram/mole] kg/mol [kilogram/mole] m³ [cubic meter] cm³ [cubic centimeter] mm³ [cubic milimeter] l [liter] ml [milliliter] gal [us gallon] qt [us quart] pt [us pint] c [us cup] fl oz ",
+   "unitToggle": true,
+   "wordsBeforeTool": 36,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 15,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 25,
+    "external": 0,
+    "contentInternal": 25,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "other",
+     "molarity calculator",
+     "Molecular Weight Calculator",
+     "Other Calculators",
+     "Age",
+     "Date",
+     "Time",
+     "Hours",
+     "GPA",
+     "Grade",
+     "Height",
+     "Concrete",
+     "IP Subnet",
+     "Bra Size",
+     "Password Generator",
+     "Dice Roller",
+     "Conversion",
+     "More Other Calculators"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/molarity-calculator.html",
+     "https://www.calculator.net/molecular-weight-calculator.html",
+     "https://www.calculator.net/age-calculator.html",
+     "https://www.calculator.net/date-calculator.html",
+     "https://www.calculator.net/time-calculator.html",
+     "https://www.calculator.net/hours-calculator.html",
+     "https://www.calculator.net/gpa-calculator.html",
+     "https://www.calculator.net/grade-calculator.html",
+     "https://www.calculator.net/height-calculator.html",
+     "https://www.calculator.net/concrete-calculator.html",
+     "https://www.calculator.net/ip-subnet-calculator.html",
+     "https://www.calculator.net/bra-size-calculator.html",
+     "https://www.calculator.net/password-generator.html",
+     "https://www.calculator.net/dice-roller.html",
+     "https://www.calculator.net/conversion-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/molarity-calculator/": {
+   "url": "https://www.inchcalculator.com/molarity-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/molarity-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-23T00:48:01.299Z",
+   "title": "Molarity Calculator - Inch Calculator",
+   "metaDescription": "Calculate the molarity of a solution with our molar concentration calculator. Plus learn the molarity formulas and how to solve mass & volume",
+   "canonical": "https://www.inchcalculator.com/molarity-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Molarity Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Molarity",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate Molarity",
+    "How to Calculate Mass",
+    "How to Calculate Volume",
+    "Similar Chemistry Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Molarity Formula"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Molarity Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Molarity"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Molarity"
+    },
+    {
+     "level": 3,
+     "text": "Molarity Formula"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Mass"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Volume"
+    },
+    {
+     "level": 2,
+     "text": "Similar Chemistry Calculators"
+    }
+   ],
+   "wordCount": 660,
+   "avgSentenceWords": 31,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "mass",
+     "weight": 25
+    },
+    {
+     "term": "molarity",
+     "weight": 23
+    },
+    {
+     "term": "mol",
+     "weight": 19
+    },
+    {
+     "term": "volume",
+     "weight": 15
+    },
+    {
+     "term": "molar mass",
+     "weight": 14
+    },
+    {
+     "term": "solution",
+     "weight": 11
+    },
+    {
+     "term": "calculator",
+     "weight": 10
+    },
+    {
+     "term": "calculate",
+     "weight": 10
+    },
+    {
+     "term": "formula",
+     "weight": 10
+    },
+    {
+     "term": "molar",
+     "weight": 10
+    },
+    {
+     "term": "substance",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "amount",
+     "weight": 6
+    },
+    {
+     "term": "moles",
+     "weight": 6
+    },
+    {
+     "term": "molarity mol",
+     "weight": 6
+    },
+    {
+     "term": "divided",
+     "weight": 6
+    },
+    {
+     "term": "results",
+     "weight": 5
+    },
+    {
+     "term": "molarity calculator",
+     "weight": 5
+    },
+    {
+     "term": "formula weight",
+     "weight": 5
+    },
+    {
+     "term": "mol divided",
+     "weight": 5
+    },
+    {
+     "term": "weight",
+     "weight": 4
+    },
+    {
+     "term": "solute",
+     "weight": 4
+    },
+    {
+     "term": "find",
+     "weight": 4
+    },
+    {
+     "term": "equal",
+     "weight": 4
+    },
+    {
+     "term": "ppm",
+     "weight": 4
+    },
+    {
+     "term": "converter",
+     "weight": 4
+    },
+    {
+     "term": "mol volume",
+     "weight": 3
+    },
+    {
+     "term": "mol concentration",
+     "weight": 3
+    },
+    {
+     "term": "concentration",
+     "weight": 3
+    },
+    {
+     "term": "results molarity",
+     "weight": 3
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 2,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "Formula Weight",
+    "Volume",
+    "Volume Units",
+    "Mass",
+    "Mass Units",
+    "Formula Weight",
+    "Concentration",
+    "Concentration Units",
+    "Volume",
+    "Volume Units",
+    "Formula Weight",
+    "Concentration",
+    "Concentration Units",
+    "Mass",
+    "Mass Units"
+   ],
+   "selectOptionsSample": "μl ml l mg g kg nm μm mm m μl ml l nm μm mm m mg g kg",
+   "unitToggle": true,
+   "wordsBeforeTool": 21,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2021-07-19",
+    "modified": "2023-02-15T01:12:45+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 124,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 44,
+    "external": 13,
+    "contentInternal": 20,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate Molarity",
+     "Molarity Formula",
+     "How to Calculate Mass",
+     "How to Calculate Volume",
+     "Full bio",
+     "Molarity Calculator",
+     "molality",
+     "mass",
+     "molar mass calculator",
+     "mole calculator",
+     "Ideal Gas Law Calculator",
+     "PPM to mg/L Converter",
+     "mg/L to PPM Converter",
+     "Percent to PPM Converter",
+     "PPM to Percent Converter",
+     "See All"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/molarity-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/molarity/",
+     "https://www.inchcalculator.com/molarity-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/molarity-calculator/#idx_how_to_calculate_molarity",
+     "https://www.inchcalculator.com/molarity-calculator/#idx_molarity_formula",
+     "https://www.inchcalculator.com/molarity-calculator/#idx_how_to_calculate_mass",
+     "https://www.inchcalculator.com/molarity-calculator/#idx_how_to_calculate_volume",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/teresa-michelsen/",
+     "https://www.inchcalculator.com/molarity-calculator/",
+     "https://www.inchcalculator.com/molality-calculator/",
+     "https://www.inchcalculator.com/mass-calculator/",
+     "https://www.inchcalculator.com/molar-mass-calculator/",
+     "https://www.inchcalculator.com/mole-calculator/",
+     "https://www.inchcalculator.com/ideal-gas-law-calculator/",
+     "https://www.inchcalculator.com/ppm-to-mgl-converter/",
+     "https://www.inchcalculator.com/mgl-to-ppm-converter/",
+     "https://www.inchcalculator.com/percent-to-ppm-converter/",
+     "https://www.inchcalculator.com/ppm-to-percent-converter/",
+     "https://www.inchcalculator.com/chemistry-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fmolarity-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fmolarity-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fmolarity-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fmolarity-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fmolarity-calculator%2F&text=Molarity+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fmolarity-calculator%2F&text=Molarity+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/chemistry/molarity": {
+   "url": "https://www.omnicalculator.com/chemistry/molarity",
+   "finalUrl": "https://www.omnicalculator.com/chemistry/molarity",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T00:48:04.499Z",
+   "title": "Molarity Calculator",
+   "metaDescription": "Determine solution molarity and understand molar concentration with our intuitive Molarity Calculator.",
+   "canonical": "https://www.omnicalculator.com/chemistry/molarity",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Molarity Calculator"
+   ],
+   "h2": [
+    "How to use the molarity calculator",
+    "Molar concentration – an introduction",
+    "Mole definition",
+    "What is molarity?",
+    "Molarity formula",
+    "Molarity units",
+    "How to calculate molarity",
+    "Molarity vs. molality",
+    "Molar solution — life examples",
+    "Determining the molar concentration by titration",
+    "Invention of the molarity calculator",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I calculate pH from molarity?",
+    "How do you make a molar solution?",
+    "What is molar volume?",
+    "How do I find moles from molarity?",
+    "Is molarity the same as concentration?",
+    "What is the molarity of water?",
+    "Why do we use molarity?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Molarity Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to use the molarity calculator"
+    },
+    {
+     "level": 2,
+     "text": "Molar concentration – an introduction"
+    },
+    {
+     "level": 2,
+     "text": "Mole definition"
+    },
+    {
+     "level": 2,
+     "text": "What is molarity?"
+    },
+    {
+     "level": 2,
+     "text": "Molarity formula"
+    },
+    {
+     "level": 2,
+     "text": "Molarity units"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate molarity"
+    },
+    {
+     "level": 2,
+     "text": "Molarity vs. molality"
+    },
+    {
+     "level": 2,
+     "text": "Molar solution — life examples"
+    },
+    {
+     "level": 2,
+     "text": "Determining the molar concentration by titration"
+    },
+    {
+     "level": 2,
+     "text": "Invention of the molarity calculator"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate pH from molarity?"
+    },
+    {
+     "level": 3,
+     "text": "How do you make a molar solution?"
+    },
+    {
+     "level": 3,
+     "text": "What is molar volume?"
+    },
+    {
+     "level": 3,
+     "text": "How do I find moles from molarity?"
+    },
+    {
+     "level": 3,
+     "text": "Is molarity the same as concentration?"
+    },
+    {
+     "level": 3,
+     "text": "What is the molarity of water?"
+    },
+    {
+     "level": 3,
+     "text": "Why do we use molarity?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 3170,
+   "avgSentenceWords": 18,
+   "faqs": [
+    "How do I calculate pH from molarity?",
+    "How do you make a molar solution?",
+    "What is molar volume?",
+    "How do I find moles from molarity?",
+    "Is molarity the same as concentration?",
+    "What is the molarity of water?",
+    "Why do we use molarity?",
+    "What does it do?",
+    "Who’s it for?",
+    "What’s it for?",
+    "What is molarity?"
+   ],
+   "faqSchemaCount": 7,
+   "topics": [
+    {
+     "term": "molarity",
+     "weight": 79
+    },
+    {
+     "term": "concentration",
+     "weight": 49
+    },
+    {
+     "term": "mass",
+     "weight": 41
+    },
+    {
+     "term": "solution",
+     "weight": 37
+    },
+    {
+     "term": "molar",
+     "weight": 34
+    },
+    {
+     "term": "substance",
+     "weight": 31
+    },
+    {
+     "term": "volume",
+     "weight": 28
+    },
+    {
+     "term": "molar mass",
+     "weight": 23
+    },
+    {
+     "term": "mole",
+     "weight": 22
+    },
+    {
+     "term": "calculator",
+     "weight": 19
+    },
+    {
+     "term": "moles",
+     "weight": 19
+    },
+    {
+     "term": "find",
+     "weight": 17
+    },
+    {
+     "term": "mass concentration",
+     "weight": 17
+    },
+    {
+     "term": "molarity calculator",
+     "weight": 15
+    },
+    {
+     "term": "molar concentration",
+     "weight": 15
+    },
+    {
+     "term": "number",
+     "weight": 13
+    },
+    {
+     "term": "molality",
+     "weight": 13
+    },
+    {
+     "term": "acid",
+     "weight": 13
+    },
+    {
+     "term": "units",
+     "weight": 12
+    },
+    {
+     "term": "chemical",
+     "weight": 12
+    },
+    {
+     "term": "formula",
+     "weight": 12
+    },
+    {
+     "term": "mol",
+     "weight": 12
+    },
+    {
+     "term": "amount",
+     "weight": 11
+    },
+    {
+     "term": "calculate",
+     "weight": 10
+    },
+    {
+     "term": "unit",
+     "weight": 10
+    },
+    {
+     "term": "have",
+     "weight": 10
+    },
+    {
+     "term": "mixtures",
+     "weight": 10
+    },
+    {
+     "term": "liter",
+     "weight": 10
+    },
+    {
+     "term": "weight",
+     "weight": 9
+    },
+    {
+     "term": "grams",
+     "weight": 9
+    }
+   ],
+   "claims": [
+    "If you know the concentration of the solution, enter it into the 4th variable of the calculator (for trace concentrations, you can also convert ppm to molarity).",
+    "Entering these values in the calculator will give you the molarity as 102.0408 M.",
+    "The molarity calculator will tell you that the molarity of your acid is 4.71331 M, with the mass concentration being 0.461905 g/ml.",
+    "Substitute the known values to calculate the molarity: molarity = 5 / (1.2 × 36.46) = 0.114 mol/l = 0.114 M.",
+    "If the titrant to analyte ratio is 1:1, use the equation: acid molarity × acid volume = base molarity × base volume.",
+    "Then, multiply the molarity of the acid by the volume of the acid – 1.25 × 35 = 43.75 and the result, by the volume of the base.",
+    "The molarity of the base equals 43.75 / 25 = 1.75 M.",
+    "1 liter of water weighs 1000 g, and, as molarity is the number of moles per liter; finding the molarity of water is the same as finding the number of moles of water in 1000 g."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 9,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": true,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Bogna Szyk",
+    "published": "2016-12-02T14:51:42.165Z",
+    "modified": "2026-08-28T14:25:16.682Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 507,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 28,
+    "external": 1,
+    "contentInternal": 12,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "molality formula",
+     "ppm to molarity",
+     "Avogadro number",
+     "theoretical yield",
+     "how to convert percentage concentration into molarity",
+     "solution dilution calculator",
+     "normality",
+     "Molarity vs. Molality: Understanding the Key Differences",
+     "titration calculator",
+     "alligation calculator",
+     "Editorial Policies",
+     "Molar Mass Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/chemistry/molality",
+     "https://www.omnicalculator.com/chemistry/ppm-to-molarity",
+     "https://www.omnicalculator.com/chemistry/avogadro",
+     "https://www.omnicalculator.com/chemistry/theoretical-yield",
+     "https://www.omnicalculator.com/chemistry/percentage-concentration-to-molarity",
+     "https://www.omnicalculator.com/chemistry/solution-dilution",
+     "https://www.omnicalculator.com/chemistry/normality",
+     "https://www.omnicalculator.com/molarity-vs-molality",
+     "https://www.omnicalculator.com/chemistry/titration",
+     "https://www.omnicalculator.com/chemistry/alligation",
+     "https://www.omnicalculator.com/editorial-policies",
+     "https://www.omnicalculator.com/chemistry/molar-mass"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

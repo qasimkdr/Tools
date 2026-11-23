@@ -1,0 +1,309 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/construction/epoxy": {
+   "url": "https://www.omnicalculator.com/construction/epoxy",
+   "finalUrl": "https://www.omnicalculator.com/construction/epoxy",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T00:48:33.081Z",
+   "title": "Epoxy Calculator",
+   "metaDescription": "Our epoxy calculator will help you find the right amount of epoxy resin required to coat your desired surface.",
+   "canonical": "https://www.omnicalculator.com/construction/epoxy",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Epoxy Calculator"
+   ],
+   "h2": [
+    "What is epoxy resin?",
+    "How to use the epoxy calculator?",
+    "How to calculate the epoxy resin amount manually?",
+    "How to calculate 2 part epoxy resin ratio?",
+    "FAQs"
+   ],
+   "h3": [
+    "What is the epoxy resin calculation formula?",
+    "How do I calculate how much epoxy resin I need?",
+    "How do I calculate amount of epoxy for a table of 24\"x24\"?",
+    "How long does epoxy flooring last?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Epoxy Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is epoxy resin?"
+    },
+    {
+     "level": 2,
+     "text": "How to use the epoxy calculator?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate the epoxy resin amount manually?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate 2 part epoxy resin ratio?"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What is the epoxy resin calculation formula?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate how much epoxy resin I need?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate amount of epoxy for a table of 24\"x24\"?"
+    },
+    {
+     "level": 3,
+     "text": "How long does epoxy flooring last?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1063,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "What is epoxy resin?",
+    "How to calculate 2 part epoxy resin ratio?",
+    "What is the epoxy resin calculation formula?",
+    "How do I calculate how much epoxy resin I need?",
+    "How do I calculate amount of epoxy for a table of 24\"x24\"?",
+    "How long does epoxy flooring last?",
+    "Selling epoxy resin?",
+    "How to use the epoxy calculator?",
+    "How thick do you want the epoxy coating?",
+    "What is the shape and size of your surface?",
+    "How to calculate the epoxy resin amount manually?"
+   ],
+   "faqSchemaCount": 6,
+   "topics": [
+    {
+     "term": "epoxy",
+     "weight": 54
+    },
+    {
+     "term": "epoxy resin",
+     "weight": 33
+    },
+    {
+     "term": "surface",
+     "weight": 29
+    },
+    {
+     "term": "volume",
+     "weight": 28
+    },
+    {
+     "term": "resin",
+     "weight": 26
+    },
+    {
+     "term": "coating",
+     "weight": 16
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "calculate",
+     "weight": 13
+    },
+    {
+     "term": "inches",
+     "weight": 13
+    },
+    {
+     "term": "epoxy coating",
+     "weight": 11
+    },
+    {
+     "term": "length",
+     "weight": 10
+    },
+    {
+     "term": "width",
+     "weight": 10
+    },
+    {
+     "term": "height",
+     "weight": 10
+    },
+    {
+     "term": "need",
+     "weight": 9
+    },
+    {
+     "term": "amount",
+     "weight": 9
+    },
+    {
+     "term": "thickness",
+     "weight": 8
+    },
+    {
+     "term": "area",
+     "weight": 8
+    },
+    {
+     "term": "epoxy volume",
+     "weight": 8
+    },
+    {
+     "term": "volume volume",
+     "weight": 8
+    },
+    {
+     "term": "required",
+     "weight": 7
+    },
+    {
+     "term": "epoxy calculator",
+     "weight": 6
+    },
+    {
+     "term": "surface shape",
+     "weight": 6
+    },
+    {
+     "term": "you'll",
+     "weight": 6
+    },
+    {
+     "term": "resin required",
+     "weight": 6
+    },
+    {
+     "term": "much",
+     "weight": 6
+    },
+    {
+     "term": "you'll need",
+     "weight": 6
+    },
+    {
+     "term": "want",
+     "weight": 6
+    },
+    {
+     "term": "much epoxy",
+     "weight": 6
+    },
+    {
+     "term": "circular surface",
+     "weight": 6
+    },
+    {
+     "term": "formula",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Check out 30 similar home and garden calculators 🏡 Wallpaper Fence Flooring Build your calculator with Builder Add as preferred on Google This epoxy calculator is a valuable tool for DIY enthusiasts.",
+    "Epoxy resin is a liquid adhesive that becomes solid when mixed in a 2:1 ratio with the hardener.",
+    "Coating: Enter the amount of epoxy coating you wish to apply, e.g., 1 in.",
+    "Here's how much epoxy resin you'll need: Epoxy: Here, you will see the required volume of epoxy resin you need, based on your surface shape and dimensions, i.e., 478.75 ounces.",
+    "Let's take the example of coating 1 in epoxy to a table with dimensions of 8 ft by 4 ft (or 96 in by 48 in).",
+    "Here we will coat 2 inches of epoxy resin.",
+    "The epoxy resin always mixes with the hardener in a 2:1 ratio, where the epoxy is twice as much as the hardener.",
+    "For example, on a surface of 36 inches, if you want 3 inches of epoxy coating, you'll need 108 cubic inches or 59.8 ounces of epoxy.",
+    "For 1\" of resin thickness, you need 576 cubic inches or 319.7 ounces of epoxy resin."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 13,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Surface shape"
+   ],
+   "selectOptionsSample": "select rectangular circular",
+   "unitToggle": false,
+   "wordsBeforeTool": 8,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "AbdulRafay Moeen",
+    "published": "2022-02-24T22:48:47.543Z",
+    "modified": "2024-01-18T12:03:11.633Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 647,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 24,
+    "external": 1,
+    "contentInternal": 8,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "floors",
+     "picture frames",
+     "tile calculator",
+     "grout calculator",
+     "paint calculator",
+     "deck stain calculator",
+     "Stone Weight Calculator",
+     "Board and Batten Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/construction/flooring",
+     "https://www.omnicalculator.com/everyday-life/picture-frame",
+     "https://www.omnicalculator.com/construction/tile",
+     "https://www.omnicalculator.com/construction/grout",
+     "https://www.omnicalculator.com/construction/paint",
+     "https://www.omnicalculator.com/construction/deck-stain",
+     "https://www.omnicalculator.com/construction/stone",
+     "https://www.omnicalculator.com/construction/board-and-batten"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

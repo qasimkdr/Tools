@@ -1,0 +1,252 @@
+{
+ "keywords": {
+  "time off calculator": {
+   "fetchedAt": "2026-11-23T00:47:56.977Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1900,
+   "fileKd": 12,
+   "fileIntent": "C",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://help.workable.com/hc/en-us/articles/23811686905495",
+     "domain": "help.workable.com",
+     "title": "help.workable.com",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://doc.workday.com/workday-education/en-us/course-manuals/absence-for-administrators/calculations-for-time-off-plans.html",
+     "domain": "doc.workday.com",
+     "title": "calculations for time off plans",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.paycor.com/resource-center/tools/pto-calculator/",
+     "domain": "www.paycor.com",
+     "title": "pto calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.omnicalculator.com/finance/off-day",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.inchcalculator.com/pto-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "PTO Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.mathworks.com/matlabcentral/fileexchange/65371-pto-calculator",
+     "domain": "www.mathworks.com",
+     "title": "You are now following this Submission",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.ontheclock.com/paid-time-off-calculator.aspx",
+     "domain": "www.ontheclock.com",
+     "title": "paid time off calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.ontheclock.com/paid-time-off-calculator",
+     "domain": "www.ontheclock.com",
+     "title": "paid time off calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.indeed.com/hire/c/info/pto-calculator?co=US",
+     "domain": "www.indeed.com",
+     "title": "Special offer",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.indeed.com/hire/c/info/pto-calculator",
+     "domain": "www.indeed.com",
+     "title": "Special offer",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://connecteam.com/free-tools/free-ptovacation-calculator/",
+     "domain": "connecteam.com",
+     "title": "Free PTO & Vacation Calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.timetrex.com/?p=27587",
+     "domain": "www.timetrex.com",
+     "title": "PTO - Paid Time Off Calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.queensu.ca/humanresources/apps/vacation-calculator/",
+     "domain": "www.queensu.ca",
+     "title": "Human Resources",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://timesheets.com/by-hours-worked-calculator/",
+     "domain": "timesheets.com",
+     "title": "(800) 770 4959",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://factorialhr.com/templates/pto-accrual-calculator",
+     "domain": "factorialhr.com",
+     "title": "pto accrual calculator",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://goodcalculators.com/paid-time-off-pto-calculator",
+     "domain": "goodcalculators.com",
+     "title": "Copyright © 2015 - 2025 Good Calculators. All Rights Reserved",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://www.timechamp.io/free-workforce-tools/pto-calculator",
+     "domain": "www.timechamp.io",
+     "title": "Paid Time Off (PTO) Calculator",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://www.bamboohr.com/ca/platform/time-and-attendance/time-off",
+     "domain": "www.bamboohr.com",
+     "title": "Why choose BambooHR® Time Off?",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://ecosire.com/zh/tools/time-off-calculator",
+     "domain": "ecosire.com",
+     "title": "time off calculator",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://www.leavebalance.com/blog/pto-accrual-calculator/",
+     "domain": "www.leavebalance.com",
+     "title": "pto accrual calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "time-off-calculator",
+ "page": "time-off-calculator",
+ "category": "time-date",
+ "name": "Time Off Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T00:47:56.977Z",
+ "topCompetitors": [
+  {
+   "domain": "ontheclock.com",
+   "bestRank": 7,
+   "keywords": 2,
+   "urls": [
+    "https://www.ontheclock.com/paid-time-off-calculator.aspx",
+    "https://www.ontheclock.com/paid-time-off-calculator"
+   ]
+  },
+  {
+   "domain": "indeed.com",
+   "bestRank": 9,
+   "keywords": 2,
+   "urls": [
+    "https://www.indeed.com/hire/c/info/pto-calculator?co=US",
+    "https://www.indeed.com/hire/c/info/pto-calculator"
+   ]
+  },
+  {
+   "domain": "workable.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://help.workable.com/hc/en-us/articles/23811686905495"
+   ]
+  },
+  {
+   "domain": "workday.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://doc.workday.com/workday-education/en-us/course-manuals/absence-for-administrators/calculations-for-time-off-plans.html"
+   ]
+  },
+  {
+   "domain": "paycor.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.paycor.com/resource-center/tools/pto-calculator/"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/finance/off-day"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/pto-calculator/"
+   ]
+  },
+  {
+   "domain": "mathworks.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.mathworks.com/matlabcentral/fileexchange/65371-pto-calculator"
+   ]
+  },
+  {
+   "domain": "connecteam.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://connecteam.com/free-tools/free-ptovacation-calculator/"
+   ]
+  },
+  {
+   "domain": "queensu.ca",
+   "bestRank": 13,
+   "keywords": 1,
+   "urls": [
+    "https://www.queensu.ca/humanresources/apps/vacation-calculator/"
+   ]
+  }
+ ]
+}
