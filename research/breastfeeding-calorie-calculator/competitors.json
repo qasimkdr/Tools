@@ -1,0 +1,634 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/health/breastfeeding-calorie": {
+   "url": "https://www.omnicalculator.com/health/breastfeeding-calorie",
+   "finalUrl": "https://www.omnicalculator.com/health/breastfeeding-calorie",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T06:10:33.384Z",
+   "title": "Breastfeeding Calorie Calculator",
+   "metaDescription": "The breastfeeding calorie calculator tells you how many calories you need to consume daily to keep yourself healthy during lactation.",
+   "canonical": "https://www.omnicalculator.com/health/breastfeeding-calorie",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Breastfeeding Calorie Calculator"
+   ],
+   "h2": [
+    "Breast milk and its ingredients",
+    "How many calories are in breast milk?",
+    "How many calories do I need while breastfeeding?",
+    "Does pumping burn the same calories as breastfeeding?",
+    "How to use the breastfeeding calorie calculator?",
+    "How many calories are burned while breastfeeding?",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I calculate how many calories I should eat while breastfeeding?",
+    "How many additional calories do I need after six months of breastfeeding?",
+    "What are the risks of consuming too few calories while breastfeeding?",
+    "What makes breast milk unique and beneficial for the baby?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Breastfeeding Calorie Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Breast milk and its ingredients"
+    },
+    {
+     "level": 2,
+     "text": "How many calories are in breast milk?"
+    },
+    {
+     "level": 2,
+     "text": "How many calories do I need while breastfeeding?"
+    },
+    {
+     "level": 2,
+     "text": "Does pumping burn the same calories as breastfeeding?"
+    },
+    {
+     "level": 2,
+     "text": "How to use the breastfeeding calorie calculator?"
+    },
+    {
+     "level": 2,
+     "text": "How many calories are burned while breastfeeding?"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate how many calories I should eat while breastfeeding?"
+    },
+    {
+     "level": 3,
+     "text": "How many additional calories do I need after six months of breastfeeding?"
+    },
+    {
+     "level": 3,
+     "text": "What are the risks of consuming too few calories while breastfeeding?"
+    },
+    {
+     "level": 3,
+     "text": "What makes breast milk unique and beneficial for the baby?"
+    }
+   ],
+   "wordCount": 1084,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "How many calories are in breast milk?",
+    "How many calories do I need while breastfeeding?",
+    "Does pumping burn the same calories as breastfeeding?",
+    "How many calories are burned while breastfeeding?",
+    "How do I calculate how many calories I should eat while breastfeeding?",
+    "How many additional calories do I need after six months of breastfeeding?",
+    "What are the risks of consuming too few calories while breastfeeding?",
+    "What makes breast milk unique and beneficial for the baby?",
+    "So what makes breast milk so unique?",
+    "How to use the breastfeeding calorie calculator?"
+   ],
+   "faqSchemaCount": 8,
+   "topics": [
+    {
+     "term": "breastfeeding",
+     "weight": 26
+    },
+    {
+     "term": "calories",
+     "weight": 23
+    },
+    {
+     "term": "milk",
+     "weight": 21
+    },
+    {
+     "term": "many calories",
+     "weight": 14
+    },
+    {
+     "term": "breast milk",
+     "weight": 14
+    },
+    {
+     "term": "months",
+     "weight": 12
+    },
+    {
+     "term": "kcal day",
+     "weight": 12
+    },
+    {
+     "term": "day",
+     "weight": 12
+    },
+    {
+     "term": "calculator",
+     "weight": 11
+    },
+    {
+     "term": "many",
+     "weight": 11
+    },
+    {
+     "term": "kcal",
+     "weight": 11
+    },
+    {
+     "term": "calorie calculator",
+     "weight": 11
+    },
+    {
+     "term": "breast",
+     "weight": 10
+    },
+    {
+     "term": "calorie",
+     "weight": 9
+    },
+    {
+     "term": "while breastfeeding",
+     "weight": 9
+    },
+    {
+     "term": "burn",
+     "weight": 8
+    },
+    {
+     "term": "need",
+     "weight": 8
+    },
+    {
+     "term": "breastfeeding calorie",
+     "weight": 8
+    },
+    {
+     "term": "needs",
+     "weight": 7
+    },
+    {
+     "term": "pregnancy",
+     "weight": 7
+    },
+    {
+     "term": "while",
+     "weight": 7
+    },
+    {
+     "term": "weight",
+     "weight": 6
+    },
+    {
+     "term": "physical activity",
+     "weight": 6
+    },
+    {
+     "term": "baby's",
+     "weight": 6
+    },
+    {
+     "term": "extra",
+     "weight": 6
+    },
+    {
+     "term": "330 kcal",
+     "weight": 6
+    },
+    {
+     "term": "400 kcal",
+     "weight": 6
+    },
+    {
+     "term": "times week",
+     "weight": 6
+    },
+    {
+     "term": "daily",
+     "weight": 5
+    },
+    {
+     "term": "energy",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Consider the duration of your breastfeeding and add the corresponding calories to the number calculated in Step 1: You burn an additional 330 kcal/day for the first six months.",
+    "After six months of breastfeeding, you may need an additional 400 calories daily."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 11,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Physical activity"
+   ],
+   "selectOptionsSample": "select basal metabolic rate little/no exercise exercise 1-2 times/week exercise 2-3 times/week exercise 3-5 times/week exercise 6-7 times/week professional athlete",
+   "unitToggle": false,
+   "wordsBeforeTool": 11,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Łucja Zaborowska",
+    "published": "2022-05-10T10:59:16.390Z",
+    "modified": "2026-08-24T10:29:05.578Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 493,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 21,
+    "external": 1,
+    "contentInternal": 5,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "How many calories does breastfeeding burn?",
+     "pregnancy weight gain",
+     "baby's milk intake calculator",
+     "breast pump flange size",
+     "Basal metabolic rate calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/how-many-calories-does-breastfeeding-burn",
+     "https://www.omnicalculator.com/health/pregnancy-weight-gain",
+     "https://www.omnicalculator.com/health/babys-milk-intake",
+     "https://www.omnicalculator.com/health/flange-size",
+     "https://www.omnicalculator.com/health/bmr"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/calorie-calculator.html": {
+   "url": "https://www.calculator.net/calorie-calculator.html",
+   "finalUrl": "https://www.calculator.net/calorie-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-23T06:10:36.395Z",
+   "title": "Calorie Calculator",
+   "metaDescription": "This calorie calculator estimates the number of calories needed each day to maintain, lose, or gain weight. Learn the kinds of calories and their effects.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Calorie Calculator"
+   ],
+   "h2": [
+    "Food Energy Converter",
+    "Calorie Counting as a Means for Weight Loss",
+    "How Many Calories Do You Need?",
+    "Calories: Different Kinds and Their Effects",
+    "Calories in Common Foods",
+    "Calories Burned from Common Exercises:",
+    "Energy from Common Food Components"
+   ],
+   "h3": [
+    "Zigzag Calorie Cycling",
+    "2000, 1500, and 1200 Calorie Sample Meal Plans"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Calorie Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Food Energy Converter"
+    },
+    {
+     "level": 2,
+     "text": "Calorie Counting as a Means for Weight Loss"
+    },
+    {
+     "level": 3,
+     "text": "Zigzag Calorie Cycling"
+    },
+    {
+     "level": 2,
+     "text": "How Many Calories Do You Need?"
+    },
+    {
+     "level": 2,
+     "text": "Calories: Different Kinds and Their Effects"
+    },
+    {
+     "level": 2,
+     "text": "Calories in Common Foods"
+    },
+    {
+     "level": 3,
+     "text": "2000, 1500, and 1200 Calorie Sample Meal Plans"
+    },
+    {
+     "level": 2,
+     "text": "Calories Burned from Common Exercises:"
+    },
+    {
+     "level": 2,
+     "text": "Energy from Common Food Components"
+    }
+   ],
+   "wordCount": 4194,
+   "avgSentenceWords": 29,
+   "faqs": [
+    "How Many Calories Do You Need?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "calories",
+     "weight": 101
+    },
+    {
+     "term": "calorie",
+     "weight": 54
+    },
+    {
+     "term": "weight",
+     "weight": 48
+    },
+    {
+     "term": "weight loss",
+     "weight": 36
+    },
+    {
+     "term": "foods",
+     "weight": 36
+    },
+    {
+     "term": "loss",
+     "weight": 28
+    },
+    {
+     "term": "many",
+     "weight": 26
+    },
+    {
+     "term": "person",
+     "weight": 25
+    },
+    {
+     "term": "body",
+     "weight": 22
+    },
+    {
+     "term": "day",
+     "weight": 20
+    },
+    {
+     "term": "have",
+     "weight": 20
+    },
+    {
+     "term": "cup",
+     "weight": 20
+    },
+    {
+     "term": "food",
+     "weight": 16
+    },
+    {
+     "term": "there",
+     "weight": 16
+    },
+    {
+     "term": "health",
+     "weight": 15
+    },
+    {
+     "term": "result",
+     "weight": 15
+    },
+    {
+     "term": "diet",
+     "weight": 15
+    },
+    {
+     "term": "fat",
+     "weight": 14
+    },
+    {
+     "term": "bmr",
+     "weight": 14
+    },
+    {
+     "term": "500 calories",
+     "weight": 14
+    },
+    {
+     "term": "number",
+     "weight": 13
+    },
+    {
+     "term": "different",
+     "weight": 13
+    },
+    {
+     "term": "week",
+     "weight": 13
+    },
+    {
+     "term": "intake",
+     "weight": 13
+    },
+    {
+     "term": "counting",
+     "weight": 13
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "activity",
+     "weight": 12
+    },
+    {
+     "term": "since",
+     "weight": 12
+    },
+    {
+     "term": "calorie counting",
+     "weight": 12
+    },
+    {
+     "term": "consumed",
+     "weight": 12
+    }
+   ],
+   "claims": [
+    "= 4.1868 Related: BMI Calculator | Body Fat Calculator | Ideal Weight Calculator This Calorie Calculator is based on several equations, and the results of the calculator are based on an estimated average.",
+    "1 pound, or approximately 0.45 kg, equates to about 3,500 calories.",
+    "As such, in order to lose 1 pound per week, it is recommended that 500 calories be shaved off the estimate of calories necessary for weight maintenance per day.",
+    "It is inadvisable to lower calorie intake by more than 1,000 calories per day, as losing more than 2 pounds per week can be unhealthy, and can result in the opposite effect in the near future by reducing metabolism.",
+    "Recall that 1 pound (~0.45 kg) equates to approximately 3500 calories, and reducing daily caloric intake relative to estimated BMR by 500 calories per day will theoretically result in a loss of 1 pound a week.",
+    "try to target a maximum daily calorie reduction of approximately 1000 calories per day.",
+    "Tracking calories also puts exercise in a quantifiable perspective, increasing a person's awareness regarding how much exercise is really required to counteract a 220-calorie bag of M&M's.",
+    "For example, if your target calorie intake is 14,000 calories per week, you could consume 2,300 calories three days a week, and 1,775 the other four days of the week, or you could consume 2,000 calories each day.",
+    "In both cases, 14,000 calories would be consumed over the week, but the body wouldn't adapt and compensate for a 2,000-calorie diet.",
+    "For example, a physically active 25-year-old male that is 6 feet in height requires considerably higher calorie intake than a 5-foot-tall, sedentary 70-year-old woman."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 12,
+   "lists": 3,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "cage",
+    "male",
+    "female",
+    "cheightfeet",
+    "cheightinch",
+    "cpound",
+    "cheightmeter",
+    "ckg",
+    "cactivity",
+    "Calories",
+    "Kilojoules",
+    "Mifflin St Jeor",
+    "Revised Harris-Benedict",
+    "Katch-McArdle",
+    "cfatpct",
+    "cinevalue",
+    "cineunit",
+    "couteunit"
+   ],
+   "selectOptionsSample": "basal metabolic rate (bmr) sedentary: little or no exercise light: exercise 1-3 times/week moderate: exercise 4-5 times/week active: daily exercise or intense exercise 3-4 times/week very active: intense exercise 6-7 times/week extra active: very intense exercise daily, or physical job calorie [nutr",
+   "unitToggle": true,
+   "wordsBeforeTool": 52,
+   "actions": {
+    "print": true,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 44,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 23,
+    "external": 0,
+    "contentInternal": 23,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "fitness & health",
+     "calorie calculator",
+     "Print",
+     "US units",
+     "metric units",
+     "other units",
+     "+ Settings",
+     "Body Fat:",
+     "BMI Calculator",
+     "Body Fat Calculator",
+     "Ideal Weight Calculator",
+     "Fitness and Health Calculators",
+     "BMI",
+     "Calorie",
+     "Body Fat",
+     "BMR",
+     "Macro",
+     "Ideal Weight"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/calorie-calculator.html",
+     "https://www.calculator.net/calorie-calculator.html#",
+     "https://www.calculator.net/calorie-calculator.html#reference",
+     "https://www.calculator.net/body-fat-calculator.html",
+     "https://www.calculator.net/bmi-calculator.html",
+     "https://www.calculator.net/ideal-weight-calculator.html",
+     "https://www.calculator.net/bmr-calculator.html",
+     "https://www.calculator.net/macro-calculator.html",
+     "https://www.calculator.net/pregnancy-calculator.html",
+     "https://www.calculator.net/pregnancy-weight-gain-calculator.html",
+     "https://www.calculator.net/pregnancy-conception-calculator.html",
+     "https://www.calculator.net/due-date-calculator.html",
+     "https://www.calculator.net/pace-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

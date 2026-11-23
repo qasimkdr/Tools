@@ -1,0 +1,9 @@
+export const faq = [
+  { q: "What is partial fraction decomposition?", a: "Rewriting a rational expression (a polynomial over a polynomial) as a sum of simpler fractions whose denominators are the factors of the original denominator. For example, (3x + 5)/(x² − x − 2) = −2/(3(x + 1)) + 11/(3(x − 2))." },
+  { q: "How do you do partial fractions step by step?", a: "1) If the numerator's degree is not lower than the denominator's, divide first. 2) Factor the denominator into linear and irreducible quadratic factors. 3) Write one term per factor (and per power of a repeated factor) with unknown numerators A, B, C…. 4) Multiply both sides by the denominator and compare coefficients (or substitute roots). 5) Solve for the unknowns." },
+  { q: "How do you handle repeated factors?", a: "A factor raised to the power n needs n terms, one for each power. For (x + 2)², write A/(x + 2) + B/(x + 2)². For example, (5x − 4)/((x − 1)(x + 2)²) = 1/(9(x − 1)) − 1/(9(x + 2)) + 14/(3(x + 2)²)." },
+  { q: "What if the denominator has a quadratic that doesn't factor?", a: "Give that factor a linear numerator Bx + C. For example, (2x² + 3)/(x(x² + 1)) = A/x + (Bx + C)/(x² + 1), which works out to 3/x − x/(x² + 1)." },
+  { q: "What if the fraction is improper?", a: "Divide first. x³/(x² − 1) = x + x/(x² − 1), and then decompose the remainder: x/(x² − 1) = 1/(2(x − 1)) + 1/(2(x + 1))." },
+  { q: "Can I use s instead of x for Laplace transforms?", a: "Yes. Use any single letter as the variable. (s + 3)/(s² + 3s + 2) = 2/(s + 1) − 1/(s + 2), whose inverse Laplace transform is 2e⁻ᵗ − e⁻²ᵗ." },
+  { q: "Why does the calculator say a factor can't be split?", a: "It factors over the rational numbers. A cubic such as x³ − 2 has no rational roots and no rational quadratic factor, so it can't be broken into partial fractions with rational coefficients. Splitting it would need irrational or complex numbers." },
+];

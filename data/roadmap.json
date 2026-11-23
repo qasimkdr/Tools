@@ -9703,7 +9703,7 @@
    ],
    "category": "health",
    "status": "todo",
-   "note": "deferred 2026-11-23: needs Compendium of Physical Activities MET values; pacompendium.com and cdn-links.lww.com unreachable from this environment",
+   "note": "deferred 2026-11-23: needs Compendium of Physical Activities MET values; owner declined adding pacompendium.com to the network allowlist",
    "order": 93,
    "batch": 10
   },
@@ -9761,8 +9761,7 @@
    ],
    "competitors": [],
    "category": "everyday",
-   "status": "todo",
-   "note": "intent ambiguous in SERP (bill split, stock split, workout splits, salary) \u2014 decide angle before building",
+   "status": "live",
    "order": 95,
    "batch": 10
   },
@@ -10015,7 +10014,7 @@
    ],
    "competitors": [],
    "category": "math",
-   "status": "todo",
+   "status": "live",
    "order": 100,
    "batch": 10
   },
@@ -10044,7 +10043,7 @@
    ],
    "competitors": [],
    "category": "finance",
-   "status": "todo",
+   "status": "live",
    "order": 101,
    "batch": 11
   },
@@ -10638,7 +10637,7 @@
    ],
    "competitors": [],
    "category": "health",
-   "status": "todo",
+   "status": "live",
    "order": 117,
    "batch": 12
   },
@@ -11016,7 +11015,7 @@
     "www.calculator.net/macro-calculator.html"
    ],
    "category": "health",
-   "status": "todo",
+   "status": "live",
    "order": 125,
    "batch": 13
   },

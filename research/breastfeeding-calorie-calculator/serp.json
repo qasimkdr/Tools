@@ -1,0 +1,173 @@
+{
+ "keywords": {
+  "breastfeeding calorie calculator": {
+   "fetchedAt": "2026-11-23T06:09:43.479Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1300,
+   "fileKd": 6,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.omnicalculator.com/health/breastfeeding-calorie",
+     "domain": "www.omnicalculator.com",
+     "title": "Breastfeeding Calorie Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.omnicalculator.com/how-many-calories-does-breastfeeding-burn",
+     "domain": "www.omnicalculator.com",
+     "title": "How many calories does breastfeeding burn",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.calculate.co.nz/breastfeeding-calorie-calculator.php",
+     "domain": "www.calculate.co.nz",
+     "title": "Breastfeeding Calorie Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://infantrisk.com/calculators/weightloss_calculator.html",
+     "domain": "infantrisk.com",
+     "title": "weightloss calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://missvickie.com/breastfeeding-calorie-calculator/",
+     "domain": "missvickie.com",
+     "title": "Breastfeeding Calorie Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://milkology.squarespace.com/content/breastfeeding-calorie-calculator",
+     "domain": "milkology.squarespace.com",
+     "title": "Free Breastfeeding Calorie Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://miniwebtool.com/breastfeeding-calorie-calculator/",
+     "domain": "miniwebtool.com",
+     "title": "breastfeeding calorie calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://mycalcbuddy.com/health/breastfeeding-calorie-calculator",
+     "domain": "mycalcbuddy.com",
+     "title": "Breastfeeding Calorie Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.welling.ai/articles/calorie-calculator-breastfeeding",
+     "domain": "www.welling.ai",
+     "title": "Calorie Calculator for Breastfeeding",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://best-calculators.com/health-fitness/breastfeeding-calorie-calculator/",
+     "domain": "best-calculators.com",
+     "title": "Breastfeeding Calorie Calculator - Estimate Daily Needs",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "breastfeeding-calorie-calculator",
+ "page": "breastfeeding-calorie-calculator",
+ "category": "health",
+ "name": "Breastfeeding Calorie Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T06:09:43.479Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://www.omnicalculator.com/health/breastfeeding-calorie",
+    "https://www.omnicalculator.com/how-many-calories-does-breastfeeding-burn"
+   ]
+  },
+  {
+   "domain": "calculate.co.nz",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculate.co.nz/breastfeeding-calorie-calculator.php"
+   ]
+  },
+  {
+   "domain": "infantrisk.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://infantrisk.com/calculators/weightloss_calculator.html"
+   ]
+  },
+  {
+   "domain": "missvickie.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://missvickie.com/breastfeeding-calorie-calculator/"
+   ]
+  },
+  {
+   "domain": "squarespace.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://milkology.squarespace.com/content/breastfeeding-calorie-calculator"
+   ]
+  },
+  {
+   "domain": "miniwebtool.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://miniwebtool.com/breastfeeding-calorie-calculator/"
+   ]
+  },
+  {
+   "domain": "mycalcbuddy.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://mycalcbuddy.com/health/breastfeeding-calorie-calculator"
+   ]
+  },
+  {
+   "domain": "welling.ai",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://www.welling.ai/articles/calorie-calculator-breastfeeding"
+   ]
+  },
+  {
+   "domain": "best-calculators.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://best-calculators.com/health-fitness/breastfeeding-calorie-calculator/"
+   ]
+  }
+ ]
+}

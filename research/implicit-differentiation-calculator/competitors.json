@@ -1,0 +1,692 @@
+{
+ "pages": {
+  "https://www.symbolab.com/solver/implicit-derivative-calculator": {
+   "url": "https://www.symbolab.com/solver/implicit-derivative-calculator",
+   "finalUrl": "https://www.symbolab.com/solver/implicit-derivative-calculator",
+   "mode": "offline-parse",
+   "domain": "www.symbolab.com",
+   "fetchedAt": "2026-11-23T06:10:22.670Z",
+   "title": "Implicit Derivative Calculator - Free Online Calculator With Steps & Examples",
+   "metaDescription": "Free Online implicit derivative calculator - implicit differentiation solver step-by-step",
+   "canonical": "https://www.symbolab.com/solver/implicit-derivative-calculator",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Implicit Derivative Calculator"
+   ],
+   "h2": [
+    "Double the Tools. One Smart Bundle.",
+    "qb-banner-title",
+    "Number Line",
+    "All About Implicit Differentiation Calculator",
+    "What Is Implicit Differentiation?",
+    "Why and When We Use Implicit Differentiation",
+    "Manual Calculation: Step-by-Step",
+    "Real-Life Applications",
+    "Common Mistakes to Avoid",
+    "How to Use Symbolab’s Implicit Derivative Calculator",
+    "Conclusion"
+   ],
+   "h3": [
+    "Special Offer",
+    "Back to School Promotion",
+    "Step 1: Enter the expression",
+    "Step 2: Click “Go”",
+    "Step 3: View the step-by-step breakdown",
+    "Step 4: Use chat with Symbo if you have questions"
+   ],
+   "outline": [
+    {
+     "level": 3,
+     "text": "Special Offer"
+    },
+    {
+     "level": 2,
+     "text": "Double the Tools. One Smart Bundle."
+    },
+    {
+     "level": 3,
+     "text": "Back to School Promotion"
+    },
+    {
+     "level": 2,
+     "text": "qb-banner-title"
+    },
+    {
+     "level": 1,
+     "text": "Implicit Derivative Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Number Line"
+    },
+    {
+     "level": 2,
+     "text": "All About Implicit Differentiation Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What Is Implicit Differentiation?"
+    },
+    {
+     "level": 2,
+     "text": "Why and When We Use Implicit Differentiation"
+    },
+    {
+     "level": 2,
+     "text": "Manual Calculation: Step-by-Step"
+    },
+    {
+     "level": 2,
+     "text": "Real-Life Applications"
+    },
+    {
+     "level": 2,
+     "text": "Common Mistakes to Avoid"
+    },
+    {
+     "level": 2,
+     "text": "How to Use Symbolab’s Implicit Derivative Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Step 1: Enter the expression"
+    },
+    {
+     "level": 3,
+     "text": "Step 2: Click “Go”"
+    },
+    {
+     "level": 3,
+     "text": "Step 3: View the step-by-step breakdown"
+    },
+    {
+     "level": 3,
+     "text": "Step 4: Use chat with Symbo if you have questions"
+    },
+    {
+     "level": 2,
+     "text": "Conclusion"
+    }
+   ],
+   "wordCount": 3154,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "How do you find the implicit derivative?",
+    "What is an implicit derivative?",
+    "How do you solve implicit differentiation problems?",
+    "What is an implicit derivative used for?",
+    "What Is Implicit Differentiation?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "calculator",
+     "weight": 71
+    },
+    {
+     "term": "derivative",
+     "weight": 50
+    },
+    {
+     "term": "implicit",
+     "weight": 43
+    },
+    {
+     "term": "implicit differentiation",
+     "weight": 30
+    },
+    {
+     "term": "implicit derivative",
+     "weight": 29
+    },
+    {
+     "term": "frac",
+     "weight": 27
+    },
+    {
+     "term": "differentiation",
+     "weight": 21
+    },
+    {
+     "term": "step",
+     "weight": 18
+    },
+    {
+     "term": "equation",
+     "weight": 16
+    },
+    {
+     "term": "series",
+     "weight": 15
+    },
+    {
+     "term": "msquare",
+     "weight": 14
+    },
+    {
+     "term": "slope",
+     "weight": 14
+    },
+    {
+     "term": "variable",
+     "weight": 13
+    },
+    {
+     "term": "rule",
+     "weight": 12
+    },
+    {
+     "term": "want",
+     "weight": 11
+    },
+    {
+     "term": "curve",
+     "weight": 11
+    },
+    {
+     "term": "solve",
+     "weight": 11
+    },
+    {
+     "term": "derivative calculator",
+     "weight": 11
+    },
+    {
+     "term": "algebra",
+     "weight": 10
+    },
+    {
+     "term": "equations",
+     "weight": 10
+    },
+    {
+     "term": "calculus",
+     "weight": 10
+    },
+    {
+     "term": "test",
+     "weight": 10
+    },
+    {
+     "term": "integrals",
+     "weight": 9
+    },
+    {
+     "term": "curves",
+     "weight": 9
+    },
+    {
+     "term": "integral",
+     "weight": 8
+    },
+    {
+     "term": "square",
+     "weight": 8
+    },
+    {
+     "term": "partial",
+     "weight": 8
+    },
+    {
+     "term": "take",
+     "weight": 8
+    },
+    {
+     "term": "terms",
+     "weight": 8
+    },
+    {
+     "term": "find",
+     "weight": 8
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 7,
+   "lists": 29,
+   "images": 7,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 536,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 293,
+    "external": 13,
+    "contentInternal": 293,
+    "contentExternal": 13,
+    "internalAnchors": [
+     "user page",
+     "Privacy Policy",
+     "Solutions",
+     "Integral Calculator",
+     "Derivative Calculator",
+     "Algebra Calculator",
+     "Matrix Calculator",
+     "More...",
+     "Graphing",
+     "Line Graph Calculator",
+     "Exponential Graph Calculator",
+     "Quadratic Graph Calculator",
+     "Sine Graph Calculator",
+     "Calculators",
+     "BMI Calculator",
+     "Compound Interest Calculator",
+     "Percentage Calculator",
+     "Acceleration Calculator",
+     "Geometry",
+     "Pythagorean Theorem Calculator"
+    ],
+    "internalSample": [
+     "https://www.symbolab.com/user#subscription",
+     "https://www.symbolab.com/privacy-policy",
+     "https://www.symbolab.com/solver",
+     "https://www.symbolab.com/solver/integral-calculator",
+     "https://www.symbolab.com/solver/derivative-calculator",
+     "https://www.symbolab.com/solver/algebra-calculator",
+     "https://www.symbolab.com/solver/matrix-calculator",
+     "https://www.symbolab.com/graphing-calculator",
+     "https://www.symbolab.com/graphing-calculator/line",
+     "https://www.symbolab.com/graphing-calculator/exponential-graph",
+     "https://www.symbolab.com/graphing-calculator/quadratic-graph",
+     "https://www.symbolab.com/graphing-calculator/sine-graph",
+     "https://www.symbolab.com/graphing-calculator#examples=true",
+     "https://www.symbolab.com/calculators",
+     "https://www.symbolab.com/calculator/fitness/bmi",
+     "https://www.symbolab.com/calculator/finance/compound_interest_rate",
+     "https://www.symbolab.com/calculator/math/percentage",
+     "https://www.symbolab.com/calculator/physics/acceleration",
+     "https://www.symbolab.com/geometry-calculator",
+     "https://www.symbolab.com/geometry-calculator/pythagorean-theorem-calculator",
+     "https://www.symbolab.com/geometry-calculator/circle-area-diameter-calculator",
+     "https://www.symbolab.com/geometry-calculator/isosceles-triangle-prove-angles-calculator",
+     "https://www.symbolab.com/geometry-calculator/triangle-perimeter-calculator",
+     "https://www.symbolab.com/geometry-calculator#examples=true",
+     "https://www.symbolab.com/ai-chat"
+    ],
+    "externalSample": [
+     "https://es.symbolab.com/solver/implicit-derivative-calculator",
+     "https://pt.symbolab.com/solver/implicit-derivative-calculator",
+     "https://fr.symbolab.com/solver/implicit-derivative-calculator",
+     "https://de.symbolab.com/solver/implicit-derivative-calculator",
+     "https://it.symbolab.com/solver/implicit-derivative-calculator",
+     "https://ru.symbolab.com/solver/implicit-derivative-calculator",
+     "https://zs.symbolab.com/solver/implicit-derivative-calculator",
+     "https://ko.symbolab.com/solver/implicit-derivative-calculator",
+     "https://ja.symbolab.com/solver/implicit-derivative-calculator",
+     "https://vi.symbolab.com/solver/implicit-derivative-calculator",
+     "https://he.symbolab.com/solver/implicit-derivative-calculator",
+     "https://ar.symbolab.com/solver/implicit-derivative-calculator",
+     "https://blog.symbolab.com/2014/02/advanced-math-solutions-derivative.html"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.mathsisfun.com/calculus/implicit-differentiation.html": {
+   "url": "https://www.mathsisfun.com/calculus/implicit-differentiation.html",
+   "finalUrl": "https://www.mathsisfun.com/calculus/implicit-differentiation.html",
+   "mode": "offline-parse",
+   "domain": "www.mathsisfun.com",
+   "fetchedAt": "2026-11-23T06:10:29.497Z",
+   "title": "Implicit Differentiation",
+   "metaDescription": "Finding the derivative when you cant solve for y. You may like to read Introduction to Derivatives and Derivative Rules first.",
+   "canonical": "https://www.mathsisfun.com/calculus/implicit-differentiation.html",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Implicit Differentiation"
+   ],
+   "h2": [
+    "Implicit vs Explicit",
+    "How to do Implicit Differentiation",
+    "Explicit",
+    "Using The Derivative",
+    "Another Example",
+    "Inverse Functions",
+    "Summary"
+   ],
+   "h3": [
+    "Example: A Circle",
+    "Example: x2 + y2 = r2",
+    "The Chain Rule Using dy dx",
+    "Basically, all we did was differentiate with respect to y and multiply by dy dx",
+    "The Chain Rule Using ’",
+    "Example: x2 + y2 = r2",
+    "Chain Rule ... Again!",
+    "Example: what is the slope of a circle centered at the origin with a radius of 5 at the point (3, 4)?",
+    "Example: 10x4 − 18xy2 + 10y3 = 48",
+    "Product Rule",
+    "Example: the inverse sine function y = sin−1(x)",
+    "Example: the derivative of square root √x"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Implicit Differentiation"
+    },
+    {
+     "level": 2,
+     "text": "Implicit vs Explicit"
+    },
+    {
+     "level": 3,
+     "text": "Example: A Circle"
+    },
+    {
+     "level": 2,
+     "text": "How to do Implicit Differentiation"
+    },
+    {
+     "level": 3,
+     "text": "Example: x2 + y2 = r2"
+    },
+    {
+     "level": 3,
+     "text": "The Chain Rule Using dy dx"
+    },
+    {
+     "level": 3,
+     "text": "Basically, all we did was differentiate with respect to y and multiply by dy dx"
+    },
+    {
+     "level": 3,
+     "text": "The Chain Rule Using ’"
+    },
+    {
+     "level": 2,
+     "text": "Explicit"
+    },
+    {
+     "level": 3,
+     "text": "Example: x2 + y2 = r2"
+    },
+    {
+     "level": 3,
+     "text": "Chain Rule ... Again!"
+    },
+    {
+     "level": 2,
+     "text": "Using The Derivative"
+    },
+    {
+     "level": 3,
+     "text": "Example: what is the slope of a circle centered at the origin with a radius of 5 at the point (3, 4)?"
+    },
+    {
+     "level": 2,
+     "text": "Another Example"
+    },
+    {
+     "level": 3,
+     "text": "Example: 10x4 − 18xy2 + 10y3 = 48"
+    },
+    {
+     "level": 3,
+     "text": "Product Rule"
+    },
+    {
+     "level": 2,
+     "text": "Inverse Functions"
+    },
+    {
+     "level": 3,
+     "text": "Example: the inverse sine function y = sin−1(x)"
+    },
+    {
+     "level": 3,
+     "text": "Example: the derivative of square root √x"
+    },
+    {
+     "level": 2,
+     "text": "Summary"
+    }
+   ],
+   "wordCount": 1075,
+   "avgSentenceWords": 49,
+   "faqs": [
+    "Example: what is the slope of a circle centered at the origin with a radius of 5 at the point (3, 4)?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "rule",
+     "weight": 16
+    },
+    {
+     "term": "derivative",
+     "weight": 13
+    },
+    {
+     "term": "example",
+     "weight": 13
+    },
+    {
+     "term": "chain rule",
+     "weight": 12
+    },
+    {
+     "term": "solve",
+     "weight": 11
+    },
+    {
+     "term": "function",
+     "weight": 11
+    },
+    {
+     "term": "implicit",
+     "weight": 9
+    },
+    {
+     "term": "explicit",
+     "weight": 8
+    },
+    {
+     "term": "differentiate",
+     "weight": 8
+    },
+    {
+     "term": "chain",
+     "weight": 8
+    },
+    {
+     "term": "simplify",
+     "weight": 8
+    },
+    {
+     "term": "inverse",
+     "weight": 8
+    },
+    {
+     "term": "respect",
+     "weight": 7
+    },
+    {
+     "term": "equation",
+     "weight": 7
+    },
+    {
+     "term": "sin",
+     "weight": 7
+    },
+    {
+     "term": "implicit differentiation",
+     "weight": 6
+    },
+    {
+     "term": "form",
+     "weight": 6
+    },
+    {
+     "term": "product rule",
+     "weight": 6
+    },
+    {
+     "term": "term",
+     "weight": 5
+    },
+    {
+     "term": "power",
+     "weight": 5
+    },
+    {
+     "term": "substitute",
+     "weight": 5
+    },
+    {
+     "term": "start",
+     "weight": 5
+    },
+    {
+     "term": "explicit form",
+     "weight": 5
+    },
+    {
+     "term": "side solve",
+     "weight": 5
+    },
+    {
+     "term": "power rule",
+     "weight": 5
+    },
+    {
+     "term": "differentiation",
+     "weight": 4
+    },
+    {
+     "term": "side",
+     "weight": 4
+    },
+    {
+     "term": "let's",
+     "weight": 4
+    },
+    {
+     "term": "again",
+     "weight": 4
+    },
+    {
+     "term": "because",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "Example: A Circle Explicit Form Implicit Form y = ± √ (r2 − x2) x2 + y2 = r2 In this form, y is expressed as a function of x."
+   ],
+   "schemaTypes": [
+    "WebPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 6,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 20,
+    "adNetworks": [],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 6,
+    "external": 0,
+    "contentInternal": 5,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Introduction to Derivatives",
+     "Derivative Rules",
+     "graph",
+     "Power Rule",
+     "Chain Rule",
+     "Calculus Index"
+    ],
+    "internalSample": [
+     "https://www.mathsisfun.com/calculus/derivatives-introduction.html",
+     "https://www.mathsisfun.com/calculus/derivatives-rules.html",
+     "https://www.mathsisfun.com/data/grapher-equation.html?func1=x%5E2+y%5E2=9&xmin=-5.000&xmax=5.000&ymin=-3.750&ymax=3.750",
+     "https://www.mathsisfun.com/calculus/chain-rule.html",
+     "https://www.mathsisfun.com/calculus/index.html"
+    ],
+    "externalSample": []
+   },
+   "pageType": "article/guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.omnicalculator.com/math/implicit-differentiation": [
+   "HTTP 404"
+  ]
+ }
+}

@@ -1,0 +1,180 @@
+{
+ "keywords": {
+  "implicit differentiation calculator": {
+   "fetchedAt": "2026-11-23T06:09:43.360Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1900,
+   "fileKd": 7,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.miniwebtool.com/implicit-derivative-calculator/",
+     "domain": "www.miniwebtool.com",
+     "title": "implicit derivative calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://byjus.com/implicit-differentiation-calculator",
+     "domain": "byjus.com",
+     "title": "implicit differentiation calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://mathcracker.com/implicit-differentiation-calculator",
+     "domain": "mathcracker.com",
+     "title": "Implicit differentiation calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.calculate.co.nz/implicit-differentiation-calculator.php",
+     "domain": "www.calculate.co.nz",
+     "title": "Implicit Differentiation Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://meracalculator.com/math/implicit-differentiation-calculator.php",
+     "domain": "meracalculator.com",
+     "title": "implicit differentiation calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://emathhelp.net/calculators/calculus-1/implicit-differentiation-calculator/",
+     "domain": "emathhelp.net",
+     "title": "Implicit Differentiation Calculator with Steps",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.symbolab.com/solver/implicit-derivative-calculator",
+     "domain": "www.symbolab.com",
+     "title": "Implicit Derivative Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.snapxam.com/calculators/implicit-differentiation-calculator",
+     "domain": "www.snapxam.com",
+     "title": "implicit differentiation calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://mycalcbuddy.com/math/implicit-differentiation-calculator",
+     "domain": "mycalcbuddy.com",
+     "title": "Implicit Differentiation Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://brilliant.org/wiki/implicit-differentiation/",
+     "domain": "brilliant.org",
+     "title": "implicit differentiation",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "implicit-differentiation-calculator",
+ "page": "implicit-differentiation-calculator",
+ "category": "finance",
+ "name": "Implicit Differentiation Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T06:09:43.360Z",
+ "topCompetitors": [
+  {
+   "domain": "miniwebtool.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.miniwebtool.com/implicit-derivative-calculator/"
+   ]
+  },
+  {
+   "domain": "byjus.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://byjus.com/implicit-differentiation-calculator"
+   ]
+  },
+  {
+   "domain": "mathcracker.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://mathcracker.com/implicit-differentiation-calculator"
+   ]
+  },
+  {
+   "domain": "calculate.co.nz",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculate.co.nz/implicit-differentiation-calculator.php"
+   ]
+  },
+  {
+   "domain": "meracalculator.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://meracalculator.com/math/implicit-differentiation-calculator.php"
+   ]
+  },
+  {
+   "domain": "emathhelp.net",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://emathhelp.net/calculators/calculus-1/implicit-differentiation-calculator/"
+   ]
+  },
+  {
+   "domain": "symbolab.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.symbolab.com/solver/implicit-derivative-calculator"
+   ]
+  },
+  {
+   "domain": "snapxam.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.snapxam.com/calculators/implicit-differentiation-calculator"
+   ]
+  },
+  {
+   "domain": "mycalcbuddy.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://mycalcbuddy.com/math/implicit-differentiation-calculator"
+   ]
+  },
+  {
+   "domain": "brilliant.org",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://brilliant.org/wiki/implicit-differentiation/"
+   ]
+  }
+ ]
+}

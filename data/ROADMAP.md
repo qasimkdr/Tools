@@ -98,13 +98,13 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 14 on policy hold).
 | 92 | 10 | live | Blood Pressure By Age Calculator | `blood-pressure-by-age-calculator` | health | blood pressure by age calculator | 2400 | 10 | 2400 | 1 |
 | 93 | 10 | todo | Calories Burned Calculator | `calories-burned-calculator` | health | kcal burned walking calculator | 3600 | 33 | 45700 | 1 |
 | 94 | 10 | live | Pine Straw Calculator | `pine-straw-calculator` | construction | pine straw calculator | 1000 | 0 | 1000 | 1 |
-| 95 | 10 | todo | Split Calculator | `split-calculator` | everyday | split calculator | 2400 | 8 | 2400 | 1 |
+| 95 | 10 | live | Split Calculator | `split-calculator` | everyday | split calculator | 2400 | 8 | 2400 | 1 |
 | 96 | 10 | live | Ohm's Law Calculator | `ohms-law-calculator` | science | ohm calculator | 1000 | 21 | 34500 | 1 |
 | 97 | 10 | live | Fence Post Depth Calculator | `fence-post-depth-calculator` | construction | fence post depth calculator | 1600 | 3 | 1600 | 1 |
 | 98 | 10 | live | Lead Time Calculator | `lead-time-calculator` | time-date | lead time calculator | 2900 | 11 | 2900 | 1 |
 | 99 | 10 | live | Recessed Light Calculator | `recessed-light-calculator` | construction | recessed light calculator | 1600 | 6 | 3200 | 2 |
-| 100 | 10 | todo | Partial Fraction Calculator | `partial-fraction-calculator` | math | partial fraction calculator | 2400 | 9 | 2400 | 1 |
-| 101 | 11 | todo | Implicit Differentiation Calculator | `implicit-differentiation-calculator` | finance | implicit differentiation calculator | 1900 | 7 | 1900 | 1 |
+| 100 | 10 | live | Partial Fraction Calculator | `partial-fraction-calculator` | math | partial fraction calculator | 2400 | 9 | 2400 | 1 |
+| 101 | 11 | live | Implicit Differentiation Calculator | `implicit-differentiation-calculator` | finance | implicit differentiation calculator | 1900 | 7 | 1900 | 1 |
 | 102 | 11 | live | Time Off Calculator | `time-off-calculator` | time-date | time off calculator | 1900 | 12 | 1900 | 1 |
 | 103 | 11 | live | Interest Calculator | `interest-calculator` | finance | interest calculator | 135000 | 42 | 172100 | 1 |
 | 104 | 11 | live | Decimals Calculator | `decimals-calculator` | math | decimals calculator | 2400 | 12 | 2400 | 1 |
@@ -120,7 +120,7 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 14 on policy hold).
 | 114 | 12 | live | Firewood Calculator | `firewood-calculator` | construction | firewood calculator cord | 1900 | 8 | 3500 | 2 |
 | 115 | 12 | live | Nether Portal Calculator | `nether-portal-calculator` | everyday | nether portal calculator | 8100 | 21 | 8100 | 1 |
 | 116 | 12 | live | Arv Calculator | `arv-calculator` | finance | arv calculator | 1300 | 7 | 1300 | 1 |
-| 117 | 12 | todo | Breastfeeding Calorie Calculator | `breastfeeding-calorie-calculator` | health | breastfeeding calorie calculator | 1300 | 6 | 1300 | 1 |
+| 117 | 12 | live | Breastfeeding Calorie Calculator | `breastfeeding-calorie-calculator` | health | breastfeeding calorie calculator | 1300 | 6 | 1300 | 1 |
 | 118 | 12 | todo | Income Tax Calculator | `income-tax-calculator` | finance | taxable income calculator | 6600 | 41 | 9000 | 2 |
 | 119 | 12 | live | Vpd Calculator | `vpd-calculator` | science | vpd calculator | 1300 | 4 | 1300 | 1 |
 | 120 | 12 | live | Goat Gestation Calculator | `goat-gestation-calculator` | everyday | goat gestation calculator | 2900 | 14 | 2900 | 1 |
@@ -128,7 +128,7 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 14 on policy hold).
 | 122 | 13 | live | 50 To 1 Gas Oil Mix Calculator | `50-to-1-gas-oil-mix-calculator` | conversion | 50 to 1 gas oil mix calculator | 1300 | 5 | 1300 | 1 |
 | 123 | 13 | live | Car Lease vs Buy Calculator | `car-lease-vs-buy-calculator` | finance | lease vs buy car calculator | 1600 | 8 | 2320 | 2 |
 | 124 | 13 | live | Aspect Ratio Calculator | `aspect-ratio-calculator` | math | aspect ratio calculator | 12100 | 22 | 12100 | 1 |
-| 125 | 13 | todo | Macro Calculator | `macro-calculator` | health | macroeconomics calculator | 1600 | 16 | 24900 | 1 |
+| 125 | 13 | live | Macro Calculator | `macro-calculator` | health | macroeconomics calculator | 1600 | 16 | 24900 | 1 |
 | 126 | 13 | todo | Vinegar Carbon Dosing Calculator Ml Per Ppm Nitrate | `vinegar-carbon-dosing-calculator-ml-per-ppm-nitrate` | science | vinegar carbon dosing calculator ml per ppm nitrate | 1000 | 0 | 1000 | 1 |
 | 127 | 13 | live | Simplify Radicals Calculator | `simplify-radicals-calculator` | math | simplifying radical expressions solver | 1900 | 10 | 6400 | 4 |
 | 128 | 13 | live | Redacted Text Generator | `redacted-text-generator` | text | redacted text generator | 1000 | 4 | 1000 | 1 |

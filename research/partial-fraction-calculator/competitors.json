@@ -1,0 +1,726 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/math/partial-fraction-decomposition": {
+   "url": "https://www.omnicalculator.com/math/partial-fraction-decomposition",
+   "finalUrl": "https://www.omnicalculator.com/",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T06:11:20.226Z",
+   "title": "Omni Calculator",
+   "metaDescription": "Omni Calculator provides solutions for a wide range of problems, from finance and business to health. It’s so fast and easy you won’t want to do the math again!",
+   "canonical": "https://www.omnicalculator.com/",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Your life in 3938 free calculators"
+   ],
+   "h2": [
+    "Most popular calculators"
+   ],
+   "h3": [
+    "Featured in",
+    "About us",
+    "p-value Calculator",
+    "Confidence Interval Calculator",
+    "Test Grade Calculator",
+    "Log Calculator (Logarithm)",
+    "Sales Tax Calculator",
+    "Significant Figures Calculator – Sig Fig",
+    "Scientific Notation Calculator",
+    "Square Footage Calculator",
+    "Percentage Increase Calculator",
+    "Exponent Calculator",
+    "Percentage Calculator",
+    "Square Root Calculator",
+    "Circumference Calculator",
+    "Slope Calculator",
+    "Salary to Hourly Calculator",
+    "Pythagorean Theorem Calculator"
+   ],
+   "outline": [
+    {
+     "level": 3,
+     "text": "p-value Calculator"
+    }
+   ],
+   "wordCount": 26,
+   "avgSentenceWords": 26,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "value",
+     "weight": 3
+    },
+    {
+     "term": "value calculator",
+     "weight": 3
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "SoftwareApplication",
+    "WebApplication"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 0,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 230,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 39,
+    "external": 6,
+    "contentInternal": 0,
+    "contentExternal": 0,
+    "internalAnchors": [],
+    "internalSample": [],
+    "externalSample": []
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.symbolab.com/solver/partial-fractions-calculator": {
+   "url": "https://www.symbolab.com/solver/partial-fractions-calculator",
+   "finalUrl": "https://www.symbolab.com/solver/partial-fractions-calculator",
+   "mode": "offline-parse",
+   "domain": "www.symbolab.com",
+   "fetchedAt": "2026-11-23T06:11:23.421Z",
+   "title": "Partial Fractions Calculator",
+   "metaDescription": "Partial Fractions Calculator - find the partial fractions of a fractions step-by-step",
+   "canonical": "https://www.symbolab.com/solver/partial-fractions-calculator",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Partial Fractions Calculator"
+   ],
+   "h2": [
+    "Double the Tools. One Smart Bundle.",
+    "qb-banner-title",
+    "Number Line"
+   ],
+   "h3": [
+    "Special Offer",
+    "Back to School Promotion"
+   ],
+   "outline": [
+    {
+     "level": 3,
+     "text": "Special Offer"
+    },
+    {
+     "level": 2,
+     "text": "Double the Tools. One Smart Bundle."
+    },
+    {
+     "level": 3,
+     "text": "Back to School Promotion"
+    },
+    {
+     "level": 2,
+     "text": "qb-banner-title"
+    },
+    {
+     "level": 1,
+     "text": "Partial Fractions Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Number Line"
+    }
+   ],
+   "wordCount": 1634,
+   "avgSentenceWords": 36,
+   "faqs": [
+    "What is partial fraction?",
+    "How do you solve partial fractions?",
+    "What are the 4 types of partial fractions?",
+    "What is a Linear partial fraction?",
+    "What is a Quadratic partial fraction?",
+    "What is a Repeated linear partial fraction?",
+    "What is a General partial fraction?"
+   ],
+   "faqSchemaCount": 7,
+   "topics": [
+    {
+     "term": "calculator",
+     "weight": 66
+    },
+    {
+     "term": "partial",
+     "weight": 36
+    },
+    {
+     "term": "partial fractions",
+     "weight": 29
+    },
+    {
+     "term": "fractions",
+     "weight": 27
+    },
+    {
+     "term": "factors",
+     "weight": 21
+    },
+    {
+     "term": "linear",
+     "weight": 21
+    },
+    {
+     "term": "partial fraction",
+     "weight": 20
+    },
+    {
+     "term": "fraction",
+     "weight": 17
+    },
+    {
+     "term": "step",
+     "weight": 17
+    },
+    {
+     "term": "quadratic",
+     "weight": 15
+    },
+    {
+     "term": "rational",
+     "weight": 15
+    },
+    {
+     "term": "msquare",
+     "weight": 14
+    },
+    {
+     "term": "linear factors",
+     "weight": 14
+    },
+    {
+     "term": "rule",
+     "weight": 13
+    },
+    {
+     "term": "equations",
+     "weight": 12
+    },
+    {
+     "term": "problems",
+     "weight": 12
+    },
+    {
+     "term": "algebra",
+     "weight": 11
+    },
+    {
+     "term": "roots",
+     "weight": 11
+    },
+    {
+     "term": "square",
+     "weight": 10
+    },
+    {
+     "term": "frac",
+     "weight": 10
+    },
+    {
+     "term": "product",
+     "weight": 10
+    },
+    {
+     "term": "form",
+     "weight": 9
+    },
+    {
+     "term": "denominator",
+     "weight": 9
+    },
+    {
+     "term": "rational function",
+     "weight": 9
+    },
+    {
+     "term": "quadratic factors",
+     "weight": 9
+    },
+    {
+     "term": "repeated",
+     "weight": 9
+    },
+    {
+     "term": "multiply divide",
+     "weight": 8
+    },
+    {
+     "term": "multi step",
+     "weight": 8
+    },
+    {
+     "term": "inequalities",
+     "weight": 7
+    },
+    {
+     "term": "notation",
+     "weight": 7
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 7,
+   "lists": 34,
+   "images": 7,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 548,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 364,
+    "external": 13,
+    "contentInternal": 364,
+    "contentExternal": 13,
+    "internalAnchors": [
+     "user page",
+     "Privacy Policy",
+     "Solutions",
+     "Integral Calculator",
+     "Derivative Calculator",
+     "Algebra Calculator",
+     "Matrix Calculator",
+     "More...",
+     "Graphing",
+     "Line Graph Calculator",
+     "Exponential Graph Calculator",
+     "Quadratic Graph Calculator",
+     "Sine Graph Calculator",
+     "Calculators",
+     "BMI Calculator",
+     "Compound Interest Calculator",
+     "Percentage Calculator",
+     "Acceleration Calculator",
+     "Geometry",
+     "Pythagorean Theorem Calculator"
+    ],
+    "internalSample": [
+     "https://www.symbolab.com/user#subscription",
+     "https://www.symbolab.com/privacy-policy",
+     "https://www.symbolab.com/solver",
+     "https://www.symbolab.com/solver/integral-calculator",
+     "https://www.symbolab.com/solver/derivative-calculator",
+     "https://www.symbolab.com/solver/algebra-calculator",
+     "https://www.symbolab.com/solver/matrix-calculator",
+     "https://www.symbolab.com/graphing-calculator",
+     "https://www.symbolab.com/graphing-calculator/line",
+     "https://www.symbolab.com/graphing-calculator/exponential-graph",
+     "https://www.symbolab.com/graphing-calculator/quadratic-graph",
+     "https://www.symbolab.com/graphing-calculator/sine-graph",
+     "https://www.symbolab.com/graphing-calculator#examples=true",
+     "https://www.symbolab.com/calculators",
+     "https://www.symbolab.com/calculator/fitness/bmi",
+     "https://www.symbolab.com/calculator/finance/compound_interest_rate",
+     "https://www.symbolab.com/calculator/math/percentage",
+     "https://www.symbolab.com/calculator/physics/acceleration",
+     "https://www.symbolab.com/geometry-calculator",
+     "https://www.symbolab.com/geometry-calculator/pythagorean-theorem-calculator",
+     "https://www.symbolab.com/geometry-calculator/circle-area-diameter-calculator",
+     "https://www.symbolab.com/geometry-calculator/isosceles-triangle-prove-angles-calculator",
+     "https://www.symbolab.com/geometry-calculator/triangle-perimeter-calculator",
+     "https://www.symbolab.com/geometry-calculator#examples=true",
+     "https://www.symbolab.com/ai-chat"
+    ],
+    "externalSample": [
+     "https://es.symbolab.com/solver/partial-fractions-calculator",
+     "https://pt.symbolab.com/solver/partial-fractions-calculator",
+     "https://fr.symbolab.com/solver/partial-fractions-calculator",
+     "https://de.symbolab.com/solver/partial-fractions-calculator",
+     "https://it.symbolab.com/solver/partial-fractions-calculator",
+     "https://ru.symbolab.com/solver/partial-fractions-calculator",
+     "https://zs.symbolab.com/solver/partial-fractions-calculator",
+     "https://ko.symbolab.com/solver/partial-fractions-calculator",
+     "https://ja.symbolab.com/solver/partial-fractions-calculator",
+     "https://vi.symbolab.com/solver/partial-fractions-calculator",
+     "https://he.symbolab.com/solver/partial-fractions-calculator",
+     "https://ar.symbolab.com/solver/partial-fractions-calculator",
+     "https://blog.symbolab.com/2014/11/high-school-math-solutions-partial.html"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.mathsisfun.com/algebra/partial-fractions.html": {
+   "url": "https://www.mathsisfun.com/algebra/partial-fractions.html",
+   "finalUrl": "https://www.mathsisfun.com/algebra/partial-fractions.html",
+   "mode": "offline-parse",
+   "domain": "www.mathsisfun.com",
+   "fetchedAt": "2026-11-23T06:11:26.484Z",
+   "title": "Partial Fractions",
+   "metaDescription": "A way of breaking apart fractions with polynomials in them. We can do this directly: Like this: but how do we go in the opposite direction?",
+   "canonical": "https://www.mathsisfun.com/algebra/partial-fractions.html",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Partial Fractions"
+   ],
+   "h2": [
+    "What are Partial Fractions?",
+    "Why Do We Want Them?",
+    "Partial Fraction Decomposition",
+    "Proper Rational Expressions",
+    "Factoring the Bottom",
+    "Factors with Exponents",
+    "Sometimes Using Roots Does Not Solve It",
+    "A Big Example Bringing It All Together",
+    "Summary"
+   ],
+   "h3": [
+    "Example: (x2−4)(x2+4)",
+    "Example:",
+    "Example:"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Partial Fractions"
+    },
+    {
+     "level": 2,
+     "text": "What are Partial Fractions?"
+    },
+    {
+     "level": 2,
+     "text": "Why Do We Want Them?"
+    },
+    {
+     "level": 2,
+     "text": "Partial Fraction Decomposition"
+    },
+    {
+     "level": 2,
+     "text": "Proper Rational Expressions"
+    },
+    {
+     "level": 2,
+     "text": "Factoring the Bottom"
+    },
+    {
+     "level": 3,
+     "text": "Example: (x2−4)(x2+4)"
+    },
+    {
+     "level": 2,
+     "text": "Factors with Exponents"
+    },
+    {
+     "level": 3,
+     "text": "Example:"
+    },
+    {
+     "level": 3,
+     "text": "Example:"
+    },
+    {
+     "level": 2,
+     "text": "Sometimes Using Roots Does Not Solve It"
+    },
+    {
+     "level": 2,
+     "text": "A Big Example Bringing It All Together"
+    },
+    {
+     "level": 2,
+     "text": "Summary"
+    }
+   ],
+   "wordCount": 1089,
+   "avgSentenceWords": 28,
+   "faqs": [
+    "What are Partial Fractions?",
+    "Why Do We Want Them?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "partial",
+     "weight": 13
+    },
+    {
+     "term": "bottom",
+     "weight": 13
+    },
+    {
+     "term": "partial fractions",
+     "weight": 11
+    },
+    {
+     "term": "degree",
+     "weight": 10
+    },
+    {
+     "term": "fractions",
+     "weight": 9
+    },
+    {
+     "term": "partial fraction",
+     "weight": 9
+    },
+    {
+     "term": "factors",
+     "weight": 9
+    },
+    {
+     "term": "fraction",
+     "weight": 8
+    },
+    {
+     "term": "3a1",
+     "weight": 8
+    },
+    {
+     "term": "example",
+     "weight": 7
+    },
+    {
+     "term": "factor",
+     "weight": 7
+    },
+    {
+     "term": "now",
+     "weight": 7
+    },
+    {
+     "term": "because",
+     "weight": 6
+    },
+    {
+     "term": "solve",
+     "weight": 6
+    },
+    {
+     "term": "quadratic",
+     "weight": 6
+    },
+    {
+     "term": "step",
+     "weight": 5
+    },
+    {
+     "term": "write",
+     "weight": 5
+    },
+    {
+     "term": "proper",
+     "weight": 5
+    },
+    {
+     "term": "top",
+     "weight": 5
+    },
+    {
+     "term": "exponent",
+     "weight": 5
+    },
+    {
+     "term": "linear",
+     "weight": 5
+    },
+    {
+     "term": "equation",
+     "weight": 5
+    },
+    {
+     "term": "proper rational",
+     "weight": 5
+    },
+    {
+     "term": "rational expressions",
+     "weight": 5
+    },
+    {
+     "term": "complex numbers",
+     "weight": 5
+    },
+    {
+     "term": "quadratic factors",
+     "weight": 5
+    },
+    {
+     "term": "linear equations",
+     "weight": 5
+    },
+    {
+     "term": "them",
+     "weight": 4
+    },
+    {
+     "term": "first",
+     "weight": 4
+    },
+    {
+     "term": "has",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "You need a partial fraction for each exponent from 1 up.",
+    "Final Result: A1=1/2 A2=2 B=−(1/2) C=1/2 And we can now write our partial fractions: x2+15(x+3)2(x2+3) = 12(x+3) + 2(x+3)2 + −x + 12(x2+3) Phew!"
+   ],
+   "schemaTypes": [
+    "WebPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 6,
+   "lists": 7,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 21,
+    "adNetworks": [],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 8,
+    "external": 0,
+    "contentInternal": 7,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Integral Calculus",
+     "polynomial long division",
+     "Factoring in Algebra",
+     "complex numbers",
+     "system of linear equations",
+     "Systems of Linear Equations",
+     "Algebra Index",
+     "Algebra 2 Index"
+    ],
+    "internalSample": [
+     "https://www.mathsisfun.com/calculus/integration-introduction.html",
+     "https://www.mathsisfun.com/algebra/polynomials-division-long.html",
+     "https://www.mathsisfun.com/algebra/factoring.html",
+     "https://www.mathsisfun.com/numbers/complex-numbers.html",
+     "https://www.mathsisfun.com/algebra/systems-linear-equations.html",
+     "https://www.mathsisfun.com/algebra/index.html",
+     "https://www.mathsisfun.com/algebra/index-2.html"
+    ],
+    "externalSample": []
+   },
+   "pageType": "article/guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.calculator.io/partial-fraction-calculator/": [
+   "HTTP 404"
+  ],
+  "https://www.calculatored.com/partial-fraction-calculator": [
+   "fetch failed"
+  ]
+ }
+}

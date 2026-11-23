@@ -1,0 +1,187 @@
+{
+ "keywords": {
+  "macro calculator": {
+   "fetchedAt": "2026-11-23T06:09:43.597Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": null,
+   "fileKd": null,
+   "fileIntent": null,
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.menshealth.co.uk/uk/nutrition/a36092326/macro-calculator/",
+     "domain": "www.menshealth.co.uk",
+     "title": "macro calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.healthline.com/health/nutrition/macro-calculator",
+     "domain": "www.healthline.com",
+     "title": "macro calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.pearson.com/channels/calculators/macro-calculator",
+     "domain": "www.pearson.com",
+     "title": "macro calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.calculator.net/macro-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Macro Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://omnicalculator.com/all/macro",
+     "domain": "omnicalculator.com",
+     "title": "Macro Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://inchcalculator.com/macros-calculator",
+     "domain": "inchcalculator.com",
+     "title": "Macro Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.bodybuilding.com/fun/macronutrients_calculator.htm",
+     "domain": "www.bodybuilding.com",
+     "title": "macronutrients calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.gigacalculator.com/calculators/macro-calculator.php",
+     "domain": "www.gigacalculator.com",
+     "title": "Macronutrient Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.transparentlabs.com/pages/macro-calculator",
+     "domain": "www.transparentlabs.com",
+     "title": "Macro Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://builtwithscience.com/macro-calculator/",
+     "domain": "builtwithscience.com",
+     "title": "logo builtwithscience",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://legionathletics.com/tools/macronutrient-calculator/",
+     "domain": "legionathletics.com",
+     "title": "macronutrient calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "macro-calculator",
+ "page": "macro-calculator",
+ "category": "health",
+ "name": "Macro Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T06:09:43.598Z",
+ "topCompetitors": [
+  {
+   "domain": "menshealth.co.uk",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.menshealth.co.uk/uk/nutrition/a36092326/macro-calculator/"
+   ]
+  },
+  {
+   "domain": "healthline.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.healthline.com/health/nutrition/macro-calculator"
+   ]
+  },
+  {
+   "domain": "pearson.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.pearson.com/channels/calculators/macro-calculator"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculator.net/macro-calculator.html"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://omnicalculator.com/all/macro"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://inchcalculator.com/macros-calculator"
+   ]
+  },
+  {
+   "domain": "bodybuilding.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.bodybuilding.com/fun/macronutrients_calculator.htm"
+   ]
+  },
+  {
+   "domain": "gigacalculator.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.gigacalculator.com/calculators/macro-calculator.php"
+   ]
+  },
+  {
+   "domain": "transparentlabs.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://www.transparentlabs.com/pages/macro-calculator"
+   ]
+  },
+  {
+   "domain": "builtwithscience.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://builtwithscience.com/macro-calculator/"
+   ]
+  }
+ ]
+}

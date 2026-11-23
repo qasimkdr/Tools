@@ -1,0 +1,195 @@
+{
+ "keywords": {
+  "split calculator": {
+   "fetchedAt": "2026-11-23T06:09:43.091Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 2400,
+   "fileKd": 8,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://apps.microsoft.com/detail/9mwwz899pb5w",
+     "domain": "apps.microsoft.com",
+     "title": "apps.microsoft.com",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://bushe.co/tools/split-calculator/",
+     "domain": "bushe.co",
+     "title": "Free · Private · In-Browser",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://apps.apple.com/us/app/split-table-sharing/id1573817651",
+     "domain": "apps.apple.com",
+     "title": "Splitter: Split Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://apps.apple.com/qa/app/split-tip-calculator/id1604835804",
+     "domain": "apps.apple.com",
+     "title": "Split: Tip Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://trendspider.com/calculators/investing/stock-split/",
+     "domain": "trendspider.com",
+     "title": "TrendSpider Calculators Menu",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.walmart.com/c/kp/split-bill-calculator",
+     "domain": "www.walmart.com",
+     "title": "split bill calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://equate.gbst.com/split-loan-calculator",
+     "domain": "equate.gbst.com",
+     "title": "split loan calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.calculate.co.nz/payday-split-calculator.php",
+     "domain": "www.calculate.co.nz",
+     "title": "Payday Split Calculator NZ",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://planetcalc.com/10788/?license=1",
+     "domain": "planetcalc.com",
+     "title": "Bill Splitter - Simplify Group Expenses with Ease",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://calculator.academy/split-salary-calculator/",
+     "domain": "calculator.academy",
+     "title": "split salary calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://marketxls.com/stock-split-calculator",
+     "domain": "marketxls.com",
+     "title": "Free Stock Split Calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://fedratecalc.com/stock-split-calculator/",
+     "domain": "fedratecalc.com",
+     "title": "Stock split calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "split-calculator",
+ "page": "split-calculator",
+ "category": "everyday",
+ "name": "Split Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-23T06:09:43.092Z",
+ "topCompetitors": [
+  {
+   "domain": "apple.com",
+   "bestRank": 3,
+   "keywords": 2,
+   "urls": [
+    "https://apps.apple.com/us/app/split-table-sharing/id1573817651",
+    "https://apps.apple.com/qa/app/split-tip-calculator/id1604835804"
+   ]
+  },
+  {
+   "domain": "microsoft.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://apps.microsoft.com/detail/9mwwz899pb5w"
+   ]
+  },
+  {
+   "domain": "bushe.co",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://bushe.co/tools/split-calculator/"
+   ]
+  },
+  {
+   "domain": "trendspider.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://trendspider.com/calculators/investing/stock-split/"
+   ]
+  },
+  {
+   "domain": "walmart.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.walmart.com/c/kp/split-bill-calculator"
+   ]
+  },
+  {
+   "domain": "gbst.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://equate.gbst.com/split-loan-calculator"
+   ]
+  },
+  {
+   "domain": "calculate.co.nz",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculate.co.nz/payday-split-calculator.php"
+   ]
+  },
+  {
+   "domain": "planetcalc.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://planetcalc.com/10788/?license=1"
+   ]
+  },
+  {
+   "domain": "calculator.academy",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://calculator.academy/split-salary-calculator/"
+   ]
+  },
+  {
+   "domain": "marketxls.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://marketxls.com/stock-split-calculator"
+   ]
+  }
+ ]
+}

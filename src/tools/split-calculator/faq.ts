@@ -1,0 +1,9 @@
+export const faq = [
+  { q: "How do you split a bill with tax and tip?", a: "Add the tax and tip to the bill, then divide by the number of people. For a $120 bill, 8% tax ($9.60) and an 18% tip on the pre-tax amount ($21.60), the total is $151.20, so 4 people pay $37.80 each." },
+  { q: "How do you split a bill when people ordered different amounts?", a: "Give each person their own items plus an equal share of anything shared, then split the tax (and usually the tip) in proportion to those amounts. If Alex had $37.50 of a $90 subtotal, Alex pays 37.5 ÷ 90 = 41.7% of the tax and tip." },
+  { q: "Should the tip be calculated before or after tax?", a: "Either is common. Many people tip on the pre-tax amount, because tax isn't part of the service. Tipping after tax adds the tip percentage of the tax: on a $120 bill with $9.60 tax, an 18% tip is $21.60 before tax or $23.33 after tax." },
+  { q: "Why do some people pay one cent more?", a: "Some totals don't divide evenly into cents. For example, $100 split 3 ways is $33.333…. The calculator rounds so the shares add up exactly: $33.34, $33.33 and $33.33." },
+  { q: "What does rounding each share up do?", a: "It rounds every person's share up to the next whole $1 or $5 so nobody needs coins. The calculator shows how much more that collects than the bill, which you can leave as extra tip or give back." },
+  { q: "How do I split shared items like appetizers?", a: "Enter them in Shared items. They are divided equally among everyone before tax and tip are worked out, so a $15 starter shared by 3 people adds $5 to each person's items." },
+  { q: "Does this work for things other than restaurant bills?", a: "Yes. Use it for any shared purchase with tax and an optional extra: takeout orders, group gifts, utility bills or a grocery run. Set the tip to 0% when there is none." },
+];

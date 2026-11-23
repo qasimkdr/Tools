@@ -1,0 +1,987 @@
+{
+ "pages": {
+  "https://www.calculator.net/macro-calculator.html": {
+   "url": "https://www.calculator.net/macro-calculator.html",
+   "finalUrl": "https://www.calculator.net/macro-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-23T06:10:40.078Z",
+   "title": "Macro Calculator",
+   "metaDescription": "This macro calculator estimates the macronutrient needs of a person based on their age, physical characteristics, activity level, and bodyweight goals.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Macro Calculator"
+   ],
+   "h2": [],
+   "h3": [
+    "What are Macronutrients (Macros)?",
+    "Daily Calorie Needs",
+    "Macronutrients in Common Foods"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Macro Calculator"
+    },
+    {
+     "level": 3,
+     "text": "What are Macronutrients (Macros)?"
+    },
+    {
+     "level": 3,
+     "text": "Daily Calorie Needs"
+    },
+    {
+     "level": 3,
+     "text": "Macronutrients in Common Foods"
+    }
+   ],
+   "wordCount": 1451,
+   "avgSentenceWords": 28,
+   "faqs": [
+    "What are Macronutrients (Macros)?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "cup",
+     "weight": 19
+    },
+    {
+     "term": "fats",
+     "weight": 17
+    },
+    {
+     "term": "calculator",
+     "weight": 10
+    },
+    {
+     "term": "fat",
+     "weight": 10
+    },
+    {
+     "term": "carbohydrates",
+     "weight": 10
+    },
+    {
+     "term": "protein",
+     "weight": 9
+    },
+    {
+     "term": "based",
+     "weight": 9
+    },
+    {
+     "term": "health",
+     "weight": 8
+    },
+    {
+     "term": "daily",
+     "weight": 8
+    },
+    {
+     "term": "amino acids",
+     "weight": 8
+    },
+    {
+     "term": "needs",
+     "weight": 7
+    },
+    {
+     "term": "activity",
+     "weight": 7
+    },
+    {
+     "term": "proteins",
+     "weight": 7
+    },
+    {
+     "term": "body",
+     "weight": 7
+    },
+    {
+     "term": "acids",
+     "weight": 7
+    },
+    {
+     "term": "fitness",
+     "weight": 6
+    },
+    {
+     "term": "weight",
+     "weight": 6
+    },
+    {
+     "term": "macronutrients",
+     "weight": 6
+    },
+    {
+     "term": "energy",
+     "weight": 6
+    },
+    {
+     "term": "include",
+     "weight": 6
+    },
+    {
+     "term": "human",
+     "weight": 6
+    },
+    {
+     "term": "cooked",
+     "weight": 6
+    },
+    {
+     "term": "provide",
+     "weight": 5
+    },
+    {
+     "term": "humans",
+     "weight": 5
+    },
+    {
+     "term": "dietary",
+     "weight": 5
+    },
+    {
+     "term": "while",
+     "weight": 5
+    },
+    {
+     "term": "typically",
+     "weight": 5
+    },
+    {
+     "term": "amino",
+     "weight": 5
+    },
+    {
+     "term": "diet",
+     "weight": 5
+    },
+    {
+     "term": "person",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "While macronutrients are necessary daily in amounts on the order of grams, humans typically only need fewer than 100 milligrams of micronutrients each day."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 7,
+   "lists": 4,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "cage",
+    "male",
+    "female",
+    "cheightfeet",
+    "cheightinch",
+    "cpound",
+    "cheightmeter",
+    "ckg",
+    "cactivity",
+    "cgoal",
+    "Mifflin St Jeor",
+    "Katch-McArdle",
+    "cfatpct"
+   ],
+   "selectOptionsSample": "basal metabolic rate (bmr) sedentary: little or no exercise light: exercise 1-3 times/week moderate: exercise 4-5 times/week active: daily exercise or intense exercise 3-4 times/week very active: intense exercise 6-7 times/week extra active: very intense exercise daily, or physical job maintain weig",
+   "unitToggle": true,
+   "wordsBeforeTool": 39,
+   "actions": {
+    "print": true,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 31,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 25,
+    "external": 0,
+    "contentInternal": 25,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "fitness & health",
+     "macro calculator",
+     "Print",
+     "US units",
+     "metric units",
+     "other units",
+     "+ Settings",
+     "Body Fat:",
+     "Carbs Calculator",
+     "Protein Calculator",
+     "Fat Intake Calculator",
+     "Fitness and Health Calculators",
+     "BMI",
+     "Calorie",
+     "Body Fat",
+     "BMR",
+     "Macro",
+     "Ideal Weight"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/macro-calculator.html",
+     "https://www.calculator.net/macro-calculator.html#",
+     "https://www.calculator.net/body-fat-calculator.html",
+     "https://www.calculator.net/carbohydrate-calculator.html",
+     "https://www.calculator.net/protein-calculator.html",
+     "https://www.calculator.net/fat-intake-calculator.html",
+     "https://www.calculator.net/bmi-calculator.html",
+     "https://www.calculator.net/calorie-calculator.html",
+     "https://www.calculator.net/bmr-calculator.html",
+     "https://www.calculator.net/ideal-weight-calculator.html",
+     "https://www.calculator.net/pregnancy-calculator.html",
+     "https://www.calculator.net/pregnancy-weight-gain-calculator.html",
+     "https://www.calculator.net/pregnancy-conception-calculator.html",
+     "https://www.calculator.net/due-date-calculator.html",
+     "https://www.calculator.net/pace-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/health/macro": {
+   "url": "https://www.omnicalculator.com/health/macro",
+   "finalUrl": "https://www.omnicalculator.com/health/macro",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-23T06:10:43.112Z",
+   "title": "Macro Calculator",
+   "metaDescription": "The macro calculator helps you lose or gain weight, creating a week-by-week plan of macronutrient intake.",
+   "canonical": "https://www.omnicalculator.com/health/macro",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Macro Calculator"
+   ],
+   "h2": [
+    "What are macronutrients?",
+    "What should my macros be?",
+    "How to use the macronutrients calculator",
+    "How to calculate macros for weight loss",
+    "What is the IIFYM diet?",
+    "FAQs"
+   ],
+   "h3": [
+    "What is the basal metabolic rate (BMR)?",
+    "How do I compute my BMR if I am a 40 year old lady?",
+    "How many carbs should I eat if I am a 25 years old female and weigh 60 kg?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Macro Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What are macronutrients?"
+    },
+    {
+     "level": 2,
+     "text": "What should my macros be?"
+    },
+    {
+     "level": 2,
+     "text": "How to use the macronutrients calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate macros for weight loss"
+    },
+    {
+     "level": 2,
+     "text": "What is the IIFYM diet?"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What is the basal metabolic rate (BMR)?"
+    },
+    {
+     "level": 3,
+     "text": "How do I compute my BMR if I am a 40 year old lady?"
+    },
+    {
+     "level": 3,
+     "text": "How many carbs should I eat if I am a 25 years old female and weigh 60 kg?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1766,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "What are macronutrients?",
+    "What is the IIFYM diet?",
+    "What is the basal metabolic rate (BMR)?",
+    "How do I compute my BMR if I am a 40 year old lady?",
+    "How many carbs should I eat if I am a 25 years old female and weigh 60 kg?",
+    "What should my macros be?"
+   ],
+   "faqSchemaCount": 5,
+   "topics": [
+    {
+     "term": "weight",
+     "weight": 27
+    },
+    {
+     "term": "diet",
+     "weight": 20
+    },
+    {
+     "term": "calculator",
+     "weight": 16
+    },
+    {
+     "term": "macros",
+     "weight": 14
+    },
+    {
+     "term": "calories",
+     "weight": 12
+    },
+    {
+     "term": "need",
+     "weight": 12
+    },
+    {
+     "term": "week",
+     "weight": 11
+    },
+    {
+     "term": "macro calculator",
+     "weight": 11
+    },
+    {
+     "term": "fats",
+     "weight": 10
+    },
+    {
+     "term": "bmr",
+     "weight": 10
+    },
+    {
+     "term": "energy",
+     "weight": 10
+    },
+    {
+     "term": "calorie",
+     "weight": 9
+    },
+    {
+     "term": "weight loss",
+     "weight": 9
+    },
+    {
+     "term": "metabolic rate",
+     "weight": 9
+    },
+    {
+     "term": "iifym",
+     "weight": 8
+    },
+    {
+     "term": "day",
+     "weight": 8
+    },
+    {
+     "term": "basal metabolic",
+     "weight": 8
+    },
+    {
+     "term": "macro",
+     "weight": 7
+    },
+    {
+     "term": "height",
+     "weight": 7
+    },
+    {
+     "term": "age",
+     "weight": 7
+    },
+    {
+     "term": "equation",
+     "weight": 7
+    },
+    {
+     "term": "intake",
+     "weight": 7
+    },
+    {
+     "term": "carbohydrates",
+     "weight": 7
+    },
+    {
+     "term": "lifestyle",
+     "weight": 6
+    },
+    {
+     "term": "calculate",
+     "weight": 6
+    },
+    {
+     "term": "proteins",
+     "weight": 6
+    },
+    {
+     "term": "activity level",
+     "weight": 6
+    },
+    {
+     "term": "level",
+     "weight": 6
+    },
+    {
+     "term": "jeor equation",
+     "weight": 6
+    },
+    {
+     "term": "exercise",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "** Fats**: this third type of macros is by far the most efficient: while 1 gram of proteins or carbohydrates is equivalent to only 4 calories, 1 gram of fats contains 9 kcal.",
+    "Our macro calculator uses 60% as a recommendation."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 7,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Activity level"
+   ],
+   "selectOptionsSample": "select little/no exercise (sedentary lifestyle) light exercise 1-2 times/week moderate exercise 2-3 times/week hard exercise 4-5 times/week physical job or hard exercise 6-7 times/week professional athlete",
+   "unitToggle": false,
+   "wordsBeforeTool": 37,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Bogna Szyk",
+    "published": "2018-02-08T09:57:18.034Z",
+    "modified": "2026-08-17T12:19:00.960Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 663,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 23,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "iIFYM (If It Fits Your Macros)",
+     "fiber",
+     "Proteins",
+     "Carbohydrates",
+     "Fats",
+     "calorie deficit calculator",
+     "ACFT Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/health/iifym",
+     "https://www.omnicalculator.com/health/fiber",
+     "https://www.omnicalculator.com/health/protein",
+     "https://www.omnicalculator.com/health/carb",
+     "https://www.omnicalculator.com/health/fat",
+     "https://www.omnicalculator.com/health/calorie-deficit",
+     "https://www.omnicalculator.com/health/acft"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/macros-calculator/": {
+   "url": "https://www.inchcalculator.com/macros-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/macros-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-23T06:10:45.992Z",
+   "title": "Macros Calculator - Calculate Macros for Weight Loss - Inch Calculator",
+   "metaDescription": "Calculate your macronutrient balance using our macro calculator, plus learn more about macro splits for weight loss and muscle building.",
+   "canonical": "https://www.inchcalculator.com/macros-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Macro Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Macro Breakdown",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "What Are Macronutrients",
+    "How To Calculate Macros",
+    "How to Count Macros",
+    "Similar Nutrition Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Daily Calorie Allowance",
+    "Step One: Calculate TDEE",
+    "Step Two: Calculate Calorie Intake",
+    "Step Three: Calculate Macro Breakdown",
+    "How to Calculate Macros for Weight Loss",
+    "Create a Calorie Deficit",
+    "Counting Macros For A Healthy Lifestyle"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Macro Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Macro Breakdown"
+    },
+    {
+     "level": 3,
+     "text": "Daily Calorie Allowance"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "What Are Macronutrients"
+    },
+    {
+     "level": 2,
+     "text": "How To Calculate Macros"
+    },
+    {
+     "level": 3,
+     "text": "Step One: Calculate TDEE"
+    },
+    {
+     "level": 3,
+     "text": "Step Two: Calculate Calorie Intake"
+    },
+    {
+     "level": 3,
+     "text": "Step Three: Calculate Macro Breakdown"
+    },
+    {
+     "level": 4,
+     "text": "Athletes"
+    },
+    {
+     "level": 4,
+     "text": "Building Strength"
+    },
+    {
+     "level": 4,
+     "text": "Weight Loss"
+    },
+    {
+     "level": 4,
+     "text": "Commonly Used Macro Splits"
+    },
+    {
+     "level": 2,
+     "text": "How to Count Macros"
+    },
+    {
+     "level": 3,
+     "text": "How to Calculate Macros for Weight Loss"
+    },
+    {
+     "level": 3,
+     "text": "Create a Calorie Deficit"
+    },
+    {
+     "level": 3,
+     "text": "Counting Macros For A Healthy Lifestyle"
+    },
+    {
+     "level": 2,
+     "text": "Similar Nutrition Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 2138,
+   "avgSentenceWords": 26,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "weight",
+     "weight": 25
+    },
+    {
+     "term": "diet",
+     "weight": 22
+    },
+    {
+     "term": "day",
+     "weight": 21
+    },
+    {
+     "term": "macro",
+     "weight": 17
+    },
+    {
+     "term": "fat",
+     "weight": 17
+    },
+    {
+     "term": "macros",
+     "weight": 17
+    },
+    {
+     "term": "calories",
+     "weight": 17
+    },
+    {
+     "term": "weight loss",
+     "weight": 17
+    },
+    {
+     "term": "protein",
+     "weight": 16
+    },
+    {
+     "term": "calculator",
+     "weight": 15
+    },
+    {
+     "term": "calorie",
+     "weight": 15
+    },
+    {
+     "term": "macronutrient",
+     "weight": 13
+    },
+    {
+     "term": "calculate",
+     "weight": 12
+    },
+    {
+     "term": "loss",
+     "weight": 11
+    },
+    {
+     "term": "grams",
+     "weight": 10
+    },
+    {
+     "term": "https",
+     "weight": 10
+    },
+    {
+     "term": "activity",
+     "weight": 8
+    },
+    {
+     "term": "body",
+     "weight": 8
+    },
+    {
+     "term": "daily",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "carbohydrates",
+     "weight": 8
+    },
+    {
+     "term": "intake",
+     "weight": 8
+    },
+    {
+     "term": "low",
+     "weight": 8
+    },
+    {
+     "term": "counting macros",
+     "weight": 8
+    },
+    {
+     "term": "calorie intake",
+     "weight": 8
+    },
+    {
+     "term": "lose weight",
+     "weight": 8
+    },
+    {
+     "term": "kcal",
+     "weight": 7
+    },
+    {
+     "term": "create",
+     "weight": 7
+    },
+    {
+     "term": "deficit",
+     "weight": 7
+    },
+    {
+     "term": "healthy",
+     "weight": 7
+    }
+   ],
+   "claims": [
+    "Age Gender Height Weight Activity Level Nutrition Goal Macro Split Carbs % Protein % Fat % Carbs, protein, and fat percentages should add up to 100%.",
+    "In this case: 2,866 × 0.20 = 573 calorie deficit 2,866 – 573 = 2,293 calories to eat each day Next, multiply this by your macro percentages.",
+    "J., Macronutrient considerations for the sport of bodybuilding, Sports Medicine (Auckland, N.Z.), 2004, 34(5), 317–327."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 4,
+   "lists": 3,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [
+    "Age",
+    "Gender",
+    "Height",
+    "Height Units",
+    "Weight",
+    "Weight Units",
+    "Activity Level",
+    "Nutrition Goal",
+    "Macro Split",
+    "Carbs",
+    "Protein",
+    "Fat",
+    "BMR Formula",
+    "Body Fat Percentage"
+   ],
+   "selectOptionsSample": "male female in cm lb kg st little to no exercise light exercise 1-3 times per week moderate exercise 3-5 times per week heavy physical exercise 5-6 times per week heavy physical exercise 6-7 times per week maintain current weight mild weight loss, goal: ½ lb (¼ kg) per week moderate weight loss, goa",
+   "unitToggle": true,
+   "wordsBeforeTool": 25,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Holly Smith",
+    "published": "2021-05-12",
+    "modified": "2025-04-29T15:24:16+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 140,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 54,
+    "external": 22,
+    "contentInternal": 30,
+    "contentExternal": 16,
+    "internalAnchors": [
+     "+ Advanced Options",
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "What Are Macronutrients",
+     "How To Calculate Macros",
+     "How to Count Macros",
+     "How to Calculate Macros for Weight Loss",
+     "Create a Calorie Deficit",
+     "Counting Macros For A Healthy Lifestyle",
+     "References",
+     "Full bio",
+     "Macro Calculator",
+     "TDEE",
+     "BMR",
+     "how many calories you should eat",
+     "maintain your current weight",
+     "gain muscle",
+     "protein intake",
+     "fat"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/macros-calculator/#",
+     "https://www.inchcalculator.com/macros-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/macros/",
+     "https://www.inchcalculator.com/macros-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/macros-calculator/#idx_what_are_macronutrients",
+     "https://www.inchcalculator.com/macros-calculator/#idx_how_to_calculate_macros",
+     "https://www.inchcalculator.com/macros-calculator/#idx_how_to_count_macros",
+     "https://www.inchcalculator.com/macros-calculator/#idx_how_to_calculate_macros_for_weight_loss",
+     "https://www.inchcalculator.com/macros-calculator/#idx_create_a_calorie_deficit",
+     "https://www.inchcalculator.com/macros-calculator/#idx_counting_macros_for_a_healthy_lifestyle",
+     "https://www.inchcalculator.com/macros-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/holly-smith/",
+     "https://www.inchcalculator.com/author/elise-harlow/",
+     "https://www.inchcalculator.com/author/donna-schwontkowski/",
+     "https://www.inchcalculator.com/macros-calculator/",
+     "https://www.inchcalculator.com/tdee-calculator/",
+     "https://www.inchcalculator.com/bmr-calculator/",
+     "https://www.inchcalculator.com/calorie-calculator/",
+     "https://www.inchcalculator.com/maintenance-calorie-calculator/",
+     "https://www.inchcalculator.com/weight-gain-calculator/",
+     "https://www.inchcalculator.com/protein-calculator/",
+     "https://www.inchcalculator.com/fat-calculator/",
+     "https://www.inchcalculator.com/net-carb-calculator/",
+     "https://www.inchcalculator.com/bmi-calculator/",
+     "https://www.inchcalculator.com/keto-calculator/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fmacros-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fmacros-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fmacros-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fmacros-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fmacros-calculator%2F&text=Macro+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fmacros-calculator%2F&text=Macro+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://link.springer.com/content/pdf/10.1007/s40279-015-0400-1.pdf",
+     "https://jissn.biomedcentral.com/articles/10.1186/s12970-015-0100-0",
+     "https://link.springer.com/article/10.1007/s11154-019-09514-y",
+     "https://www.acefitness.org/resources/pros/expert-articles/5904/how-to-determine-the-best-macronutrient-ratio-for-your-goals/",
+     "https://doi.org/10.1186/s12970-017-0174-y",
+     "https://doi.org/10.2165/00007256-200434050-00004",
+     "https://doi.org/10.1038/s41392-021-00831-w",
+     "https://www.nature.com/articles/ncpendmet0554"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.gigacalculator.com/calculators/macro-calculator.php": [
+   "disallowed by robots.txt"
+  ]
+ }
+}

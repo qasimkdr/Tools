@@ -1,0 +1,875 @@
+{
+ "pages": {
+  "https://www.calculator.net/tip-calculator.html": {
+   "url": "https://www.calculator.net/tip-calculator.html",
+   "finalUrl": "https://www.calculator.net/tip-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-23T06:09:59.466Z",
+   "title": "Tip Calculator",
+   "metaDescription": "This free tip calculator computes tip amounts for various situations. It can also calculate the tip amount split between a given number of people.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Tip Calculator"
+   ],
+   "h2": [
+    "Shared Bill Tip Calculator"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Tip Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Shared Bill Tip Calculator"
+    }
+   ],
+   "wordCount": 555,
+   "avgSentenceWords": 33,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "tip",
+     "weight": 17
+    },
+    {
+     "term": "expected",
+     "weight": 16
+    },
+    {
+     "term": "service",
+     "weight": 8
+    },
+    {
+     "term": "tip calculator",
+     "weight": 8
+    },
+    {
+     "term": "calculator",
+     "weight": 6
+    },
+    {
+     "term": "amount",
+     "weight": 6
+    },
+    {
+     "term": "united states",
+     "weight": 6
+    },
+    {
+     "term": "depending",
+     "weight": 6
+    },
+    {
+     "term": "price",
+     "weight": 5
+    },
+    {
+     "term": "bill",
+     "weight": 5
+    },
+    {
+     "term": "countries",
+     "weight": 5
+    },
+    {
+     "term": "tips",
+     "weight": 5
+    },
+    {
+     "term": "tipping",
+     "weight": 5
+    },
+    {
+     "term": "united",
+     "weight": 4
+    },
+    {
+     "term": "states",
+     "weight": 4
+    },
+    {
+     "term": "services",
+     "weight": 4
+    },
+    {
+     "term": "cost",
+     "weight": 3
+    },
+    {
+     "term": "total",
+     "weight": 3
+    },
+    {
+     "term": "shared bill",
+     "weight": 3
+    },
+    {
+     "term": "bill tip",
+     "weight": 3
+    },
+    {
+     "term": "number",
+     "weight": 3
+    },
+    {
+     "term": "person",
+     "weight": 3
+    },
+    {
+     "term": "well",
+     "weight": 3
+    },
+    {
+     "term": "tip amounts",
+     "weight": 3
+    },
+    {
+     "term": "typical tip",
+     "weight": 3
+    },
+    {
+     "term": "tipped",
+     "weight": 3
+    },
+    {
+     "term": "financial fitness",
+     "weight": 3
+    },
+    {
+     "term": "health math",
+     "weight": 3
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 7,
+   "lists": 0,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "serviceprice",
+    "billamount",
+    "tippct",
+    "numberofpeople"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 52,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 12,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 24,
+    "external": 0,
+    "contentInternal": 24,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "other",
+     "tip calculator",
+     "Other Calculators",
+     "Age",
+     "Date",
+     "Time",
+     "Hours",
+     "GPA",
+     "Grade",
+     "Height",
+     "Concrete",
+     "IP Subnet",
+     "Bra Size",
+     "Password Generator",
+     "Dice Roller",
+     "Conversion",
+     "More Other Calculators",
+     "Financial"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/tip-calculator.html",
+     "https://www.calculator.net/age-calculator.html",
+     "https://www.calculator.net/date-calculator.html",
+     "https://www.calculator.net/time-calculator.html",
+     "https://www.calculator.net/hours-calculator.html",
+     "https://www.calculator.net/gpa-calculator.html",
+     "https://www.calculator.net/grade-calculator.html",
+     "https://www.calculator.net/height-calculator.html",
+     "https://www.calculator.net/concrete-calculator.html",
+     "https://www.calculator.net/ip-subnet-calculator.html",
+     "https://www.calculator.net/bra-size-calculator.html",
+     "https://www.calculator.net/password-generator.html",
+     "https://www.calculator.net/dice-roller.html",
+     "https://www.calculator.net/conversion-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/split-bill-calculator/": {
+   "url": "https://www.inchcalculator.com/split-bill-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/split-bill-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-23T06:10:02.511Z",
+   "title": "Bill Splitter - Split Check Calculator - Inch Calculator",
+   "metaDescription": "Split a restaurant check or any other bill between multiple people and calculate the appropriate tip using our bill splitting calculator.",
+   "canonical": "https://www.inchcalculator.com/split-bill-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Bill Splitter – Split Check Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Result: Amount Per Person",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Split a Bill",
+    "Bill Split Chart",
+    "Similar Personal Finance Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Bill Breakdown",
+    "Step One: Find the Bill Subtotal and Tax",
+    "Step Two: Calculate the Tip (Optional)",
+    "Step Three: Divide the Total by the Number of People",
+    "Split Bill Formula"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Bill Splitter – Split Check Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Result: Amount Per Person"
+    },
+    {
+     "level": 3,
+     "text": "Bill Breakdown"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Split a Bill"
+    },
+    {
+     "level": 3,
+     "text": "Step One: Find the Bill Subtotal and Tax"
+    },
+    {
+     "level": 3,
+     "text": "Step Two: Calculate the Tip (Optional)"
+    },
+    {
+     "level": 3,
+     "text": "Step Three: Divide the Total by the Number of People"
+    },
+    {
+     "level": 3,
+     "text": "Split Bill Formula"
+    },
+    {
+     "level": 2,
+     "text": "Bill Split Chart"
+    },
+    {
+     "level": 2,
+     "text": "Similar Personal Finance Calculators"
+    }
+   ],
+   "wordCount": 944,
+   "avgSentenceWords": 30,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "bill",
+     "weight": 33
+    },
+    {
+     "term": "tip",
+     "weight": 30
+    },
+    {
+     "term": "split",
+     "weight": 17
+    },
+    {
+     "term": "people",
+     "weight": 17
+    },
+    {
+     "term": "tax",
+     "weight": 17
+    },
+    {
+     "term": "calculator",
+     "weight": 15
+    },
+    {
+     "term": "subtotal",
+     "weight": 15
+    },
+    {
+     "term": "total",
+     "weight": 11
+    },
+    {
+     "term": "person",
+     "weight": 11
+    },
+    {
+     "term": "check",
+     "weight": 8
+    },
+    {
+     "term": "number",
+     "weight": 8
+    },
+    {
+     "term": "amount",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "sales tax",
+     "weight": 8
+    },
+    {
+     "term": "tip rate",
+     "weight": 8
+    },
+    {
+     "term": "calculate",
+     "weight": 7
+    },
+    {
+     "term": "step",
+     "weight": 7
+    },
+    {
+     "term": "find",
+     "weight": 6
+    },
+    {
+     "term": "divide",
+     "weight": 6
+    },
+    {
+     "term": "person owes",
+     "weight": 6
+    },
+    {
+     "term": "rate",
+     "weight": 6
+    },
+    {
+     "term": "subtotal tax",
+     "weight": 6
+    },
+    {
+     "term": "total bill",
+     "weight": 6
+    },
+    {
+     "term": "between",
+     "weight": 5
+    },
+    {
+     "term": "formula",
+     "weight": 5
+    },
+    {
+     "term": "sales",
+     "weight": 5
+    },
+    {
+     "term": "bill subtotal",
+     "weight": 5
+    },
+    {
+     "term": "split bill",
+     "weight": 5
+    },
+    {
+     "term": "bill split",
+     "weight": 5
+    },
+    {
+     "term": "bill totals",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "For example, let’s split a dinner bill between 4 people.",
+    "Chart showing the amount each person owes for bill totals from $20 to $200 split between 2 and 5 people."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 2,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Check Total",
+    "Tip Percentage",
+    "Number of People"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 26,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2026-11-16",
+    "modified": "2026-11-16T21:40:57+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 119,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 44,
+    "external": 13,
+    "contentInternal": 20,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Split a Bill",
+     "Step One: Find the Bill Subtotal and Tax",
+     "Step Two: Calculate the Tip (Optional)",
+     "Step Three: Divide the Total by the Number of People",
+     "Split Bill Formula",
+     "Bill Split Chart",
+     "Full bio",
+     "Bill Splitter – Split Check Calculator",
+     "sales tax calculator",
+     "percentage",
+     "tip calculator",
+     "fair bill splitting calculator",
+     "Pay Raise Calculator",
+     "Overtime Calculator",
+     "Hours Calculator",
+     "Fair Bill Split Calculator",
+     "Reverse Sales Tax Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/split-bill-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/split-bill/",
+     "https://www.inchcalculator.com/split-bill-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/split-bill-calculator/#idx_how_to_split_a_bill",
+     "https://www.inchcalculator.com/split-bill-calculator/#idx_step_one_find_the_bill_subtotal_and_tax",
+     "https://www.inchcalculator.com/split-bill-calculator/#idx_step_two_calculate_the_tip_optional",
+     "https://www.inchcalculator.com/split-bill-calculator/#idx_step_three_divide_the_total_by_the_number_of_people",
+     "https://www.inchcalculator.com/split-bill-calculator/#idx_split_bill_formula",
+     "https://www.inchcalculator.com/split-bill-calculator/#idx_bill_split_chart",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/split-bill-calculator/",
+     "https://www.inchcalculator.com/sales-tax-calculator/",
+     "https://www.inchcalculator.com/percentage-calculator/",
+     "https://www.inchcalculator.com/tip-calculator/",
+     "https://www.inchcalculator.com/fair-bill-split-calculator/",
+     "https://www.inchcalculator.com/pay-raise-calculator/",
+     "https://www.inchcalculator.com/overtime-calculator/",
+     "https://www.inchcalculator.com/hours-calculator/",
+     "https://www.inchcalculator.com/reverse-sales-tax-calculator/",
+     "https://www.inchcalculator.com/personal-finance-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fsplit-bill-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fsplit-bill-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fsplit-bill-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fsplit-bill-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fsplit-bill-calculator%2F&text=Bill+Splitter+%26%238211%3B+Split+Check+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fsplit-bill-calculator%2F&text=Bill+Splitter+%26%238211%3B+Split+Check+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/financial/tip-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/financial/tip-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/financial/tip-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-23T06:10:05.364Z",
+   "title": "Tip Calculator",
+   "metaDescription": "Calculate tip for a meal, bar tab or service gratuity. Input check amount and tip percent to get tip plus total bill. Split the check and see how much each person pays.",
+   "canonical": "https://www.calculatorsoup.com/calculators/financial/tip-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Tip Calculator"
+   ],
+   "h2": [
+    "How to Calculate Tip",
+    "How to Calculate Tip on Your Phone's Calculator",
+    "How to Calculate Tip in Your Head",
+    "How Much to Tip"
+   ],
+   "h3": [
+    "Example Tip Calculation",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Tip Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Tip"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Tip on Your Phone's Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Example Tip Calculation"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Tip in Your Head"
+    },
+    {
+     "level": 2,
+     "text": "How Much to Tip"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 2478,
+   "avgSentenceWords": 17,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "tip",
+     "weight": 93
+    },
+    {
+     "term": "service",
+     "weight": 43
+    },
+    {
+     "term": "bill",
+     "weight": 40
+    },
+    {
+     "term": "leave",
+     "weight": 30
+    },
+    {
+     "term": "amount",
+     "weight": 29
+    },
+    {
+     "term": "tipping",
+     "weight": 28
+    },
+    {
+     "term": "calculator",
+     "weight": 17
+    },
+    {
+     "term": "expected",
+     "weight": 17
+    },
+    {
+     "term": "service charge",
+     "weight": 17
+    },
+    {
+     "term": "total",
+     "weight": 16
+    },
+    {
+     "term": "gratuity",
+     "weight": 16
+    },
+    {
+     "term": "restaurants",
+     "weight": 16
+    },
+    {
+     "term": "leaving",
+     "weight": 15
+    },
+    {
+     "term": "check",
+     "weight": 14
+    },
+    {
+     "term": "server",
+     "weight": 13
+    },
+    {
+     "term": "tip calculator",
+     "weight": 12
+    },
+    {
+     "term": "good",
+     "weight": 12
+    },
+    {
+     "term": "good service",
+     "weight": 12
+    },
+    {
+     "term": "bars",
+     "weight": 11
+    },
+    {
+     "term": "tips",
+     "weight": 11
+    },
+    {
+     "term": "charge",
+     "weight": 11
+    },
+    {
+     "term": "total amount",
+     "weight": 11
+    },
+    {
+     "term": "tax",
+     "weight": 10
+    },
+    {
+     "term": "percentage",
+     "weight": 10
+    },
+    {
+     "term": "generally",
+     "weight": 10
+    },
+    {
+     "term": "change",
+     "weight": 10
+    },
+    {
+     "term": "it's",
+     "weight": 10
+    },
+    {
+     "term": "add",
+     "weight": 9
+    },
+    {
+     "term": "want",
+     "weight": 9
+    },
+    {
+     "term": "tip percentage",
+     "weight": 9
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Total Bill $",
+    "Do not tip on tax",
+    "Tax Amount $",
+    "Tip %",
+    "Split the Bill? number of people",
+    "Round total up to dollars",
+    "reset"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 19,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "August 1, 2025",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 66,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 17,
+    "external": 0,
+    "contentInternal": 7,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Financial",
+     "Money, Pay, Taxes",
+     "Tip Calculator",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/financial/",
+     "https://www.calculatorsoup.com/calculators/financial/index-money-pay-taxes-calculators.php",
+     "https://www.calculatorsoup.com/calculators/financial/tip-calculator.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=financial%2F&folderName=Financial&folder2=financial%2Findex-money-pay-taxes-calculators.php&folderName2=Money%2C+Pay%2C+Taxes&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/financial/tip-calculator.php&h1=Tip+Calculator&pop_w=400&pop_h=600"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.omnicalculator.com/finance/split-bill": [
+   "HTTP 404"
+  ]
+ }
+}

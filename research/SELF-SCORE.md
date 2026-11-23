@@ -122,3 +122,8 @@ Rule-based on-page signals only — not rankings.
 | simplify-radicals-calculator | **25/30** | 4 | 2 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 17/25 | ahead |
 | car-lease-vs-buy-calculator | **27/30** | 5 | 4 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
 | redacted-text-generator | **25/30** | 4 | 3 | 5 | 5 | 3 | 5 | www.omnicalculator.com | 17/30 | ahead |
+| split-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
+| partial-fraction-calculator | **25/30** | 5 | 2 | 5 | 4 | 4 | 5 | www.symbolab.com | 18/25 | ahead |
+| implicit-differentiation-calculator | **25/30** | 5 | 2 | 5 | 4 | 4 | 5 | www.symbolab.com | 19/25 | ahead |
+| breastfeeding-calorie-calculator | **26/30** | 5 | 2 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 17/25 | ahead |
+| macro-calculator | **27/30** | 5 | 3 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
