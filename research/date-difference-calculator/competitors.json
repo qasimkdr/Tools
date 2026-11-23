@@ -1,0 +1,1177 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/other/time-between-dates": {
+   "url": "https://www.omnicalculator.com/other/time-between-dates",
+   "finalUrl": "https://www.omnicalculator.com/everyday-life/time-between-dates",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T23:56:12.511Z",
+   "title": "Time Between Dates Calculator",
+   "metaDescription": "The time between dates calculator helps you work out exactly how much time lies between two dates. Get your answer in any unit from seconds to years, and even exclude weekends in the calculation!",
+   "canonical": "https://www.omnicalculator.com/everyday-life/time-between-dates",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Time Between Dates Calculator"
+   ],
+   "h2": [
+    "How to use the time between dates calculator",
+    "How to calculate the time between dates",
+    "Related calculators",
+    "FAQs"
+   ],
+   "h3": [
+    "How much time is there between New Year's and Christmas?",
+    "How much time is there between full moons?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Time Between Dates Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to use the time between dates calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate the time between dates"
+    },
+    {
+     "level": 2,
+     "text": "Related calculators"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How much time is there between New Year's and Christmas?"
+    },
+    {
+     "level": 3,
+     "text": "How much time is there between full moons?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 746,
+   "avgSentenceWords": 25,
+   "faqs": [
+    "How much time is there between New Year's and Christmas?",
+    "How much time is there between full moons?"
+   ],
+   "faqSchemaCount": 2,
+   "topics": [
+    {
+     "term": "between",
+     "weight": 34
+    },
+    {
+     "term": "dates",
+     "weight": 23
+    },
+    {
+     "term": "days",
+     "weight": 22
+    },
+    {
+     "term": "between dates",
+     "weight": 18
+    },
+    {
+     "term": "years",
+     "weight": 10
+    },
+    {
+     "term": "dates calculator",
+     "weight": 9
+    },
+    {
+     "term": "calculator",
+     "weight": 9
+    },
+    {
+     "term": "date",
+     "weight": 9
+    },
+    {
+     "term": "day",
+     "weight": 9
+    },
+    {
+     "term": "there",
+     "weight": 9
+    },
+    {
+     "term": "days between",
+     "weight": 9
+    },
+    {
+     "term": "number",
+     "weight": 8
+    },
+    {
+     "term": "calculate",
+     "weight": 6
+    },
+    {
+     "term": "end date",
+     "weight": 6
+    },
+    {
+     "term": "months",
+     "weight": 6
+    },
+    {
+     "term": "end",
+     "weight": 5
+    },
+    {
+     "term": "include",
+     "weight": 5
+    },
+    {
+     "term": "month",
+     "weight": 5
+    },
+    {
+     "term": "year",
+     "weight": 5
+    },
+    {
+     "term": "full",
+     "weight": 5
+    },
+    {
+     "term": "moon",
+     "weight": 5
+    },
+    {
+     "term": "starting date",
+     "weight": 5
+    },
+    {
+     "term": "years between",
+     "weight": 5
+    },
+    {
+     "term": "leap years",
+     "weight": 5
+    },
+    {
+     "term": "full moons",
+     "weight": 5
+    },
+    {
+     "term": "seconds",
+     "weight": 4
+    },
+    {
+     "term": "even",
+     "weight": 4
+    },
+    {
+     "term": "february",
+     "weight": 4
+    },
+    {
+     "term": "have",
+     "weight": 4
+    },
+    {
+     "term": "leap",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "If there are multiple months or even years between the dates, then you'd need to add multiples of 30, 31, and 365 (for the additional months and years) to the number of days.",
+    "There are 358 days between January 1 and December 25.",
+    "Conversely, there are 7 days between Christmas Day and New Year's Day.",
+    "There are roughly 29.5 days between full moons and between any two consecutive repeated moon phases."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 8,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "From",
+    "To"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 5,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Rijk de Wet",
+    "published": "2022-06-27T14:38:06.838Z",
+    "modified": "2025-02-12T16:43:52.619Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 532,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 23,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Day counter",
+     "Number of days",
+     "Working days",
+     "Months between two dates",
+     "Years between two dates",
+     "Days between dates",
+     "Audiobook Speed Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/everyday-life/day-counter",
+     "https://www.omnicalculator.com/everyday-life/number-days",
+     "https://www.omnicalculator.com/everyday-life/working-days",
+     "https://www.omnicalculator.com/everyday-life/months-between-dates",
+     "https://www.omnicalculator.com/everyday-life/years-between-dates",
+     "https://www.omnicalculator.com/everyday-life/days-between-dates",
+     "https://www.omnicalculator.com/everyday-life/audiobook-speed"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/time/time-date-difference-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/time/time-date-difference-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/time/time-date-difference-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T23:56:15.576Z",
+   "title": "Time & Date Difference Calculator",
+   "metaDescription": "Calculate time and date difference in time and days between 2 date times.  Find date difference with future or past dates and times.  Use United States, European or ISO date formatting. Calculate days for contracts, shipping, business agreements, birth dates, age, etc.",
+   "canonical": "https://www.calculatorsoup.com/calculators/time/time-date-difference-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Time & Date Difference Calculator"
+   ],
+   "h2": [],
+   "h3": [
+    "Date Formats",
+    "Time Formats",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Time & Date Difference Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Date Formats"
+    },
+    {
+     "level": 3,
+     "text": "Time Formats"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 388,
+   "avgSentenceWords": 28,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "date",
+     "weight": 19
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "date difference",
+     "weight": 12
+    },
+    {
+     "term": "difference calculator",
+     "weight": 11
+    },
+    {
+     "term": "difference",
+     "weight": 9
+    },
+    {
+     "term": "yyyy",
+     "weight": 8
+    },
+    {
+     "term": "calculators",
+     "weight": 6
+    },
+    {
+     "term": "hours",
+     "weight": 6
+    },
+    {
+     "term": "minutes",
+     "weight": 6
+    },
+    {
+     "term": "days",
+     "weight": 5
+    },
+    {
+     "term": "seconds",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "date formatting",
+     "weight": 5
+    },
+    {
+     "term": "formatting style",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "dates",
+     "weight": 3
+    },
+    {
+     "term": "hours minutes",
+     "weight": 3
+    },
+    {
+     "term": "formatting",
+     "weight": 3
+    },
+    {
+     "term": "style",
+     "weight": 3
+    },
+    {
+     "term": "forward slash",
+     "weight": 3
+    },
+    {
+     "term": "dash",
+     "weight": 3
+    },
+    {
+     "term": "must have",
+     "weight": 3
+    },
+    {
+     "term": "have hours",
+     "weight": 3
+    },
+    {
+     "term": "optional",
+     "weight": 3
+    },
+    {
+     "term": "com",
+     "weight": 3
+    },
+    {
+     "term": "com calculators",
+     "weight": 3
+    },
+    {
+     "term": "https www",
+     "weight": 3
+    },
+    {
+     "term": "www calculatorsoup",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "Calculate time elapsed between 2 dates and times."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "given_format",
+    "Start:",
+    "Time start",
+    "End:",
+    "Time end",
+    "Answer in every time unit",
+    "reset"
+   ],
+   "selectOptionsSample": "mm/dd/yyyy dd/mm/yyyy yyyy-mm-dd",
+   "unitToggle": true,
+   "wordsBeforeTool": 34,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "August 1, 2025",
+    "authoritativeSources": [
+     "http://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+    ]
+   },
+   "ux": {
+    "htmlKB": 50,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 17,
+    "external": 2,
+    "contentInternal": 7,
+    "contentExternal": 2,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Time & Date",
+     "Time & Date Difference Calculator",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Date ± Days",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/time/",
+     "https://www.calculatorsoup.com/calculators/time/time-date-difference-calculator.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=time%2F&folderName=Time+%26amp%3B+Date&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/time/time-date-difference-calculator.php&h1=Time+%26amp%3B+Date+Difference+Calculator&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/time/date-day.php"
+    ],
+    "externalSample": [
+     "http://en.wikipedia.org/wiki/Coordinated_Universal_Time",
+     "https://www.iso.org/iso-8601-date-and-time-format.html"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.thecalculatorsite.com/time/days-between-dates.php": {
+   "url": "https://www.thecalculatorsite.com/time/days-between-dates.php",
+   "finalUrl": "https://www.thecalculatorsite.com/time/days-between-dates.php",
+   "mode": "offline-parse",
+   "domain": "www.thecalculatorsite.com",
+   "fetchedAt": "2026-11-22T23:56:19.250Z",
+   "title": "Days and Time Between Dates Calculator",
+   "metaDescription": "Calculate the number of hours, days and weeks between two dates with this date calculator tool",
+   "canonical": "https://www.thecalculatorsite.com/time/days-between-dates.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Days & Time Between Dates"
+   ],
+   "h2": [
+    "Calculating days between two dates",
+    "How to calculate weeks between dates",
+    "How many days since...?",
+    "How many days since I was born?"
+   ],
+   "h3": [
+    "Example calculation for weeks between dates",
+    "Calculating time manually"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Days & Time Between Dates"
+    },
+    {
+     "level": 2,
+     "text": "Calculating days between two dates"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate weeks between dates"
+    },
+    {
+     "level": 3,
+     "text": "Example calculation for weeks between dates"
+    },
+    {
+     "level": 2,
+     "text": "How many days since...?"
+    },
+    {
+     "level": 3,
+     "text": "Calculating time manually"
+    },
+    {
+     "level": 2,
+     "text": "How many days since I was born?"
+    },
+    {
+     "level": 4,
+     "text": "Finance"
+    },
+    {
+     "level": 4,
+     "text": "Home & Garden"
+    },
+    {
+     "level": 4,
+     "text": "Cooking"
+    },
+    {
+     "level": 4,
+     "text": "Website"
+    }
+   ],
+   "wordCount": 1556,
+   "avgSentenceWords": 30,
+   "faqs": [
+    "How many days since...?",
+    "How many days since I was born?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "calculator",
+     "weight": 65
+    },
+    {
+     "term": "days",
+     "weight": 46
+    },
+    {
+     "term": "date",
+     "weight": 21
+    },
+    {
+     "term": "grams",
+     "weight": 19
+    },
+    {
+     "term": "between",
+     "weight": 19
+    },
+    {
+     "term": "number",
+     "weight": 16
+    },
+    {
+     "term": "days between",
+     "weight": 15
+    },
+    {
+     "term": "dates",
+     "weight": 15
+    },
+    {
+     "term": "weeks",
+     "weight": 13
+    },
+    {
+     "term": "feet",
+     "weight": 12
+    },
+    {
+     "term": "between dates",
+     "weight": 12
+    },
+    {
+     "term": "cups",
+     "weight": 11
+    },
+    {
+     "term": "many",
+     "weight": 11
+    },
+    {
+     "term": "square",
+     "weight": 10
+    },
+    {
+     "term": "calculators",
+     "weight": 9
+    },
+    {
+     "term": "pounds",
+     "weight": 9
+    },
+    {
+     "term": "many days",
+     "weight": 9
+    },
+    {
+     "term": "cubic",
+     "weight": 8
+    },
+    {
+     "term": "end",
+     "weight": 8
+    },
+    {
+     "term": "calculate",
+     "weight": 8
+    },
+    {
+     "term": "end date",
+     "weight": 8
+    },
+    {
+     "term": "interest",
+     "weight": 7
+    },
+    {
+     "term": "ounces",
+     "weight": 7
+    },
+    {
+     "term": "weight",
+     "weight": 7
+    },
+    {
+     "term": "steps",
+     "weight": 7
+    },
+    {
+     "term": "have",
+     "weight": 7
+    },
+    {
+     "term": "compound interest",
+     "weight": 6
+    },
+    {
+     "term": "inches",
+     "weight": 6
+    },
+    {
+     "term": "cubic feet",
+     "weight": 6
+    },
+    {
+     "term": "calculator cubic",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "How to calculate weeks between dates To calculate the number of weeks between two dates, count the number of days between the dates and then divide your figure by 7.",
+    "We've counted the days and know that there are 108 days between these two dates.",
+    "If you want to look ahead in time, we've got you covered with individual pages telling you the date 30 days from today, as well as 45 days and 90 days."
+   ],
+   "schemaTypes": [],
+   "schemaFormats": [],
+   "tables": 0,
+   "lists": 29,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "I want to calculate/convert...",
+    "Start Date:",
+    "End Date:",
+    "Start Time:",
+    "End Time:",
+    "includeWeekends",
+    "M",
+    "T",
+    "W",
+    "T",
+    "F",
+    "S",
+    "S",
+    "includeEndDay"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 7,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 303,
+    "adNetworks": [
+     "gpt",
+     "adthrive",
+     "ezoic"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 169,
+    "external": 2,
+    "contentInternal": 169,
+    "contentExternal": 2,
+    "internalAnchors": [
+     "Finance Calculators",
+     "Compound Interest",
+     "Compound Interest (Daily)",
+     "Amortization Calculator",
+     "APY Calculator",
+     "CAGR Calculator",
+     "Car Loan Calculator",
+     "Cash Back Calculator",
+     "Currency Converter",
+     "Forex Compounding",
+     "Future Value Calculator",
+     "How Long to Save",
+     "Interest Rate Calculator",
+     "Investment Calculator",
+     "IRR Calculator",
+     "Loan Calculator",
+     "Loan Payoff Calculator",
+     "Margin Calculator",
+     "Million to Billion Converter",
+     "MMA Calculator"
+    ],
+    "internalSample": [
+     "https://www.thecalculatorsite.com/",
+     "https://www.thecalculatorsite.com/finance/",
+     "https://www.thecalculatorsite.com/finance/calculators/compoundinterestcalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/daily-compound-interest.php",
+     "https://www.thecalculatorsite.com/finance/calculators/amortization-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/apy-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/cagr-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/carloancalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/cash-back.php",
+     "https://www.thecalculatorsite.com/finance/calculators/currencyconverter.php",
+     "https://www.thecalculatorsite.com/finance/calculators/forex-compound-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/future-value-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/how-long-to-save",
+     "https://www.thecalculatorsite.com/finance/calculators/interest-rate-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/investment-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/irr-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/loancalculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/loan-payoff-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/margin-calculator.php",
+     "https://www.thecalculatorsite.com/finance/calculators/million-billion",
+     "https://www.thecalculatorsite.com/finance/calculators/money-market-account.php",
+     "https://www.thecalculatorsite.com/finance/calculators/money-counter.php",
+     "https://www.thecalculatorsite.com/finance/calculators/price-per-sqft.php",
+     "https://www.thecalculatorsite.com/finance/calculators/savings-calculators.php",
+     "https://www.thecalculatorsite.com/finance/calculators/savings-goal-calculator.php"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=thecalculatorsite.com",
+     "https://www.vox.com/2016/10/4/13147306/434th-gregorian-calendar-anniversary-google-doogle"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/date-calculator.html": {
+   "url": "https://www.calculator.net/date-calculator.html",
+   "finalUrl": "https://www.calculator.net/date-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T23:56:22.050Z",
+   "title": "Date Calculator",
+   "metaDescription": "This free date calculator computes the difference between two dates. It can also add to or subtract from a date. Both can deal with business days and holidays.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Date Calculator"
+   ],
+   "h2": [
+    "Days Between Two Dates",
+    "Add to or Subtract from a Date"
+   ],
+   "h3": [
+    "History of the Gregorian Calendar",
+    "Holidays"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Date Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Days Between Two Dates"
+    },
+    {
+     "level": 2,
+     "text": "Add to or Subtract from a Date"
+    },
+    {
+     "level": 3,
+     "text": "History of the Gregorian Calendar"
+    },
+    {
+     "level": 3,
+     "text": "Holidays"
+    }
+   ],
+   "wordCount": 1130,
+   "avgSentenceWords": 17,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "day",
+     "weight": 28
+    },
+    {
+     "term": "calendar",
+     "weight": 23
+    },
+    {
+     "term": "days",
+     "weight": 19
+    },
+    {
+     "term": "holidays",
+     "weight": 19
+    },
+    {
+     "term": "year",
+     "weight": 15
+    },
+    {
+     "term": "date",
+     "weight": 9
+    },
+    {
+     "term": "years",
+     "weight": 9
+    },
+    {
+     "term": "gregorian calendar",
+     "weight": 9
+    },
+    {
+     "term": "holiday",
+     "weight": 8
+    },
+    {
+     "term": "federal",
+     "weight": 8
+    },
+    {
+     "term": "federal holidays",
+     "weight": 8
+    },
+    {
+     "term": "have",
+     "weight": 7
+    },
+    {
+     "term": "calculator",
+     "weight": 6
+    },
+    {
+     "term": "months",
+     "weight": 6
+    },
+    {
+     "term": "gregorian",
+     "weight": 6
+    },
+    {
+     "term": "leap",
+     "weight": 6
+    },
+    {
+     "term": "solar year",
+     "weight": 6
+    },
+    {
+     "term": "new year's",
+     "weight": 6
+    },
+    {
+     "term": "year's day",
+     "weight": 6
+    },
+    {
+     "term": "day jan",
+     "weight": 6
+    },
+    {
+     "term": "certain",
+     "weight": 5
+    },
+    {
+     "term": "further",
+     "weight": 5
+    },
+    {
+     "term": "new",
+     "weight": 5
+    },
+    {
+     "term": "julian calendar",
+     "weight": 5
+    },
+    {
+     "term": "roman calendar",
+     "weight": 5
+    },
+    {
+     "term": "republican calendar",
+     "weight": 5
+    },
+    {
+     "term": "paid leave",
+     "weight": 5
+    },
+    {
+     "term": "certain holidays",
+     "weight": 5
+    },
+    {
+     "term": "martin luther",
+     "weight": 5
+    },
+    {
+     "term": "luther king",
+     "weight": 5
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 13,
+   "lists": 0,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "include end day (add 1 day)",
+    "Do not count holidays",
+    "Count holidays",
+    "New Year's Day",
+    "M. L. King Day (US)",
+    "President's Day (US)",
+    "Memorial Day (US)",
+    "Juneteenth Day (US)",
+    "Independence Day (US)",
+    "Labor Day (US)",
+    "Columbus Day (US)",
+    "Veteran's Day (US)",
+    "Thanksgiving (US)",
+    "Black Friday (US)",
+    "Christmas Eve",
+    "Christmas",
+    "New Year's Eve",
+    "n0",
+    "m0",
+    "d0",
+    "n1",
+    "m1",
+    "d1",
+    "n2",
+    "m2",
+    "d2",
+    "n3",
+    "m3",
+    "d3",
+    "n4",
+    "m4",
+    "d4",
+    "n5",
+    "m5",
+    "d5",
+    "n6",
+    "m6",
+    "d6",
+    "n7",
+    "m7"
+   ],
+   "selectOptionsSample": "-- jan feb mar apr may jun jul aug sep oct nov dec -- 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 -- jan feb mar apr may jun jul aug sep oct nov dec -- 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 -- jan feb mar apr may j",
+   "unitToggle": false,
+   "wordsBeforeTool": 34,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 81,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 24,
+    "external": 0,
+    "contentInternal": 24,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "other",
+     "date calculator",
+     "+ Add more inputs",
+     "Clear",
+     "Settings",
+     "Time Calculator",
+     "Age Calculator",
+     "Other Calculators",
+     "Age",
+     "Date",
+     "Time",
+     "Hours",
+     "GPA",
+     "Grade",
+     "Height",
+     "Concrete",
+     "IP Subnet",
+     "Bra Size"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/date-calculator.html",
+     "https://www.calculator.net/date-calculator.html#",
+     "https://www.calculator.net/time-calculator.html",
+     "https://www.calculator.net/age-calculator.html",
+     "https://www.calculator.net/hours-calculator.html",
+     "https://www.calculator.net/gpa-calculator.html",
+     "https://www.calculator.net/grade-calculator.html",
+     "https://www.calculator.net/height-calculator.html",
+     "https://www.calculator.net/concrete-calculator.html",
+     "https://www.calculator.net/ip-subnet-calculator.html",
+     "https://www.calculator.net/bra-size-calculator.html",
+     "https://www.calculator.net/password-generator.html",
+     "https://www.calculator.net/dice-roller.html",
+     "https://www.calculator.net/conversion-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

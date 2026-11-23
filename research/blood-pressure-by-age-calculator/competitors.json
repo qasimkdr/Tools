@@ -1,0 +1,279 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/health/blood-pressure": {
+   "url": "https://www.omnicalculator.com/health/blood-pressure",
+   "finalUrl": "https://www.omnicalculator.com/health/blood-pressure",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T23:56:26.031Z",
+   "title": "Blood Pressure Calculator",
+   "metaDescription": "The blood pressure calculator helps you to check if your blood pressure is within the recommended ranges, both for Europeans and Americans.",
+   "canonical": "https://www.omnicalculator.com/health/blood-pressure",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Blood Pressure Calculator"
+   ],
+   "h2": [
+    "What is blood pressure?",
+    "How to calculate blood pressure",
+    "Blood pressure calculator",
+    "Is my blood pressure too high?",
+    "What is hypertension?",
+    "Is my blood pressure too low?",
+    "References"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Blood Pressure Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is blood pressure?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate blood pressure"
+    },
+    {
+     "level": 2,
+     "text": "Blood pressure calculator"
+    },
+    {
+     "level": 2,
+     "text": "Is my blood pressure too high?"
+    },
+    {
+     "level": 2,
+     "text": "What is hypertension?"
+    },
+    {
+     "level": 2,
+     "text": "Is my blood pressure too low?"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 928,
+   "avgSentenceWords": 27,
+   "faqs": [
+    "What is blood pressure?",
+    "Is my blood pressure too high?",
+    "What is hypertension?",
+    "Is my blood pressure too low?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "blood pressure",
+     "weight": 65
+    },
+    {
+     "term": "pressure",
+     "weight": 48
+    },
+    {
+     "term": "blood",
+     "weight": 45
+    },
+    {
+     "term": "high",
+     "weight": 11
+    },
+    {
+     "term": "calculator",
+     "weight": 10
+    },
+    {
+     "term": "mmhg",
+     "weight": 8
+    },
+    {
+     "term": "hypertension",
+     "weight": 8
+    },
+    {
+     "term": "pressure calculator",
+     "weight": 8
+    },
+    {
+     "term": "high blood",
+     "weight": 8
+    },
+    {
+     "term": "low",
+     "weight": 7
+    },
+    {
+     "term": "heart",
+     "weight": 7
+    },
+    {
+     "term": "american",
+     "weight": 7
+    },
+    {
+     "term": "guideline",
+     "weight": 6
+    },
+    {
+     "term": "normal",
+     "weight": 6
+    },
+    {
+     "term": "have",
+     "weight": 6
+    },
+    {
+     "term": "task force",
+     "weight": 6
+    },
+    {
+     "term": "european",
+     "weight": 6
+    },
+    {
+     "term": "european society",
+     "weight": 6
+    },
+    {
+     "term": "risk",
+     "weight": 5
+    },
+    {
+     "term": "too",
+     "weight": 5
+    },
+    {
+     "term": "systolic blood",
+     "weight": 5
+    },
+    {
+     "term": "too low",
+     "weight": 5
+    },
+    {
+     "term": "minutes before",
+     "weight": 5
+    },
+    {
+     "term": "american heart",
+     "weight": 5
+    },
+    {
+     "term": "heart association",
+     "weight": 5
+    },
+    {
+     "term": "low blood",
+     "weight": 5
+    },
+    {
+     "term": "systolic",
+     "weight": 4
+    },
+    {
+     "term": "diastolic",
+     "weight": 4
+    },
+    {
+     "term": "usually",
+     "weight": 4
+    },
+    {
+     "term": "measurement",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "The classification of normal blood pressure differs slightly depending on the guideline and should be lower than 120/80 mmHg (American guideline) or 130/85 mmHg (European guideline).",
+    "In adults, blood pressure can be considered high if it's greater than 130/80 mmHg or 140/90 mmHg, depending on the guideline.",
+    "Moreover, blood pressure that exceeds 180/120 mmHg can be considered a hypertensive crisis, and it is a life-threatening condition.",
+    "Low blood pressure (hypotension) can be defined as blood pressure below 90/60 mmHg; however, some people have low blood pressure all the time, and it is normal for them."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 10,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joanna Michałowska",
+    "published": "2020-03-27T13:06:00.307Z",
+    "modified": "2026-09-22T09:52:06.617Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 509,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 22,
+    "external": 1,
+    "contentInternal": 6,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Pediatric blood pressure calculator",
+     "mean arterial pressure",
+     "rate pressure product",
+     "CVD risk calculator",
+     "EROA mitral regurgitation calculator",
+     "ACFT Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/health/pediatric-blood-pressure",
+     "https://www.omnicalculator.com/health/mean-arterial-pressure",
+     "https://www.omnicalculator.com/health/rate-pressure-product",
+     "https://www.omnicalculator.com/health/cvd-risk",
+     "https://www.omnicalculator.com/health/eroa",
+     "https://www.omnicalculator.com/health/acft"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

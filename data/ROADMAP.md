@@ -92,14 +92,14 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 13 on policy hold).
 | 86 | 9 | live | Grade Curve Calculator | `grade-curve-calculator` | education | grade curve calculator | 1900 | 4 | 2900 | 2 |
 | 87 | 9 | live | Btu Calculator | `btu-calculator` | science | air conditioner size calculator | 1600 | 12 | 20500 | 1 |
 | 88 | 9 | live | Arrow Speed Calculator | `arrow-speed-calculator` | science | arrow speed calculator | 2900 | 10 | 2900 | 1 |
-| 89 | 9 | todo | Volume Calculator | `volume-calculator` | construction | pond volume calculator | 1600 | 12 | 248200 | 1 |
-| 90 | 9 | todo | Productivity Calculator | `productivity-calculator` | finance | productivity calculator | 2900 | 10 | 2900 | 1 |
-| 91 | 10 | todo | Date Difference Calculator | `date-difference-calculator` | time-date | time between calculator | 2900 | 10 | 7400 | 2 |
-| 92 | 10 | todo | Blood Pressure By Age Calculator | `blood-pressure-by-age-calculator` | health | blood pressure by age calculator | 2400 | 10 | 2400 | 1 |
+| 89 | 9 | live | Volume Calculator | `volume-calculator` | construction | pond volume calculator | 1600 | 12 | 248200 | 1 |
+| 90 | 9 | live | Productivity Calculator | `productivity-calculator` | finance | productivity calculator | 2900 | 10 | 2900 | 1 |
+| 91 | 10 | live | Date Difference Calculator | `date-difference-calculator` | time-date | time between calculator | 2900 | 10 | 7400 | 2 |
+| 92 | 10 | live | Blood Pressure By Age Calculator | `blood-pressure-by-age-calculator` | health | blood pressure by age calculator | 2400 | 10 | 2400 | 1 |
 | 93 | 10 | todo | Calories Burned Calculator | `calories-burned-calculator` | health | kcal burned walking calculator | 3600 | 33 | 45700 | 1 |
 | 94 | 10 | todo | Pine Straw Calculator | `pine-straw-calculator` | construction | pine straw calculator | 1000 | 0 | 1000 | 1 |
 | 95 | 10 | todo | Split Calculator | `split-calculator` | everyday | split calculator | 2400 | 8 | 2400 | 1 |
-| 96 | 10 | todo | Ohm's Law Calculator | `ohms-law-calculator` | science | ohm calculator | 1000 | 21 | 34500 | 1 |
+| 96 | 10 | live | Ohm's Law Calculator | `ohms-law-calculator` | science | ohm calculator | 1000 | 21 | 34500 | 1 |
 | 97 | 10 | todo | Fence Post Depth Calculator | `fence-post-depth-calculator` | construction | fence post depth calculator | 1600 | 3 | 1600 | 1 |
 | 98 | 10 | todo | Lead Time Calculator | `lead-time-calculator` | time-date | lead time calculator | 2900 | 11 | 2900 | 1 |
 | 99 | 10 | todo | Recessed Light Calculator | `recessed-light-calculator` | construction | recessed light calculator | 1600 | 6 | 3200 | 2 |

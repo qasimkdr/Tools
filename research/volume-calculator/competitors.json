@@ -1,0 +1,1562 @@
+{
+ "pages": {
+  "https://www.calculator.net/volume-calculator.html": {
+   "url": "https://www.calculator.net/volume-calculator.html",
+   "finalUrl": "https://www.calculator.net/volume-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T23:55:53.818Z",
+   "title": "Volume Calculator",
+   "metaDescription": "This free volume calculator computes the volumes of common shapes, including sphere, cone, cube, cylinder, capsule, cap, conical frustum, ellipsoid, and more.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Volume Calculator"
+   ],
+   "h2": [
+    "Sphere Volume Calculator",
+    "Cone Volume Calculator",
+    "Cube Volume Calculator",
+    "Cylinder Volume Calculator",
+    "Rectangular Tank Volume Calculator",
+    "Capsule Volume Calculator",
+    "Spherical Cap Volume Calculator",
+    "Conical Frustum Volume Calculator",
+    "Ellipsoid Volume Calculator",
+    "Square Pyramid Volume Calculator",
+    "Tube Volume Calculator"
+   ],
+   "h3": [
+    "Sphere",
+    "Cone",
+    "Cube",
+    "Cylinder",
+    "Rectangular Tank",
+    "Capsule",
+    "Spherical Cap",
+    "Conical Frustum",
+    "Ellipsoid",
+    "Square Pyramid",
+    "Tube Pyramid",
+    "Common Volume Units"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Sphere Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Cone Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Cube Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Cylinder Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Rectangular Tank Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Capsule Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Spherical Cap Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Conical Frustum Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Ellipsoid Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Square Pyramid Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tube Volume Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Sphere"
+    },
+    {
+     "level": 3,
+     "text": "Cone"
+    },
+    {
+     "level": 3,
+     "text": "Cube"
+    },
+    {
+     "level": 3,
+     "text": "Cylinder"
+    },
+    {
+     "level": 3,
+     "text": "Rectangular Tank"
+    },
+    {
+     "level": 3,
+     "text": "Capsule"
+    },
+    {
+     "level": 3,
+     "text": "Spherical Cap"
+    },
+    {
+     "level": 3,
+     "text": "Conical Frustum"
+    },
+    {
+     "level": 3,
+     "text": "Ellipsoid"
+    },
+    {
+     "level": 3,
+     "text": "Square Pyramid"
+    },
+    {
+     "level": 3,
+     "text": "Tube Pyramid"
+    },
+    {
+     "level": 3,
+     "text": "Common Volume Units"
+    }
+   ],
+   "wordCount": 2821,
+   "avgSentenceWords": 36,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "volume",
+     "weight": 77
+    },
+    {
+     "term": "height",
+     "weight": 25
+    },
+    {
+     "term": "radius",
+     "weight": 23
+    },
+    {
+     "term": "calculator",
+     "weight": 20
+    },
+    {
+     "term": "cone",
+     "weight": 20
+    },
+    {
+     "term": "volume calculator",
+     "weight": 20
+    },
+    {
+     "term": "sphere",
+     "weight": 18
+    },
+    {
+     "term": "spherical cap",
+     "weight": 15
+    },
+    {
+     "term": "base",
+     "weight": 14
+    },
+    {
+     "term": "spherical",
+     "weight": 14
+    },
+    {
+     "term": "pyramid",
+     "weight": 14
+    },
+    {
+     "term": "has",
+     "weight": 14
+    },
+    {
+     "term": "cylinder",
+     "weight": 13
+    },
+    {
+     "term": "length",
+     "weight": 12
+    },
+    {
+     "term": "three",
+     "weight": 12
+    },
+    {
+     "term": "equation",
+     "weight": 12
+    },
+    {
+     "term": "below volume",
+     "weight": 12
+    },
+    {
+     "term": "ice cream",
+     "weight": 12
+    },
+    {
+     "term": "below",
+     "weight": 11
+    },
+    {
+     "term": "given",
+     "weight": 11
+    },
+    {
+     "term": "three dimensional",
+     "weight": 11
+    },
+    {
+     "term": "cap",
+     "weight": 10
+    },
+    {
+     "term": "diameter",
+     "weight": 10
+    },
+    {
+     "term": "calculated",
+     "weight": 10
+    },
+    {
+     "term": "calculating",
+     "weight": 10
+    },
+    {
+     "term": "ball",
+     "weight": 9
+    },
+    {
+     "term": "square",
+     "weight": 9
+    },
+    {
+     "term": "cubic",
+     "weight": 9
+    },
+    {
+     "term": "follows volume",
+     "weight": 9
+    },
+    {
+     "term": "shapes",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "The SI unit for volume is the cubic meter, or m3.",
+    "She determines that she has a 15% preference for regular sugar cones over waffle cones and needs to determine whether the potential volume of the waffle cone is ≥ 15% more than that of the sugar cone.",
+    "The equation for calculating the volume of a cylinder is shown below: volume = πr2h where r is the radius and h is the height of the tank EX: Caelum wants to build a sandcastle in the living room of his house.",
+    "The equation for calculating the volume of a spherical cap is derived from that of a spherical segment, where the second radius is 0.",
+    "In reference to the spherical cap shown in the calculator: volume = 1 3 πh2(3R - h) Given two values, the calculator provided computes the third value and the volume.",
+    "Calculating the volume of a tube essentially involves the same formula as a cylinder (volume=pr2h), except that in this case, the diameter is used rather than the radius, and length is used rather than height."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 47,
+   "lists": 0,
+   "images": 12,
+   "videos": 0,
+   "calculatorInputs": [
+    "ballradius",
+    "ballradiusunit",
+    "coneradius",
+    "coneradiusunit",
+    "coneheight",
+    "coneheightunit",
+    "cubeedge",
+    "cubeedgeunit",
+    "ctankradius",
+    "ctankradiusunit",
+    "ctanklength",
+    "ctanklengthunit",
+    "rtanklength",
+    "rtanklengthunit",
+    "rtankwidth",
+    "rtankwidthunit",
+    "rtankheight",
+    "rtankheightunit",
+    "rcapsuleradius",
+    "rcapsuleradiusunit",
+    "rcapsuleheight",
+    "rcapsuleheightunit",
+    "ccapbaseradius",
+    "ccapbaseradiusunit",
+    "ccapballradius",
+    "ccapballradiusunit",
+    "ccapheight",
+    "ccapheightunit",
+    "rconicalfrustumtopradius",
+    "rconicalfrustumtopradiusunit",
+    "rconicalfrustumbottomradius",
+    "rconicalfrustumbottomradiusunit",
+    "rconicalfrustumheight",
+    "rconicalfrustumheightunit",
+    "rellipsoidaxis1",
+    "rellipsoidaxis1unit",
+    "rellipsoidaxis2",
+    "rellipsoidaxis2unit",
+    "rellipsoidaxis3",
+    "rellipsoidaxis3unit"
+   ],
+   "selectOptionsSample": "miles yards feet inches kilometers meters centimeters millimeters micrometers nanometers angstroms miles yards feet inches kilometers meters centimeters millimeters micrometers nanometers angstroms miles yards feet inches kilometers meters centimeters millimeters micrometers nanometers angstroms mil",
+   "unitToggle": true,
+   "wordsBeforeTool": 38,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 48,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 19,
+    "external": 0,
+    "contentInternal": 19,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "math",
+     "volume calculator",
+     "Surface Area Calculator",
+     "Area Calculator",
+     "Math Calculators",
+     "Scientific",
+     "Fraction",
+     "Percentage",
+     "Triangle",
+     "Volume",
+     "Standard Deviation",
+     "Random Number Generator",
+     "More Math Calculators",
+     "Financial",
+     "Fitness and Health",
+     "Math",
+     "Other",
+     "about us"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/volume-calculator.html",
+     "https://www.calculator.net/surface-area-calculator.html",
+     "https://www.calculator.net/area-calculator.html",
+     "https://www.calculator.net/scientific-calculator.html",
+     "https://www.calculator.net/fraction-calculator.html",
+     "https://www.calculator.net/percent-calculator.html",
+     "https://www.calculator.net/triangle-calculator.html",
+     "https://www.calculator.net/standard-deviation-calculator.html",
+     "https://www.calculator.net/random-number-generator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/volume-calculator/": {
+   "url": "https://www.inchcalculator.com/volume-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/volume-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T23:55:56.931Z",
+   "title": "Volume Calculator - With Formulas - Inch Calculator",
+   "metaDescription": "Calculate the volume of 3D shapes, including a cube, prism, cylinder, cone, pyramid, capsule, and cap, and see the volume formulas for each.",
+   "canonical": "https://www.inchcalculator.com/volume-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Volume Calculator"
+   ],
+   "h2": [
+    "Volume Formula",
+    "Tell Us What You Think",
+    "Results: Volume",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Find Volume",
+    "Volume Formulas",
+    "How to Find the Volume of an Irregular Object",
+    "Volume Measurement Tips",
+    "Common Volume Measurements",
+    "Frequently Asked Questions",
+    "Similar Geometry Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Volume of a Cube",
+    "Volume of a Rectangular Prism",
+    "Volume of a Sphere",
+    "Volume of a Cylinder",
+    "Volume of a Cone",
+    "Volume of a Pyramid",
+    "Volume of a Triangular Prism",
+    "Volume of a Capsule",
+    "Volume of a Hemisphere",
+    "Volume of a Spherical Cap",
+    "Measuring Volume Using Weight",
+    "What does volume tell us about an object?",
+    "Why is volume cubed?",
+    "Why is the volume of sphere 4/3πr³?",
+    "How is volume used in real life?",
+    "Is volume the same as weight?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Volume Formula"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Volume"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Find Volume"
+    },
+    {
+     "level": 2,
+     "text": "Volume Formulas"
+    },
+    {
+     "level": 3,
+     "text": "Volume of a Cube"
+    },
+    {
+     "level": 3,
+     "text": "Volume of a Rectangular Prism"
+    },
+    {
+     "level": 3,
+     "text": "Volume of a Sphere"
+    },
+    {
+     "level": 3,
+     "text": "Volume of a Cylinder"
+    },
+    {
+     "level": 3,
+     "text": "Volume of a Cone"
+    },
+    {
+     "level": 3,
+     "text": "Volume of a Pyramid"
+    },
+    {
+     "level": 3,
+     "text": "Volume of a Triangular Prism"
+    },
+    {
+     "level": 3,
+     "text": "Volume of a Capsule"
+    },
+    {
+     "level": 3,
+     "text": "Volume of a Hemisphere"
+    },
+    {
+     "level": 3,
+     "text": "Volume of a Spherical Cap"
+    },
+    {
+     "level": 2,
+     "text": "How to Find the Volume of an Irregular Object"
+    },
+    {
+     "level": 3,
+     "text": "Measuring Volume Using Weight"
+    },
+    {
+     "level": 2,
+     "text": "Volume Measurement Tips"
+    },
+    {
+     "level": 2,
+     "text": "Common Volume Measurements"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "What does volume tell us about an object?"
+    },
+    {
+     "level": 3,
+     "text": "Why is volume cubed?"
+    },
+    {
+     "level": 3,
+     "text": "Why is the volume of sphere 4/3πr³?"
+    },
+    {
+     "level": 3,
+     "text": "How is volume used in real life?"
+    },
+    {
+     "level": 3,
+     "text": "Is volume the same as weight?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Geometry Calculators"
+    }
+   ],
+   "wordCount": 1236,
+   "avgSentenceWords": 27,
+   "faqs": [
+    "What does volume tell us about an object?",
+    "Why is volume cubed?",
+    "Why is the volume of sphere 4/3&pi;r&sup3;?",
+    "How is volume used in real life?",
+    "Is volume the same as weight?",
+    "Why is the volume of sphere 4/3πr³?"
+   ],
+   "faqSchemaCount": 5,
+   "topics": [
+    {
+     "term": "volume",
+     "weight": 74
+    },
+    {
+     "term": "height",
+     "weight": 15
+    },
+    {
+     "term": "find",
+     "weight": 14
+    },
+    {
+     "term": "cubic",
+     "weight": 14
+    },
+    {
+     "term": "water",
+     "weight": 14
+    },
+    {
+     "term": "radius",
+     "weight": 13
+    },
+    {
+     "term": "object",
+     "weight": 13
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "volume calculator",
+     "weight": 9
+    },
+    {
+     "term": "length",
+     "weight": 9
+    },
+    {
+     "term": "irregular",
+     "weight": 9
+    },
+    {
+     "term": "irregular object",
+     "weight": 9
+    },
+    {
+     "term": "formula",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "calculate",
+     "weight": 7
+    },
+    {
+     "term": "measurements",
+     "weight": 7
+    },
+    {
+     "term": "unit",
+     "weight": 6
+    },
+    {
+     "term": "edge length",
+     "weight": 6
+    },
+    {
+     "term": "r2h",
+     "weight": 6
+    },
+    {
+     "term": "find volume",
+     "weight": 6
+    },
+    {
+     "term": "height volume",
+     "weight": 6
+    },
+    {
+     "term": "used",
+     "weight": 6
+    },
+    {
+     "term": "edge",
+     "weight": 5
+    },
+    {
+     "term": "formulas",
+     "weight": 5
+    },
+    {
+     "term": "measuring",
+     "weight": 5
+    },
+    {
+     "term": "weight",
+     "weight": 5
+    },
+    {
+     "term": "has",
+     "weight": 5
+    },
+    {
+     "term": "three",
+     "weight": 5
+    },
+    {
+     "term": "measure",
+     "weight": 5
+    },
+    {
+     "term": "amount",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Volume of a Cube V = a3 a = edge a length Volume of a Rectangular Prism V = l × w × h l = length w = width h = height This is the formula our LxWxH box volume calculator uses.",
+    "Volume of a Sphere V = 4 / 3πr3 r = radius Volume of a Cylinder V = πr2h r = radius h = height Volume of a Cone V = 1 / 3πr2h r = radius h = height You can also use our cone volume calculator to solve this."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 2,
+   "images": 23,
+   "videos": 0,
+   "calculatorInputs": [
+    "Shape",
+    "Edge Length",
+    "Edge Length Units",
+    "Length",
+    "Length Units",
+    "Width",
+    "Width Units",
+    "Radius",
+    "Radius Units",
+    "Side a",
+    "Side a Units",
+    "Side b",
+    "Side b Units",
+    "Side c",
+    "Side c Units",
+    "Height",
+    "Height Units",
+    "Volume Unit"
+   ],
+   "selectOptionsSample": "cuboid cube sphere cylinder cone triangular prism pyramid capsule hemisphere cap in ft yd mm cm m in ft yd mm cm m in ft yd mm cm m in ft yd mm cm m in ft yd mm cm m in ft yd mm cm m in ft yd mm cm m in ft yd mm cm m in³ ft³ yd³ mm³ cm³ m³",
+   "unitToggle": true,
+   "wordsBeforeTool": 19,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2015-02-28",
+    "modified": "2026-07-28T14:59:20+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 148,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 66,
+    "external": 13,
+    "contentInternal": 42,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Volume Calculator - Find Volume",
+     "How to Find Volume",
+     "Volume Formulas",
+     "Volume of a Cube",
+     "Volume of a Rectangular Prism",
+     "Volume of a Sphere",
+     "Volume of a Cylinder",
+     "Volume of a Cone",
+     "Volume of a Pyramid",
+     "Volume of a Triangular Prism",
+     "Volume of a Capsule",
+     "Volume of a Hemisphere",
+     "Volume of a Spherical Cap",
+     "How to Find the Volume of an Irregular Object",
+     "Measuring Volume Using Weight",
+     "Volume Measurement Tips",
+     "Common Volume Measurements",
+     "Frequently Asked Questions"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/volume-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/volume/",
+     "https://www.inchcalculator.com/volume-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/volume-calculator/#idx_how_to_find_volume",
+     "https://www.inchcalculator.com/volume-calculator/#idx_volume_formulas",
+     "https://www.inchcalculator.com/volume-calculator/#idx_volume_of_a_cube",
+     "https://www.inchcalculator.com/volume-calculator/#idx_volume_of_a_rectangular_prism",
+     "https://www.inchcalculator.com/volume-calculator/#idx_volume_of_a_sphere",
+     "https://www.inchcalculator.com/volume-calculator/#idx_volume_of_a_cylinder",
+     "https://www.inchcalculator.com/volume-calculator/#idx_volume_of_a_cone",
+     "https://www.inchcalculator.com/volume-calculator/#idx_volume_of_a_pyramid",
+     "https://www.inchcalculator.com/volume-calculator/#idx_volume_of_a_triangular_prism",
+     "https://www.inchcalculator.com/volume-calculator/#idx_volume_of_a_capsule",
+     "https://www.inchcalculator.com/volume-calculator/#idx_volume_of_a_hemisphere",
+     "https://www.inchcalculator.com/volume-calculator/#idx_volume_of_a_spherical_cap",
+     "https://www.inchcalculator.com/volume-calculator/#idx_how_to_find_the_volume_of_an_irregular_object",
+     "https://www.inchcalculator.com/volume-calculator/#idx_measuring_volume_using_weight",
+     "https://www.inchcalculator.com/volume-calculator/#idx_volume_measurement_tips",
+     "https://www.inchcalculator.com/volume-calculator/#idx_common_volume_measurements",
+     "https://www.inchcalculator.com/volume-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/pateakia-heath/",
+     "https://www.inchcalculator.com/volume-calculator/",
+     "https://www.inchcalculator.com/cubic-yards-calculator/",
+     "https://www.inchcalculator.com/cubic-footage-calculator/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fvolume-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fvolume-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fvolume-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fvolume-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fvolume-calculator%2F&text=Volume+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fvolume-calculator%2F&text=Volume+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/math/volume": {
+   "url": "https://www.omnicalculator.com/math/volume",
+   "finalUrl": "https://www.omnicalculator.com/math/volume",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T23:56:00.159Z",
+   "title": "Volume Calculator",
+   "metaDescription": "Calculate the volume of numerous regular shapes with ease using our versatile volume calculator. Need to calculate the volume of a box? Try this tool.",
+   "canonical": "https://www.omnicalculator.com/math/volume",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Volume Calculator"
+   ],
+   "h2": [
+    "What is volume? — Volume definition",
+    "Volume units and conversion table",
+    "How to calculate volume? — Volume formulas",
+    "Volume calculator and tools dedicated to specific shapes",
+    "How do I use the volume calculator?",
+    "Measuring the volume of solids, liquids and gases",
+    "How to find the volume of a rectangle vs volume of a box",
+    "Real-life applications",
+    "FAQs"
+   ],
+   "h3": [
+    "How to find volume?",
+    "How do I measure volume?",
+    "Is volume squared or cubed?",
+    "How do I calculate volume?",
+    "What is volume measured in?",
+    "How to find volume of a liquid?",
+    "What is the SI unit for volume?",
+    "Is volume intensive or extensive?",
+    "What is the difference between surface area and volume?",
+    "How to find the volume of an irregular-shaped object?",
+    "What does volume measure?",
+    "What is the volume of the Earth?",
+    "How do I calculate surface area to volume ratio?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is volume? — Volume definition"
+    },
+    {
+     "level": 2,
+     "text": "Volume units and conversion table"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate volume? — Volume formulas"
+    },
+    {
+     "level": 2,
+     "text": "Volume calculator and tools dedicated to specific shapes"
+    },
+    {
+     "level": 2,
+     "text": "How do I use the volume calculator?"
+    },
+    {
+     "level": 2,
+     "text": "Measuring the volume of solids, liquids and gases"
+    },
+    {
+     "level": 2,
+     "text": "How to find the volume of a rectangle vs volume of a box"
+    },
+    {
+     "level": 2,
+     "text": "Real-life applications"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How to find volume?"
+    },
+    {
+     "level": 3,
+     "text": "How do I measure volume?"
+    },
+    {
+     "level": 3,
+     "text": "Is volume squared or cubed?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate volume?"
+    },
+    {
+     "level": 3,
+     "text": "What is volume measured in?"
+    },
+    {
+     "level": 3,
+     "text": "How to find volume of a liquid?"
+    },
+    {
+     "level": 3,
+     "text": "What is the SI unit for volume?"
+    },
+    {
+     "level": 3,
+     "text": "Is volume intensive or extensive?"
+    },
+    {
+     "level": 3,
+     "text": "What is the difference between surface area and volume?"
+    },
+    {
+     "level": 3,
+     "text": "How to find the volume of an irregular-shaped object?"
+    },
+    {
+     "level": 3,
+     "text": "What does volume measure?"
+    },
+    {
+     "level": 3,
+     "text": "What is the volume of the Earth?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate surface area to volume ratio?"
+    }
+   ],
+   "wordCount": 3349,
+   "avgSentenceWords": 23,
+   "faqs": [
+    "How to find volume?",
+    "How do I measure volume?",
+    "Is volume squared or cubed?",
+    "How do I calculate volume?",
+    "What is volume measured in?",
+    "How to find volume of a liquid?",
+    "What is the SI unit for volume?",
+    "Is volume intensive or extensive?",
+    "What is the difference between surface area and volume?",
+    "How to find the volume of an irregular-shaped object?",
+    "What does volume measure?",
+    "What is the volume of the Earth?",
+    "How do I calculate surface area to volume ratio?",
+    "How do I use the volume calculator?"
+   ],
+   "faqSchemaCount": 13,
+   "topics": [
+    {
+     "term": "volume",
+     "weight": 127
+    },
+    {
+     "term": "cubic",
+     "weight": 31
+    },
+    {
+     "term": "calculator",
+     "weight": 20
+    },
+    {
+     "term": "area",
+     "weight": 19
+    },
+    {
+     "term": "height",
+     "weight": 18
+    },
+    {
+     "term": "object",
+     "weight": 18
+    },
+    {
+     "term": "shape",
+     "weight": 17
+    },
+    {
+     "term": "cylinder",
+     "weight": 17
+    },
+    {
+     "term": "find",
+     "weight": 17
+    },
+    {
+     "term": "radius",
+     "weight": 17
+    },
+    {
+     "term": "volume calculator",
+     "weight": 17
+    },
+    {
+     "term": "surface area",
+     "weight": 17
+    },
+    {
+     "term": "measure",
+     "weight": 16
+    },
+    {
+     "term": "calculate",
+     "weight": 15
+    },
+    {
+     "term": "box",
+     "weight": 15
+    },
+    {
+     "term": "water",
+     "weight": 15
+    },
+    {
+     "term": "unit",
+     "weight": 12
+    },
+    {
+     "term": "container",
+     "weight": 11
+    },
+    {
+     "term": "surface",
+     "weight": 11
+    },
+    {
+     "term": "gas",
+     "weight": 11
+    },
+    {
+     "term": "rectangular",
+     "weight": 10
+    },
+    {
+     "term": "amount",
+     "weight": 10
+    },
+    {
+     "term": "gallons",
+     "weight": 10
+    },
+    {
+     "term": "have",
+     "weight": 10
+    },
+    {
+     "term": "liquid",
+     "weight": 10
+    },
+    {
+     "term": "check",
+     "weight": 9
+    },
+    {
+     "term": "space",
+     "weight": 9
+    },
+    {
+     "term": "want",
+     "weight": 9
+    },
+    {
+     "term": "radius height",
+     "weight": 9
+    },
+    {
+     "term": "prism",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "Cubic meter (m3) is an SI unit for volume.",
+    "Let's look at the example of how to use this volume calculator: Select the 3D shape type.",
+    "How to find the volume of a rectangle vs volume of a box You can't calculate a volume of a rectangle, a volume of a circle, or a volume of a square because they are 2-dimensional geometric figures.",
+    "What you're probably looking for is the volume of a rectangular cuboid (or, in more common terms, you want to find the volume of a box), which is a 3-dimensional object.",
+    "For example, if a box is 5×7×2 cm, then the volume of a box is 70 cubic centimeters.",
+    "For other 3D shapes, check Omni's Volume Calculator.",
+    "A volume is a 3D measure, while surface area is two-dimensional.",
+    "The volume tells us about the cubic space that an object occupies, and the surface area is the sum of all areas forming the 3D shape.",
+    "Repeat step 5 for another marked level and subtract the volumes.",
+    "The volume of the Earth is approximately equal to 1.08321×1012 km³ (1.08 trillion cubic kilometers), or 2.59876×1011 cu mi (259 billion cubic miles)."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 16,
+   "images": 10,
+   "videos": 0,
+   "calculatorInputs": [
+    "Shape"
+   ],
+   "selectOptionsSample": "select cube rectangular prism (box) sphere hemisphere spherical cap ellipsoid cylinder hollow cylinder / tube capsule cone conical frustum triangular prism pyramid truncated pyramid",
+   "unitToggle": true,
+   "wordsBeforeTool": 3,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Hanna Pamuła",
+    "published": "2015-12-09T00:29:18.728Z",
+    "modified": "2026-07-14T17:07:37.398Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 1371,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 25,
+    "external": 1,
+    "contentInternal": 9,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "aquarium",
+     "tank volume calculator",
+     "volume converter",
+     "grams to cups calculator",
+     "rectangular prism formula",
+     "right cylinder calculator",
+     "concrete calculator",
+     "potting soil calculator",
+     "surface area calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/other/aquarium-volume",
+     "https://www.omnicalculator.com/construction/tank-volume",
+     "https://www.omnicalculator.com/conversion/volume-conversion",
+     "https://www.omnicalculator.com/food/grams-to-cups",
+     "https://www.omnicalculator.com/math/rectangular-prism",
+     "https://www.omnicalculator.com/math/right-cylinder",
+     "https://www.omnicalculator.com/construction/concrete-slab",
+     "https://www.omnicalculator.com/biology/potting-soil-calculator",
+     "https://www.omnicalculator.com/math/surface-area"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/geometry-solids/volume.php": {
+   "url": "https://www.calculatorsoup.com/calculators/geometry-solids/volume.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/geometry-solids/volume.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-22T23:56:03.371Z",
+   "title": "Volume Calculator",
+   "metaDescription": "Calculator online on how to calculate volume of capsule, cone, conical frustum, cube, cylinder, hemisphere, pyramid, rectangular prism, triangular prism and sphere. Calculate volume of geometric solids.  Volume formulas. Free online calculators for area, volume and surface area.",
+   "canonical": "https://www.calculatorsoup.com/calculators/geometry-solids/volume.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Volume Calculator"
+   ],
+   "h2": [
+    "Volume Formulas:"
+   ],
+   "h3": [
+    "Capsule Volume",
+    "Circular Cone Volume & Surface Area",
+    "Circular Cylinder Volume",
+    "Conical Frustum Volume",
+    "Cube Volume",
+    "Hemisphere Volume",
+    "Pyramid Volume",
+    "Rectangular Prism Volume",
+    "Sphere Volume",
+    "Spherical Cap Volume",
+    "Triangular Prism Volume",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Volume Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Volume Formulas:"
+    },
+    {
+     "level": 3,
+     "text": "Capsule Volume"
+    },
+    {
+     "level": 3,
+     "text": "Circular Cone Volume & Surface Area"
+    },
+    {
+     "level": 3,
+     "text": "Circular Cylinder Volume"
+    },
+    {
+     "level": 3,
+     "text": "Conical Frustum Volume"
+    },
+    {
+     "level": 3,
+     "text": "Cube Volume"
+    },
+    {
+     "level": 3,
+     "text": "Hemisphere Volume"
+    },
+    {
+     "level": 3,
+     "text": "Pyramid Volume"
+    },
+    {
+     "level": 3,
+     "text": "Rectangular Prism Volume"
+    },
+    {
+     "level": 3,
+     "text": "Sphere Volume"
+    },
+    {
+     "level": 3,
+     "text": "Spherical Cap Volume"
+    },
+    {
+     "level": 3,
+     "text": "Triangular Prism Volume"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 498,
+   "avgSentenceWords": 50,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "surface area",
+     "weight": 38
+    },
+    {
+     "term": "volume",
+     "weight": 34
+    },
+    {
+     "term": "surface",
+     "weight": 25
+    },
+    {
+     "term": "area",
+     "weight": 25
+    },
+    {
+     "term": "volume volume",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "volume calculator",
+     "weight": 9
+    },
+    {
+     "term": "total surface",
+     "weight": 9
+    },
+    {
+     "term": "base surface",
+     "weight": 8
+    },
+    {
+     "term": "calculators",
+     "weight": 7
+    },
+    {
+     "term": "total",
+     "weight": 7
+    },
+    {
+     "term": "lateral surface",
+     "weight": 6
+    },
+    {
+     "term": "lateral",
+     "weight": 5
+    },
+    {
+     "term": "base",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators geometry",
+     "weight": 5
+    },
+    {
+     "term": "r12 r22",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "geometry",
+     "weight": 4
+    },
+    {
+     "term": "units",
+     "weight": 4
+    },
+    {
+     "term": "pyramid",
+     "weight": 4
+    },
+    {
+     "term": "r12",
+     "weight": 4
+    },
+    {
+     "term": "r22",
+     "weight": 4
+    },
+    {
+     "term": "calculator volume",
+     "weight": 3
+    },
+    {
+     "term": "calculate",
+     "weight": 3
+    },
+    {
+     "term": "side length",
+     "weight": 3
+    },
+    {
+     "term": "length",
+     "weight": 3
+    },
+    {
+     "term": "height",
+     "weight": 3
+    },
+    {
+     "term": "pyramid calculator",
+     "weight": 3
+    },
+    {
+     "term": "rectangular prism",
+     "weight": 3
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 10,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Calculate the Volume of:",
+    "side length a =",
+    "height h =",
+    "Units",
+    "reset"
+   ],
+   "selectOptionsSample": "capsule cone conical frustum cube cylinder hemisphere pyramid: square rectangular prism sphere spherical cap triangular prism km m cm mm mi yd ft in",
+   "unitToggle": true,
+   "wordsBeforeTool": 18,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "October 1, 2026",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 60,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 28,
+    "external": 0,
+    "contentInternal": 18,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Geometry",
+     "Solid",
+     "Volume Calculator",
+     "Images",
+     "Pyramid Calculator",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Capsule",
+     "Circular Cone",
+     "Circular Cylinder",
+     "Conical Frustum",
+     "Cube",
+     "Hemisphere",
+     "Pyramid",
+     "Rectangular Prism",
+     "Sphere",
+     "Triangular Prism"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/geometry-calculators.php",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/volume.php",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/volume.php#calculationImage",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/pyramid.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=geometry-calculators.php&folderName=Geometry&folder2=geometry-solids%2F&folderName2=Solid&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/geometry-solids/volume.php&h1=Volume+Calculator&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/capsule.php",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/cone.php",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/cylinder.php",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/conicalfrustum.php",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/cube.php",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/hemisphere.php",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/rectangularprism.php",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/sphere.php",
+     "https://www.calculatorsoup.com/calculators/geometry-solids/triangular-prism.php"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

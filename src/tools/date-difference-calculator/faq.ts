@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How do I calculate the number of days between two dates?", a: "Subtract the earlier date from the later one. From January 1 to December 25, 2026 is 358 days. If you count both the first and last day (for example, days of a trip or an event), add one: 359 days." },
+  { q: "Should I include the end date?", a: "It depends on what you're counting. For elapsed time (how long until a date, or someone's age), don't include it. For inclusive periods such as hotel stays, project days or rental days where both the first and last day count, tick 'Include the end date'." },
+  { q: "How are business days counted?", a: "Business days are Monday to Friday. The calculator counts weekdays from the start date up to the end date, and can also subtract U.S. federal holidays (observed dates) that fall on weekdays. January 1 to December 25, 2026 has 256 weekdays, or 246 after the 10 federal holidays in that range." },
+  { q: "How do you calculate years, months and days between dates?", a: "Count whole years first, then whole months, then the remaining days. Months are counted by calendar date, so January 31 to February 28 is 28 days rather than one month; this matches how ages are calculated." },
+  { q: "How many weeks are between two dates?", a: "Divide the total days by 7. 358 days is 51 weeks and 1 day." },
+  { q: "Does the calculator handle leap years and daylight saving time?", a: "Yes for leap years: day counts use the real calendar, including February 29. When you add times, the exact hours follow your device's local time, so a range that crosses a daylight saving change can be an hour shorter or longer than days × 24." },
+];

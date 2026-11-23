@@ -1,0 +1,243 @@
+{
+ "keywords": {
+  "blood pressure by age calculator": {
+   "fetchedAt": "2026-11-22T23:55:52.027Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 2400,
+   "fileKd": 10,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.bcm.edu/bodycomplab/BPappZjs/BPvAgeAPPz.html",
+     "domain": "www.bcm.edu",
+     "title": "Age-based Pediatric Blood Pressure Reference Charts",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.medicoverhospitals.in/articles/blood-pressure-by-age-calculator",
+     "domain": "www.medicoverhospitals.in",
+     "title": "blood pressure by age calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.bcm.edu/bodycomplab/Flashapps/BPVAgeChartpage.html",
+     "domain": "www.bcm.edu",
+     "title": "USDA/ARS Children's Nutrition Research Center, Houston, Texas",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://cvs.pantherdb.org/?p=1229976",
+     "domain": "cvs.pantherdb.org",
+     "title": "Blood Pressure by Age Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.omnicalculator.com/health/pediatric-blood-pressure",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://cvs.pantherdb.org/tag/cardiovascular-system/",
+     "domain": "cvs.pantherdb.org",
+     "title": "Blood Pressure by Age Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://healthinfo.healthengine.com.au/blood-pressure-calculator",
+     "domain": "healthinfo.healthengine.com.au",
+     "title": "blood pressure calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://oviva.com/uk/en/normal-blood-pressure-by-age/",
+     "domain": "oviva.com",
+     "title": "normal blood pressure by age",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://omnicalculator.com/health/blood-pressure",
+     "domain": "omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.medicinenet.com/blood_pressure_chart_reading_by_age/article.htm",
+     "domain": "www.medicinenet.com",
+     "title": "What is blood pressure?",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.baptisthealth.com/blog/blood-pressure-by-age-and-gender",
+     "domain": "www.baptisthealth.com",
+     "title": "Understanding Blood Pressure Levels by Age",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.medicinenet.com/blood_pressure_reading_range_age_men_women_chart/article.htm",
+     "domain": "www.medicinenet.com",
+     "title": "Normal Blood Pressure Ranges by Age For Men and Women",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.medicinenet.com/what_is_normal_blood_pressure_and_pulse_by_age/article.htm",
+     "domain": "www.medicinenet.com",
+     "title": "What is normal blood pressure by age?",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://wba.omnicalculator.com/health/pediatric-blood-pressure",
+     "domain": "wba.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://medindia.net/patients/calculators/blood-pressure-calculator.asp",
+     "domain": "medindia.net",
+     "title": "blood pressure calculator",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://adityabirlacapital.com/healthinsurance/active-together/?p=60875",
+     "domain": "adityabirlacapital.com",
+     "title": "active together",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://alexchalu.github.io/healthcalcs/blood-pressure-chart.html",
+     "domain": "alexchalu.github.io",
+     "title": "Blood Pressure Chart by Age",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://www.adityabirlacapital.com/healthinsurance/active-together/2022/02/11/how-to-maintain-a-normal-blood-pressure-range-as-per-your-age/",
+     "domain": "www.adityabirlacapital.com",
+     "title": "how to maintain a normal blood pressure range as per your age",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "blood-pressure-by-age-calculator",
+ "page": "blood-pressure-by-age-calculator",
+ "category": "health",
+ "name": "Blood Pressure By Age Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T23:55:52.027Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 5,
+   "keywords": 3,
+   "urls": [
+    "https://www.omnicalculator.com/health/pediatric-blood-pressure",
+    "https://omnicalculator.com/health/blood-pressure",
+    "https://wba.omnicalculator.com/health/pediatric-blood-pressure"
+   ]
+  },
+  {
+   "domain": "medicinenet.com",
+   "bestRank": 10,
+   "keywords": 3,
+   "urls": [
+    "https://www.medicinenet.com/blood_pressure_chart_reading_by_age/article.htm",
+    "https://www.medicinenet.com/blood_pressure_reading_range_age_men_women_chart/article.htm",
+    "https://www.medicinenet.com/what_is_normal_blood_pressure_and_pulse_by_age/article.htm"
+   ]
+  },
+  {
+   "domain": "bcm.edu",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://www.bcm.edu/bodycomplab/BPappZjs/BPvAgeAPPz.html",
+    "https://www.bcm.edu/bodycomplab/Flashapps/BPVAgeChartpage.html"
+   ]
+  },
+  {
+   "domain": "pantherdb.org",
+   "bestRank": 4,
+   "keywords": 2,
+   "urls": [
+    "https://cvs.pantherdb.org/?p=1229976",
+    "https://cvs.pantherdb.org/tag/cardiovascular-system/"
+   ]
+  },
+  {
+   "domain": "adityabirlacapital.com",
+   "bestRank": 16,
+   "keywords": 2,
+   "urls": [
+    "https://adityabirlacapital.com/healthinsurance/active-together/?p=60875",
+    "https://www.adityabirlacapital.com/healthinsurance/active-together/2022/02/11/how-to-maintain-a-normal-blood-pressure-range-as-per-your-age/"
+   ]
+  },
+  {
+   "domain": "medicoverhospitals.in",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.medicoverhospitals.in/articles/blood-pressure-by-age-calculator"
+   ]
+  },
+  {
+   "domain": "healthengine.com.au",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://healthinfo.healthengine.com.au/blood-pressure-calculator"
+   ]
+  },
+  {
+   "domain": "oviva.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://oviva.com/uk/en/normal-blood-pressure-by-age/"
+   ]
+  },
+  {
+   "domain": "baptisthealth.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://www.baptisthealth.com/blog/blood-pressure-by-age-and-gender"
+   ]
+  },
+  {
+   "domain": "medindia.net",
+   "bestRank": 15,
+   "keywords": 1,
+   "urls": [
+    "https://medindia.net/patients/calculators/blood-pressure-calculator.asp"
+   ]
+  }
+ ]
+}

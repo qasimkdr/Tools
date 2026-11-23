@@ -1,0 +1,960 @@
+{
+ "pages": {
+  "https://www.calculator.net/ohms-law-calculator.html": {
+   "url": "https://www.calculator.net/ohms-law-calculator.html",
+   "finalUrl": "https://www.calculator.net/ohms-law-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-22T23:56:29.584Z",
+   "title": "Ohms Law Calculator",
+   "metaDescription": "This free Ohm's Law calculator solves for any of the variables in the Ohm's Law equation using various units of measurement and gives out the solving steps.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Ohms Law Calculator"
+   ],
+   "h2": [],
+   "h3": [
+    "Ohm's Law",
+    "Electrical Power",
+    "Ohm's Law Formula Wheel"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Ohms Law Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Ohm's Law"
+    },
+    {
+     "level": 3,
+     "text": "Electrical Power"
+    },
+    {
+     "level": 3,
+     "text": "Ohm's Law Formula Wheel"
+    }
+   ],
+   "wordCount": 368,
+   "avgSentenceWords": 31,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "ohm's law",
+     "weight": 11
+    },
+    {
+     "term": "law",
+     "weight": 10
+    },
+    {
+     "term": "ohm's",
+     "weight": 7
+    },
+    {
+     "term": "power",
+     "weight": 7
+    },
+    {
+     "term": "calculator",
+     "weight": 5
+    },
+    {
+     "term": "voltage",
+     "weight": 4
+    },
+    {
+     "term": "current",
+     "weight": 4
+    },
+    {
+     "term": "electric",
+     "weight": 4
+    },
+    {
+     "term": "wheel",
+     "weight": 4
+    },
+    {
+     "term": "ohms",
+     "weight": 3
+    },
+    {
+     "term": "ohms law",
+     "weight": 3
+    },
+    {
+     "term": "law calculator",
+     "weight": 3
+    },
+    {
+     "term": "equations",
+     "weight": 3
+    },
+    {
+     "term": "resistance",
+     "weight": 3
+    },
+    {
+     "term": "shown below",
+     "weight": 3
+    },
+    {
+     "term": "below",
+     "weight": 3
+    },
+    {
+     "term": "formula wheel",
+     "weight": 3
+    },
+    {
+     "term": "financial fitness",
+     "weight": 3
+    },
+    {
+     "term": "health math",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "sign in home / other / ohms law calculator Ohms Law Calculator Please provide any 2 values and click \"Calculate\" to get the other values in the ohm's law equations V = I × R and P = V × I.",
+    "P = V × I P = V2 R P = I2 × R Where: P is power in Watts Ohm's Law Formula Wheel Below is a formula wheel for Ohm's Law relationships between P, I, V, and R."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 8,
+   "lists": 0,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "v",
+    "vunit",
+    "c",
+    "cunit",
+    "r",
+    "runit",
+    "p",
+    "punit"
+   ],
+   "selectOptionsSample": "kilovolts [kv] volts [v] millivolts [mv] amperes [a] milliamperes [ma] ohms [ω] kilohms [kω] megohms [mω] watts [w] kilowatts [kw] megawatts [mw] horsepowers btu/h",
+   "unitToggle": false,
+   "wordsBeforeTool": 43,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 10,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 25,
+    "external": 0,
+    "contentInternal": 25,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "other",
+     "ohms law calculator",
+     "resistor calculator",
+     "Other Calculators",
+     "Age",
+     "Date",
+     "Time",
+     "Hours",
+     "GPA",
+     "Grade",
+     "Height",
+     "Concrete",
+     "IP Subnet",
+     "Bra Size",
+     "Password Generator",
+     "Dice Roller",
+     "Conversion",
+     "More Other Calculators"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/ohms-law-calculator.html",
+     "https://www.calculator.net/resistor-calculator.html",
+     "https://www.calculator.net/age-calculator.html",
+     "https://www.calculator.net/date-calculator.html",
+     "https://www.calculator.net/time-calculator.html",
+     "https://www.calculator.net/hours-calculator.html",
+     "https://www.calculator.net/gpa-calculator.html",
+     "https://www.calculator.net/grade-calculator.html",
+     "https://www.calculator.net/height-calculator.html",
+     "https://www.calculator.net/concrete-calculator.html",
+     "https://www.calculator.net/ip-subnet-calculator.html",
+     "https://www.calculator.net/bra-size-calculator.html",
+     "https://www.calculator.net/password-generator.html",
+     "https://www.calculator.net/dice-roller.html",
+     "https://www.calculator.net/conversion-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/ohms-law-calculator/": {
+   "url": "https://www.inchcalculator.com/ohms-law-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/ohms-law-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-22T23:56:32.664Z",
+   "title": "Ohm's Law Calculator and Electrical Formulas - Inch Calculator",
+   "metaDescription": "Use the Ohm's Law calculator to quickly calculate voltage, current, power, or resistance, plus learn the Ohm's Law formula and how to use it.",
+   "canonical": "https://www.inchcalculator.com/ohms-law-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Ohm’s Law Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Calculation & Formulas",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Use Ohm’s Law",
+    "Watt’s Law Power Formula",
+    "Ohm’s Law Wheel",
+    "Frequently Asked Questions",
+    "Similar Electrical Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Ohm’s Law Formula",
+    "Components of Ohm’s Law",
+    "Ohm’s Law Triangle",
+    "Power Formula Triangle",
+    "Ohm’s Law Wheel Formulas",
+    "Formula Examples",
+    "What do the letters in the Ohm's Law formula mean?",
+    "What are the Ohm's Law formulas for three-phase circuits?",
+    "Does Ohm's Law apply to AC or DC circuits?",
+    "How is Ohm's Law used in real life?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Ohm’s Law Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Calculation & Formulas"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Use Ohm’s Law"
+    },
+    {
+     "level": 3,
+     "text": "Ohm’s Law Formula"
+    },
+    {
+     "level": 3,
+     "text": "Components of Ohm’s Law"
+    },
+    {
+     "level": 3,
+     "text": "Ohm’s Law Triangle"
+    },
+    {
+     "level": 2,
+     "text": "Watt’s Law Power Formula"
+    },
+    {
+     "level": 3,
+     "text": "Power Formula Triangle"
+    },
+    {
+     "level": 2,
+     "text": "Ohm’s Law Wheel"
+    },
+    {
+     "level": 3,
+     "text": "Ohm’s Law Wheel Formulas"
+    },
+    {
+     "level": 4,
+     "text": "Voltage Formulas"
+    },
+    {
+     "level": 4,
+     "text": "Power Formulas"
+    },
+    {
+     "level": 4,
+     "text": "Current Formulas"
+    },
+    {
+     "level": 4,
+     "text": "Resistance Formulas"
+    },
+    {
+     "level": 3,
+     "text": "Formula Examples"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "What do the letters in the Ohm's Law formula mean?"
+    },
+    {
+     "level": 3,
+     "text": "What are the Ohm's Law formulas for three-phase circuits?"
+    },
+    {
+     "level": 3,
+     "text": "Does Ohm's Law apply to AC or DC circuits?"
+    },
+    {
+     "level": 3,
+     "text": "How is Ohm's Law used in real life?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Electrical Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 1613,
+   "avgSentenceWords": 29,
+   "faqs": [
+    "What do the letters in the Ohm's Law formula mean?",
+    "What are the Ohm's Law formulas for three-phase circuits?",
+    "Does Ohm's Law apply to AC or DC circuits?",
+    "How is Ohm's Law used in real life?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "law",
+     "weight": 51
+    },
+    {
+     "term": "current",
+     "weight": 45
+    },
+    {
+     "term": "power",
+     "weight": 44
+    },
+    {
+     "term": "ohm",
+     "weight": 42
+    },
+    {
+     "term": "voltage",
+     "weight": 41
+    },
+    {
+     "term": "resistance",
+     "weight": 35
+    },
+    {
+     "term": "formula",
+     "weight": 23
+    },
+    {
+     "term": "voltage current",
+     "weight": 18
+    },
+    {
+     "term": "electrical",
+     "weight": 18
+    },
+    {
+     "term": "calculator",
+     "weight": 17
+    },
+    {
+     "term": "formulas",
+     "weight": 15
+    },
+    {
+     "term": "circuits",
+     "weight": 14
+    },
+    {
+     "term": "circuit",
+     "weight": 13
+    },
+    {
+     "term": "calculate",
+     "weight": 11
+    },
+    {
+     "term": "find",
+     "weight": 11
+    },
+    {
+     "term": "current resistance",
+     "weight": 11
+    },
+    {
+     "term": "law formula",
+     "weight": 11
+    },
+    {
+     "term": "power formula",
+     "weight": 11
+    },
+    {
+     "term": "ohm's law",
+     "weight": 9
+    },
+    {
+     "term": "law wheel",
+     "weight": 9
+    },
+    {
+     "term": "https www",
+     "weight": 9
+    },
+    {
+     "term": "represents",
+     "weight": 9
+    },
+    {
+     "term": "current power",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "used",
+     "weight": 8
+    },
+    {
+     "term": "electrical circuit",
+     "weight": 8
+    },
+    {
+     "term": "wheel",
+     "weight": 7
+    },
+    {
+     "term": "https",
+     "weight": 7
+    },
+    {
+     "term": "triangle",
+     "weight": 7
+    },
+    {
+     "term": "solve",
+     "weight": 7
+    }
+   ],
+   "claims": [
+    "Georg Simon Ohm created Ohm’s Law in a paper published in 1827,[6] well before voltage, current, and resistance units were defined.",
+    "It wasn’t until 1881 that the Volt, Ampere, and Ohm were defined, over 50 years after Ohm’s Law was published.",
+    "The Ohm’s Law formulas for 3-phase AC power are slightly different since both the phase constant (√3 ≈ 1.732) and the power factor need to be considered."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 7,
+   "images": 8,
+   "videos": 0,
+   "calculatorInputs": [
+    "Voltage",
+    "Voltage Units",
+    "Current",
+    "Current Units",
+    "Resistance",
+    "Resistance Units",
+    "Power",
+    "Power Units"
+   ],
+   "selectOptionsSample": "millivolts volts kilovolts milliamps amps kiloamps milliohms ohms kiloohms milliwatts watts kilowatts",
+   "unitToggle": false,
+   "wordsBeforeTool": 28,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2015-10-24",
+    "modified": "2023-10-17T14:38:33+00:00",
+    "authoritativeSources": [
+     "https://www.nist.gov/si-redefinition/ampere-present"
+    ]
+   },
+   "ux": {
+    "htmlKB": 135,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 50,
+    "external": 21,
+    "contentInternal": 27,
+    "contentExternal": 15,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Ohm's Law Calculator",
+     "How to Use Ohm’s Law",
+     "Ohm’s Law Formula",
+     "Components of Ohm’s Law",
+     "Watt’s Law Power Formula",
+     "Ohm’s Law Wheel",
+     "Frequently Asked Questions",
+     "References",
+     "Full bio",
+     "Ohm’s Law Calculator",
+     "voltage",
+     "current",
+     "resistance",
+     "watts",
+     "watts to amps calculator",
+     "power factor",
+     "lighting cost calculator",
+     "electricity cost calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/ohms-law-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/ohms-law/",
+     "https://www.inchcalculator.com/ohms-law-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/ohms-law-calculator/#idx_how_to_use_ohm8217s_law",
+     "https://www.inchcalculator.com/ohms-law-calculator/#idx_ohm8217s_law_formula",
+     "https://www.inchcalculator.com/ohms-law-calculator/#idx_components_of_ohm8217s_law",
+     "https://www.inchcalculator.com/ohms-law-calculator/#watts_law",
+     "https://www.inchcalculator.com/ohms-law-calculator/#idx_ohm8217s_law_wheel",
+     "https://www.inchcalculator.com/ohms-law-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/ohms-law-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/aditya-dua/",
+     "https://www.inchcalculator.com/author/ahmed-sheikh/",
+     "https://www.inchcalculator.com/ohms-law-calculator/",
+     "https://www.inchcalculator.com/voltage-calculator/",
+     "https://www.inchcalculator.com/current-calculator/",
+     "https://www.inchcalculator.com/resistance-calculator/",
+     "https://www.inchcalculator.com/wattage-calculator/",
+     "https://www.inchcalculator.com/watts-to-amps-calculator/",
+     "https://www.inchcalculator.com/power-factor-calculator/",
+     "https://www.inchcalculator.com/lighting-energy-cost-calculator/",
+     "https://www.inchcalculator.com/electricity-cost-calculator/",
+     "https://www.inchcalculator.com/voltage-drop-calculator/",
+     "https://www.inchcalculator.com/rlc-impedance-calculator/",
+     "https://www.inchcalculator.com/series-and-parallel-capacitor-calculator/"
+    ],
+    "externalSample": [
+     "https://apps.apple.com/app/electrical-calculator-plus/id6479804242",
+     "https://play.google.com/store/apps/details?id=com.inchcalculator.ohms_law_calculator",
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fohms-law-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fohms-law-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fohms-law-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fohms-law-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fohms-law-calculator%2F&text=Ohm%26%238217%3Bs+Law+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fohms-law-calculator%2F&text=Ohm%26%238217%3Bs+Law+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://aapt.scitation.org/doi/full/10.1119/1.5021431",
+     "https://www.nist.gov/si-redefinition/ampere-present",
+     "https://www.google.com/books/edition/Basic_Electronic_Circuits_Part_1_Analog/-J6rAgAAQBAJ",
+     "https://www.mikeholt.com/instructor2/img/product/pdf/1302643872-sample.pdf",
+     "https://www.google.com/books/edition/NFPA_s_Electrical_References/raUyIi7i-asC",
+     "https://www.britannica.com/science/Ohms-law"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/physics/ohms-law": {
+   "url": "https://www.omnicalculator.com/physics/ohms-law",
+   "finalUrl": "https://www.omnicalculator.com/physics/ohms-law",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T23:56:35.794Z",
+   "title": "Ohm's Law Calculator",
+   "metaDescription": "Ohm's Law calculator let's you explore the relationships between power, voltage, current, and resistance.",
+   "canonical": "https://www.omnicalculator.com/physics/ohms-law",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Ohm's Law Calculator"
+   ],
+   "h2": [
+    "Ohm's Law Formula",
+    "Voltage formula",
+    "What is the equation for power?",
+    "How to calculate power?",
+    "Ohm's law for anisotropic materials",
+    "FAQs"
+   ],
+   "h3": [
+    "What does Ohm's law state?",
+    "Does Ohm's law apply to semiconductors?",
+    "How do I calculate resistance using Ohm's law?",
+    "How do I calculate voltage drop using Ohm's law?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Ohm's Law Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Ohm's Law Formula"
+    },
+    {
+     "level": 2,
+     "text": "Voltage formula"
+    },
+    {
+     "level": 2,
+     "text": "What is the equation for power?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate power?"
+    },
+    {
+     "level": 2,
+     "text": "Ohm's law for anisotropic materials"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What does Ohm's law state?"
+    },
+    {
+     "level": 3,
+     "text": "Does Ohm's law apply to semiconductors?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate resistance using Ohm's law?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate voltage drop using Ohm's law?"
+    }
+   ],
+   "wordCount": 1129,
+   "avgSentenceWords": 18,
+   "faqs": [
+    "What does Ohm's law state?",
+    "Does Ohm's law apply to semiconductors?",
+    "How do I calculate resistance using Ohm's law?",
+    "How do I calculate voltage drop using Ohm's law?",
+    "What is the equation for power?",
+    "How to calculate power?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "ohm's law",
+     "weight": 56
+    },
+    {
+     "term": "law",
+     "weight": 38
+    },
+    {
+     "term": "ohm's",
+     "weight": 37
+    },
+    {
+     "term": "voltage",
+     "weight": 26
+    },
+    {
+     "term": "current",
+     "weight": 25
+    },
+    {
+     "term": "resistance",
+     "weight": 21
+    },
+    {
+     "term": "formula",
+     "weight": 19
+    },
+    {
+     "term": "calculator",
+     "weight": 18
+    },
+    {
+     "term": "power",
+     "weight": 15
+    },
+    {
+     "term": "resistor",
+     "weight": 12
+    },
+    {
+     "term": "law formula",
+     "weight": 12
+    },
+    {
+     "term": "calculate",
+     "weight": 12
+    },
+    {
+     "term": "materials",
+     "weight": 9
+    },
+    {
+     "term": "law calculator",
+     "weight": 8
+    },
+    {
+     "term": "voltage formula",
+     "weight": 8
+    },
+    {
+     "term": "voltage drop",
+     "weight": 8
+    },
+    {
+     "term": "find",
+     "weight": 7
+    },
+    {
+     "term": "between",
+     "weight": 7
+    },
+    {
+     "term": "conductor",
+     "weight": 6
+    },
+    {
+     "term": "calculate power",
+     "weight": 6
+    },
+    {
+     "term": "anisotropic materials",
+     "weight": 6
+    },
+    {
+     "term": "electrical",
+     "weight": 5
+    },
+    {
+     "term": "through",
+     "weight": 5
+    },
+    {
+     "term": "expressed",
+     "weight": 5
+    },
+    {
+     "term": "value",
+     "weight": 5
+    },
+    {
+     "term": "drop",
+     "weight": 5
+    },
+    {
+     "term": "resistor calculator",
+     "weight": 5
+    },
+    {
+     "term": "between voltage",
+     "weight": 5
+    },
+    {
+     "term": "potential difference",
+     "weight": 5
+    },
+    {
+     "term": "check",
+     "weight": 4
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "Article",
+    "FAQPage",
+    "VideoObject",
+    "LearningResource"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 8,
+   "images": 1,
+   "videos": 1,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Mateusz Mucha",
+    "published": "2015-12-05T00:51:54.794Z",
+    "modified": "2026-09-24T10:38:10.677Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 574,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 26,
+    "external": 2,
+    "contentInternal": 10,
+    "contentExternal": 2,
+    "internalAnchors": [
+     "Series resistor calculator",
+     "Parallel resistor calculator",
+     "how to calculate power dissipation",
+     "skin depth calculator",
+     "LED resistor calculator",
+     "current divider calculator",
+     "voltage divider calculator",
+     "resistor wattage calculator",
+     "watts to amps calculator",
+     "wire resistance calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/physics/series-resistor",
+     "https://www.omnicalculator.com/physics/parallel-resistor",
+     "https://www.omnicalculator.com/physics/power-dissipation",
+     "https://www.omnicalculator.com/physics/skin-depth",
+     "https://www.omnicalculator.com/physics/led",
+     "https://www.omnicalculator.com/physics/current-divider",
+     "https://www.omnicalculator.com/physics/voltage-divider",
+     "https://www.omnicalculator.com/physics/resistor-wattage",
+     "https://www.omnicalculator.com/physics/watts-to-amps",
+     "https://www.omnicalculator.com/physics/wire-resistance"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com",
+     "https://youtu.be/0wq9TeNUxbY"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

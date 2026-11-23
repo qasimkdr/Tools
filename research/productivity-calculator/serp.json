@@ -1,0 +1,254 @@
+{
+ "keywords": {
+  "productivity calculator": {
+   "fetchedAt": "2026-11-22T23:55:51.740Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 2900,
+   "fileKd": 10,
+   "fileIntent": "C",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://quillbot.com/blog/productivity/productivity-calculator/",
+     "domain": "quillbot.com",
+     "title": "Productivity Calculator | What It Is & How to Use It",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://smartsheet.com/blog/creating-culture-productivity-why-using-right-tools-matter",
+     "domain": "smartsheet.com",
+     "title": "How to Calculate Productivity at All Levels: Employee, Organization, and Software",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://clickup.com/free-tools/employee-productivity-calculator",
+     "domain": "clickup.com",
+     "title": "Go beyond calculation",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.omnicalculator.com/finance/productivity",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.smartsheet.com/blog/how-calculate-productivity-all-levels-organization-employee-and-software",
+     "domain": "www.smartsheet.com",
+     "title": "How to Calculate Productivity at All Levels: Employee, Organization, and Software",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://everhour.com/calculators/productivity-calculator",
+     "domain": "everhour.com",
+     "title": "Productivity calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.gigacalculator.com/calculators/productivity-calculator.php",
+     "domain": "www.gigacalculator.com",
+     "title": "Productivity Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://codenonline.github.io/tools/productivity-calculator.html",
+     "domain": "codenonline.github.io",
+     "title": "Productivity Calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://online.visual-paradigm.com/tabular/calculator/finance/productivity-calculator",
+     "domain": "online.visual-paradigm.com",
+     "title": "Productivity Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://online.visual-paradigm.com/spreadsheet-editor/calculator/finance/productivity-calculator/",
+     "domain": "online.visual-paradigm.com",
+     "title": "Productivity Calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://violet-harp-khs8.squarespace.com/calcs/productivity-calculator",
+     "domain": "violet-harp-khs8.squarespace.com",
+     "title": "Productivity calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.inc.com/murray-newlands/productivity-increase-calculator-for-your-startup.html",
+     "domain": "www.inc.com",
+     "title": "Productivity Increase Calculator for Your Startup",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://apps.apple.com/us/app/-/id1041296256",
+     "domain": "apps.apple.com",
+     "title": "Productivity Calculator - Compare Daily Profit",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://fitsmallbusiness.com/how-to-measure-employee-productivity/",
+     "domain": "fitsmallbusiness.com",
+     "title": "how to measure employee productivity",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://cdn.wba.omnicalculator.com/finance/productivity",
+     "domain": "cdn.wba.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://www.webwork-tracker.com/productivity-calculator",
+     "domain": "www.webwork-tracker.com",
+     "title": "Productivity Calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://violet-harp-khs8.squarespace.com/calcs/productivity-calculator?format=amp",
+     "domain": "violet-harp-khs8.squarespace.com",
+     "title": "productivity calculator",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://www.chanty.com/productivity-calculation.html",
+     "domain": "www.chanty.com",
+     "title": "productivity calculation",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://www.workstatus.io/?p=11832",
+     "domain": "www.workstatus.io",
+     "title": "Productivity Calculator",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://timetrex.com/resources/employee-productivity-calculator",
+     "domain": "timetrex.com",
+     "title": "Free Employee Productivity Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "productivity-calculator",
+ "page": "productivity-calculator",
+ "category": "finance",
+ "name": "Productivity Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T23:55:51.741Z",
+ "topCompetitors": [
+  {
+   "domain": "smartsheet.com",
+   "bestRank": 2,
+   "keywords": 2,
+   "urls": [
+    "https://smartsheet.com/blog/creating-culture-productivity-why-using-right-tools-matter",
+    "https://www.smartsheet.com/blog/how-calculate-productivity-all-levels-organization-employee-and-software"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 4,
+   "keywords": 2,
+   "urls": [
+    "https://www.omnicalculator.com/finance/productivity",
+    "https://cdn.wba.omnicalculator.com/finance/productivity"
+   ]
+  },
+  {
+   "domain": "visual-paradigm.com",
+   "bestRank": 9,
+   "keywords": 2,
+   "urls": [
+    "https://online.visual-paradigm.com/tabular/calculator/finance/productivity-calculator",
+    "https://online.visual-paradigm.com/spreadsheet-editor/calculator/finance/productivity-calculator/"
+   ]
+  },
+  {
+   "domain": "squarespace.com",
+   "bestRank": 11,
+   "keywords": 2,
+   "urls": [
+    "https://violet-harp-khs8.squarespace.com/calcs/productivity-calculator",
+    "https://violet-harp-khs8.squarespace.com/calcs/productivity-calculator?format=amp"
+   ]
+  },
+  {
+   "domain": "quillbot.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://quillbot.com/blog/productivity/productivity-calculator/"
+   ]
+  },
+  {
+   "domain": "clickup.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://clickup.com/free-tools/employee-productivity-calculator"
+   ]
+  },
+  {
+   "domain": "everhour.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://everhour.com/calculators/productivity-calculator"
+   ]
+  },
+  {
+   "domain": "gigacalculator.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.gigacalculator.com/calculators/productivity-calculator.php"
+   ]
+  },
+  {
+   "domain": "github.io",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://codenonline.github.io/tools/productivity-calculator.html"
+   ]
+  },
+  {
+   "domain": "inc.com",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://www.inc.com/murray-newlands/productivity-increase-calculator-for-your-startup.html"
+   ]
+  }
+ ]
+}

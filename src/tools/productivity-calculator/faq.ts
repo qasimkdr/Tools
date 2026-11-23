@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How do you calculate productivity?", a: "Productivity = output ÷ input. For labor productivity, divide what was produced (units, tasks, sales) by the labor hours used. A team that makes 2,400 units in 160 labor hours has a productivity of 15 units per hour." },
+  { q: "How do I calculate the percentage change in productivity?", a: "Divide the new productivity by the old and subtract 1. Going from 14 to 15 units per hour is 15 ÷ 14 − 1 = 7.14% more productive." },
+  { q: "What's the difference between output per hour and output per worker?", a: "Output per hour divides by total labor hours, so it isn't affected by part-time schedules or overtime. Output per worker divides by headcount; it's simpler but changes when people work more or fewer hours." },
+  { q: "How is revenue per employee calculated?", a: "Divide total revenue by the number of employees (often full-time equivalents) for the same period. $500,000 of revenue with 8 employees is $62,500 per employee. Enter revenue as the output and the headcount as workers." },
+  { q: "How do I work out the hours needed to hit a target?", a: "Divide the target output by productivity per hour. At 15 units per hour, 3,000 units need 200 labor hours, or 40 hours each for five workers." },
+  { q: "What is multifactor productivity?", a: "It compares output with a combination of inputs (labor, capital, materials and energy), usually in dollar terms. Government statistics agencies publish multifactor (total factor) productivity for whole industries; for a single team, labor productivity is the usual measure." },
+];

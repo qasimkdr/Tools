@@ -1,0 +1,222 @@
+{
+ "keywords": {
+  "time between calculator": {
+   "fetchedAt": "2026-11-22T23:55:51.881Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 2900,
+   "fileKd": 10,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.omnicalculator.com/other/time-between-dates",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://omnicalculator.com/everyday-life/time-between-dates",
+     "domain": "omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://dqydj.com/time-duration-calculator",
+     "domain": "dqydj.com",
+     "title": "Time Duration Calculator: Years, Months, Days, Hours, and Minutes Between Times",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://calculatorsoup.com/calculators/time/time-date-difference-calculator.php",
+     "domain": "calculatorsoup.com",
+     "title": "time date difference calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.timeanddate.com/date/timeduration-help.html",
+     "domain": "www.timeanddate.com",
+     "title": "timeduration help",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://cache.omnicalculator.com/everyday-life/time-between-dates",
+     "domain": "cache.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.timeanddate.com/date/duration-help.html",
+     "domain": "www.timeanddate.com",
+     "title": "duration help",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://dqydj.com/?p=18952",
+     "domain": "dqydj.com",
+     "title": "dqydj.com",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.gigacalculator.com/calculators/date-time-duration-calculator.php",
+     "domain": "www.gigacalculator.com",
+     "title": "Date & Time Duration Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://dqydj.com/days-between-dates-calculator/",
+     "domain": "dqydj.com",
+     "title": "Days Calculator: See the Day Difference Between Two Dates",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.omnicalculator.com/everyday-life/date",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.thecalculatorsite.com:443/time/days-between-dates.php",
+     "domain": "www.thecalculatorsite.com",
+     "title": "Days & Time Between Dates",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://dqydj.com/?p=20739",
+     "domain": "dqydj.com",
+     "title": "Date Duration Calculator: Years, Months, and Days Between Two Dates",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://webarchive.library.unt.edu/web/20121221024204/http://www.timeanddate.com/date/duration.html",
+     "domain": "webarchive.library.unt.edu",
+     "title": "webarchive.library.unt.edu",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://www.omnicalculator.com/other/days-between-dates",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://planetcalc.com/9786/?license=1",
+     "domain": "planetcalc.com",
+     "title": "Time between two dates",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://planetcalc.com/9788/",
+     "domain": "planetcalc.com",
+     "title": "How much time between two dates?",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "date-difference-calculator",
+ "page": "date-difference-calculator",
+ "category": "time-date",
+ "name": "Date Difference Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T23:55:51.882Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 5,
+   "urls": [
+    "https://www.omnicalculator.com/other/time-between-dates",
+    "https://omnicalculator.com/everyday-life/time-between-dates",
+    "https://cache.omnicalculator.com/everyday-life/time-between-dates",
+    "https://www.omnicalculator.com/everyday-life/date",
+    "https://www.omnicalculator.com/other/days-between-dates"
+   ]
+  },
+  {
+   "domain": "dqydj.com",
+   "bestRank": 3,
+   "keywords": 4,
+   "urls": [
+    "https://dqydj.com/time-duration-calculator",
+    "https://dqydj.com/?p=18952",
+    "https://dqydj.com/days-between-dates-calculator/",
+    "https://dqydj.com/?p=20739"
+   ]
+  },
+  {
+   "domain": "timeanddate.com",
+   "bestRank": 5,
+   "keywords": 2,
+   "urls": [
+    "https://www.timeanddate.com/date/timeduration-help.html",
+    "https://www.timeanddate.com/date/duration-help.html"
+   ]
+  },
+  {
+   "domain": "planetcalc.com",
+   "bestRank": 16,
+   "keywords": 2,
+   "urls": [
+    "https://planetcalc.com/9786/?license=1",
+    "https://planetcalc.com/9788/"
+   ]
+  },
+  {
+   "domain": "calculatorsoup.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://calculatorsoup.com/calculators/time/time-date-difference-calculator.php"
+   ]
+  },
+  {
+   "domain": "gigacalculator.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://www.gigacalculator.com/calculators/date-time-duration-calculator.php"
+   ]
+  },
+  {
+   "domain": "thecalculatorsite.com",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://www.thecalculatorsite.com:443/time/days-between-dates.php"
+   ]
+  },
+  {
+   "domain": "unt.edu",
+   "bestRank": 14,
+   "keywords": 1,
+   "urls": [
+    "https://webarchive.library.unt.edu/web/20121221024204/http://www.timeanddate.com/date/duration.html"
+   ]
+  }
+ ]
+}

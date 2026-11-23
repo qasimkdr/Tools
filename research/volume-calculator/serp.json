@@ -1,0 +1,254 @@
+{
+ "keywords": {
+  "volume calculator": {
+   "fetchedAt": "2026-11-22T23:55:51.616Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": null,
+   "fileKd": null,
+   "fileIntent": null,
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.omnicalculator.com/math/volume",
+     "domain": "www.omnicalculator.com",
+     "title": "Volume Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.pearson.com/channels/it/calculators/volume-calculator",
+     "domain": "www.pearson.com",
+     "title": "volume calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.pearson.com/channels/ko-kr/calculators/volume-calculator",
+     "domain": "www.pearson.com",
+     "title": "volume calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.calculator.net/volume-calculator.html%C2%A0",
+     "domain": "www.calculator.net",
+     "title": "Volume Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.calculator.net/volume-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Volume Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.omnicalculator.com/physics/volume",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://inchcalculator.com/volume-calculator",
+     "domain": "inchcalculator.com",
+     "title": "Volume Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.calculator.io/volume-calculator/",
+     "domain": "www.calculator.io",
+     "title": "Math Calculators",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://gigacalculator.com/calculators/volume-calculator.php",
+     "domain": "gigacalculator.com",
+     "title": "Volume Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://mathcentral.uregina.ca/volume_calculator",
+     "domain": "mathcentral.uregina.ca",
+     "title": "volume calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://miniwebtool.com/volume-calculator/",
+     "domain": "miniwebtool.com",
+     "title": "volume calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.size.ly/calculator/volume-calculator",
+     "domain": "www.size.ly",
+     "title": "volume calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.symbolab.com/calculator/geometry/volume",
+     "domain": "www.symbolab.com",
+     "title": "www.symbolab.com",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://sites.google.com/view/freextool-resources/volume-calculator",
+     "domain": "sites.google.com",
+     "title": "volume calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://it.symbolab.com/calculator/geometry/volume",
+     "domain": "it.symbolab.com",
+     "title": "it.symbolab.com",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://www.calculate.co.nz/volume-calculator.php",
+     "domain": "www.calculate.co.nz",
+     "title": "Volume Calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://www.calculatorsoup.com/calculators/geometry-solids/volume.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "www.calculatorsoup.com",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://www.calconic.com/calculator-widgets/volume-calculator",
+     "domain": "www.calconic.com",
+     "title": "What does the term ‘volume’ mean?",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://piday.org/calculators/volume-calculator",
+     "domain": "piday.org",
+     "title": "Pi Day logo Pi Day logo",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://www.calkoo.com/en/volume-calculator",
+     "domain": "www.calkoo.com",
+     "title": "» Volume Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "volume-calculator",
+ "page": "volume-calculator",
+ "category": "construction",
+ "name": "Volume Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T23:55:51.617Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://www.omnicalculator.com/math/volume",
+    "https://www.omnicalculator.com/physics/volume"
+   ]
+  },
+  {
+   "domain": "pearson.com",
+   "bestRank": 2,
+   "keywords": 2,
+   "urls": [
+    "https://www.pearson.com/channels/it/calculators/volume-calculator",
+    "https://www.pearson.com/channels/ko-kr/calculators/volume-calculator"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 4,
+   "keywords": 2,
+   "urls": [
+    "https://www.calculator.net/volume-calculator.html%C2%A0",
+    "https://www.calculator.net/volume-calculator.html"
+   ]
+  },
+  {
+   "domain": "symbolab.com",
+   "bestRank": 13,
+   "keywords": 2,
+   "urls": [
+    "https://www.symbolab.com/calculator/geometry/volume",
+    "https://it.symbolab.com/calculator/geometry/volume"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://inchcalculator.com/volume-calculator"
+   ]
+  },
+  {
+   "domain": "calculator.io",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculator.io/volume-calculator/"
+   ]
+  },
+  {
+   "domain": "gigacalculator.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://gigacalculator.com/calculators/volume-calculator.php"
+   ]
+  },
+  {
+   "domain": "uregina.ca",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://mathcentral.uregina.ca/volume_calculator"
+   ]
+  },
+  {
+   "domain": "miniwebtool.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://miniwebtool.com/volume-calculator/"
+   ]
+  },
+  {
+   "domain": "size.ly",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://www.size.ly/calculator/volume-calculator"
+   ]
+  }
+ ]
+}

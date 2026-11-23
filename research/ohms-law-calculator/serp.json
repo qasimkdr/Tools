@@ -1,0 +1,255 @@
+{
+ "keywords": {
+  "ohm calculator": {
+   "fetchedAt": "2026-11-22T23:55:52.154Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1000,
+   "fileKd": 21,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 1,
+    "url": "www.calculator.net/ohms-law-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-ohms",
+     "domain": "www.digikey.com",
+     "title": "Ohm’s Law Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.jameco.com/Jameco/conversion-calculators/ohms-law-calculator.html",
+     "domain": "www.jameco.com",
+     "title": "Ohm's Law Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://calculator.net/ohms-law-calculator.html",
+     "domain": "calculator.net",
+     "title": "Ohms Law Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.keysight.com/used/jp/ja/knowledge/calculators/ohms-law-calculator",
+     "domain": "www.keysight.com",
+     "title": "ohms law calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.calculator.net/ohms-law-c",
+     "domain": "www.calculator.net",
+     "title": "Ohms Law Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://uk.rs-online.com/web/content/discovery/tools-and-calculators/ohms-law-calculator",
+     "domain": "uk.rs-online.com",
+     "title": "• Published 5 Aug 2024",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.digikey.at/en/resources/conversion-calculators/conversion-calculator-ohms",
+     "domain": "www.digikey.at",
+     "title": "Ohm’s Law Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.allaboutcircuits.com/tools/ohms-law-calculator/",
+     "domain": "www.allaboutcircuits.com",
+     "title": "All About Circuits",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.keysight.com/used/kr/ko/knowledge/calculators/ohms-law-calculator",
+     "domain": "www.keysight.com",
+     "title": "ohms law calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://www.pearson.com/channels/it/calculators/ohms-law-calculator",
+     "domain": "www.pearson.com",
+     "title": "ohms law calculator",
+     "description": null
+    },
+    {
+     "rank": 11,
+     "url": "https://www.electronicsforu.com/special/ohms-law-calculator",
+     "domain": "www.electronicsforu.com",
+     "title": "ohms law calculator",
+     "description": null
+    },
+    {
+     "rank": 12,
+     "url": "https://www.inchcalculator.com/ohms-law-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Ohm’s Law Calculator",
+     "description": null
+    },
+    {
+     "rank": 13,
+     "url": "https://www.gigacalculator.com/calculators/ohms-law-calculator.php",
+     "domain": "www.gigacalculator.com",
+     "title": "Ohm's Law Calculator ⚡",
+     "description": null
+    },
+    {
+     "rank": 14,
+     "url": "https://www.ohmite.com/ohms-law-calculator/",
+     "domain": "www.ohmite.com",
+     "title": "Ohm's Law Calculator",
+     "description": null
+    },
+    {
+     "rank": 15,
+     "url": "https://www.omnicalculator.com/physics/ohms-law?c=AUD",
+     "domain": "www.omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 16,
+     "url": "https://apps.apple.com/app/id505900137",
+     "domain": "apps.apple.com",
+     "title": "Ohm Law Calculator",
+     "description": null
+    },
+    {
+     "rank": 17,
+     "url": "https://www.futureelectronics.com/conversion-calculators/ohms-law-calculator",
+     "domain": "www.futureelectronics.com",
+     "title": "text.skipToContent text.skipToNavigation",
+     "description": null
+    },
+    {
+     "rank": 18,
+     "url": "https://diyaudioprojects.com/Technical/Ohms-Law",
+     "domain": "diyaudioprojects.com",
+     "title": "Navigation: DIY Audio Projects / Technical Audio and Reference Information / Ohm's Law and Ohms Law Calculator",
+     "description": null
+    },
+    {
+     "rank": 19,
+     "url": "https://cirris.com/ohm-s-law-calculator/",
+     "domain": "cirris.com",
+     "title": "Ohm’s Law Calculator",
+     "description": null
+    },
+    {
+     "rank": 20,
+     "url": "https://www.calctool.org/electronics/ohms-law",
+     "domain": "www.calctool.org",
+     "title": "Ohm's Law Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "ohms-law-calculator",
+ "page": "ohms-law-calculator",
+ "category": "science",
+ "name": "Ohm's Law Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-22T23:55:52.155Z",
+ "topCompetitors": [
+  {
+   "domain": "calculator.net",
+   "bestRank": 3,
+   "keywords": 2,
+   "urls": [
+    "https://calculator.net/ohms-law-calculator.html",
+    "https://www.calculator.net/ohms-law-c"
+   ]
+  },
+  {
+   "domain": "keysight.com",
+   "bestRank": 4,
+   "keywords": 2,
+   "urls": [
+    "https://www.keysight.com/used/jp/ja/knowledge/calculators/ohms-law-calculator",
+    "https://www.keysight.com/used/kr/ko/knowledge/calculators/ohms-law-calculator"
+   ]
+  },
+  {
+   "domain": "digikey.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-ohms"
+   ]
+  },
+  {
+   "domain": "jameco.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.jameco.com/Jameco/conversion-calculators/ohms-law-calculator.html"
+   ]
+  },
+  {
+   "domain": "rs-online.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://uk.rs-online.com/web/content/discovery/tools-and-calculators/ohms-law-calculator"
+   ]
+  },
+  {
+   "domain": "digikey.at",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.digikey.at/en/resources/conversion-calculators/conversion-calculator-ohms"
+   ]
+  },
+  {
+   "domain": "allaboutcircuits.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.allaboutcircuits.com/tools/ohms-law-calculator/"
+   ]
+  },
+  {
+   "domain": "pearson.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://www.pearson.com/channels/it/calculators/ohms-law-calculator"
+   ]
+  },
+  {
+   "domain": "electronicsforu.com",
+   "bestRank": 11,
+   "keywords": 1,
+   "urls": [
+    "https://www.electronicsforu.com/special/ohms-law-calculator"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 12,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/ohms-law-calculator/"
+   ]
+  }
+ ]
+}

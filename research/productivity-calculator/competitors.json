@@ -1,0 +1,265 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/finance/productivity": {
+   "url": "https://www.omnicalculator.com/finance/productivity",
+   "finalUrl": "https://www.omnicalculator.com/finance/productivity",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-22T23:56:08.111Z",
+   "title": "Productivity Calculator",
+   "metaDescription": "This productivity calculator measures the labor productivity of your business per hour and per employee.",
+   "canonical": "https://www.omnicalculator.com/finance/productivity",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Productivity Calculator"
+   ],
+   "h2": [
+    "What is labor productivity?",
+    "Labor productivity formula",
+    "Productivity calculator explanation",
+    "Productivity calculation - examples"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Productivity Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is labor productivity?"
+    },
+    {
+     "level": 2,
+     "text": "Labor productivity formula"
+    },
+    {
+     "level": 2,
+     "text": "Productivity calculator explanation"
+    },
+    {
+     "level": 2,
+     "text": "Productivity calculation - examples"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 732,
+   "avgSentenceWords": 17,
+   "faqs": [
+    "What is labor productivity?",
+    "Now, how can you use this calculator to compare?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "productivity",
+     "weight": 26
+    },
+    {
+     "term": "calculator",
+     "weight": 16
+    },
+    {
+     "term": "number",
+     "weight": 12
+    },
+    {
+     "term": "labor productivity",
+     "weight": 12
+    },
+    {
+     "term": "working",
+     "weight": 11
+    },
+    {
+     "term": "labor",
+     "weight": 11
+    },
+    {
+     "term": "revenue",
+     "weight": 10
+    },
+    {
+     "term": "employees",
+     "weight": 10
+    },
+    {
+     "term": "hour",
+     "weight": 10
+    },
+    {
+     "term": "hours",
+     "weight": 9
+    },
+    {
+     "term": "working hours",
+     "weight": 6
+    },
+    {
+     "term": "working hour",
+     "weight": 6
+    },
+    {
+     "term": "calculate",
+     "weight": 6
+    },
+    {
+     "term": "employee",
+     "weight": 5
+    },
+    {
+     "term": "business",
+     "weight": 5
+    },
+    {
+     "term": "formula",
+     "weight": 5
+    },
+    {
+     "term": "productivity calculator",
+     "weight": 5
+    },
+    {
+     "term": "revenue number",
+     "weight": 5
+    },
+    {
+     "term": "calculate productivity",
+     "weight": 5
+    },
+    {
+     "term": "productivity formula",
+     "weight": 5
+    },
+    {
+     "term": "compare",
+     "weight": 4
+    },
+    {
+     "term": "cash flow",
+     "weight": 3
+    },
+    {
+     "term": "economic",
+     "weight": 3
+    },
+    {
+     "term": "economic growth",
+     "weight": 3
+    },
+    {
+     "term": "performance",
+     "weight": 3
+    },
+    {
+     "term": "below",
+     "weight": 3
+    },
+    {
+     "term": "results",
+     "weight": 3
+    },
+    {
+     "term": "services produced",
+     "weight": 3
+    },
+    {
+     "term": "produced",
+     "weight": 3
+    },
+    {
+     "term": "certain amount",
+     "weight": 3
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 6,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Dominika Śmiałek",
+    "published": "2020-09-24T08:12:54.203Z",
+    "modified": "2026-09-28T14:58:28.193Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 581,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 26,
+    "external": 1,
+    "contentInternal": 10,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "HHIcalculator",
+     "business budget calculator",
+     "build vs. buy calculator",
+     "inventory turnover calculator",
+     "burndown chart calculator",
+     "EVM calculator",
+     "deadline calculator",
+     "Prorated Rent Calculator",
+     "Emergency Fund Calculator",
+     "Full-time Equivalent (FTE) Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/finance/hhi",
+     "https://www.omnicalculator.com/finance/business-budget",
+     "https://www.omnicalculator.com/finance/build-or-buy",
+     "https://www.omnicalculator.com/finance/inventory-turnover",
+     "https://www.omnicalculator.com/finance/burndown-chart",
+     "https://www.omnicalculator.com/finance/earned-value-management",
+     "https://www.omnicalculator.com/everyday-life/deadline",
+     "https://www.omnicalculator.com/finance/prorated-rent",
+     "https://www.omnicalculator.com/finance/emergency-fund",
+     "https://www.omnicalculator.com/finance/full-time-equivalent"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

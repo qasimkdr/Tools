@@ -9397,7 +9397,7 @@
     "www.omnicalculator.com/construction/tank-volume"
    ],
    "category": "construction",
-   "status": "todo",
+   "status": "live",
    "order": 89,
    "batch": 9
   },
@@ -9426,7 +9426,7 @@
    ],
    "competitors": [],
    "category": "finance",
-   "status": "todo",
+   "status": "live",
    "order": 90,
    "batch": 9
   },
@@ -9482,7 +9482,7 @@
     "www.calculator.net/date-calculator.html"
    ],
    "category": "time-date",
-   "status": "todo",
+   "status": "live",
    "order": 91,
    "batch": 10
   },
@@ -9511,7 +9511,7 @@
    ],
    "competitors": [],
    "category": "health",
-   "status": "todo",
+   "status": "live",
    "order": 92,
    "batch": 10
   },
@@ -9703,6 +9703,7 @@
    ],
    "category": "health",
    "status": "todo",
+   "note": "deferred 2026-11-23: needs Compendium of Physical Activities MET values; pacompendium.com and cdn-links.lww.com unreachable from this environment",
    "order": 93,
    "batch": 10
   },
@@ -9761,6 +9762,7 @@
    "competitors": [],
    "category": "everyday",
    "status": "todo",
+   "note": "intent ambiguous in SERP (bill split, stock split, workout splits, salary) \u2014 decide angle before building",
    "order": 95,
    "batch": 10
   },
@@ -9888,7 +9890,7 @@
     "www.calculator.net/resistor-calculator.html"
    ],
    "category": "science",
-   "status": "todo",
+   "status": "live",
    "order": 96,
    "batch": 10
   },
