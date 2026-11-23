@@ -5,7 +5,7 @@
    "finalUrl": "https://www.omnicalculator.com/other/ap-bio-score",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T09:57:14.880Z",
+   "fetchedAt": "2026-11-23T01:19:20.084Z",
    "title": "AP® Bio Score Calculator",
    "metaDescription": "Estimate your AP® Biology exam score based on the points you earned in each section using our AP® Bio score Calculator.",
    "canonical": "https://www.omnicalculator.com/other/ap-bio-score",
@@ -292,54 +292,5 @@
    ]
   }
  },
- "failed": {
-  "https://fiveable.me/ap-bio/ap-score-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://fiveable.me/ap-score-calculator/ap-bio": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.albert.io/blog/ap-biology-score-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://tools.odoo.com/ap-bio-score-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.remnote.com/score-calculator/ap-biology": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.collegetransitions.com/blog/ap-bio-score-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://app.fiveable.me/ap-score-calculator/ap-bio": [
-   "unreachable (fetch failed)"
-  ],
-  "https://test-ninjas.com/ap-biology-score-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.producthunt.com/products/ap-biology-score-calculator-2025/reviews": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.revisiondojo.com/blog/ap-biology-score-calculator-predict-your-ap-bio-exam-score-or-revisiondojo": [
-   "unreachable (fetch failed)"
-  ],
-  "https://scholarly.so/tools/ap-biology-score-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://sites.google.com/view/snowdaycaculators/beyond-ap-bio-using-ap-score-calculators-for-strategic-preparation": [
-   "unreachable (fetch failed)"
-  ],
-  "https://totalcalchub.com/us/academic/ap-bio-score-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.revisiondojo.com/blog/ap-biology-score-calculator-how-to-estimate-your-score": [
-   "unreachable (fetch failed)"
-  ],
-  "https://reviewfriendly.com/?p=9135": [
-   "unreachable (fetch failed)"
-  ],
-  "https://admissionsight.com/ap-biology-score-calculator/": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

@@ -1,6 +1,6 @@
 # Competitor analysis: "bowling score calculator"
 
-- Research id: `bowling-score-calculator` · roadmap page: Bowling Score Calculator · report generated 2026-11-22
+- Research id: `bowling-score-calculator` · roadmap page: Bowling Score Calculator · report generated 2026-11-23
 - Pages inspected: **3** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "bowling score calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 4400, KD 5, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Result list for "bowling score calculator [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-22 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -197,24 +197,6 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://js-bsc.sourceforge.net/more.html (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/sports/bowling-average (inspected 2026-11-22, offline-parse)
-- https://www.calculatored.com/others/fun/bowling-score-calculator (inspected 2026-11-22, offline-parse)
-- https://apps.apple.com/us/app/id363594412: not inspected (unreachable (fetch failed))
-- https://apps.apple.com/app/id363594412: not inspected (unreachable (fetch failed))
-- https://miniwebtool.com/bowling-score-calculator/: not inspected (unreachable (fetch failed))
-- https://www.codeproject.com/Articles/1212051/Bowling-Calculator: not inspected (unreachable (fetch failed))
-- https://elysiatools.com/en/tools/bowling-score: not inspected (unreachable (fetch failed))
-- https://milford.lib.de.us/2020/09/28/calculate-your-score-during-bowling: not inspected (unreachable (fetch failed))
-- https://calculator.academy/bowling-score-calculator/: not inspected (unreachable (fetch failed))
-- https://hakaru.io/tools/bowling-score-calculator: not inspected (unreachable (fetch failed))
-- https://cdcalculators.com/bowling-score-calculator/: not inspected (unreachable (fetch failed))
-- https://calculators.sg/bowling-score-calculator: not inspected (unreachable (fetch failed))
-- https://www.myexcelonline.com/blog/bowling-score-calculator-in-excel/: not inspected (unreachable (fetch failed))
-- https://open.online.uga.edu/bowling/chapter/3-bowling-scoring: not inspected (unreachable (fetch failed))
-- https://hakaru.io/guides/bowling-score-calculator-guide: not inspected (unreachable (fetch failed))
-- https://legionreport.com/?p=32797: not inspected (unreachable (fetch failed))
-- https://awesome.ecosyste.ms/projects/github.com%2Fpunkbit%2Fbowling_calculator: not inspected (unreachable (fetch failed))
-- https://agentcalc-cloudflare-public.pages.dev/bowling-score-calculator: not inspected (unreachable (fetch failed))
-- https://mwm.ai/apps/bowling-calculator/1219153440: not inspected (unreachable (fetch failed))
-- https://calculatored.com/others/fun/bowling-score-calculator: not inspected (unreachable (fetch failed))
+- https://js-bsc.sourceforge.net/more.html (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/sports/bowling-average (inspected 2026-11-23, offline-parse)
+- https://www.calculatored.com/others/fun/bowling-score-calculator (inspected 2026-11-23, offline-parse)

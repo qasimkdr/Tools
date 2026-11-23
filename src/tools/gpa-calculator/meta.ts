@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "gpa calculator",
   keywords: ["college gpa calculator", "how to calculate gpa", "high school gpa calculator", "cumulative gpa calculator", "gpa calculator for middle schoolers", "weighted gpa", "average gpa"],
   related: ["grade-calculator", "ap-world-history-score-calculator", "grade-curve-calculator", "percent-calculator", "average-calculator"],
+  sources: [{ name: "UMKC Registrar: Grades and GPA", url: "https://umkc.edu/Registrar/student-records/grades-gpa/gpa-calculator.html" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "🎓",

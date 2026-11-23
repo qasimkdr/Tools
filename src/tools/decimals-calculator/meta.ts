@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "decimals calculator",
   keywords: ["decimal calculator", "adding decimals", "multiplying decimals", "dividing decimals", "repeating decimal", "decimal to fraction", "rounding decimals"],
   related: ["fraction-calculator", "scientific-notation-calculator", "square-root-calculator", "ratio-calculator"],
+  sources: [{ name: "Wikipedia: Repeating decimal", url: "https://en.wikipedia.org/wiki/Repeating_decimal" }, { name: "Wikipedia: Decimal", url: "https://en.wikipedia.org/wiki/Decimal" }],
   published: "2026-11-23",
   updated: "2026-11-23",
   icon: "🔢",

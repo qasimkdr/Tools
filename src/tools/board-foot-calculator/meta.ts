@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "board feet calculator",
   keywords: ["bd ft calculator", "how to calculate board feet", "board foot calculator", "lumber calculator", "hardwood board feet", "price per board foot"],
   related: ["stud-calculator", "cubic-yard-calculator", "square-footage-calculator", "rafter-length-calculator"],
+  sources: [{ name: "Wikipedia: Board foot", url: "https://en.wikipedia.org/wiki/Board_foot" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "🪵",

@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "era calculator",
   keywords: ["earned run average calculator", "how to calculate era", "softball era calculator", "whip calculator", "baseball stats calculator", "innings pitched"],
   related: ["bowling-score-calculator", "ratio-calculator", "random-number-generator", "grade-calculator"],
+  sources: [{ name: "Wikipedia: Earned run average", url: "https://en.wikipedia.org/wiki/Earned_run_average" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "⚾",

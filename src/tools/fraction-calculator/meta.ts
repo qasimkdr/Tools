@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "mixed number calculator",
   keywords: ["mixed fraction calculator", "fraction calculator with whole numbers", "simplify fractions", "fraction to decimal", "improper fraction", "calculate and simplify"],
   related: ["ratio-calculator", "proportion-calculator", "decimal-to-fraction-calculator", "percent-calculator", "gcf-calculator", "lcm-calculator"],
+  sources: [{ name: "Wikipedia: Fraction", url: "https://en.wikipedia.org/wiki/Fraction" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "½",

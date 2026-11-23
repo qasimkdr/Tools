@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "inverse matrix calculator",
   keywords: ["matrix inverse calculator", "inverse of a 3x3 matrix", "2x2 matrix inverse", "determinant calculator", "gauss jordan", "invertible matrix"],
   related: ["fraction-calculator", "gcf-calculator", "binary-calculator", "scientific-notation-calculator"],
+  sources: [{ name: "Richland College: Inverses of matrices", url: "https://people.richland.edu/james/lecture/m116/matrices/inverses.html" }, { name: "Wikipedia: Invertible matrix", url: "https://en.wikipedia.org/wiki/Invertible_matrix" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "🧮",

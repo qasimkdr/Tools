@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "molarity calculator",
   keywords: ["molar calculator", "molarity formula", "how to calculate molarity", "mass molarity calculator", "dilution calculator", "moles per liter", "solution preparation"],
   related: ["molecular-weight-calculator", "scientific-notation-calculator", "ratio-calculator", "ohms-law-calculator"],
+  sources: [{ name: "Wikipedia: Molar concentration", url: "https://en.wikipedia.org/wiki/Molar_concentration" }, { name: "Wikipedia: Mole (unit)", url: "https://en.wikipedia.org/wiki/Mole_(unit)" }, { name: "Wikipedia: Molality", url: "https://en.wikipedia.org/wiki/Molality" }],
   published: "2026-11-23",
   updated: "2026-11-23",
   icon: "🧪",

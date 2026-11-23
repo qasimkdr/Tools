@@ -1,6 +1,6 @@
 # Competitor analysis: "mare gestation period calculator"
 
-- Research id: `horse-gestation-calculator` · roadmap page: Horse Gestation Calculator · report generated 2026-11-22
+- Research id: `horse-gestation-calculator` · roadmap page: Horse Gestation Calculator · report generated 2026-11-23
 - Pages inspected: **1** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -9,7 +9,7 @@
 |---|---|---|---|
 | Result list for "mare gestation period calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 2900, KD 9, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -160,4 +160,4 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.omnicalculator.com/biology/horse-gestation (inspected 2026-11-22, offline-parse)
+- https://www.omnicalculator.com/biology/horse-gestation (inspected 2026-11-23, offline-parse)

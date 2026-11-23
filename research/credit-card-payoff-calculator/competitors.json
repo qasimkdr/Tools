@@ -5,7 +5,7 @@
    "finalUrl": "https://www.calculator.net/credit-card-payoff-calculator.html",
    "mode": "offline-parse",
    "domain": "www.calculator.net",
-   "fetchedAt": "2026-11-22T12:55:36.907Z",
+   "fetchedAt": "2026-11-23T01:21:14.323Z",
    "title": "Credit Cards Payoff Calculator",
    "metaDescription": "Free credit card payoff calculator for finding the best way to pay off multiple credit cards and estimating the length of time it would take.",
    "canonical": null,
@@ -340,7 +340,7 @@
    "finalUrl": "https://www.omnicalculator.com/finance/credit-card-payoff",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T12:55:42.663Z",
+   "fetchedAt": "2026-11-23T01:21:15.783Z",
    "title": "Credit Card Payoff Calculator",
    "metaDescription": "The credit card payoff calculator determines how long it will take until you are completely debt-free.",
    "canonical": "https://www.omnicalculator.com/finance/credit-card-payoff",
@@ -615,12 +615,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.calculatorsoup.com/calculators/financial/credit-card-payoff-calculator.php": [
-   "HTTP 404"
-  ],
-  "https://www.thecalculatorsite.com/finance/calculators/credit-card-payoff.php": [
-   "HTTP 404"
-  ]
- }
+ "failed": {}
 }

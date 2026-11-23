@@ -5,7 +5,7 @@
    "finalUrl": "https://www.omnicalculator.com/other/ap-chem-score",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T10:21:22.494Z",
+   "fetchedAt": "2026-11-23T01:19:22.810Z",
    "title": "AP® Chem Score Calculator",
    "metaDescription": "Use the AP® Chem score calculator to predict your AP® Chem results based on the number of points you may obtain.",
    "canonical": "https://www.omnicalculator.com/other/ap-chem-score",
@@ -298,51 +298,5 @@
    ]
   }
  },
- "failed": {
-  "https://fiveable.me/ap-chem/ap-score-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://fiveable.me/ap-score-calculator/ap-chem": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.albert.io/blog/ap-chemistry-score-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.remnote.com/score-calculator/ap-chemistry": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.collegetransitions.com/?p=14710": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.collegetransitions.com/blog/ap-chem-score-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://test-ninjas.com/ap-chemistry-score-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://scholarly.so/tools/ap-chemistry-score-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.collegevine.com/faq/23228/need-help-with-ap-chemistry-exam-score-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://smartcgpa.com/ap-score-calculator/ap-chemistry": [
-   "unreachable (fetch failed)"
-  ],
-  "https://admissionsight.com/ap-chemistry-score-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://num8ers.com/score-calculator/ap-chemistry-score-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://testprepkart.com/self-study/ap/pages/ap-chemistry-score-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.collegevine.com/faq/25170/ap-chemistry-score-calculator-reliable-for-predictions": [
-   "unreachable (fetch failed)"
-  ],
-  "https://collegeprep.uworld.com/ap-chemistry/scores-and-score-calculator/": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

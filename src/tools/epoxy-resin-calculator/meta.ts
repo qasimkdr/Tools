@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "epoxy resin calculator",
   keywords: ["how much epoxy do i need", "epoxy calculator", "resin calculator", "epoxy coverage calculator", "river table epoxy calculator", "table top epoxy calculator", "epoxy per square foot"],
   related: ["volume-calculator", "board-foot-calculator", "tile-calculator", "concrete-calculator"],
+  sources: [{ name: "NIST Handbook 44, Appendix C: General tables of units of measurement", url: "https://www.nist.gov/document/2026-nist-handbook-44-appendix-c" }],
   published: "2026-11-23",
   updated: "2026-11-23",
   icon: "🫗",

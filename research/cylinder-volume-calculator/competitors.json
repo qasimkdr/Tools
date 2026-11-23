@@ -5,7 +5,7 @@
    "finalUrl": "https://www.omnicalculator.com/math/cylinder-volume",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T09:54:52.902Z",
+   "fetchedAt": "2026-11-23T01:21:28.593Z",
    "title": "Volume of a Cylinder Calculator",
    "metaDescription": "The cylinder volume calculator helps in the calculation of the right, oblique and hollow cylinder volume.",
    "canonical": "https://www.omnicalculator.com/math/cylinder-volume",
@@ -256,7 +256,7 @@
    },
    "content": {
     "formula": true,
-    "examples": false,
+    "examples": true,
     "stepByStep": true,
     "costEstimate": false,
     "chart": false,
@@ -309,7 +309,7 @@
    "finalUrl": "https://www.calculator.io/cylinder-volume-calculator/",
    "mode": "offline-parse",
    "domain": "www.calculator.io",
-   "fetchedAt": "2026-11-22T09:55:17.503Z",
+   "fetchedAt": "2026-11-23T01:21:30.122Z",
    "title": "Cylinder Volume Calculator: Formula, Gallons & Liters",
    "metaDescription": "Calculate the volume and surface area of any cylinder instantly. Our free Cylinder Volume Calculator also finds lateral, base, and top areas with ease.",
    "canonical": "https://www.calculator.io/cylinder-volume-calculator/",
@@ -630,7 +630,7 @@
    "finalUrl": "https://www.calculator.net/volume-calculator.html",
    "mode": "offline-parse",
    "domain": "www.calculator.net",
-   "fetchedAt": "2026-11-22T09:58:22.994Z",
+   "fetchedAt": "2026-11-23T01:21:31.361Z",
    "title": "Volume Calculator",
    "metaDescription": "This free volume calculator computes the volumes of common shapes, including sphere, cone, cube, cylinder, capsule, cap, conical frustum, ellipsoid, and more.",
    "canonical": null,
@@ -1045,7 +1045,7 @@
    "finalUrl": "https://www.calculatorsoup.com/calculators/construction/tank.php",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-22T09:58:26.086Z",
+   "fetchedAt": "2026-11-23T01:21:32.777Z",
    "title": "Tank Volume Calculator",
    "metaDescription": "Calculate capacity and fill volumes of common tank shapes for water, oil or other liquids. Estimate gallon or liter capacity and fill percentage for 10 different tank shapes. How to calculate tank volume.",
    "canonical": "https://www.calculatorsoup.com/calculators/construction/tank.php",
@@ -1363,51 +1363,5 @@
    ]
   }
  },
- "failed": {
-  "https://online.visual-paradigm.com/tabular/calculator/math/cylinder-volume-calculator/?t=tabular": [
-   "unreachable (fetch failed)"
-  ],
-  "https://online.visual-paradigm.com/spreadsheet-editor/calculator/cylinder-volume-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.gigacalculator.com/calculators/volume-of-cylinder-calculator.php": [
-   "disallowed by robots.txt"
-  ],
-  "https://www.size.ly/calculator/cylinder-volume-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://cuemath.com/calculators/volume-of-cylinder-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://testbook.com/amp/calculators/volume-of-cylinder-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://goodcalculators.com/cylinder-volume-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.cuemath.com/calculators/volume-of-a-cylinder-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://sdt13.abe.msstate.edu/tools/Volume/cylinder.php": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.firgelliauto.com/en-de/blogs/engineering-calculators/cylinder-volume-calculator-tank-pipe-capacity": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.firgelliauto.com/blogs/engineering-calculators/cylinder-volume-calculator-tank-pipe-capacity": [
-   "unreachable (fetch failed)"
-  ],
-  "https://calctool.org/math-and-statistics/cylinder-volume": [
-   "unreachable (fetch failed)"
-  ],
-  "https://ovacen.com/en/calculator/cylinder-volume/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.vcalc.com/wiki/volume-of-cylinder": [
-   "unreachable (fetch failed)"
-  ],
-  "https://mathcheck.net/calculators/cylinder-volume-calculator": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

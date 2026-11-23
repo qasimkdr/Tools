@@ -5,7 +5,7 @@
    "finalUrl": "https://www.calculator.net/gravel-calculator.html",
    "mode": "offline-parse",
    "domain": "www.calculator.net",
-   "fetchedAt": "2026-11-22T07:49:34.137Z",
+   "fetchedAt": "2026-11-23T01:22:55.854Z",
    "title": "Gravel Calculator",
    "metaDescription": "This free gravel calculator estimates the amount of gravel needed to cover an area. It can also estimate the cost.",
    "canonical": null,
@@ -305,7 +305,7 @@
    "finalUrl": "https://www.omnicalculator.com/construction/gravel",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T07:49:42.432Z",
+   "fetchedAt": "2026-11-23T01:22:57.319Z",
    "title": "Gravel Calculator | How much gravel do you need?",
    "metaDescription": "The gravel calculator finds the volume, mass and price of gravel used during earthworks.",
    "canonical": "https://www.omnicalculator.com/construction/gravel",
@@ -627,7 +627,7 @@
    "finalUrl": "https://www.calculatorsoup.com/calculators/construction/gravel-calculator.php",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-22T07:49:45.415Z",
+   "fetchedAt": "2026-11-23T01:22:58.683Z",
    "title": "Gravel Calculator",
    "metaDescription": "Calculate the amount of gravel you need to fill an area at any depth. Select type of gravel, enter dimensions, calculate gravel volume, weight and optional cost.",
    "canonical": "https://www.calculatorsoup.com/calculators/construction/gravel-calculator.php",
@@ -925,7 +925,7 @@
    "finalUrl": "https://www.inchcalculator.com/gravel-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-22T07:49:59.614Z",
+   "fetchedAt": "2026-11-23T01:23:00.303Z",
    "title": "Gravel Calculator - Estimate Yards and Tons - Inch Calculator",
    "metaDescription": "Calculate how much gravel or aggregate you need in cubic yards and tons. Estimate landscape material including rock, sand, and topsoil.",
    "canonical": "https://www.inchcalculator.com/gravel-calculator/",
@@ -1320,27 +1320,5 @@
    ]
   }
  },
- "failed": {
-  "https://homeadvisor.com/r/gravel-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://eartheasy.com/pages/gravel-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://omnicalculator.com/all/gravel": [
-   "unreachable (fetch failed)"
-  ],
-  "https://thecalculatorsite.com/construction/gravel-calculator.php": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.angi.com/articles/gravel-calculator.htm": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.gigacalculator.com/calculators/gravel-calculator.php": [
-   "disallowed by robots.txt"
-  ],
-  "https://apps.apple.com/us/app/id1552365836": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

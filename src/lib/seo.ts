@@ -22,7 +22,10 @@ export function pageMeta(opts: {
 
 type Crumb = { name: string; path: string };
 
+const person = () => ({ "@type": "Person", name: SITE.editor.name, jobTitle: SITE.editor.role, url: abs(SITE.editor.url) });
+
 export const ld = {
+  person: () => ({ "@context": "https://schema.org", ...person(), description: SITE.editor.bio, worksFor: { "@type": "Organization", name: SITE.name, url: SITE.url } }),
   breadcrumbs: (items: Crumb[]) => ({
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -40,6 +43,7 @@ export const ld = {
     browserRequirements: "Requires JavaScript",
     isAccessibleForFree: true,
     offers: { "@type": "Offer", price: "0", priceCurrency: "USD" },
+    author: person(),
     publisher: { "@type": "Organization", name: SITE.name, url: SITE.url },
   }),
   /** FAQ rich results are limited to gov/health sites since 2023; markup is still valid and helps parsers. */
@@ -56,7 +60,7 @@ export const ld = {
     mainEntityOfPage: abs(o.path),
     datePublished: o.datePublished,
     dateModified: o.dateModified,
-    author: { "@type": "Organization", name: SITE.editor.name, url: abs(SITE.editor.url) },
+    author: person(),
     publisher: { "@type": "Organization", name: SITE.name, url: SITE.url },
   }),
   website: () => ({

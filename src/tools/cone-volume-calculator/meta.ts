@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "cone volume calculator",
   keywords: ["cone volume formula", "volume of a cone", "volume of cone formula", "frustum volume", "slant height", "conical volume"],
   related: ["cylinder-volume-calculator", "right-triangle-calculator", "hypotenuse-calculator", "cubic-yard-calculator"],
+  sources: [{ name: "Wikipedia: Cone", url: "https://en.wikipedia.org/wiki/Cone" }, { name: "NIST Handbook 44, Appendix C: General tables of units of measurement", url: "https://www.nist.gov/document/2026-nist-handbook-44-appendix-c" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "🍦",

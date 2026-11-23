@@ -1,6 +1,6 @@
 # Competitor analysis: "bitumen calculator"
 
-- Research id: `asphalt-calculator` · roadmap page: Asphalt Calculator · report generated 2026-11-22
+- Research id: `asphalt-calculator` · roadmap page: Asphalt Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -11,7 +11,7 @@
 | Volume 14800, KD 16, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #20: www.omnicalculator.com/construction/asphalt | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
 | Result list for "asphalt calculator tons [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-22 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -253,18 +253,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.omnicalculator.com/construction/asphalt (inspected 2026-11-22, offline-parse)
-- https://www.inchcalculator.com/asphalt-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.thecalculatorsite.com/construction/asphalt-calculator.php (inspected 2026-11-22, offline-parse)
-- https://www.calculatorsoup.com/calculators/construction/roadway.php (inspected 2026-11-22, offline-parse)
-- https://www.getclue.com/calculators/bitumen-prime-coat-calculator: not inspected (unreachable (fetch failed))
-- https://supercalc-website-git.pages.dev/other/bitumen-calculator: not inspected (unreachable (fetch failed))
-- https://supercalc-website.pages.dev/other/bitumen-calculator: not inspected (unreachable (fetch failed))
-- https://asphalt-calculator-astro.pages.dev/bitumen-calculator: not inspected (unreachable (fetch failed))
-- https://status.penumbra.zone/reviews/calculate-bitumen-like-a-prono-expertise-required-just-click-and-get-results-8792828: not inspected (unreachable (fetch failed))
-- https://tools.highaltitudescience.com/post/calculate-bitumen-like-a-prono-expertise-required-just-click-and-get-results: not inspected (unreachable (fetch failed))
-- https://correo.nathonkong.com/post/bitumen-calculator-that-saves-you-hours-youve-watched-your-construction-bills-spike: not inspected (unreachable (fetch failed))
-- https://www.civil-engineering-calculators.com/Road-Construction/Bitumen-Calculator/prime: not inspected (unreachable (fetch failed))
-- https://www.civil-engineering-calculators.com/Road-Construction/Bitumen-Calculator/Tack: not inspected (unreachable (fetch failed))
-- https://codingace.net/gardening/bitumen_quantity.php: not inspected (unreachable (fetch failed))
-- https://calculator.academy/filler-bitumen-ratio-calculator/: not inspected (unreachable (fetch failed))
+- https://www.omnicalculator.com/construction/asphalt (inspected 2026-11-23, offline-parse)
+- https://www.inchcalculator.com/asphalt-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.thecalculatorsite.com/construction/asphalt-calculator.php (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/construction/roadway.php (inspected 2026-11-23, offline-parse)

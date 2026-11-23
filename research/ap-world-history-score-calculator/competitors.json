@@ -5,7 +5,7 @@
    "finalUrl": "https://www.omnicalculator.com/other/ap-world",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-21T19:27:37.765Z",
+   "fetchedAt": "2026-11-23T01:19:28.596Z",
    "title": "AP® World Calculator​",
    "metaDescription": "Use the AP® World calculator​ to estimate your ​AP® score based on the points you get from each section of this history exam.",
    "canonical": "https://www.omnicalculator.com/other/ap-world",
@@ -298,45 +298,5 @@
    ]
   }
  },
- "failed": {
-  "https://fiveable.me/ap-score-calculator/ap-world": [
-   "unreachable (fetch failed)"
-  ],
-  "https://fiveable.me/ap-world/ap-score-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.albert.io/blog/ap-world-history-score-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.collegetransitions.com/blog/ap-world-history-score-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.remnote.com/score-calculator/ap-world-history": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.albert.io/blog/ap-world-history": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.test-ninjas.com/ap-world-history-score-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.collegevine.com/faq/121956/ap-world-history-test-score-calculation": [
-   "unreachable (fetch failed)"
-  ],
-  "https://scholarly.so/tools/ap-world-history-score-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.revisiondojo.com/blog/ap-world-history-score-calculator-predict-your-ap-world-exam-score-or-revisiondojo": [
-   "unreachable (fetch failed)"
-  ],
-  "https://admissionsight.com/ap-world-history-score-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.revisiondojo.com/blog/ap-world-calculator-score-prediction-tool-for-ap-world-history-or-revisiondojo": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.studocu.com/tools/calculators/apworld": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

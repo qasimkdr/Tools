@@ -14,4 +14,5 @@ export type ToolMeta = {
   published: string; // ISO date
   updated: string; // ISO date (change only on real content/tool updates)
   icon?: string;
+  sources?: { name: string; url: string }[]; // official/primary references shown in a "Sources" list (only URLs verified to exist)
 };

@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "gcf calculator",
   keywords: ["greatest common factor calculator", "how to calculate gcf", "common factor calculator", "gcd calculator", "hcf calculator", "euclidean algorithm"],
   related: ["fraction-calculator", "ratio-calculator", "square-root-calculator", "proportion-calculator"],
+  sources: [{ name: "Wikipedia: Greatest common divisor", url: "https://en.wikipedia.org/wiki/Greatest_common_divisor" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "🔢",

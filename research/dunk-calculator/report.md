@@ -1,6 +1,6 @@
 # Competitor analysis: "dunk calculator"
 
-- Research id: `dunk-calculator` · roadmap page: Dunk Calculator · report generated 2026-11-22
+- Research id: `dunk-calculator` · roadmap page: Dunk Calculator · report generated 2026-11-23
 - Pages inspected: **1** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -9,7 +9,7 @@
 |---|---|---|---|
 | Result list for "dunk calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 4400, KD 12, intent C - I | Semrush export (data/source) | Third-party estimate | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -161,4 +161,4 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.omnicalculator.com/sports/dunk (inspected 2026-11-22, offline-parse)
+- https://www.omnicalculator.com/sports/dunk (inspected 2026-11-23, offline-parse)

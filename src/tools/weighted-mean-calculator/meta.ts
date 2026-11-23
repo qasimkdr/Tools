@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "weighted mean calculator",
   keywords: ["weighted average calculator", "weighted mean formula", "how to calculate weighted average", "weighted standard deviation", "sumproduct average", "weighted arithmetic mean"],
   related: ["standard-deviation-calculator", "grade-calculator", "gpa-calculator", "confidence-interval-calculator"],
+  sources: [{ name: "Wikipedia: Weighted arithmetic mean", url: "https://en.wikipedia.org/wiki/Weighted_arithmetic_mean" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "⚖️",

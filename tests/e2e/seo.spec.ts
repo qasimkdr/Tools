@@ -6,7 +6,7 @@ const sitemap = fs.readFileSync("out/sitemap.xml", "utf8");
 const all = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => new URL(m[1]).pathname);
 // Full run checks all pages; quick run (default) checks every non-variant page + a sample of programmatic variants.
 const urls = process.env.FULL ? all : all.filter((p, i) => !/-from-today\/\d+\/$/.test(p) || i % 15 === 0);
-const LEGAL = /^\/(about|contact|privacy-policy|terms|disclaimer|editorial-policy)\/$/;
+const LEGAL = /^\/(about|about\/mohammad-qasim|contact|privacy-policy|terms|disclaimer|editorial-policy)\/$/;
 
 for (const path of urls) {
   test(`SEO ${path}`, async ({ page }) => {

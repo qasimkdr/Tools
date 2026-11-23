@@ -1,6 +1,6 @@
 # Competitor analysis: "how many cubic feet in a cubic yard"
 
-- Research id: `how-many-cubic-feet-in-a-cubic-yard` · roadmap page: Cubic Yard Calculator · report generated 2026-11-21
+- Research id: `how-many-cubic-feet-in-a-cubic-yard` · roadmap page: Cubic Yard Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -11,7 +11,7 @@
 | Volume 22200, KD 38, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #14: www.omnicalculator.com/construction/ft2-yd3 | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
 | Result list for "how many cubic feet in a cubic yard [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-21 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-21 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -268,19 +268,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://inchcalculator.com:443/convert/cubic-yard-to-cubic-foot → https://www.inchcalculator.com/convert/cubic-yard-to-cubic-foot/ (inspected 2026-11-21, offline-parse)
-- https://www.calculatorsoup.com/calculators/conversions/cubic-feet-to-cubic-yards.php (inspected 2026-11-21, offline-parse)
-- https://www.thecalculatorsite.com/articles/units/cubic-feet-in-a-yard.php (inspected 2026-11-21, offline-parse)
-- https://www.omnicalculator.com/construction/ft2-yd3 (inspected 2026-11-21, offline-parse)
-- https://www.vedantu.com/question-answer/cubic-feet-are-in-a-cubic-yard-class-8-maths-cbse-60274d2ea3e87e31d086ed9a: not inspected (unreachable (fetch failed))
-- https://thecalculatorsite.com/articles/units/cubic-feet-in-a-yard.php: not inspected (unreachable (fetch failed))
-- https://2022sneakpeek.voya.com/?p=34632: not inspected (unreachable (fetch failed))
-- https://2022sneakpeek.voya.com/tag/cubic: not inspected (unreachable (fetch failed))
-- https://www.vedantu.com/calculator/cubic-foot-to-cubic-yard: not inspected (unreachable (fetch failed))
-- https://thecalculatorsite.com/conversions/liquidvolume/cubic-yards-to-cubic-feet.php: not inspected (unreachable (fetch failed))
-- https://miniwebtool.com/cubic-feet-to-cubic-yards/: not inspected (unreachable (fetch failed))
-- https://php5.cdeworld.com/tag/cubic: not inspected (unreachable (fetch failed))
-- https://www.convertunits.com/from/feet^3/to/cubic+yard: not inspected (unreachable (fetch failed))
-- https://omnicalculator.com/construction/cubic-yard: not inspected (unreachable (fetch failed))
-- https://en.wikipedia.com/wiki/Cu_yd: not inspected (unreachable (fetch failed))
-- https://www.convertunits.com/from/yard/to/cubic+feet: not inspected (unreachable (fetch failed))
+- https://inchcalculator.com:443/convert/cubic-yard-to-cubic-foot → https://www.inchcalculator.com/convert/cubic-yard-to-cubic-foot/ (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/conversions/cubic-feet-to-cubic-yards.php (inspected 2026-11-23, offline-parse)
+- https://www.thecalculatorsite.com/articles/units/cubic-feet-in-a-yard.php (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/construction/ft2-yd3 (inspected 2026-11-23, offline-parse)

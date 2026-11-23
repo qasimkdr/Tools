@@ -1,6 +1,6 @@
 # Competitor analysis: "concrete calculator"
 
-- Research id: `concrete-calculator` · roadmap page: Concrete Calculator · report generated 2026-11-22
+- Research id: `concrete-calculator` · roadmap page: Concrete Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "concrete calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 301000, KD 40, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #1: www.calculator.net/concrete-calculator.html | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-21 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -306,17 +306,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.calculator.net/concrete-calculator.html?holediameter=5 (inspected 2026-11-21, offline-parse)
-- https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?do=pop (inspected 2026-11-21, offline-parse)
-- https://www.omnicalculator.com/construction/concrete-slab (inspected 2026-11-21, offline-parse)
-- https://www.inchcalculator.com/concrete-calculator → https://www.inchcalculator.com/concrete-calculator/ (inspected 2026-11-21, offline-parse)
-- https://www.pearson.com/channels/ko-kr/calculators/concrete-calculator: not inspected (unreachable (fetch failed))
-- https://www.pearson.com/channels/calculators/concrete-calculator: not inspected (unreachable (fetch failed))
-- https://www.housecallpro.com/general-contractor/templates-calculators/concrete-calculator/: not inspected (unreachable (fetch failed))
-- https://www.jotform.com/products/apps/concrete-calculator-app/: not inspected (unreachable (fetch failed))
-- https://www.homeadvisor.com/r/concrete-calculator: not inspected (unreachable (fetch failed))
-- https://www.gigacalculator.com/calculators/concrete-calculator.php: not inspected (disallowed by robots.txt)
-- https://www.homedit.com/calculators/concrete-calculator: not inspected (unreachable (fetch failed))
-- https://forconstructionpros.com/concrete/article/21135667/concrete-calculator-shortcuts-to-the-order: not inspected (unreachable (fetch failed))
-- https://apps.apple.com/app/id6742077717: not inspected (unreachable (fetch failed))
-- https://apps.apple.com/us/app/-/id1587170686: not inspected (unreachable (fetch failed))
+- https://www.calculator.net/concrete-calculator.html?holediameter=5 (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?do=pop (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/construction/concrete-slab (inspected 2026-11-23, offline-parse)
+- https://www.inchcalculator.com/concrete-calculator → https://www.inchcalculator.com/concrete-calculator/ (inspected 2026-11-23, offline-parse)

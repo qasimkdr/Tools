@@ -1,5 +1,5 @@
 "use client";
-import type { ReactNode } from "react";
+import { useRef, useState, type ReactNode } from "react";
 
 /** Shared calculator UI primitives (keep every tool visually consistent; see docs/05-DESIGN-SYSTEM.md). */
 export function Field({ id, label, value, onChange, prefix, suffix, step = "any", min, hint, inputMode = "decimal" }: {
@@ -46,17 +46,41 @@ export function Stat({ k, v }: { k: string; v: ReactNode }) {
 }
 
 export function ResultCard({ label, value, children, error }: { label: string; value: ReactNode; children?: ReactNode; error?: string | null }) {
+  const body = useRef<HTMLDivElement>(null);
   return (
-    <div aria-live="polite" data-testid="result" className="rounded-2xl bg-[var(--surface)] p-5 shadow-sm ring-1 ring-[var(--border)] sm:p-6">
+    <div aria-live="polite" data-testid="result" className="result-card rounded-2xl bg-[var(--surface)] p-5 shadow-sm ring-1 ring-[var(--border)] sm:p-6">
       {error ? (
         <p className="text-sm font-medium text-amber-700">{error}</p>
       ) : (
         <>
-          <p className="text-sm font-medium muted">{label}</p>
-          <p className="mt-1 animate-pop text-3xl font-extrabold tracking-tight text-gradient tabular-nums sm:text-4xl">{value}</p>
-          {children}
+          <div ref={body}>
+            <p className="text-sm font-medium muted">{label}</p>
+            <p className="mt-1 animate-pop text-3xl font-extrabold tracking-tight text-gradient tabular-nums sm:text-4xl">{value}</p>
+            {children}
+          </div>
+          <ResultActions target={body} />
         </>
       )}
+    </div>
+  );
+}
+
+/** Copy result · Share link (inputs are in the URL) · Print. Works on a static site; no tracking. */
+function ResultActions({ target }: { target: React.RefObject<HTMLDivElement | null> }) {
+  const [done, setDone] = useState<"" | "copy" | "link">("");
+  const flash = (k: "copy" | "link") => { setDone(k); setTimeout(() => setDone(""), 1800); };
+  const copy = async (text: string, k: "copy" | "link") => { try { await navigator.clipboard.writeText(text); flash(k); } catch { /* clipboard blocked */ } };
+  const share = async () => {
+    const url = window.location.href;
+    if (navigator.share) { try { await navigator.share({ title: document.title, url }); return; } catch { /* cancelled */ } }
+    copy(url, "link");
+  };
+  const btn = "inline-flex items-center gap-1.5 rounded-lg border border-[var(--border)] px-2.5 py-1.5 text-xs font-semibold muted hover:text-[var(--text)]";
+  return (
+    <div className="result-actions mt-4 flex flex-wrap gap-2 border-t border-[var(--border)] pt-3" data-testid="result-actions">
+      <button type="button" className={btn} onClick={() => copy(`${target.current?.innerText.trim() ?? ""}\n${window.location.href}`, "copy")}>{done === "copy" ? "Copied ✓" : "Copy result"}</button>
+      <button type="button" className={btn} onClick={share}>{done === "link" ? "Link copied ✓" : "Share link"}</button>
+      <button type="button" className={btn} onClick={() => window.print()}>Print</button>
     </div>
   );
 }

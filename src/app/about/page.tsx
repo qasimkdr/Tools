@@ -17,8 +17,7 @@ export default function Page() {
         <li><strong>Kept up to date.</strong> Tools that depend on rules, rates or limits are reviewed when those rules change, and each page shows its last-updated date.</li>
       </ul>
       <h2>Who is behind SolvePilot</h2>
-      {/* TODO(owner): replace with real names, credentials and photos — real authorship is a key E-E-A-T and AdSense trust signal. */}
-      <p>SolvePilot is run by a small team of developers and subject-matter reviewers. Finance, health and other high-stakes tools are reviewed by people with relevant experience before they go live. Read our <Link href="/editorial-policy/">editorial policy</Link> to see how we research, test and correct our content.</p>
+      <p>SolvePilot was founded and is edited by <Link href="/about/mohammad-qasim/">Mohammad Qasim</Link>, a software and web developer who builds, source-checks and tests every calculator. Finance, health and legal-adjacent tools follow official published guidance, cite their sources, and are not a substitute for professional advice. Read our <Link href="/editorial-policy/">editorial policy</Link> to see how we research, test and correct our content.</p>
       <p>Questions or found a mistake? <Link href="/contact/">Contact us</Link>. We read every message and fix confirmed errors quickly.</p>
     </StaticPage>
   );

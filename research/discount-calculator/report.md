@@ -1,6 +1,6 @@
 # Competitor analysis: "discount calculator"
 
-- Research id: `discount-calculator` · roadmap page: Discount Calculator · report generated 2026-11-22
+- Research id: `discount-calculator` · roadmap page: Discount Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "discount calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 33100, KD 11, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #15: www.calculator.net/percent-off-calculator.html | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -101,7 +101,7 @@ Calculator inputs observed:
 
 | Competitor | Words before tool | Ad networks | Ad slots | HTML KB | Viewport | Avg sentence |
 |---|---|---|---|---|---|---|
-| www.omnicalculator.com | n/a (JS) | gpt | 0 | 1392 | ✓ | 16 |
+| www.omnicalculator.com | n/a (JS) | gpt | 0 | 1391 | ✓ | 16 |
 | www.inchcalculator.com | 41 | gpt, adthrive | 0 | 128 | ✓ | 27 |
 | www.calculator.net | 21 | gpt | 1 | 9 | ✓ | 29 |
 | www.calculatorsoup.com | 15 | gpt | 0 | 52 | ✓ | 32 |
@@ -251,22 +251,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.omnicalculator.com/math/discount → https://www.omnicalculator.com/finance/discount (inspected 2026-11-22, offline-parse)
-- https://inchcalculator.com/discount-calculator → https://www.inchcalculator.com/discount-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.calculator.net/discount-calculator.html (inspected 2026-11-22, offline-parse)
-- https://www.calculatorsoup.com/calculators/financial/discount-calculator.php (inspected 2026-11-22, offline-parse)
-- https://www.zoho.com/kw/invoice/free-discount-calculator/: not inspected (unreachable (fetch failed))
-- https://chrome.google.com/webstore/detail/discount-calculator/hhgkcfjpojpnpnojmbicnliajhjmhlkd/reviews?hl=en-US: not inspected (unreachable (fetch failed))
-- https://www.zoho.com/en-fr/invoice/free-discount-calculator/: not inspected (unreachable (fetch failed))
-- https://www.pearson.com/channels/ko-kr/calculators/discount-calculator: not inspected (unreachable (fetch failed))
-- https://ecommerce-platforms.com/discount-calculator: not inspected (unreachable (fetch failed))
-- https://www.pearson.com/channels/calculators/discount-calculator: not inspected (unreachable (fetch failed))
-- https://ecommerce-platforms.com/?p=80761: not inspected (unreachable (fetch failed))
-- https://www.gigacalculator.com/calculators/discount-calculator.php: not inspected (disallowed by robots.txt)
-- https://www.shadcn.io/tools/discount-calculator: not inspected (unreachable (fetch failed))
-- https://apps.apple.com/sa/app/id6744504215: not inspected (unreachable (fetch failed))
-- https://mintlify.com/modernharp/discountcalculator/guides/using-the-calculator: not inspected (unreachable (fetch failed))
-- https://apps.apple.com/us/app/id6742233623: not inspected (unreachable (fetch failed))
-- https://www.holded.com/tools/calculators-discount: not inspected (unreachable (fetch failed))
-- https://miniwebtool.com/discount-calculator/: not inspected (unreachable (fetch failed))
-- https://prisync.com/discount-calculator: not inspected (unreachable (fetch failed))
+- https://www.omnicalculator.com/math/discount → https://www.omnicalculator.com/finance/discount (inspected 2026-11-23, offline-parse)
+- https://inchcalculator.com/discount-calculator → https://www.inchcalculator.com/discount-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.calculator.net/discount-calculator.html (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/financial/discount-calculator.php (inspected 2026-11-23, offline-parse)

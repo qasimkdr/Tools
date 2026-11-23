@@ -5,7 +5,7 @@
    "finalUrl": "https://www.omnicalculator.com/physics/density-altitude",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T15:58:07.243Z",
+   "fetchedAt": "2026-11-23T01:21:52.829Z",
    "title": "Density Altitude Calculator",
    "metaDescription": "The density altitude calculator tells you your effective altitude in terms of the International Standard Atmosphere, which is necessary for determining airplane engine performance and lift.",
    "canonical": "https://www.omnicalculator.com/physics/density-altitude",
@@ -251,12 +251,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.calculate.co.nz/density-altitude-calculator.php": [
-   "unreachable (fetch failed)"
-  ],
-  "https://calctool.org/atmospheric-thermodynamics/density-altitude": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

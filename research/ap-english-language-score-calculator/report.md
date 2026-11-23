@@ -1,6 +1,6 @@
 # Competitor analysis: "ap english language and composition score calculator"
 
-- Research id: `ap-english-language-score-calculator` · roadmap page: AP English Language Score Calculator · report generated 2026-11-22
+- Research id: `ap-english-language-score-calculator` · roadmap page: AP English Language Score Calculator · report generated 2026-11-23
 - Pages inspected: **1** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -9,7 +9,7 @@
 |---|---|---|---|
 | Result list for "ap english language and composition score calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 2400, KD 4, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -160,4 +160,4 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.omnicalculator.com/other/ap-lang-score (inspected 2026-11-22, offline-parse)
+- https://www.omnicalculator.com/other/ap-lang-score (inspected 2026-11-23, offline-parse)

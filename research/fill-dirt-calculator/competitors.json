@@ -5,7 +5,7 @@
    "finalUrl": "https://www.inchcalculator.com/soil-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-22T14:38:30.997Z",
+   "fetchedAt": "2026-11-23T01:22:20.620Z",
    "title": "Soil Calculator - Estimate Topsoil - Inch Calculator",
    "metaDescription": "Calculate how much soil you need for a landscaping project. Find how many bags, cubic feet, or yards of soil or dirt will fill the area.",
    "canonical": "https://www.inchcalculator.com/soil-calculator/",
@@ -427,7 +427,7 @@
    "finalUrl": "https://www.calculatorsoup.com/calculators/construction/roadway.php",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-22T14:38:34.187Z",
+   "fetchedAt": "2026-11-23T01:22:21.921Z",
    "title": "Road Base Calculator | Roadway Fill Volume",
    "metaDescription": "Calculate road base fill given length, width and depth of base material. Find volume, weight and price of roadway sub base for asphalt, clay, gravel, sand or dirt.",
    "canonical": "https://www.calculatorsoup.com/calculators/construction/roadway.php",
@@ -726,9 +726,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.omnicalculator.com/construction/dirt": [
-   "HTTP 404"
-  ]
- }
+ "failed": {}
 }

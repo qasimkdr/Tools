@@ -5,7 +5,7 @@
    "finalUrl": "https://www.omnicalculator.com/everyday-life/half-birthday",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T10:19:38.303Z",
+   "fetchedAt": "2026-11-23T01:23:02.662Z",
    "title": "Half Birthday Calculator",
    "metaDescription": "Use this half-birthday calculator to find the exact date 6 months from your birthday. Enter your date of birth to find out when your next half-birthday falls.",
    "canonical": "https://www.omnicalculator.com/everyday-life/half-birthday",
@@ -284,7 +284,7 @@
    "finalUrl": "https://www.thecalculatorsite.com/misc/birthday-calculator.php",
    "mode": "offline-parse",
    "domain": "www.thecalculatorsite.com",
-   "fetchedAt": "2026-11-22T10:21:36.329Z",
+   "fetchedAt": "2026-11-23T01:23:04.163Z",
    "title": "Birthday Calculator - Your Age, Day of Birth, Birthstone and more",
    "metaDescription": "Discover the day on which you were born, your exact age, celebrities you share your birthay with and more fun facts",
    "canonical": "https://www.thecalculatorsite.com/misc/birthday-calculator.php",
@@ -609,63 +609,5 @@
    ]
   }
  },
- "failed": {
-  "https://miniwebtool.com/half-birthday-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.scarymommy.com/parenting/half-birthday-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.scarymommy.com/half-birthday-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://mafilom.github.io/Half-Birthday-Calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.thewordfinder.com/calculators/half-birthday-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://en.wikipedia.org/wiki/Half-birthday": [
-   "unreachable (fetch failed)"
-  ],
-  "https://calculator.academy/half-birthday-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://calculator.academy/when-is-my-half-birthday-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://bushe.co/tools/half-birthday-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://calculators.sg/half-birthday-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://track.ctrader.com/calendar/half-birthday-calendar.html": [
-   "unreachable (fetch failed)"
-  ],
-  "https://sourcetable.com/calculate/how-to-calculate-half-birthday": [
-   "unreachable (fetch failed)"
-  ],
-  "https://sourcetable.com/calculate/when-is-your-half-birthday-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://totalcalchub.com/us/utilities/half-birthday-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://salt-django.crmcloud.infor.com/half-birthday-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://howoldamitoday-gh.pages.dev/half-birthday": [
-   "unreachable (fetch failed)"
-  ],
-  "https://ganaknextjs.pages.dev/calculators/half-birthday-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://everycalculators.com/how-to-calculate-half-birthday.html": [
-   "unreachable (fetch failed)"
-  ],
-  "https://everycalculators.com/calculate-half-birthday.html": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

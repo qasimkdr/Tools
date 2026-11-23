@@ -5,7 +5,7 @@
    "finalUrl": "https://www.calculator.net/age-calculator.html",
    "mode": "offline-parse",
    "domain": "www.calculator.net",
-   "fetchedAt": "2026-11-21T21:54:42.793Z",
+   "fetchedAt": "2026-11-23T01:19:11.914Z",
    "title": "Age Calculator",
    "metaDescription": "This free age calculator computes age in terms of years, months, weeks, days, hours, minutes, and seconds, given a date of birth.",
    "canonical": null,
@@ -242,7 +242,7 @@
    "finalUrl": "https://www.omnicalculator.com/everyday-life/age",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-21T21:54:49.920Z",
+   "fetchedAt": "2026-11-23T01:19:14.324Z",
    "title": "Age Calculator: Find Your Age from Date of Birth",
    "metaDescription": "Calculate your age accurately by a set date with our easy-to-use age calculator tool. Answer the question, how many days old am I instantly! Try it now.",
    "canonical": "https://www.omnicalculator.com/everyday-life/age",
@@ -577,7 +577,7 @@
    "finalUrl": "https://www.inchcalculator.com/age-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-21T21:55:03.972Z",
+   "fetchedAt": "2026-11-23T01:19:16.230Z",
    "title": "Age Calculator - Calculate Your Exact Age - Inch Calculator",
    "metaDescription": "Wondering how old you are? Use our age calculator to find out how old you are in years, months, days, hours, minutes, and seconds.",
    "canonical": "https://www.inchcalculator.com/age-calculator/",
@@ -910,7 +910,7 @@
    "finalUrl": "https://www.calculatorsoup.com/calculators/time/age-calculator.php",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-21T21:57:14.932Z",
+   "fetchedAt": "2026-11-23T01:19:17.530Z",
    "title": "Age Calculator",
    "metaDescription": "This free age calculator finds age in years, months and days given a date of birth. Accurately calculate age on any date, age at death, or time duration between two dates.",
    "canonical": "https://www.calculatorsoup.com/calculators/time/age-calculator.php",
@@ -1222,45 +1222,5 @@
    ]
   }
  },
- "failed": {
-  "https://dqydj.com/age-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://dqydj.com/?p=20812": [
-   "unreachable (fetch failed)"
-  ],
-  "https://calculatorsoup.com/calculators/time/age-calculator.php": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.almanac.com/tool/age-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.w3schools.com/tools/tool_age_calculator.php": [
-   "unreachable (fetch failed)"
-  ],
-  "https://apps.apple.com/us/app/-/id6740143492": [
-   "unreachable (fetch failed)"
-  ],
-  "https://apps.apple.com/us/app/id1668958810": [
-   "unreachable (fetch failed)"
-  ],
-  "https://unacademy.com/content/?p=468801": [
-   "unreachable (fetch failed)"
-  ],
-  "https://cuemath.com/calculators/age-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.gigacalculator.com/calculators/age-calculator.php": [
-   "disallowed by robots.txt"
-  ],
-  "https://www.hirequotient.com/age-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://pooranjoyb.github.io/Age-Calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://starto.odoo.com/age-calculator": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

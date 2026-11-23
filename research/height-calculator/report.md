@@ -1,6 +1,6 @@
 # Competitor analysis: "khamis-roche method height calculator"
 
-- Research id: `height-calculator` · roadmap page: Height Calculator · report generated 2026-11-22
+- Research id: `height-calculator` · roadmap page: Height Calculator · report generated 2026-11-23
 - Pages inspected: **3** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "khamis-roche method height calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 1600, KD 11, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #2: www.calculator.net/height-calculator.html | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -229,6 +229,6 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.calculator.net/height-calculator.html (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/health/height (inspected 2026-11-22, offline-parse)
-- https://www.inchcalculator.com/childs-height-prediction-calculator/ → https://www.inchcalculator.com/height-calculator/ (inspected 2026-11-22, offline-parse)
+- https://www.calculator.net/height-calculator.html (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/health/height (inspected 2026-11-23, offline-parse)
+- https://www.inchcalculator.com/childs-height-prediction-calculator/ → https://www.inchcalculator.com/height-calculator/ (inspected 2026-11-23, offline-parse)

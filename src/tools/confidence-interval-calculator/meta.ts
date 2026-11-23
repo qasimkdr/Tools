@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "confidence interval calculator",
   keywords: ["how to calculate confidence intervals", "confidence level calculator", "margin of error calculator", "95 confidence interval", "t interval", "proportion confidence interval"],
   related: ["square-root-calculator", "random-number-generator", "ratio-calculator", "scientific-notation-calculator"],
+  sources: [{ name: "Wikipedia: 1.96 (97.5th percentile point)", url: "https://en.wikipedia.org/wiki/1.96" }, { name: "Wikipedia: Normal distribution", url: "https://en.wikipedia.org/wiki/Normal_distribution" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "📊",

@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "linear feet calculator",
   keywords: ["linear foot calculator", "square feet to linear feet", "lineal feet", "price per linear foot", "trim calculator", "decking linear feet"],
   related: ["board-foot-calculator", "square-footage-calculator", "stud-calculator", "fraction-calculator"],
+  sources: [{ name: "NIST Handbook 44, Appendix C: General tables of units of measurement", url: "https://www.nist.gov/document/2026-nist-handbook-44-appendix-c" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "📏",

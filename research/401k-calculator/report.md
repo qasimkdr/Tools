@@ -1,6 +1,6 @@
 # Competitor analysis: "401k calculator"
 
-- Research id: `401k-calculator` · roadmap page: 401(k) Calculator · report generated 2026-11-22
+- Research id: `401k-calculator` · roadmap page: 401(k) Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -11,7 +11,7 @@
 | Volume 135000, KD 26, intent C | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #1: www.calculator.net/401k-calculator.html | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
 | Result list for "401k calculator [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-22 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -117,7 +117,7 @@ Calculator inputs observed:
 | Competitor | Words before tool | Ad networks | Ad slots | HTML KB | Viewport | Avg sentence |
 |---|---|---|---|---|---|---|
 | www.calculator.net | 50 | gpt | 1 | 32 | ✓ | 23 |
-| www.omnicalculator.com | n/a (JS) | gpt | 0 | 1433 | ✓ | 18 |
+| www.omnicalculator.com | n/a (JS) | gpt | 0 | 1432 | ✓ | 18 |
 | www.calculator.io | n/a (JS) | adsense | 6 | 90 | ✓ | 25 |
 | www.smartasset.com | 5 | gpt | 0 | 229 | ✓ | 21 |
 
@@ -269,25 +269,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.calculator.net/401k-calculator.html?ftag=YHF4eb9d17 (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/finance/401k (inspected 2026-11-22, offline-parse)
-- https://www.calculator.io/401k-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.smartasset.com/retirement/401k-calculator (inspected 2026-11-22, offline-parse)
-- https://www.nerdwallet.com/investing/calculators/401k-calculator: not inspected (disallowed by robots.txt)
-- https://www.nerdwallet.com/retirement/calculators/401k-calculator: not inspected (disallowed by robots.txt)
-- https://creditkarma.com/advice/i/credit-karma-guide-to-saving-for-retirement: not inspected (unreachable (fetch failed))
-- https://learn.g2.com/401k-calculator?hsLang=en: not inspected (unreachable (fetch failed))
-- https://www.creditkarma.com/insights/i/irs-save-more-in-retirement-accounts-2019: not inspected (unreachable (fetch failed))
-- https://bankrate.com/calculators/investing/401k-savings-calculator.aspx: not inspected (unreachable (fetch failed))
-- https://dqydj.com/401k-calculator/: not inspected (unreachable (fetch failed))
-- https://www.moneygeek.com/financial-planning/investing/401k-calculator: not inspected (unreachable (fetch failed))
-- https://goodcalculators.com/401k-calculator/: not inspected (unreachable (fetch failed))
-- https://www.westernsouthern.com/retirement/401k-calculator: not inspected (unreachable (fetch failed))
-- https://calculator.io/401k-calculator: not inspected (unreachable (fetch failed))
-- https://dinkytown.net/java/Retire401k.html: not inspected (unreachable (fetch failed))
-- https://www.pimafederal.org/calculator/retire-401k: not inspected (unreachable (fetch failed))
-- https://www.macrotrends.net/tools/calculators/401k-retirement-calculator: not inspected (unreachable (fetch failed))
-- https://smartasset.com/retirement/401k-calculator: not inspected (unreachable (fetch failed))
-- https://www.nerdwallet.com/retirement/calculators/401k-calculator-2: not inspected (disallowed by robots.txt)
-- https://smartasset.com/retirement/what-happens-to-money-in-a-401k-that-isnt-vested: not inspected (unreachable (fetch failed))
-- https://smartasset.com/retirement/how-much-can-i-contribute-to-my-solo-401k: not inspected (unreachable (fetch failed))
+- https://www.calculator.net/401k-calculator.html?ftag=YHF4eb9d17 (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/finance/401k (inspected 2026-11-23, offline-parse)
+- https://www.calculator.io/401k-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.smartasset.com/retirement/401k-calculator (inspected 2026-11-23, offline-parse)

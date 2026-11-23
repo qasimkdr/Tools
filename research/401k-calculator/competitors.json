@@ -5,7 +5,7 @@
    "finalUrl": "https://www.calculator.net/401k-calculator.html?ftag=YHF4eb9d17",
    "mode": "offline-parse",
    "domain": "www.calculator.net",
-   "fetchedAt": "2026-11-22T07:50:24.941Z",
+   "fetchedAt": "2026-11-23T01:19:05.016Z",
    "title": "401K Calculator",
    "metaDescription": "Free 401K calculator to plan and estimate a 401K balance and payout amount in retirement or help with early withdrawals or maximizing employer match.",
    "canonical": null,
@@ -355,7 +355,7 @@
    "finalUrl": "https://www.omnicalculator.com/finance/401k",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T07:50:33.778Z",
+   "fetchedAt": "2026-11-23T01:19:06.593Z",
    "title": "401k Calculator",
    "metaDescription": "The 401k calculator lets you assess the final balance in your 401k savings account and how long the annuity will last.",
    "canonical": "https://www.omnicalculator.com/finance/401k",
@@ -624,7 +624,7 @@
     "authoritativeSources": []
    },
    "ux": {
-    "htmlKB": 1433,
+    "htmlKB": 1432,
     "adNetworks": [
      "gpt"
     ],
@@ -679,7 +679,7 @@
    "finalUrl": "https://www.calculator.io/401k-calculator/",
    "mode": "offline-parse",
    "domain": "www.calculator.io",
-   "fetchedAt": "2026-11-22T07:53:25.905Z",
+   "fetchedAt": "2026-11-23T01:19:08.263Z",
    "title": "401K Calculator",
    "metaDescription": "Maximize your retirement savings with our free 401k calculator. Project account growth, estimate future balances, and plan for a secure financial future.",
    "canonical": "https://www.calculator.io/401k-calculator/",
@@ -1018,7 +1018,7 @@
    "finalUrl": "https://www.smartasset.com/retirement/401k-calculator",
    "mode": "offline-parse",
    "domain": "www.smartasset.com",
-   "fetchedAt": "2026-11-22T07:54:47.856Z",
+   "fetchedAt": "2026-11-23T01:19:09.642Z",
    "title": "401(k) Calculator - How Much Could Your 401(k) Be Worth?",
    "metaDescription": "Use SmartAsset's 401(k) calculator to figure out how your income, employer matches, taxes and other factors will affect how your 401(k) grows over time.",
    "canonical": "https://smartasset.com/retirement/401k-calculator",
@@ -1336,60 +1336,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.nerdwallet.com/investing/calculators/401k-calculator": [
-   "disallowed by robots.txt"
-  ],
-  "https://www.nerdwallet.com/retirement/calculators/401k-calculator": [
-   "disallowed by robots.txt"
-  ],
-  "https://creditkarma.com/advice/i/credit-karma-guide-to-saving-for-retirement": [
-   "unreachable (fetch failed)"
-  ],
-  "https://learn.g2.com/401k-calculator?hsLang=en": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.creditkarma.com/insights/i/irs-save-more-in-retirement-accounts-2019": [
-   "unreachable (fetch failed)"
-  ],
-  "https://bankrate.com/calculators/investing/401k-savings-calculator.aspx": [
-   "unreachable (fetch failed)"
-  ],
-  "https://dqydj.com/401k-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.moneygeek.com/financial-planning/investing/401k-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://goodcalculators.com/401k-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.westernsouthern.com/retirement/401k-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://calculator.io/401k-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://dinkytown.net/java/Retire401k.html": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.pimafederal.org/calculator/retire-401k": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.macrotrends.net/tools/calculators/401k-retirement-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://smartasset.com/retirement/401k-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.nerdwallet.com/retirement/calculators/401k-calculator-2": [
-   "disallowed by robots.txt"
-  ],
-  "https://smartasset.com/retirement/what-happens-to-money-in-a-401k-that-isnt-vested": [
-   "unreachable (fetch failed)"
-  ],
-  "https://smartasset.com/retirement/how-much-can-i-contribute-to-my-solo-401k": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

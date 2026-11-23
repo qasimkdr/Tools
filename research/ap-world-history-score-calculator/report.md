@@ -1,6 +1,6 @@
 # Competitor analysis: "ap world score calculator"
 
-- Research id: `ap-world-history-score-calculator` · roadmap page: AP World History Score Calculator · report generated 2026-11-21
+- Research id: `ap-world-history-score-calculator` · roadmap page: AP World History Score Calculator · report generated 2026-11-23
 - Pages inspected: **1** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -11,7 +11,7 @@
 | Volume 6600, KD 4, intent C | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #17: www.omnicalculator.com/other/ap-world | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
 | Result list for "ap world score calculator [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-21 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-21 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -180,17 +180,4 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.omnicalculator.com/other/ap-world (inspected 2026-11-21, offline-parse)
-- https://fiveable.me/ap-score-calculator/ap-world: not inspected (unreachable (fetch failed))
-- https://fiveable.me/ap-world/ap-score-calculator: not inspected (unreachable (fetch failed))
-- https://www.albert.io/blog/ap-world-history-score-calculator/: not inspected (unreachable (fetch failed))
-- https://www.collegetransitions.com/blog/ap-world-history-score-calculator/: not inspected (unreachable (fetch failed))
-- https://www.remnote.com/score-calculator/ap-world-history: not inspected (unreachable (fetch failed))
-- https://www.albert.io/blog/ap-world-history: not inspected (unreachable (fetch failed))
-- https://www.test-ninjas.com/ap-world-history-score-calculator: not inspected (unreachable (fetch failed))
-- https://www.collegevine.com/faq/121956/ap-world-history-test-score-calculation: not inspected (unreachable (fetch failed))
-- https://scholarly.so/tools/ap-world-history-score-calculator: not inspected (unreachable (fetch failed))
-- https://www.revisiondojo.com/blog/ap-world-history-score-calculator-predict-your-ap-world-exam-score-or-revisiondojo: not inspected (unreachable (fetch failed))
-- https://admissionsight.com/ap-world-history-score-calculator/: not inspected (unreachable (fetch failed))
-- https://www.revisiondojo.com/blog/ap-world-calculator-score-prediction-tool-for-ap-world-history-or-revisiondojo: not inspected (unreachable (fetch failed))
-- https://www.studocu.com/tools/calculators/apworld: not inspected (unreachable (fetch failed))
+- https://www.omnicalculator.com/other/ap-world (inspected 2026-11-23, offline-parse)

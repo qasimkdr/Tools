@@ -41,10 +41,18 @@ export default function ToolLayout({ tool, calculator, children, faq, intro, pat
         <div className="grid gap-12 lg:grid-cols-[minmax(0,1fr)_300px]">
           <article className="min-w-0">
             <Reveal once className="prose-sp">{children}</Reveal>
+            {tool.sources && tool.sources.length > 0 && (
+              <section aria-labelledby="sources" className="prose-sp mt-8">
+                <h2 id="sources">Sources</h2>
+                <ul className="text-sm">
+                  {tool.sources.map((src) => <li key={src.url}><a href={src.url} rel="noopener" className="underline">{src.name}</a></li>)}
+                </ul>
+              </section>
+            )}
             <AdSlot slot={process.env.NEXT_PUBLIC_AD_SLOT_INARTICLE} />
             <Faq items={faq} />
-            <p className="mt-10 text-sm subtle">
-              Reviewed by <a className="underline" href={SITE.editor.url}>{SITE.editor.name}</a> · Last updated{" "}
+            <p className="byline mt-10 text-sm subtle">
+              By <a rel="author" className="author underline" href={SITE.editor.url}>{SITE.editor.name}</a>, {SITE.editor.role} · Last updated{" "}
               <time dateTime={tool.updated}>{new Date(tool.updated + "T00:00:00").toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</time>
             </p>
           </article>

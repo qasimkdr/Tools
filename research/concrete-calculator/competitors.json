@@ -5,7 +5,7 @@
    "finalUrl": "https://www.calculator.net/concrete-calculator.html?holediameter=5",
    "mode": "offline-parse",
    "domain": "www.calculator.net",
-   "fetchedAt": "2026-11-21T19:28:16.334Z",
+   "fetchedAt": "2026-11-23T01:20:55.461Z",
    "title": "Concrete Calculator",
    "metaDescription": "This free concrete calculator estimates the amount of concrete necessary for a project and can account for different shapes and quantities.",
    "canonical": null,
@@ -277,7 +277,7 @@
    "finalUrl": "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php?do=pop",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-21T19:28:21.937Z",
+   "fetchedAt": "2026-11-23T01:20:56.666Z",
    "title": "Concrete Calculator",
    "metaDescription": "Calculate amount of concrete you need and estimate cost for concrete slabs, footers, walls, columns, steps, curbs and gutters. Estimate ready mix volume and cost.",
    "canonical": "https://www.calculatorsoup.com/calculators/construction/concrete-calculator.php",
@@ -716,7 +716,7 @@
    "finalUrl": "https://www.omnicalculator.com/construction/concrete-slab",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-21T19:28:25.011Z",
+   "fetchedAt": "2026-11-23T01:20:58.813Z",
    "title": "Concrete Calculator",
    "metaDescription": "Concrete calculator – evaluate the amount of concrete and cement needed for a slab block.",
    "canonical": "https://www.omnicalculator.com/construction/concrete-slab",
@@ -1051,7 +1051,7 @@
    "finalUrl": "https://www.inchcalculator.com/concrete-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-21T19:28:47.174Z",
+   "fetchedAt": "2026-11-23T01:21:00.691Z",
    "title": "Concrete Calculator - Find How Many Yards You Need - Inch Calculator",
    "metaDescription": "Calculate concrete in yards or pre-mixed bags for a slab, footing, wall, or other project. Plus, calculate concrete price for the project.",
    "canonical": "https://www.inchcalculator.com/concrete-calculator/",
@@ -1511,36 +1511,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.pearson.com/channels/ko-kr/calculators/concrete-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.pearson.com/channels/calculators/concrete-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.housecallpro.com/general-contractor/templates-calculators/concrete-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.jotform.com/products/apps/concrete-calculator-app/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.homeadvisor.com/r/concrete-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.gigacalculator.com/calculators/concrete-calculator.php": [
-   "disallowed by robots.txt"
-  ],
-  "https://www.homedit.com/calculators/concrete-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://forconstructionpros.com/concrete/article/21135667/concrete-calculator-shortcuts-to-the-order": [
-   "unreachable (fetch failed)"
-  ],
-  "https://apps.apple.com/app/id6742077717": [
-   "unreachable (fetch failed)"
-  ],
-  "https://apps.apple.com/us/app/-/id1587170686": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

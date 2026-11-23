@@ -5,7 +5,7 @@
    "finalUrl": "https://www.omnicalculator.com/construction/asphalt",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T09:58:45.989Z",
+   "fetchedAt": "2026-11-23T01:19:54.584Z",
    "title": "Asphalt Calculator",
    "metaDescription": "This asphalt calculator determines the amount of asphalt needed for any asphalt pavement project and explains the basics of asphalt pavement installation.",
    "canonical": "https://www.omnicalculator.com/construction/asphalt",
@@ -268,7 +268,7 @@
    "finalUrl": "https://www.inchcalculator.com/asphalt-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-22T09:58:49.140Z",
+   "fetchedAt": "2026-11-23T01:19:56.025Z",
    "title": "Asphalt Calculator - Estimate Blacktop Tonnage - Inch Calculator",
    "metaDescription": "Calculate asphalt, materials, and labor for driveways, parking lots, or other surfacing projects using a map or the project dimensions.",
    "canonical": "https://www.inchcalculator.com/asphalt-calculator/",
@@ -622,7 +622,7 @@
    "finalUrl": "https://www.thecalculatorsite.com/construction/asphalt-calculator.php",
    "mode": "offline-parse",
    "domain": "www.thecalculatorsite.com",
-   "fetchedAt": "2026-11-22T09:58:52.326Z",
+   "fetchedAt": "2026-11-23T01:19:57.387Z",
    "title": "Asphalt Calculator - How Much Asphalt Do I Need?",
    "metaDescription": "Calculate the amount of asphalt you might require for your driveway, path or other paving project",
    "canonical": "https://www.thecalculatorsite.com/construction/asphalt-calculator.php",
@@ -975,7 +975,7 @@
    "finalUrl": "https://www.calculatorsoup.com/calculators/construction/roadway.php",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-22T09:58:55.409Z",
+   "fetchedAt": "2026-11-23T01:19:58.802Z",
    "title": "Road Base Calculator | Roadway Fill Volume",
    "metaDescription": "Calculate road base fill given length, width and depth of base material. Find volume, weight and price of roadway sub base for asphalt, clay, gravel, sand or dirt.",
    "canonical": "https://www.calculatorsoup.com/calculators/construction/roadway.php",
@@ -1274,39 +1274,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.getclue.com/calculators/bitumen-prime-coat-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://supercalc-website-git.pages.dev/other/bitumen-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://supercalc-website.pages.dev/other/bitumen-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://asphalt-calculator-astro.pages.dev/bitumen-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://status.penumbra.zone/reviews/calculate-bitumen-like-a-prono-expertise-required-just-click-and-get-results-8792828": [
-   "unreachable (fetch failed)"
-  ],
-  "https://tools.highaltitudescience.com/post/calculate-bitumen-like-a-prono-expertise-required-just-click-and-get-results": [
-   "unreachable (fetch failed)"
-  ],
-  "https://correo.nathonkong.com/post/bitumen-calculator-that-saves-you-hours-youve-watched-your-construction-bills-spike": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.civil-engineering-calculators.com/Road-Construction/Bitumen-Calculator/prime": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.civil-engineering-calculators.com/Road-Construction/Bitumen-Calculator/Tack": [
-   "unreachable (fetch failed)"
-  ],
-  "https://codingace.net/gardening/bitumen_quantity.php": [
-   "unreachable (fetch failed)"
-  ],
-  "https://calculator.academy/filler-bitumen-ratio-calculator/": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

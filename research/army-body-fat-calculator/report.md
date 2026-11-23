@@ -1,6 +1,6 @@
 # Competitor analysis: "army body fat calculator"
 
-- Research id: `army-body-fat-calculator` · roadmap page: Army Body Fat Calculator · report generated 2026-11-21
+- Research id: `army-body-fat-calculator` · roadmap page: Army Body Fat Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -11,7 +11,7 @@
 | Volume 12100, KD 16, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #1: www.calculator.net/army-body-fat-calculator.html | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
 | Result list for "army body fat calculator [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-21 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-21 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -251,21 +251,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://inchcalculator.com/army-body-fat-calculator → https://www.inchcalculator.com/army-body-fat-calculator/ (inspected 2026-11-21, offline-parse)
-- https://www.omnicalculator.com/fitness/army-body-fat → https://www.omnicalculator.com/health/army-body-fat (inspected 2026-11-21, offline-parse)
-- https://www.calculator.net/army-body-fat-calculator.html (inspected 2026-11-21, offline-parse)
-- https://www.calculator.io/army-body-fat-calculator/ (inspected 2026-11-21, offline-parse)
-- https://calculator.net/army-body-fat-calculator: not inspected (unreachable (fetch failed))
-- https://Calculator.net/army-body-fat-calculator.html: not inspected (unreachable (fetch failed))
-- https://guyru.github.io/calculators/army-body-fat-calculator.html: not inspected (unreachable (fetch failed))
-- https://legionathletics.com/army-body-fat-calculator: not inspected (unreachable (fetch failed))
-- https://www.gigacalculator.com/calculators/army-body-fat-calculator.php: not inspected (disallowed by robots.txt)
-- https://www.stylecraze.com/tools/army-body-fat-calculator: not inspected (unreachable (fetch failed))
-- https://online.visual-paradigm.com/tabular/calculator/health/army-body-fat-calculator: not inspected (unreachable (fetch failed))
-- https://online.visual-paradigm.com/spreadsheet-editor/calculator/army-body-fat-calculator/: not inspected (unreachable (fetch failed))
-- https://calculator.io/army-body-fat-calculator: not inspected (unreachable (fetch failed))
-- https://thecalculatortoolbox.odoo.com/army-body-fat-calculator: not inspected (unreachable (fetch failed))
-- https://ameblo.jp/unitcalculatortool/: not inspected (unreachable (fetch failed))
-- https://size.ly/calculator/army-body-fat-calculator: not inspected (unreachable (fetch failed))
-- https://miniwebtool.com/army-body-fat-calculator/: not inspected (unreachable (fetch failed))
-- https://www.fitbudd.com/calculators/army-body-fat-calculator: not inspected (unreachable (fetch failed))
+- https://inchcalculator.com/army-body-fat-calculator → https://www.inchcalculator.com/army-body-fat-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/fitness/army-body-fat → https://www.omnicalculator.com/health/army-body-fat (inspected 2026-11-23, offline-parse)
+- https://www.calculator.net/army-body-fat-calculator.html (inspected 2026-11-23, offline-parse)
+- https://www.calculator.io/army-body-fat-calculator/ (inspected 2026-11-23, offline-parse)

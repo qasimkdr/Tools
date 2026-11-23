@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "air conditioner size calculator",
   keywords: ["btu calculator", "ac btu calculator", "air conditioner btu calculator", "ac size calculator", "ac tonnage calculator", "window ac size", "what size air conditioner do i need"],
   related: ["square-footage-calculator", "wire-size-calculator", "tile-calculator", "density-altitude-calculator"],
+  sources: [{ name: "ENERGY STAR: Room air conditioners (sizing chart)", url: "https://www.energystar.gov/products/room_air_conditioners" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "❄️",

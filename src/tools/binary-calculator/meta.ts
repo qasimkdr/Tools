@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "binary converter",
   keywords: ["binary calculator", "binary to decimal", "decimal to binary", "binary number converter", "hex to binary", "binary translator", "twos complement"],
   related: ["scientific-notation-calculator", "square-root-calculator", "fraction-calculator", "random-number-generator"],
+  sources: [{ name: "Princeton IntroCS: Binary converter", url: "https://introcs.cs.princeton.edu/java/61data/BinaryConverter.java.html" }, { name: "Wikipedia: Binary number", url: "https://en.wikipedia.org/wiki/Binary_number" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "💻",

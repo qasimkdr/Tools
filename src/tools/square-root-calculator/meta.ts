@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "square root calculator",
   keywords: ["cube root calculator", "root calculator", "simplify square root", "how to find the square root", "nth root", "perfect square"],
   related: ["exponent-calculator", "simplify-radicals-calculator", "hypotenuse-calculator", "scientific-calculator", "log-calculator"],
+  sources: [{ name: "Wikipedia: Square root", url: "https://en.wikipedia.org/wiki/Square_root" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "√",

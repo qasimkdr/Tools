@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "time between calculator",
   keywords: ["days between dates", "calculate number of days between dates", "date duration calculator", "how many days between two dates", "date to date calculator", "business days between dates"],
   related: ["days-from-today", "age-calculator", "hours-calculator", "half-birthday-calculator"],
+  sources: [{ name: "U.S. Office of Personnel Management: Federal holidays", url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/" }],
   published: "2026-11-23",
   updated: "2026-11-23",
   icon: "📆",

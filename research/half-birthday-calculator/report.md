@@ -1,6 +1,6 @@
 # Competitor analysis: "half birthday calculator"
 
-- Research id: `half-birthday-calculator` · roadmap page: Half Birthday Calculator · report generated 2026-11-22
+- Research id: `half-birthday-calculator` · roadmap page: Half Birthday Calculator · report generated 2026-11-23
 - Pages inspected: **2** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -11,7 +11,7 @@
 | Volume 5400, KD 10, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #2: www.omnicalculator.com/everyday-life/half-birthday | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
 | Result list for "half birthday calculator [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-22 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -206,24 +206,5 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.omnicalculator.com/everyday-life/half-birthday (inspected 2026-11-22, offline-parse)
-- https://www.thecalculatorsite.com/misc/birthday-calculator.php (inspected 2026-11-22, offline-parse)
-- https://miniwebtool.com/half-birthday-calculator/: not inspected (unreachable (fetch failed))
-- https://www.scarymommy.com/parenting/half-birthday-calculator: not inspected (unreachable (fetch failed))
-- https://www.scarymommy.com/half-birthday-calculator/: not inspected (unreachable (fetch failed))
-- https://mafilom.github.io/Half-Birthday-Calculator/: not inspected (unreachable (fetch failed))
-- https://www.thewordfinder.com/calculators/half-birthday-calculator/: not inspected (unreachable (fetch failed))
-- https://en.wikipedia.org/wiki/Half-birthday: not inspected (unreachable (fetch failed))
-- https://calculator.academy/half-birthday-calculator/: not inspected (unreachable (fetch failed))
-- https://calculator.academy/when-is-my-half-birthday-calculator/: not inspected (unreachable (fetch failed))
-- https://bushe.co/tools/half-birthday-calculator/: not inspected (unreachable (fetch failed))
-- https://calculators.sg/half-birthday-calculator: not inspected (unreachable (fetch failed))
-- https://track.ctrader.com/calendar/half-birthday-calendar.html: not inspected (unreachable (fetch failed))
-- https://sourcetable.com/calculate/how-to-calculate-half-birthday: not inspected (unreachable (fetch failed))
-- https://sourcetable.com/calculate/when-is-your-half-birthday-calculator: not inspected (unreachable (fetch failed))
-- https://totalcalchub.com/us/utilities/half-birthday-calculator: not inspected (unreachable (fetch failed))
-- https://salt-django.crmcloud.infor.com/half-birthday-calculator: not inspected (unreachable (fetch failed))
-- https://howoldamitoday-gh.pages.dev/half-birthday: not inspected (unreachable (fetch failed))
-- https://ganaknextjs.pages.dev/calculators/half-birthday-calculator/: not inspected (unreachable (fetch failed))
-- https://everycalculators.com/how-to-calculate-half-birthday.html: not inspected (unreachable (fetch failed))
-- https://everycalculators.com/calculate-half-birthday.html: not inspected (unreachable (fetch failed))
+- https://www.omnicalculator.com/everyday-life/half-birthday (inspected 2026-11-23, offline-parse)
+- https://www.thecalculatorsite.com/misc/birthday-calculator.php (inspected 2026-11-23, offline-parse)

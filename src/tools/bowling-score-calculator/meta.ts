@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "bowling score calculator",
   keywords: ["bowling calculator", "bowling calculator score", "how to score bowling", "strike", "spare", "10th frame"],
   related: ["bowling-handicap-calculator", "golf-handicap-calculator", "random-number-generator", "earned-run-average-calculator", "percent-calculator"],
+  sources: [{ name: "Wikipedia: Tenpin bowling", url: "https://en.wikipedia.org/wiki/Tenpin_bowling" }, { name: "Wikipedia: Perfect game (bowling)", url: "https://en.wikipedia.org/wiki/Perfect_game_(bowling)" }, { name: "University of Georgia: Bowling scoring", url: "https://open.online.uga.edu/bowling/chapter/3-bowling-scoring" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "🎳",

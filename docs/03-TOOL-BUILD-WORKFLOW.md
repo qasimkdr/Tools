@@ -47,6 +47,9 @@ You get: primary keyword, volume, KD, all merged keywords (≤40), competitor UR
 4. Do NOT edit live tools to add reverse links (live tools are frozen). Put strong matches in the NEW tool's `related`; the engine scores reciprocal links, so live pages' auto-generated related blocks pick the new tool up without touching their files.
 1. `src/tools/<slug>/meta.ts` (ToolMeta: title ≤60, description 140–160, category, keywords, `related` 2–6 slugs).
    `related` may name unpublished slugs (ignored until they go live, then links appear automatically).
+   `sources`: 1–3 official/primary references (`{ name, url }`, prefer .gov/.edu/standards bodies, else Wikipedia) rendered
+   as a "Sources" list. Only URLs returned by a search or already verified — never guess a URL. Byline/author (Mohammad Qasim,
+   Founder & Editor) and the Copy/Share/Print result actions come from `ToolLayout`/`ResultCard` automatically.
 2. `src/app/<slug>/page.tsx`: copy `src/app/days-from-today/page.tsx`, change imports + intro.
 3. Add to `TOOLS` in `src/tools/registry.ts`.
 4. Add the reverse link: put the new slug into `related` of 1–3 existing live tools that match.
@@ -59,6 +62,8 @@ You get: primary keyword, volume, KD, all merged keywords (≤40), competitor UR
 - `npm run test:e2e` passes (SEO checks on every sitemap URL, internal links, no console errors, no mobile overflow).
   Add a functional spec `tests/e2e/<slug>.spec.ts` with 2–3 hand-verified calculations.
 - Screenshot desktop+mobile, light+dark for a visual check.
+- `npm run seo:self -- --slugs <new slugs>` (serve `out/` on :4173): our page must score ≥ the best researched competitor
+  on the same rubric (`research/SELF-SCORE.md`). If behind, fix the real gap (content, sources, features), not the wording.
 - Run the `seo-check` skill mentally against `01-SEO-RULES.md` §1 (skip its outdated items — see §4 there).
 
 ## Step 7 — Ship

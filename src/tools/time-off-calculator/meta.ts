@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "time off calculator",
   keywords: ["pto calculator", "pto accrual calculator", "paid time off calculator", "vacation accrual calculator", "how much pto do i have", "vacation days calculator"],
   related: ["hours-calculator", "paycheck-calculator", "date-difference-calculator", "days-from-today"],
+  sources: [{ name: "U.S. Department of Labor: Vacation leave", url: "https://www.dol.gov/general/topic/workhours/vacation_leave" }],
   published: "2026-11-23",
   updated: "2026-11-23",
   icon: "🏖️",

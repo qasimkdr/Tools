@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "ffmi calculator",
   keywords: ["fat free mass index calculator", "normalized ffmi", "lean body mass calculator", "natural muscle limit", "ffmi formula", "body composition"],
   related: ["army-body-fat-calculator", "bmi-women-calculator", "bench-press-max-calculator", "dunk-calculator"],
+  sources: [{ name: "Fat-Free Mass Index in collegiate American football athletes (PMC)", url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11042886/" }, { name: "Wikipedia: Lean body mass", url: "https://en.wikipedia.org/wiki/Lean_body_mass" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "🏋️",

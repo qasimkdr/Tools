@@ -5,7 +5,7 @@
    "finalUrl": "https://www.omnicalculator.com/finance/discount",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T06:01:22.954Z",
+   "fetchedAt": "2026-11-23T01:21:55.909Z",
    "title": "Discount Calculator",
    "metaDescription": "The discount calculator uses a product's original price and discount percentage to find the final price and the amount you save.",
    "canonical": "https://www.omnicalculator.com/finance/discount",
@@ -288,7 +288,7 @@
     "authoritativeSources": []
    },
    "ux": {
-    "htmlKB": 1392,
+    "htmlKB": 1391,
     "adNetworks": [
      "gpt"
     ],
@@ -333,7 +333,7 @@
    "finalUrl": "https://www.inchcalculator.com/discount-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-22T06:01:26.562Z",
+   "fetchedAt": "2026-11-23T01:21:57.814Z",
    "title": "Discount Calculator - Calculate the Sale Price - Inch Calculator",
    "metaDescription": "Use our discount calculator to find the sale price. The calculator supports fixed price and percent-off discounts.",
    "canonical": "https://www.inchcalculator.com/discount-calculator/",
@@ -706,7 +706,7 @@
    "finalUrl": "https://www.calculator.net/discount-calculator.html",
    "mode": "offline-parse",
    "domain": "www.calculator.net",
-   "fetchedAt": "2026-11-22T06:01:32.761Z",
+   "fetchedAt": "2026-11-23T01:21:59.072Z",
    "title": "Discount Calculator",
    "metaDescription": "Online calculator to determine the final price after discount, the amount saved, or the original price before discount related to a discounted purchase.",
    "canonical": null,
@@ -940,7 +940,7 @@
    "finalUrl": "https://www.calculatorsoup.com/calculators/financial/discount-calculator.php",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-22T06:01:54.041Z",
+   "fetchedAt": "2026-11-23T01:22:00.378Z",
    "title": "Discount Calculator",
    "metaDescription": "Calculate the discount, list price or sale price and find out the discount amount of money saved.  Enter any two values to find the third. Where the formula is Sale Price = List Price - Discount x List Price.",
    "canonical": "https://www.calculatorsoup.com/calculators/financial/discount-calculator.php",
@@ -1214,51 +1214,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.zoho.com/kw/invoice/free-discount-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://chrome.google.com/webstore/detail/discount-calculator/hhgkcfjpojpnpnojmbicnliajhjmhlkd/reviews?hl=en-US": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.zoho.com/en-fr/invoice/free-discount-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.pearson.com/channels/ko-kr/calculators/discount-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://ecommerce-platforms.com/discount-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.pearson.com/channels/calculators/discount-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://ecommerce-platforms.com/?p=80761": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.gigacalculator.com/calculators/discount-calculator.php": [
-   "disallowed by robots.txt"
-  ],
-  "https://www.shadcn.io/tools/discount-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://apps.apple.com/sa/app/id6744504215": [
-   "unreachable (fetch failed)"
-  ],
-  "https://mintlify.com/modernharp/discountcalculator/guides/using-the-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://apps.apple.com/us/app/id6742233623": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.holded.com/tools/calculators-discount": [
-   "unreachable (fetch failed)"
-  ],
-  "https://miniwebtool.com/discount-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://prisync.com/discount-calculator": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

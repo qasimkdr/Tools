@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "lead time calculator",
   keywords: ["lead time formula", "how to calculate lead time", "delivery date calculator", "order by date calculator", "reorder point calculator", "supply chain lead time", "manufacturing lead time"],
   related: ["days-from-today", "date-difference-calculator", "productivity-calculator", "hours-calculator"],
+  sources: [{ name: "U.S. Office of Personnel Management: Federal holidays", url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/" }],
   published: "2026-11-23",
   updated: "2026-11-23",
   icon: "🚚",

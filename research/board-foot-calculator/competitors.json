@@ -5,7 +5,7 @@
    "finalUrl": "https://www.inchcalculator.com/board-footage-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-22T14:38:55.124Z",
+   "fetchedAt": "2026-11-23T01:20:24.969Z",
    "title": "Board Foot Calculator - How to Figure Board Feet - Inch Calculator",
    "metaDescription": "Use the board foot calculator to find board feet for one or more pieces of lumber. Plus, learn how to calculate board feet with formulas.",
    "canonical": "https://www.inchcalculator.com/board-footage-calculator/",
@@ -435,7 +435,7 @@
    "finalUrl": "https://www.omnicalculator.com/construction/board-foot",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T14:38:59.168Z",
+   "fetchedAt": "2026-11-23T01:20:26.783Z",
    "title": "Board Foot Calculator",
    "metaDescription": "The board foot calculator determines the volume of lumber in board footage.",
    "canonical": "https://www.omnicalculator.com/construction/board-foot",
@@ -738,9 +738,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.calculatorsoup.com/calculators/construction/board-feet-calculator.php": [
-   "HTTP 404"
-  ]
- }
+ "failed": {}
 }

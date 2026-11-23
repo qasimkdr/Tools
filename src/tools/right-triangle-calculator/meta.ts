@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "right triangle calculator",
   keywords: ["right triangle solver", "right angle triangle calculator", "isosceles right triangle", "how to find the missing side of a triangle", "sohcahtoa", "triangle formula"],
   related: ["hypotenuse-calculator", "triangle-calculator", "area-calculator", "proportion-calculator", "ratio-calculator"],
+  sources: [{ name: "Wikipedia: Pythagorean theorem", url: "https://en.wikipedia.org/wiki/Pythagorean_theorem" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "📏",

@@ -5,7 +5,7 @@
    "finalUrl": "https://www.omnicalculator.com/construction/fence-post-depth",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-23T00:24:19.151Z",
+   "fetchedAt": "2026-11-23T01:22:14.295Z",
    "title": "Fence Post Depth Calculator",
    "metaDescription": "Use this fence post depth calculator to determine the ideal depth for your fence posts.",
    "canonical": "https://www.omnicalculator.com/construction/fence-post-depth",
@@ -270,12 +270,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.inchcalculator.com/fence-post-depth-calculator/": [
-   "HTTP 404"
-  ],
-  "https://www.calculator.net/fence-calculator.html": [
-   "HTTP 404"
-  ]
- }
+ "failed": {}
 }

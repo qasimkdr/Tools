@@ -1,6 +1,6 @@
 # Competitor analysis: "surface area calculator"
 
-- Research id: `area-calculator` · roadmap page: Area Calculator · report generated 2026-11-22
+- Research id: `area-calculator` · roadmap page: Area Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "surface area calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 6600, KD 22, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #1: www.calculator.net/surface-area-calculator.html | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -278,7 +278,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.calculator.net/surface-area-calculator.html (inspected 2026-11-22, offline-parse)
-- https://www.inchcalculator.com/surface-area-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/math/surface-area (inspected 2026-11-22, offline-parse)
-- https://www.calculatorsoup.com/calculators/geometry-solids/surfacearea.php (inspected 2026-11-22, offline-parse)
+- https://www.calculator.net/surface-area-calculator.html (inspected 2026-11-23, offline-parse)
+- https://www.inchcalculator.com/surface-area-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/math/surface-area (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/geometry-solids/surfacearea.php (inspected 2026-11-23, offline-parse)

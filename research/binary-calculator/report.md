@@ -1,6 +1,6 @@
 # Competitor analysis: "binary converter"
 
-- Research id: `binary-calculator` · roadmap page: Binary Calculator · report generated 2026-11-22
+- Research id: `binary-calculator` · roadmap page: Binary Calculator · report generated 2026-11-23
 - Pages inspected: **3** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "binary converter" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 1200000, KD 43, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #12: www.calculator.net/binary-calculator.html | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -223,7 +223,6 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.calculator.net/binary-calculator.html (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/math/binary → https://www.omnicalculator.com/conversion/binary (inspected 2026-11-22, offline-parse)
-- https://www.inchcalculator.com/binary-converter/ → https://www.inchcalculator.com/binary-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.calculatorsoup.com/calculators/math/binary-calculator.php: not inspected (HTTP 404)
+- https://www.calculator.net/binary-calculator.html (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/math/binary → https://www.omnicalculator.com/conversion/binary (inspected 2026-11-23, offline-parse)
+- https://www.inchcalculator.com/binary-converter/ → https://www.inchcalculator.com/binary-calculator/ (inspected 2026-11-23, offline-parse)

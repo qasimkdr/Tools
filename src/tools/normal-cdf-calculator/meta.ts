@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "normal cdf calculator",
   keywords: ["normal distribution calculator", "normalcdf", "z score probability", "inverse normal calculator", "bell curve calculator", "area under normal curve"],
   related: ["confidence-interval-calculator", "ap-statistics-score-calculator", "scientific-notation-calculator", "square-root-calculator"],
+  sources: [{ name: "Wikipedia: Normal distribution", url: "https://en.wikipedia.org/wiki/Normal_distribution" }, { name: "Stanford CS109: Normal CDF handout", url: "https://web.stanford.edu/class/cs109/handouts/normalCDF.html" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "🔔",

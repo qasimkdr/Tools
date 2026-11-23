@@ -1,6 +1,6 @@
 # Competitor analysis: "board feet calculator"
 
-- Research id: `board-foot-calculator` · roadmap page: Board Foot Calculator · report generated 2026-11-22
+- Research id: `board-foot-calculator` · roadmap page: Board Foot Calculator · report generated 2026-11-23
 - Pages inspected: **2** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "board feet calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 18100, KD 23, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #2: www.omnicalculator.com/construction/board-foot | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -217,6 +217,5 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.inchcalculator.com/board-footage-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/other/board-foot → https://www.omnicalculator.com/construction/board-foot (inspected 2026-11-22, offline-parse)
-- https://www.calculatorsoup.com/calculators/construction/board-feet-calculator.php: not inspected (HTTP 404)
+- https://www.inchcalculator.com/board-footage-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/other/board-foot → https://www.omnicalculator.com/construction/board-foot (inspected 2026-11-23, offline-parse)

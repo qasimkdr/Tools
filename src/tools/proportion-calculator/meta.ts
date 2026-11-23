@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "proportion calculator",
   keywords: ["proportions calculator", "solve for x", "cross multiplication", "rule of three", "inverse proportion", "equivalent ratios"],
   related: ["ratio-calculator", "hypotenuse-calculator", "fraction-calculator", "percent-calculator", "scale-factor-calculator"],
+  sources: [{ name: "Wikipedia: Proportionality (mathematics)", url: "https://en.wikipedia.org/wiki/Proportionality_(mathematics)" }],
   published: "2026-11-21",
   updated: "2026-11-21",
   icon: "⚖️",

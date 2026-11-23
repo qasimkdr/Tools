@@ -1,6 +1,6 @@
 # Competitor analysis: "90 days from today"
 
-- Research id: `days-from-today` · roadmap page: Date From Today Calculator · report generated 2026-11-21
+- Research id: `days-from-today` · roadmap page: Date From Today Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -12,7 +12,7 @@
 | Result list for "90 days from today [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-21 |
 | Volume 246000, KD 29, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #10: www.omnicalculator.com/everyday-life/90-day | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-21 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -58,7 +58,7 @@
 | [www.inchcalculator.com](https://www.inchcalculator.com/days-from/90-days-from-today/&sa=U&ved=2ahUKEwjKmq7Zi9eCAxVopokEHaCVArYQFnoECAUQAg&usg=AOvVaw1b4QBvH8-0YGjwSe-cPcsc/) | tool (JS-rendered; inputs not parsed) | 459 | 1 | n/a | 4 | 4 | 5 | 3 | **17** /25 |
 | [www.thecalculatorsite.com](https://www.thecalculatorsite.com/time/days/90) | answer page + tool | 883 | 2 | 3 | 4 | 1 | 5 | 3 | **18** |
 | [www.omnicalculator.com](https://www.omnicalculator.com/everyday-life/90-day) | tool | 495 | 3 | 2 | 3 | 4 | 3 | 3 | **18** |
-| [www.symbolab.com](https://www.symbolab.com/calculator/time-date/days-ago/what-is-90-days-before-today) | tool | 254 | 0 | 2 | 5 | 1 | 4 | 3 | **15** |
+| [www.symbolab.com](https://www.symbolab.com/calculator/time-date/days-ago/what-is-90-days-before-today) | tool | 50 | 0 | 1 | 5 | 1 | 4 | 3 | **14** |
 
 <details><summary>Scoring rubric</summary>
 
@@ -81,9 +81,9 @@
 | Download / export | · | · | · | · |
 | Formula shown | · | · | · | · |
 | Worked examples | · | · | ✓ | · |
-| Step-by-step | · | · | ✓ | ✓ |
+| Step-by-step | · | · | ✓ | · |
 | Table | ✓ | ✓ | · | · |
-| Chart / graph | ✓ | · | · | ✓ |
+| Chart / graph | ✓ | · | · | · |
 | Tips / mistakes | · | · | · | · |
 | FAQ section (≥4) | · | · | ✓ | · |
 | FAQ schema | · | ✓ | ✓ | · |
@@ -95,7 +95,7 @@
 
 **Missing everywhere (candidate opportunities; judge relevance):** Print, Download / export, Formula shown, Tips / mistakes, Authoritative sources (.gov/.edu/…), Video
 
-**Only one competitor has:** Worked examples, FAQ section (≥4)
+**Only one competitor has:** Worked examples, Step-by-step, Chart / graph, FAQ section (≥4)
 
 Calculator inputs observed:
 - www.inchcalculator.com: none detected _(JS off — may be under-counted)_
@@ -110,7 +110,7 @@ Calculator inputs observed:
 | www.inchcalculator.com | n/a (JS) | gpt, adthrive | 0 | 89 | ✓ | 18 |
 | www.thecalculatorsite.com | 7 | gpt, adthrive, ezoic | 0 | 303 | ✓ | 44 |
 | www.omnicalculator.com | 4 | gpt | 0 | 509 | ✓ | 19 |
-| www.symbolab.com | 41 | none detected | 0 | 107 | ✓ | 42 |
+| www.symbolab.com | 31 | none detected | 0 | 98 | ✓ | 50 |
 
 ## 5. Accuracy review (manual)
 
@@ -125,10 +125,10 @@ The crawler can't verify correctness. Check these competitor statements against 
 - "90 Weekdays From Today If you want to consider only weekdays and ignore days that fall on the weekend, then the date ninety weekdays from today is Friday, March 26, 2027."
 
 **www.thecalculatorsite.com**
-- "Friday, February 19, 2027 February 19, 2027 19 February 2027 2/19/27 19/2/27 2027-02-19 Adding ninety days to today's date takes you to Friday February 19, 2027."
-- "This is based on today's date of Saturday November 21, 2026."
-- "This is 125 full calendar days from today."
-- "90 working days: Friday, March 26, 2027 To find out how many days there are between two dates, you can use our days calculator tool."
+- "Sunday, February 21, 2027 February 21, 2027 21 February 2027 2/21/27 21/2/27 2027-02-21 Adding ninety days to today's date takes you to Sunday February 21, 2027."
+- "This is based on today's date of Monday November 23, 2026."
+- "This is 126 full calendar days from today."
+- "90 working days: Monday, March 29, 2027 To find out how many days there are between two dates, you can use our days calculator tool."
 - "Related calculators Days from today: 15 days \| 30 days \| 45 days \| 60 days \| Age Calculator Birthday Calculator Calculator by Alastair Hazell."
 
 **www.omnicalculator.com**
@@ -139,10 +139,6 @@ The crawler can't verify correctness. Check these competitor statements against 
 - "By default, the 90 day date calculator is set to compute 90 days from today, but you can choose any date as your initial date."
 - "Calculate any number of days from the initial date by removing 90 days from Time between and entering the number of interest."
 
-**www.symbolab.com**
-- "Step 1 Get today's date: Today is Saturday, November 21, 2026 Step 2 The table below shows how many days fit into every month from the current month and onwards."
-- "Month Days in Month Days counted Days remaining 90 November 30 21 69 October 31 31 38 September 30 30 8 August 31 8 0 The below chart shows the date 90 days ago from today and various other days."
-
 ## 6. Content quality & topics
 
 | Competitor | Title (chars) | Meta (chars) | H1 | H2/H3 | Tables/Lists | FAQs | Author | Updated | Authoritative sources |
@@ -150,11 +146,11 @@ The crawler can't verify correctness. Check these competitor statements against 
 | www.inchcalculator.com | What Date Is 90 Days From Today? - Inch Calculator (50) | 104 | — | 7/1 | 1/2 | 1 | Joe Sexton | 2023-08-29 | — |
 | www.thecalculatorsite.com | What is 90 Days From Today? (27) | 79 | What is 90 Days From Today? | 2/2 | 1/26 | 1 | — | — | — |
 | www.omnicalculator.com | 90 Day Calculator: Find Dates 90 Days From Now (46) | 136 | 90 Day Calculator | 4/2 | 0/5 | 5 | Mariamy Chrdileli | 2024-01-18 | — |
-| www.symbolab.com | what is 90 days before today - Symbolab (39) | 90 | what is 90 days before today | 6/2 | 0/1 | 2 | — | — | — |
+| www.symbolab.com | Days Ago Calculator - Symbolab (30) | 0 | Days Ago Calculator | 2/0 | 0/0 | 0 | — | — | — |
 
-**Topics shared by ≥2 competitors (expected coverage):** `date`×4 · `november`×3 · `days ago`×2 · `day`×2 · `february`×2 · `ago`×2 · `now`×2
+**Topics shared by ≥2 competitors (expected coverage):** `date`×4 · `day`×2 · `february`×2 · `days ago`×2 · `november`×2 · `ago`×2 · `now`×2
 
-**Topics only one competitor covers (differentiators):** `grams` · `day calculator` · `2026 february` · `2026 august` · `2027 november` · `feet` · `august` · `2026 november` · `cups` · `days february` · `square` · `pounds` · `cubic` · `working days` · `ounces` · `weight` · `ninety days` · `move forward` · `interest` · `inches`
+**Topics only one competitor covers (differentiators):** `grams` · `day calculator` · `2026 february` · `2027 november` · `feet` · `cups` · `days february` · `square` · `pounds` · `cubic` · `working days` · `ounces` · `weight` · `ninety days` · `move forward` · `interest` · `inches` · `cubic feet` · `calculator cubic` · `initial date`
 
 **Questions competitors answer (FAQ candidates; write our own answers):**
 - How Much Time Is Ninety Days?
@@ -164,8 +160,6 @@ The crawler can't verify correctness. Check these competitor statements against 
 - How do I calculate 90 days from March 1?
 - 90 day date calculator work?
 - How does the 90 day calculator work?
-- What Date Is 90 Days Ago From Today?
-- How do you calculate the date 90 days ago from now?
 
 ## 7. Internal linking
 
@@ -174,7 +168,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 | www.inchcalculator.com | 20 | ✓ | countdown to February 19th · today's date · days from today calculator · time duration calculator · figure out the date · calendar · find the date 90 days ago · business day calculator |
 | www.thecalculatorsite.com | 166 | ✓ | Finance Calculators · Compound Interest · Compound Interest (Daily) · Amortization Calculator · APY Calculator · CAGR Calculator · Car Loan Calculator · Cash Back Calculator |
 | www.omnicalculator.com | 9 | · | Day counter · Add days calculator · 30 day calculator · 60 day calculator · 180 day calculator · 45 day calculator · 120 day calculator · 100 day calculator |
-| www.symbolab.com | 27 | ✓ | Physics · Chemistry · Math · Statistics · Geometry · Finance · Personal Finance · Sales |
+| www.symbolab.com | 22 | ✓ | Physics · Chemistry · Math · Statistics · Geometry · Finance · Personal Finance · Sales |
 
 ## 8. Structured data
 
@@ -218,39 +212,26 @@ The crawler can't verify correctness. Check these competitor statements against 
     - H3: What is the date 90 days from today, if today is June 24?
     - H3: How do I calculate 90 days from March 1?
 
-### www.symbolab.com: what is 90 days before today - Symbolab
+### www.symbolab.com: Days Ago Calculator - Symbolab
 
-- H1: what is 90 days before today
+- H1: Days Ago Calculator
   - H2: Days Ago Calculator
-  - H2: What Date Is 90 Days Ago From Today?
-  - H2: How do you calculate the date 90 days ago from now?
-    - H3: Step 1
-    - H3: Step 2
-  - H2: The below chart shows the date 90 days ago from today and various other days.
-  - H2: Related Links
   - H2: Related Calculators
 
 ## 10. Action items
 
 1. Format: Transactional/utility: tool first, short supporting content.
 2. Possible differentiators no competitor has (keep only those that fit this intent): Print, Download / export, Formula shown, Tips / mistakes, Authoritative sources (.gov/.edu/…), Video.
-3. Match rare strengths cheaply: Worked examples, FAQ section (≥4).
-4. Cover the shared topics: date, november, days ago, day, february, ago, now.
-5. Write 5 FAQs (competitor median 2), answering questions from §6 in our own words.
-6. Length: competitors range 254–883 words (median 495). Match the intent; don't pad.
+3. Match rare strengths cheaply: Worked examples, Step-by-step, Chart / graph, FAQ section (≥4).
+4. Cover the shared topics: date, day, february, days ago, november, ago, now.
+5. Write 5 FAQs (competitor median 1), answering questions from §6 in our own words.
+6. Length: competitors range 50–883 words (median 495). Match the intent; don't pad.
 7. Trust edge: most competitors cite no authoritative sources. Cite primary sources (.gov/.edu/standards).
 8. Accuracy: verify every statement in §5 against primary sources, and test our tool with the same example inputs.
 
 ## Sources
 
-- https://www.inchcalculator.com/days-from/90-days-from-today/&sa=U&ved=2ahUKEwjKmq7Zi9eCAxVopokEHaCVArYQFnoECAUQAg&usg=AOvVaw1b4QBvH8-0YGjwSe-cPcsc/ (inspected 2026-11-21, offline-parse)
-- https://www.thecalculatorsite.com/time/days/90 (inspected 2026-11-21, offline-parse)
-- https://www.omnicalculator.com/everyday-life/90-day (inspected 2026-11-21, offline-parse)
-- https://www.symbolab.com/calculator/time-date/days-ago/what-is-90-days-before-today (inspected 2026-11-21, offline-parse)
-- https://omnicalculator.com/everyday-life/90-day: not inspected (unreachable (fetch failed))
-- https://es.symbolab.com/calculator/90-days-from-today: not inspected (unreachable (fetch failed))
-- https://cache.omnicalculator.com/everyday-life/90-day: not inspected (unreachable (fetch failed))
-- https://fr.symbolab.com/calculator/time-date/days-until/90-days-from-today: not inspected (unreachable (fetch failed))
-- https://www.thewordfinder.com/calculators/90-days-from-today/: not inspected (unreachable (fetch failed))
-- https://www.geeksforgeeks.org/90-day-calculator/: not inspected (unreachable (fetch failed))
-- https://ar.symbolab.com/calculator/today-90-days: not inspected (unreachable (fetch failed))
+- https://www.inchcalculator.com/days-from/90-days-from-today/&sa=U&ved=2ahUKEwjKmq7Zi9eCAxVopokEHaCVArYQFnoECAUQAg&usg=AOvVaw1b4QBvH8-0YGjwSe-cPcsc/ (inspected 2026-11-23, offline-parse)
+- https://www.thecalculatorsite.com/time/days/90 (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/everyday-life/90-day (inspected 2026-11-23, offline-parse)
+- https://www.symbolab.com/calculator/time-date/days-ago/what-is-90-days-before-today (inspected 2026-11-23, offline-parse)

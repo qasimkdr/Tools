@@ -128,3 +128,11 @@ html:not(.js) .reveal { opacity: 1; transform: none; }
   .reveal { opacity: 1; transform: none; }
   .tilt { transform: none !important; }
 }
+
+/* Print: just the calculator and its result (Print button in ResultCard). */
+@media print {
+  header, footer, nav, aside, .ad-slot, [data-ad], .result-actions, .aurora, .grid-3d { display: none !important; }
+  body { background: #fff !important; }
+  .glass { box-shadow: none !important; border: 1px solid #ccc; }
+  a[href^="http"]::after { content: " (" attr(href) ")"; font-size: 0.8em; }
+}

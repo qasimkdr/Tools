@@ -5,7 +5,7 @@
    "finalUrl": "https://www.calculator.net/binary-calculator.html",
    "mode": "offline-parse",
    "domain": "www.calculator.net",
-   "fetchedAt": "2026-11-22T10:48:35.285Z",
+   "fetchedAt": "2026-11-23T01:20:10.204Z",
    "title": "Binary Calculator",
    "metaDescription": "This free binary calculator can add, subtract, multiply, and divide binary values, as well as convert between binary and decimal values.",
    "canonical": null,
@@ -310,7 +310,7 @@
    "finalUrl": "https://www.omnicalculator.com/conversion/binary",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T10:48:39.173Z",
+   "fetchedAt": "2026-11-23T01:20:12.307Z",
    "title": "Binary Converter",
    "metaDescription": "The binary converter lets you convert numbers from binary to decimal system and back.",
    "canonical": "https://www.omnicalculator.com/conversion/binary",
@@ -578,7 +578,7 @@
    "finalUrl": "https://www.inchcalculator.com/binary-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-22T10:48:42.493Z",
+   "fetchedAt": "2026-11-23T01:20:13.925Z",
    "title": "Binary Calculator & Converter - Inch Calculator",
    "metaDescription": "Use our binary calculator to do binary addition, subtraction, multiplication, division, or conversion. Learn how to solve base 2 equations.",
    "canonical": "https://www.inchcalculator.com/binary-calculator/",
@@ -946,9 +946,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.calculatorsoup.com/calculators/math/binary-calculator.php": [
-   "HTTP 404"
-  ]
- }
+ "failed": {}
 }

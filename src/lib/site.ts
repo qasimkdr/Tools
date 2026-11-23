@@ -8,8 +8,13 @@ export const SITE = {
   twitter: "",
   adsenseClient: process.env.NEXT_PUBLIC_ADSENSE_CLIENT || "",
   gscVerification: process.env.NEXT_PUBLIC_GSC_VERIFICATION || "",
-  // Editorial identity (E-E-A-T). Replace with real people before launch: see docs/02-ADSENSE-RULES.md.
-  editor: { name: "SolvePilot Editorial Team", url: "/about/" },
+  // Editorial identity (E-E-A-T): the real person responsible for the content. Bio: /about/mohammad-qasim/.
+  editor: {
+    name: "Mohammad Qasim",
+    role: "Founder & Editor",
+    url: "/about/mohammad-qasim/",
+    bio: "Mohammad Qasim is a software and web developer and the founder and editor of SolvePilot. Mohammad builds and maintains every calculator, checks formulas against official and primary sources, and tests each tool against hand-worked examples before it goes live.",
+  },
 } as const;
 
 export type CategoryId =

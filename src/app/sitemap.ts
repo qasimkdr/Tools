@@ -17,7 +17,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...(Object.keys(CATEGORIES) as CategoryId[]).filter((c) => toolsInCategory(c).length).map((c) => ({ url: abs(`/category/${c}/`), lastModified: latest })),
     ...TOOLS.map((t) => ({ url: abs(`/${t.slug}/`), lastModified: t.updated })),
     ...(Object.keys(VARIANTS) as VariantUnit[]).flatMap((u) => VARIANTS[u].map((n) => ({ url: abs(variantPath(u, n)), lastModified: latest }))),
-    ...["/about/", "/contact/", "/editorial-policy/", "/privacy-policy/", "/terms/", "/disclaimer/"].map((p) => ({ url: abs(p), lastModified: "2026-11-21" })),
+    ...["/about/", "/about/mohammad-qasim/", "/contact/", "/editorial-policy/", "/privacy-policy/", "/terms/", "/disclaimer/"].map((p) => ({ url: abs(p), lastModified: "2026-11-21" })),
   ];
   return urls;
 }

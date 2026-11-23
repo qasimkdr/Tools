@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "hypergeometric calculator",
   keywords: ["hypergeometric distribution calculator", "drawing without replacement", "card probability calculator", "deck probability", "lottery odds", "hypergeometric probability"],
   related: ["normal-cdf-calculator", "confidence-interval-calculator", "random-number-generator", "fraction-calculator"],
+  sources: [{ name: "Wikipedia: Hypergeometric distribution", url: "https://en.wikipedia.org/wiki/Hypergeometric_distribution" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "🃏",

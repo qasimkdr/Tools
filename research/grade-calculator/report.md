@@ -1,6 +1,6 @@
 # Competitor analysis: "final grade calculator"
 
-- Research id: `grade-calculator` · roadmap page: Grade Calculator · report generated 2026-11-22
+- Research id: `grade-calculator` · roadmap page: Grade Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "final grade calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 165000, KD 41, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #2: www.calculator.net/grade-calculator.html | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -51,7 +51,7 @@
 | [www.inchcalculator.com](https://www.inchcalculator.com/final-grade-calculator/) | tool | 732 | 3 | 3 | 4 | 3 | 5 | 3 | **21** |
 | [www.calculatorsoup.com](https://www.calculatorsoup.com/calculators/statistics/final-grade-calculator.php) | tool + guide | 1499 | 4 | 1 | 4 | 4 | 4 | 4 | **21** |
 | [www.omnicalculator.com](https://www.omnicalculator.com/education/final-grade) | tool (JS-rendered; inputs not parsed) | 3122 | 4 | n/a | 3 | 3 | 3 | 3 | **16** /25 |
-| [www.calculator.net](https://www.calculator.net/grade-calculator.html) | tool | 862 | 2 | 3 | 4 | 0 | 4 | 3 | **16** |
+| [www.calculator.net](https://www.calculator.net/grade-calculator.html) | tool | 862 | 3 | 3 | 4 | 0 | 4 | 3 | **17** |
 
 <details><summary>Scoring rubric</summary>
 
@@ -73,7 +73,7 @@
 | Share / copy | · | ✓ | ✓ | · |
 | Download / export | · | · | · | · |
 | Formula shown | · | ✓ | · | ✓ |
-| Worked examples | · | ✓ | ✓ | ✓ |
+| Worked examples | ✓ | ✓ | ✓ | ✓ |
 | Step-by-step | · | · | ✓ | ✓ |
 | Table | ✓ | · | · | · |
 | Chart / graph | · | · | · | · |
@@ -247,7 +247,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.calculator.net/grade-calculator.html (inspected 2026-11-22, offline-parse)
-- https://www.inchcalculator.com/final-grade-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/education/final-grade → https://www.omnicalculator.com/other/final-grade (inspected 2026-11-22, offline-parse)
-- https://www.calculatorsoup.com/calculators/statistics/final-grade-calculator.php (inspected 2026-11-22, offline-parse)
+- https://www.calculator.net/grade-calculator.html (inspected 2026-11-23, offline-parse)
+- https://www.inchcalculator.com/final-grade-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/education/final-grade → https://www.omnicalculator.com/other/final-grade (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/statistics/final-grade-calculator.php (inspected 2026-11-23, offline-parse)

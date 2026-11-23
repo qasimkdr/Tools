@@ -5,7 +5,7 @@
    "finalUrl": "https://js-bsc.sourceforge.net/more.html",
    "mode": "offline-parse",
    "domain": "js-bsc.sourceforge.net",
-   "fetchedAt": "2026-11-22T09:24:11.787Z",
+   "fetchedAt": "2026-11-23T01:20:34.844Z",
    "title": "Bowling Score Calculator Help Text",
    "metaDescription": null,
    "canonical": null,
@@ -194,7 +194,7 @@
    "finalUrl": "https://www.omnicalculator.com/sports/bowling-average",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T09:28:41.757Z",
+   "fetchedAt": "2026-11-23T01:20:36.667Z",
    "title": "Bowling Average Calculator",
    "metaDescription": "Use our bowling average calculator to determine how well a cricket bowler has performed.",
    "canonical": "https://www.omnicalculator.com/sports/bowling-average",
@@ -466,7 +466,7 @@
    "finalUrl": "https://www.calculatored.com/others/fun/bowling-score-calculator",
    "mode": "offline-parse",
    "domain": "www.calculatored.com",
-   "fetchedAt": "2026-11-22T09:30:35.001Z",
+   "fetchedAt": "2026-11-23T01:20:38.782Z",
    "title": "Bowling Score Calculator",
    "metaDescription": "The bowling score calculator finds the total score of the game that you have scored by throwing balls and knocking down the pins in each of the frame. \n",
    "canonical": "https://www.calculatored.com/others/fun/bowling-score-calculator",
@@ -610,60 +610,5 @@
    ]
   }
  },
- "failed": {
-  "https://apps.apple.com/us/app/id363594412": [
-   "unreachable (fetch failed)"
-  ],
-  "https://apps.apple.com/app/id363594412": [
-   "unreachable (fetch failed)"
-  ],
-  "https://miniwebtool.com/bowling-score-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.codeproject.com/Articles/1212051/Bowling-Calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://elysiatools.com/en/tools/bowling-score": [
-   "unreachable (fetch failed)"
-  ],
-  "https://milford.lib.de.us/2020/09/28/calculate-your-score-during-bowling": [
-   "unreachable (fetch failed)"
-  ],
-  "https://calculator.academy/bowling-score-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://hakaru.io/tools/bowling-score-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://cdcalculators.com/bowling-score-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://calculators.sg/bowling-score-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.myexcelonline.com/blog/bowling-score-calculator-in-excel/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://open.online.uga.edu/bowling/chapter/3-bowling-scoring": [
-   "unreachable (fetch failed)"
-  ],
-  "https://hakaru.io/guides/bowling-score-calculator-guide": [
-   "unreachable (fetch failed)"
-  ],
-  "https://legionreport.com/?p=32797": [
-   "unreachable (fetch failed)"
-  ],
-  "https://awesome.ecosyste.ms/projects/github.com%2Fpunkbit%2Fbowling_calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://agentcalc-cloudflare-public.pages.dev/bowling-score-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://mwm.ai/apps/bowling-calculator/1219153440": [
-   "unreachable (fetch failed)"
-  ],
-  "https://calculatored.com/others/fun/bowling-score-calculator": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

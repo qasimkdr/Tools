@@ -1,6 +1,6 @@
 # Competitor analysis: "apr calculator"
 
-- Research id: `apr-calculator` · roadmap page: APR Calculator · report generated 2026-11-22
+- Research id: `apr-calculator` · roadmap page: APR Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "apr calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 27100, KD 24, intent C | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #1: www.calculator.net/apr-calculator.html | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -233,7 +233,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.calculator.net/apr-calculator.html (inspected 2026-11-22, offline-parse)
-- https://www.calculatorsoup.com/calculators/financial/apr-calculator.php (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/finance/apr (inspected 2026-11-22, offline-parse)
-- https://www.inchcalculator.com/apr-calculator/ (inspected 2026-11-22, offline-parse)
+- https://www.calculator.net/apr-calculator.html (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/financial/apr-calculator.php (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/finance/apr (inspected 2026-11-23, offline-parse)
+- https://www.inchcalculator.com/apr-calculator/ (inspected 2026-11-23, offline-parse)

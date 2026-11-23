@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "square footage calculator",
   keywords: ["square foot calculator", "how to calculate square footage", "sq ft calculator", "calculate square feet", "square inches to square feet", "how to measure square feet"],
   related: ["cubic-yard-calculator", "gravel-and-stone-calculator", "paint-calculator", "tile-calculator", "area-calculator", "acreage-calculator"],
+  sources: [{ name: "NIST Handbook 44, Appendix C: General tables of units of measurement", url: "https://www.nist.gov/document/2026-nist-handbook-44-appendix-c" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "📐",

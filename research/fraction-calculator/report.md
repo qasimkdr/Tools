@@ -1,6 +1,6 @@
 # Competitor analysis: "mixed number calculator"
 
-- Research id: `fraction-calculator` · roadmap page: Fraction Calculator · report generated 2026-11-22
+- Research id: `fraction-calculator` · roadmap page: Fraction Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -11,7 +11,7 @@
 | Volume 12100, KD 29, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #2: www.calculator.net/fraction-calculator.html?c2d1=1.2&ctype=2&x=0&y=0 | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
 | Result list for "mixed number calculator [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-22 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -262,13 +262,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.inchcalculator.com/mixed-number-calculator → https://www.inchcalculator.com/mixed-number-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.calculator.io/mixed-number-calculator → https://www.calculator.io/mixed-number-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.calculatorsoup.com/calculators/math/mixednumbers.php (inspected 2026-11-22, offline-parse)
-- https://www.thecalculatorsite.com/math/fractions-calculator.php (inspected 2026-11-22, offline-parse)
-- https://omnicalculator.com/math/mixed-number: not inspected (unreachable (fetch failed))
-- https://dqydj.com/mixed-number-calculator/: not inspected (unreachable (fetch failed))
-- https://calculatorsoup.com/calculators/math/mixednumbers.php: not inspected (unreachable (fetch failed))
-- https://dqydj.com/?p=22651: not inspected (unreachable (fetch failed))
-- https://mathcheck.net/calculators/mixed-number-calculator: not inspected (unreachable (fetch failed))
-- https://www.dadsworksheets.com/mixed-number-calculator.html: not inspected (unreachable (fetch failed))
+- https://www.inchcalculator.com/mixed-number-calculator → https://www.inchcalculator.com/mixed-number-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.calculator.io/mixed-number-calculator → https://www.calculator.io/mixed-number-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/math/mixednumbers.php (inspected 2026-11-23, offline-parse)
+- https://www.thecalculatorsite.com/math/fractions-calculator.php (inspected 2026-11-23, offline-parse)

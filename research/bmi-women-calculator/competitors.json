@@ -5,7 +5,7 @@
    "finalUrl": "https://www.calculatorsoup.com/calculators/health/bmi-calculator-women.php",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-22T10:17:44.712Z",
+   "fetchedAt": "2026-11-23T01:20:18.571Z",
    "title": "BMI Calculator for Women",
    "metaDescription": "BMI Calculator for women finds Body Mass Index given weight and height. To check BMI divide your weight by your height squared. Calculator takes lbs, inches, kg, meters.",
    "canonical": "https://www.calculatorsoup.com/calculators/health/bmi-calculator-women.php",
@@ -311,7 +311,7 @@
    "finalUrl": "https://www.omnicalculator.com/health/bmi-women",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T10:21:12.611Z",
+   "fetchedAt": "2026-11-23T01:20:19.995Z",
    "title": "BMI Calculator for Women | Female BMI Chart",
    "metaDescription": "Find your BMI using our BMI calculator for women. Get insights into your BMI, its health assessment, and percentile comparison based on WHO guidelines.",
    "canonical": "https://www.omnicalculator.com/health/bmi-women",
@@ -630,7 +630,7 @@
    "finalUrl": "https://www.calculator.net/bmi-calculator.html",
    "mode": "offline-parse",
    "domain": "www.calculator.net",
-   "fetchedAt": "2026-11-22T10:21:15.578Z",
+   "fetchedAt": "2026-11-23T01:20:21.402Z",
    "title": "BMI Calculator",
    "metaDescription": "Free Body Mass Index calculator gives out the BMI value and categorizes BMI based on provided information from WHO and CDC for both adults and children.",
    "canonical": null,
@@ -964,7 +964,7 @@
    "finalUrl": "https://www.inchcalculator.com/bmi-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-22T10:21:18.647Z",
+   "fetchedAt": "2026-11-23T01:20:22.791Z",
    "title": "BMI Calculator - Body Mass Index for Men and Women - Inch Calculator",
    "metaDescription": "Calculate your BMI and body mass index classification using a simple calculator. Plus, see how much you need to weigh to reach a target BMI.",
    "canonical": "https://www.inchcalculator.com/bmi-calculator/",
@@ -1352,42 +1352,5 @@
    ]
   }
  },
- "failed": {
-  "https://omnicalculator.com/health/bmi-women": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.ramsayhealth.co.uk/treatments/weight-loss-surgery/bmi/bmi-for-women": [
-   "unreachable (fetch failed)"
-  ],
-  "https://health.clevelandclinic.org/bmi-for-women/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://weightwatchers.com/nz/blog/weight-loss/bmi-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.calculate.co.nz/bmi-calculator-for-women.php": [
-   "unreachable (fetch failed)"
-  ],
-  "https://weightwatchers.com/au/blog/weight-loss/bmi-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.codeitbro.com/tool/bmi-calculator-for-women": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.boltpharmacy.co.uk/guide/bmi-calculator-for-women": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.deliveryrank.com/tools/women-bmi-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://apps.apple.com/la/app/bmi-calculator-for-women-men/id1554046740": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.graphcalc.com/?p=1025": [
-   "unreachable (fetch failed)"
-  ],
-  "https://bmi.recipesecrets.net/calculator-for-women": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

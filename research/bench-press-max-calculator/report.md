@@ -1,6 +1,6 @@
 # Competitor analysis: "bench press max calculator"
 
-- Research id: `bench-press-max-calculator` · roadmap page: Bench Press Max Calculator · report generated 2026-11-22
+- Research id: `bench-press-max-calculator` · roadmap page: Bench Press Max Calculator · report generated 2026-11-23
 - Pages inspected: **3** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "bench press max calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 4400, KD 0, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Result list for "bench press max calculator [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-22 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -241,21 +241,6 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://inchcalculator.com/bench-press-calculator → https://www.inchcalculator.com/bench-press-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/fitness/bench-press → https://www.omnicalculator.com/sports/bench-press (inspected 2026-11-22, offline-parse)
-- https://www.calculator.net/one-rep-max-calculator.html (inspected 2026-11-22, offline-parse)
-- https://www.topendsports.com/testing/tests/1rm-bench-press.htm: not inspected (unreachable (fetch failed))
-- https://strengthlevel.com/bench-press-calculator: not inspected (unreachable (fetch failed))
-- https://www.muscleandstrength.com/tools/bench-press-calculator: not inspected (unreachable (fetch failed))
-- https://www.muscleandstrength.com/tools/bench-press-calculator?page=2: not inspected (unreachable (fetch failed))
-- https://new.topendsports.com/testing/tests/1rm-bench-press.htm: not inspected (unreachable (fetch failed))
-- https://fitnessvolt.com/bench-press-calculator/: not inspected (unreachable (fetch failed))
-- https://legionathletics.com/tools/bench-press-calculator/: not inspected (unreachable (fetch failed))
-- https://fitnessvolt.com/rpe-training/bench-press-calculator/: not inspected (unreachable (fetch failed))
-- https://fallback.topendsports.com/testing/tests/max-bench-press.htm: not inspected (unreachable (fetch failed))
-- https://gymgeek.com/calculators/max-bench-calculator/: not inspected (unreachable (fetch failed))
-- https://www.miniwebtool.com/bench-press-calculator/: not inspected (unreachable (fetch failed))
-- https://goodcalculators.com/bench-press-calculator/: not inspected (unreachable (fetch failed))
-- https://www.stylecraze.com/tools/bench-press-calculator/: not inspected (unreachable (fetch failed))
-- https://legionathletics.com/bench-press-calculator/: not inspected (unreachable (fetch failed))
-- https://www.goodcalculators.com/bench-press-calculator/: not inspected (unreachable (fetch failed))
+- https://inchcalculator.com/bench-press-calculator → https://www.inchcalculator.com/bench-press-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/fitness/bench-press → https://www.omnicalculator.com/sports/bench-press (inspected 2026-11-23, offline-parse)
+- https://www.calculator.net/one-rep-max-calculator.html (inspected 2026-11-23, offline-parse)

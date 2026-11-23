@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "steps to miles calculator",
   keywords: ["steps to miles", "how many steps in a mile", "miles to steps", "steps to km", "10000 steps in miles", "step length calculator", "pedometer"],
   related: ["water-intake-calculator", "bmi-women-calculator", "ffmi-calculator", "hours-calculator"],
+  sources: [{ name: "Physical Activity Guidelines for Americans, 2nd edition (HHS)", url: "https://odphp.health.gov/sites/default/files/2019-09/Physical_Activity_Guidelines_2nd_edition.pdf" }, { name: "CDC: Adding physical activity as an adult", url: "https://www.cdc.gov/physical-activity-basics/adding-adults/index.html" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "👟",

@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "scientific notation converter",
   keywords: ["scientific notation calculator", "sci not calculator", "exponential notation calculator", "standard form calculator", "e notation", "engineering notation", "significant figures"],
   related: ["binary-calculator", "square-root-calculator", "fraction-calculator", "molecular-weight-calculator"],
+  sources: [{ name: "NIST Special Publication 811: Guide for the Use of the SI (PDF)", url: "https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication811e2008.pdf" }, { name: "Wikipedia: Scientific notation", url: "https://en.wikipedia.org/wiki/Scientific_notation" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "🔬",

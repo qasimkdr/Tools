@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "mean and standard deviation calculator",
   keywords: ["standard deviation calculator", "sd calculator", "stdev calculator", "standard error calculator", "variance calculator", "sample standard deviation", "population standard deviation"],
   related: ["weighted-mean-calculator", "confidence-interval-calculator", "normal-cdf-calculator", "hypergeometric-calculator"],
+  sources: [{ name: "Wikipedia: Standard deviation", url: "https://en.wikipedia.org/wiki/Standard_deviation" }, { name: "Wikipedia: Normal distribution", url: "https://en.wikipedia.org/wiki/Normal_distribution" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "σ",

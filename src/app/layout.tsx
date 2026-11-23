@@ -12,6 +12,7 @@ export const metadata: Metadata = {
   title: { default: `${SITE.name} – ${SITE.tagline}`, template: `%s | ${SITE.name}` },
   description: SITE.description,
   applicationName: SITE.name,
+  authors: [{ name: SITE.editor.name, url: SITE.editor.url }],
   formatDetection: { telephone: false },
   verification: SITE.gscVerification ? { google: SITE.gscVerification } : undefined,
 };

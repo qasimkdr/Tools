@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "bench press max calculator",
   keywords: ["bench press calculator", "max bench calculator", "1rm bench", "one rep max bench", "bench press percentages", "plate calculator"],
   related: ["one-rep-max-calculator", "army-body-fat-calculator", "body-fat-calculator", "ffmi-calculator", "bmr-calculator"],
+  sources: [{ name: "Wikipedia: One-repetition maximum", url: "https://en.wikipedia.org/wiki/One-repetition_maximum" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "🏋️",

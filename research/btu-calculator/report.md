@@ -1,6 +1,6 @@
 # Competitor analysis: "air conditioner size calculator"
 
-- Research id: `btu-calculator` · roadmap page: Btu Calculator · report generated 2026-11-22
+- Research id: `btu-calculator` · roadmap page: Btu Calculator · report generated 2026-11-23
 - Pages inspected: **3** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "air conditioner size calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 1600, KD 12, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #2: www.calculator.net/btu-calculator.html | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -220,6 +220,6 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.calculator.net/btu-calculator.html (inspected 2026-11-22, offline-parse)
-- https://www.inchcalculator.com/window-air-conditioner-size-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/construction/air-conditioner-room-size (inspected 2026-11-22, offline-parse)
+- https://www.calculator.net/btu-calculator.html (inspected 2026-11-23, offline-parse)
+- https://www.inchcalculator.com/window-air-conditioner-size-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/construction/air-conditioner-room-size (inspected 2026-11-23, offline-parse)

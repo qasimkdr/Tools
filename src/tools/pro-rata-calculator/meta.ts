@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "pro rata calculator",
   keywords: ["prorated rent calculator", "prorate calculator", "pro rata salary", "prorated refund", "partial month rent", "pro rata meaning"],
   related: ["proportion-calculator", "ratio-calculator", "paycheck-calculator", "days-from-today"],
+  sources: [{ name: "Wikipedia: Pro rata", url: "https://en.wikipedia.org/wiki/Pro_rata" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "➗",

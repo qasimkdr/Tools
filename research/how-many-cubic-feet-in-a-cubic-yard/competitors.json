@@ -5,7 +5,7 @@
    "finalUrl": "https://www.inchcalculator.com/convert/cubic-yard-to-cubic-foot/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-21T19:29:49.221Z",
+   "fetchedAt": "2026-11-23T01:23:20.329Z",
    "title": "Cubic Yards to Cubic Feet Converter (yd³ to ft³)",
    "metaDescription": "Convert cubic yards to cubic feet (yd³ to ft³) with the volume conversion calculator, and learn the cubic yard to cubic foot formula.",
    "canonical": "https://www.inchcalculator.com/convert/cubic-yard-to-cubic-foot/",
@@ -346,7 +346,7 @@
    "finalUrl": "https://www.calculatorsoup.com/calculators/conversions/cubic-feet-to-cubic-yards.php",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-21T19:30:16.487Z",
+   "fetchedAt": "2026-11-23T01:23:21.382Z",
    "title": "Cubic Feet to Cubic Yards | cu ft to cu yd",
    "metaDescription": "Convert cubic feet to cubic yards. This calculator shows the work to convert from cu ft to cu yd. For quick conversion divide cubic feet by 27 to get cubic yards.",
    "canonical": "https://www.calculatorsoup.com/calculators/conversions/cubic-feet-to-cubic-yards.php",
@@ -634,7 +634,7 @@
    "finalUrl": "https://www.thecalculatorsite.com/articles/units/cubic-feet-in-a-yard.php",
    "mode": "offline-parse",
    "domain": "www.thecalculatorsite.com",
-   "fetchedAt": "2026-11-21T19:30:22.176Z",
+   "fetchedAt": "2026-11-23T01:23:22.622Z",
    "title": "How Many Cubic Feet Are in a Yard?",
    "metaDescription": "Find out how many cubic feet there are in a cubic yard, with diagrams to assist explanation.",
    "canonical": "https://www.thecalculatorsite.com/articles/units/cubic-feet-in-a-yard.php",
@@ -952,7 +952,7 @@
    "finalUrl": "https://www.omnicalculator.com/construction/ft2-yd3",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-21T19:30:25.707Z",
+   "fetchedAt": "2026-11-23T01:23:24.159Z",
    "title": "Square Feet to Cubic Yards Calculator",
    "metaDescription": "Efficiently learn how to convert square feet to cubic yards with our powerful calculator. Achieve precise measurements effortlessly. Try now!",
    "canonical": "https://www.omnicalculator.com/construction/ft2-yd3",
@@ -1234,42 +1234,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.vedantu.com/question-answer/cubic-feet-are-in-a-cubic-yard-class-8-maths-cbse-60274d2ea3e87e31d086ed9a": [
-   "unreachable (fetch failed)"
-  ],
-  "https://thecalculatorsite.com/articles/units/cubic-feet-in-a-yard.php": [
-   "unreachable (fetch failed)"
-  ],
-  "https://2022sneakpeek.voya.com/?p=34632": [
-   "unreachable (fetch failed)"
-  ],
-  "https://2022sneakpeek.voya.com/tag/cubic": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.vedantu.com/calculator/cubic-foot-to-cubic-yard": [
-   "unreachable (fetch failed)"
-  ],
-  "https://thecalculatorsite.com/conversions/liquidvolume/cubic-yards-to-cubic-feet.php": [
-   "unreachable (fetch failed)"
-  ],
-  "https://miniwebtool.com/cubic-feet-to-cubic-yards/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://php5.cdeworld.com/tag/cubic": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.convertunits.com/from/feet^3/to/cubic+yard": [
-   "unreachable (fetch failed)"
-  ],
-  "https://omnicalculator.com/construction/cubic-yard": [
-   "unreachable (fetch failed)"
-  ],
-  "https://en.wikipedia.com/wiki/Cu_yd": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.convertunits.com/from/yard/to/cubic+feet": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

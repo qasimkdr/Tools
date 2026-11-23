@@ -1,6 +1,6 @@
 # Competitor analysis: "ffmi calculator"
 
-- Research id: `ffmi-calculator` · roadmap page: Ffmi Calculator · report generated 2026-11-22
+- Research id: `ffmi-calculator` · roadmap page: Ffmi Calculator · report generated 2026-11-23
 - Pages inspected: **2** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "ffmi calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 14800, KD 21, intent C | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #6: www.omnicalculator.com/health/ffmi | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -191,5 +191,5 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.omnicalculator.com/health/ffmi (inspected 2026-11-22, offline-parse)
-- https://www.inchcalculator.com/ffmi-calculator/ (inspected 2026-11-22, offline-parse)
+- https://www.omnicalculator.com/health/ffmi (inspected 2026-11-23, offline-parse)
+- https://www.inchcalculator.com/ffmi-calculator/ (inspected 2026-11-23, offline-parse)

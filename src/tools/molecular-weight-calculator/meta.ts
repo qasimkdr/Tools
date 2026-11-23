@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "molecular weight calculator",
   keywords: ["molar mass calculator", "molecular mass calculator", "grams to moles", "percent composition", "formula mass", "g/mol"],
   related: ["molarity-calculator", "density-calculator", "dilution-ratio-calculator", "proportion-calculator", "half-life-calculator"],
+  sources: [{ name: "Wikipedia: Mole (unit)", url: "https://en.wikipedia.org/wiki/Mole_(unit)" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "⚗️",

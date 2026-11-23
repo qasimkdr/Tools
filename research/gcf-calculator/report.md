@@ -1,6 +1,6 @@
 # Competitor analysis: "gcf calculator"
 
-- Research id: `gcf-calculator` · roadmap page: Gcf Calculator · report generated 2026-11-22
+- Research id: `gcf-calculator` · roadmap page: Gcf Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "gcf calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 1200000, KD 47, intent C | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #2: www.calculator.net/gcf-calculator.html | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -258,7 +258,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.calculator.net/gcf-calculator.html (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/math/gcf (inspected 2026-11-22, offline-parse)
-- https://www.calculatorsoup.com/calculators/math/gcf.php (inspected 2026-11-22, offline-parse)
-- https://www.inchcalculator.com/gcf-calculator/ (inspected 2026-11-22, offline-parse)
+- https://www.calculator.net/gcf-calculator.html (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/math/gcf (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/math/gcf.php (inspected 2026-11-23, offline-parse)
+- https://www.inchcalculator.com/gcf-calculator/ (inspected 2026-11-23, offline-parse)

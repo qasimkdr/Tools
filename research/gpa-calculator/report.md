@@ -1,6 +1,6 @@
 # Competitor analysis: "gpa calculator"
 
-- Research id: `gpa-calculator` · roadmap page: GPA Calculator · report generated 2026-11-22
+- Research id: `gpa-calculator` · roadmap page: GPA Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "gpa calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 673000, KD 44, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #1: www.calculator.net/gpa-calculator.html | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -230,22 +230,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.calculator.net/gpa → https://www.calculator.net/gpa-calculator.html (inspected 2026-11-22, offline-parse)
-- https://inchcalculator.com/gpa-calculator → https://www.inchcalculator.com/gpa-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/education/gpa → https://www.omnicalculator.com/other/gpa (inspected 2026-11-22, offline-parse)
-- https://www.calculator.io/gpa-calculator → https://www.calculator.io/gpa-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.pearson.com/channels/it/calculators/gpa-calculator: not inspected (unreachable (fetch failed))
-- https://www.pearson.com/channels/ko-kr/calculators/gpa-calculator: not inspected (unreachable (fetch failed))
-- https://umkc.edu/Registrar/student-records/grades-gpa/gpa-calculator.html: not inspected (unreachable (fetch failed))
-- https://www.smu.ca/academics/gpa-calculator.html: not inspected (unreachable (fetch failed))
-- https://und.edu/academics/registrar/gpa-calculator.html: not inspected (unreachable (fetch failed))
-- https://warrington.ufl.edu/current-students/gpa-calculator/: not inspected (unreachable (fetch failed))
-- https://ualberta.ca/augustana/student-life/academic/resources/gpa-calculator.html: not inspected (unreachable (fetch failed))
-- https://www.ualberta.ca/augustana/services/academic/resources/gpa-calculator: not inspected (unreachable (fetch failed))
-- https://web.cs.dal.ca/~mcallist/gpa2.html: not inspected (unreachable (fetch failed))
-- https://myhighered.mn.gov/gpa-calculator: not inspected (unreachable (fetch failed))
-- https://omnicalculator.com/other/gpa: not inspected (unreachable (fetch failed))
-- https://reslife.berkeley.edu/gpa-calculator: not inspected (unreachable (fetch failed))
-- https://www.binghamton.edu/decker/advising/gpa-calculator.html: not inspected (unreachable (fetch failed))
-- https://onlinemasters.jou.ufl.edu/current-students/gpa-calculator/: not inspected (unreachable (fetch failed))
-- https://www.jmu.edu/advising/acadplan/semester-gpa.shtml: not inspected (unreachable (fetch failed))
+- https://www.calculator.net/gpa → https://www.calculator.net/gpa-calculator.html (inspected 2026-11-23, offline-parse)
+- https://inchcalculator.com/gpa-calculator → https://www.inchcalculator.com/gpa-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/education/gpa → https://www.omnicalculator.com/other/gpa (inspected 2026-11-23, offline-parse)
+- https://www.calculator.io/gpa-calculator → https://www.calculator.io/gpa-calculator/ (inspected 2026-11-23, offline-parse)

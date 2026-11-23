@@ -5,7 +5,7 @@
    "finalUrl": "https://www.inchcalculator.com/cubic-yards-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-22T06:03:54.169Z",
+   "fetchedAt": "2026-11-23T01:21:21.044Z",
    "title": "Cubic Yard Calculator and Material Estimator - Inch Calculator",
    "metaDescription": "Use the cubic yard calculator to find the volume of a space. Plus learn how to calculate cubic yards using a simple formula.",
    "canonical": "https://www.inchcalculator.com/cubic-yards-calculator/",
@@ -395,7 +395,7 @@
    "finalUrl": "https://www.calculatorsoup.com/calculators/construction/cubic-yards-calculator.php",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-22T06:03:57.187Z",
+   "fetchedAt": "2026-11-23T01:21:22.463Z",
    "title": "Cubic Yards Calculator",
    "metaDescription": "Calculate cubic yards, cubic feet or cubic meters for landscape material, mulch, fill, gravel, cement or sand. Enter measurements in US or metric units and get volume conversions to other units. How to calculate cubic yards for rectangular, circular and triangular areas. Calculate project cost based on price per cubic foot, cubic yard or cubic meter.",
    "canonical": "https://www.calculatorsoup.com/calculators/construction/cubic-yards-calculator.php",
@@ -832,7 +832,7 @@
    "finalUrl": "https://www.thecalculatorsite.com/misc/cubic-yards-calculator.php",
    "mode": "offline-parse",
    "domain": "www.thecalculatorsite.com",
-   "fetchedAt": "2026-11-22T06:08:30.737Z",
+   "fetchedAt": "2026-11-23T01:21:24.041Z",
    "title": "Cubic Yards Calculator and Price Estimator",
    "metaDescription": "Use this cubic yards calculator to calculate the cubic yardage of an area for materials such as concrete, sand, asphalt, compost, mulch or topsoil",
    "canonical": "https://www.thecalculatorsite.com/misc/cubic-yards-calculator.php",
@@ -1159,7 +1159,7 @@
    "finalUrl": "https://www.omnicalculator.com/construction/cubic-yard",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T06:08:50.496Z",
+   "fetchedAt": "2026-11-23T01:21:25.644Z",
    "title": "Cubic Yard Calculator",
    "metaDescription": "Check out this cubic yard calculator to work out the yardage of different shapes of volume.",
    "canonical": "https://www.omnicalculator.com/construction/cubic-yard",
@@ -1449,60 +1449,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.homedit.com/calculators/cubic-yards-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://omnicalculator.com/construction/cubic-yard": [
-   "unreachable (fetch failed)"
-  ],
-  "https://thecalculatorsite.com/misc/cubic-yards-calculator.php": [
-   "unreachable (fetch failed)"
-  ],
-  "https://todayshomeowner.com/cubic-yard-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.size.ly/calculator/cubic-yards-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://convertcalculator.com/tools/cubic-yard-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://calculator.io/cubic-yards-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://sciencing.com/calculate-cubic-yards-2266389.html": [
-   "unreachable (fetch failed)"
-  ],
-  "https://wpforms.com/templates/cubic-yard-calculator-form-template/?utm_locale=id_ID": [
-   "unreachable (fetch failed)"
-  ],
-  "https://miniwebtool.com/cubic-yard-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.easyunitconverter.com/cubic-yard-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://civils.ai/free-cubic-yard-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://calculator.academy/cubic-yard-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://convertcalculator.com/templates/cubic-yard-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://mycalcbuddy.com/construction/cubic-yard-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://calculator.academy/yard-calculator-cubic-yards-for-soil-mulch-gravel/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.calconic.com/calculator-widgets/cubic-yard-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.soildirect.com/calculator": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

@@ -5,7 +5,7 @@
    "finalUrl": "https://www.inchcalculator.com/mixed-number-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-22T09:25:43.630Z",
+   "fetchedAt": "2026-11-23T01:22:24.367Z",
    "title": "Mixed Number Calculator - Inch Calculator",
    "metaDescription": "Use our mixed number calculator to add, subtract, multiply, or divide mixed numbers. Plus, see the full solution with explanation.",
    "canonical": "https://www.inchcalculator.com/mixed-number-calculator/",
@@ -351,7 +351,7 @@
    "finalUrl": "https://www.calculator.io/mixed-number-calculator/",
    "mode": "offline-parse",
    "domain": "www.calculator.io",
-   "fetchedAt": "2026-11-22T09:25:57.566Z",
+   "fetchedAt": "2026-11-23T01:22:26.311Z",
    "title": "Mixed Number Calculator",
    "metaDescription": "Easily add, subtract, multiply, and divide mixed numbers with our free Mixed Number Calculator. Instantly simplify and convert mixed fractions with ease.",
    "canonical": "https://www.calculator.io/mixed-number-calculator/",
@@ -679,7 +679,7 @@
    "finalUrl": "https://www.calculatorsoup.com/calculators/math/mixednumbers.php",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-22T09:29:52.848Z",
+   "fetchedAt": "2026-11-23T01:22:27.379Z",
    "title": "Mixed Numbers Calculator",
    "metaDescription": "Mixed numbers calculator to add, subtract, multiply and divide mixed numbers (mixed fractions), fractions and integers. Do math with mixed numbers and mixed fractions such as 1 1/2 or 3 5/8.",
    "canonical": "https://www.calculatorsoup.com/calculators/math/mixednumbers.php",
@@ -1011,7 +1011,7 @@
    "finalUrl": "https://www.thecalculatorsite.com/math/fractions-calculator.php",
    "mode": "offline-parse",
    "domain": "www.thecalculatorsite.com",
-   "fetchedAt": "2026-11-22T09:30:48.070Z",
+   "fetchedAt": "2026-11-23T01:22:28.807Z",
    "title": "Fractions Calculator - The Calculator Site",
    "metaDescription": "Use this fractions calculator to add, subtract, multiply, divide and simplify fractions, including mixed fractions",
    "canonical": "https://www.thecalculatorsite.com/math/fractions-calculator.php",
@@ -1328,24 +1328,5 @@
    ]
   }
  },
- "failed": {
-  "https://omnicalculator.com/math/mixed-number": [
-   "unreachable (fetch failed)"
-  ],
-  "https://dqydj.com/mixed-number-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://calculatorsoup.com/calculators/math/mixednumbers.php": [
-   "unreachable (fetch failed)"
-  ],
-  "https://dqydj.com/?p=22651": [
-   "unreachable (fetch failed)"
-  ],
-  "https://mathcheck.net/calculators/mixed-number-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.dadsworksheets.com/mixed-number-calculator.html": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

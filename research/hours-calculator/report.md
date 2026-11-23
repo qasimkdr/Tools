@@ -1,6 +1,6 @@
 # Competitor analysis: "hours calculator"
 
-- Research id: `hours-calculator` · roadmap page: Hours Calculator · report generated 2026-11-22
+- Research id: `hours-calculator` · roadmap page: Hours Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -9,7 +9,7 @@
 |---|---|---|---|
 | Result list for "hours calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Result list for "hours calculator [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-22 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -244,20 +244,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.inchcalculator.com/hours-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.calculator.net/hours-calculator.html (inspected 2026-11-22, offline-parse)
-- https://www.calculatorsoup.com/calculators/time/hours.php (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/everyday-life/hours-between-two-times (inspected 2026-11-22, offline-parse)
-- https://everhour.com/calculators/hours-worked-calculator: not inspected (unreachable (fetch failed))
-- https://www.getharvest.com/time-tracking/hours-worked-calculator: not inspected (unreachable (fetch failed))
-- https://www.getharvest.com/calculators/hours-worked-calculator: not inspected (unreachable (fetch failed))
-- https://everhour.com/calculators/hours-worked-formula: not inspected (unreachable (fetch failed))
-- https://everhour.com/time-tracking/hours-worked-calculator: not inspected (unreachable (fetch failed))
-- https://www.getharvest.com/calculators/hours-calculator: not inspected (unreachable (fetch failed))
-- https://everhour.com/calculators/how-to-calculate-hours-worked: not inspected (unreachable (fetch failed))
-- https://www.clicktime.com/calculator-timesheet: not inspected (unreachable (fetch failed))
-- https://www.getharvest.com/time-tracking/work-hours-calculator: not inspected (unreachable (fetch failed))
-- https://www.getharvest.com/calculators/simple-work-hours-calculator: not inspected (unreachable (fetch failed))
-- https://clickup.com/blog/how-to-calculate-hours-worked/: not inspected (unreachable (fetch failed))
-- https://quickbooks.intuit.com/r/employee-management/how-to-calculate-hours-worked/: not inspected (unreachable (fetch failed))
-- https://www.hostinger.com/ph/tutorials/how-to-calculate-hours-worked/: not inspected (unreachable (fetch failed))
+- https://www.inchcalculator.com/hours-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.calculator.net/hours-calculator.html (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/time/hours.php (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/everyday-life/hours-between-two-times (inspected 2026-11-23, offline-parse)

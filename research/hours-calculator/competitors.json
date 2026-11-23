@@ -5,7 +5,7 @@
    "finalUrl": "https://www.inchcalculator.com/hours-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-22T08:42:54.590Z",
+   "fetchedAt": "2026-11-23T01:23:13.811Z",
    "title": "Hours Calculator - Inch Calculator",
    "metaDescription": "Use our hours calculator to find the time you worked. Plus, learn how to calculate how many hours you're working with examples.",
    "canonical": "https://www.inchcalculator.com/hours-calculator/",
@@ -388,7 +388,7 @@
    "finalUrl": "https://www.calculator.net/hours-calculator.html",
    "mode": "offline-parse",
    "domain": "www.calculator.net",
-   "fetchedAt": "2026-11-22T08:45:16.122Z",
+   "fetchedAt": "2026-11-23T01:23:15.059Z",
    "title": "Hours Calculator",
    "metaDescription": "This hours calculator computes the number of hours and minutes between two times. A full version can calculate the hours between two times on different dates.",
    "canonical": null,
@@ -650,7 +650,7 @@
    "finalUrl": "https://www.calculatorsoup.com/calculators/time/hours.php",
    "mode": "offline-parse",
    "domain": "www.calculatorsoup.com",
-   "fetchedAt": "2026-11-22T08:45:19.234Z",
+   "fetchedAt": "2026-11-23T01:23:16.335Z",
    "title": "Hours Calculator",
    "metaDescription": "Calculate total hours like a time card for work by entering start and end times. Use this calculator for time sheet or time card calculations. Calculates total hours or time span in hours:minutes, hours in decimal form, and total minutes. Free online hours calculator.",
    "canonical": "https://www.calculatorsoup.com/calculators/time/hours.php",
@@ -937,7 +937,7 @@
    "finalUrl": "https://www.omnicalculator.com/everyday-life/hours-between-two-times",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T08:45:22.272Z",
+   "fetchedAt": "2026-11-23T01:23:17.776Z",
    "title": "Hours Between Two Times Calculator",
    "metaDescription": "Use our elapsed time calculator to find out how many minutes there are between any two times. Fast, accurate, and simple. Calculate time now!",
    "canonical": "https://www.omnicalculator.com/everyday-life/hours-between-two-times",
@@ -1182,45 +1182,5 @@
    ]
   }
  },
- "failed": {
-  "https://everhour.com/calculators/hours-worked-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.getharvest.com/time-tracking/hours-worked-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.getharvest.com/calculators/hours-worked-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://everhour.com/calculators/hours-worked-formula": [
-   "unreachable (fetch failed)"
-  ],
-  "https://everhour.com/time-tracking/hours-worked-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.getharvest.com/calculators/hours-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://everhour.com/calculators/how-to-calculate-hours-worked": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.clicktime.com/calculator-timesheet": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.getharvest.com/time-tracking/work-hours-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.getharvest.com/calculators/simple-work-hours-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://clickup.com/blog/how-to-calculate-hours-worked/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://quickbooks.intuit.com/r/employee-management/how-to-calculate-hours-worked/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.hostinger.com/ph/tutorials/how-to-calculate-hours-worked/": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

@@ -1,6 +1,6 @@
 # Competitor analysis: "age calculator"
 
-- Research id: `age-calculator` · roadmap page: Age Calculator · report generated 2026-11-21
+- Research id: `age-calculator` · roadmap page: Age Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -11,7 +11,7 @@
 | Volume 1000000, KD 29, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #16: www.omnicalculator.com/everyday-life/age | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
 | Result list for "age calculator [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-21 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-21 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -271,20 +271,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.calculator.net/age-calculator.html%E2%80%8B%E2%80%8B → https://www.calculator.net/age-calculator.html (inspected 2026-11-21, offline-parse)
-- https://www.omnicalculator.com/all/age → https://www.omnicalculator.com/everyday-life/age (inspected 2026-11-21, offline-parse)
-- https://inchcalculator.com/age-calculator → https://www.inchcalculator.com/age-calculator/ (inspected 2026-11-21, offline-parse)
-- https://www.calculatorsoup.com/calculators/time/age-calculator.php (inspected 2026-11-21, offline-parse)
-- https://dqydj.com/age-calculator/: not inspected (unreachable (fetch failed))
-- https://dqydj.com/?p=20812: not inspected (unreachable (fetch failed))
-- https://calculatorsoup.com/calculators/time/age-calculator.php: not inspected (unreachable (fetch failed))
-- https://www.almanac.com/tool/age-calculator: not inspected (unreachable (fetch failed))
-- https://www.w3schools.com/tools/tool_age_calculator.php: not inspected (unreachable (fetch failed))
-- https://apps.apple.com/us/app/-/id6740143492: not inspected (unreachable (fetch failed))
-- https://apps.apple.com/us/app/id1668958810: not inspected (unreachable (fetch failed))
-- https://unacademy.com/content/?p=468801: not inspected (unreachable (fetch failed))
-- https://cuemath.com/calculators/age-calculator: not inspected (unreachable (fetch failed))
-- https://www.gigacalculator.com/calculators/age-calculator.php: not inspected (disallowed by robots.txt)
-- https://www.hirequotient.com/age-calculator: not inspected (unreachable (fetch failed))
-- https://pooranjoyb.github.io/Age-Calculator/: not inspected (unreachable (fetch failed))
-- https://starto.odoo.com/age-calculator: not inspected (unreachable (fetch failed))
+- https://www.calculator.net/age-calculator.html%E2%80%8B%E2%80%8B → https://www.calculator.net/age-calculator.html (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/all/age → https://www.omnicalculator.com/everyday-life/age (inspected 2026-11-23, offline-parse)
+- https://inchcalculator.com/age-calculator → https://www.inchcalculator.com/age-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/time/age-calculator.php (inspected 2026-11-23, offline-parse)

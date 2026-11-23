@@ -147,7 +147,7 @@ export function extract(page, host, keyword = "") {
     const text = body.toLowerCase();
     const content = {
       formula: /\bformula\b|\bequation\b|=\s*[a-z(√π]/i.test(body),
-      examples: /\bexample\b|\bfor instance\b|\bsuppose\b/.test(text),
+      examples: /\bexamples?\b|\bfor instance\b|\bsuppose\b/.test(text),
       stepByStep: orderedLists > 0 || /\bstep \d|\bstep-by-step\b/.test(text),
       costEstimate: /\bcost\b|\bprice\b|\$\s?\d/.test(text),
       chart: canvasCount > 0 || /\bchart\b|\bgraph\b/.test(text),

@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "pay raise calculator",
   keywords: ["salary increase calculator", "raise percentage calculator", "how to calculate a raise", "hourly raise calculator", "percentage increase in salary", "cost of living raise"],
   related: ["paycheck-calculator", "overtime-calculator", "pro-rata-calculator", "hours-calculator"],
+  sources: [{ name: "U.S. Bureau of Labor Statistics: Consumer Price Index", url: "https://www.bls.gov/cpi/" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "📈",

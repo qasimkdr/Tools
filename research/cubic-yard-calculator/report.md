@@ -1,6 +1,6 @@
 # Competitor analysis: "cubic yard calculator"
 
-- Research id: `cubic-yard-calculator` · roadmap page: Cubic Yard Calculator · report generated 2026-11-22
+- Research id: `cubic-yard-calculator` · roadmap page: Cubic Yard Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -11,7 +11,7 @@
 | Volume 27100, KD 18, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #4: www.omnicalculator.com/construction/cubic-yard | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
 | Result list for "cubic yard calculator [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-22 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -308,25 +308,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.inchcalculator.com/cubic-yards-calculator → https://www.inchcalculator.com/cubic-yards-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.calculatorsoup.com/calculators/construction/cubic-yards-calculator.php (inspected 2026-11-22, offline-parse)
-- https://www.thecalculatorsite.com/misc/cubic-yards-calculator.php (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/construction/cubic-yard (inspected 2026-11-22, offline-parse)
-- https://www.homedit.com/calculators/cubic-yards-calculator: not inspected (unreachable (fetch failed))
-- https://omnicalculator.com/construction/cubic-yard: not inspected (unreachable (fetch failed))
-- https://thecalculatorsite.com/misc/cubic-yards-calculator.php: not inspected (unreachable (fetch failed))
-- https://todayshomeowner.com/cubic-yard-calculator/: not inspected (unreachable (fetch failed))
-- https://www.size.ly/calculator/cubic-yards-calculator: not inspected (unreachable (fetch failed))
-- https://convertcalculator.com/tools/cubic-yard-calculator: not inspected (unreachable (fetch failed))
-- https://calculator.io/cubic-yards-calculator: not inspected (unreachable (fetch failed))
-- https://sciencing.com/calculate-cubic-yards-2266389.html: not inspected (unreachable (fetch failed))
-- https://wpforms.com/templates/cubic-yard-calculator-form-template/?utm_locale=id_ID: not inspected (unreachable (fetch failed))
-- https://miniwebtool.com/cubic-yard-calculator/: not inspected (unreachable (fetch failed))
-- https://www.easyunitconverter.com/cubic-yard-calculator: not inspected (unreachable (fetch failed))
-- https://civils.ai/free-cubic-yard-calculator: not inspected (unreachable (fetch failed))
-- https://calculator.academy/cubic-yard-calculator/: not inspected (unreachable (fetch failed))
-- https://convertcalculator.com/templates/cubic-yard-calculator: not inspected (unreachable (fetch failed))
-- https://mycalcbuddy.com/construction/cubic-yard-calculator: not inspected (unreachable (fetch failed))
-- https://calculator.academy/yard-calculator-cubic-yards-for-soil-mulch-gravel/: not inspected (unreachable (fetch failed))
-- https://www.calconic.com/calculator-widgets/cubic-yard-calculator: not inspected (unreachable (fetch failed))
-- https://www.soildirect.com/calculator: not inspected (unreachable (fetch failed))
+- https://www.inchcalculator.com/cubic-yards-calculator → https://www.inchcalculator.com/cubic-yards-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/construction/cubic-yards-calculator.php (inspected 2026-11-23, offline-parse)
+- https://www.thecalculatorsite.com/misc/cubic-yards-calculator.php (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/construction/cubic-yard (inspected 2026-11-23, offline-parse)

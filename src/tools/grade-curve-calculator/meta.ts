@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "grade curve calculator",
   keywords: ["grading bell curve calculator", "curve grades calculator", "test curve calculator", "how to curve grades", "square root curve", "bell curve grading"],
   related: ["grade-calculator", "standard-deviation-calculator", "gpa-calculator", "weighted-mean-calculator"],
+  sources: [{ name: "Wikipedia: Normal distribution", url: "https://en.wikipedia.org/wiki/Normal_distribution" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "📊",

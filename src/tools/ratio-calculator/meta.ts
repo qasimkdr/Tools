@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "ratio calculator",
   keywords: ["simplify ratio", "3:2 ratio", "ratio to fraction", "ratio to percentage", "divide in a ratio", "scale ratio", "equivalent ratios"],
   related: ["proportion-calculator", "hypotenuse-calculator", "fraction-calculator", "percent-calculator", "aspect-ratio-calculator", "gcf-calculator"],
+  sources: [{ name: "Wikipedia: Ratio", url: "https://en.wikipedia.org/wiki/Ratio" }],
   published: "2026-11-21",
   updated: "2026-11-21",
   icon: "➗",

@@ -1,6 +1,6 @@
 # Competitor analysis: "density altitude calculator"
 
-- Research id: `density-altitude-calculator` · roadmap page: Density Altitude Calculator · report generated 2026-11-22
+- Research id: `density-altitude-calculator` · roadmap page: Density Altitude Calculator · report generated 2026-11-23
 - Pages inspected: **1** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -9,7 +9,7 @@
 |---|---|---|---|
 | Result list for "density altitude calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 2900, KD 14, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -152,6 +152,4 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.omnicalculator.com/physics/density-altitude (inspected 2026-11-22, offline-parse)
-- https://www.calculate.co.nz/density-altitude-calculator.php: not inspected (unreachable (fetch failed))
-- https://calctool.org/atmospheric-thermodynamics/density-altitude: not inspected (unreachable (fetch failed))
+- https://www.omnicalculator.com/physics/density-altitude (inspected 2026-11-23, offline-parse)

@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "ohm calculator",
   keywords: ["ohms law calculator", "ohm's law formula", "voltage calculator", "current calculator", "resistance calculator", "watts to amps", "power formula electricity"],
   related: ["wire-size-calculator", "scientific-notation-calculator", "btu-calculator", "density-altitude-calculator"],
+  sources: [{ name: "Wikipedia: Ohm's law", url: "https://en.wikipedia.org/wiki/Ohm%27s_law" }, { name: "Wikipedia: Power factor", url: "https://en.wikipedia.org/wiki/Power_factor" }],
   published: "2026-11-23",
   updated: "2026-11-23",
   icon: "⚡",

@@ -1,6 +1,6 @@
 # Competitor analysis: "volume calculator cylinder"
 
-- Research id: `cylinder-volume-calculator` · roadmap page: Cylinder Volume Calculator · report generated 2026-11-22
+- Research id: `cylinder-volume-calculator` · roadmap page: Cylinder Volume Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -11,7 +11,7 @@
 | Volume 1600, KD 30, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #2: www.calculator.net/volume-calculator.html | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
 | Result list for "cylinder volume calculator [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-22 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -65,8 +65,8 @@
 | Competitor | Type | Words | Content | Function | UX | Trust | Linking | Schema | Total /30 |
 |---|---|---|---|---|---|---|---|---|---|
 | [www.calculator.io](https://www.calculator.io/cylinder-volume-calculator/) | tool + guide | 1361 | 4 | 4 | 3 | 2 | 5 | 4 | **22** |
+| [www.omnicalculator.com](https://www.omnicalculator.com/geometry/cylinder-volume) | tool (JS-rendered; inputs not parsed) | 1232 | 5 | n/a | 3 | 4 | 3 | 3 | **18** /25 |
 | [www.calculatorsoup.com](https://www.calculatorsoup.com/calculators/construction/tank.php) | tool + guide | 1274 | 2 | 3 | 4 | 3 | 5 | 4 | **21** |
-| [www.omnicalculator.com](https://www.omnicalculator.com/geometry/cylinder-volume) | tool (JS-rendered; inputs not parsed) | 1232 | 4 | n/a | 3 | 4 | 3 | 3 | **17** /25 |
 | [www.calculator.net](https://www.calculator.net/volume-calculator.html) | tool + guide | 2821 | 3 | 4 | 4 | 0 | 4 | 3 | **18** |
 
 <details><summary>Scoring rubric</summary>
@@ -90,7 +90,7 @@
 | Share / copy | ✓ | ✓ | · | · |
 | Download / export | · | · | · | · |
 | Formula shown | ✓ | ✓ | ✓ | ✓ |
-| Worked examples | · | ✓ | · | · |
+| Worked examples | ✓ | ✓ | · | · |
 | Step-by-step | ✓ | ✓ | · | · |
 | Table | · | ✓ | ✓ | · |
 | Chart / graph | · | · | · | · |
@@ -105,7 +105,7 @@
 
 **Missing everywhere (candidate opportunities; judge relevance):** Print, Download / export, Chart / graph, Tips / mistakes, Authoritative sources (.gov/.edu/…), Video
 
-**Only one competitor has:** Worked examples, FAQ section (≥4), FAQ schema
+**Only one competitor has:** FAQ section (≥4), FAQ schema
 
 Calculator inputs observed:
 - www.omnicalculator.com: none detected _(JS off — may be under-counted)_
@@ -276,7 +276,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 1. Format: Transactional/utility: a working tool first, backed by an explanatory guide.
 2. Possible differentiators no competitor has (keep only those that fit this intent): Print, Download / export, Chart / graph, Tips / mistakes, Authoritative sources (.gov/.edu/…), Video.
-3. Match rare strengths cheaply: Worked examples, FAQ section (≥4), FAQ schema.
+3. Match rare strengths cheaply: FAQ section (≥4), FAQ schema.
 4. Cover the shared topics: height, radius, area, diameter, surface area, surface, base, given, spherical cap, length.
 5. Write 5 FAQs (competitor median 0), answering questions from §6 in our own words.
 6. Length: competitors range 1232–2821 words (median 1361). Match the intent; don't pad.
@@ -286,22 +286,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.omnicalculator.com/geometry/cylinder-volume → https://www.omnicalculator.com/math/cylinder-volume (inspected 2026-11-22, offline-parse)
-- https://www.calculator.io/cylinder-volume-calculator/ (inspected 2026-11-22, offline-parse)
-- https://www.calculator.net/volume-calculator.html (inspected 2026-11-22, offline-parse)
-- https://www.calculatorsoup.com/calculators/construction/tank.php (inspected 2026-11-22, offline-parse)
-- https://online.visual-paradigm.com/tabular/calculator/math/cylinder-volume-calculator/?t=tabular: not inspected (unreachable (fetch failed))
-- https://online.visual-paradigm.com/spreadsheet-editor/calculator/cylinder-volume-calculator/: not inspected (unreachable (fetch failed))
-- https://www.gigacalculator.com/calculators/volume-of-cylinder-calculator.php: not inspected (disallowed by robots.txt)
-- https://www.size.ly/calculator/cylinder-volume-calculator: not inspected (unreachable (fetch failed))
-- https://cuemath.com/calculators/volume-of-cylinder-calculator: not inspected (unreachable (fetch failed))
-- https://testbook.com/amp/calculators/volume-of-cylinder-calculator: not inspected (unreachable (fetch failed))
-- https://goodcalculators.com/cylinder-volume-calculator/: not inspected (unreachable (fetch failed))
-- https://www.cuemath.com/calculators/volume-of-a-cylinder-calculator: not inspected (unreachable (fetch failed))
-- https://sdt13.abe.msstate.edu/tools/Volume/cylinder.php: not inspected (unreachable (fetch failed))
-- https://www.firgelliauto.com/en-de/blogs/engineering-calculators/cylinder-volume-calculator-tank-pipe-capacity: not inspected (unreachable (fetch failed))
-- https://www.firgelliauto.com/blogs/engineering-calculators/cylinder-volume-calculator-tank-pipe-capacity: not inspected (unreachable (fetch failed))
-- https://calctool.org/math-and-statistics/cylinder-volume: not inspected (unreachable (fetch failed))
-- https://ovacen.com/en/calculator/cylinder-volume/: not inspected (unreachable (fetch failed))
-- https://www.vcalc.com/wiki/volume-of-cylinder: not inspected (unreachable (fetch failed))
-- https://mathcheck.net/calculators/cylinder-volume-calculator: not inspected (unreachable (fetch failed))
+- https://www.omnicalculator.com/geometry/cylinder-volume → https://www.omnicalculator.com/math/cylinder-volume (inspected 2026-11-23, offline-parse)
+- https://www.calculator.io/cylinder-volume-calculator/ (inspected 2026-11-23, offline-parse)
+- https://www.calculator.net/volume-calculator.html (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/construction/tank.php (inspected 2026-11-23, offline-parse)

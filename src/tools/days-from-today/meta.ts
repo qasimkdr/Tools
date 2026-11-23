@@ -14,6 +14,7 @@ const meta: ToolMeta = {
     "business days from today", "days ago", "date from today", "what date is", "add days to date",
   ],
   related: ["date-calculator", "date-difference-calculator", "weeks-calculator", "age-calculator", "hours-calculator", "how-many-years-calculator"],
+  sources: [{ name: "U.S. Office of Personnel Management: Federal holidays", url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/" }],
   published: "2026-11-21",
   updated: "2026-11-21",
   icon: "🗓️",

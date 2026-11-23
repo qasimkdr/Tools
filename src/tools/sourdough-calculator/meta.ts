@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "sourdough calculator",
   keywords: ["sourdough hydration calculator", "bakers percentage calculator", "sourdough starter feeding calculator", "dough hydration calculator", "levain calculator", "bread hydration"],
   related: ["ratio-calculator", "proportion-calculator", "pro-rata-calculator"],
+  sources: [{ name: "Wikipedia: Baker percentage", url: "https://en.wikipedia.org/wiki/Baker_percentage" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "🍞",

@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "half birthday calculator",
   keywords: ["when is my half birthday", "half birthday date", "6 months after birthday", "half birthday countdown", "half year birthday", "half birthday ideas"],
   related: ["age-calculator", "days-from-today", "period-calculator", "random-number-generator"],
+  sources: [{ name: "Wikipedia: Half-birthday", url: "https://en.wikipedia.org/wiki/Half-birthday" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "🎂",

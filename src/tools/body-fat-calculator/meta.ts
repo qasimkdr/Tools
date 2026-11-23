@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "body fat calculator u.s. navy",
   keywords: ["body fat calculator", "us navy body fat calculator", "fat percentage calculator", "body fat percentage", "how to find your body fat percentage", "bfp calculator", "lean body mass"],
   related: ["ffmi-calculator", "bmi-women-calculator", "army-body-fat-calculator", "water-intake-calculator"],
+  sources: [{ name: "Wikipedia: Body fat percentage", url: "https://en.wikipedia.org/wiki/Body_fat_percentage" }, { name: "Wikipedia: Lean body mass", url: "https://en.wikipedia.org/wiki/Lean_body_mass" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "📐",

@@ -1,6 +1,6 @@
 # Competitor analysis: "era calculator"
 
-- Research id: `earned-run-average-calculator` · roadmap page: Earned Run Average Calculator · report generated 2026-11-22
+- Research id: `earned-run-average-calculator` · roadmap page: Earned Run Average Calculator · report generated 2026-11-23
 - Pages inspected: **2** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -10,7 +10,7 @@
 | Result list for "era calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 8100, KD 18, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #3: www.omnicalculator.com/sports/earned-run-average | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -191,5 +191,5 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.omnicalculator.com/sports/earned-run-average (inspected 2026-11-22, offline-parse)
-- https://www.calculatorsoup.com/calculators/games/era-calculator.php (inspected 2026-11-22, offline-parse)
+- https://www.omnicalculator.com/sports/earned-run-average (inspected 2026-11-23, offline-parse)
+- https://www.calculatorsoup.com/calculators/games/era-calculator.php (inspected 2026-11-23, offline-parse)

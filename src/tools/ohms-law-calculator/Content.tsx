@@ -29,6 +29,11 @@ export default function Content() {
         <li><strong>LED resistor</strong>: 5 V supply, 2 V LED, 20 mA: R = 3 ÷ 0.02 = <strong>150 Ω</strong>, dissipating 3 × 0.02 = 0.06 W.</li>
       </ul>
 
+      <h2 id="series-parallel">Resistors in series and parallel</h2>
+      <p>Ohm&apos;s law works on a whole circuit once you combine resistances into one equivalent value:</p>
+      <div className="formula">Series: R = R₁ + R₂ + R₃ + …<br />Parallel: 1 ÷ R = 1 ÷ R₁ + 1 ÷ R₂ + 1 ÷ R₃ + … (two resistors: R = R₁R₂ ÷ (R₁ + R₂))</div>
+      <p>For example, 100 Ω and 220 Ω in series make 320 Ω, so a 9 V battery drives 9 ÷ 320 = 28.1 mA through both. The same two resistors in parallel make 100 × 220 ÷ 320 = 68.75 Ω, drawing 9 ÷ 68.75 = 131 mA in total. In series the current is the same through every part and the voltages add; in parallel the voltage is the same across every branch and the currents add.</p>
+
       <h2 id="units">Units and prefixes</h2>
       <table>
         <thead><tr><th>Quantity</th><th>Unit</th><th>Common prefixes</th></tr></thead>

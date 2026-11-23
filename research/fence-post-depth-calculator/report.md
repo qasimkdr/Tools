@@ -157,5 +157,3 @@ The crawler can't verify correctness. Check these competitor statements against 
 ## Sources
 
 - https://www.omnicalculator.com/construction/fence-post-depth (inspected 2026-11-23, offline-parse)
-- https://www.inchcalculator.com/fence-post-depth-calculator/: not inspected (HTTP 404)
-- https://www.calculator.net/fence-calculator.html: not inspected (HTTP 404)

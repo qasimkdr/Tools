@@ -5,7 +5,7 @@
    "finalUrl": "https://www.calculator.net/gpa-calculator.html",
    "mode": "offline-parse",
    "domain": "www.calculator.net",
-   "fetchedAt": "2026-11-22T08:41:25.723Z",
+   "fetchedAt": "2026-11-23T01:22:37.568Z",
    "title": "GPA Calculator",
    "metaDescription": "This GPA calculator computes GPA and generates a report based on course credits and the achieved grade. It accepts both numerical and letter grades.",
    "canonical": null,
@@ -319,7 +319,7 @@
    "finalUrl": "https://www.inchcalculator.com/gpa-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-22T08:41:50.805Z",
+   "fetchedAt": "2026-11-23T01:22:39.323Z",
    "title": "GPA Calculator - Inch Calculator",
    "metaDescription": "Use our GPA calculator to find your grade point average. Plus, learn the formula to calculate a GPA and the steps to use it.",
    "canonical": "https://www.inchcalculator.com/gpa-calculator/",
@@ -693,7 +693,7 @@
    "finalUrl": "https://www.omnicalculator.com/other/gpa",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T08:42:02.486Z",
+   "fetchedAt": "2026-11-23T01:22:41.601Z",
    "title": "GPA Calculator",
    "metaDescription": "Calculate your GPA easily with Omni Calculator's free and accurate GPA calculator. Supports multiple grading scales and course weights.",
    "canonical": "https://www.omnicalculator.com/other/gpa",
@@ -997,7 +997,7 @@
    "finalUrl": "https://www.calculator.io/gpa-calculator/",
    "mode": "offline-parse",
    "domain": "www.calculator.io",
-   "fetchedAt": "2026-11-22T08:42:08.807Z",
+   "fetchedAt": "2026-11-23T01:22:43.158Z",
    "title": "GPA Calculator",
    "metaDescription": "Calculate your high school or college GPA in seconds. Our free GPA calculator computes your cumulative Grade Point Average using letter or number grades.",
    "canonical": "https://www.calculator.io/gpa-calculator/",
@@ -1278,51 +1278,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.pearson.com/channels/it/calculators/gpa-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.pearson.com/channels/ko-kr/calculators/gpa-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://umkc.edu/Registrar/student-records/grades-gpa/gpa-calculator.html": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.smu.ca/academics/gpa-calculator.html": [
-   "unreachable (fetch failed)"
-  ],
-  "https://und.edu/academics/registrar/gpa-calculator.html": [
-   "unreachable (fetch failed)"
-  ],
-  "https://warrington.ufl.edu/current-students/gpa-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://ualberta.ca/augustana/student-life/academic/resources/gpa-calculator.html": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.ualberta.ca/augustana/services/academic/resources/gpa-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://web.cs.dal.ca/~mcallist/gpa2.html": [
-   "unreachable (fetch failed)"
-  ],
-  "https://myhighered.mn.gov/gpa-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://omnicalculator.com/other/gpa": [
-   "unreachable (fetch failed)"
-  ],
-  "https://reslife.berkeley.edu/gpa-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.binghamton.edu/decker/advising/gpa-calculator.html": [
-   "unreachable (fetch failed)"
-  ],
-  "https://onlinemasters.jou.ufl.edu/current-students/gpa-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.jmu.edu/advising/acadplan/semester-gpa.shtml": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

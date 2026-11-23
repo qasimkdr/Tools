@@ -5,7 +5,7 @@
    "finalUrl": "https://www.inchcalculator.com/days-from/90-days-from-today/&sa=U&ved=2ahUKEwjKmq7Zi9eCAxVopokEHaCVArYQFnoECAUQAg&usg=AOvVaw1b4QBvH8-0YGjwSe-cPcsc/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-21T19:25:25.481Z",
+   "fetchedAt": "2026-11-23T01:21:41.656Z",
    "title": "What Date Is 90 Days From Today? - Inch Calculator",
    "metaDescription": "Calculate the date ninety days from today. See what date it will be in 90 calendar days or working days.",
    "canonical": "https://www.inchcalculator.com/days-from/90-days-from-today/",
@@ -297,7 +297,7 @@
    "finalUrl": "https://www.thecalculatorsite.com/time/days/90",
    "mode": "offline-parse",
    "domain": "www.thecalculatorsite.com",
-   "fetchedAt": "2026-11-21T19:25:44.662Z",
+   "fetchedAt": "2026-11-23T01:21:43.015Z",
    "title": "What is 90 Days From Today?",
    "metaDescription": "Find out what the date will be ninety calendar days or business days from today",
    "canonical": "https://www.thecalculatorsite.com/time/days/90",
@@ -481,10 +481,10 @@
     }
    ],
    "claims": [
-    "Friday, February 19, 2027 February 19, 2027 19 February 2027 2/19/27 19/2/27 2027-02-19 Adding ninety days to today's date takes you to Friday February 19, 2027.",
-    "This is based on today's date of Saturday November 21, 2026.",
-    "This is 125 full calendar days from today.",
-    "90 working days: Friday, March 26, 2027 To find out how many days there are between two dates, you can use our days calculator tool.",
+    "Sunday, February 21, 2027 February 21, 2027 21 February 2027 2/21/27 21/2/27 2027-02-21 Adding ninety days to today's date takes you to Sunday February 21, 2027.",
+    "This is based on today's date of Monday November 23, 2026.",
+    "This is 126 full calendar days from today.",
+    "90 working days: Monday, March 29, 2027 To find out how many days there are between two dates, you can use our days calculator tool.",
     "Related calculators Days from today: 15 days | 30 days | 45 days | 60 days | Age Calculator Birthday Calculator Calculator by Alastair Hazell."
    ],
    "schemaTypes": [
@@ -606,7 +606,7 @@
    "finalUrl": "https://www.omnicalculator.com/everyday-life/90-day",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-21T19:25:47.932Z",
+   "fetchedAt": "2026-11-23T01:21:45.115Z",
    "title": "90 Day Calculator: Find Dates 90 Days From Now",
    "metaDescription": "Instantly find out what date was 90 days ago from today with our accurate 90 day calculator. Step back in time effortlessly. Try it now!",
    "canonical": "https://www.omnicalculator.com/everyday-life/90-day",
@@ -881,31 +881,24 @@
    "finalUrl": "https://www.symbolab.com/calculator/time-date/days-ago/what-is-90-days-before-today",
    "mode": "offline-parse",
    "domain": "www.symbolab.com",
-   "fetchedAt": "2026-11-21T19:25:51.086Z",
-   "title": "what is 90 days before today - Symbolab",
-   "metaDescription": "To calculate a date 90 days ago, simply count downward 90 days starting from today's date.",
+   "fetchedAt": "2026-11-23T01:21:46.409Z",
+   "title": "Days Ago Calculator - Symbolab",
+   "metaDescription": null,
    "canonical": "https://www.symbolab.com/calculator/time-date/days-ago/what-is-90-days-before-today",
    "robotsMeta": null,
    "lang": "en",
    "h1": [
-    "what is 90 days before today"
+    "Days Ago Calculator"
    ],
    "h2": [
     "Days Ago Calculator",
-    "What Date Is 90 Days Ago From Today?",
-    "How do you calculate the date 90 days ago from now?",
-    "The below chart shows the date 90 days ago from today and various other days.",
-    "Related Links",
     "Related Calculators"
    ],
-   "h3": [
-    "Step 1",
-    "Step 2"
-   ],
+   "h3": [],
    "outline": [
     {
      "level": 1,
-     "text": "what is 90 days before today"
+     "text": "Days Ago Calculator"
     },
     {
      "level": 2,
@@ -913,115 +906,44 @@
     },
     {
      "level": 2,
-     "text": "What Date Is 90 Days Ago From Today?"
-    },
-    {
-     "level": 2,
-     "text": "How do you calculate the date 90 days ago from now?"
-    },
-    {
-     "level": 3,
-     "text": "Step 1"
-    },
-    {
-     "level": 3,
-     "text": "Step 2"
-    },
-    {
-     "level": 2,
-     "text": "The below chart shows the date 90 days ago from today and various other days."
-    },
-    {
-     "level": 2,
-     "text": "Related Links"
-    },
-    {
-     "level": 2,
      "text": "Related Calculators"
     }
    ],
-   "wordCount": 254,
-   "avgSentenceWords": 42,
-   "faqs": [
-    "What Date Is 90 Days Ago From Today?",
-    "How do you calculate the date 90 days ago from now?"
-   ],
+   "wordCount": 50,
+   "avgSentenceWords": 50,
+   "faqs": [],
    "faqSchemaCount": 0,
    "topics": [
     {
-     "term": "days",
-     "weight": 25
-    },
-    {
      "term": "days ago",
-     "weight": 18
+     "weight": 8
     },
     {
-     "term": "2026 august",
-     "weight": 14
+     "term": "days",
+     "weight": 7
     },
     {
      "term": "ago",
-     "weight": 13
+     "weight": 6
     },
     {
-     "term": "date",
-     "weight": 12
-    },
-    {
-     "term": "august",
-     "weight": 12
-    },
-    {
-     "term": "2026 november",
-     "weight": 12
-    },
-    {
-     "term": "november",
-     "weight": 11
-    },
-    {
-     "term": "today",
+     "term": "calculator days",
      "weight": 6
     },
     {
      "term": "calculator",
-     "weight": 4
-    },
-    {
-     "term": "month",
-     "weight": 4
+     "weight": 5
     },
     {
      "term": "ago calculator",
-     "weight": 3
+     "weight": 5
     },
     {
-     "term": "days before",
-     "weight": 3
-    },
-    {
-     "term": "before today",
-     "weight": 3
-    },
-    {
-     "term": "calculator days",
+     "term": "date",
      "weight": 3
     },
     {
      "term": "ago explanationrelated",
-     "weight": 3
-    },
-    {
-     "term": "explanationrelated linksrelated",
-     "weight": 3
-    },
-    {
-     "term": "sunday august",
-     "weight": 3
-    },
-    {
-     "term": "month days",
      "weight": 3
     },
     {
@@ -1033,10 +955,7 @@
      "weight": 3
     }
    ],
-   "claims": [
-    "Step 1 Get today's date: Today is Saturday, November 21, 2026 Step 2 The table below shows how many days fit into every month from the current month and onwards.",
-    "Month Days in Month Days counted Days remaining 90 November 30 21 69 October 31 31 38 September 30 30 8 August 31 8 0 The below chart shows the date 90 days ago from today and various other days."
-   ],
+   "claims": [],
    "schemaTypes": [
     "BreadcrumbList"
    ],
@@ -1044,7 +963,7 @@
     "JSON-LD"
    ],
    "tables": 0,
-   "lists": 1,
+   "lists": 0,
    "images": 0,
    "videos": 0,
    "calculatorInputs": [
@@ -1053,7 +972,7 @@
    ],
    "selectOptionsSample": "",
    "unitToggle": false,
-   "wordsBeforeTool": 41,
+   "wordsBeforeTool": 31,
    "actions": {
     "print": false,
     "share": false,
@@ -1064,10 +983,10 @@
    "content": {
     "formula": false,
     "examples": false,
-    "stepByStep": true,
+    "stepByStep": false,
     "costEstimate": false,
-    "chart": true,
-    "definitions": true,
+    "chart": false,
+    "definitions": false,
     "tips": false
    },
    "eeat": {
@@ -1077,16 +996,16 @@
     "authoritativeSources": []
    },
    "ux": {
-    "htmlKB": 107,
+    "htmlKB": 98,
     "adNetworks": [],
     "adSlots": 0,
     "viewport": true,
     "breadcrumbs": true
    },
    "links": {
-    "internal": 27,
+    "internal": 22,
     "external": 0,
-    "contentInternal": 27,
+    "contentInternal": 22,
     "contentExternal": 0,
     "internalAnchors": [
      "Physics",
@@ -1105,10 +1024,10 @@
      "Converters",
      "Calculator",
      "Days Ago Calculator",
-     "2806 days ago",
-     "2895 days ago",
-     "119 days ago",
-     "100 days ago"
+     "Days Until Calculator",
+     "Hours From Now Calculator",
+     "How Long Until Calculator",
+     "Hours Ago Calculator"
     ],
     "internalSample": [
      "https://www.symbolab.com/calculator/physics",
@@ -1128,14 +1047,11 @@
      "https://www.symbolab.com/calculator",
      "https://www.symbolab.com/calculator/time-date/days-ago",
      "https://www.symbolab.com/calculator/time-date/days-ago/what-is-90-days-before-today",
-     "https://www.symbolab.com/calculator/time-date/days-ago/2806-days-ago",
-     "https://www.symbolab.com/calculator/time-date/days-ago/2895-days-ago",
-     "https://www.symbolab.com/calculator/time-date/days-ago/119-days-ago",
-     "https://www.symbolab.com/calculator/time-date/days-ago/100-days-ago",
-     "https://www.symbolab.com/calculator/time-date/days-ago/30-days-ago",
-     "https://www.symbolab.com/calculator/time-date/days-until-date",
-     "https://www.symbolab.com/calculator/time-date/hours-from-now",
-     "https://www.symbolab.com/calculator/time-date/how-long-until"
+     "https://www.symbolab.com/calculator/time-date/days-ago/days-until-date",
+     "https://www.symbolab.com/calculator/time-date/days-ago/hours-from-now",
+     "https://www.symbolab.com/calculator/time-date/days-ago/how-long-until",
+     "https://www.symbolab.com/calculator/time-date/days-ago/hours-ago",
+     "https://www.symbolab.com/calculator/time-date/days-ago/hours"
     ],
     "externalSample": []
    },
@@ -1145,27 +1061,5 @@
    ]
   }
  },
- "failed": {
-  "https://omnicalculator.com/everyday-life/90-day": [
-   "unreachable (fetch failed)"
-  ],
-  "https://es.symbolab.com/calculator/90-days-from-today": [
-   "unreachable (fetch failed)"
-  ],
-  "https://cache.omnicalculator.com/everyday-life/90-day": [
-   "unreachable (fetch failed)"
-  ],
-  "https://fr.symbolab.com/calculator/time-date/days-until/90-days-from-today": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.thewordfinder.com/calculators/90-days-from-today/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.geeksforgeeks.org/90-day-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://ar.symbolab.com/calculator/today-90-days": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

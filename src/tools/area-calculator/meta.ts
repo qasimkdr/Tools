@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "surface area calculator",
   keywords: ["area calculator", "how to find area", "surface area", "area of a rectangle", "surface area of a cube", "area of a triangle", "area of a circle", "surface area of a cylinder"],
   related: ["square-footage-calculator", "cylinder-volume-calculator", "cone-volume-calculator", "hypotenuse-calculator"],
+  sources: [{ name: "Wikipedia: Surface area", url: "https://en.wikipedia.org/wiki/Surface_area" }, { name: "Wikipedia: Sphere", url: "https://en.wikipedia.org/wiki/Sphere" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "📏",

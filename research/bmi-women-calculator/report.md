@@ -1,6 +1,6 @@
 # Competitor analysis: "women bmi calculator"
 
-- Research id: `bmi-women-calculator` · roadmap page: Bmi Women Calculator · report generated 2026-11-22
+- Research id: `bmi-women-calculator` · roadmap page: Bmi Women Calculator · report generated 2026-11-23
 - Pages inspected: **4** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -11,7 +11,7 @@
 | Volume 5400, KD 9, intent I | Semrush export (data/source) | Third-party estimate | export date not recorded |
 | Competitor at Google #9: www.omnicalculator.com/health/bmi-women | Semrush export | **Google position as reported by Semrush** (historic) | export date not recorded |
 | Result list for "bmi calculator women [restricted to accessible domains]" | Built-in web search, limited to domains this environment can reach | **Supplementary list — NOT the open result list, NOT a Google ranking** | 2026-11-22 |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -282,19 +282,7 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.calculatorsoup.com/calculators/health/bmi-calculator-women.php (inspected 2026-11-22, offline-parse)
-- https://www.omnicalculator.com/health/bmi-women (inspected 2026-11-22, offline-parse)
-- https://www.calculator.net/bmi-calculator.html (inspected 2026-11-22, offline-parse)
-- https://www.inchcalculator.com/bmi-calculator/ (inspected 2026-11-22, offline-parse)
-- https://omnicalculator.com/health/bmi-women: not inspected (unreachable (fetch failed))
-- https://www.ramsayhealth.co.uk/treatments/weight-loss-surgery/bmi/bmi-for-women: not inspected (unreachable (fetch failed))
-- https://health.clevelandclinic.org/bmi-for-women/: not inspected (unreachable (fetch failed))
-- https://weightwatchers.com/nz/blog/weight-loss/bmi-calculator: not inspected (unreachable (fetch failed))
-- https://www.calculate.co.nz/bmi-calculator-for-women.php: not inspected (unreachable (fetch failed))
-- https://weightwatchers.com/au/blog/weight-loss/bmi-calculator: not inspected (unreachable (fetch failed))
-- https://www.codeitbro.com/tool/bmi-calculator-for-women: not inspected (unreachable (fetch failed))
-- https://www.boltpharmacy.co.uk/guide/bmi-calculator-for-women: not inspected (unreachable (fetch failed))
-- https://www.deliveryrank.com/tools/women-bmi-calculator: not inspected (unreachable (fetch failed))
-- https://apps.apple.com/la/app/bmi-calculator-for-women-men/id1554046740: not inspected (unreachable (fetch failed))
-- https://www.graphcalc.com/?p=1025: not inspected (unreachable (fetch failed))
-- https://bmi.recipesecrets.net/calculator-for-women: not inspected (unreachable (fetch failed))
+- https://www.calculatorsoup.com/calculators/health/bmi-calculator-women.php (inspected 2026-11-23, offline-parse)
+- https://www.omnicalculator.com/health/bmi-women (inspected 2026-11-23, offline-parse)
+- https://www.calculator.net/bmi-calculator.html (inspected 2026-11-23, offline-parse)
+- https://www.inchcalculator.com/bmi-calculator/ (inspected 2026-11-23, offline-parse)

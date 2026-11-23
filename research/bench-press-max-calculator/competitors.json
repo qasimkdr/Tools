@@ -5,7 +5,7 @@
    "finalUrl": "https://www.inchcalculator.com/bench-press-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-22T08:43:33.634Z",
+   "fetchedAt": "2026-11-23T01:20:04.188Z",
    "title": "Bench Press Calculator - Inch Calculator",
    "metaDescription": "Calculate your max bench press using our 1RM calculator. Plus, learn several formulas to calculate a one-rep max for the bench press.",
    "canonical": "https://www.inchcalculator.com/bench-press-calculator/",
@@ -361,7 +361,7 @@
    "finalUrl": "https://www.omnicalculator.com/sports/bench-press",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-22T08:43:42.579Z",
+   "fetchedAt": "2026-11-23T01:20:06.495Z",
    "title": "Bench Press Calculator / Max Bench Calculator (1 Rep Max)",
    "metaDescription": "This bench press calculator helps you find your one-rep maximum for any lifting movement, such as your squat max, deadlift max, or shoulder press max.",
    "canonical": "https://www.omnicalculator.com/sports/bench-press",
@@ -668,7 +668,7 @@
    "finalUrl": "https://www.calculator.net/one-rep-max-calculator.html",
    "mode": "offline-parse",
    "domain": "www.calculator.net",
-   "fetchedAt": "2026-11-22T08:46:14.843Z",
+   "fetchedAt": "2026-11-23T01:20:07.878Z",
    "title": "One Rep Max Calculator",
    "metaDescription": "This free calculator estimates a person's one rep max (1RM) based on the number of repetitions they can perform with a given weight.",
    "canonical": null,
@@ -974,51 +974,5 @@
    ]
   }
  },
- "failed": {
-  "https://www.topendsports.com/testing/tests/1rm-bench-press.htm": [
-   "unreachable (fetch failed)"
-  ],
-  "https://strengthlevel.com/bench-press-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.muscleandstrength.com/tools/bench-press-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.muscleandstrength.com/tools/bench-press-calculator?page=2": [
-   "unreachable (fetch failed)"
-  ],
-  "https://new.topendsports.com/testing/tests/1rm-bench-press.htm": [
-   "unreachable (fetch failed)"
-  ],
-  "https://fitnessvolt.com/bench-press-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://legionathletics.com/tools/bench-press-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://fitnessvolt.com/rpe-training/bench-press-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://fallback.topendsports.com/testing/tests/max-bench-press.htm": [
-   "unreachable (fetch failed)"
-  ],
-  "https://gymgeek.com/calculators/max-bench-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.miniwebtool.com/bench-press-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://goodcalculators.com/bench-press-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.stylecraze.com/tools/bench-press-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://legionathletics.com/bench-press-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.goodcalculators.com/bench-press-calculator/": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }

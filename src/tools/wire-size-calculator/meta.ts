@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "wire gauge calculator",
   keywords: ["wire size calculator", "awg calculator", "voltage drop calculator", "wire gauge chart", "amp to wire size", "ampacity"],
   related: ["cylinder-volume-calculator", "scientific-notation-calculator", "square-root-calculator", "molecular-weight-calculator"],
+  sources: [{ name: "Wikipedia: Wire gauge", url: "https://en.wikipedia.org/wiki/Wire_gauge" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "🔌",

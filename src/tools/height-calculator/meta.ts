@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "height calculator",
   keywords: ["khamis-roche method height calculator", "height prediction calculator", "child height calculator", "height predictor calculator", "how tall will i be", "mid parental height calculator", "height estimator"],
   related: ["bmi-women-calculator", "age-calculator", "steps-to-miles-calculator", "dunk-calculator"],
+  sources: [{ name: "Khamis & Roche (1994), Pediatrics: Predicting adult stature without using skeletal age (PubMed)", url: "https://pubmed.ncbi.nlm.nih.gov/7936860/" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "📏",

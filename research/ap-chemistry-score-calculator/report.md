@@ -1,6 +1,6 @@
 # Competitor analysis: "ap chemistry score calculator"
 
-- Research id: `ap-chemistry-score-calculator` · roadmap page: AP Chemistry Score Calculator · report generated 2026-11-22
+- Research id: `ap-chemistry-score-calculator` · roadmap page: AP Chemistry Score Calculator · report generated 2026-11-23
 - Pages inspected: **1** (offline-parse)
 
 ## Data sources (read before using any number)
@@ -9,7 +9,7 @@
 |---|---|---|---|
 | Result list for "ap chemistry score calculator" | Built-in web search tool (Claude Code) | **Web-search order — NOT a verified Google ranking** | 2026-11-22 |
 | Volume 4400, KD 3, intent C | Semrush export (data/source) | Third-party estimate | export date not recorded |
-| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-22 |
+| Page structure & features | Our crawler (Playwright/Chromium) | Observed on the live page | 2026-11-23 |
 
 ## 1. Search intent
 
@@ -166,19 +166,4 @@ The crawler can't verify correctness. Check these competitor statements against 
 
 ## Sources
 
-- https://www.omnicalculator.com/other/ap-chem-score (inspected 2026-11-22, offline-parse)
-- https://fiveable.me/ap-chem/ap-score-calculator: not inspected (unreachable (fetch failed))
-- https://fiveable.me/ap-score-calculator/ap-chem: not inspected (unreachable (fetch failed))
-- https://www.albert.io/blog/ap-chemistry-score-calculator/: not inspected (unreachable (fetch failed))
-- https://www.remnote.com/score-calculator/ap-chemistry: not inspected (unreachable (fetch failed))
-- https://www.collegetransitions.com/?p=14710: not inspected (unreachable (fetch failed))
-- https://www.collegetransitions.com/blog/ap-chem-score-calculator/: not inspected (unreachable (fetch failed))
-- https://test-ninjas.com/ap-chemistry-score-calculator: not inspected (unreachable (fetch failed))
-- https://scholarly.so/tools/ap-chemistry-score-calculator: not inspected (unreachable (fetch failed))
-- https://www.collegevine.com/faq/23228/need-help-with-ap-chemistry-exam-score-calculator: not inspected (unreachable (fetch failed))
-- https://smartcgpa.com/ap-score-calculator/ap-chemistry: not inspected (unreachable (fetch failed))
-- https://admissionsight.com/ap-chemistry-score-calculator/: not inspected (unreachable (fetch failed))
-- https://num8ers.com/score-calculator/ap-chemistry-score-calculator: not inspected (unreachable (fetch failed))
-- https://testprepkart.com/self-study/ap/pages/ap-chemistry-score-calculator: not inspected (unreachable (fetch failed))
-- https://www.collegevine.com/faq/25170/ap-chemistry-score-calculator-reliable-for-predictions: not inspected (unreachable (fetch failed))
-- https://collegeprep.uworld.com/ap-chemistry/scores-and-score-calculator/: not inspected (unreachable (fetch failed))
+- https://www.omnicalculator.com/other/ap-chem-score (inspected 2026-11-23, offline-parse)

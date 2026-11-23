@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "cd interest calculator",
   keywords: ["cd calculator", "certificate of deposit calculator", "cd return calculator", "cd rates calculator", "fd calculator", "fixed deposit calculator", "cd yield calculator"],
   related: ["money-market-calculator", "apr-calculator", "npv-calculator", "401k-calculator"],
+  sources: [{ name: "Wikipedia: Annual percentage yield", url: "https://en.wikipedia.org/wiki/Annual_percentage_yield" }, { name: "FDIC: Understanding deposit insurance", url: "https://www.fdic.gov/resources/deposit-insurance/understanding-deposit-insurance" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "🏦",

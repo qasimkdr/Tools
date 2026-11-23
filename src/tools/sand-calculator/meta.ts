@@ -10,6 +10,7 @@ const meta: ToolMeta = {
   primaryKw: "sand calculator",
   keywords: ["sand estimator", "paver sand calculator", "how much sand do i need", "sandbox sand", "yard of sand weight", "bags of sand"],
   related: ["gravel-and-stone-calculator", "cubic-yard-calculator", "paver-calculator", "concrete-calculator", "square-footage-calculator"],
+  sources: [{ name: "NIST Guide to the SI, Appendix B.9: Conversion factors", url: "https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b9" }, { name: "NIST Handbook 44, Appendix C: General tables of units of measurement", url: "https://www.nist.gov/document/2026-nist-handbook-44-appendix-c" }],
   published: "2026-11-22",
   updated: "2026-11-22",
   icon: "🏖️",

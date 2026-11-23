@@ -5,7 +5,7 @@
    "finalUrl": "https://www.inchcalculator.com/army-body-fat-calculator/",
    "mode": "offline-parse",
    "domain": "www.inchcalculator.com",
-   "fetchedAt": "2026-11-21T19:26:47.861Z",
+   "fetchedAt": "2026-11-23T01:19:44.882Z",
    "title": "Army Body Fat Calculator - Inch Calculator",
    "metaDescription": "Calculate your body fat percentage per US Army standards using a simple calculator to see if you meet Army body composition standards.",
    "canonical": "https://www.inchcalculator.com/army-body-fat-calculator/",
@@ -346,7 +346,7 @@
    "finalUrl": "https://www.omnicalculator.com/health/army-body-fat",
    "mode": "offline-parse",
    "domain": "www.omnicalculator.com",
-   "fetchedAt": "2026-11-21T19:27:15.390Z",
+   "fetchedAt": "2026-11-23T01:19:46.979Z",
    "title": "Army Body Fat Calculator (Height, Weight, Tape)",
    "metaDescription": "The army body fat calculator estimates the fat content in one's body with a  formula used by the US Army.",
    "canonical": "https://www.omnicalculator.com/health/army-body-fat",
@@ -626,7 +626,7 @@
    "finalUrl": "https://www.calculator.net/army-body-fat-calculator.html",
    "mode": "offline-parse",
    "domain": "www.calculator.net",
-   "fetchedAt": "2026-11-21T19:27:25.997Z",
+   "fetchedAt": "2026-11-23T01:19:48.111Z",
    "title": "Army Body Fat Calculator",
    "metaDescription": "This calculator computes body fat percentage using methods from the Army Body Fat Assessment of the Army Body Composition Program.",
    "canonical": null,
@@ -897,7 +897,7 @@
    "finalUrl": "https://www.calculator.io/army-body-fat-calculator/",
    "mode": "offline-parse",
    "domain": "www.calculator.io",
-   "fetchedAt": "2026-11-21T19:27:29.083Z",
+   "fetchedAt": "2026-11-23T01:19:49.588Z",
    "title": "Army Body Fat Calculator",
    "metaDescription": "Easily calculate your body fat percentage with our Army Body Fat Calculator. Check if you meet the official U.S. Army AR 600-9 composition standards today.",
    "canonical": "https://www.calculator.io/army-body-fat-calculator/",
@@ -1203,48 +1203,5 @@
    ]
   }
  },
- "failed": {
-  "https://calculator.net/army-body-fat-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://Calculator.net/army-body-fat-calculator.html": [
-   "unreachable (fetch failed)"
-  ],
-  "https://guyru.github.io/calculators/army-body-fat-calculator.html": [
-   "unreachable (fetch failed)"
-  ],
-  "https://legionathletics.com/army-body-fat-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.gigacalculator.com/calculators/army-body-fat-calculator.php": [
-   "disallowed by robots.txt"
-  ],
-  "https://www.stylecraze.com/tools/army-body-fat-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://online.visual-paradigm.com/tabular/calculator/health/army-body-fat-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://online.visual-paradigm.com/spreadsheet-editor/calculator/army-body-fat-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://calculator.io/army-body-fat-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://thecalculatortoolbox.odoo.com/army-body-fat-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://ameblo.jp/unitcalculatortool/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://size.ly/calculator/army-body-fat-calculator": [
-   "unreachable (fetch failed)"
-  ],
-  "https://miniwebtool.com/army-body-fat-calculator/": [
-   "unreachable (fetch failed)"
-  ],
-  "https://www.fitbudd.com/calculators/army-body-fat-calculator": [
-   "unreachable (fetch failed)"
-  ]
- }
+ "failed": {}
 }
