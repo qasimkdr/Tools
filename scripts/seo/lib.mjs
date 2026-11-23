@@ -84,7 +84,7 @@ export async function dfs(endpoint, body) {
 }
 
 /** Our own site + low-value result types never count as competitors. */
-export const SKIP_DOMAINS = [/solvepilot\./, /youtube\.com$/, /reddit\.com$/, /quora\.com$/, /pinterest\./, /facebook\.com$/, /tiktok\.com$/, /instagram\.com$/, /x\.com$/, /twitter\.com$/];
+export const SKIP_DOMAINS = [/solvepilot\./, /mathi\.xyz/, /youtube\.com$/, /reddit\.com$/, /quora\.com$/, /pinterest\./, /facebook\.com$/, /tiktok\.com$/, /instagram\.com$/, /x\.com$/, /twitter\.com$/];
 export const isCompetitor = (domain) => !SKIP_DOMAINS.some((r) => r.test(domain));
 
 /** Group subdomains (www., es., cache.) under one competitor: "es.symbolab.com" → "symbolab.com". Handles co.uk-style TLDs. */

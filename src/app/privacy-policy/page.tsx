@@ -2,7 +2,7 @@ import StaticPage from "@/components/StaticPage";
 import { pageMeta } from "@/lib/seo";
 import { SITE } from "@/lib/site";
 
-export const metadata = pageMeta({ title: "Privacy Policy", description: "How SolvePilot handles data: calculations run in your browser, and we explain how Google AdSense cookies, analytics and your privacy choices (GDPR, CCPA) work.", path: "/privacy-policy/" });
+export const metadata = pageMeta({ title: "Privacy Policy", description: "How Mathi handles data: calculations run in your browser, and we explain how Google AdSense cookies, analytics and your privacy choices (GDPR, CCPA) work.", path: "/privacy-policy/" });
 
 export default function Page() {
   return (
@@ -21,7 +21,7 @@ export default function Page() {
       <h2>Children</h2>
       <p>Our site is not directed at children under 13, and we do not knowingly collect their personal information.</p>
       <h2>Contact</h2>
-      <p>For privacy questions, email <a href="mailto:privacy@solvepilot.com">privacy@solvepilot.com</a>.</p>
+      <p>For privacy questions, email <a href="mailto:privacy@mathi.xyz">privacy@mathi.xyz</a>.</p>
     </StaticPage>
   );
 }

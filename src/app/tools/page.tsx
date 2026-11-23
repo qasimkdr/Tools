@@ -8,7 +8,7 @@ import { toolsInCategory } from "@/tools/registry";
 
 export const metadata = pageMeta({
   title: "All Calculators & Tools – Free Online Calculators",
-  description: "Browse every free SolvePilot calculator by category: date and time, finance, math, health, home and construction, science, education and converters.",
+  description: "Browse every free Mathi calculator by category: date and time, finance, math, health, home and construction, science, education and converters.",
   path: "/tools/",
 });
 
