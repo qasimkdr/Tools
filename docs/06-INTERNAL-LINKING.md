@@ -6,11 +6,17 @@ Goal: every page reachable in ≤3 clicks, link equity flows from strong pages t
 1. **Global**: header (top categories with live tools), footer (all live categories + trust pages). Auto.
 2. **Hubs**: `/tools/` and `/category/<cat>/` list every live tool (ItemList schema). Auto.
 3. **Breadcrumbs**: Home → Category → Tool (→ Variant). Auto, with BreadcrumbList schema.
-4. **Related block** (`RelatedTools`, 6 cards): `relatedTools()` in `src/tools/registry.ts` ranks
-   hand-picked `meta.related` → reciprocal links → keyword-token overlap → same category. Only live tools. Auto.
+4. **Related block** (`RelatedTools`, always 6 cards, `data-testid="related-list"`): `relatedTools()` in
+   `src/tools/registry.ts` reads a link graph computed once at build time by `buildGraph()` (static HTML, no client JS):
+   hand-picked `meta.related` (never replaced) → closest matches by `relevance()` (keyword-token overlap + 2 same
+   category + 0.5 neighbouring category + 3 reciprocal hand-pick) → fill to 6 from neighbouring topics, then the
+   most-linked tools → every tool is guaranteed ≥3 inbound related links (under-linked tools replace the weakest
+   auto-picked card on their most relevant pages). Deterministic. Enforced by `tests/e2e/internal-links.spec.ts`
+   (6 per page, ≥3 inbound, checked on the built HTML). Auto.
 5. **Contextual body links (manual, most valuable)**: ≥3 per page inside Content.tsx, using descriptive anchors
    that match the target's primary keyword naturally ("use our [square footage calculator]" — not "click here").
-6. **Programmatic clusters**: variant pages link to their hub, to nearby variants (`nearby()`), and across units.
+6. **"Related:" anchor sentences**: older pages carry a closing sentence with 2–3 descriptive anchors (owner-approved edit, 2026-11-22).
+7. **Programmatic clusters**: variant pages link to their hub, to nearby variants (`nearby()`), and across units.
 
 ## Cluster map (fill `related` with these when the tools go live)
 - **Date & time**: days-from-today ↔ date-calculator ↔ date-difference-calculator ↔ weeks-calculator ↔ age-calculator ↔
@@ -30,5 +36,5 @@ Goal: every page reachable in ≤3 clicks, link equity flows from strong pages t
 
 ## Rules
 - Link only to live pages (registry guarantees this for automatic blocks; for manual links, check the slug is in `TOOLS`).
-- Never edit a live tool to add links (owner rule: live tools are frozen). The new tool lists its matches in `related`; `relatedTools()` gives reciprocal links a +3 score, so live pages' auto-generated related cards update on rebuild without editing their files.
+- Never edit a live tool to add links (owner rule: live tools are frozen). The new tool lists its matches in `related`; `relevance()` gives reciprocal hand-picks +3 and the ≥3-inbound guarantee places new tools on related live pages, so live pages' related cards update on rebuild without editing their files.
 - Anchor text varies naturally; no exact-match anchor repeated sitewide.
