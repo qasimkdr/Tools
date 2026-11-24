@@ -34,6 +34,7 @@ Rows with status `hold` are policy-sensitive: never build without the owner's OK
   Paid mode later: `npm run seo:research -- --slug <slug>` (DataForSEO).
 - `npm run test:e2e` → Playwright SEO + functional tests on the static build (desktop + mobile). Must pass before commit.
 - `npm run lint` (tsc). `npm run roadmap` regenerates roadmap from `data/source/*.xlsx`.
+- Hosting: Netlify (`netlify.toml`, publish `out`), auto-deploys `main`; daily rebuild via build hook in `.github/workflows/daily-build.yml`.
 - Visual check: `cd out && python3 -m http.server 4173` + Playwright screenshot (desktop 1366 + mobile 390, light + dark).
 
 ## Non-negotiables

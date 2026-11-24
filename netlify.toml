@@ -1,0 +1,34 @@
+# Netlify settings (these override the values typed in the Netlify UI).
+# The site is a fully static Next.js export: `next build` writes plain HTML/CSS/JS to /out.
+[build]
+  command = "npm run build"
+  publish = "out"
+
+[build.environment]
+  NODE_VERSION = "22"
+  NEXT_PUBLIC_SITE_URL = "https://mathico.xyz"
+  # AdSense IDs go here (or in Netlify → Site configuration → Environment variables) once approved:
+  # NEXT_PUBLIC_ADSENSE_CLIENT = "ca-pub-..."
+  # NEXT_PUBLIC_AD_SLOT_INARTICLE = "..."
+  # NEXT_PUBLIC_AD_SLOT_SIDEBAR = "..."
+
+# Hashed build assets never change: cache them for a year (faster repeat visits, better Core Web Vitals).
+[[headers]]
+  for = "/_next/static/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+# AFTER mathico.xyz is connected and working, uncomment this so the netlify.app copy of the site
+# redirects to the real domain (one URL per page for Google). Leave it commented until then,
+# or the site will be unreachable while the domain is still being set up.
+# [[redirects]]
+#   from = "https://mathico.netlify.app/*"
+#   to = "https://mathico.xyz/:splat"
+#   status = 301
+#   force = true
