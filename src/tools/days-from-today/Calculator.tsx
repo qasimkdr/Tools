@@ -63,8 +63,8 @@ export default function DaysFromTodayCalculator({ buildISO, initialAmount = 14, 
   };
   const ics = () => {
     const d = toISO(result).replace(/-/g, ""), d2 = toISO(addDays(result, 1)).replace(/-/g, "");
-    const body = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Mathi//Days From Today//EN", "BEGIN:VEVENT",
-      `UID:${d}-${Date.now()}@mathi.xyz`, `DTSTAMP:${toISO(new Date()).replace(/-/g, "")}T000000Z`,
+    const body = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Mathico//Days From Today//EN", "BEGIN:VEVENT",
+      `UID:${d}-${Date.now()}@mathico.xyz`, `DTSTAMP:${toISO(new Date()).replace(/-/g, "")}T000000Z`,
       `DTSTART;VALUE=DATE:${d}`, `DTEND;VALUE=DATE:${d2}`, `SUMMARY:${summary}`, "END:VEVENT", "END:VCALENDAR"].join("\r\n");
     const a = document.createElement("a");
     a.href = URL.createObjectURL(new Blob([body], { type: "text/calendar" }));

@@ -1,4 +1,4 @@
-# Mathi (formerly SolvePilot) — agent instructions (read this first, then only the doc you need)
+# Mathico (formerly SolvePilot) — agent instructions (read this first, then only the doc you need)
 
 Static Next.js 16 calculator site (`output: "export"`). Goal: rank on Google + AdSense approval. Quality > quantity.
 

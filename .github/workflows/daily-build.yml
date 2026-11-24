@@ -15,7 +15,7 @@ jobs:
       - run: npm ci
       - run: npm run build
         env:
-          NEXT_PUBLIC_SITE_URL: ${{ vars.SITE_URL || 'https://mathi.xyz' }}
+          NEXT_PUBLIC_SITE_URL: ${{ vars.SITE_URL || 'https://mathico.xyz' }}
           NEXT_PUBLIC_ADSENSE_CLIENT: ${{ vars.ADSENSE_CLIENT }}
           NEXT_PUBLIC_AD_SLOT_INARTICLE: ${{ vars.AD_SLOT_INARTICLE }}
           NEXT_PUBLIC_AD_SLOT_SIDEBAR: ${{ vars.AD_SLOT_SIDEBAR }}
@@ -27,4 +27,4 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy out --project-name=solvepilot
+          command: pages deploy out --project-name=mathico

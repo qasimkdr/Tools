@@ -18,7 +18,7 @@ for (const path of urls) {
 
     const title = await page.title();
     expect(title.length, `title: ${title}`).toBeGreaterThan(10);
-    expect(title.length, `title too long: ${title}`).toBeLessThanOrEqual(75); // ≤60 + " | Mathi"
+    expect(title.length, `title too long: ${title}`).toBeLessThanOrEqual(75); // ≤60 + " | Mathico"
     const desc = await page.locator('meta[name="description"]').getAttribute("content");
     expect(desc?.length ?? 0, `description: ${desc}`).toBeGreaterThanOrEqual(100);
     expect(desc?.length ?? 0, `description: ${desc}`).toBeLessThanOrEqual(170);

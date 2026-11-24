@@ -1,9 +1,9 @@
 export const SITE = {
-  name: "Mathi",
-  url: (process.env.NEXT_PUBLIC_SITE_URL || "https://mathi.xyz").replace(/\/$/, ""),
+  name: "Mathico",
+  url: (process.env.NEXT_PUBLIC_SITE_URL || "https://mathico.xyz").replace(/\/$/, ""),
   tagline: "Free, accurate calculators that show their work",
   description:
-    "Mathi offers free, fast and accurate online calculators for dates, money, math, health, construction and more, with clear formulas, worked examples and no sign-up.",
+    "Mathico offers free, fast and accurate online calculators for dates, money, math, health, construction and more, with clear formulas, worked examples and no sign-up.",
   locale: "en_US",
   twitter: "",
   adsenseClient: process.env.NEXT_PUBLIC_ADSENSE_CLIENT || "",
@@ -13,7 +13,7 @@ export const SITE = {
     name: "Mohammad Qasim",
     role: "Founder & Editor",
     url: "/about/mohammad-qasim/",
-    bio: "Mohammad Qasim is a software and web developer and the founder and editor of Mathi. Mohammad builds and maintains every calculator, checks formulas against official and primary sources, and tests each tool against hand-worked examples before it goes live.",
+    bio: "Mohammad Qasim is a software and web developer and the founder and editor of Mathico. Mohammad builds and maintains every calculator, checks formulas against official and primary sources, and tests each tool against hand-worked examples before it goes live.",
   },
 } as const;
 

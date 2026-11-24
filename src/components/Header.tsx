@@ -18,7 +18,7 @@ export default function Header() {
       <div className="container-x flex h-16 items-center justify-between gap-4">
         <Link href="/" className="flex items-center gap-2 font-bold tracking-tight" aria-label={`${SITE.name} home`}>
           <Logo />
-          <span className="text-lg">Math<span className="text-gradient">i</span></span>
+          <span className="text-lg">Math<span className="text-gradient">ico</span></span>
         </Link>
         <nav aria-label="Primary" className="hidden items-center gap-1 md:order-2 md:flex">
           {NAV.filter((c) => LIVE.includes(c)).map((c) => (

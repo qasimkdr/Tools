@@ -1,7 +1,7 @@
 import StaticPage from "@/components/StaticPage";
 import { pageMeta } from "@/lib/seo";
 
-export const metadata = pageMeta({ title: "Editorial Policy – How We Research & Test Tools", description: "How Mathi researches, builds, tests, reviews and corrects its calculators and guides, including our sourcing standards and our policy on advertising independence.", path: "/editorial-policy/" });
+export const metadata = pageMeta({ title: "Editorial Policy – How We Research & Test Tools", description: "How Mathico researches, builds, tests, reviews and corrects its calculators and guides, including our sourcing standards and our policy on advertising independence.", path: "/editorial-policy/" });
 
 export default function Page() {
   return (
@@ -17,11 +17,11 @@ export default function Page() {
       <h2>Corrections</h2>
       <p>If we find or are told about an error, we fix it promptly and update the page&apos;s last-updated date.</p>
       <h2>Advertising and independence</h2>
-      <p>Mathi is funded by advertising. Advertisers have no influence over our tools or content. Ads are clearly labelled and kept separate from calculator controls.</p>
+      <p>Mathico is funded by advertising. Advertisers have no influence over our tools or content. Ads are clearly labelled and kept separate from calculator controls.</p>
       <h2>Use of automation</h2>
       <p>We use software, including AI-assisted drafting and coding, to help research, write and build tools. Every figure is checked against its source, every calculator is tested against hand-worked examples and automated tests before release, and pages are published under the editor&apos;s responsibility. We only publish pages that add something useful beyond what already exists.</p>
       <h2>Who is responsible</h2>
-      <p>Mathi is edited by <a href="/about/mohammad-qasim/">Mohammad Qasim</a>, founder and editor.</p>
+      <p>Mathico is edited by <a href="/about/mohammad-qasim/">Mohammad Qasim</a>, founder and editor.</p>
     </StaticPage>
   );
 }
