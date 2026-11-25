@@ -5,6 +5,7 @@
 // Usage (after `npm run build`, so out/sitemap.xml exists):
 //   node scripts/indexnow.mjs --all                    submit every sitemap URL (one-time / manual)
 //   node scripts/indexnow.mjs --changed <base> <head>  submit pages whose files changed between two commits
+//   node scripts/indexnow.mjs --urls <u1,u2,…>         submit an explicit list (scheduled publishing)
 //   add --wait to first wait until each URL is live (HTTP 200) on the production site; --dry-run to print only.
 // Only URLs that are in the sitemap (indexable pages) are ever submitted.
 import fs from "node:fs";
@@ -16,12 +17,14 @@ const SITE = `https://${HOST}`;
 const argv = process.argv.slice(2);
 const has = (f) => argv.includes(f);
 
-const sitemap = fs.readFileSync("out/sitemap.xml", "utf8");
-const inSitemap = new Set([...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1]));
+const readSitemap = () => new Set([...fs.readFileSync("out/sitemap.xml", "utf8").matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1]));
 
 let urls = [];
-if (has("--all")) {
-  urls = [...inSitemap];
+if (has("--urls")) {
+  // Explicit list (used by the scheduled-publishing job, which has no build): --urls https://mathico.xyz/a/,https://…
+  urls = argv[argv.indexOf("--urls") + 1].split(",").filter((u) => u.startsWith(`${SITE}/`));
+} else if (has("--all")) {
+  urls = [...readSitemap()];
 } else if (has("--changed")) {
   const i = argv.indexOf("--changed");
   const [base, head] = [argv[i + 1], argv[i + 2]];
@@ -29,6 +32,7 @@ if (has("--all")) {
   let files = [];
   try { files = execSync(`git diff --name-only ${base} ${head}`, { encoding: "utf8" }).split("\n").filter(Boolean); }
   catch { console.log(`Could not diff ${base}..${head}; nothing submitted.`); process.exit(0); }
+  const inSitemap = readSitemap();
   const slugs = new Set();
   for (const f of files) {
     const m = f.match(/^src\/(?:tools|app)\/([a-z0-9-]+)\//);

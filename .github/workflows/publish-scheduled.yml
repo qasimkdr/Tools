@@ -1,0 +1,53 @@
+# Scheduled publishing: tools with `publishAt` in meta.ts stay hidden until that time (scripts/publish-scheduled.mjs).
+# Every hour during the day this job looks for tools whose time has passed but that are not live on mathico.xyz yet,
+# triggers a Netlify rebuild (NETLIFY_BUILD_HOOK secret), waits until the pages are live, then tells Bing (IndexNow).
+# Runs 08:17–22:17 Pakistan time (UTC+5). Tools are scheduled between 09:00 and 21:00, so each appears within an hour
+# of its slot. If a run is skipped, the next run (or the daily rebuild) publishes it.
+name: publish-scheduled
+on:
+  schedule: [{ cron: "17 3-17 * * *" }]
+  workflow_dispatch:
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - name: Find due tools that are not live yet
+        id: due
+        run: |
+          node -e '
+            const fs = require("fs"), path = require("path");
+            const now = Date.now(), weekAgo = now - 7 * 864e5, due = [];
+            for (const s of fs.readdirSync("src/tools")) {
+              const f = path.join("src/tools", s, "meta.ts");
+              if (!fs.existsSync(f)) continue;
+              const at = fs.readFileSync(f, "utf8").match(/publishAt:\s*"([^"]+)"/)?.[1];
+              if (at && Date.parse(at) <= now && Date.parse(at) >= weekAgo) due.push(s);
+            }
+            fs.writeFileSync("due.txt", due.join("\n"));
+            console.log("Due in the last 7 days:", due.join(", ") || "none");
+          '
+          missing=""
+          for s in $(cat due.txt); do
+            code=$(curl -s -o /dev/null -w "%{http_code}" "https://mathico.xyz/$s/")
+            echo "$s → HTTP $code"
+            [ "$code" = "200" ] || missing="$missing https://mathico.xyz/$s/"
+          done
+          echo "missing=$(echo $missing | tr ' ' ',')" >> "$GITHUB_OUTPUT"
+      - name: Rebuild on Netlify and wait until live
+        if: ${{ steps.due.outputs.missing != '' }}
+        env: { HOOK: "${{ secrets.NETLIFY_BUILD_HOOK }}" }
+        run: |
+          if [ -z "$HOOK" ]; then echo "NETLIFY_BUILD_HOOK secret not set"; exit 1; fi
+          curl -fsS -X POST -d '{}' "$HOOK"
+          for u in $(echo "${{ steps.due.outputs.missing }}" | tr ',' ' '); do
+            for i in $(seq 1 60); do
+              [ "$(curl -s -o /dev/null -w '%{http_code}' "$u")" = "200" ] && { echo "live: $u"; break; }
+              sleep 20
+            done
+          done
+      - name: Tell Bing (IndexNow)
+        if: ${{ steps.due.outputs.missing != '' }}
+        run: node scripts/indexnow.mjs --urls "${{ steps.due.outputs.missing }},https://mathico.xyz/tools/" --wait

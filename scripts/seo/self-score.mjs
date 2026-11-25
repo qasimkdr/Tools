@@ -9,7 +9,7 @@ import { args, readJSON, ROOT } from "./lib.mjs";
 
 const a = args(process.argv.slice(2));
 const reg = fs.readFileSync(path.join(ROOT, "src/tools/registry.ts"), "utf8");
-let slugs = [...reg.matchAll(/from "\.\/([^/]+)\/meta"/g)].map((m) => m[1]);
+let slugs = [...reg.matchAll(/from "\.\/([^/]+)\/meta"/g)].map((m) => m[1]).filter((s) => fs.existsSync(path.join(ROOT, `out/${s}/index.html`))); // published only
 if (a.slugs) slugs = String(a.slugs).split(",");
 const total = (s) => Object.values(s).reduce((t, v) => t + (v ?? 0), 0);
 const maxOf = (s) => (s.functionality == null ? 25 : 30); // JS-rendered pages: functionality n/a, scored /25 (same as competitors)

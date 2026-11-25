@@ -21,7 +21,14 @@ Rows with status `hold` are policy-sensitive: never build without the owner's OK
 
 ## Architecture (token-saving: reuse, don't rewrite)
 - `src/components/ToolLayout.tsx` = the page template for EVERY tool (hero, calculator card, article, FAQ, related, schema, ads).
-- A tool = `src/tools/<slug>/{meta.ts, Calculator.tsx, Content.tsx, faq.ts}` + `src/app/<slug>/page.tsx` (≈15 lines, copy `src/app/days-from-today/page.tsx`).
+- A tool = `src/tools/<slug>/{meta.ts, Calculator.tsx, Content.tsx, faq.ts}` + its page module.
+  **New tools are SCHEDULED (owner rule 2026-11-25):** put the page module at `src/tools/<slug>/page.tsx` (copy an existing
+  `src/app/<tool>/page.tsx`, ≈15 lines) and NEVER create `src/app/<slug>/`. After a batch passes all checks, run
+  `npm run schedule -- --slugs a,b,c,d,e` (2–3 tools/day, random times 09:00–21:00 PKT, writes `publishAt`/`published`/`updated`).
+  `scripts/publish-scheduled.mjs` (prebuild) gives a tool a route only once `publishAt` has passed; until then it has no page,
+  no sitemap entry and no links. The hourly `.github/workflows/publish-scheduled.yml` rebuilds Netlify when a slot passes and
+  pings IndexNow. A scheduled tool may only link to tools that are live or publish earlier (`scripts/check-schedule.mjs`).
+  Roadmap status for queued tools: `"scheduled"` (note the date); it counts as live once published.
 - Register in `src/tools/registry.ts` → sitemap, hubs, home, related links and the header search (`SiteSearch` + `src/lib/search.ts`, typo-tolerant, uses name/keywords/short) update automatically.
 - Shared math/date helpers in `src/lib/` (`date.ts`, add `money.ts`, `units.ts` … as needed). Pure functions only.
 - Server components by default; only the interactive calculator is `"use client"`.
@@ -33,6 +40,8 @@ Rows with status `hold` are policy-sensitive: never build without the owner's OK
   Details: `docs/07-SEO-RESEARCH-PIPELINE.md`.
   Paid mode later: `npm run seo:research -- --slug <slug>` (DataForSEO).
 - `npm run test:e2e` → Playwright SEO + functional tests on the static build (desktop + mobile). Must pass before commit.
+  With scheduled tools in the queue: `SHOW_SCHEDULED=1 npm run build && npm run test:e2e` (tests the whole queue), then
+  `npm run build && node scripts/check-links.mjs` (production view: no live page links to a hidden tool).
 - `npm run lint` (tsc). `npm run roadmap` regenerates roadmap from `data/source/*.xlsx`.
 - Hosting: Netlify (`netlify.toml`, publish `out`), auto-deploys `main`; daily rebuild via build hook in `.github/workflows/daily-build.yml`.
 - IndexNow (Bing): key file `public/271741e4e3c340c1a727f239846ca9c1.txt`, `scripts/indexnow.mjs`; pushes to main submit changed pages, Actions → daily-build → Run workflow with "indexnow_all" submits everything.

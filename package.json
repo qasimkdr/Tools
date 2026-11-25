@@ -4,9 +4,11 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "prebuild": "node scripts/publish-scheduled.mjs && node scripts/check-schedule.mjs",
     "build": "next build",
     "start": "npx serve out",
-    "lint": "tsc --noEmit",
+    "lint": "node scripts/publish-scheduled.mjs && rm -rf .next/types && tsc --noEmit",
+    "schedule": "node scripts/schedule.mjs",
     "roadmap": "python3 -I scripts/build-roadmap.py",
     "test:e2e": "playwright test",
     "seo:serp": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 node scripts/seo/serp.mjs",

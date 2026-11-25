@@ -22,10 +22,16 @@ jobs:
       - uses: actions/setup-node@v4
         with: { node-version: 22, cache: npm }
       - run: npm ci
+      # 1) Test everything, including scheduled tools that are not live yet.
       - run: npm run build
         env:
           NEXT_PUBLIC_SITE_URL: ${{ vars.SITE_URL || 'https://mathico.xyz' }}
+          SHOW_SCHEDULED: "1"
       - run: npx playwright install --with-deps chromium && npx playwright test
+      # 2) Production view (what Netlify serves now): no live page may link to a hidden tool.
+      - run: npm run build && node scripts/check-links.mjs
+        env:
+          NEXT_PUBLIC_SITE_URL: ${{ vars.SITE_URL || 'https://mathico.xyz' }}
       # IndexNow (Bing etc.; Google ignores it): after tests pass, tell Bing which pages changed in this push.
       - name: IndexNow (changed pages)
         if: ${{ github.event_name == 'push' }}

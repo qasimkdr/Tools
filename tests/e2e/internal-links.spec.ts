@@ -3,8 +3,9 @@ import fs from "node:fs";
 
 // Static link graph check on the built HTML (what Google sees without running JS).
 test("every tool shows 6 related tools and appears in ≥3 other tools' related blocks", () => {
-  const reg = fs.readFileSync("src/tools/registry.ts", "utf8");
-  const slugs = [...reg.matchAll(/from "\.\/([^/]+)\/meta"/g)].map((m) => m[1]);
+  // Published tools = tool folders whose page is in the built sitemap (scheduled tools join when they go live).
+  const sitemap = fs.readFileSync("out/sitemap.xml", "utf8");
+  const slugs = [...sitemap.matchAll(/<loc>https?:\/\/[^/]+\/([a-z0-9-]+)\/<\/loc>/g)].map((m) => m[1]).filter((s) => fs.existsSync(`src/tools/${s}/meta.ts`));
   const all = new Set(slugs), inbound = new Map(slugs.map((s) => [s, 0]));
   for (const s of slugs) {
     const html = fs.readFileSync(`out/${s}/index.html`, "utf8");
