@@ -3,7 +3,7 @@ import ToolLayout from "@/components/ToolLayout";
 import Calculator from "./Calculator";
 import LiveTable from "./LiveTable";
 import meta from "./meta";
-import { type VariantUnit, nearby, variantPath, VARIANTS, isIndexed } from "./variants";
+import { type VariantUnit, nearby, variantPath, VARIANTS } from "./variants";
 import { BUILD_ISO } from "@/lib/build";
 import {
   countBusinessDays, dayOfYear, diffDays, fmtLong, holidaysBetween, isoWeek, parseISO, shift, weekday,
@@ -21,7 +21,6 @@ export function variantMetadata(unit: VariantUnit, n: number) {
     title: `${Title(unit, n)} From Today – What Date Is It? (${target.toLocaleDateString("en-US", { month: "short", day: "numeric" })})`.slice(0, 70),
     description: `${L} from today is ${fmtLong(target)}. See the weekday, business days, US holidays in between and the date ${L} ago, plus a calendar.`,
     path: variantPath(unit, n),
-    noindex: !isIndexed(unit, n),
   });
 }
 

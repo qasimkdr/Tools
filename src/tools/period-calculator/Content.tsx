@@ -25,7 +25,7 @@ export default function Content() {
         <li>Estimated ovulation: around <strong>November 15</strong></li>
         <li>Estimated fertile window: about <strong>November 10–16</strong></li>
       </ul>
-      <p>With a 32-day cycle instead, the next period moves to around December 3 and ovulation to around November 19. To count days forward yourself, try <Link href="/days-from-today/28/">28 days from today</Link>.</p>
+      <p>With a 32-day cycle instead, the next period moves to around December 3 and ovulation to around November 19. To count days forward yourself, try the <Link href="/days-from-today/">days from today calculator</Link>.</p>
 
       <h2 id="normal">What&apos;s a typical cycle?</h2>
       <ul>

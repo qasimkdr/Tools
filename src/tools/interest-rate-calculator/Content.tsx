@@ -52,7 +52,7 @@ export default function Content() {
       <ul>
         <li>Compare loans by APR and savings by APY. Comparing an APR with a plain interest rate is misleading.</li>
         <li>Ask lenders for the total amount repaid. If it&apos;s much higher than payments × term suggests, there are fees or add-ons to question.</li>
-        <li>For a savings goal, work out when it ends with <Link href="/months-from-today/12/">12 months from today</Link> or any other length, and browse more <Link href="/category/finance/">finance calculators</Link>.</li>
+        <li>For a savings goal, work out when it ends with the <Link href="/days-from-today/">days from today calculator</Link> (set the unit to months), and browse more <Link href="/category/finance/">finance calculators</Link>.</li>
       </ul>
       <p className="text-sm">Results are estimates for fixed-rate loans and steady growth. Variable rates, irregular deposits and fees not reflected in the amount will change the true rate. Confirm figures with your lender or bank.</p>
       <p>Related: see how money grows with <Link href="/interest-calculator/">simple and compound interest</Link>, find a loan&apos;s true cost with the <Link href="/apr-calculator/">APR calculator (fees included)</Link>, or estimate a <Link href="/mortgage-calculator/">monthly mortgage payment</Link>.</p>

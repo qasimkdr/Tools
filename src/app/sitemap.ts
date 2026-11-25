@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { abs, CATEGORIES, type CategoryId } from "@/lib/site";
 import { TOOLS, toolsInCategory } from "@/tools/registry";
-import { VARIANTS, variantPath, isIndexed, type VariantUnit } from "@/tools/days-from-today/variants";
+import { VARIANTS, variantPath, type VariantUnit } from "@/tools/days-from-today/variants";
 
 export const dynamic = "force-static";
 
@@ -16,7 +16,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: abs("/tools/"), lastModified: latest },
     ...(Object.keys(CATEGORIES) as CategoryId[]).filter((c) => toolsInCategory(c).length).map((c) => ({ url: abs(`/category/${c}/`), lastModified: latest })),
     ...TOOLS.map((t) => ({ url: abs(`/${t.slug}/`), lastModified: t.updated })),
-    ...(Object.keys(VARIANTS) as VariantUnit[]).flatMap((u) => VARIANTS[u].filter((n) => isIndexed(u, n)).map((n) => ({ url: abs(variantPath(u, n)), lastModified: latest }))),
+    ...(Object.keys(VARIANTS) as VariantUnit[]).flatMap((u) => VARIANTS[u].map((n) => ({ url: abs(variantPath(u, n)), lastModified: latest }))),
     ...["/about/", "/about/mohammad-qasim/", "/contact/", "/editorial-policy/", "/privacy-policy/", "/terms/", "/disclaimer/"].map((p) => ({ url: abs(p), lastModified: "2026-11-21" })),
   ];
   return urls;

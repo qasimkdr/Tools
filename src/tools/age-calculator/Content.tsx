@@ -35,7 +35,7 @@ export default function Content() {
       <h2 id="uses">Common reasons to calculate age</h2>
       <ul>
         <li><strong>Forms and eligibility:</strong> school entry, sports age groups, insurance, retirement and benefit ages.</li>
-        <li><strong>Milestones:</strong> 10,000 days, 1,000 weeks or a half birthday. Count forward with <Link href="/weeks-from-today/52/">52 weeks from today</Link> or <Link href="/days-from-today/365/">365 days from today</Link>.</li>
+        <li><strong>Milestones:</strong> 10,000 days, 1,000 weeks or a half birthday. Count forward with <Link href="/days-from-today/365/">365 days from today</Link> or any span in the <Link href="/days-from-today/">days from today calculator</Link>.</li>
         <li><strong>Family history:</strong> working out how old a relative was on a historic date.</li>
         <li><strong>Health:</strong> chronological age is the starting point for growth charts and age-based screening schedules.</li>
       </ul>

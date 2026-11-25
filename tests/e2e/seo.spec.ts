@@ -53,12 +53,14 @@ for (const path of urls) {
   });
 }
 
-test("date variants without demand data are noindex and not in the sitemap", async ({ page }) => {
-  for (const path of ["/days-from-today/7/", "/weeks-from-today/52/", "/months-from-today/12/"]) {
+test("removed date variants are gone: no page, not in the sitemap, not linked", async () => {
+  const removed = ["/days-from-today/7/", "/days-from-today/28/", "/weeks-from-today/52/", "/weeks-from-today/12/", "/months-from-today/12/"];
+  for (const path of removed) {
     expect(all).not.toContain(path);
-    await page.goto(path);
-    await expect(page.locator('meta[name="robots"]')).toHaveAttribute("content", /noindex/);
+    expect(fs.existsSync(`out${path}index.html`), path).toBe(false);
   }
+  const html = ["age-calculator", "bench-press-max-calculator", "period-calculator", "interest-rate-calculator", "days-from-today/14"].map((p) => fs.readFileSync(`out/${p}/index.html`, "utf8")).join("");
+  for (const path of removed) expect(html.includes(`href="${path}"`), `link to ${path}`).toBe(false);
   for (const path of ["/days-from-today/90/", "/weeks-from-today/10/", "/months-from-today/6/"]) expect(all).toContain(path);
 });
 
