@@ -4,7 +4,7 @@ const meta: ToolMeta = {
   slug: "basis-point-calculator",
   name: "Basis Point Calculator",
   title: "Basis Point Calculator (BPS): Convert, Rate Change, Cost",
-  description: "Convert basis points to percent and decimal, find the bps change between two rates, the dollar value of basis points, and what a rate change does to a loan payment.",
+  description: "Convert basis points to percent and decimal, find the bps change between two rates, the dollar value of basis points and how a rate move changes a loan payment.",
   short: "Basis points to percent and back, rate changes, dollar value and loan impact.",
   category: "finance",
   primaryKw: "basis point calculator",

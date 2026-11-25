@@ -20,8 +20,13 @@ for (const path of urls) {
     expect(title.length, `title: ${title}`).toBeGreaterThan(10);
     expect(title.length, `title too long: ${title}`).toBeLessThanOrEqual(75); // ≤60 + " | Mathico"
     const desc = await page.locator('meta[name="description"]').getAttribute("content");
-    expect(desc?.length ?? 0, `description: ${desc}`).toBeGreaterThanOrEqual(100);
-    expect(desc?.length ?? 0, `description: ${desc}`).toBeLessThanOrEqual(170);
+    expect(desc?.length ?? 0, `description: ${desc}`).toBeGreaterThanOrEqual(140);
+    expect(desc?.length ?? 0, `description: ${desc}`).toBeLessThanOrEqual(160);
+    expect(await page.locator('meta[property="og:image"]').getAttribute("content")).toMatch(/\/og\.png$/);
+    await expect(page.locator('meta[name="robots"][content*="noindex"]')).toHaveCount(0);
+    // Heading levels never skip (h1 → h3 without an h2).
+    const levels = await page.locator("h1, h2, h3, h4, h5, h6").evaluateAll((hs) => hs.map((h) => Number(h.tagName[1])));
+    for (let i = 1; i < levels.length; i++) expect(levels[i] - levels[i - 1], `heading skip on ${path}: ${levels.join(",")}`).toBeLessThanOrEqual(1);
     await expect(page.locator("h1")).toHaveCount(1);
     const canonical = await page.locator('link[rel="canonical"]').getAttribute("href");
     expect(new URL(canonical!).pathname).toBe(path);
@@ -47,6 +52,15 @@ for (const path of urls) {
     }
   });
 }
+
+test("date variants without demand data are noindex and not in the sitemap", async ({ page }) => {
+  for (const path of ["/days-from-today/7/", "/weeks-from-today/52/", "/months-from-today/12/"]) {
+    expect(all).not.toContain(path);
+    await page.goto(path);
+    await expect(page.locator('meta[name="robots"]')).toHaveAttribute("content", /noindex/);
+  }
+  for (const path of ["/days-from-today/90/", "/weeks-from-today/10/", "/months-from-today/6/"]) expect(all).toContain(path);
+});
 
 test("all internal links resolve (no 404s)", async ({ page, request }) => {
   const seen = new Set<string>();

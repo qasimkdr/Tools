@@ -58,7 +58,7 @@ export default function Retirement401k() {
       {p && p.years.length > 0 && (
         <div className="card p-5">
           <div className="flex flex-wrap items-center justify-between gap-2">
-            <h3 className="font-semibold">Balance by year</h3>
+            <h2 className="font-semibold">Balance by year</h2>
             <button type="button" className="btn-ghost !py-1.5" onClick={() => downloadCsv("401k-projection.csv", ["Age", "Salary", "Your contribution", "Employer", "End balance"], p.years.map((y) => [y.age, y.salary.toFixed(0), y.employee.toFixed(0), y.employer.toFixed(0), y.balance.toFixed(0)]))}>Download CSV</button>
           </div>
           <div className="mt-4 flex h-40 items-end gap-[2px]" aria-label="Balance growth chart">

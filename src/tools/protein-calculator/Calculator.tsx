@@ -53,7 +53,7 @@ export default function ProteinCalculator() {
             {kcal > 0 && <Stat k="Share of calories" v={<span data-testid="pct">{Math.round(pctLo) === Math.round(pctHi) ? `${Math.round(pctLo)}%` : `${Math.round(pctLo)}–${Math.round(pctHi)}%`}</span>} />}
             {kcal > 0 && <Stat k="Healthy adult range" v="10–35% of calories" />}
           </dl>
-          <h3 className="mt-5 text-sm font-semibold">Your weight, every target</h3>
+          <h2 className="mt-5 text-sm font-semibold">Your weight, every target</h2>
           <table className="mt-2 w-full text-sm" data-testid="all-targets">
             <tbody>
               {PROTEIN_TARGETS.map((x) => (

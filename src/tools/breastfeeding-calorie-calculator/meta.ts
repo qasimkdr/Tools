@@ -4,7 +4,7 @@ const meta: ToolMeta = {
   slug: "breastfeeding-calorie-calculator",
   name: "Breastfeeding Calorie Calculator",
   title: "Breastfeeding Calorie Calculator: Daily Needs",
-  description: "Estimate how many calories you need while breastfeeding: your usual needs plus the extra for milk (0–6 or 7–12 months), and a safe target if you want to lose weight.",
+  description: "Estimate the calories you need while breastfeeding: your usual needs plus extra for milk at 0–6 or 7–12 months, and a safe target if you want to lose weight.",
   short: "Daily calories while breastfeeding, including a gentle weight-loss target.",
   category: "health",
   primaryKw: "breastfeeding calorie calculator",

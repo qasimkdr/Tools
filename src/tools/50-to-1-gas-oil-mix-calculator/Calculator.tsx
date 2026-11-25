@@ -53,14 +53,14 @@ export default function GasOilMixCalculator() {
       </div>
       <div className="grid gap-6 md:grid-cols-2">
         <div>
-          <h3 className="text-base font-semibold">Oil per US gallons of gas (fl oz)</h3>
+          <h2 className="text-base font-semibold">Oil per US gallons of gas (fl oz)</h2>
           <table className="mt-3 w-full text-sm" data-testid="chart-gal">
             <thead><tr className="text-left subtle"><th className="py-1">Gas</th>{[25, 32, 40, 50].map((r) => <th key={r}>{r}:1</th>)}</tr></thead>
             <tbody>{[1, 2, 2.5, 5].map((g) => <tr key={g} className="border-t border-[var(--border)]"><td className="py-1">{g} gal</td>{[25, 32, 40, 50].map((r) => <td key={r}>{f((g * 128) / r, 1)}</td>)}</tr>)}</tbody>
           </table>
         </div>
         <div>
-          <h3 className="text-base font-semibold">Oil per liters of gas (mL)</h3>
+          <h2 className="text-base font-semibold">Oil per liters of gas (mL)</h2>
           <table className="mt-3 w-full text-sm">
             <thead><tr className="text-left subtle"><th className="py-1">Gas</th>{[25, 32, 40, 50].map((r) => <th key={r}>{r}:1</th>)}</tr></thead>
             <tbody>{[1, 4, 5, 10].map((l) => <tr key={l} className="border-t border-[var(--border)]"><td className="py-1">{l} L</td>{[25, 32, 40, 50].map((r) => <td key={r}>{f((l * 1000) / r, 0)}</td>)}</tr>)}</tbody>

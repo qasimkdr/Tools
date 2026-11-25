@@ -42,7 +42,7 @@ export default function RetirementSavingsLastCalculator() {
       {r && (
         <div>
           <div className="flex flex-wrap items-center justify-between gap-3">
-            <h3 className="text-base font-semibold">Year-by-year balance</h3>
+            <h2 className="text-base font-semibold">Year-by-year balance</h2>
             <button type="button" className="btn-ghost text-sm" onClick={() => downloadCsv("retirement-drawdown.csv", ["Year", "Start", "Growth", "Withdrawn", "End"], r.years.map((y) => [y.year, y.start.toFixed(2), y.growth.toFixed(2), y.withdrawn.toFixed(2), y.end.toFixed(2)]))}>Download CSV</button>
           </div>
           <div className="mt-3 overflow-x-auto">

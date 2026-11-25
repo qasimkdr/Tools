@@ -55,7 +55,7 @@ export default function PayRaiseCalculator() {
       {!err && rate > 0 && (
         <div>
           <div className="flex flex-wrap items-end gap-3">
-            <h3 className="text-base font-semibold">If you got the same {(rate * 100).toFixed(2)}% raise every year</h3>
+            <h2 className="text-base font-semibold">If you got the same {(rate * 100).toFixed(2)}% raise every year</h2>
             <div className="w-28"><Field id="yrs" label="Years" value={s.yrs} onChange={(v) => set("yrs", v)} min={1} inputMode="numeric" /></div>
           </div>
           <table className="mt-3 w-full max-w-lg text-sm">

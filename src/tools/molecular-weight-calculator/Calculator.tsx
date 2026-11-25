@@ -26,7 +26,7 @@ export default function MolecularWeightCalculator() {
         </div>
         {counts && (
           <div className="card space-y-3 p-4">
-            <h3 className="font-semibold">Grams ↔ moles</h3>
+            <h2 className="font-semibold">Grams ↔ moles</h2>
             <div className="grid grid-cols-2 gap-3">
               <Field id="g" label="Mass" suffix="g" value={s.g} onChange={(v) => set("g", v)} min={0} />
               <Field id="mol" label="Amount" suffix="mol" value={s.mol} onChange={(v) => set("mol", v)} min={0} />

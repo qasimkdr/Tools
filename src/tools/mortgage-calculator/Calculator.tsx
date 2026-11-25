@@ -65,7 +65,7 @@ export default function MortgageCalculator() {
       {byYear.length > 0 && (
         <div className="card p-5">
           <div className="flex flex-wrap items-center justify-between gap-2">
-            <h3 className="font-semibold">Amortization by year</h3>
+            <h2 className="font-semibold">Amortization by year</h2>
             <button type="button" className="btn-ghost !py-1.5" onClick={() => downloadCsv("mortgage-schedule.csv", ["Month", "Payment (P&I)", "Interest", "Principal", "Balance"], rows.map((x) => [x.period, x.payment.toFixed(2), x.interest.toFixed(2), x.principal.toFixed(2), x.balance.toFixed(2)]))}>Download CSV</button>
           </div>
           <div className="mt-3 overflow-x-auto">

@@ -52,7 +52,7 @@ export default function SellerFinancingCalculator() {
       {!err && (
         <div>
           <div className="flex flex-wrap items-center justify-between gap-3">
-            <h3 className="text-base font-semibold">Amortization schedule (end of each year)</h3>
+            <h2 className="text-base font-semibold">Amortization schedule (end of each year)</h2>
             <button type="button" className="btn-ghost text-sm" onClick={() => downloadCsv("seller-financing.csv", ["Month", "Interest", "Principal", "Balance"], rows.map((x) => [x.m, x.interest.toFixed(2), x.principal.toFixed(2), x.balance.toFixed(2)]))}>Download CSV</button>
           </div>
           <div className="mt-3 overflow-x-auto">

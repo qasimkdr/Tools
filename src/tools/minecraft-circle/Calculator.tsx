@@ -77,7 +77,7 @@ export default function MinecraftCircle() {
       {!err && (
         <div>
           <div className="flex flex-wrap items-center justify-between gap-3">
-            <h3 className="text-base font-semibold">Block chart</h3>
+            <h2 className="text-base font-semibold">Block chart</h2>
             <button type="button" className="btn-ghost text-sm" onClick={download}>Download PNG</button>
           </div>
           <div className="mt-3 overflow-x-auto rounded-xl border border-[var(--border)] bg-white p-3" data-testid="chart">

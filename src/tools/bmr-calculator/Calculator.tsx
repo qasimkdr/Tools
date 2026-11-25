@@ -61,7 +61,7 @@ export default function BmrCalculator() {
             ))}
           </figure>
           {hasBf && <p className="mt-1 text-xs subtle">Lean body mass: {lbm.toFixed(1)} kg ({(lbm / 0.45359237).toFixed(0)} lb).</p>}
-          <h3 className="mt-5 text-sm font-semibold">Daily calories by activity (BMR × activity level)</h3>
+          <h2 className="mt-5 text-sm font-semibold">Daily calories by activity (BMR × activity level)</h2>
           <table className="mt-2 w-full text-sm" data-testid="tdee">
             <tbody>
               {PAL_LEVELS.map((p) => (

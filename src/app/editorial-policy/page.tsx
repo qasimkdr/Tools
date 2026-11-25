@@ -1,7 +1,7 @@
 import StaticPage from "@/components/StaticPage";
 import { pageMeta } from "@/lib/seo";
 
-export const metadata = pageMeta({ title: "Editorial Policy – How We Research & Test Tools", description: "How Mathico researches, builds, tests, reviews and corrects its calculators and guides, including our sourcing standards and our policy on advertising independence.", path: "/editorial-policy/" });
+export const metadata = pageMeta({ title: "Editorial Policy – How We Research & Test Tools", description: "How Mathico researches, builds, tests, reviews and corrects its calculators, including our sourcing standards and our policy on independence from advertisers.", path: "/editorial-policy/" });
 
 export default function Page() {
   return (

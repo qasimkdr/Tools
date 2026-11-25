@@ -61,7 +61,7 @@ export default function IncomeTaxCalculator() {
             <Stat k="Per month" v={usd(after / 12)} />
             {Number.isFinite(withheld) && s.withheld.trim() !== "" && <Stat k={withheld >= after ? "Estimated refund" : "Estimated amount owed"} v={<span data-testid="refund">{usd(Math.abs(withheld - after))}</span>} />}
           </dl>
-          <h3 className="mt-5 text-sm font-semibold">How your taxable income is worked out</h3>
+          <h2 className="mt-5 text-sm font-semibold">How your taxable income is worked out</h2>
           <table className="mt-2 w-full text-sm" data-testid="steps">
             <tbody>
               <tr className="border-t border-[var(--border)]"><td className="py-1">Total income</td><td className="text-right">{usd(gross)}</td></tr>
@@ -71,7 +71,7 @@ export default function IncomeTaxCalculator() {
               <tr className="border-t border-[var(--border)] font-semibold"><td className="py-1">= Taxable income</td><td className="text-right">{usd(taxable)}</td></tr>
             </tbody>
           </table>
-          <h3 className="mt-5 text-sm font-semibold">Tax by bracket ({STATUS_LABEL[st].toLowerCase()})</h3>
+          <h2 className="mt-5 text-sm font-semibold">Tax by bracket ({STATUS_LABEL[st].toLowerCase()})</h2>
           <div className="overflow-x-auto">
             <table className="mt-2 w-full text-sm" data-testid="brackets">
               <thead><tr className="text-left subtle"><th className="py-1">Rate</th><th>Income in bracket</th><th className="text-right">Tax</th></tr></thead>

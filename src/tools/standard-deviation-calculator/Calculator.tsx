@@ -49,7 +49,7 @@ export default function StandardDeviationCalculator() {
       </div>
       {r && !err && (
         <div>
-          <h3 className="text-base font-semibold">Step by step</h3>
+          <h2 className="text-base font-semibold">Step by step</h2>
           <ol className="mt-2 space-y-1 text-sm" data-testid="steps">
             <li>1. Mean: x̄ = {fmt(r.sum)} ÷ {r.n} = <strong>{fmt(r.mean)}</strong></li>
             <li>2. Subtract the mean from each value and square the result (table below).</li>

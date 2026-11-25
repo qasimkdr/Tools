@@ -56,14 +56,14 @@ export default function GpaCalculator() {
       </div>
       <div className="grid gap-4 sm:grid-cols-2">
         <div className="card space-y-3 p-5">
-          <h3 className="font-semibold">Cumulative GPA (optional)</h3>
+          <h2 className="font-semibold">Cumulative GPA (optional)</h2>
           <div className="grid grid-cols-2 gap-3">
             <Field id="pg" label="Current GPA" value={prevGpa} onChange={setPrevGpa} min={0} />
             <Field id="pc" label="Credits so far" value={prevCr} onChange={setPrevCr} min={0} />
           </div>
         </div>
         <div className="card space-y-3 p-5">
-          <h3 className="font-semibold">Target GPA planner</h3>
+          <h2 className="font-semibold">Target GPA planner</h2>
           <div className="grid grid-cols-2 gap-3">
             <Field id="tg" label="Target GPA" value={target} onChange={setTarget} min={0} />
             <Field id="nc" label="Upcoming credits" value={nextCr} onChange={setNextCr} min={0} />

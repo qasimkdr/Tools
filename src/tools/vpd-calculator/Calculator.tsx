@@ -49,7 +49,7 @@ export default function VpdCalculator() {
         </ResultCard>
       </div>
       <div>
-        <h3 className="text-base font-semibold">VPD chart (leaf offset {s.off}{F ? " °F" : " °C"})</h3>
+        <h2 className="text-base font-semibold">VPD chart (leaf offset {s.off}{F ? " °F" : " °C"})</h2>
         <div className="mt-3 overflow-x-auto">
           <table className="text-center text-xs tabular-nums" data-testid="chart">
             <thead><tr><th className="p-1.5 text-left subtle">Temp \ RH</th>{rhs.map((r) => <th key={r} className="p-1.5 subtle">{r}%</th>)}</tr></thead>

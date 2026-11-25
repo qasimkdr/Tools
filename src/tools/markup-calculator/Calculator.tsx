@@ -54,7 +54,7 @@ export default function MarkupCalculator() {
         </ResultCard>
       </div>
       <div>
-        <h3 className="text-base font-semibold">Markup ↔ margin conversion</h3>
+        <h2 className="text-base font-semibold">Markup ↔ margin conversion</h2>
         <div className="mt-3 overflow-x-auto">
           <table className="w-full max-w-xl text-sm" data-testid="table">
             <thead><tr className="text-left subtle"><th className="py-1">Markup</th><th>Margin</th><th>Price on {usd(cost > 0 ? cost : 40)} cost</th></tr></thead>

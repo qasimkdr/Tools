@@ -59,7 +59,7 @@ export default function InterestCalculator() {
       {!err && (
         <div>
           <div className="flex flex-wrap items-center justify-between gap-3">
-            <h3 className="text-base font-semibold">Year-by-year growth</h3>
+            <h2 className="text-base font-semibold">Year-by-year growth</h2>
             <button type="button" className="btn-ghost text-sm" onClick={() => downloadCsv("interest.csv", ["Year", "Deposits", "Interest", "Balance"], rows.map(([y, d, i, b]) => [y, d.toFixed(2), i.toFixed(2), b.toFixed(2)]))}>Download CSV</button>
           </div>
           <div className="mt-3 overflow-x-auto">

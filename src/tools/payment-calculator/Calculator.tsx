@@ -95,7 +95,7 @@ export default function PaymentCalculator() {
         {byYear.length > 0 && (
           <div className="rounded-2xl bg-[var(--surface)] p-5 ring-1 ring-[var(--border)]">
             <div className="flex flex-wrap items-center justify-between gap-2">
-              <h3 className="font-semibold">Amortization schedule (by year)</h3>
+              <h2 className="font-semibold">Amortization schedule (by year)</h2>
               <div className="flex gap-2">
                 <button type="button" className="btn-ghost !py-1.5" onClick={() => "rows" in calc && calc.rows && downloadCsv("loan-schedule.csv", ["Payment #", "Payment", "Interest", "Principal", "Balance"], calc.rows.map((x) => [x.period, x.payment.toFixed(2), x.interest.toFixed(2), x.principal.toFixed(2), x.balance.toFixed(2)]))}>Download CSV</button>
                 <button type="button" className="btn-ghost !py-1.5" onClick={() => window.print()}>Print</button>

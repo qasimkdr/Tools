@@ -15,8 +15,8 @@ export function pageMeta(opts: {
     description: opts.description,
     alternates: { canonical: url },
     robots: opts.noindex ? { index: false, follow: true } : { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1 },
-    openGraph: { title: opts.title, description: opts.description, url, siteName: SITE.name, type: opts.ogType ?? "website", locale: SITE.locale },
-    twitter: { card: "summary_large_image", title: opts.title, description: opts.description },
+    openGraph: { title: opts.title, description: opts.description, url, siteName: SITE.name, type: opts.ogType ?? "website", locale: SITE.locale, images: [{ url: abs("/og.png"), width: 1200, height: 630, alt: `${SITE.name}: calculators that show their work` }] },
+    twitter: { card: "summary_large_image", title: opts.title, description: opts.description, images: [abs("/og.png")] },
   };
 }
 
