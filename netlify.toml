@@ -96,11 +96,10 @@
   to = "/days-from-today/"
   status = 301
 
-# AFTER mathico.xyz is connected and working, uncomment this so the netlify.app copy of the site
-# redirects to the real domain (one URL per page for Google). Leave it commented until then,
-# or the site will be unreachable while the domain is still being set up.
-# [[redirects]]
-#   from = "https://mathico.netlify.app/*"
-#   to = "https://mathico.xyz/:splat"
-#   status = 301
-#   force = true
+# The netlify.app copy of the site redirects to the real domain (one URL per page for Google).
+# Enabled 2026-11-25 once mathico.xyz was live with HTTPS.
+[[redirects]]
+  from = "https://mathico.netlify.app/*"
+  to = "https://mathico.xyz/:splat"
+  status = 301
+  force = true
