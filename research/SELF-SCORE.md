@@ -1,36 +1,36 @@
 # Self-score vs competitors
 
-Generated 2026-11-23 with the same rule-based rubric as research reports (report.mjs score()).
+Generated 2026-11-25 with the same rule-based rubric as research reports (report.mjs score()).
 Rule-based on-page signals only — not rankings.
 
 | Tool | Ours | C | F | UX | T | L | S | Best competitor | Their score | Result |
 |---|---|---|---|---|---|---|---|---|---|---|
 | days-from-today | **25/30** | 5 | 2 | 5 | 5 | 3 | 5 | www.inchcalculator.com | 17/25 | ahead |
 | payment-calculator | **28/30** | 5 | 3 | 5 | 5 | 5 | 5 | www.inchcalculator.com | 24/30 | ahead |
-| proportion-calculator | **28/30** | 5 | 3 | 5 | 5 | 5 | 5 | www.calculator.io | 18/25 | ahead |
 | interest-rate-calculator | **28/30** | 5 | 3 | 5 | 5 | 5 | 5 | www.inchcalculator.com | 23/30 | ahead |
-| ratio-calculator | **24/25** | 5 | null | 5 | 5 | 4 | 5 | www.inchcalculator.com | 25/30 | ahead |
-| age-calculator | **25/30** | 5 | 2 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 23/30 | ahead |
 | discount-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 23/30 | ahead |
+| ratio-calculator | **24/25** | 5 | null | 5 | 5 | 4 | 5 | www.inchcalculator.com | 25/30 | ahead |
+| proportion-calculator | **28/30** | 5 | 3 | 5 | 5 | 5 | 5 | www.calculator.io | 18/25 | ahead |
 | hypotenuse-calculator | **26/30** | 5 | 2 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
-| period-calculator | **26/30** | 5 | 2 | 5 | 5 | 4 | 5 | www.calculatorsoup.com | 22/30 | ahead |
 | random-number-generator | **24/30** | 3 | 2 | 5 | 4 | 5 | 5 | www.calculator.io | 20/30 | ahead |
+| right-triangle-calculator | **26/30** | 5 | 2 | 5 | 5 | 4 | 5 | www.calculatorsoup.com | 22/30 | ahead |
+| age-calculator | **25/30** | 5 | 2 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 23/30 | ahead |
+| hours-calculator | **27/30** | 5 | 3 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 23/30 | ahead |
+| period-calculator | **26/30** | 5 | 2 | 5 | 5 | 4 | 5 | www.calculatorsoup.com | 22/30 | ahead |
+| army-body-fat-calculator | **25/30** | 5 | 2 | 5 | 5 | 3 | 5 | www.inchcalculator.com | 23/30 | ahead |
+| bench-press-max-calculator | **27/30** | 5 | 2 | 5 | 5 | 5 | 5 | www.inchcalculator.com | 23/30 | ahead |
 | cubic-yard-calculator | **30/30** | 5 | 5 | 5 | 5 | 5 | 5 | www.inchcalculator.com | 26/30 | ahead |
 | gravel-and-stone-calculator | **29/30** | 5 | 5 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 25/30 | ahead |
-| army-body-fat-calculator | **25/30** | 5 | 2 | 5 | 5 | 3 | 5 | www.inchcalculator.com | 23/30 | ahead |
-| 401k-calculator | **26/30** | 5 | 4 | 5 | 4 | 3 | 5 | www.calculator.io | 18/25 | ahead |
 | sand-calculator | **29/30** | 5 | 5 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 26/30 | ahead |
-| right-triangle-calculator | **26/30** | 5 | 2 | 5 | 5 | 4 | 5 | www.calculatorsoup.com | 22/30 | ahead |
-| ap-world-history-score-calculator | **24/30** | 4 | 2 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
-| gpa-calculator | **27/30** | 5 | 3 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 23/30 | ahead |
 | square-footage-calculator | **29/30** | 5 | 5 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 25/30 | ahead |
-| hours-calculator | **27/30** | 5 | 3 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 23/30 | ahead |
-| bench-press-max-calculator | **27/30** | 5 | 2 | 5 | 5 | 5 | 5 | www.inchcalculator.com | 23/30 | ahead |
-| molecular-weight-calculator | **26/30** | 5 | 2 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
-| bowling-score-calculator | **26/30** | 5 | 3 | 5 | 5 | 3 | 5 | www.omnicalculator.com | 18/25 | ahead |
-| square-root-calculator | **23/25** | 4 | null | 5 | 5 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
-| fraction-calculator | **27/30** | 5 | 3 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 21/30 | ahead |
+| 401k-calculator | **26/30** | 5 | 4 | 5 | 4 | 3 | 5 | www.calculator.io | 18/25 | ahead |
 | mortgage-calculator | **27/30** | 5 | 4 | 5 | 4 | 4 | 5 | www.calculator.io | 23/30 | ahead |
+| gpa-calculator | **27/30** | 5 | 3 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 23/30 | ahead |
+| ap-world-history-score-calculator | **24/30** | 4 | 2 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
+| bowling-score-calculator | **26/30** | 5 | 3 | 5 | 5 | 3 | 5 | www.omnicalculator.com | 18/25 | ahead |
+| fraction-calculator | **27/30** | 5 | 3 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 21/30 | ahead |
+| square-root-calculator | **23/25** | 4 | null | 5 | 5 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
+| molecular-weight-calculator | **26/30** | 5 | 2 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
 | cylinder-volume-calculator | **28/30** | 5 | 4 | 5 | 5 | 4 | 5 | www.calculator.io | 22/30 | ahead |
 | overtime-calculator | **27/30** | 5 | 3 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 25/30 | ahead |
 | paycheck-calculator | **27/30** | 5 | 4 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
@@ -137,3 +137,6 @@ Rule-based on-page signals only — not rankings.
 | army-fitness-test-aft-calculator | **27/30** | 5 | 3 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
 | cement-block-calculator | **27/30** | 5 | 4 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 24/30 | ahead |
 | basis-point-calculator | **23/25** | 5 | null | 5 | 4 | 4 | 5 | www.inchcalculator.com | 24/30 | ahead |
+| anniversary-calculator | **24/30** | 5 | 2 | 5 | 3 | 4 | 5 | www.omnicalculator.com | 17/25 | ahead |
+| rounding-calculator | **24/30** | 4 | 2 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
+| voo-calculator | **26/30** | 5 | 4 | 5 | 3 | 4 | 5 | www.omnicalculator.com | 21/30 | ahead |

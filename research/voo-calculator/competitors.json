@@ -1,0 +1,997 @@
+{
+ "pages": {
+  "https://www.calculator.net/investment-calculator.html": {
+   "url": "https://www.calculator.net/investment-calculator.html",
+   "finalUrl": "https://www.calculator.net/investment-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-25T19:38:16.774Z",
+   "title": "Investment Calculator",
+   "metaDescription": "Free investment calculator to evaluate various investment situations considering starting and ending balance, contributions, return rate, and investment length.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Investment Calculator"
+   ],
+   "h2": [
+    "Results",
+    "Accumulation Schedule",
+    "Variables involved",
+    "Different Types of Investments"
+   ],
+   "h3": [
+    "CDs",
+    "Bonds",
+    "Stocks",
+    "Real Estate",
+    "Commodities"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Investment Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Results"
+    },
+    {
+     "level": 2,
+     "text": "Accumulation Schedule"
+    },
+    {
+     "level": 2,
+     "text": "Variables involved"
+    },
+    {
+     "level": 2,
+     "text": "Different Types of Investments"
+    },
+    {
+     "level": 3,
+     "text": "CDs"
+    },
+    {
+     "level": 3,
+     "text": "Bonds"
+    },
+    {
+     "level": 3,
+     "text": "Stocks"
+    },
+    {
+     "level": 3,
+     "text": "Real Estate"
+    },
+    {
+     "level": 3,
+     "text": "Commodities"
+    }
+   ],
+   "wordCount": 1810,
+   "avgSentenceWords": 22,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "investment",
+     "weight": 31
+    },
+    {
+     "term": "calculator",
+     "weight": 16
+    },
+    {
+     "term": "real estate",
+     "weight": 15
+    },
+    {
+     "term": "interest",
+     "weight": 14
+    },
+    {
+     "term": "investments",
+     "weight": 14
+    },
+    {
+     "term": "return",
+     "weight": 13
+    },
+    {
+     "term": "rate",
+     "weight": 12
+    },
+    {
+     "term": "amount",
+     "weight": 12
+    },
+    {
+     "term": "financial",
+     "weight": 11
+    },
+    {
+     "term": "real",
+     "weight": 11
+    },
+    {
+     "term": "investment calculator",
+     "weight": 11
+    },
+    {
+     "term": "bond",
+     "weight": 10
+    },
+    {
+     "term": "estate",
+     "weight": 10
+    },
+    {
+     "term": "price",
+     "weight": 9
+    },
+    {
+     "term": "there",
+     "weight": 8
+    },
+    {
+     "term": "risk",
+     "weight": 8
+    },
+    {
+     "term": "return rate",
+     "weight": 8
+    },
+    {
+     "term": "investing",
+     "weight": 7
+    },
+    {
+     "term": "many",
+     "weight": 7
+    },
+    {
+     "term": "investors",
+     "weight": 7
+    },
+    {
+     "term": "them",
+     "weight": 7
+    },
+    {
+     "term": "low",
+     "weight": 7
+    },
+    {
+     "term": "commodities",
+     "weight": 7
+    },
+    {
+     "term": "end",
+     "weight": 6
+    },
+    {
+     "term": "starting amount",
+     "weight": 6
+    },
+    {
+     "term": "rates",
+     "weight": 6
+    },
+    {
+     "term": "bonds",
+     "weight": 6
+    },
+    {
+     "term": "interest rates",
+     "weight": 6
+    },
+    {
+     "term": "different",
+     "weight": 5
+    },
+    {
+     "term": "gold",
+     "weight": 5
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 11,
+   "lists": 2,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "ctargetamountv",
+    "cstartingprinciplev",
+    "cyearsv",
+    "cinterestratev",
+    "ccompound",
+    "ccontributeamountv",
+    "beginning",
+    "end",
+    "month",
+    "year"
+   ],
+   "selectOptionsSample": "annually semiannually quarterly monthly semimonthly biweekly weekly daily continuously",
+   "unitToggle": false,
+   "wordsBeforeTool": 68,
+   "actions": {
+    "print": true,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 50,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 34,
+    "external": 0,
+    "contentInternal": 34,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "financial",
+     "investment calculator",
+     "Print",
+     "Contribute Amount",
+     "End Amount",
+     "Return Rate",
+     "Starting Amount",
+     "Invest Length",
+     "Interest Calculator",
+     "Average Return Calculator",
+     "ROI Calculator",
+     "CD Calculator",
+     "Inflation Calculator",
+     "Rental Property Calculator",
+     "real estate calculators",
+     "financial calculators",
+     "Financial Calculators",
+     "Mortgage"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/investment-calculator.html",
+     "https://www.calculator.net/investment-calculator.html#",
+     "https://www.calculator.net/interest-calculator.html",
+     "https://www.calculator.net/average-return-calculator.html",
+     "https://www.calculator.net/roi-calculator.html",
+     "https://www.calculator.net/cd-calculator.html",
+     "https://www.calculator.net/inflation-calculator.html",
+     "https://www.calculator.net/rental-property-calculator.html",
+     "https://www.calculator.net/real-estate-calculator.html",
+     "https://www.calculator.net/mortgage-calculator.html",
+     "https://www.calculator.net/loan-calculator.html",
+     "https://www.calculator.net/auto-loan-calculator.html",
+     "https://www.calculator.net/payment-calculator.html",
+     "https://www.calculator.net/retirement-calculator.html",
+     "https://www.calculator.net/amortization-calculator.html",
+     "https://www.calculator.net/currency-calculator.html",
+     "https://www.calculator.net/finance-calculator.html",
+     "https://www.calculator.net/mortgage-payoff-calculator.html",
+     "https://www.calculator.net/tax-calculator.html",
+     "https://www.calculator.net/compound-interest-calculator.html",
+     "https://www.calculator.net/salary-calculator.html",
+     "https://www.calculator.net/401k-calculator.html"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/finance/investment": {
+   "url": "https://www.omnicalculator.com/finance/investment",
+   "finalUrl": "https://www.omnicalculator.com/finance/investment",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-25T19:38:20.476Z",
+   "title": "Investment Calculator",
+   "metaDescription": "The investment calculator shows you the future value of your investment, taking into account a fixed interest rate, additional monthly contributions, and duration of your investment.",
+   "canonical": "https://www.omnicalculator.com/finance/investment",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Investment Calculator"
+   ],
+   "h2": [
+    "A short survey on investment",
+    "Specifics of the investment calculator",
+    "How to use the investment calculator",
+    "How to estimate the future value of your investment",
+    "Interest on investment formula",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I estimate the future value of my investment?",
+    "What is considered a good investment for beginners?",
+    "How do I start investing my money?",
+    "What is my final balance in 3 years if I invest $10,000?",
+    "Is $1,000 a good amount to invest?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Investment Calculator"
+    },
+    {
+     "level": 2,
+     "text": "A short survey on investment"
+    },
+    {
+     "level": 2,
+     "text": "Specifics of the investment calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to use the investment calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to estimate the future value of your investment"
+    },
+    {
+     "level": 2,
+     "text": "Interest on investment formula"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I estimate the future value of my investment?"
+    },
+    {
+     "level": 3,
+     "text": "What is considered a good investment for beginners?"
+    },
+    {
+     "level": 3,
+     "text": "How do I start investing my money?"
+    },
+    {
+     "level": 3,
+     "text": "What is my final balance in 3 years if I invest $10,000?"
+    },
+    {
+     "level": 3,
+     "text": "Is $1,000 a good amount to invest?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 2195,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "How do I estimate the future value of my investment?",
+    "What is considered a good investment for beginners?",
+    "How do I start investing my money?",
+    "What is my final balance in 3 years if I invest $10,000?",
+    "Is $1,000 a good amount to invest?"
+   ],
+   "faqSchemaCount": 5,
+   "topics": [
+    {
+     "term": "investment",
+     "weight": 64
+    },
+    {
+     "term": "rate",
+     "weight": 25
+    },
+    {
+     "term": "balance",
+     "weight": 22
+    },
+    {
+     "term": "final balance",
+     "weight": 21
+    },
+    {
+     "term": "calculator",
+     "weight": 20
+    },
+    {
+     "term": "interest",
+     "weight": 20
+    },
+    {
+     "term": "return",
+     "weight": 17
+    },
+    {
+     "term": "money",
+     "weight": 15
+    },
+    {
+     "term": "term",
+     "weight": 14
+    },
+    {
+     "term": "final",
+     "weight": 14
+    },
+    {
+     "term": "inflation",
+     "weight": 13
+    },
+    {
+     "term": "value",
+     "weight": 11
+    },
+    {
+     "term": "amount",
+     "weight": 11
+    },
+    {
+     "term": "inflation rate",
+     "weight": 11
+    },
+    {
+     "term": "initial",
+     "weight": 10
+    },
+    {
+     "term": "invest",
+     "weight": 10
+    },
+    {
+     "term": "annual",
+     "weight": 9
+    },
+    {
+     "term": "estimate",
+     "weight": 9
+    },
+    {
+     "term": "set",
+     "weight": 9
+    },
+    {
+     "term": "future",
+     "weight": 9
+    },
+    {
+     "term": "future value",
+     "weight": 9
+    },
+    {
+     "term": "compounding",
+     "weight": 9
+    },
+    {
+     "term": "compound",
+     "weight": 8
+    },
+    {
+     "term": "frequency",
+     "weight": 8
+    },
+    {
+     "term": "check",
+     "weight": 8
+    },
+    {
+     "term": "need",
+     "weight": 8
+    },
+    {
+     "term": "additional",
+     "weight": 8
+    },
+    {
+     "term": "investment calculator",
+     "weight": 8
+    },
+    {
+     "term": "initial investment",
+     "weight": 8
+    },
+    {
+     "term": "know",
+     "weight": 7
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 9,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "I would like to know...",
+    "Compound frequency",
+    "How often?"
+   ],
+   "selectOptionsSample": "select final balance initial investment periodic contribution time length rate of return select yearly semi-annually quarterly monthly weekly daily continuous select yearly semi-annually quarterly monthly bi-weekly weekly daily never",
+   "unitToggle": false,
+   "wordsBeforeTool": 7,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Mateusz Mucha",
+    "published": "2015-12-07T15:20:23.095Z",
+    "modified": "2026-09-27T15:12:33.217Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 1551,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 30,
+    "external": 1,
+    "contentInternal": 14,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "mutual fund calculator",
+     "Sharpe ratio",
+     "CAPM calculator",
+     "Bitcoin ETF calculator",
+     "cap rate calculator",
+     "future value",
+     "IRR calculator",
+     "ROI calculator",
+     "investment fees calculator",
+     "options spread calculator",
+     "compound interest calculator",
+     "Prorated Rent Calculator",
+     "Emergency Fund Calculator",
+     "Full-time Equivalent (FTE) Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/finance/mutual-fund",
+     "https://www.omnicalculator.com/finance/sharpe-ratio",
+     "https://www.omnicalculator.com/finance/capm",
+     "https://www.omnicalculator.com/finance/bitcoin-etf",
+     "https://www.omnicalculator.com/finance/cap-rate",
+     "https://www.omnicalculator.com/finance/future-value",
+     "https://www.omnicalculator.com/finance/internal-rate-of-return",
+     "https://www.omnicalculator.com/finance/roi",
+     "https://www.omnicalculator.com/finance/investment-fees",
+     "https://www.omnicalculator.com/finance/options-spread",
+     "https://www.omnicalculator.com/finance/compound-interest",
+     "https://www.omnicalculator.com/finance/prorated-rent",
+     "https://www.omnicalculator.com/finance/emergency-fund",
+     "https://www.omnicalculator.com/finance/full-time-equivalent"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.smartasset.com/investing/investment-calculator": {
+   "url": "https://www.smartasset.com/investing/investment-calculator",
+   "finalUrl": "https://www.smartasset.com/investing/investment-calculator",
+   "mode": "offline-parse",
+   "domain": "www.smartasset.com",
+   "fetchedAt": "2026-11-25T19:38:26.550Z",
+   "title": "Investment Return Calculator: Growth on Stocks, Bonds & More",
+   "metaDescription": "By entering your initial investment amount, contributions and more, you can calculate how your money will grow over time with our free investment calculator.",
+   "canonical": "https://smartasset.com/investing/investment-calculator",
+   "robotsMeta": "index",
+   "lang": "en",
+   "h1": [],
+   "h2": [
+    "How This Calculator Works",
+    "How to Use Our Investment Calculator",
+    "Types of Investments",
+    "How to Calculate Return on Investment",
+    "Reasons to Invest",
+    "Frequently Asked Questions",
+    "Article Sources"
+   ],
+   "h3": [
+    "This investment will be worth:",
+    "Starting Amount",
+    "Additional Contribution",
+    "Rate of Return",
+    "Years to Grow",
+    "Stocks",
+    "Bonds",
+    "Mutual Funds",
+    "ETFs",
+    "Commodities",
+    "Real Estate",
+    "Simple ROI",
+    "Total Return",
+    "Annualized Return",
+    "Risk-Adjusted Return"
+   ],
+   "outline": [
+    {
+     "level": 2,
+     "text": "How This Calculator Works"
+    },
+    {
+     "level": 3,
+     "text": "This investment will be worth:"
+    },
+    {
+     "level": 2,
+     "text": "How to Use Our Investment Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Starting Amount"
+    },
+    {
+     "level": 3,
+     "text": "Additional Contribution"
+    },
+    {
+     "level": 3,
+     "text": "Rate of Return"
+    },
+    {
+     "level": 3,
+     "text": "Years to Grow"
+    },
+    {
+     "level": 2,
+     "text": "Types of Investments"
+    },
+    {
+     "level": 3,
+     "text": "Stocks"
+    },
+    {
+     "level": 3,
+     "text": "Bonds"
+    },
+    {
+     "level": 3,
+     "text": "Mutual Funds"
+    },
+    {
+     "level": 3,
+     "text": "ETFs"
+    },
+    {
+     "level": 3,
+     "text": "Commodities"
+    },
+    {
+     "level": 3,
+     "text": "Real Estate"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Return on Investment"
+    },
+    {
+     "level": 3,
+     "text": "Simple ROI"
+    },
+    {
+     "level": 3,
+     "text": "Total Return"
+    },
+    {
+     "level": 3,
+     "text": "Annualized Return"
+    },
+    {
+     "level": 3,
+     "text": "Risk-Adjusted Return"
+    },
+    {
+     "level": 2,
+     "text": "Reasons to Invest"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 2,
+     "text": "Article Sources"
+    }
+   ],
+   "wordCount": 2347,
+   "avgSentenceWords": 19,
+   "faqs": [
+    "What Rate of Return Should I Use in the Calculator?",
+    "How Does Compound Interest Affect My Results?",
+    "Does the Calculator Account for Taxes or Fees?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "investment",
+     "weight": 37
+    },
+    {
+     "term": "return",
+     "weight": 35
+    },
+    {
+     "term": "money",
+     "weight": 16
+    },
+    {
+     "term": "year",
+     "weight": 15
+    },
+    {
+     "term": "risk",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "grow",
+     "weight": 13
+    },
+    {
+     "term": "rate",
+     "weight": 13
+    },
+    {
+     "term": "invest",
+     "weight": 13
+    },
+    {
+     "term": "example",
+     "weight": 11
+    },
+    {
+     "term": "returns",
+     "weight": 11
+    },
+    {
+     "term": "value",
+     "weight": 11
+    },
+    {
+     "term": "investments",
+     "weight": 11
+    },
+    {
+     "term": "have",
+     "weight": 10
+    },
+    {
+     "term": "investing",
+     "weight": 9
+    },
+    {
+     "term": "interest",
+     "weight": 9
+    },
+    {
+     "term": "starting",
+     "weight": 9
+    },
+    {
+     "term": "years",
+     "weight": 9
+    },
+    {
+     "term": "funds",
+     "weight": 9
+    },
+    {
+     "term": "bonds",
+     "weight": 9
+    },
+    {
+     "term": "stocks",
+     "weight": 9
+    },
+    {
+     "term": "real estate",
+     "weight": 9
+    },
+    {
+     "term": "help",
+     "weight": 8
+    },
+    {
+     "term": "index",
+     "weight": 8
+    },
+    {
+     "term": "annual",
+     "weight": 8
+    },
+    {
+     "term": "investment calculator",
+     "weight": 8
+    },
+    {
+     "term": "amount",
+     "weight": 7
+    },
+    {
+     "term": "additional",
+     "weight": 7
+    },
+    {
+     "term": "total",
+     "weight": 7
+    },
+    {
+     "term": "individual",
+     "weight": 7
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 1,
+   "images": 7,
+   "videos": 0,
+   "calculatorInputs": [
+    "Starting Amount",
+    "Additional Contribution",
+    "Contribution Frequency",
+    "Rate of Return",
+    "Years to Grow"
+   ],
+   "selectOptionsSample": "weekly bi-weekly monthly semi-annually annually",
+   "unitToggle": false,
+   "wordsBeforeTool": 70,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": "2025-09-09T11:56:46.000Z",
+    "modified": "2026-11-16T13:29:36.000Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 219,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 2,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 146,
+    "external": 9,
+    "contentInternal": 16,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Find an Advisor",
+     "risk tolerance",
+     "financial advisor",
+     "SmartAsset’s free online matching tool",
+     "1",
+     "2",
+     "3",
+     "time horizon",
+     "4",
+     "stocks",
+     "bonds",
+     "Mutual funds",
+     "exchange-traded funds",
+     "commodities",
+     "Real estate",
+     "Return on investment",
+     "inflation",
+     "compound growth",
+     "Editorial Policy",
+     "Back to top"
+    ],
+    "internalSample": [
+     "https://smartasset.com/retirement/find-a-financial-planner?utm_source=smartasset&utm_campaign=investmentcalcsubtext",
+     "https://smartasset.com/investing/risk-tolerance",
+     "https://smartasset.com/retirement/find-a-financial-planner?utm_source=smartasset&utm_campaign=investmentcalculator",
+     "https://www.smartasset.com/investing/investment-calculator#citations",
+     "https://smartasset.com/investing/time-horizon",
+     "https://smartasset.com/retirement/how-to-buy-stock-step-by-step",
+     "https://smartasset.com/investing/what-is-a-bond",
+     "https://smartasset.com/investing/how-to-buy-mutual-funds",
+     "https://smartasset.com/investing/what-are-exchange-traded-funds-etfs",
+     "https://smartasset.com/investing/what-are-commodities",
+     "https://smartasset.com/investing/how-to-invest-in-real-estate",
+     "https://smartasset.com/retirement/roi-return-on-investment",
+     "https://smartasset.com/investing/inflation-calculator",
+     "https://smartasset.com/investing/benefits-of-compound-interest",
+     "https://www.smartasset.com/editorial-independence",
+     "https://www.smartasset.com/investing/investment-calculator#"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.nerdwallet.com/calculator/investment-calculator": [
+   "disallowed by robots.txt"
+  ]
+ }
+}

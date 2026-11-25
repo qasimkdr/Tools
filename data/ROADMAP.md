@@ -137,10 +137,10 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 14 on policy hold).
 | 131 | 14 | live | Army Fitness Test (AFT) Calculator | `army-fitness-test-aft-calculator` | health | aft calculator | 18100 | 30 | 24800 | 5 |
 | 132 | 14 | live | Cement Block Calculator | `cement-block-calculator` | construction | cement block calculator | 1300 | 8 | 1300 | 1 |
 | 133 | 14 | live | Basis Point Calculator | `basis-point-calculator` | finance | bps calculator | 1900 | 11 | 3800 | 2 |
-| 134 | 14 | todo | Voo Calculator | `voo-calculator` | finance | voo calculator | 1900 | 14 | 1900 | 1 |
-| 135 | 14 | todo | Rounding Calculator | `rounding-calculator` | math | rounding calculator | 12100 | 29 | 37200 | 1 |
+| 134 | 14 | scheduled | Voo Calculator | `voo-calculator` | finance | voo calculator | 1900 | 14 | 1900 | 1 |
+| 135 | 14 | scheduled | Rounding Calculator | `rounding-calculator` | math | rounding calculator | 12100 | 29 | 37200 | 1 |
 | 136 | 14 | live | Tire Size Calculator | `tire-size-calculator` | science | tacoma tire calculator | 1600 | 17 | 15000 | 1 |
-| 137 | 14 | todo | Anniversary Calculator | `anniversary-calculator` | time-date | anniversary calculator | 1300 | 6 | 1300 | 1 |
+| 137 | 14 | scheduled | Anniversary Calculator | `anniversary-calculator` | time-date | anniversary calculator | 1300 | 6 | 1300 | 1 |
 | 138 | 14 | todo | Gc Calculator | `gc-calculator` | everyday | gc calculator | 1300 | 6 | 1300 | 1 |
 | 139 | 14 | todo | Llc Tax Calculator | `llc-tax-calculator` | finance | llc tax calculator | 1000 | 12 | 1000 | 1 |
 | 140 | 14 | todo | Wainscoting Calculator | `wainscoting-calculator` | construction | wainscoting calculator | 1300 | 9 | 1300 | 1 |

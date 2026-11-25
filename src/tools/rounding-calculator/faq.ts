@@ -1,0 +1,9 @@
+export const faq = [
+  { q: "How do you round to the nearest tenth?", a: "Look at the hundredths digit, the second digit after the decimal point. If it is 5 or more, add 1 to the tenths digit; if it is 4 or less, leave the tenths digit as it is. Then drop the remaining digits. 3.46 rounds to 3.5, and 3.44 rounds to 3.4." },
+  { q: "How do you round to the nearest hundred?", a: "Look at the tens digit. If it is 5 or more, round the hundreds digit up; otherwise keep it. Replace the tens and ones with zeros. 1,234 rounds to 1,200, and 1,250 rounds to 1,300." },
+  { q: "Does 5 round up or down?", a: "In standard (half up) rounding, 5 rounds up: 2.5 becomes 3 and 7.45 to one decimal becomes 7.5. Banker's rounding (half to even) instead rounds a 5 to the nearest even digit, so 2.5 becomes 2 and 3.5 becomes 4." },
+  { q: "What is banker's rounding?", a: "Half to even: when a number is exactly halfway, round to the neighbour with an even last digit. It avoids the upward bias of always rounding halves up, so totals of many rounded values stay accurate. It is the default in many financial and statistical programs." },
+  { q: "How do you round to significant figures?", a: "Count from the first non-zero digit, keep that many digits, and round using the next digit. 0.004567 to 2 significant figures is 0.0046, and 123,456 to 3 significant figures is 123,000." },
+  { q: "How do you round to the nearest 0.25 or 5?", a: "Divide by the step, round to a whole number, then multiply back. 3.67 ÷ 0.25 = 14.68 → 15 → 15 × 0.25 = 3.75. For the nearest 5, 17 ÷ 5 = 3.4 → 3 → 15." },
+  { q: "Why does my spreadsheet round 2.675 to 2.67?", a: "Computers store most decimals in binary, so 2.675 is held as 2.67499999… and rounds down. This calculator uses exact decimal arithmetic, so 2.675 to two places correctly gives 2.68." },
+];

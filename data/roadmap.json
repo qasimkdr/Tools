@@ -11693,7 +11693,8 @@
    ],
    "competitors": [],
    "category": "finance",
-   "status": "todo",
+   "status": "scheduled",
+   "note": "scheduled: publishes 2026-11-27T14:55:00+05:00",
    "order": 134,
    "batch": 14
   },
@@ -11780,7 +11781,8 @@
     "www.calculator.net/rounding-calculator.html"
    ],
    "category": "math",
-   "status": "todo",
+   "status": "scheduled",
+   "note": "scheduled: publishes 2026-11-27T14:55:00+05:00",
    "order": 135,
    "batch": 14
   },
@@ -11888,7 +11890,8 @@
    ],
    "competitors": [],
    "category": "time-date",
-   "status": "todo",
+   "status": "scheduled",
+   "note": "scheduled: publishes 2026-11-27T14:55:00+05:00",
    "order": 137,
    "batch": 14
   },

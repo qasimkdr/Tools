@@ -1,0 +1,173 @@
+{
+ "keywords": {
+  "voo calculator": {
+   "fetchedAt": "2026-11-25T19:38:14.895Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1900,
+   "fileKd": 14,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://mgmt.pabau.com/news/voo-calculator",
+     "domain": "mgmt.pabau.com",
+     "title": "Voo Calculator - Pabau",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.moneynestlab.com/en/dividend-etf-calculators/voo",
+     "domain": "www.moneynestlab.com",
+     "title": "VOO Calculator – S&P 500 ETF Investment Returns Simulator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://etf-calculator-one.vercel.app/voo-calculator.html",
+     "domain": "etf-calculator-one.vercel.app",
+     "title": "VOO Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://voo-us.pages.dev/calculator/",
+     "domain": "voo-us.pages.dev",
+     "title": "VOO Calculators",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://voo.us/calculator/",
+     "domain": "voo.us",
+     "title": "Free VOO calculators",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://wealthcalc-interest-calculator.netlify.app/voo-return-calculator.html",
+     "domain": "wealthcalc-interest-calculator.netlify.app",
+     "title": "VOO Investment Growth Tool",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.dividendcalculator.io/voo-dividend-calculator",
+     "domain": "www.dividendcalculator.io",
+     "title": "VOO Vanguard S&P 500 ETF",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://dividendhistory.net/voo-dividend-calculator",
+     "domain": "dividendhistory.net",
+     "title": "voo dividend calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://voo-us.pages.dev/calculator/returns/",
+     "domain": "voo-us.pages.dev",
+     "title": "VOO Returns Calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://quantflowlab.com/voo-growth-calculator-10-years/",
+     "domain": "quantflowlab.com",
+     "title": "VOO growth calculator 10 years",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "voo-calculator",
+ "page": "voo-calculator",
+ "category": "finance",
+ "name": "Voo Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-25T19:38:14.896Z",
+ "topCompetitors": [
+  {
+   "domain": "pages.dev",
+   "bestRank": 4,
+   "keywords": 2,
+   "urls": [
+    "https://voo-us.pages.dev/calculator/",
+    "https://voo-us.pages.dev/calculator/returns/"
+   ]
+  },
+  {
+   "domain": "pabau.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://mgmt.pabau.com/news/voo-calculator"
+   ]
+  },
+  {
+   "domain": "moneynestlab.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.moneynestlab.com/en/dividend-etf-calculators/voo"
+   ]
+  },
+  {
+   "domain": "vercel.app",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://etf-calculator-one.vercel.app/voo-calculator.html"
+   ]
+  },
+  {
+   "domain": "voo.us",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://voo.us/calculator/"
+   ]
+  },
+  {
+   "domain": "netlify.app",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://wealthcalc-interest-calculator.netlify.app/voo-return-calculator.html"
+   ]
+  },
+  {
+   "domain": "dividendcalculator.io",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.dividendcalculator.io/voo-dividend-calculator"
+   ]
+  },
+  {
+   "domain": "dividendhistory.net",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://dividendhistory.net/voo-dividend-calculator"
+   ]
+  },
+  {
+   "domain": "quantflowlab.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://quantflowlab.com/voo-growth-calculator-10-years/"
+   ]
+  }
+ ]
+}

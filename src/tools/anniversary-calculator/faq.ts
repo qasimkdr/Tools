@@ -1,0 +1,9 @@
+export const faq = [
+  { q: "How do I calculate how long we've been married?", a: "Count whole years from your wedding date, then whole months, then the days left over. Married June 20, 2015, on November 25, 2026 you have been married 11 years, 5 months and 5 days, or 4,176 days in total." },
+  { q: "When is our next anniversary?", a: "On the same month and day as your start date in the coming year. The calculator shows the date, the weekday and how many days away it is, and says which anniversary it will be (for example your 12th)." },
+  { q: "When is our 1,000-day anniversary?", a: "Add 1,000 days to your start date: it falls about 2 years, 8 to 9 months later. A couple married June 20, 2015 reached 1,000 days on March 16, 2018. The calculator lists your 100-, 1,000-, 5,000- and 10,000-day dates." },
+  { q: "What is the traditional gift for each anniversary?", a: "Common US lists give paper for the 1st, cotton for the 2nd, leather for the 3rd, wood for the 5th, tin or aluminum for the 10th, crystal for the 15th, silver for the 25th and diamond for the 60th. Lists vary between sources and countries." },
+  { q: "Can I use it for a work anniversary or years of service?", a: "Yes. Choose Work and enter your start date to see your exact years of service, your next work anniversary and service milestones such as 5, 10 and 25 years." },
+  { q: "How are anniversaries counted for a February 29 wedding?", a: "In years without a leap day, the calculator counts the anniversary on February 28. Some couples celebrate on March 1 instead; either is a common choice." },
+  { q: "Does it count the start day?", a: "Day counts start the day after your start date, the same way you would count birthdays: the first anniversary is exactly one year later, and the day after the wedding is day 1." },
+];

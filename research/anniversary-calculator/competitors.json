@@ -1,0 +1,627 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/everyday-life/anniversary": {
+   "url": "https://www.omnicalculator.com/everyday-life/anniversary",
+   "finalUrl": "https://www.omnicalculator.com/everyday-life/anniversary",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-25T19:38:44.007Z",
+   "title": "Anniversary Calculator",
+   "metaDescription": "Count down to your next anniversary and explore gift suggestions by year with our handy calculator.",
+   "canonical": "https://www.omnicalculator.com/everyday-life/anniversary",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Anniversary Calculator"
+   ],
+   "h2": [
+    "\"When is my wedding anniversary?\"",
+    "Traditional anniversary gifts",
+    "Example of using the wedding anniversary calculator",
+    "FAQs"
+   ],
+   "h3": [
+    "How long have I been married?",
+    "What is the 5-year anniversary gift?",
+    "What is the 15-year anniversary gift?",
+    "How many years have I been married?",
+    "How many days have I been married?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Anniversary Calculator"
+    },
+    {
+     "level": 2,
+     "text": "\"When is my wedding anniversary?\""
+    },
+    {
+     "level": 2,
+     "text": "Traditional anniversary gifts"
+    },
+    {
+     "level": 2,
+     "text": "Example of using the wedding anniversary calculator"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How long have I been married?"
+    },
+    {
+     "level": 3,
+     "text": "What is the 5-year anniversary gift?"
+    },
+    {
+     "level": 3,
+     "text": "What is the 15-year anniversary gift?"
+    },
+    {
+     "level": 3,
+     "text": "How many years have I been married?"
+    },
+    {
+     "level": 3,
+     "text": "How many days have I been married?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1301,
+   "avgSentenceWords": 18,
+   "faqs": [
+    "How long have I been married?",
+    "What is the 5-year anniversary gift?",
+    "What is the 15-year anniversary gift?",
+    "How many years have I been married?",
+    "How many days have I been married?",
+    "Sounds familiar?",
+    "Who knows you better than your spouse?"
+   ],
+   "faqSchemaCount": 5,
+   "topics": [
+    {
+     "term": "anniversary",
+     "weight": 31
+    },
+    {
+     "term": "year",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "date",
+     "weight": 14
+    },
+    {
+     "term": "married",
+     "weight": 13
+    },
+    {
+     "term": "wedding",
+     "weight": 11
+    },
+    {
+     "term": "anniversary calculator",
+     "weight": 11
+    },
+    {
+     "term": "anniversary gift",
+     "weight": 11
+    },
+    {
+     "term": "you've",
+     "weight": 10
+    },
+    {
+     "term": "diamond",
+     "weight": 10
+    },
+    {
+     "term": "days",
+     "weight": 9
+    },
+    {
+     "term": "year anniversary",
+     "weight": 9
+    },
+    {
+     "term": "years",
+     "weight": 8
+    },
+    {
+     "term": "gift",
+     "weight": 8
+    },
+    {
+     "term": "wedding anniversary",
+     "weight": 8
+    },
+    {
+     "term": "anniversary gifts",
+     "weight": 8
+    },
+    {
+     "term": "day",
+     "weight": 7
+    },
+    {
+     "term": "many",
+     "weight": 7
+    },
+    {
+     "term": "traditional anniversary",
+     "weight": 6
+    },
+    {
+     "term": "have",
+     "weight": 6
+    },
+    {
+     "term": "need",
+     "weight": 6
+    },
+    {
+     "term": "month",
+     "weight": 6
+    },
+    {
+     "term": "subtract",
+     "weight": 6
+    },
+    {
+     "term": "steps",
+     "weight": 6
+    },
+    {
+     "term": "many days",
+     "weight": 6
+    },
+    {
+     "term": "help",
+     "weight": 5
+    },
+    {
+     "term": "calculate",
+     "weight": 5
+    },
+    {
+     "term": "relationship",
+     "weight": 5
+    },
+    {
+     "term": "traditional",
+     "weight": 5
+    },
+    {
+     "term": "gifts",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Again, let us stress that you shouldn't feel obliged to buy, say, diamond earrings for the 10th anniversary.",
+    "Traditionally, the 5-year anniversary gift is focused around wood, which symbolizes the strength and durability of the relationship.",
+    "Contemporarily, the 5-year anniversary gift is said to be silverware, which refers to all the meals you've shared.",
+    "Traditionally, the 15-year anniversary gift is focused around crystal, which symbolizes the clarity and sparkle of the relationship.",
+    "Contemporarily, the 15-year anniversary gift is said to be a watch, which refers to the time you spent and will spend together."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 6,
+   "images": 0,
+   "videos": 1,
+   "calculatorInputs": [
+    "Anniversary date"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 4,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Maciej Kowalski",
+    "published": "2021-04-19T09:53:50.042Z",
+    "modified": "2026-08-26T15:42:10.988Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 671,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 24,
+    "external": 2,
+    "contentInternal": 8,
+    "contentExternal": 2,
+    "internalAnchors": [
+     "how to use this calculator",
+     "date calculator",
+     "date to date calculator",
+     "calendar calculator",
+     "time unit converter",
+     "time duration calculator",
+     "month counter",
+     "Audiobook Speed Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/everyday-life/anniversary#when-is-my-wedding-anniversary",
+     "https://www.omnicalculator.com/everyday-life/date",
+     "https://www.omnicalculator.com/everyday-life/date-to-date",
+     "https://www.omnicalculator.com/everyday-life/calendar",
+     "https://www.omnicalculator.com/conversion/time-unit-converter",
+     "https://www.omnicalculator.com/everyday-life/time-duration",
+     "https://www.omnicalculator.com/everyday-life/month-counter",
+     "https://www.omnicalculator.com/everyday-life/audiobook-speed"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com",
+     "https://youtu.be/e1QhVz3clQk"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculator.net/date-calculator.html": {
+   "url": "https://www.calculator.net/date-calculator.html",
+   "finalUrl": "https://www.calculator.net/date-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-25T19:38:52.867Z",
+   "title": "Date Calculator",
+   "metaDescription": "This free date calculator computes the difference between two dates. It can also add to or subtract from a date. Both can deal with business days and holidays.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Date Calculator"
+   ],
+   "h2": [
+    "Days Between Two Dates",
+    "Add to or Subtract from a Date"
+   ],
+   "h3": [
+    "History of the Gregorian Calendar",
+    "Holidays"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Date Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Days Between Two Dates"
+    },
+    {
+     "level": 2,
+     "text": "Add to or Subtract from a Date"
+    },
+    {
+     "level": 3,
+     "text": "History of the Gregorian Calendar"
+    },
+    {
+     "level": 3,
+     "text": "Holidays"
+    }
+   ],
+   "wordCount": 1130,
+   "avgSentenceWords": 17,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "day",
+     "weight": 28
+    },
+    {
+     "term": "calendar",
+     "weight": 23
+    },
+    {
+     "term": "days",
+     "weight": 19
+    },
+    {
+     "term": "holidays",
+     "weight": 19
+    },
+    {
+     "term": "year",
+     "weight": 15
+    },
+    {
+     "term": "date",
+     "weight": 9
+    },
+    {
+     "term": "years",
+     "weight": 9
+    },
+    {
+     "term": "gregorian calendar",
+     "weight": 9
+    },
+    {
+     "term": "holiday",
+     "weight": 8
+    },
+    {
+     "term": "federal",
+     "weight": 8
+    },
+    {
+     "term": "federal holidays",
+     "weight": 8
+    },
+    {
+     "term": "have",
+     "weight": 7
+    },
+    {
+     "term": "calculator",
+     "weight": 6
+    },
+    {
+     "term": "months",
+     "weight": 6
+    },
+    {
+     "term": "gregorian",
+     "weight": 6
+    },
+    {
+     "term": "leap",
+     "weight": 6
+    },
+    {
+     "term": "solar year",
+     "weight": 6
+    },
+    {
+     "term": "new year's",
+     "weight": 6
+    },
+    {
+     "term": "year's day",
+     "weight": 6
+    },
+    {
+     "term": "day jan",
+     "weight": 6
+    },
+    {
+     "term": "certain",
+     "weight": 5
+    },
+    {
+     "term": "further",
+     "weight": 5
+    },
+    {
+     "term": "new",
+     "weight": 5
+    },
+    {
+     "term": "julian calendar",
+     "weight": 5
+    },
+    {
+     "term": "roman calendar",
+     "weight": 5
+    },
+    {
+     "term": "republican calendar",
+     "weight": 5
+    },
+    {
+     "term": "paid leave",
+     "weight": 5
+    },
+    {
+     "term": "certain holidays",
+     "weight": 5
+    },
+    {
+     "term": "martin luther",
+     "weight": 5
+    },
+    {
+     "term": "luther king",
+     "weight": 5
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 13,
+   "lists": 0,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "include end day (add 1 day)",
+    "Do not count holidays",
+    "Count holidays",
+    "New Year's Day",
+    "M. L. King Day (US)",
+    "President's Day (US)",
+    "Memorial Day (US)",
+    "Juneteenth Day (US)",
+    "Independence Day (US)",
+    "Labor Day (US)",
+    "Columbus Day (US)",
+    "Veteran's Day (US)",
+    "Thanksgiving (US)",
+    "Black Friday (US)",
+    "Christmas Eve",
+    "Christmas",
+    "New Year's Eve",
+    "n0",
+    "m0",
+    "d0",
+    "n1",
+    "m1",
+    "d1",
+    "n2",
+    "m2",
+    "d2",
+    "n3",
+    "m3",
+    "d3",
+    "n4",
+    "m4",
+    "d4",
+    "n5",
+    "m5",
+    "d5",
+    "n6",
+    "m6",
+    "d6",
+    "n7",
+    "m7"
+   ],
+   "selectOptionsSample": "-- jan feb mar apr may jun jul aug sep oct nov dec -- 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 -- jan feb mar apr may jun jul aug sep oct nov dec -- 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 -- jan feb mar apr may j",
+   "unitToggle": false,
+   "wordsBeforeTool": 34,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 81,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 24,
+    "external": 0,
+    "contentInternal": 24,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "other",
+     "date calculator",
+     "+ Add more inputs",
+     "Clear",
+     "Settings",
+     "Time Calculator",
+     "Age Calculator",
+     "Other Calculators",
+     "Age",
+     "Date",
+     "Time",
+     "Hours",
+     "GPA",
+     "Grade",
+     "Height",
+     "Concrete",
+     "IP Subnet",
+     "Bra Size"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/date-calculator.html",
+     "https://www.calculator.net/date-calculator.html#",
+     "https://www.calculator.net/time-calculator.html",
+     "https://www.calculator.net/age-calculator.html",
+     "https://www.calculator.net/hours-calculator.html",
+     "https://www.calculator.net/gpa-calculator.html",
+     "https://www.calculator.net/grade-calculator.html",
+     "https://www.calculator.net/height-calculator.html",
+     "https://www.calculator.net/concrete-calculator.html",
+     "https://www.calculator.net/ip-subnet-calculator.html",
+     "https://www.calculator.net/bra-size-calculator.html",
+     "https://www.calculator.net/password-generator.html",
+     "https://www.calculator.net/dice-roller.html",
+     "https://www.calculator.net/conversion-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.gigacalculator.com/calculators/anniversary-calculator.php": [
+   "disallowed by robots.txt"
+  ],
+  "https://www.timeanddate.com/date/duration.html": [
+   "HTTP 403"
+  ]
+ }
+}

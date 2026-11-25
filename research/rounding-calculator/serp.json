@@ -1,0 +1,183 @@
+{
+ "keywords": {
+  "rounding calculator": {
+   "fetchedAt": "2026-11-25T19:38:15.023Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 12100,
+   "fileKd": 29,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 1,
+    "url": "www.calculator.net/rounding-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.pearson.com/channels/calculators/rounding-calculator",
+     "domain": "www.pearson.com",
+     "title": "rounding calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://dqydj.com/rounding-numbers-calculator/",
+     "domain": "dqydj.com",
+     "title": "Rounding Numbers Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://calculator.net/rounding-calculator.html",
+     "domain": "calculator.net",
+     "title": "Rounding Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://katalon.com/free-tools/rounding-numbers-calculator",
+     "domain": "katalon.com",
+     "title": "rounding numbers calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.omnicalculator.com/math/rounding",
+     "domain": "www.omnicalculator.com",
+     "title": "Rounding Numbers Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.dcode.fr/rounding-calculator",
+     "domain": "www.dcode.fr",
+     "title": "rounding calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.inchcalculator.com/rounding-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Rounding Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.miniwebtool.com/rounding-calculator/",
+     "domain": "www.miniwebtool.com",
+     "title": "rounding calculator",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.calculatorsoup.com/calculators/math/rounding-methods-calculator.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "rounding methods calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://cuemath.com/calculators/rounding-calculator",
+     "domain": "cuemath.com",
+     "title": "Rounding Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "rounding-calculator",
+ "page": "rounding-calculator",
+ "category": "math",
+ "name": "Rounding Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-25T19:38:15.024Z",
+ "topCompetitors": [
+  {
+   "domain": "pearson.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.pearson.com/channels/calculators/rounding-calculator"
+   ]
+  },
+  {
+   "domain": "dqydj.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://dqydj.com/rounding-numbers-calculator/"
+   ]
+  },
+  {
+   "domain": "calculator.net",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://calculator.net/rounding-calculator.html"
+   ]
+  },
+  {
+   "domain": "katalon.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://katalon.com/free-tools/rounding-numbers-calculator"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/math/rounding"
+   ]
+  },
+  {
+   "domain": "dcode.fr",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.dcode.fr/rounding-calculator"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/rounding-calculator/"
+   ]
+  },
+  {
+   "domain": "miniwebtool.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.miniwebtool.com/rounding-calculator/"
+   ]
+  },
+  {
+   "domain": "calculatorsoup.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculatorsoup.com/calculators/math/rounding-methods-calculator.php"
+   ]
+  },
+  {
+   "domain": "cuemath.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://cuemath.com/calculators/rounding-calculator"
+   ]
+  }
+ ]
+}

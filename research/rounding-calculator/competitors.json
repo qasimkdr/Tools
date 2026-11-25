@@ -1,0 +1,1283 @@
+{
+ "pages": {
+  "https://www.calculator.net/rounding-calculator.html": {
+   "url": "https://www.calculator.net/rounding-calculator.html",
+   "finalUrl": "https://www.calculator.net/rounding-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-25T19:38:30.410Z",
+   "title": "Rounding Calculator",
+   "metaDescription": "Free tool to round numbers to thousands, hundreds, tens, tenths, hundredths, fractions, or many other levels of precision using the popular rounding methods.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Rounding Calculator"
+   ],
+   "h2": [],
+   "h3": [
+    "Rounding Methods",
+    "Rounding to fractions"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Rounding Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Rounding Methods"
+    },
+    {
+     "level": 3,
+     "text": "Rounding to fractions"
+    }
+   ],
+   "wordCount": 887,
+   "avgSentenceWords": 29,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "rounding",
+     "weight": 51
+    },
+    {
+     "term": "half",
+     "weight": 21
+    },
+    {
+     "term": "rounding half",
+     "weight": 17
+    },
+    {
+     "term": "integer",
+     "weight": 16
+    },
+    {
+     "term": "example",
+     "weight": 14
+    },
+    {
+     "term": "negative",
+     "weight": 14
+    },
+    {
+     "term": "number",
+     "weight": 12
+    },
+    {
+     "term": "round",
+     "weight": 12
+    },
+    {
+     "term": "towards",
+     "weight": 12
+    },
+    {
+     "term": "zero",
+     "weight": 10
+    },
+    {
+     "term": "nearest",
+     "weight": 9
+    },
+    {
+     "term": "round half",
+     "weight": 9
+    },
+    {
+     "term": "means rounding",
+     "weight": 9
+    },
+    {
+     "term": "ones place",
+     "weight": 9
+    },
+    {
+     "term": "down",
+     "weight": 9
+    },
+    {
+     "term": "negative numbers",
+     "weight": 9
+    },
+    {
+     "term": "means",
+     "weight": 8
+    },
+    {
+     "term": "values",
+     "weight": 8
+    },
+    {
+     "term": "value",
+     "weight": 8
+    },
+    {
+     "term": "positive",
+     "weight": 8
+    },
+    {
+     "term": "rounded",
+     "weight": 7
+    },
+    {
+     "term": "method",
+     "weight": 6
+    },
+    {
+     "term": "nearest integer",
+     "weight": 6
+    },
+    {
+     "term": "used",
+     "weight": 6
+    },
+    {
+     "term": "rounding values",
+     "weight": 6
+    },
+    {
+     "term": "ones",
+     "weight": 6
+    },
+    {
+     "term": "place",
+     "weight": 6
+    },
+    {
+     "term": "numbers",
+     "weight": 6
+    },
+    {
+     "term": "non integer",
+     "weight": 6
+    },
+    {
+     "term": "next",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "For example, if rounding the number 2.7 to the nearest integer, 2.7 would be rounded to 3.",
+    "For example, when rounding to the ones place: 5.50 ⇒ 6 5.51 ⇒ 6 5.49 ⇒ 5 When the value being rounded is negative, the definition is somewhat ambiguous.",
+    "For example, when rounding to the ones place: 5.50 ⇒ 5 5.51 ⇒ 6 5.49 ⇒ 5 In the case of negative numbers, same as rounding half up, the definition is ambiguous.",
+    "For example, when rounding to the ones place: -5.50 ⇒ -6 -5.51 ⇒ -6 -5.49 ⇒ -5 Round up (ceiling): Rounding up, sometimes referred to as \"taking the ceiling\" of a number means rounding up towards the nearest integer.",
+    "For example: -5.01 ⇒ -5 -5.50 ⇒ -5 -5.99 ⇒ -5 Round down (floor): Rounding down, sometimes referred to as \"taking the floor\" of a number means rounding down towards the nearest integer.",
+    "For example: 5.5 ⇒ 6 6.5 ⇒ 6 -7.5 ⇒ -8 -8.5 ⇒ 8 Round half to odd: Rounding half to odd is similar to rounding half to even (above), and can be used as a tie-breaking rule.",
+    "For example: 5.5 ⇒ 5 6.5 ⇒ 7 -7.5 ⇒ -7 -8.5 ⇒ -9 Round half away from zero: Rounding half away from zero can be used as a tie-breaking rule, and means exactly as the phrase describes: rounding half values away from zero.",
+    "For example: 5.5 ⇒ 6 -5.5 ⇒ -6 Round half towards zero: Rounding half towards zero is similar to rounding half away from zero, except that it rounds in the opposite direction.",
+    "For example: 5.5 ⇒ 5 -5.5 ⇒ -5 Rounding to fractions Rounding to fractions involves rounding a given value to the nearest multiple of the chosen fraction."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 20,
+   "lists": 0,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "cnum",
+    "cpre",
+    "cpren",
+    "cmode",
+    "Select a precision level",
+    "Input a precision level"
+   ],
+   "selectOptionsSample": "tenths (1) hundredths (2) thousandths (3) ten thousandths (4) hundred thousandths (5) millionths (6) ones (0) tens (-1) hundreds (-2) thousands (-3) millions (-6) 1/2 1/4 1/8 1/16 1/32 1/64 round to the nearest (default) round half up round half down round up (ceiling) round down (floor) round half ",
+   "unitToggle": false,
+   "wordsBeforeTool": 11,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 15,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 19,
+    "external": 0,
+    "contentInternal": 19,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "math",
+     "rounding calculator",
+     "Settings",
+     "Math Calculators",
+     "Scientific",
+     "Fraction",
+     "Percentage",
+     "Triangle",
+     "Volume",
+     "Standard Deviation",
+     "Random Number Generator",
+     "More Math Calculators",
+     "Financial",
+     "Fitness and Health",
+     "Math",
+     "Other",
+     "about us",
+     "sitemap"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/rounding-calculator.html",
+     "https://www.calculator.net/rounding-calculator.html#",
+     "https://www.calculator.net/scientific-calculator.html",
+     "https://www.calculator.net/fraction-calculator.html",
+     "https://www.calculator.net/percent-calculator.html",
+     "https://www.calculator.net/triangle-calculator.html",
+     "https://www.calculator.net/volume-calculator.html",
+     "https://www.calculator.net/standard-deviation-calculator.html",
+     "https://www.calculator.net/random-number-generator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/math/rounding": {
+   "url": "https://www.omnicalculator.com/math/rounding",
+   "finalUrl": "https://www.omnicalculator.com/math/rounding",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-25T19:38:33.798Z",
+   "title": "Rounding Calculator",
+   "metaDescription": "Easily round off decimals to the desired precision using our user-friendly rounding calculator.",
+   "canonical": "https://www.omnicalculator.com/math/rounding",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Rounding Calculator"
+   ],
+   "h2": [
+    "Rounding modes",
+    "Rounding at a glance",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I round to the nearest integer?",
+    "Is 7.5 rounded up or down?",
+    "What does 2.47 round to?",
+    "Why do we round numbers?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Rounding Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Rounding modes"
+    },
+    {
+     "level": 2,
+     "text": "Rounding at a glance"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I round to the nearest integer?"
+    },
+    {
+     "level": 3,
+     "text": "Is 7.5 rounded up or down?"
+    },
+    {
+     "level": 3,
+     "text": "What does 2.47 round to?"
+    },
+    {
+     "level": 3,
+     "text": "Why do we round numbers?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 834,
+   "avgSentenceWords": 15,
+   "faqs": [
+    "How do I round to the nearest integer?",
+    "Is 7.5 rounded up or down?",
+    "What does 2.47 round to?",
+    "Why do we round numbers?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "round",
+     "weight": 18
+    },
+    {
+     "term": "rounding",
+     "weight": 16
+    },
+    {
+     "term": "nearest",
+     "weight": 14
+    },
+    {
+     "term": "rounds",
+     "weight": 12
+    },
+    {
+     "term": "calculator",
+     "weight": 11
+    },
+    {
+     "term": "number",
+     "weight": 11
+    },
+    {
+     "term": "rounds towards",
+     "weight": 11
+    },
+    {
+     "term": "half",
+     "weight": 10
+    },
+    {
+     "term": "towards",
+     "weight": 9
+    },
+    {
+     "term": "numbers",
+     "weight": 9
+    },
+    {
+     "term": "down",
+     "weight": 8
+    },
+    {
+     "term": "nearest integer",
+     "weight": 8
+    },
+    {
+     "term": "nearest neighbor",
+     "weight": 8
+    },
+    {
+     "term": "decimal",
+     "weight": 7
+    },
+    {
+     "term": "rounded",
+     "weight": 6
+    },
+    {
+     "term": "mode",
+     "weight": 5
+    },
+    {
+     "term": "integer",
+     "weight": 5
+    },
+    {
+     "term": "become",
+     "weight": 5
+    },
+    {
+     "term": "neighbor",
+     "weight": 5
+    },
+    {
+     "term": "equidistant",
+     "weight": 5
+    },
+    {
+     "term": "even",
+     "weight": 4
+    },
+    {
+     "term": "want",
+     "weight": 4
+    },
+    {
+     "term": "sometimes",
+     "weight": 4
+    },
+    {
+     "term": "zero",
+     "weight": 4
+    },
+    {
+     "term": "after",
+     "weight": 4
+    },
+    {
+     "term": "rounding calculator",
+     "weight": 3
+    },
+    {
+     "term": "124 123",
+     "weight": 3
+    },
+    {
+     "term": "457 456",
+     "weight": 3
+    },
+    {
+     "term": "average",
+     "weight": 3
+    },
+    {
+     "term": "precision",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "Quite often, you don't need an exact number (such as 3324.238576) and would happily settle for 3324.34, 3324, or even 3300; this rounding decimals calculator will let you do just that.",
+    "This is how rounding is usually performed (though there is another viewpoint that has -3.5 rounding to -3).",
+    "According to the most popular rounding method, 7.5 is rounded up to 8."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 4,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Round to"
+   ],
+   "selectOptionsSample": "select whole number decimals fractions sig fig",
+   "unitToggle": false,
+   "wordsBeforeTool": 5,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Mateusz Mucha",
+    "published": "2016-01-05T22:39:58.286Z",
+    "modified": "2026-07-01T19:01:07.341Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 632,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 24,
+    "external": 1,
+    "contentInternal": 8,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "nearest thousand",
+     "round to the nearest integer",
+     "ceiling function calculator",
+     "modulo calculator",
+     "floor function calculator",
+     "significant figures calculator",
+     "Least Common Multiple Calculator",
+     "Absolute Value Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/math/round-to-the-nearest-thousand",
+     "https://www.omnicalculator.com/math/round-to-the-nearest-integer",
+     "https://www.omnicalculator.com/math/ceiling-function",
+     "https://www.omnicalculator.com/math/modulo",
+     "https://www.omnicalculator.com/math/floor-function",
+     "https://www.omnicalculator.com/math/sig-fig",
+     "https://www.omnicalculator.com/math/least-common-multiple",
+     "https://www.omnicalculator.com/math/absolute-value"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/rounding-calculator/": {
+   "url": "https://www.inchcalculator.com/rounding-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/rounding-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-25T19:38:36.763Z",
+   "title": "Rounding Calculator - Inch Calculator",
+   "metaDescription": "Use our rounding calculator to round a number to any number of decimal places. Learn the steps to round a number using the rounding rules.",
+   "canonical": "https://www.inchcalculator.com/rounding-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Rounding Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Rounded Number",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Round Numbers",
+    "Frequently Asked Questions",
+    "Similar Math Resources",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Rounding Precision",
+    "Rounding Rules",
+    "How to Round to the Nearest Whole Number",
+    "How to Round to the Nearest Tenth",
+    "How to Round to the Nearest Hundredth",
+    "How to Round to the Nearest Thousandth",
+    "How to Round to the Nearest Ten",
+    "How to Round to the Nearest Hundred",
+    "How to Round to the Nearest Thousand",
+    "How do you round a negative number?",
+    "How do you round to the nearest integer?",
+    "How do you know when to round up?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Rounding Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Rounded Number"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Round Numbers"
+    },
+    {
+     "level": 3,
+     "text": "Rounding Precision"
+    },
+    {
+     "level": 3,
+     "text": "Rounding Rules"
+    },
+    {
+     "level": 3,
+     "text": "How to Round to the Nearest Whole Number"
+    },
+    {
+     "level": 3,
+     "text": "How to Round to the Nearest Tenth"
+    },
+    {
+     "level": 3,
+     "text": "How to Round to the Nearest Hundredth"
+    },
+    {
+     "level": 3,
+     "text": "How to Round to the Nearest Thousandth"
+    },
+    {
+     "level": 3,
+     "text": "How to Round to the Nearest Ten"
+    },
+    {
+     "level": 3,
+     "text": "How to Round to the Nearest Hundred"
+    },
+    {
+     "level": 3,
+     "text": "How to Round to the Nearest Thousand"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "How do you round a negative number?"
+    },
+    {
+     "level": 3,
+     "text": "How do you round to the nearest integer?"
+    },
+    {
+     "level": 3,
+     "text": "How do you know when to round up?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Math Resources"
+    }
+   ],
+   "wordCount": 1827,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "How do you round a negative number?",
+    "How do you round to the nearest integer?",
+    "How do you know when to round up?"
+   ],
+   "faqSchemaCount": 3,
+   "topics": [
+    {
+     "term": "number",
+     "weight": 73
+    },
+    {
+     "term": "place",
+     "weight": 57
+    },
+    {
+     "term": "round",
+     "weight": 44
+    },
+    {
+     "term": "nearest",
+     "weight": 43
+    },
+    {
+     "term": "right",
+     "weight": 27
+    },
+    {
+     "term": "rounding",
+     "weight": 25
+    },
+    {
+     "term": "numbers",
+     "weight": 23
+    },
+    {
+     "term": "add",
+     "weight": 19
+    },
+    {
+     "term": "equal",
+     "weight": 19
+    },
+    {
+     "term": "set",
+     "weight": 16
+    },
+    {
+     "term": "whole number",
+     "weight": 15
+    },
+    {
+     "term": "values",
+     "weight": 15
+    },
+    {
+     "term": "place equal",
+     "weight": 15
+    },
+    {
+     "term": "tens place",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "decimal",
+     "weight": 13
+    },
+    {
+     "term": "tens",
+     "weight": 13
+    },
+    {
+     "term": "numbers after",
+     "weight": 12
+    },
+    {
+     "term": "thousandths place",
+     "weight": 12
+    },
+    {
+     "term": "rounded",
+     "weight": 11
+    },
+    {
+     "term": "thousandths",
+     "weight": 11
+    },
+    {
+     "term": "greater add",
+     "weight": 11
+    },
+    {
+     "term": "ones place",
+     "weight": 11
+    },
+    {
+     "term": "example let",
+     "weight": 11
+    },
+    {
+     "term": "tenths place",
+     "weight": 11
+    },
+    {
+     "term": "hundredths place",
+     "weight": 11
+    },
+    {
+     "term": "hundreds place",
+     "weight": 11
+    },
+    {
+     "term": "whole",
+     "weight": 10
+    },
+    {
+     "term": "thousands",
+     "weight": 10
+    },
+    {
+     "term": "greater",
+     "weight": 10
+    }
+   ],
+   "claims": [
+    "If the number in the position you are rounding to is followed by 5, 6, 7, 8, or 9, then you will round the number in the position you are rounding to up.",
+    "Otherwise, you simply replace the numbers after the position you are rounding to with a 0."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 3,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "Number",
+    "Round To"
+   ],
+   "selectOptionsSample": "billions (1,000,000,000) hundred millions (100,000,000) ten millions (10,000,000) millions (1,000,000) hundred thousands (100,000) ten thousands (10,000) thousands (1,000) hundreds (100) tens (10) ones (1) tenths (0.1) hundredths (0.01) thousandths (0.001) ten thousandths (0.0001) hundred thousandth",
+   "unitToggle": false,
+   "wordsBeforeTool": 17,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2023-07-06",
+    "modified": "2023-11-27T21:12:09+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 124,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 48,
+    "external": 13,
+    "contentInternal": 25,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Round Numbers",
+     "Rounding Precision",
+     "Rounding Rules",
+     "How to Round to the Nearest Whole Number",
+     "How to Round to the Nearest Tenth",
+     "How to Round to the Nearest Hundredth",
+     "How to Round to the Nearest Thousandth",
+     "How to Round to the Nearest Ten",
+     "How to Round to the Nearest Hundred",
+     "How to Round to the Nearest Thousand",
+     "Frequently Asked Questions",
+     "Full bio",
+     "Rounding Calculator",
+     "significant figures",
+     "round to the nearest cent calculator",
+     "Vector Calculator",
+     "Binary Calculator & Converter"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/rounding-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/rounding/",
+     "https://www.inchcalculator.com/rounding-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/rounding-calculator/#idx_how_to_round_numbers",
+     "https://www.inchcalculator.com/rounding-calculator/#idx_rounding_precision",
+     "https://www.inchcalculator.com/rounding-calculator/#idx_rounding_rules",
+     "https://www.inchcalculator.com/rounding-calculator/#idx_how_to_round_to_the_nearest_whole_number",
+     "https://www.inchcalculator.com/rounding-calculator/#idx_how_to_round_to_the_nearest_tenth",
+     "https://www.inchcalculator.com/rounding-calculator/#idx_how_to_round_to_the_nearest_hundredth",
+     "https://www.inchcalculator.com/rounding-calculator/#idx_how_to_round_to_the_nearest_thousandth",
+     "https://www.inchcalculator.com/rounding-calculator/#idx_how_to_round_to_the_nearest_ten",
+     "https://www.inchcalculator.com/rounding-calculator/#idx_how_to_round_to_the_nearest_hundred",
+     "https://www.inchcalculator.com/rounding-calculator/#idx_how_to_round_to_the_nearest_thousand",
+     "https://www.inchcalculator.com/rounding-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/aditya-dua/",
+     "https://www.inchcalculator.com/rounding-calculator/",
+     "https://www.inchcalculator.com/sig-fig-calculator/",
+     "https://www.inchcalculator.com/round-to-the-nearest-cent-calculator/",
+     "https://www.inchcalculator.com/vector-calculator/",
+     "https://www.inchcalculator.com/binary-calculator/",
+     "https://www.inchcalculator.com/hex-calculator/",
+     "https://www.inchcalculator.com/triangle-area-calculator/",
+     "https://www.inchcalculator.com/right-triangle-calculator/",
+     "https://www.inchcalculator.com/math-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Frounding-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Frounding-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Frounding-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Frounding-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Frounding-calculator%2F&text=Rounding+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Frounding-calculator%2F&text=Rounding+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/math/rounding-methods-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/math/rounding-methods-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/math/rounding-methods-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-25T19:38:39.902Z",
+   "title": "Rounding Methods Calculator",
+   "metaDescription": "Use different methods to round positive and negative numbers. Explains the types of rounding rules people use to round numbers and decimals with halfway values.",
+   "canonical": "https://www.calculatorsoup.com/calculators/math/rounding-methods-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Rounding Methods Calculator"
+   ],
+   "h2": [
+    "Rounding Methods",
+    "Types of Rounding",
+    "Further Reading"
+   ],
+   "h3": [
+    "Example of Rounding",
+    "Round Half Up",
+    "Round Half Down",
+    "Round Half Toward Zero",
+    "Round Half Away From Zero",
+    "Round Half Even (Bankers' Rules)",
+    "Round Half Odd",
+    "Round Half Random",
+    "Round All Up (Ceiling)",
+    "Round All Down (Floor)",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Rounding Methods Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Rounding Methods"
+    },
+    {
+     "level": 3,
+     "text": "Example of Rounding"
+    },
+    {
+     "level": 2,
+     "text": "Types of Rounding"
+    },
+    {
+     "level": 3,
+     "text": "Round Half Up"
+    },
+    {
+     "level": 3,
+     "text": "Round Half Down"
+    },
+    {
+     "level": 3,
+     "text": "Round Half Toward Zero"
+    },
+    {
+     "level": 3,
+     "text": "Round Half Away From Zero"
+    },
+    {
+     "level": 3,
+     "text": "Round Half Even (Bankers' Rules)"
+    },
+    {
+     "level": 3,
+     "text": "Round Half Odd"
+    },
+    {
+     "level": 3,
+     "text": "Round Half Random"
+    },
+    {
+     "level": 3,
+     "text": "Round All Up (Ceiling)"
+    },
+    {
+     "level": 3,
+     "text": "Round All Down (Floor)"
+    },
+    {
+     "level": 2,
+     "text": "Further Reading"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 1420,
+   "avgSentenceWords": 30,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "round",
+     "weight": 65
+    },
+    {
+     "term": "rounds",
+     "weight": 64
+    },
+    {
+     "term": "rounding",
+     "weight": 29
+    },
+    {
+     "term": "round half",
+     "weight": 29
+    },
+    {
+     "term": "numbers",
+     "weight": 25
+    },
+    {
+     "term": "150 rounds",
+     "weight": 24
+    },
+    {
+     "term": "down",
+     "weight": 23
+    },
+    {
+     "term": "half",
+     "weight": 21
+    },
+    {
+     "term": "value",
+     "weight": 20
+    },
+    {
+     "term": "149 rounds",
+     "weight": 18
+    },
+    {
+     "term": "151 rounds",
+     "weight": 18
+    },
+    {
+     "term": "rounding methods",
+     "weight": 15
+    },
+    {
+     "term": "zero",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "methods",
+     "weight": 12
+    },
+    {
+     "term": "round halfway",
+     "weight": 12
+    },
+    {
+     "term": "halfway values",
+     "weight": 12
+    },
+    {
+     "term": "toward",
+     "weight": 12
+    },
+    {
+     "term": "positive numbers",
+     "weight": 12
+    },
+    {
+     "term": "negative numbers",
+     "weight": 12
+    },
+    {
+     "term": "halfway",
+     "weight": 11
+    },
+    {
+     "term": "values",
+     "weight": 11
+    },
+    {
+     "term": "methods calculator",
+     "weight": 11
+    },
+    {
+     "term": "toward zero",
+     "weight": 11
+    },
+    {
+     "term": "round down",
+     "weight": 11
+    },
+    {
+     "term": "positive",
+     "weight": 10
+    },
+    {
+     "term": "away",
+     "weight": 10
+    },
+    {
+     "term": "negative",
+     "weight": 10
+    },
+    {
+     "term": "even",
+     "weight": 9
+    },
+    {
+     "term": "odd",
+     "weight": 9
+    }
+   ],
+   "claims": [
+    "1.1 1.11 1.12 1.13 1.14 1.15 1.16 1.17 1.18 1.19 1.2 The rounding methods explained below have been devised to handle the halfway point and, in theory, minimize accumulated rounding errors.",
+    "Types of Rounding The following explanations show how to round the halfway value decimal 1.15 to the 1 in the tenths place.",
+    "This rounding rule acts symmetrically around 0.",
+    "This rounding rule acts symmetrically around 0."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 21,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Method:",
+    "Value:",
+    "Round To:",
+    "reset"
+   ],
+   "selectOptionsSample": "round half up round half down round half toward zero round half away from zero round half even (bankers) round half odd round half random round all up (ceiling) round all down (floor) billions hundred millions ten millions millions hundred thousands ten thousands thousands hundreds place tens place ",
+   "unitToggle": false,
+   "wordsBeforeTool": 16,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "August 1, 2025",
+    "authoritativeSources": [
+     "https://en.wikipedia.org/wiki/Rounding"
+    ]
+   },
+   "ux": {
+    "htmlKB": 64,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 26,
+    "external": 4,
+    "contentInternal": 16,
+    "contentExternal": 4,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Math",
+     "Rounding Methods Calculator",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Round Half Up",
+     "Round Half Down",
+     "Round Half Toward Zero",
+     "Round Half Away from Zero",
+     "Round Half Even (Bankers' Rules)",
+     "Round Half Odd",
+     "Round Half Random",
+     "Round All Up (Ceiling)",
+     "Round All Down (Floor)",
+     "Rounding Calculator",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/math/",
+     "https://www.calculatorsoup.com/calculators/math/rounding-methods-calculator.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=math%2F&folderName=Math&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/math/rounding-methods-calculator.php&h1=Rounding+Methods+Calculator&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/math/rounding-methods-calculator.php#halfUp",
+     "https://www.calculatorsoup.com/calculators/math/rounding-methods-calculator.php#halfDown",
+     "https://www.calculatorsoup.com/calculators/math/rounding-methods-calculator.php#halftoZero",
+     "https://www.calculatorsoup.com/calculators/math/rounding-methods-calculator.php#halfnotZero",
+     "https://www.calculatorsoup.com/calculators/math/rounding-methods-calculator.php#halfEven",
+     "https://www.calculatorsoup.com/calculators/math/rounding-methods-calculator.php#halfOdd",
+     "https://www.calculatorsoup.com/calculators/math/rounding-methods-calculator.php#halfRandom",
+     "https://www.calculatorsoup.com/calculators/math/rounding-methods-calculator.php#ceiling",
+     "https://www.calculatorsoup.com/calculators/math/rounding-methods-calculator.php#floor",
+     "https://www.calculatorsoup.com/calculators/math/roundingnumbers.php"
+    ],
+    "externalSample": [
+     "https://en.wikipedia.org/wiki/Rounding",
+     "https://www.thoughtco.com/how-to-round-numbers-2312079",
+     "https://www.mathplayground.com/howto_round.html",
+     "http://www.math.com/school/subject1/lessons/S1U1L3GL.html"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}
