@@ -8,11 +8,17 @@ on:
   schedule: [{ cron: "7 0 * * *" }] # 00:07 UTC daily
   push: { branches: [main] }
   workflow_dispatch:
+    inputs:
+      indexnow_all:
+        description: "Submit ALL sitemap URLs to IndexNow (Bing) once"
+        type: boolean
+        default: false
 jobs:
   test:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with: { fetch-depth: 0 } # full history so IndexNow can diff the pushed commits
       - uses: actions/setup-node@v4
         with: { node-version: 22, cache: npm }
       - run: npm ci
@@ -20,6 +26,13 @@ jobs:
         env:
           NEXT_PUBLIC_SITE_URL: ${{ vars.SITE_URL || 'https://mathico.xyz' }}
       - run: npx playwright install --with-deps chromium && npx playwright test
+      # IndexNow (Bing etc.; Google ignores it): after tests pass, tell Bing which pages changed in this push.
+      - name: IndexNow (changed pages)
+        if: ${{ github.event_name == 'push' }}
+        run: node scripts/indexnow.mjs --changed "${{ github.event.before }}" "${{ github.sha }}" --wait
+      - name: IndexNow (all pages, manual)
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.indexnow_all }}
+        run: node scripts/indexnow.mjs --all --wait
   daily-rebuild:
     needs: test
     if: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
