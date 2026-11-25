@@ -44,8 +44,21 @@ jobs:
     if: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger Netlify build hook
+      - uses: actions/checkout@v4
+      - name: Trigger Netlify build hook (skipped on days a scheduled tool publishes later; that build refreshes everything)
         env: { HOOK: "${{ secrets.NETLIFY_BUILD_HOOK }}" }
         run: |
           if [ -z "$HOOK" ]; then echo "NETLIFY_BUILD_HOOK secret not set; skipping."; exit 0; fi
+          later_today=$(node -e '
+            const fs = require("fs"), path = require("path"), now = Date.now();
+            const pkt = (t) => new Date(t + 5 * 3600e3).toISOString().slice(0, 10);
+            let hit = false;
+            for (const s of fs.readdirSync("src/tools")) {
+              const f = path.join("src/tools", s, "meta.ts");
+              if (!fs.existsSync(f)) continue;
+              const at = fs.readFileSync(f, "utf8").match(/publishAt:\s*"([^"]+)"/)?.[1];
+              if (at && Date.parse(at) > now && pkt(Date.parse(at)) === pkt(now)) hit = true;
+            }
+            process.stdout.write(hit ? "yes" : "no");')
+          if [ "$later_today" = "yes" ] && [ "${{ github.event_name }}" = "schedule" ]; then echo "A tool publishes later today: skipping the morning rebuild."; exit 0; fi
           curl -fsS -X POST -d '{}' "$HOOK"

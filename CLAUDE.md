@@ -24,7 +24,10 @@ Rows with status `hold` are policy-sensitive: never build without the owner's OK
 - A tool = `src/tools/<slug>/{meta.ts, Calculator.tsx, Content.tsx, faq.ts}` + its page module.
   **New tools are SCHEDULED (owner rule 2026-11-25):** put the page module at `src/tools/<slug>/page.tsx` (copy an existing
   `src/app/<tool>/page.tsx`, ≈15 lines) and NEVER create `src/app/<slug>/`. After a batch passes all checks, run
-  `npm run schedule -- --slugs a,b,c,d,e` (2–3 tools/day, random times 09:00–21:00 PKT, writes `publishAt`/`published`/`updated`).
+  `npm run schedule -- --slugs a,b,c` (batches of 2–3 tools; 2–3 tools/day sharing ONE random time 09:00–21:00 PKT = one
+  Netlify build per day; writes `publishAt`/`published`/`updated`). Do NOT add scheduled tools to `registry.ts`: the prebuild
+  generates `src/tools/scheduled-registry.ts`, so a queued tool only touches its own folder and Netlify skips that push
+  (`scripts/netlify-ignore.mjs`).
   `scripts/publish-scheduled.mjs` (prebuild) gives a tool a route only once `publishAt` has passed; until then it has no page,
   no sitemap entry and no links. The hourly `.github/workflows/publish-scheduled.yml` rebuilds Netlify when a slot passes and
   pings IndexNow. A scheduled tool may only link to tools that are live or publish earlier (`scripts/check-schedule.mjs`).

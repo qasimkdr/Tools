@@ -1,8 +1,9 @@
 #!/usr/bin/env node
-// Give new tools random publish slots: 2–3 tools a day, at random times between 09:00 and 21:00 Pakistan time
-// (UTC+5, no daylight saving), at least 2 hours apart, starting the day after the last scheduled tool (or tomorrow).
+// Give new tools random publish slots: 2–3 tools a day at ONE random time between 09:00 and 21:00 Pakistan time
+// (UTC+5, no daylight saving), so each publishing day costs one Netlify build. --separate-times gives each tool its
+// own time (≥2 h apart; one build per tool). Starts the day after the last scheduled tool (or tomorrow).
 // Writes publishAt, published and updated into each tool's meta.ts.
-//   node scripts/schedule.mjs --slugs a,b,c,d,e [--per-day 2-3] [--from 2026-12-01] [--dry-run]
+//   node scripts/schedule.mjs --slugs a,b,c [--per-day 2-3] [--separate-times] [--from 2026-12-01] [--dry-run]
 import fs from "node:fs";
 import path from "node:path";
 
@@ -38,6 +39,8 @@ let i = 0;
 while (i < slugs.length) {
   const n = Math.min(slugs.length - i, minPer + Math.floor(Math.random() * (maxPer - minPer + 1)));
   const times = [];
+  const separate = process.argv.includes("--separate-times");
+  if (!separate) { const m = 9 * 60 + Math.floor(Math.random() * (12 * 60)); for (let k = 0; k < n; k++) times.push(m); }
   while (times.length < n) {
     const m = 9 * 60 + Math.floor(Math.random() * (12 * 60)); // 09:00–20:59
     if (times.every((x) => Math.abs(x - m) >= 120)) times.push(m);

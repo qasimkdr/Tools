@@ -3,6 +3,8 @@
 [build]
   command = "npm run build"
   publish = "out"
+  # Skip builds that cannot change the live site (hidden scheduled tools, research, docs, tests) to save build minutes.
+  ignore = "node scripts/netlify-ignore.mjs"
 
 [build.environment]
   NODE_VERSION = "22"
