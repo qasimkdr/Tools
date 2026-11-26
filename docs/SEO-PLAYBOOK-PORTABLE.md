@@ -301,6 +301,15 @@ Inspect the top competitor tool pages (headless Chromium, respect robots.txt, 2.
 use other ranking competitors. Extract: word count, H2s, inputs, unit toggle, actions (copy/share/print),
 tables/lists, FAQs, author, updated date, sources, internal links, schema types, ads, HTML size.
 
+### 7.4b Feature matrix: cover all competitor features, then more
+List every feature the competitors offer (inputs, modes such as "solve for X", unit systems, outputs like cost or
+materials, tables, charts, copy/share/print/download, content sections, FAQ topics) in a matrix: who has it, and
+ours = built / already / skipped + reason. Build every relevant item, then add extras nobody has that searchers want
+(People Also Ask answers, reverse modes, edge cases, comparison tables, worked examples). Skip only irrelevant
+filler, data you can't verify from a primary source, or unsafe advice; never copy competitor text. After building,
+compare the competitor feature list against your built page (this repo: `npm run seo:gaps -- --slugs <slug>`) and
+resolve every gap.
+
 ### 7.5 Scoring rubric (0–5 per dimension, total /30; /25 when a tool is JS-only and inputs can't be parsed)
 - **Content**: ≥ 600 words · formula · worked examples · ≥ 3 tables/lists · ≥ 4 FAQs (1 pt each)
 - **Functionality**: ≥ 2 inputs · ≥ 6 inputs · unit toggle · print/share/copy/download · cost estimate or chart

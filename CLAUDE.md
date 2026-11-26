@@ -39,7 +39,8 @@ Rows with status `hold` are policy-sensitive: never build without the owner's OK
 ## Commands
 - `npm run build` → static site in `out/` (includes `sitemap.xml`, `robots.txt`). Must pass before commit.
 - **FREE MODE research (current):** `npm run seo:batch -- next --size 5` → WebSearch each keyword → `npm run seo:record -- --slug <id> --kw "…" --file r.json`
-  → `npm run seo:batch -- run --size 5` → reports in `research/<id>/report.md`, progress in `research/INDEX.md`. `npm run seo:check` = browser health check.
+  → `npm run seo:batch -- run --size 5` → reports in `research/<id>/report.md`, progress in `research/INDEX.md`.
+  After building: `npm run seo:gaps -- --slugs <ids>` → feature-parity checklist `research/<id>/gaps.md` (rule 12). `npm run seo:check` = browser health check.
   Details: `docs/07-SEO-RESEARCH-PIPELINE.md`.
   Paid mode later: `npm run seo:research -- --slug <slug>` (DataForSEO).
 - `npm run test:e2e` → Playwright SEO + functional tests on the static build (desktop + mobile). Must pass before commit.
@@ -73,3 +74,9 @@ Rows with status `hold` are policy-sensitive: never build without the owner's OK
    pages with their scores and what our page does better (format: `docs/03-TOOL-BUILD-WORKFLOW.md` Step 7).
 11. Owner rule (2026-11-22): every batch report also ends with the **total number of published tools and the count per
    category** (run `npm run -s tools:count`).
+12. Owner rule (2026-11-26): **FEATURE PARITY + MORE.** During competitor research, record every competitor feature
+   (inputs/options, modes, units, outputs, tables/charts, actions, content sections, FAQ topics) in a feature matrix in
+   `docs/research/<slug>.md`. The tool must cover ALL relevant competitor features, then add extra ones that searchers
+   want (more detail than any competitor). Verify with `npm run seo:gaps -- --slugs <slugs>` after building; every ✗ is
+   built or logged as skipped with a reason (irrelevant, filler essay, unverifiable data, unsafe). Never copy their text,
+   never invent data to match a feature. Details: `docs/03-TOOL-BUILD-WORKFLOW.md` Step 2.5.

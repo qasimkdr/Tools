@@ -42,6 +42,7 @@ anchors · schema (JSON-LD, microdata, RDFa) · heading outlines · action items
 npm run seo:record -- --slug <id> --kw "<keyword>" --file results.json    # or --results '<json>'
 npm run seo:scrape -- --slug <id> --count 4                                 # ≥4 competitor pages, robots.txt respected
 npm run seo:report -- --slug <id>                                            # → research/<id>/report.md
+npm run seo:gaps -- --slugs <id>   # after building (SHOW_SCHEDULED=1 build): competitor features vs our page → research/<id>/gaps.md
 ```
 
 ### Hundreds of keywords (batches of 5)

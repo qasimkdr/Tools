@@ -20,7 +20,8 @@
     "seo:batch": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 node scripts/seo/batch.mjs",
     "roadmap:overlap": "python3 -I scripts/check-overlap.py",
     "tools:count": "node scripts/count-tools.mjs",
-    "seo:self": "node scripts/seo/self-score.mjs"
+    "seo:self": "node scripts/seo/self-score.mjs",
+    "seo:gaps": "node scripts/seo/gaps.mjs"
   },
   "dependencies": {
     "mathjs": "15.2.0",
