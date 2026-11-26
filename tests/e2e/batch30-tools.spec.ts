@@ -64,3 +64,20 @@ test("bowling handicap: 165 avg, 90% of 220 → 49; series 147; team 172; 2,487/
   await page.goto("/bowling-handicap-calculator/?avg=225");
   await expect(page.getByTestId("hcp")).toHaveText("0 pins");
 });
+
+test("gap fixes: roofing degrees + nails; cap rate financing; five-number steps", async ({ page }) => {
+  await page.goto("/roofing-calculator/?pu=deg&pitch=26.565");
+  await expect(page.getByTestId("area")).toHaveText("1,503 sq ft");
+  await page.goto("/roofing-calculator/?spb=26&nps=4");
+  await expect(page.getByTestId("nails")).toHaveText("5,200");
+  await page.goto("/roofing-calculator/?pu=deg&pitch=30");
+  await expect(page.getByTestId("factor")).toContainText("6.9/12");
+  await page.goto("/cap-rate-calculator/?cash=100000&debt=18000");
+  await expect(page.getByTestId("coc")).toHaveText("5.56%");
+  await expect(page.getByTestId("dscr")).toHaveText("1.31×");
+  await page.goto("/five-number-summary-calculator/");
+  await expect(page.getByTestId("steps")).toContainText("Lower half (the median is left out of both halves): 3, 5, 7, 8");
+  await expect(page.getByTestId("steps")).toContainText("IQR = 16 − 6 = 10");
+  await page.goto("/five-number-summary-calculator/?m=linear&data=2,4,6,8,10,12");
+  await expect(page.getByTestId("steps")).toContainText("position (n − 1) × 0.25 + 1 = 2.25, so 4 + 0.25 × (6 − 4)");
+});

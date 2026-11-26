@@ -5,3 +5,4 @@
 Room or total-area mode · ft/m · ceiling toggle · door/window counts and sizes · 4 sheet sizes incl. 54-in · waste · cost · mud in gallons and pails · tape in feet and rolls · sheets-by-size table · size/thickness guide · 7 FAQs.
 ## Test cases
 14×12×8 + ceiling − 21 − 2×15 = 533 sq ft → 19 sheets (4×8), 13 (4×12), 5.1 gal, 197 ft · 10×10, 1 door → 14 sheets · 13 × $18 = $234.
+- Gap fixes (2026-11-26): gable-end walls and sloped (cathedral) ceilings in the tool; drywall types section. Test: 2 gables 12×4 → 581 sq ft, 20 sheets; ceiling 6/12 → 553 sq ft.

@@ -65,3 +65,11 @@ test("watt-hours: 60 W × 8 h = 480 Wh, $2.16/30 days; 5,000 mAh × 3.7 V = 18.5
   await page.goto("/watt-hour-calculator/?mode=runtime");
   await expect(page.getByTestId("out")).toHaveText("10 h 0 min");
 });
+
+test("gap fixes: drywall gables and sloped ceiling", async ({ page }) => {
+  await page.goto("/drywall-calculator/?gables=2&gb=12&gr=4");
+  await expect(page.getByTestId("net")).toHaveText("581 sq ft");
+  await expect(page.getByTestId("sheets")).toHaveText("20 sheets");
+  await page.goto("/drywall-calculator/?cp=6");
+  await expect(page.getByTestId("net")).toHaveText("553 sq ft");
+});

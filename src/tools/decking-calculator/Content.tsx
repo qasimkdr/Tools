@@ -24,6 +24,22 @@ export default function Content() {
         <li>Screws = 26 × 13 × 2 = <strong>676</strong>.</li>
       </ul>
 
+      <h2 id="stairs">Don&apos;t forget the stairs</h2>
+      <p>Stair treads are easy to leave off an order. Each tread is usually two deck boards side by side (2 × 5½″ plus a gap ≈ 11¼″ deep), cut to the stair width. Three 4 ft wide steps need 3 × 2 = 6 tread pieces; a 16 ft board gives four 4 ft pieces, so that&apos;s <strong>2 extra boards</strong>. Risers and stringers are extra; the <Link href="/stair-calculator/">stair calculator</Link> works out the rise, run and stringer length.</p>
+
+      <h2 id="materials">Decking materials compared</h2>
+      <table>
+        <thead><tr><th>Material</th><th>Upfront cost</th><th>Upkeep</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td>Pressure-treated pine</td><td>Lowest</td><td>Clean and seal or stain regularly</td><td>Most common; can check, warp and splinter as it weathers</td></tr>
+          <tr><td>Cedar / redwood</td><td>Medium</td><td>Seal to keep the color; weathers to gray otherwise</td><td>Naturally rot-resistant heartwood, lighter and softer</td></tr>
+          <tr><td>Tropical hardwood (e.g. ipe)</td><td>High</td><td>Oil to keep the color</td><td>Very hard and dense; needs pre-drilling and hidden fasteners</td></tr>
+          <tr><td>Composite</td><td>High</td><td>Wash; no sanding or staining</td><td>Wood-plastic mix; check joist spacing and gaps in the maker&apos;s guide</td></tr>
+          <tr><td>PVC (cellular)</td><td>Highest</td><td>Wash only</td><td>Lightest, moisture-proof; expands with heat, so gaps matter</td></tr>
+        </tbody>
+      </table>
+      <p>Composite and PVC boards are sold by the board in fixed lengths, so the board count matters more than square footage when you order.</p>
+
       <h2 id="boards">Common deck boards</h2>
       <table>
         <thead><tr><th>Board</th><th>Actual width</th><th>Typical use</th></tr></thead>

@@ -12,3 +12,14 @@ export function fence(o: FenceInput) {
     postLen: o.height + o.bury, area: run * o.height,
   };
 }
+
+/** Shadowbox (board-on-board): boards alternate on both sides of the rails, each side spaced by `gap`. */
+export const shadowboxBoards = (run: number, boardW: number, gap: number, wastePct: number) =>
+  Math.ceil(((2 * run * 12) / (boardW + gap)) * (1 + wastePct / 100) - 1e-9);
+
+/** Concrete for one round post hole (cu ft): hole volume minus the square post. Inputs in inches / feet. */
+export function postConcrete(holeDiaIn: number, depthFt: number, postIn: number) {
+  const d = depthFt * 12;
+  const cuIn = Math.PI * (holeDiaIn / 2) ** 2 * d - postIn * postIn * d;
+  return Math.max(0, cuIn / 1728);
+}

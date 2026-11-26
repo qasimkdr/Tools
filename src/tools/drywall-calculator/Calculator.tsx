@@ -8,7 +8,7 @@ const FT_PER_M = 3.28084;
 const n0 = (x: number) => Math.round(x).toLocaleString("en-US");
 
 export default function DrywallCalculator() {
-  const [s, set] = useUrlState({ mode: "room", u: "ft", l: "14", w: "12", h: "8", ceil: "1", doors: "1", da: "21", win: "2", wa: "15", area: "500", sheet: "32", waste: "10", price: "" });
+  const [s, set] = useUrlState({ mode: "room", u: "ft", l: "14", w: "12", h: "8", ceil: "1", doors: "1", da: "21", win: "2", wa: "15", area: "500", gables: "0", gb: "12", gr: "4", cp: "0", sheet: "32", waste: "10", price: "" });
   const m = s.u === "m";
   const k = m ? FT_PER_M : 1, k2 = k * k;
   const sheetArea = Number(s.sheet) || 32;
@@ -17,7 +17,7 @@ export default function DrywallCalculator() {
   const L = Number(s.l) * k, W = Number(s.w) * k, H = Number(s.h) * k;
   const err = room ? (!(L > 0) || !(W > 0) || !(H > 0) ? "Enter the room length, width and wall height." : null) : !(Number(s.area) > 0) ? "Enter the total area to cover." : null;
   const r = err ? null : room
-    ? drywall({ length: L, width: W, height: H, ceiling: s.ceil === "1", doors: Math.max(0, Number(s.doors) || 0), doorArea: (Number(s.da) || 0) * k2, windows: Math.max(0, Number(s.win) || 0), windowArea: (Number(s.wa) || 0) * k2, sheetArea, wastePct: waste })
+    ? drywall({ length: L, width: W, height: H, ceiling: s.ceil === "1", doors: Math.max(0, Number(s.doors) || 0), doorArea: (Number(s.da) || 0) * k2, windows: Math.max(0, Number(s.win) || 0), windowArea: (Number(s.wa) || 0) * k2, sheetArea, wastePct: waste, gables: Math.max(0, Math.round(Number(s.gables) || 0)), gableBase: (Number(s.gb) || 0) * k, gableRise: (Number(s.gr) || 0) * k, ceilingPitch: Math.max(0, Number(s.cp) || 0) })
     : sheetsFor(Number(s.area) * k2, sheetArea, waste);
   const area = (sqft: number) => (m ? `${(sqft / k2).toFixed(1)} m²` : `${n0(sqft)} sq ft`);
   const price = Number(s.price);
@@ -36,6 +36,15 @@ export default function DrywallCalculator() {
             <Field id="h" label="Wall height" suffix={s.u} value={s.h} onChange={(v) => set("h", v)} min={0} />
           </div>
           <Segmented label="Include the ceiling?" value={s.ceil === "1" ? "1" : "0"} onChange={(v) => set("ceil", v)} options={[{ id: "1", label: "Walls + ceiling" }, { id: "0", label: "Walls only" }]} />
+          <details className="rounded-xl border border-[var(--border)] p-3" open={Number(s.gables) > 0 || Number(s.cp) > 0}>
+            <summary className="cursor-pointer text-sm font-semibold">Gable walls or a sloped ceiling</summary>
+            <div className="mt-3 grid grid-cols-3 gap-3">
+              <Field id="gables" label="Gable-end walls" value={s.gables} onChange={(v) => set("gables", v)} min={0} inputMode="numeric" hint="Triangles above the wall" />
+              <Field id="gb" label="Gable width" suffix={s.u} value={s.gb} onChange={(v) => set("gb", v)} min={0} />
+              <Field id="gr" label="Gable peak height" suffix={s.u} value={s.gr} onChange={(v) => set("gr", v)} min={0} hint="Above the wall top" />
+            </div>
+            {s.ceil === "1" && <div className="mt-3"><Field id="cp" label="Ceiling slope (cathedral)" suffix="in / 12" value={s.cp} onChange={(v) => set("cp", v)} min={0} hint="0 for a flat ceiling" /></div>}
+          </details>
           <div className="grid grid-cols-2 gap-3">
             <Field id="doors" label="Doors" value={s.doors} onChange={(v) => set("doors", v)} min={0} inputMode="numeric" />
             <Field id="da" label="Area per door" suffix={m ? "m²" : "sq ft"} value={s.da} onChange={(v) => set("da", v)} min={0} hint={m ? "0.9 × 2.0 m ≈ 1.8 m²" : "3 × 7 ft = 21 sq ft"} />
@@ -59,7 +68,7 @@ export default function DrywallCalculator() {
             <Stat k="Area to cover" v={<span data-testid="net">{area(r.net)}</span>} />
             <Stat k="With waste" v={area(r.withWaste)} />
             {room && <>
-              <Stat k="Walls" v={area(r.walls)} />
+              <Stat k={((r as { gable?: number }).gable ?? 0) > 0 ? "Walls (incl. gables)" : "Walls"} v={area(r.walls)} />
               <Stat k="Ceiling" v={area(r.ceil)} />
               <Stat k="Doors and windows" v={`− ${area(r.openings)}`} />
             </>}

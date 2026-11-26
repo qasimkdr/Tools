@@ -5,4 +5,5 @@ export const faq = [
   { q: "How many rails does a fence need?", a: "Two rails per section are usual for fences up to about 4 feet tall, and three rails for 5 to 6 ft privacy fences, so the boards stay straight. Multiply rails per section by the number of sections." },
   { q: "How long should fence posts be?", a: "The fence height plus the depth in the ground. A common guide is to bury about a third to a half of the above-ground height, so a 6 ft fence often uses 8 ft posts set 2 ft deep. Frost depth and local code can require deeper holes." },
   { q: "How much does a fence cost?", a: "Enter your local prices per post, rail and board to get the material cost. Concrete, gate hardware, fasteners, stain and labor are extra, and prices vary a lot by region and wood type." },
+  { q: "How much concrete do I need per fence post?", a: "Work out the hole volume and subtract the post: π × (diameter ÷ 2)² × depth − post width² × depth. A 10-inch hole 2 ft deep around a 4×4 post takes about 0.92 cu ft, roughly one and a half 80 lb bags (about 0.6 cu ft each). The calculator totals it for all posts." },
 ];

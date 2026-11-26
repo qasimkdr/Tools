@@ -24,6 +24,27 @@ export default function Content() {
         <li>To buy at a 6.5% cap rate, the price would have to be $23,562 ÷ 0.065 = <strong>$362,486</strong>.</li>
       </ul>
 
+      <h2 id="value">How cap rate and NOI change a property&apos;s value</h2>
+      <p>Because value = NOI ÷ cap rate, small changes move prices a lot:</p>
+      <ul>
+        <li><strong>Cap rate rises:</strong> a property with $60,000 NOI is worth $1,000,000 at a 6% cap rate but $857,143 at 7%, about 14% less for the same income. This is why rising interest rates, which usually push cap rates up, can lower property values.</li>
+        <li><strong>NOI rises:</strong> adding $5,000 a year of NOI (higher rent or lower expenses) adds $5,000 ÷ 0.06 = <strong>$83,333</strong> of value at a 6% cap rate.</li>
+        <li><strong>Buying vs selling:</strong> buyers want a higher cap rate (a lower price for the income); sellers want a lower one.</li>
+      </ul>
+
+      <h2 id="ratios">Cap rate vs other investment ratios</h2>
+      <table>
+        <thead><tr><th>Ratio</th><th>Formula</th><th>What it tells you</th></tr></thead>
+        <tbody>
+          <tr><td>Cap rate</td><td>NOI ÷ property value</td><td>Unlevered yield; compares properties regardless of financing</td></tr>
+          <tr><td>Cash-on-cash return</td><td>(NOI − mortgage payments) ÷ cash invested</td><td>Yearly return on the cash you actually put in</td></tr>
+          <tr><td>Debt service coverage (DSCR)</td><td>NOI ÷ annual mortgage payments</td><td>How comfortably income covers the loan; lenders often look for about 1.2 or more</td></tr>
+          <tr><td>Gross rent multiplier (GRM)</td><td>Price ÷ gross annual rent</td><td>Quick screen that ignores expenses</td></tr>
+          <tr><td>Total return (ROI)</td><td>(Cash flow + appreciation + loan paydown) ÷ cash invested</td><td>Everything, over the whole holding period</td></tr>
+        </tbody>
+      </table>
+      <p>Example with financing: the $400,000 rental above, bought with $100,000 of cash and a loan costing $18,000 a year, has cash-on-cash return = ($23,562 − $18,000) ÷ $100,000 = <strong>5.56%</strong> and DSCR = 23,562 ÷ 18,000 = <strong>1.31</strong>.</p>
+
       <h2 id="included">What counts as an operating expense?</h2>
       <table>
         <thead><tr><th>Include in NOI</th><th>Leave out of NOI</th></tr></thead>

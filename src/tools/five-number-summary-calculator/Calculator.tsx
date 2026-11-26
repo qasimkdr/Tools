@@ -4,6 +4,19 @@ import { useUrlState } from "@/lib/useUrlState";
 import { parseNumbers } from "@/lib/descriptive";
 import { fiveNumber, type QuartileMethod } from "@/lib/fiveNum";
 
+function steps(sorted: number[], m: QuartileMethod) {
+  const n = sorted.length, half = Math.floor(n / 2);
+  const medTxt = n % 2 ? `n = ${n} is odd, so the median is value number ${(n + 1) / 2}: ${fmt(sorted[(n - 1) / 2])}.` : `n = ${n} is even, so the median is the mean of values ${n / 2} and ${n / 2 + 1}: (${fmt(sorted[n / 2 - 1])} + ${fmt(sorted[n / 2])}) ÷ 2.`;
+  if (m === "linear" || n < 2) {
+    const pos = (p: number) => { const h = (n - 1) * p, lo = Math.floor(h), f = h - lo; return `position (n − 1) × ${p} + 1 = ${fmt(h + 1)}` + (f && lo + 1 < n ? `, so ${fmt(sorted[lo])} + ${fmt(f)} × (${fmt(sorted[lo + 1])} − ${fmt(sorted[lo])})` : ` → ${fmt(sorted[lo])}`); };
+    return [medTxt, `Q1: ${pos(0.25)}.`, `Q3: ${pos(0.75)}.`];
+  }
+  const incl = m === "tukey" && n % 2 === 1;
+  const lower = sorted.slice(0, half + (incl ? 1 : 0)), upper = sorted.slice(n - half - (incl ? 1 : 0));
+  const note = n % 2 ? (incl ? " (the median is included in both halves)" : " (the median is left out of both halves)") : "";
+  return [medTxt, `Lower half${note}: ${lower.map(fmt).join(", ")} → Q1 is its median.`, `Upper half: ${upper.map(fmt).join(", ")} → Q3 is its median.`];
+}
+
 const fmt = (x: number) => (Number.isFinite(x) ? String(Number(x.toPrecision(10))) : "–");
 const METHODS: { id: QuartileMethod; label: string }[] = [{ id: "exclusive", label: "Textbook / TI-84" }, { id: "tukey", label: "Tukey hinges" }, { id: "linear", label: "Excel / R default" }];
 
@@ -56,6 +69,16 @@ export default function FiveNumberSummaryCalculator() {
               <text x={X(r.max)} y={64} fontSize={9} textAnchor="end" fill="currentColor">{fmt(r.max)}</text>
             </svg>
           </>}
+          <details className="mt-4" open>
+            <summary className="cursor-pointer text-sm font-semibold">Step by step</summary>
+            <ol className="mt-2 list-decimal space-y-1 pl-5 text-sm" data-testid="steps">
+              <li>Sort the data: {r.n > 40 ? `${r.sorted.slice(0, 40).map(fmt).join(", ")}…` : r.sorted.map(fmt).join(", ")}.</li>
+              <li>Minimum = {fmt(r.min)}, maximum = {fmt(r.max)}.</li>
+              {steps(r.sorted, m).map((x, i) => <li key={i}>{x}</li>)}
+              <li>Q1 = {fmt(r.q1)}, Q3 = {fmt(r.q3)}, so IQR = {fmt(r.q3)} − {fmt(r.q1)} = {fmt(r.iqr)}.</li>
+              <li>Fences: {fmt(r.q1)} − 1.5 × {fmt(r.iqr)} = {fmt(r.lower)} and {fmt(r.q3)} + 1.5 × {fmt(r.iqr)} = {fmt(r.upper)}.</li>
+            </ol>
+          </details>
           <h2 className="mt-4 text-sm font-semibold">Sorted data (n = {r.n})</h2>
           <p className="mt-1 max-h-24 overflow-auto break-words font-mono text-xs" data-testid="sorted">{r.sorted.slice(0, 2000).map(fmt).join(", ")}{r.n > 2000 ? "…" : ""}</p>
         </>}

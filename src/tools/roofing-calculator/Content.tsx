@@ -38,6 +38,15 @@ export default function Content() {
         </tbody>
       </table>
 
+      <h2 id="angle">Roof pitch in degrees</h2>
+      <p>Some plans and phone apps give the roof slope as an angle instead of a ratio. Convert with the tangent: pitch = 12 × tan(angle), and angle = arctan(pitch ÷ 12). A 30° roof is 12 × tan 30° = 6.93/12, and a 6/12 roof is 26.6°. You can enter either in the calculator.</p>
+      <div className="formula">Pitch (in per 12) = 12 × tan(angle) · Angle = arctan(pitch ÷ 12)<br />Pitch factor = 1 ÷ cos(angle)</div>
+
+      <h2 id="nails">Roofing nails</h2>
+      <p>Shingle makers specify how many nails go in each shingle, and their installation instructions take precedence. Four nails per shingle is the common standard, and six are typical in high-wind areas or for a higher wind warranty (GAF, for example, ties its wind warranty to the nail count for some shingles). Shingles per bundle vary by product, so the calculator uses the count from your wrapper:</p>
+      <div className="formula">Nails = bundles × shingles per bundle × nails per shingle</div>
+      <p>For 50 bundles of a shingle packed 26 to a bundle, nailed 4 per shingle: 50 × 26 × 4 = <strong>5,200 nails</strong> for the field shingles. Starter strip, hip and ridge caps need extra.</p>
+
       <h2 id="tips">Tips for an accurate order</h2>
       <ul>
         <li>Measure each roof section with a different pitch on its own and add the results; dormers and porches often have their own pitch.</li>

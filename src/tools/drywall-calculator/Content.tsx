@@ -23,6 +23,24 @@ export default function Content() {
         <li>Joint compound ≈ 533 × 0.0095 = <strong>5.1 gallons</strong> (two 4.5-gallon pails). Tape ≈ 533 × 0.37 = <strong>197 ft</strong>, one 250 ft roll.</li>
       </ul>
 
+      <h2 id="gables">Gable walls and sloped ceilings</h2>
+      <p>Walls under a pitched roof have a triangle above the normal wall height. Each triangle&apos;s area is half its width times its peak height: a 12 ft wide gable that rises 4 ft adds 0.5 × 12 × 4 = 24 sq ft, so two gable ends add 48 sq ft. A cathedral (sloped) ceiling has more area than the floor below it, by the same factor used for roofs: √(1 + (slope ÷ 12)²). A 14 × 12 ft ceiling at a 6/12 slope is 168 × 1.118 = 187.8 sq ft instead of 168.</p>
+      <div className="formula">Gable area = ½ × gable width × peak height (per gable)<br />Sloped ceiling area = floor area × √(1 + (slope ÷ 12)²)</div>
+
+      <h2 id="types">Types of drywall</h2>
+      <table>
+        <thead><tr><th>Type</th><th>Where it&apos;s used</th><th>How to spot it</th></tr></thead>
+        <tbody>
+          <tr><td>Regular (standard)</td><td>Most walls and ceilings in dry rooms</td><td>Usually white or gray face paper</td></tr>
+          <tr><td>Moisture-resistant</td><td>Bathrooms, laundry rooms, kitchens (not wet areas like inside showers)</td><td>Often green face paper</td></tr>
+          <tr><td>Mold- and moisture-resistant (paperless)</td><td>Basements and humid spaces</td><td>Fiberglass facing instead of paper</td></tr>
+          <tr><td>Fire-resistant (Type X)</td><td>Garages next to living space, furnace rooms, rated assemblies required by code</td><td>⅝ inch thick with glass fibers in the core; marked Type X</td></tr>
+          <tr><td>Sound-dampening</td><td>Home theaters, shared walls, bedrooms</td><td>Heavier, layered panels sold as acoustic or soundproof board</td></tr>
+          <tr><td>Cement board</td><td>Tile backer inside showers and tub surrounds</td><td>Not gypsum drywall; heavy and rigid</td></tr>
+        </tbody>
+      </table>
+      <p>Building codes decide where Type X and moisture-resistant board are required, so check local rules for garages, shared walls and bathrooms.</p>
+
       <h2 id="sizes">Drywall sheet sizes</h2>
       <table>
         <thead><tr><th>Size</th><th>Area</th><th>Good for</th></tr></thead>

@@ -70,3 +70,14 @@ test("fence metric: 30 m, 2.4 m spacing, no gate → 14 posts; toggling units co
   await expect(page.locator("#len")).toHaveValue("30.48");
   await expect(page.getByTestId("posts")).toHaveText("14 posts");
 });
+
+test("gap fixes: fence shadowbox + concrete; decking stairs", async ({ page }) => {
+  await page.goto("/fence-calculator/");
+  await expect(page.getByTestId("concrete")).toHaveText("0.92 cu ft");
+  await expect(page.getByTestId("bags")).toHaveText("22");
+  await page.goto("/fence-calculator/?style=shadowbox");
+  await expect(page.getByTestId("pickets")).toHaveText("269");
+  await page.goto("/decking-calculator/?steps=3");
+  await expect(page.getByTestId("stairs")).toHaveText("6 pieces · 2 boards");
+  await expect(page.getByTestId("boards")).toHaveText("31 × 16 ft");
+});
