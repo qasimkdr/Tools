@@ -1,0 +1,14 @@
+{
+ "pages": {},
+ "failed": {
+  "https://www.omnicalculator.com/biology/gc-content-calculator": [
+   "HTTP 404"
+  ],
+  "https://www.calculatored.com/gc-content-calculator": [
+   "fetch failed"
+  ],
+  "https://www.calculator.io/gc-content-calculator/": [
+   "HTTP 404"
+  ]
+ }
+}

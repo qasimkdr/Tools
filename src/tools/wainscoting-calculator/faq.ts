@@ -1,0 +1,9 @@
+export const faq = [
+  { q: "How do you calculate wainscoting panel width?", a: "Panel width = (wall width − stile width × (panels + 1)) ÷ panels. On a 144-inch wall with 4 panels and 3½-inch stiles: (144 − 3.5 × 5) ÷ 4 = 31.625 inches, or 31⅝ inches." },
+  { q: "How tall should wainscoting be?", a: "A common guideline is about one third of the wall height, which is roughly 32 to 36 inches on an 8-foot wall. Taller wainscoting, around 48 to 60 inches or two thirds of the wall, suits rooms with high ceilings or a more formal look." },
+  { q: "How far apart should wainscoting panels be?", a: "The spacing between boxes (the stile width) is usually kept the same as the top and bottom rails so the frame looks even; 3 to 4 inches is typical for picture-frame moulding. Keep it identical across the wall." },
+  { q: "How much moulding do I need for picture-frame wainscoting?", a: "Each box needs 2 × (width + height) of moulding. Multiply by the number of boxes and add 10–15% for miter cuts and mistakes, then divide by the stick length to get sticks to buy." },
+  { q: "Should every wall have the same panel width?", a: "Panels look best when they are close in width from wall to wall, but each wall usually needs its own count. Pick the count that gets each wall near the same width rather than forcing identical boxes." },
+  { q: "Do you use baseboard with wainscoting?", a: "Usually yes. The baseboard runs along the floor below the panels, and its height is part of the bottom rail in this calculator, so include it when you enter the bottom rail." },
+  { q: "How do I handle outlets and windows?", a: "Lay out the wall first, then check where outlets, switches and window trim fall. Shifting the panel count by one, or using a narrower box under a window, usually avoids cutting a frame around an outlet." },
+];

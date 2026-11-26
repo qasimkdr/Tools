@@ -1,0 +1,166 @@
+{
+ "keywords": {
+  "gc calculator": {
+   "fetchedAt": "2026-11-26T03:00:51.994Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1300,
+   "fileKd": 6,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://community.agilent.com/technical/gc/w/wiki/9736/gc-calculators",
+     "domain": "community.agilent.com",
+     "title": "gc calculators",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://community.agilent.com/knowledge/gc-portal/kmp/gc-articles/kp553.agilent-gc-calculators",
+     "domain": "community.agilent.com",
+     "title": "Agilent GC calculators",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.genome.iastate.edu/tools/share/DNAgcCal",
+     "domain": "www.genome.iastate.edu",
+     "title": "DNA GC content calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://mycalcbuddy.com/biology/dna-gc-content",
+     "domain": "mycalcbuddy.com",
+     "title": "DNA GC Content Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.sciencebuddies.org/science-fair-projects/project_ideas/Genom_GC_Calculator.shtml",
+     "domain": "www.sciencebuddies.org",
+     "title": "Genomics %G~C Content Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://genengnews.com/resources/gc-calculator",
+     "domain": "genengnews.com",
+     "title": "GC calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://mycalcbuddy.com/biology/gc-content-calculator",
+     "domain": "mycalcbuddy.com",
+     "title": "GC Content Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://everycalculators.com/gc-content-calculator.html",
+     "domain": "everycalculators.com",
+     "title": "Calculate Your GC Content",
+     "description": null
+    },
+    {
+     "rank": 9,
+     "url": "https://www.peakscientific.com/news/peak-scientific-introduces-new-gc-gas-calculator",
+     "domain": "www.peakscientific.com",
+     "title": "Peak Scientific GC gas calculator",
+     "description": null
+    },
+    {
+     "rank": 10,
+     "url": "https://restek.com/articles/EZGC-online-tools",
+     "domain": "restek.com",
+     "title": "EZGC Online Tools",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "gc-calculator",
+ "page": "gc-calculator",
+ "category": "everyday",
+ "name": "Gc Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-26T03:00:51.995Z",
+ "topCompetitors": [
+  {
+   "domain": "agilent.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://community.agilent.com/technical/gc/w/wiki/9736/gc-calculators",
+    "https://community.agilent.com/knowledge/gc-portal/kmp/gc-articles/kp553.agilent-gc-calculators"
+   ]
+  },
+  {
+   "domain": "mycalcbuddy.com",
+   "bestRank": 4,
+   "keywords": 2,
+   "urls": [
+    "https://mycalcbuddy.com/biology/dna-gc-content",
+    "https://mycalcbuddy.com/biology/gc-content-calculator"
+   ]
+  },
+  {
+   "domain": "iastate.edu",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.genome.iastate.edu/tools/share/DNAgcCal"
+   ]
+  },
+  {
+   "domain": "sciencebuddies.org",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.sciencebuddies.org/science-fair-projects/project_ideas/Genom_GC_Calculator.shtml"
+   ]
+  },
+  {
+   "domain": "genengnews.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://genengnews.com/resources/gc-calculator"
+   ]
+  },
+  {
+   "domain": "everycalculators.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://everycalculators.com/gc-content-calculator.html"
+   ]
+  },
+  {
+   "domain": "peakscientific.com",
+   "bestRank": 9,
+   "keywords": 1,
+   "urls": [
+    "https://www.peakscientific.com/news/peak-scientific-introduces-new-gc-gas-calculator"
+   ]
+  },
+  {
+   "domain": "restek.com",
+   "bestRank": 10,
+   "keywords": 1,
+   "urls": [
+    "https://restek.com/articles/EZGC-online-tools"
+   ]
+  }
+ ]
+}

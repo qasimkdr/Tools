@@ -4,7 +4,7 @@ const meta: ToolMeta = {
   slug: "voo-calculator",
   name: "VOO Calculator",
   title: "VOO Calculator: Vanguard S&P 500 ETF Growth Projection",
-  description: "Project what a VOO investment could grow to with monthly contributions, the 0.03% expense ratio and inflation, and compare your return assumption with VOO's record.",
+  description: "Project what a VOO investment could grow to with monthly contributions, the 0.03% expense ratio and inflation, and compare your return with VOO's record.",
   short: "Project a Vanguard S&P 500 ETF (VOO) investment with contributions and fees.",
   category: "finance",
   primaryKw: "voo calculator",

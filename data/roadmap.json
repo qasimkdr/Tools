@@ -11920,7 +11920,7 @@
    ],
    "competitors": [],
    "category": "everyday",
-   "status": "todo",
+   "status": "live",
    "order": 138,
    "batch": 14
   },
@@ -11949,7 +11949,7 @@
    ],
    "competitors": [],
    "category": "finance",
-   "status": "todo",
+   "status": "live",
    "order": 139,
    "batch": 14
   },
@@ -11978,7 +11978,7 @@
    ],
    "competitors": [],
    "category": "construction",
-   "status": "todo",
+   "status": "live",
    "order": 140,
    "batch": 14
   },

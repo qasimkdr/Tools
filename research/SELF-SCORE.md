@@ -1,6 +1,6 @@
 # Self-score vs competitors
 
-Generated 2026-11-25 with the same rule-based rubric as research reports (report.mjs score()).
+Generated 2026-11-26 with the same rule-based rubric as research reports (report.mjs score()).
 Rule-based on-page signals only — not rankings.
 
 | Tool | Ours | C | F | UX | T | L | S | Best competitor | Their score | Result |
@@ -75,7 +75,7 @@ Rule-based on-page signals only — not rankings.
 | horse-gestation-calculator | **25/30** | 5 | 2 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 19/30 | ahead |
 | linear-feet-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 25/30 | ahead |
 | pro-rata-calculator | **26/30** | 4 | 3 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
-| water-intake-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 23/30 | ahead |
+| water-intake-calculator | **25/30** | 5 | 2 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 23/30 | ahead |
 | steps-to-miles-calculator | **26/30** | 5 | 2 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 25/30 | ahead |
 | minecraft-circle | **24/30** | 4 | 2 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 16/30 | ahead |
 | density-altitude-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 15/25 | ahead |
@@ -137,6 +137,6 @@ Rule-based on-page signals only — not rankings.
 | army-fitness-test-aft-calculator | **27/30** | 5 | 3 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
 | cement-block-calculator | **27/30** | 5 | 4 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 24/30 | ahead |
 | basis-point-calculator | **23/25** | 5 | null | 5 | 4 | 4 | 5 | www.inchcalculator.com | 24/30 | ahead |
-| anniversary-calculator | **24/30** | 5 | 2 | 5 | 3 | 4 | 5 | www.omnicalculator.com | 17/25 | ahead |
-| rounding-calculator | **24/30** | 4 | 2 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
-| voo-calculator | **26/30** | 5 | 4 | 5 | 3 | 4 | 5 | www.omnicalculator.com | 21/30 | ahead |
+| gc-calculator | **25/30** | 5 | 2 | 5 | 4 | 4 | 5 | — | — | no data |
+| llc-tax-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.smartasset.com | 16/30 | ahead |
+| wainscoting-calculator | **26/30** | 5 | 4 | 5 | 3 | 4 | 5 | www.inchcalculator.com | 25/30 | ahead |

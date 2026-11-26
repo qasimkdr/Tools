@@ -1,0 +1,150 @@
+{
+ "keywords": {
+  "wainscoting calculator": {
+   "fetchedAt": "2026-11-26T03:00:52.318Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1300,
+   "fileKd": 9,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://omnicalculator.com/construction/wainscoting",
+     "domain": "omnicalculator.com",
+     "title": "Omni Calculator logo",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.inchcalculator.com/wainscoting-layout-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Wainscoting Layout Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://calculator.academy/wainscoting-calculator/",
+     "domain": "calculator.academy",
+     "title": "Wainscoting Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.thisiscarpentry.com/2008/08/29/wainscot-layout-made-easy/",
+     "domain": "www.thisiscarpentry.com",
+     "title": "Wainscot layout made easy",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://calculator.uk.com/math-engineering/wainscoting-calculator",
+     "domain": "calculator.uk.com",
+     "title": "Wainscoting Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://calculatequick.com/construction/wainscoting-calculator/",
+     "domain": "calculatequick.com",
+     "title": "Wainscoting Panel Moulding Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://wallpanelsworld.co.uk/wainscoting-panelling-calculator",
+     "domain": "wallpanelsworld.co.uk",
+     "title": "Wainscoting Calculator Designer",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://dgfloors.com/wainscoting-calculator/",
+     "domain": "dgfloors.com",
+     "title": "wainscoting calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "wainscoting-calculator",
+ "page": "wainscoting-calculator",
+ "category": "construction",
+ "name": "Wainscoting Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-26T03:00:52.318Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://omnicalculator.com/construction/wainscoting"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/wainscoting-layout-calculator/"
+   ]
+  },
+  {
+   "domain": "calculator.academy",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://calculator.academy/wainscoting-calculator/"
+   ]
+  },
+  {
+   "domain": "thisiscarpentry.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.thisiscarpentry.com/2008/08/29/wainscot-layout-made-easy/"
+   ]
+  },
+  {
+   "domain": "uk.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://calculator.uk.com/math-engineering/wainscoting-calculator"
+   ]
+  },
+  {
+   "domain": "calculatequick.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://calculatequick.com/construction/wainscoting-calculator/"
+   ]
+  },
+  {
+   "domain": "wallpanelsworld.co.uk",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://wallpanelsworld.co.uk/wainscoting-panelling-calculator"
+   ]
+  },
+  {
+   "domain": "dgfloors.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://dgfloors.com/wainscoting-calculator/"
+   ]
+  }
+ ]
+}

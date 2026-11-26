@@ -1,0 +1,315 @@
+{
+ "pages": {
+  "https://www.smartasset.com/taxes/llc-tax-rates-and-rules": {
+   "url": "https://www.smartasset.com/taxes/llc-tax-rates-and-rules",
+   "finalUrl": "https://www.smartasset.com/taxes/llc-tax-rates-and-rules",
+   "mode": "offline-parse",
+   "domain": "www.smartasset.com",
+   "fetchedAt": "2026-11-26T03:01:39.762Z",
+   "title": "LLC Tax Rates and Rules",
+   "metaDescription": "Tax rates will be determined by the type of LLC that you have and your personal income tax rate. Here's what you need to know.",
+   "canonical": "https://smartasset.com/taxes/llc-tax-rates-and-rules",
+   "robotsMeta": "index",
+   "lang": "en",
+   "h1": [],
+   "h2": [
+    "What Is an LLC?",
+    "How Are LLCs Taxed?",
+    "LLC Tax Rate",
+    "Income Tax Calculator",
+    "Why an LLC Owner May Pay More Than Income Tax",
+    "Bottom Line",
+    "Tax Tips for Small Business Owners"
+   ],
+   "h3": [
+    "Your 2025 Total Income Taxes"
+   ],
+   "outline": [
+    {
+     "level": 2,
+     "text": "What Is an LLC?"
+    },
+    {
+     "level": 2,
+     "text": "How Are LLCs Taxed?"
+    },
+    {
+     "level": 2,
+     "text": "LLC Tax Rate"
+    },
+    {
+     "level": 2,
+     "text": "Income Tax Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Your 2025 Total Income Taxes"
+    },
+    {
+     "level": 4,
+     "text": "Federal Income & FICA Taxes"
+    },
+    {
+     "level": 4,
+     "text": "State Taxes"
+    },
+    {
+     "level": 4,
+     "text": "Local Taxes"
+    },
+    {
+     "level": 2,
+     "text": "Why an LLC Owner May Pay More Than Income Tax"
+    },
+    {
+     "level": 2,
+     "text": "Bottom Line"
+    },
+    {
+     "level": 2,
+     "text": "Tax Tips for Small Business Owners"
+    }
+   ],
+   "wordCount": 1697,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "What Is an LLC?",
+    "How Are LLCs Taxed?",
+    "When Do We Update?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "tax",
+     "weight": 58
+    },
+    {
+     "term": "llc",
+     "weight": 35
+    },
+    {
+     "term": "income",
+     "weight": 28
+    },
+    {
+     "term": "income tax",
+     "weight": 23
+    },
+    {
+     "term": "federal",
+     "weight": 17
+    },
+    {
+     "term": "federal income",
+     "weight": 15
+    },
+    {
+     "term": "business",
+     "weight": 14
+    },
+    {
+     "term": "tax rate",
+     "weight": 14
+    },
+    {
+     "term": "llcs",
+     "weight": 13
+    },
+    {
+     "term": "taxes",
+     "weight": 13
+    },
+    {
+     "term": "rate",
+     "weight": 12
+    },
+    {
+     "term": "member",
+     "weight": 11
+    },
+    {
+     "term": "self employment",
+     "weight": 11
+    },
+    {
+     "term": "small business",
+     "weight": 9
+    },
+    {
+     "term": "have",
+     "weight": 9
+    },
+    {
+     "term": "state",
+     "weight": 9
+    },
+    {
+     "term": "federal tax",
+     "weight": 9
+    },
+    {
+     "term": "employment",
+     "weight": 9
+    },
+    {
+     "term": "employment tax",
+     "weight": 9
+    },
+    {
+     "term": "financial",
+     "weight": 8
+    },
+    {
+     "term": "self",
+     "weight": 8
+    },
+    {
+     "term": "taxed",
+     "weight": 8
+    },
+    {
+     "term": "generally",
+     "weight": 8
+    },
+    {
+     "term": "apply",
+     "weight": 7
+    },
+    {
+     "term": "owners",
+     "weight": 7
+    },
+    {
+     "term": "filing",
+     "weight": 7
+    },
+    {
+     "term": "small",
+     "weight": 6
+    },
+    {
+     "term": "llc tax",
+     "weight": 6
+    },
+    {
+     "term": "advisor",
+     "weight": 6
+    },
+    {
+     "term": "partnership",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Income Tax Calculator Calculate your federal, state and local taxes for the 2025 tax year.",
+    "$92,350 × 15.3% = $14,129.55 The owner would therefore have $14,129.55 of self-employment tax in addition to any federal income tax they owe.",
+    "That adjustment affects the income-tax calculation; it does not decrease the $14,129.55 self-employment tax shown above.",
+    "Depending on filing status and earned income, the 0.9% Additional Medicare Tax may also come into play."
+   ],
+   "schemaTypes": [
+    "NewsArticle"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 9,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "ZIP code",
+    "Household Income",
+    "Location",
+    "Filing Status",
+    "Deduction Type"
+   ],
+   "selectOptionsSample": "single married, filing jointly head of household married filing separately standard deduction itemized deduction",
+   "unitToggle": false,
+   "wordsBeforeTool": 447,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Andrew J. Dehan",
+    "published": "2022-11-22T15:43:48.000Z",
+    "modified": "2026-10-09T15:14:36.000Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 175,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 6,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 146,
+    "external": 11,
+    "contentInternal": 12,
+    "contentExternal": 2,
+    "internalAnchors": [
+     "editorial integrity",
+     "work directly with a financial advisor",
+     "LLC",
+     "sole proprietorship",
+     "S Corp",
+     "C Corp",
+     "federal income tax brackets",
+     "long-term capital gains tax rates",
+     "self-employment tax calculation",
+     "SmartAsset’s free tool",
+     "get started now",
+     "SmartAsset’s small business tax guide"
+    ],
+    "internalSample": [
+     "https://www.smartasset.com/editorial-independence",
+     "https://smartasset.com/retirement/find-a-financial-planner?utm_source=smartasset&utm_medium=referral&utm_campaign=sma__falc_relevant&utm_content=llctaxrate",
+     "https://smartasset.com/taxes/what-are-the-tax-benefits-of-an-llc",
+     "https://smartasset.com/financial-advisor/sole-proprietorship",
+     "https://smartasset.com/wp-content/uploads/sites/2/2022/11/small-business.jpg_s1024x1024wisk20czeIq8nzQJ0ct_ZRy7qZKJLQMIOW6IqEaKPBqlmkBwgc.jpg",
+     "https://smartasset.com/financial-advisor/s-corp-vs-llc",
+     "https://smartasset.com/financial-advisor/s-corp-vs-c-corp-tax-advantages",
+     "https://smartasset.com/taxes/current-federal-income-tax-brackets",
+     "https://smartasset.com/taxes/2021-capital-gains-tax-rates",
+     "https://smartasset.com/taxes/self-employment-tax",
+     "https://smartasset.com/wp-content/uploads/sites/2/2022/11/one-to-one-business-meeting.jpg_s1024x1024wisk20ca2oj_JFapQPX3EAyykcGbHs0GH43nREc1on5SEI4JNw.jpg",
+     "https://smartasset.com/taxes/small-business-taxes"
+    ],
+    "externalSample": [
+     "https://x.com/intent/post?original_referer=https://smartasset.com&source=tweetbutton&text=X&url=https://x.com/smartasset&via=SmartAsset%22",
+     "https://www.facebook.com/sharer/sharer.php?u=https://www.facebook.com/smartasset"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.calculator.net/self-employment-tax-calculator.html": [
+   "HTTP 404"
+  ],
+  "https://www.omnicalculator.com/finance/self-employed-tax": [
+   "HTTP 404"
+  ],
+  "https://www.nerdwallet.com/taxes/learn/llc-taxes": [
+   "disallowed by robots.txt"
+  ]
+ }
+}

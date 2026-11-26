@@ -1,0 +1,143 @@
+{
+ "keywords": {
+  "llc tax calculator": {
+   "fetchedAt": "2026-11-26T03:00:52.177Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1000,
+   "fileKd": 12,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.upcounsel.com/llc-tax-rate-calculator",
+     "domain": "www.upcounsel.com",
+     "title": "llc tax rate calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.embroker.com/blog/llc-tax-calculator/",
+     "domain": "www.embroker.com",
+     "title": "Free LLC Tax Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.bench.co/blog/tax-tips/llc-taxes",
+     "domain": "www.bench.co",
+     "title": "The Complete Guide to LLC Taxes",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://taxbracketcalc.com/business-tax/llc-tax-calculator/",
+     "domain": "taxbracketcalc.com",
+     "title": "LLC Tax Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://flyfin.tax/business/llc/llc-tax-calculator",
+     "domain": "flyfin.tax",
+     "title": "1099 Tax Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://smartasset.com/taxes/llc-tax-rates-and-rules",
+     "domain": "smartasset.com",
+     "title": "LLC tax rates and rules",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.bench.co/blog/tax-tips/llc-tax-rate",
+     "domain": "www.bench.co",
+     "title": "What's the LLC Tax Rate?",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://venturesmarter.com/llc-tax-calculator/",
+     "domain": "venturesmarter.com",
+     "title": "How to Calculate LLC Taxes?",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "llc-tax-calculator",
+ "page": "llc-tax-calculator",
+ "category": "finance",
+ "name": "Llc Tax Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-26T03:00:52.177Z",
+ "topCompetitors": [
+  {
+   "domain": "bench.co",
+   "bestRank": 3,
+   "keywords": 2,
+   "urls": [
+    "https://www.bench.co/blog/tax-tips/llc-taxes",
+    "https://www.bench.co/blog/tax-tips/llc-tax-rate"
+   ]
+  },
+  {
+   "domain": "upcounsel.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.upcounsel.com/llc-tax-rate-calculator"
+   ]
+  },
+  {
+   "domain": "embroker.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.embroker.com/blog/llc-tax-calculator/"
+   ]
+  },
+  {
+   "domain": "taxbracketcalc.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://taxbracketcalc.com/business-tax/llc-tax-calculator/"
+   ]
+  },
+  {
+   "domain": "flyfin.tax",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://flyfin.tax/business/llc/llc-tax-calculator"
+   ]
+  },
+  {
+   "domain": "smartasset.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://smartasset.com/taxes/llc-tax-rates-and-rules"
+   ]
+  },
+  {
+   "domain": "venturesmarter.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://venturesmarter.com/llc-tax-calculator/"
+   ]
+  }
+ ]
+}

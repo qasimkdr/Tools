@@ -1,0 +1,699 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/construction/wainscoting": {
+   "url": "https://www.omnicalculator.com/construction/wainscoting",
+   "finalUrl": "https://www.omnicalculator.com/construction/wainscoting",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-26T03:01:19.022Z",
+   "title": "Wainscoting Calculator",
+   "metaDescription": "This wainscoting calculator will help you calculate the measurements and dimensions concerning your DIY wainscoting or board and batten project. We also explain the basics of wainscoting installation and some other information you might find useful.",
+   "canonical": "https://www.omnicalculator.com/construction/wainscoting",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Wainscoting Calculator"
+   ],
+   "h2": [
+    "What is wainscoting?",
+    "How to install wainscoting?",
+    "Determining the dimensions of the wainscoting panels",
+    "Sample wainscoting wall computation",
+    "Wainscoting VS board and battens wall"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Wainscoting Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is wainscoting?"
+    },
+    {
+     "level": 2,
+     "text": "How to install wainscoting?"
+    },
+    {
+     "level": 2,
+     "text": "Determining the dimensions of the wainscoting panels"
+    },
+    {
+     "level": 2,
+     "text": "Sample wainscoting wall computation"
+    },
+    {
+     "level": 2,
+     "text": "Wainscoting VS board and battens wall"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1517,
+   "avgSentenceWords": 25,
+   "faqs": [
+    "What is wainscoting?",
+    "How to install wainscoting?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "wainscoting",
+     "weight": 55
+    },
+    {
+     "term": "wall",
+     "weight": 35
+    },
+    {
+     "term": "calculator",
+     "weight": 16
+    },
+    {
+     "term": "wainscoting wall",
+     "weight": 14
+    },
+    {
+     "term": "height",
+     "weight": 13
+    },
+    {
+     "term": "panel",
+     "weight": 13
+    },
+    {
+     "term": "panels",
+     "weight": 12
+    },
+    {
+     "term": "width",
+     "weight": 12
+    },
+    {
+     "term": "cap",
+     "weight": 10
+    },
+    {
+     "term": "baseboard",
+     "weight": 10
+    },
+    {
+     "term": "install",
+     "weight": 10
+    },
+    {
+     "term": "board",
+     "weight": 9
+    },
+    {
+     "term": "design",
+     "weight": 9
+    },
+    {
+     "term": "stiles",
+     "weight": 9
+    },
+    {
+     "term": "spacing",
+     "weight": 8
+    },
+    {
+     "term": "rail",
+     "weight": 8
+    },
+    {
+     "term": "measurements",
+     "weight": 8
+    },
+    {
+     "term": "widths",
+     "weight": 8
+    },
+    {
+     "term": "wainscoting calculator",
+     "weight": 8
+    },
+    {
+     "term": "panel width",
+     "weight": 8
+    },
+    {
+     "term": "have",
+     "weight": 7
+    },
+    {
+     "term": "top rail",
+     "weight": 6
+    },
+    {
+     "term": "solve",
+     "weight": 6
+    },
+    {
+     "term": "dimensions",
+     "weight": 6
+    },
+    {
+     "term": "install wainscoting",
+     "weight": 6
+    },
+    {
+     "term": "paint",
+     "weight": 6
+    },
+    {
+     "term": "cap molding",
+     "weight": 6
+    },
+    {
+     "term": "widthpanel",
+     "weight": 6
+    },
+    {
+     "term": "spacing between",
+     "weight": 6
+    },
+    {
+     "term": "equation",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "This wainscoting height, also known as chair rail height, is around 32 inches or approximately 80 cm for an 8-foot high wall.",
+    "Sample wainscoting wall computation As a sample computation, let us consider a 3-meter (300-cm) feature wall, onto which we want to install a 4-panel wainscoting wall with a chair rail height of 90 centimeters.",
+    "For this wainscoting, let's say we chose the recessed panel design and we want to use 10-cm boards for the baseboard, stiles, and top rail."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 4,
+   "images": 5,
+   "videos": 0,
+   "calculatorInputs": [
+    "Wainscoting type"
+   ],
+   "selectOptionsSample": "select shadow box recessed panel",
+   "unitToggle": false,
+   "wordsBeforeTool": 4,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Kenneth Alambra",
+    "published": "2020-06-18T23:10:56.622Z",
+    "modified": "2023-06-05T12:57:44.479Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 612,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 24,
+    "external": 1,
+    "contentInternal": 8,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Determining the dimensions of the wainscoting panels",
+     "framing calculator",
+     "paint calculator",
+     "vinyl siding calculator",
+     "plywood calculator",
+     "drywall calculator",
+     "Stone Weight Calculator",
+     "Board and Batten Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/construction/wainscoting#determining-the-dimensions-of-the-wainscoting-panels",
+     "https://www.omnicalculator.com/construction/framing",
+     "https://www.omnicalculator.com/construction/paint",
+     "https://www.omnicalculator.com/construction/vinyl-siding",
+     "https://www.omnicalculator.com/construction/plywood",
+     "https://www.omnicalculator.com/construction/drywall",
+     "https://www.omnicalculator.com/construction/stone",
+     "https://www.omnicalculator.com/construction/board-and-batten"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/wainscoting-layout-calculator/": {
+   "url": "https://www.inchcalculator.com/wainscoting-layout-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/wainscoting-layout-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-26T03:01:22.228Z",
+   "title": "Wainscoting Layout Calculator - Inch Calculator",
+   "metaDescription": "Layout wainscoting panels and stiles for an even look. Find panel and stile dimensions and locations for wainscoting and board and batten paneling.",
+   "canonical": "https://www.inchcalculator.com/wainscoting-layout-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Wainscoting Layout Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Wall Layout: Using Number of Panels",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Lay Out Wainscoting",
+    "How to Estimate Wainscoting Materials",
+    "Handling Inner Corners",
+    "Additional Carpentry Resources",
+    "Frequently Asked Questions",
+    "Similar Carpentry Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Layout Drawing:",
+    "Stile Locations:",
+    "Layout Drawing:",
+    "Stile Locations:",
+    "Step One: Measure Each Wall",
+    "Step Two: Decide The Number of Panels on Each Wall",
+    "Step Three: Determine the Rail and Stile Width",
+    "Step Four: Calculate the Panel Width",
+    "Step Five: Determine Stile Length",
+    "Step Six: Lay Out the Panels and Stiles",
+    "Estimate the Amount of Wainscoting Stile Material Needed",
+    "Estimate the Amount of Wainscoting Panel Material Needed",
+    "How far apart should wainscoting be?",
+    "How tall should wainscoting be?",
+    "Do you use baseboard with wainscoting?",
+    "Should you roll or brush to paint wainscoting?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Wainscoting Layout Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Wall Layout: Using Number of Panels"
+    },
+    {
+     "level": 3,
+     "text": "Layout Drawing:"
+    },
+    {
+     "level": 3,
+     "text": "Stile Locations:"
+    },
+    {
+     "level": 3,
+     "text": "Layout Drawing:"
+    },
+    {
+     "level": 3,
+     "text": "Stile Locations:"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Lay Out Wainscoting"
+    },
+    {
+     "level": 3,
+     "text": "Step One: Measure Each Wall"
+    },
+    {
+     "level": 3,
+     "text": "Step Two: Decide The Number of Panels on Each Wall"
+    },
+    {
+     "level": 3,
+     "text": "Step Three: Determine the Rail and Stile Width"
+    },
+    {
+     "level": 3,
+     "text": "Step Four: Calculate the Panel Width"
+    },
+    {
+     "level": 3,
+     "text": "Step Five: Determine Stile Length"
+    },
+    {
+     "level": 3,
+     "text": "Step Six: Lay Out the Panels and Stiles"
+    },
+    {
+     "level": 2,
+     "text": "How to Estimate Wainscoting Materials"
+    },
+    {
+     "level": 3,
+     "text": "Estimate the Amount of Wainscoting Stile Material Needed"
+    },
+    {
+     "level": 3,
+     "text": "Estimate the Amount of Wainscoting Panel Material Needed"
+    },
+    {
+     "level": 2,
+     "text": "Handling Inner Corners"
+    },
+    {
+     "level": 2,
+     "text": "Additional Carpentry Resources"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "How far apart should wainscoting be?"
+    },
+    {
+     "level": 3,
+     "text": "How tall should wainscoting be?"
+    },
+    {
+     "level": 3,
+     "text": "Do you use baseboard with wainscoting?"
+    },
+    {
+     "level": 3,
+     "text": "Should you roll or brush to paint wainscoting?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Carpentry Calculators"
+    }
+   ],
+   "wordCount": 2051,
+   "avgSentenceWords": 24,
+   "faqs": [
+    "How far apart should wainscoting be?",
+    "How tall should wainscoting be?",
+    "Do you use baseboard with wainscoting?",
+    "Should you roll or brush to paint wainscoting?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "panel",
+     "weight": 51
+    },
+    {
+     "term": "width",
+     "weight": 48
+    },
+    {
+     "term": "stile",
+     "weight": 41
+    },
+    {
+     "term": "panels",
+     "weight": 39
+    },
+    {
+     "term": "wainscoting",
+     "weight": 35
+    },
+    {
+     "term": "wall",
+     "weight": 31
+    },
+    {
+     "term": "stiles",
+     "weight": 18
+    },
+    {
+     "term": "rail",
+     "weight": 16
+    },
+    {
+     "term": "number",
+     "weight": 15
+    },
+    {
+     "term": "stile width",
+     "weight": 15
+    },
+    {
+     "term": "panel width",
+     "weight": 15
+    },
+    {
+     "term": "layout",
+     "weight": 14
+    },
+    {
+     "term": "find",
+     "weight": 14
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "step",
+     "weight": 13
+    },
+    {
+     "term": "material needed",
+     "weight": 12
+    },
+    {
+     "term": "needed",
+     "weight": 12
+    },
+    {
+     "term": "height",
+     "weight": 12
+    },
+    {
+     "term": "size",
+     "weight": 11
+    },
+    {
+     "term": "length",
+     "weight": 11
+    },
+    {
+     "term": "material",
+     "weight": 10
+    },
+    {
+     "term": "lay",
+     "weight": 9
+    },
+    {
+     "term": "wall width",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "determine",
+     "weight": 8
+    },
+    {
+     "term": "moldings",
+     "weight": 8
+    },
+    {
+     "term": "width stile",
+     "weight": 8
+    },
+    {
+     "term": "top rail",
+     "weight": 8
+    },
+    {
+     "term": "add",
+     "weight": 7
+    },
+    {
+     "term": "estimate",
+     "weight": 7
+    }
+   ],
+   "claims": [
+    "stile length = wainscoting height – top rail width – bottom rail width Step Six: Lay Out the Panels and Stiles To start laying out the stiles, locate the first stile, which would be from 0″ to the stile width.",
+    "Estimate the Amount of Wainscoting Stile Material Needed To find the length of stile material needed, find the height of each stile and multiply by the number of panels, then add 1.",
+    "Panel interior size can range from 12″ to 36″, but wainscoting comes in many styles, including some with much tighter spacing."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 2,
+   "images": 8,
+   "videos": 0,
+   "calculatorInputs": [
+    "Wall Width",
+    "Wall Width Units",
+    "Stile Width",
+    "Stile Width Units",
+    "Number of Panels",
+    "Wall Width",
+    "Wall Width Units",
+    "Stile Width",
+    "Stile Width Units",
+    "Approx Panel Width",
+    "Approx Panel Width Units"
+   ],
+   "selectOptionsSample": "in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m in ft yd cm m",
+   "unitToggle": true,
+   "wordsBeforeTool": 50,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2016-12-11",
+    "modified": "2023-05-10T13:44:37+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 143,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 55,
+    "external": 13,
+    "contentInternal": 31,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Lay Out Wainscoting",
+     "Step One: Measure Each Wall",
+     "Step Two: Decide The Number of Panels on Each Wall",
+     "Step Three: Determine the Rail and Stile Width",
+     "Step Four: Calculate the Panel Width",
+     "Step Five: Determine Stile Length",
+     "Step Six: Lay Out the Panels and Stiles",
+     "How to Estimate Wainscoting Materials",
+     "Estimate the Amount of Wainscoting Stile Material Needed",
+     "Estimate the Amount of Wainscoting Panel Material Needed",
+     "Handling Inner Corners",
+     "Additional Carpentry Resources",
+     "Frequently Asked Questions",
+     "Full bio",
+     "Wainscoting Layout Calculator",
+     "board and batten",
+     "Get Free Estimates"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/wainscoting-layout-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/wainscoting/",
+     "https://www.inchcalculator.com/wainscoting-layout-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/wainscoting-layout-calculator/#idx_how_to_lay_out_wainscoting",
+     "https://www.inchcalculator.com/wainscoting-layout-calculator/#idx_step_one_measure_each_wall",
+     "https://www.inchcalculator.com/wainscoting-layout-calculator/#idx_step_two_decide_the_number_of_panels_on_each_wall",
+     "https://www.inchcalculator.com/wainscoting-layout-calculator/#idx_step_three_determine_the_rail_and_stile_width",
+     "https://www.inchcalculator.com/wainscoting-layout-calculator/#idx_step_four_calculate_the_panel_width",
+     "https://www.inchcalculator.com/wainscoting-layout-calculator/#idx_step_five_determine_stile_length",
+     "https://www.inchcalculator.com/wainscoting-layout-calculator/#idx_step_six_lay_out_the_panels_and_stiles",
+     "https://www.inchcalculator.com/wainscoting-layout-calculator/#idx_how_to_estimate_wainscoting_materials",
+     "https://www.inchcalculator.com/wainscoting-layout-calculator/#idx_estimate_the_amount_of_wainscoting_stile_material_needed",
+     "https://www.inchcalculator.com/wainscoting-layout-calculator/#idx_estimate_the_amount_of_wainscoting_panel_material_needed",
+     "https://www.inchcalculator.com/wainscoting-layout-calculator/#idx_handling_inner_corners",
+     "https://www.inchcalculator.com/wainscoting-layout-calculator/#idx_additional_carpentry_resources",
+     "https://www.inchcalculator.com/wainscoting-layout-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/sarabeth-asaff-south/",
+     "https://www.inchcalculator.com/wainscoting-layout-calculator/",
+     "https://www.inchcalculator.com/board-and-batten-layout-calculator/",
+     "https://www.inchcalculator.com/get-free-home-repair-estimates/?preset_project_type=Carpentry&preset_service_id=",
+     "https://www.inchcalculator.com/convert/foot-to-inch/",
+     "https://www.inchcalculator.com/square-footage-calculator/",
+     "https://www.inchcalculator.com/trim-moulding-calculator/",
+     "https://www.inchcalculator.com/board-footage-calculator/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fwainscoting-layout-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fwainscoting-layout-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fwainscoting-layout-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fwainscoting-layout-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fwainscoting-layout-calculator%2F&text=Wainscoting+Layout+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fwainscoting-layout-calculator%2F&text=Wainscoting+Layout+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

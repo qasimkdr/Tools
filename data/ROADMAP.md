@@ -141,9 +141,9 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 14 on policy hold).
 | 135 | 14 | scheduled | Rounding Calculator | `rounding-calculator` | math | rounding calculator | 12100 | 29 | 37200 | 1 |
 | 136 | 14 | live | Tire Size Calculator | `tire-size-calculator` | science | tacoma tire calculator | 1600 | 17 | 15000 | 1 |
 | 137 | 14 | scheduled | Anniversary Calculator | `anniversary-calculator` | time-date | anniversary calculator | 1300 | 6 | 1300 | 1 |
-| 138 | 14 | todo | Gc Calculator | `gc-calculator` | everyday | gc calculator | 1300 | 6 | 1300 | 1 |
-| 139 | 14 | todo | Llc Tax Calculator | `llc-tax-calculator` | finance | llc tax calculator | 1000 | 12 | 1000 | 1 |
-| 140 | 14 | todo | Wainscoting Calculator | `wainscoting-calculator` | construction | wainscoting calculator | 1300 | 9 | 1300 | 1 |
+| 138 | 14 | live | Gc Calculator | `gc-calculator` | everyday | gc calculator | 1300 | 6 | 1300 | 1 |
+| 139 | 14 | live | Llc Tax Calculator | `llc-tax-calculator` | finance | llc tax calculator | 1000 | 12 | 1000 | 1 |
+| 140 | 14 | live | Wainscoting Calculator | `wainscoting-calculator` | construction | wainscoting calculator | 1300 | 9 | 1300 | 1 |
 | 141 | 15 | todo | Ovo Calculator | `ovo-calculator` | everyday | ovo calculator | 1900 | 12 | 1900 | 1 |
 | 142 | 15 | todo | Minecraft Sphere Generator | `minecraft-sphere-generator` | math | sphere minecraft generator | 1900 | 12 | 1900 | 1 |
 | 143 | 15 | todo | Study Score Calculator | `study-score-calculator` | education | study score calculator | 1900 | 12 | 1900 | 1 |
