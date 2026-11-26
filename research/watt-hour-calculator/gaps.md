@@ -9,7 +9,7 @@ Generated 2026-11-26 by scripts/seo/gaps.mjs from 2 inspected competitor page(s)
 | Share / copy link | omnicalculator.com, inchcalculator.com | ✓ |
 | Formula shown | omnicalculator.com, inchcalculator.com | ✓ |
 | Worked example | omnicalculator.com, inchcalculator.com | ✓ |
-| Step-by-step | omnicalculator.com | ✗ missing |
+| Step-by-step | omnicalculator.com | ✓ |
 | Cost estimate | inchcalculator.com | ✓ |
 | Table(s) | inchcalculator.com | ✓ |
 | Calculator inputs | most: 4 | 4 ✓ |

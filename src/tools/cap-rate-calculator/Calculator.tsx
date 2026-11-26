@@ -68,6 +68,20 @@ export default function CapRateCalculator() {
             </>}
             {target > 0 && <Stat k={`Value at a ${(target * 100).toFixed(2).replace(/\.?0+$/, "")}% cap rate`} v={<span data-testid="target-value">{usd(valueAtCap(noi, target))}</span>} />}
           </dl>
+          <details className="mt-3" open>
+            <summary className="cursor-pointer text-sm font-semibold">Step by step</summary>
+            <ol className="mt-2 list-decimal space-y-1 pl-5 text-sm" data-testid="steps">
+              {!quick && <>
+                <li>Gross income = ({usd(n("rent"))} + {usd(n("other"))}){mult === 12 ? " × 12" : ""} = {usd(d.gross)}</li>
+                <li>Vacancy = {usd(d.gross)} × {n("vac")}% = {usd(d.vacancy)}, so effective income = {usd(d.effective)}</li>
+                <li>Management = {usd(d.effective)} × {n("mgmt")}% = {usd(d.management)}</li>
+                <li>Operating expenses = {usd(n("tax"))} + {usd(n("ins"))} + {usd(n("maint"))} + {usd(d.management)} + {usd(n("oexp"))} = {usd(d.expenses)}</li>
+                <li>NOI = {usd(d.effective)} − {usd(d.expenses)} = {usd(noi)}</li>
+              </>}
+              <li>Cap rate = {usd(noi)} ÷ {usd(value)} = {pct(cap)}</li>
+              {target > 0 && <li>Value at {String(Math.round(target * 10000) / 100)}% = {usd(noi)} ÷ {String(target)} = {usd(valueAtCap(noi, target))}</li>}
+            </ol>
+          </details>
           {noi <= 0 && <p className="mt-2 text-sm">Expenses are higher than income, so the property has no positive cap rate at this price.</p>}
           <h2 className="mt-5 text-sm font-semibold">Value at different cap rates (this NOI)</h2>
           <table className="mt-2 w-full text-sm" data-testid="sens">

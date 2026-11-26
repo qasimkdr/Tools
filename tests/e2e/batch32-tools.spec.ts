@@ -73,3 +73,17 @@ test("gap fixes: drywall gables and sloped ceiling", async ({ page }) => {
   await page.goto("/drywall-calculator/?cp=6");
   await expect(page.getByTestId("net")).toHaveText("553 sq ft");
 });
+
+test("fix-these: weight loss chart + ETA; watt-hour and timecode steps", async ({ page }) => {
+  await page.goto("/weight-loss-percentage-calculator/");
+  await expect(page.getByTestId("eta")).toContainText("about 4 more weeks");
+  await expect(page.getByTestId("chart")).toBeVisible();
+  await page.goto("/watt-hour-calculator/");
+  await expect(page.getByTestId("steps")).toContainText("Watt-hours = 60 W × 8 h = 480.0 Wh");
+  await page.goto("/watt-hour-calculator/?mode=battery");
+  await expect(page.getByTestId("steps")).toContainText("Amp-hours = 5,000 mAh ÷ 1,000 = 5 Ah");
+  await page.goto("/timecode-calculator/?mode=tc&tc=01:00:00;00");
+  await expect(page.getByTestId("steps")).toContainText("minus 2 × (60 − 6) = 108 skipped numbers → 107,892 frames");
+  await page.goto("/timecode-calculator/?mode=frames&fr=107892");
+  await expect(page.getByTestId("steps")).toContainText("skipped = 108");
+});

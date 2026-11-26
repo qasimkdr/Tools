@@ -5,3 +5,4 @@
 lb/kg · goal progress with bar · weekly amount and % · 5/10/15/20% milestone table with status · handles gain · same-pounds-different-% table · tracking tips.
 ## Test cases
 160→145: 9.38%, goal 140 → 5.0 lb left, 75%, 10 weeks → 1.5 lb/week; 5% = 152.0 · 150→165: gained 15.0 lb, 10.00%.
+- Feature parity (seo:gaps, 2026-11-26): progress chart with projected weeks to goal; Imperial/Metric labels. Skipped: 'weight says little about health' essay (covered by the tips and CDC note).

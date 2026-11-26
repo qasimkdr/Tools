@@ -8,7 +8,7 @@ Generated 2026-11-26 by scripts/seo/gaps.mjs from 1 inspected competitor page(s)
 |---|---|---|
 | Share / copy link | omnicalculator.com | ✓ |
 | Worked example | omnicalculator.com | ✓ |
-| Step-by-step | omnicalculator.com | ✗ missing |
+| Step-by-step | omnicalculator.com | ✓ |
 | Calculator inputs | most: 0 | 3 ✓ |
 
 ## Content sections (H2/H3)

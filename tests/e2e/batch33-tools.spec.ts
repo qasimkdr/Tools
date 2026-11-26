@@ -81,3 +81,14 @@ test("gap fixes: fence shadowbox + concrete; decking stairs", async ({ page }) =
   await expect(page.getByTestId("stairs")).toHaveText("6 pieces · 2 boards");
   await expect(page.getByTestId("boards")).toHaveText("31 × 16 ft");
 });
+
+test("fix-these: decking metric (4.8 × 3.6 m, 140 mm, 3 mm, 4.8 m boards, 400 mm joists)", async ({ page }) => {
+  await page.goto("/decking-calculator/?u=m&l=4.8&w=3.6&gap=3&len=4.8&js=400");
+  await expect(page.getByTestId("rows")).toHaveText("26");
+  await expect(page.getByTestId("boards")).toHaveText("29 × 4.8 m");
+  await expect(page.getByTestId("joists")).toHaveText("13 × 3.6 m");
+  await page.goto("/decking-calculator/");
+  await page.getByRole("button", { name: "Metric (m, mm)" }).click();
+  await expect(page.locator("#l")).toHaveValue("4.88");
+  await expect(page.locator("#len")).toHaveValue("4.8");
+});

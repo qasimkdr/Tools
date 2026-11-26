@@ -14,11 +14,20 @@ export default function WeightLossPercentageCalculator() {
   const w = (x: number) => `${Math.abs(x).toFixed(1)} ${u}`;
   const gained = r ? r.lost < 0 : false;
   const prog = r && Number.isFinite(r.progress) ? Math.max(0, Math.min(1, r.progress)) : NaN;
+  // Projection at the current weekly pace (only when losing toward a lower goal).
+  const moreWeeks = r && r.perWeek > 0 && goal > 0 && goal < cur ? (cur - goal) / r.perWeek : NaN;
+  const chart = r && weeks > 0 && r.lost !== 0 ? (() => {
+    const endW = Number.isFinite(moreWeeks) ? weeks + moreWeeks : weeks;
+    const ys = [start, cur, ...(goal > 0 ? [goal] : [])];
+    const lo = Math.min(...ys), hi = Math.max(...ys), pad = (hi - lo) * 0.12 || 1;
+    const X = (w: number) => 40 + (w / endW) * 250, Y = (v: number) => 12 + ((hi + pad - v) / (hi - lo + 2 * pad)) * 120;
+    return { endW, X, Y, lo, hi };
+  })() : null;
 
   return (
     <div className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_minmax(0,1fr)]">
       <form className="space-y-5" onSubmit={(e) => e.preventDefault()} aria-label="Weight loss percentage calculator">
-        <Segmented label="Units" value={u} onChange={(v) => set("u", v)} options={[{ id: "lb", label: "Pounds" }, { id: "kg", label: "Kilograms" }]} />
+        <Segmented label="Units" value={u} onChange={(v) => set("u", v)} options={[{ id: "lb", label: "Imperial (lb)" }, { id: "kg", label: "Metric (kg)" }]} />
         <div className="grid grid-cols-2 gap-3">
           <Field id="start" label="Starting weight" suffix={u} value={s.start} onChange={(v) => set("start", v)} min={0} />
           <Field id="cur" label="Current weight" suffix={u} value={s.cur} onChange={(v) => set("cur", v)} min={0} />
@@ -40,6 +49,19 @@ export default function WeightLossPercentageCalculator() {
               <Stat k="Percent per week" v={pct(Math.abs(r.pctPerWeek))} />
             </>}
           </dl>
+          {Number.isFinite(moreWeeks) && <p className="mt-2 text-sm" data-testid="eta">At {w(r.perWeek)} a week, you&apos;d reach {w(goal)} in about <strong>{Math.ceil(moreWeeks)} more week{Math.ceil(moreWeeks) === 1 ? "" : "s"}</strong>.</p>}
+          {chart && <svg viewBox="0 0 300 150" className="mt-3 w-full" role="img" aria-label={`Weight from ${w(start)} to ${w(cur)} over ${weeks} weeks${Number.isFinite(moreWeeks) ? `, projected to ${w(goal)}` : ""}`} data-testid="chart">
+            <line x1={40} x2={290} y1={132} y2={132} stroke="currentColor" strokeOpacity={0.3} />
+            {goal > 0 && <><line x1={40} x2={290} y1={chart.Y(goal)} y2={chart.Y(goal)} stroke="var(--color-brand-500)" strokeDasharray="2 3" strokeOpacity={0.6} /><text x={36} y={chart.Y(goal) + 3} fontSize={8} textAnchor="end" fill="currentColor">{Math.round(goal)}</text></>}
+            <polyline points={`${chart.X(0)},${chart.Y(start)} ${chart.X(weeks)},${chart.Y(cur)}`} fill="none" stroke="var(--color-brand-500)" strokeWidth={2.5} />
+            {Number.isFinite(moreWeeks) && <polyline points={`${chart.X(weeks)},${chart.Y(cur)} ${chart.X(chart.endW)},${chart.Y(goal)}`} fill="none" stroke="var(--color-brand-500)" strokeWidth={2} strokeDasharray="5 4" />}
+            <circle cx={chart.X(0)} cy={chart.Y(start)} r={3.5} fill="var(--color-brand-500)" /><circle cx={chart.X(weeks)} cy={chart.Y(cur)} r={3.5} fill="var(--color-brand-500)" />
+            <text x={36} y={chart.Y(start) + 3} fontSize={8} textAnchor="end" fill="currentColor">{Math.round(start)}</text>
+            <text x={chart.X(weeks)} y={chart.Y(cur) - 7} fontSize={8} textAnchor="middle" fill="currentColor">{Math.round(cur)}</text>
+            <text x={40} y={145} fontSize={8} fill="currentColor">Week 0</text>
+            <text x={chart.X(weeks)} y={145} fontSize={8} textAnchor="middle" fill="currentColor">{weeks}</text>
+            {Number.isFinite(moreWeeks) && <text x={290} y={145} fontSize={8} textAnchor="end" fill="currentColor">{Math.ceil(chart.endW)}</text>}
+          </svg>}
           {Number.isFinite(prog) && <div className="mt-3 h-2.5 overflow-hidden rounded-full bg-[var(--surface-2)]" role="img" aria-label={`${Math.round(prog * 100)}% of the way to the goal`}><div className="h-full rounded-full bg-[var(--color-brand-500)]" style={{ width: `${prog * 100}%` }} /></div>}
           <h2 className="mt-5 text-sm font-semibold">Milestones from {w(start)}</h2>
           <table className="mt-2 w-full text-sm" data-testid="milestones">

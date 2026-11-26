@@ -81,3 +81,20 @@ test("gap fixes: roofing degrees + nails; cap rate financing; five-number steps"
   await page.goto("/five-number-summary-calculator/?m=linear&data=2,4,6,8,10,12");
   await expect(page.getByTestId("steps")).toContainText("position (n − 1) × 0.25 + 1 = 2.25, so 4 + 0.25 × (6 − 4)");
 });
+
+test("fix-these: roofing metric; cap rate steps", async ({ page }) => {
+  await page.goto("/roofing-calculator/?u=m&length=12&width=9&overhang=0.3");
+  await expect(page.getByTestId("area")).toHaveText("135.2 m²");
+  await page.goto("/roofing-calculator/");
+  await page.getByRole("button", { name: "Metric (m)" }).click();
+  await expect(page.locator("#length")).toHaveValue("12.19");
+  await page.goto("/cap-rate-calculator/");
+  await expect(page.getByTestId("steps")).toContainText("NOI = $36,480 − $12,918 = $23,562");
+  await expect(page.getByTestId("steps")).toContainText("Cap rate = $23,562 ÷ $400,000 = 5.89%");
+});
+
+test("fix-these: roofing step by step", async ({ page }) => {
+  await page.goto("/roofing-calculator/");
+  await expect(page.getByTestId("steps")).toContainText("Pitch factor = √(1 + (6 ÷ 12)²) = 1.118");
+  await expect(page.getByTestId("steps")).toContainText("rounded up to 50");
+});

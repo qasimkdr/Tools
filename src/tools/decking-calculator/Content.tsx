@@ -24,6 +24,16 @@ export default function Content() {
         <li>Screws = 26 × 13 × 2 = <strong>676</strong>.</li>
       </ul>
 
+      <h2 id="parts">Parts of a deck (and the rest of the budget)</h2>
+      <ul>
+        <li><strong>Decking:</strong> the boards you walk on, which this calculator counts, plus screws or hidden clips.</li>
+        <li><strong>Framing:</strong> joists (counted here), rim and blocking, beams, posts and concrete footings; a ledger board where the deck attaches to the house.</li>
+        <li><strong>Hardware:</strong> joist hangers, post bases, structural screws or bolts, flashing over the ledger.</li>
+        <li><strong>Railings and stairs:</strong> posts, rails and balusters, stair stringers, treads and risers.</li>
+        <li><strong>Other costs:</strong> permit and inspection fees, tool rental, delivery, stain or sealer for wood, and waste disposal.</li>
+      </ul>
+      <p>Price the framing, hardware and railings as well as the boards before you set a budget.</p>
+
       <h2 id="stairs">Don&apos;t forget the stairs</h2>
       <p>Stair treads are easy to leave off an order. Each tread is usually two deck boards side by side (2 × 5½″ plus a gap ≈ 11¼″ deep), cut to the stair width. Three 4 ft wide steps need 3 × 2 = 6 tread pieces; a 16 ft board gives four 4 ft pieces, so that&apos;s <strong>2 extra boards</strong>. Risers and stringers are extra; the <Link href="/stair-calculator/">stair calculator</Link> works out the rise, run and stringer length.</p>
 

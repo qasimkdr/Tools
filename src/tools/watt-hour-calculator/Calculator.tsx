@@ -17,6 +17,22 @@ export default function WattHourCalculator() {
   const run = runtimeHours(wh, Number(s.load), Math.min(100, Math.max(1, Number(s.eff) || 100)));
   const tier = mode === "battery" && !err ? faaTier(wh) : null;
   const label = mode === "runtime" ? "Runtime" : "Energy";
+  const trim = (x: string) => x.replace(/\.?0+$/, "");
+  const steps: string[] = [];
+  if (!err) {
+    if (mode === "power") {
+      const w = Number(s.w), h = Number(s.h);
+      steps.push(`Watt-hours = ${f(w, 0)} W × ${trim(f(h, 2))} h = ${f(wh, 1)} Wh`, `Kilowatt-hours = ${f(wh, 1)} ÷ 1,000 = ${f(wh / 1000, 3)} kWh`);
+      if (rate > 0) steps.push(`Cost per day = ${f(wh / 1000, 3)} kWh × $${rate} = $${f((wh / 1000) * rate, 2)}`, `Over ${days || 0} days = ${f(wh / 1000, 3)} × ${days || 0} = ${f((wh * days) / 1000, 2)} kWh → $${f(((wh * days) / 1000) * rate, 2)}`);
+    } else if (mode === "battery") {
+      const cap = Number(s.cap), v = Number(s.v), ah = s.cu === "ah" ? cap : cap / 1000;
+      if (s.cu !== "ah") steps.push(`Amp-hours = ${f(cap, 0)} mAh ÷ 1,000 = ${trim(f(ah, 3))} Ah`);
+      steps.push(`Watt-hours = ${trim(f(ah, 3))} Ah × ${v} V = ${f(wh, 2)} Wh`, `FAA check: ${f(wh, 1)} Wh is ${wh <= 100 ? "100 Wh or less" : wh <= 160 ? "between 101 and 160 Wh" : "over 160 Wh"}.`);
+    } else {
+      const eff = Math.min(100, Math.max(1, Number(s.eff) || 100));
+      steps.push(`Usable energy = ${f(wh, 0)} Wh × ${eff}% = ${f((wh * eff) / 100, 1)} Wh`, `Runtime = ${f((wh * eff) / 100, 1)} Wh ÷ ${f(Number(s.load), 0)} W = ${f(run, 2)} h (${hm(run)})`);
+    }
+  }
   const value = mode === "runtime" ? hm(run) : `${f(wh, wh < 10 ? 2 : 1)} Wh`;
 
   return (
@@ -64,6 +80,10 @@ export default function WattHourCalculator() {
               <Stat k="Battery at 12 V" v={`${f(ahFromWh(wh, 12), 1)} Ah`} />
             </>}
           </dl>
+          <details className="mt-3" open>
+            <summary className="cursor-pointer text-sm font-semibold">Step by step</summary>
+            <ol className="mt-2 list-decimal space-y-1 pl-5 text-sm" data-testid="steps">{steps.map((x, i) => <li key={i}>{x}</li>)}</ol>
+          </details>
           {tier && <p className={`mt-3 rounded-lg p-2 text-sm ${tier.tier === "allowed" ? "bg-[var(--surface-2)]" : "bg-amber-50 dark:bg-amber-950/40"}`} data-testid="faa">✈ {tier.text}</p>}
           {mode === "runtime" && <p className="mt-2 text-xs subtle">Real runtime is usually shorter: batteries lose capacity with age and cold, and many shouldn&apos;t be drained to 0%.</p>}
         </>}

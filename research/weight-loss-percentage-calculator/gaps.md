@@ -6,11 +6,11 @@ Generated 2026-11-26 by scripts/seo/gaps.mjs from 2 inspected competitor page(s)
 
 | Feature | Competitors with it | Ours |
 |---|---|---|
-| Unit toggle | inchcalculator.com | ✗ missing |
+| Unit toggle | inchcalculator.com | ✓ |
 | Share / copy link | inchcalculator.com, omnicalculator.com | ✓ |
 | Formula shown | inchcalculator.com, omnicalculator.com | ✓ |
 | Worked example | inchcalculator.com, omnicalculator.com | ✓ |
-| Chart / diagram | inchcalculator.com | ✗ missing |
+| Chart / diagram | inchcalculator.com | ✓ |
 | Calculator inputs | most: 5 | 4 (fewer — check the list below) |
 
 ## Calculator inputs and options

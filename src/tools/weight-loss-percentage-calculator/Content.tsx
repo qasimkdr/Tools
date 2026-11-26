@@ -7,7 +7,7 @@ export default function Content() {
       <h2 id="how-to-use">How to use the weight loss percentage calculator</h2>
       <ol>
         <li>Choose pounds or kilograms and enter your starting and current weight.</li>
-        <li>Add a goal weight to see how far along you are, and the number of weeks to get your weekly average.</li>
+        <li>Add a goal weight to see how far along you are, and the number of weeks to get your weekly average, a progress chart and a projection of when you&apos;ll reach the goal at your current pace.</li>
         <li>Check the milestone table for your 5%, 10%, 15% and 20% target weights.</li>
       </ol>
 
@@ -19,7 +19,7 @@ export default function Content() {
       <ul>
         <li>Weight lost = 160 − 145 = 15 lb. Percentage = 15 ÷ 160 × 100 = <strong>9.38%</strong>.</li>
         <li>Goal: 160 − 140 = 20 lb to lose, so 15 ÷ 20 = <strong>75% of the way</strong>, with 5 lb to go.</li>
-        <li>Weekly average = 15 ÷ 10 = <strong>1.5 lb a week</strong>, about 0.94% of the starting weight per week.</li>
+        <li>Weekly average = 15 ÷ 10 = <strong>1.5 lb a week</strong>, about 0.94% of the starting weight per week. At that pace the last 5 lb take 5 ÷ 1.5 = 3.3, so about <strong>4 more weeks</strong>.</li>
         <li>Milestones: 5% = 152 lb (reached), 10% = 144 lb (1 lb to go), 15% = 136 lb.</li>
       </ul>
 

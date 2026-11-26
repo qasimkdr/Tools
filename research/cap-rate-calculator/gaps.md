@@ -10,7 +10,7 @@ Generated 2026-11-26 by scripts/seo/gaps.mjs from 2 inspected competitor page(s)
 | Share / copy link | inchcalculator.com, omnicalculator.com | ✓ |
 | Formula shown | inchcalculator.com, omnicalculator.com | ✓ |
 | Worked example | inchcalculator.com, omnicalculator.com | ✓ |
-| Step-by-step | omnicalculator.com | ✗ missing |
+| Step-by-step | omnicalculator.com | ✓ |
 | Cost estimate | inchcalculator.com, omnicalculator.com | ✓ |
 | Calculator inputs | most: 5 | 12 ✓ |
 
@@ -26,7 +26,7 @@ Generated 2026-11-26 by scripts/seo/gaps.mjs from 2 inspected competitor page(s)
 - ✓ How to Calculate the Cap Rate _(www.inchcalculator.com)_
 - ✓ Step One: Calculate the Net Operating Income _(www.inchcalculator.com)_
 - ✓ Step Two: Determine the Property’s Value _(www.inchcalculator.com)_
-- ✗ Step Three: Calculate the Cap Rate _(www.inchcalculator.com)_
+- ✓ Step Three: Calculate the Cap Rate _(www.inchcalculator.com)_
 - ✓ Considerations When Using Cap Rate _(www.inchcalculator.com)_
 - ✓ Is a lower or higher cap rate better? _(www.inchcalculator.com)_
 - ✗ What is the average cap rate in real estate? _(www.inchcalculator.com)_

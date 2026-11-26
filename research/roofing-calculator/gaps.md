@@ -6,11 +6,11 @@ Generated 2026-11-26 by scripts/seo/gaps.mjs from 3 inspected competitor page(s)
 
 | Feature | Competitors with it | Ours |
 |---|---|---|
-| Unit toggle | calculator.net, inchcalculator.com | ✗ missing |
+| Unit toggle | calculator.net, inchcalculator.com | ✓ |
 | Share / copy link | omnicalculator.com, inchcalculator.com | ✓ |
 | Formula shown | omnicalculator.com | ✓ |
 | Worked example | calculator.net, omnicalculator.com, inchcalculator.com | ✓ |
-| Step-by-step | omnicalculator.com | ✗ missing |
+| Step-by-step | omnicalculator.com | ✓ |
 | Cost estimate | calculator.net, omnicalculator.com, inchcalculator.com | ✓ |
 | Table(s) | calculator.net, inchcalculator.com | ✓ |
 | Video | omnicalculator.com | ✗ missing |
@@ -48,7 +48,7 @@ Generated 2026-11-26 by scripts/seo/gaps.mjs from 3 inspected competitor page(s)
 - ✓ Finding the Size of the Roof in Squares _(www.inchcalculator.com)_
 - ✓ How to Estimate Roofing Materials _(www.inchcalculator.com)_
 - ✓ Bundles of Shingles Needed _(www.inchcalculator.com)_
-- ✗ Rolls of Felt Needed _(www.inchcalculator.com)_
+- ✓ Rolls of Felt Needed _(www.inchcalculator.com)_
 - ✓ Roofing Nails Needed _(www.inchcalculator.com)_
 - ✓ Other Materials _(www.inchcalculator.com)_
 - ✗ Other Considerations _(www.inchcalculator.com)_

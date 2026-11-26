@@ -6,4 +6,5 @@ export const faq = [
   { q: "How many screws do I need for a deck?", a: "The usual pattern is two screws per board at every joist. Multiply the number of board rows by the number of joists and by 2: a 12 × 16 deck with 26 rows and 13 joists needs about 676 screws. Hidden-fastener systems use one clip per board per joist instead." },
   { q: "Should I use the nominal or actual board width?", a: "Always the actual width. A nominal 6-inch (5/4 × 6 or 2 × 6) deck board is about 5½ inches wide, so using 6 inches would undercount the boards." },
   { q: "How much extra decking should I buy?", a: "About 10% for a simple rectangular deck with boards laid straight, and 15% or more for diagonal patterns, picture-frame borders or decks with many angles." },
+  { q: "What is the cheapest decking?", a: "Pressure-treated pine usually has the lowest upfront cost, then cedar or redwood, with composite and PVC costing the most. Over the deck's life, composite and PVC need less upkeep (no staining or sealing), which narrows the gap. Compare local prices per board, since the calculator's board count stays the same." },
 ];

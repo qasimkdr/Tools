@@ -6,3 +6,4 @@ Actual-width presets · gap · 5 board lengths with a boards/butt-joints table �
 ## Test cases
 12×16 (16 ft run), 5.5 + 0.125, 16 ft, 10%: 26 rows, 416 ft, 29 boards, 13 joists × 12 ft, 676 screws · 12×12: 29 × 12 ft, $25 → $725.
 - Gap fixes (2026-11-26): stair treads (pieces per step, boards cut from stock); materials comparison table. Test: 3 steps × 4 ft → 6 pieces, 2 boards, total 31 × 16 ft.
+- Feature parity (seo:gaps, 2026-11-26): metric units (m, mm, metric board lengths) added; parts-of-a-deck and full-budget list; cheapest-decking FAQ. Skipped: 'get professional estimates' (filler).

@@ -5,3 +5,4 @@
 Add/subtract + both conversions in one tool · 11 frame rates incl. 23.976, 29.97/59.94 DF and NDF · invalid DF codes flagged · real clock time vs nominal · rates table · 6 FAQs.
 ## Test cases
 00:59:59;29 + 1 = 01:00:00;00 (107,892 frames, real 59:59.996) · 25 fps 00:10:00:00 + 00:05:30:12 = 00:15:30:12 · 25,015 @ 60 = 00:06:56:55 · 00:01:00;00 invalid.
+- Feature parity (seo:gaps, 2026-11-26): step-by-step working (timecode → frames incl. drop-frame subtraction, frames → timecode incl. add-back).

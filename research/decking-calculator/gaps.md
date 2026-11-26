@@ -6,7 +6,7 @@ Generated 2026-11-26 by scripts/seo/gaps.mjs from 2 inspected competitor page(s)
 
 | Feature | Competitors with it | Ours |
 |---|---|---|
-| Unit toggle | inchcalculator.com, omnicalculator.com | ✗ missing |
+| Unit toggle | inchcalculator.com, omnicalculator.com | ✓ |
 | Share / copy link | inchcalculator.com, omnicalculator.com | ✓ |
 | Formula shown | inchcalculator.com, omnicalculator.com | ✓ |
 | Worked example | inchcalculator.com, omnicalculator.com | ✓ |
