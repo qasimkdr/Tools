@@ -1,0 +1,145 @@
+{
+ "keywords": {
+  "cpm calculator": {
+   "fetchedAt": "2026-11-26T09:05:31.802Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 27100,
+   "fileKd": 36,
+   "fileIntent": "C",
+   "semrushCompetitor": {
+    "position": 2,
+    "url": "www.omnicalculator.com/finance/cpm"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.pearson.com/channels/calculators/cpm-calculator",
+     "domain": "www.pearson.com",
+     "title": "CPM calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.bigcommerce.com/resources/tools/cpm-calculator/",
+     "domain": "www.bigcommerce.com",
+     "title": "CPM Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.shopify.com/tools/cpm-calculator",
+     "domain": "www.shopify.com",
+     "title": "CPM calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.yotpo.com/tools/cpm-calculator/",
+     "domain": "www.yotpo.com",
+     "title": "CPM calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.omnicalculator.com/other/cpm",
+     "domain": "www.omnicalculator.com",
+     "title": "CPM Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://searchengineland.com/tools/ppc-ad-calculators/cpm-calculator",
+     "domain": "searchengineland.com",
+     "title": "CPM Calculator (Cost Per Thousand)",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://online.visual-paradigm.com/tabular/calculator/web-master/cpm-calculator",
+     "domain": "online.visual-paradigm.com",
+     "title": "CPM Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.webfx.com/tools/cpm-calculator/",
+     "domain": "www.webfx.com",
+     "title": "CPM calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "cpm-calculator",
+ "page": "cpm-calculator",
+ "category": "finance",
+ "name": "Cpm Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-26T09:05:31.803Z",
+ "topCompetitors": [
+  {
+   "domain": "pearson.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.pearson.com/channels/calculators/cpm-calculator"
+   ]
+  },
+  {
+   "domain": "bigcommerce.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.bigcommerce.com/resources/tools/cpm-calculator/"
+   ]
+  },
+  {
+   "domain": "shopify.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.shopify.com/tools/cpm-calculator"
+   ]
+  },
+  {
+   "domain": "yotpo.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.yotpo.com/tools/cpm-calculator/"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/other/cpm"
+   ]
+  },
+  {
+   "domain": "searchengineland.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://searchengineland.com/tools/ppc-ad-calculators/cpm-calculator"
+   ]
+  },
+  {
+   "domain": "visual-paradigm.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://online.visual-paradigm.com/tabular/calculator/web-master/cpm-calculator"
+   ]
+  }
+ ]
+}

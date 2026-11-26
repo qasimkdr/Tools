@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How do you convert timecode to frames?", a: "For non-drop timecode, frames = ((hours × 3,600) + (minutes × 60) + seconds) × frame rate + frames. 00:10:00:00 at 25 fps is 600 × 25 = 15,000 frames. Drop-frame also subtracts the skipped frame numbers." },
+  { q: "What is drop-frame timecode?", a: "At 29.97 fps, video runs slightly slower than 30 frames per second, so plain timecode falls behind the clock by about 3.6 seconds an hour. Drop-frame timecode skips frame numbers 00 and 01 at the start of every minute except every tenth minute, 108 numbers an hour, so the timecode matches real time. No pictures are removed." },
+  { q: "How many frames are in an hour of 29.97 drop-frame?", a: "107,892. An hour has 108,000 frame numbers at a nominal 30 fps; drop-frame skips 2 numbers in 54 of the 60 minutes (108 in total), leaving 107,892, which lasts 59 minutes 59.996 seconds of real time." },
+  { q: "What does the semicolon in a timecode mean?", a: "By convention, a semicolon (or a period) before the frame field, as in 01:00:00;00, marks drop-frame timecode. A colon, as in 01:00:00:00, marks non-drop timecode." },
+  { q: "Which frame rate should I choose?", a: "Use your project or camera setting. 23.976 and 24 are common for film-style video, 25 and 50 in PAL regions, 29.97 and 59.94 for NTSC broadcast in North America and Japan, and 30 or 60 for web and gaming video." },
+  { q: "Can I add timecodes with different frame rates?", a: "Not directly. Convert both to frames or real time at their own rates first. Timecode arithmetic only works when both values use the same frame rate and drop-frame setting." },
+];

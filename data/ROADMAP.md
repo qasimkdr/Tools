@@ -171,16 +171,16 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 14 on policy hold).
 | 165 | 17 | scheduled | Cap Rate Calculator | `cap-rate-calculator` | finance | cap rate calculator | 6600 | 24 | 6600 | 1 |
 | 166 | 17 | scheduled | Binding Calculator | `binding-calculator` | everyday | binding calculator | 1300 | 9 | 1300 | 1 |
 | 167 | 17 | todo | Swim Time Converter | `swim-time-converter` | time-date | time conversion calculator swimming | 5400 | 22 | 6700 | 2 |
-| 168 | 17 | todo | Cpm Calculator | `cpm-calculator` | finance | cpm calculator | 27100 | 36 | 27100 | 1 |
+| 168 | 17 | scheduled | Cpm Calculator | `cpm-calculator` | finance | cpm calculator | 27100 | 36 | 27100 | 1 |
 | 169 | 17 | todo | Fence Calculator | `fence-calculator` | construction | fence calculator | 8100 | 39 | 9400 | 2 |
-| 170 | 17 | todo | Weight Loss Percentage Calculator | `weight-loss-percentage-calculator` | health | weight loss percentage calculator | 6600 | 26 | 19800 | 1 |
+| 170 | 17 | scheduled | Weight Loss Percentage Calculator | `weight-loss-percentage-calculator` | health | weight loss percentage calculator | 6600 | 26 | 19800 | 1 |
 | 171 | 18 | todo | Subwoofer Case Calculator | `subwoofer-case-calculator` | science | subwoofer case calculator | 1300 | 13 | 1300 | 1 |
 | 172 | 18 | todo | Acres Per Hour Calculator | `acres-per-hour-calculator` | construction | acres per hour calculator | 1000 | 9 | 1000 | 1 |
 | 173 | 18 | todo | Nm To Ft Lb | `nm-to-ft-lb` | science | n-m to ft lbs converter | 12100 | 30 | 12100 | 1 |
-| 174 | 18 | todo | Drywall Calculator | `drywall-calculator` | construction | drywall calculator | 12100 | 30 | 12100 | 1 |
+| 174 | 18 | scheduled | Drywall Calculator | `drywall-calculator` | construction | drywall calculator | 12100 | 30 | 12100 | 1 |
 | 175 | 18 | todo | Credit Union Loan Calculator | `credit-union-loan-calculator` | finance | credit union loan calculator | 1000 | 10 | 1000 | 1 |
 | 176 | 18 | todo | Chocolate For Dogs Calculator | `chocolate-for-dogs-calculator` | everyday | chocolate for dogs calculator | 1600 | 13 | 1600 | 1 |
-| 177 | 18 | todo | Watt Hour Calculator | `watt-hour-calculator` | science | watt hour calculator | 1600 | 13 | 1600 | 1 |
+| 177 | 18 | scheduled | Watt Hour Calculator | `watt-hour-calculator` | science | watt hour calculator | 1600 | 13 | 1600 | 1 |
 | 178 | 18 | todo | Kd Calculator | `kd-calculator` | everyday | kd calculator | 1600 | 13 | 1600 | 1 |
 | 179 | 18 | todo | Decking Calculator | `decking-calculator` | construction | deck board calculator | 6600 | 26 | 13200 | 1 |
 | 180 | 18 | todo | Tsp Growth Calculator | `tsp-growth-calculator` | finance | tsp growth calculator | 1300 | 13 | 1300 | 1 |
@@ -191,7 +191,7 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 14 on policy hold).
 | 185 | 19 | todo | Future Value Calculator | `future-value-calculator` | everyday | future value calculator | 33100 | 40 | 67000 | 1 |
 | 186 | 19 | todo | Decathlon Calculator | `decathlon-calculator` | education | decathlon calculator | 1300 | 11 | 1300 | 1 |
 | 187 | 19 | todo | Running Record Calculator | `running-record-calculator` | education | running record calculator | 1300 | 11 | 1300 | 1 |
-| 188 | 19 | todo | Timecode Calculator | `timecode-calculator` | science | timecode calculator | 1300 | 11 | 1300 | 1 |
+| 188 | 19 | scheduled | Timecode Calculator | `timecode-calculator` | science | timecode calculator | 1300 | 11 | 1300 | 1 |
 | 189 | 19 | todo | Cow Gestation Calculator | `cow-gestation-calculator` | everyday | cattle gestation calculator | 6600 | 23 | 13200 | 1 |
 | 190 | 19 | todo | Drip Calculator Online | `drip-calculator-online` | science | drip calculator online | 1600 | 14 | 1600 | 1 |
 | 191 | 20 | todo | Exponent Calculator | `exponent-calculator` | math | exponents calculator | 2400 | 41 | 7900 | 1 |

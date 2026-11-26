@@ -1,0 +1,9 @@
+export const faq = [
+  { q: "How many sheets of drywall do I need?", a: "Add up the wall area (perimeter × wall height) and the ceiling area, subtract doors and windows, add about 10% for waste and divide by the sheet area: 32 sq ft for a 4 × 8 sheet. A 14 × 12 ft room with 8 ft walls, one door and two windows needs 533 sq ft, or 19 sheets of 4 × 8." },
+  { q: "How much drywall do I need for a 10 × 10 room?", a: "With 8 ft walls, the walls are 320 sq ft and the ceiling 100 sq ft. Less one 21 sq ft door that's 399 sq ft; with 10% waste it is 439 sq ft, or 14 sheets of 4 × 8 (10 sheets of 4 × 12)." },
+  { q: "Should I use 4 × 8 or 4 × 12 sheets?", a: "Longer sheets mean fewer joints to tape and finish, so 4 × 12 is popular for walls and ceilings when you can get them into the room and have help lifting. 4 × 8 sheets are lighter and easier to handle alone. 54-inch-wide sheets suit 9 ft walls with fewer seams." },
+  { q: "How much joint compound do I need?", a: "USG estimates roughly 9 to 10 gallons of ready-mixed compound per 1,000 sq ft of drywall for taping and finishing. For 533 sq ft that is about 5 gallons, so two 4.5-gallon pails. Heavier textures or a Level 5 finish use more." },
+  { q: "How much drywall tape do I need?", a: "About 370 linear feet of tape per 1,000 sq ft of drywall, according to USG. A 533 sq ft room needs about 197 ft, one 250 ft roll." },
+  { q: "Should I subtract doors and windows?", a: "Yes for the area, but keep the waste allowance: the cut-outs rarely produce usable pieces. Many installers hang full sheets over openings and cut them out afterwards, which is why the waste figure matters." },
+  { q: "Is drywall exactly 4 × 8 feet?", a: "Yes. Standard panels are 48 inches wide and come in lengths such as 8, 10 and 12 feet, so a 4 × 8 sheet covers 32 sq ft. Common thicknesses are ½ inch for walls and ⅝ inch for ceilings and fire-rated walls." },
+];

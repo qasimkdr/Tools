@@ -13096,7 +13096,8 @@
     "www.omnicalculator.com/finance/cpm"
    ],
    "category": "finance",
-   "status": "todo",
+   "status": "scheduled",
+   "note": "scheduled 2026-12-02 14:04 PKT",
    "order": 168,
    "batch": 17
   },
@@ -13183,7 +13184,8 @@
     "www.omnicalculator.com/health/weight-loss-percentage"
    ],
    "category": "health",
-   "status": "todo",
+   "status": "scheduled",
+   "note": "scheduled 2026-12-02 14:04 PKT",
    "order": 170,
    "batch": 17
   },
@@ -13303,7 +13305,8 @@
     "www.omnicalculator.com/construction/drywall"
    ],
    "category": "construction",
-   "status": "todo",
+   "status": "scheduled",
+   "note": "scheduled 2026-12-02 14:04 PKT",
    "order": 174,
    "batch": 18
   },
@@ -13390,7 +13393,8 @@
    ],
    "competitors": [],
    "category": "science",
-   "status": "todo",
+   "status": "scheduled",
+   "note": "scheduled 2026-12-03 11:55 PKT",
    "order": 177,
    "batch": 18
   },
@@ -13787,7 +13791,8 @@
    ],
    "competitors": [],
    "category": "science",
-   "status": "todo",
+   "status": "scheduled",
+   "note": "scheduled 2026-12-03 11:55 PKT",
    "order": 188,
    "batch": 19
   },

@@ -1,0 +1,153 @@
+{
+ "keywords": {
+  "drywall calculator": {
+   "fetchedAt": "2026-11-26T09:05:31.643Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 12100,
+   "fileKd": 30,
+   "fileIntent": "C",
+   "semrushCompetitor": {
+    "position": 5,
+    "url": "www.omnicalculator.com/construction/drywall"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.housecallpro.com/general-contractor/templates-calculators/drywall-calculator/",
+     "domain": "www.housecallpro.com",
+     "title": "Drywall calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.homeadvisor.com/r/drywall-calculator",
+     "domain": "www.homeadvisor.com",
+     "title": "Drywall Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.certainteed.com/drywall-calculator",
+     "domain": "www.certainteed.com",
+     "title": "Drywall Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.omnicalculator.com/construction/drywall",
+     "domain": "www.omnicalculator.com",
+     "title": "Drywall Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.inchcalculator.com/drywall-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Drywall Calculator: Estimate Cost and Material",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.arcsite.com/utility/drywall-calculator",
+     "domain": "www.arcsite.com",
+     "title": "Drywall Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://invoiceowl.com/drywall-calculator/",
+     "domain": "invoiceowl.com",
+     "title": "Free Drywall Tool",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.easyunitconverter.com/drywall-calculator",
+     "domain": "www.easyunitconverter.com",
+     "title": "Drywall Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "drywall-calculator",
+ "page": "drywall-calculator",
+ "category": "construction",
+ "name": "Drywall Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-26T09:05:31.643Z",
+ "topCompetitors": [
+  {
+   "domain": "housecallpro.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.housecallpro.com/general-contractor/templates-calculators/drywall-calculator/"
+   ]
+  },
+  {
+   "domain": "homeadvisor.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.homeadvisor.com/r/drywall-calculator"
+   ]
+  },
+  {
+   "domain": "certainteed.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.certainteed.com/drywall-calculator"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/construction/drywall"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/drywall-calculator/"
+   ]
+  },
+  {
+   "domain": "arcsite.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.arcsite.com/utility/drywall-calculator"
+   ]
+  },
+  {
+   "domain": "invoiceowl.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://invoiceowl.com/drywall-calculator/"
+   ]
+  },
+  {
+   "domain": "easyunitconverter.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.easyunitconverter.com/drywall-calculator"
+   ]
+  }
+ ]
+}

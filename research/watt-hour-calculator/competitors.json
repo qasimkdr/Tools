@@ -1,0 +1,623 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/physics/watt-hours": {
+   "url": "https://www.omnicalculator.com/physics/watt-hours",
+   "finalUrl": "https://www.omnicalculator.com/physics/watt-hours",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-26T09:06:16.742Z",
+   "title": "Watt-hour Calculator",
+   "metaDescription": "Use the watt-hour calculator to obtain watt-hours from amp hours or time.",
+   "canonical": "https://www.omnicalculator.com/physics/watt-hours",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Watt-hour Calculator"
+   ],
+   "h2": [
+    "How to use the watt-hour calculator",
+    "How does the mAh to Wh converter work?",
+    "How to calculate watt-hours",
+    "Milliamp hours to watt-hours – an example",
+    "How to calculate watt hours from time",
+    "Why do we convert amp hours to watt-hours?",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I calculate watt hours?",
+    "How do you convert Wh to watts?",
+    "How many amp-hours is 500 watt-hours?",
+    "What is 1 watt-hour?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Watt-hour Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to use the watt-hour calculator"
+    },
+    {
+     "level": 2,
+     "text": "How does the mAh to Wh converter work?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate watt-hours"
+    },
+    {
+     "level": 2,
+     "text": "Milliamp hours to watt-hours – an example"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate watt hours from time"
+    },
+    {
+     "level": 2,
+     "text": "Why do we convert amp hours to watt-hours?"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate watt hours?"
+    },
+    {
+     "level": 3,
+     "text": "How do you convert Wh to watts?"
+    },
+    {
+     "level": 3,
+     "text": "How many amp-hours is 500 watt-hours?"
+    },
+    {
+     "level": 3,
+     "text": "What is 1 watt-hour?"
+    }
+   ],
+   "wordCount": 1139,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "How do I calculate watt hours?",
+    "How do you convert Wh to watts?",
+    "How many amp-hours is 500 watt-hours?",
+    "What is 1 watt-hour?",
+    "How does the mAh to Wh converter work?",
+    "Why do we convert amp hours to watt-hours?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "hours",
+     "weight": 60
+    },
+    {
+     "term": "watt",
+     "weight": 47
+    },
+    {
+     "term": "watt hours",
+     "weight": 45
+    },
+    {
+     "term": "energy",
+     "weight": 23
+    },
+    {
+     "term": "amp hours",
+     "weight": 23
+    },
+    {
+     "term": "hour",
+     "weight": 18
+    },
+    {
+     "term": "power",
+     "weight": 18
+    },
+    {
+     "term": "voltage",
+     "weight": 17
+    },
+    {
+     "term": "amp",
+     "weight": 16
+    },
+    {
+     "term": "watt hour",
+     "weight": 15
+    },
+    {
+     "term": "charge",
+     "weight": 13
+    },
+    {
+     "term": "calculate",
+     "weight": 11
+    },
+    {
+     "term": "calculator",
+     "weight": 10
+    },
+    {
+     "term": "convert",
+     "weight": 10
+    },
+    {
+     "term": "calculate watt",
+     "weight": 9
+    },
+    {
+     "term": "watts",
+     "weight": 9
+    },
+    {
+     "term": "mah",
+     "weight": 8
+    },
+    {
+     "term": "battery",
+     "weight": 8
+    },
+    {
+     "term": "hour calculator",
+     "weight": 8
+    },
+    {
+     "term": "electric",
+     "weight": 6
+    },
+    {
+     "term": "electric charge",
+     "weight": 6
+    },
+    {
+     "term": "milliamp",
+     "weight": 6
+    },
+    {
+     "term": "milliamp hours",
+     "weight": 6
+    },
+    {
+     "term": "want",
+     "weight": 6
+    },
+    {
+     "term": "converter",
+     "weight": 5
+    },
+    {
+     "term": "result",
+     "weight": 5
+    },
+    {
+     "term": "volts",
+     "weight": 5
+    },
+    {
+     "term": "flow",
+     "weight": 5
+    },
+    {
+     "term": "batteries",
+     "weight": 5
+    },
+    {
+     "term": "convert amp",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "More specifically, it is an electric charge in a battery that enables 1 ampere of current to flow for one hour.",
+    "If you want to determine what is a watt-hour, it is the total amount of energy generated or consumed over a period of time (an hour) by a system with 1 watt of power generation/consumption.",
+    "Milliamp hours to watt-hours – an example Let's say you have a lithium-ion polymer battery that has 1200 mAh and a nominal voltage of 3.7 V.",
+    "When we use our converter, we can directly calculate the energy of the battery in watt-hours: 1200 m A h × 3.7 V = 4.44 W h 1200 mAh×3.7 V=4.44 Wh In this example, your battery has a capacity of 4.44 Wh.",
+    "500 watt-hours is 62.5 amp-hours, assuming the voltage is 8 volts (V).",
+    "One watt-hour is the amount of energy used by an appliance with a power rating of 1 W that is used for one hour.",
+    "For example, suppose you had a 25-watt light bulb in your lamp and kept it on for 4 hours.",
+    "It would consume 100 watt-hours of energy."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 5,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joanna Śmietańska",
+    "published": "2022-09-27T07:58:24.902Z",
+    "modified": "2026-09-24T13:06:34.900Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 517,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 20,
+    "external": 1,
+    "contentInternal": 4,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "energy conversion calculator",
+     "watt calculator",
+     "electrical power calculator",
+     "power converter"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/conversion/energy-conversion",
+     "https://www.omnicalculator.com/physics/watt",
+     "https://www.omnicalculator.com/physics/electrical-power",
+     "https://www.omnicalculator.com/conversion/power-conversion"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/watts-to-kwh-calculator/": {
+   "url": "https://www.inchcalculator.com/watts-to-kwh-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/watts-to-kwh-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-26T09:06:22.514Z",
+   "title": "Watts to Kilowatt-Hours (kWh) Conversion Calculator",
+   "metaDescription": "Convert watts to kilowatt-hours (kWh) given power in watts and time in hours. Learn how to calculate kilowatt-hours using a simple formula.",
+   "canonical": "https://www.inchcalculator.com/watts-to-kwh-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Watts to Kilowatt-Hours (kWh) Conversion Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Energy in Kilowatt-Hours",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Convert Watts to Kilowatt-Hours",
+    "Common Watts to Kilowatt-Hour Conversions",
+    "Similar Electrical Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Watts to kWh Formula"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Watts to Kilowatt-Hours (kWh) Conversion Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Energy in Kilowatt-Hours"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Convert Watts to Kilowatt-Hours"
+    },
+    {
+     "level": 3,
+     "text": "Watts to kWh Formula"
+    },
+    {
+     "level": 2,
+     "text": "Common Watts to Kilowatt-Hour Conversions"
+    },
+    {
+     "level": 2,
+     "text": "Similar Electrical Calculators"
+    }
+   ],
+   "wordCount": 742,
+   "avgSentenceWords": 34,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "kwh",
+     "weight": 34
+    },
+    {
+     "term": "watts",
+     "weight": 25
+    },
+    {
+     "term": "hours",
+     "weight": 25
+    },
+    {
+     "term": "kilowatt hours",
+     "weight": 23
+    },
+    {
+     "term": "kilowatt",
+     "weight": 19
+    },
+    {
+     "term": "power",
+     "weight": 13
+    },
+    {
+     "term": "calculator",
+     "weight": 11
+    },
+    {
+     "term": "hour",
+     "weight": 10
+    },
+    {
+     "term": "conversion calculator",
+     "weight": 9
+    },
+    {
+     "term": "convert",
+     "weight": 9
+    },
+    {
+     "term": "energy",
+     "weight": 9
+    },
+    {
+     "term": "conversion",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "convert watts",
+     "weight": 8
+    },
+    {
+     "term": "kilowatt hour",
+     "weight": 6
+    },
+    {
+     "term": "cost",
+     "weight": 6
+    },
+    {
+     "term": "electricity",
+     "weight": 5
+    },
+    {
+     "term": "watt",
+     "weight": 5
+    },
+    {
+     "term": "hours kwh",
+     "weight": 5
+    },
+    {
+     "term": "common watts",
+     "weight": 5
+    },
+    {
+     "term": "hour conversions",
+     "weight": 5
+    },
+    {
+     "term": "watt hours",
+     "weight": 5
+    },
+    {
+     "term": "light bulb",
+     "weight": 5
+    },
+    {
+     "term": "kwh 100",
+     "weight": 5
+    },
+    {
+     "term": "formula",
+     "weight": 4
+    },
+    {
+     "term": "kwh conversion",
+     "weight": 3
+    },
+    {
+     "term": "let",
+     "weight": 3
+    },
+    {
+     "term": "facebook share",
+     "weight": 3
+    },
+    {
+     "term": "page",
+     "weight": 3
+    },
+    {
+     "term": "kwh formula",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "Thus, to convert watts to kilowatt-hours, multiply the power in watts by the number of hours, then divide by 1,000.",
+    "For example: let’s find the kWh of 1,500 watts for 2.5 hours.",
+    "E(kWh) = 1,500 × 2.5 / 1,000 E(kWh) = 3,750 Wh / 1,000 E(kWh) = 3.75 kWh Thus, the energy in kilowatt hours for a 1,500 power consumption over 2.5 hours is equal to 3.75 kilowatt-hours.",
+    "You can also use this formula to convert kilowatts to kilowatt-hours by not dividing by 1,000.",
+    "A 100-watt light bulb uses 100 watts of power.",
+    "To convert the power in watts to kilowatt-hours, multiply 100 watts by 1 hour, then divide by 1,000 to find the energy usage in kWh.",
+    "E(kWh) = 100 W × 1 hour / 1,000 E(kWh) = 100 Wh / 1,000 E(kWh) = 0.1 kWh If electricity costs $0.12 per kWh, then a 100-watt light bulb will cost 1.2 cents per hour that it’s on.",
+    "Common Watts to Kilowatt-Hour Conversions Common watts to kilowatt-hour conversions for a 1-hour time period, along with the estimated cost of electricity, assuming a price of $0.12 per kWh."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 2,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "Power",
+    "Power Units",
+    "Time",
+    "Time Units"
+   ],
+   "selectOptionsSample": "milliwatts watts kilowatts seconds minutes hours",
+   "unitToggle": false,
+   "wordsBeforeTool": 20,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2018-09-16",
+    "modified": "2022-09-25T20:34:54+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 118,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 42,
+    "external": 13,
+    "contentInternal": 18,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "convert kWh to watts",
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Convert Watts to Kilowatt-Hours",
+     "Watts to kWh Formula",
+     "Common Watts to Kilowatt-Hour Conversions",
+     "Full bio",
+     "Watts to Kilowatt-Hours (kWh) Conversion Calculator",
+     "convert kilowatts to kilowatt-hours",
+     "electricity cost calculator",
+     "kWh to watts conversion calculator",
+     "Power Conversion Calculators",
+     "Electric Current Conversion Calculators",
+     "Watt-Hours (Wh) to Amp-Hours (Ah) Conversion Calculator",
+     "Amp-Hours (Ah) to Watt-Hours (Wh) Conversion Calculator",
+     "Amps to Kilowatts (kW) Conversion Calculator",
+     "See All"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/kwh-to-watts-calculator/",
+     "https://www.inchcalculator.com/watts-to-kwh-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/watts-to-kwh/",
+     "https://www.inchcalculator.com/watts-to-kwh-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/watts-to-kwh-calculator/#idx_how_to_convert_watts_to_kilowatt-hours",
+     "https://www.inchcalculator.com/watts-to-kwh-calculator/#idx_watts_to_kwh_formula",
+     "https://www.inchcalculator.com/watts-to-kwh-calculator/#idx_common_watts_to_kilowatt-hour_conversions",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/kevin-weekly/",
+     "https://www.inchcalculator.com/watts-to-kwh-calculator/",
+     "https://www.inchcalculator.com/kw-to-kwh-calculator/",
+     "https://www.inchcalculator.com/electricity-cost-calculator/",
+     "https://www.inchcalculator.com/convert/power/",
+     "https://www.inchcalculator.com/convert/electric-current/",
+     "https://www.inchcalculator.com/wh-to-ah-calculator/",
+     "https://www.inchcalculator.com/ah-to-wh-calculator/",
+     "https://www.inchcalculator.com/amps-to-kilowatts-calculator/",
+     "https://www.inchcalculator.com/electrical-conversion-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fwatts-to-kwh-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fwatts-to-kwh-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fwatts-to-kwh-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fwatts-to-kwh-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fwatts-to-kwh-calculator%2F&text=Watts+to+Kilowatt-Hours+%28kWh%29+Conversion+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fwatts-to-kwh-calculator%2F&text=Watts+to+Kilowatt-Hours+%28kWh%29+Conversion+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://footprinthero.com/watts-to-watt-hours-calculator": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

@@ -1,0 +1,690 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/construction/drywall": {
+   "url": "https://www.omnicalculator.com/construction/drywall",
+   "finalUrl": "https://www.omnicalculator.com/construction/drywall",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-26T09:05:34.027Z",
+   "title": "Drywall Calculator",
+   "metaDescription": "The drywall calculator determines the number of drywall panels you need to install in a room.",
+   "canonical": "https://www.omnicalculator.com/construction/drywall",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Drywall Calculator"
+   ],
+   "h2": [
+    "What is drywall (sheetrock)?",
+    "Types of drywall sheets",
+    "Drywall that will save you from fire",
+    "Drywall sizes and drywall thickness",
+    "How much is a sheet of drywall? – sheetrock prices in US",
+    "Are you ready for drywalling? – drywall tools and materials",
+    "How much drywall do I need? – required drywall measurements",
+    "Calculating the area under sloped walls with drywall estimator",
+    "Drywall cost calculator"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Drywall Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is drywall (sheetrock)?"
+    },
+    {
+     "level": 2,
+     "text": "Types of drywall sheets"
+    },
+    {
+     "level": 2,
+     "text": "Drywall that will save you from fire"
+    },
+    {
+     "level": 2,
+     "text": "Drywall sizes and drywall thickness"
+    },
+    {
+     "level": 2,
+     "text": "How much is a sheet of drywall? – sheetrock prices in US"
+    },
+    {
+     "level": 2,
+     "text": "Are you ready for drywalling? – drywall tools and materials"
+    },
+    {
+     "level": 2,
+     "text": "How much drywall do I need? – required drywall measurements"
+    },
+    {
+     "level": 2,
+     "text": "Calculating the area under sloped walls with drywall estimator"
+    },
+    {
+     "level": 2,
+     "text": "Drywall cost calculator"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 2261,
+   "avgSentenceWords": 18,
+   "faqs": [
+    "What is drywall (sheetrock)?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "drywall",
+     "weight": 116
+    },
+    {
+     "term": "drywall sheets",
+     "weight": 20
+    },
+    {
+     "term": "sheets",
+     "weight": 19
+    },
+    {
+     "term": "calculator",
+     "weight": 18
+    },
+    {
+     "term": "room",
+     "weight": 17
+    },
+    {
+     "term": "walls",
+     "weight": 15
+    },
+    {
+     "term": "area",
+     "weight": 14
+    },
+    {
+     "term": "sheetrock",
+     "weight": 14
+    },
+    {
+     "term": "have",
+     "weight": 12
+    },
+    {
+     "term": "fire",
+     "weight": 12
+    },
+    {
+     "term": "drywall sizes",
+     "weight": 11
+    },
+    {
+     "term": "cost",
+     "weight": 10
+    },
+    {
+     "term": "water",
+     "weight": 10
+    },
+    {
+     "term": "type",
+     "weight": 10
+    },
+    {
+     "term": "sizes",
+     "weight": 9
+    },
+    {
+     "term": "sloped walls",
+     "weight": 9
+    },
+    {
+     "term": "panels",
+     "weight": 8
+    },
+    {
+     "term": "used",
+     "weight": 8
+    },
+    {
+     "term": "drywall calculator",
+     "weight": 8
+    },
+    {
+     "term": "sheetrock prices",
+     "weight": 8
+    },
+    {
+     "term": "panel",
+     "weight": 7
+    },
+    {
+     "term": "total",
+     "weight": 7
+    },
+    {
+     "term": "materials",
+     "weight": 7
+    },
+    {
+     "term": "need",
+     "weight": 7
+    },
+    {
+     "term": "gypsum",
+     "weight": 7
+    },
+    {
+     "term": "there",
+     "weight": 7
+    },
+    {
+     "term": "sheet",
+     "weight": 7
+    },
+    {
+     "term": "resistant",
+     "weight": 7
+    },
+    {
+     "term": "sloped",
+     "weight": 7
+    },
+    {
+     "term": "height",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Here we present a list of some of the different types of drywall: Regular drywall – This drywall is white and available in many sizes, from relatively thin (1/4\" or 6.5 mm) to thick (3/4\" or 20 mm).",
+    "You should use thicker drywall sheets (more than 5/8” or 15 mm) on walls that you want to be sound (or fire) proof."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 9,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Select drywall panel size"
+   ],
+   "selectOptionsSample": "select 4' × 8' 4' × 9' 4' × 10' 4' × 12'",
+   "unitToggle": true,
+   "wordsBeforeTool": 20,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Kacper Pawlik",
+    "published": "2017-02-22T16:38:00.631Z",
+    "modified": "2026-08-13T20:10:57.926Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 794,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 29,
+    "external": 1,
+    "contentInternal": 13,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "paint",
+     "wallpaper",
+     "brick calculator",
+     "concrete column calculator",
+     "drywall sizes and drywall thickness",
+     "drywall that will save you from fire",
+     "tile calculator",
+     "wainscoting calculator",
+     "wall square footage calculator",
+     "what is drywall (sheetrock)?",
+     "how much is a sheet of drywall? – sheetrock prices in US",
+     "Stone Weight Calculator",
+     "Board and Batten Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/construction/paint",
+     "https://www.omnicalculator.com/construction/wallpaper",
+     "https://www.omnicalculator.com/construction/brick",
+     "https://www.omnicalculator.com/construction/concrete-column",
+     "https://www.omnicalculator.com/construction/drywall#drywall-sizes-and-drywall-thickness",
+     "https://www.omnicalculator.com/construction/drywall#drywall-that-will-save-you-from-fire",
+     "https://www.omnicalculator.com/construction/tile",
+     "https://www.omnicalculator.com/construction/wainscoting",
+     "https://www.omnicalculator.com/construction/wall-square-footage",
+     "https://www.omnicalculator.com/construction/drywall#what-is-drywall-sheetrock",
+     "https://www.omnicalculator.com/construction/drywall#how-much-is-a-sheet-of-drywall-sheetrock-prices-in-us",
+     "https://www.omnicalculator.com/construction/stone",
+     "https://www.omnicalculator.com/construction/board-and-batten"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/drywall-calculator/": {
+   "url": "https://www.inchcalculator.com/drywall-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/drywall-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-26T09:05:37.349Z",
+   "title": "Drywall Calculator - Estimate Cost and Material - Inch Calculator",
+   "metaDescription": "Calculate the sheets of drywall you need to sheetrock walls and ceilings and estimate how much joint compound, tape, and screws you'll need.",
+   "canonical": "https://www.inchcalculator.com/drywall-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Drywall Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Drywall Material Estimate",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate Drywall",
+    "How to Estimate Drywall Without a Calculator",
+    "How to Estimate Joint Compound and Tape",
+    "How to Estimate Drywall Cost",
+    "Sheetrock Panel Size Factors to Consider",
+    "Frequently Asked Questions",
+    "Similar Construction Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Other Materials",
+    "Project Size",
+    "Is drywall exactly 4x8?",
+    "What size of drywall should you use for walls?",
+    "How much drywall do you need for a 10x10 room?",
+    "Are drywall and Sheetrock the same thing?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Drywall Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Drywall Material Estimate"
+    },
+    {
+     "level": 3,
+     "text": "Other Materials"
+    },
+    {
+     "level": 3,
+     "text": "Project Size"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Drywall"
+    },
+    {
+     "level": 2,
+     "text": "How to Estimate Drywall Without a Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to Estimate Joint Compound and Tape"
+    },
+    {
+     "level": 2,
+     "text": "How to Estimate Drywall Cost"
+    },
+    {
+     "level": 2,
+     "text": "Sheetrock Panel Size Factors to Consider"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "Is drywall exactly 4x8?"
+    },
+    {
+     "level": 3,
+     "text": "What size of drywall should you use for walls?"
+    },
+    {
+     "level": 3,
+     "text": "How much drywall do you need for a 10x10 room?"
+    },
+    {
+     "level": 3,
+     "text": "Are drywall and Sheetrock the same thing?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Construction Calculators"
+    }
+   ],
+   "wordCount": 1484,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "Is drywall exactly 4x8?",
+    "What size of drywall should you use for walls?",
+    "How much drywall do you need for a 10x10 room?",
+    "Are drywall and Sheetrock the same thing?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "drywall",
+     "weight": 46
+    },
+    {
+     "term": "estimate",
+     "weight": 16
+    },
+    {
+     "term": "sheets",
+     "weight": 16
+    },
+    {
+     "term": "square",
+     "weight": 15
+    },
+    {
+     "term": "square footage",
+     "weight": 15
+    },
+    {
+     "term": "cost",
+     "weight": 14
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "joint compound",
+     "weight": 12
+    },
+    {
+     "term": "project",
+     "weight": 12
+    },
+    {
+     "term": "need",
+     "weight": 12
+    },
+    {
+     "term": "sheetrock",
+     "weight": 10
+    },
+    {
+     "term": "footage",
+     "weight": 10
+    },
+    {
+     "term": "drywall calculator",
+     "weight": 9
+    },
+    {
+     "term": "calculate",
+     "weight": 9
+    },
+    {
+     "term": "compound",
+     "weight": 9
+    },
+    {
+     "term": "tape",
+     "weight": 9
+    },
+    {
+     "term": "have",
+     "weight": 9
+    },
+    {
+     "term": "walls",
+     "weight": 9
+    },
+    {
+     "term": "joint",
+     "weight": 8
+    },
+    {
+     "term": "size",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "different",
+     "weight": 8
+    },
+    {
+     "term": "sheet",
+     "weight": 7
+    },
+    {
+     "term": "wall",
+     "weight": 7
+    },
+    {
+     "term": "needed",
+     "weight": 6
+    },
+    {
+     "term": "room",
+     "weight": 6
+    },
+    {
+     "term": "materials",
+     "weight": 6
+    },
+    {
+     "term": "estimate drywall",
+     "weight": 6
+    },
+    {
+     "term": "cost guide",
+     "weight": 6
+    },
+    {
+     "term": "material",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "If you’re using a lightweight joint compound (not premixed), then you’ll probably need 0.053 pounds of mud per square foot of drywall.",
+    "Drywall tape typically covers about 2-3 square feet of Sheetrock per foot of tape.",
+    "A 4’x8′ 1/2″ sheet of drywall weighs 54 pounds, while a 4’x12′ 1/2″ sheet weighs 82 pounds.",
+    "Drywall can be found in many different sizes, however, such as 4′ x 10′ and 4′ x 12′, as well as different thicknesses, such as 1/4″, 1/2″, and 5/8″.",
+    "The most common size of drywall for walls is 4′ x 8′.",
+    "If the room is exactly 10′ x 10′ with a 9′ ceiling, then you would need 15 sheets of 4′ x 8′ drywall to cover the walls and ceiling."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 3,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [
+    "Width",
+    "Width Units",
+    "Length",
+    "Length Units",
+    "Height",
+    "Height Units",
+    "Include Ceiling",
+    "Panel Size",
+    "Price (optional)"
+   ],
+   "selectOptionsSample": "in ft yd cm m in ft yd cm m in ft yd cm m 4' x 8' 4' x 9' 4' x 10' 4' x 12'",
+   "unitToggle": true,
+   "wordsBeforeTool": 38,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2015-09-13",
+    "modified": "2025-10-21T14:45:09+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 132,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 51,
+    "external": 13,
+    "contentInternal": 27,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Drywall Calculator",
+     "How to Calculate Drywall",
+     "How to Estimate Drywall Without a Calculator",
+     "How to Estimate Joint Compound and Tape",
+     "How to Estimate Drywall Cost",
+     "Sheetrock Panel Size Factors to Consider",
+     "Frequently Asked Questions",
+     "Full bio",
+     "studs or wall frame",
+     "Get Free Estimates",
+     "calculate the square footage",
+     "round up",
+     "drywall cost calculator",
+     "panel carry tool",
+     "Learn more",
+     "primer and paint",
+     "many rolls of wallpaper",
+     "Wainscoting Layout Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/drywall-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/drywall/",
+     "https://www.inchcalculator.com/drywall-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/drywall-calculator/#idx_how_to_calculate_drywall",
+     "https://www.inchcalculator.com/drywall-calculator/#idx_how_to_estimate_drywall_without_a_calculator",
+     "https://www.inchcalculator.com/drywall-calculator/#idx_how_to_estimate_joint_compound_and_tape",
+     "https://www.inchcalculator.com/drywall-calculator/#idx_how_to_estimate_drywall_cost",
+     "https://www.inchcalculator.com/drywall-calculator/#idx_sheetrock_panel_size_factors_to_consider",
+     "https://www.inchcalculator.com/drywall-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/sarabeth-asaff-south/",
+     "https://www.inchcalculator.com/drywall-calculator/",
+     "https://www.inchcalculator.com/framing-calculator/",
+     "https://www.inchcalculator.com/get-free-home-repair-estimates/?preset_project_type=Drywall&preset_service_id=",
+     "https://www.inchcalculator.com/square-footage-calculator/",
+     "https://www.inchcalculator.com/rounding-calculator/",
+     "https://www.inchcalculator.com/drywall-cost-guide/",
+     "https://www.inchcalculator.com/recommended/a-stanley-panel-carry-93-300",
+     "https://www.inchcalculator.com/terms-of-use/#idx_affiliate_disclosure",
+     "https://www.inchcalculator.com/paint-calculator/",
+     "https://www.inchcalculator.com/wallpaper-calculator/",
+     "https://www.inchcalculator.com/wainscoting-layout-calculator/",
+     "https://www.inchcalculator.com/popcorn-ceiling-texture-removal-cost-guide/",
+     "https://www.inchcalculator.com/knockdown-texture-cost-guide/",
+     "https://www.inchcalculator.com/drywall-ceiling-repair-cost-guide/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fdrywall-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fdrywall-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fdrywall-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fdrywall-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fdrywall-calculator%2F&text=Drywall+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fdrywall-calculator%2F&text=Drywall+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.homeadvisor.com/r/drywall-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.certainteed.com/drywall-calculator": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

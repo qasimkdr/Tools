@@ -1,0 +1,291 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/other/frames-to-timecode": {
+   "url": "https://www.omnicalculator.com/other/frames-to-timecode",
+   "finalUrl": "https://www.omnicalculator.com/other/frames-to-timecode",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-26T09:06:07.702Z",
+   "title": "Frames to Timecode Calculator",
+   "metaDescription": "This frames to timecode calculator helps you to identify the correct frame in a recorded video.",
+   "canonical": "https://www.omnicalculator.com/other/frames-to-timecode",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Frames to Timecode Calculator"
+   ],
+   "h2": [
+    "What is a video frame?",
+    "What is a timecode?",
+    "How to convert frames to timecode",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I find the timecode from the frame number?",
+    "Why do we use 24 frames per second?",
+    "What is the timecode of the frame number 25015 in a 60 fps video?",
+    "What is the timecode of a frame?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Frames to Timecode Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is a video frame?"
+    },
+    {
+     "level": 2,
+     "text": "What is a timecode?"
+    },
+    {
+     "level": 2,
+     "text": "How to convert frames to timecode"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I find the timecode from the frame number?"
+    },
+    {
+     "level": 3,
+     "text": "Why do we use 24 frames per second?"
+    },
+    {
+     "level": 3,
+     "text": "What is the timecode of the frame number 25015 in a 60 fps video?"
+    },
+    {
+     "level": 3,
+     "text": "What is the timecode of a frame?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 733,
+   "avgSentenceWords": 17,
+   "faqs": [
+    "How do I find the timecode from the frame number?",
+    "Why do we use 24 frames per second?",
+    "What is the timecode of the frame number 25015 in a 60 fps video?",
+    "What is the timecode of a frame?",
+    "What is a video frame?",
+    "What is a timecode?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "frames",
+     "weight": 26
+    },
+    {
+     "term": "video",
+     "weight": 23
+    },
+    {
+     "term": "frame",
+     "weight": 22
+    },
+    {
+     "term": "timecode",
+     "weight": 19
+    },
+    {
+     "term": "number",
+     "weight": 15
+    },
+    {
+     "term": "frame rate",
+     "weight": 12
+    },
+    {
+     "term": "calculator",
+     "weight": 11
+    },
+    {
+     "term": "second",
+     "weight": 11
+    },
+    {
+     "term": "find",
+     "weight": 10
+    },
+    {
+     "term": "seconds",
+     "weight": 9
+    },
+    {
+     "term": "rate",
+     "weight": 8
+    },
+    {
+     "term": "minutes",
+     "weight": 7
+    },
+    {
+     "term": "timecode calculator",
+     "weight": 6
+    },
+    {
+     "term": "frame number",
+     "weight": 6
+    },
+    {
+     "term": "fps",
+     "weight": 5
+    },
+    {
+     "term": "excess frames",
+     "weight": 5
+    },
+    {
+     "term": "video frame",
+     "weight": 5
+    },
+    {
+     "term": "hours",
+     "weight": 4
+    },
+    {
+     "term": "check",
+     "weight": 4
+    },
+    {
+     "term": "shown",
+     "weight": 4
+    },
+    {
+     "term": "beginning",
+     "weight": 4
+    },
+    {
+     "term": "excess",
+     "weight": 3
+    },
+    {
+     "term": "convert",
+     "weight": 3
+    },
+    {
+     "term": "convert frames",
+     "weight": 3
+    },
+    {
+     "term": "frames shown",
+     "weight": 3
+    },
+    {
+     "term": "sequence",
+     "weight": 3
+    },
+    {
+     "term": "example",
+     "weight": 3
+    },
+    {
+     "term": "used",
+     "weight": 3
+    },
+    {
+     "term": "steps find",
+     "weight": 3
+    },
+    {
+     "term": "frame rates",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "For example, consider the timecode 00:04:15:13.",
+    "For example, if your video has 1000 frames, its timecode will be: 00:00:41:16 for 24 frames per second; 00:00:33:10 for 30 frames per second; and 00:00:20:00 for 50 frames per second."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 4,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Bogna Szyk",
+    "published": "2018-05-11T11:31:25.960Z",
+    "modified": "2024-01-18T12:05:18.348Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 481,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 21,
+    "external": 1,
+    "contentInternal": 5,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "timecode to frames calculator",
+     "video frame size calculator",
+     "time lapse calculator",
+     "Poker Odds Calculator",
+     "RAID Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/other/timecode-to-frame",
+     "https://www.omnicalculator.com/other/video-frame-size",
+     "https://www.omnicalculator.com/other/time-lapse",
+     "https://www.omnicalculator.com/other/poker-odds",
+     "https://www.omnicalculator.com/other/raid"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://bushe.co/tools/timecode-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://bchillmix.com/pages/timecode-calculator": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

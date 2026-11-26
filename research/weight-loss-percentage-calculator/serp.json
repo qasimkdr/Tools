@@ -1,0 +1,146 @@
+{
+ "keywords": {
+  "weight loss percentage calculator": {
+   "fetchedAt": "2026-11-26T09:05:31.923Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 6600,
+   "fileKd": 26,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 1,
+    "url": "www.omnicalculator.com/health/weight-loss-percentage"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.inchcalculator.com/weight-loss-percentage-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Weight Loss Percentage Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.omnicalculator.com/health/weight-loss-percentage",
+     "domain": "www.omnicalculator.com",
+     "title": "Weight Loss Percentage Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://fitnessvolt.com/weight-loss-percentage-calculator/",
+     "domain": "fitnessvolt.com",
+     "title": "Weight Loss Percentage Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://zoe.com/learn/how-to-calculate-weight-loss-as-a-percentage",
+     "domain": "zoe.com",
+     "title": "How to calculate weight loss as a percentage",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://zoe.com/learn/weight-loss-percentage-calculator",
+     "domain": "zoe.com",
+     "title": "Weight Loss Percentage Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://goodcalculators.com/weight-loss-percentage-calculator/",
+     "domain": "goodcalculators.com",
+     "title": "Weight Loss Percentage Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.chemist-4-u.com/guides/weight-loss/how-much-weight-have-i-lost/",
+     "domain": "www.chemist-4-u.com",
+     "title": "How Much Weight Have I Lost?",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.livestrong.com/article/421758-weight-loss-percentage-calculation/",
+     "domain": "www.livestrong.com",
+     "title": "Weight Loss Percentage Calculation",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "weight-loss-percentage-calculator",
+ "page": "weight-loss-percentage-calculator",
+ "category": "health",
+ "name": "Weight Loss Percentage Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-26T09:05:31.923Z",
+ "topCompetitors": [
+  {
+   "domain": "zoe.com",
+   "bestRank": 4,
+   "keywords": 2,
+   "urls": [
+    "https://zoe.com/learn/how-to-calculate-weight-loss-as-a-percentage",
+    "https://zoe.com/learn/weight-loss-percentage-calculator"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/weight-loss-percentage-calculator/"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/health/weight-loss-percentage"
+   ]
+  },
+  {
+   "domain": "fitnessvolt.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://fitnessvolt.com/weight-loss-percentage-calculator/"
+   ]
+  },
+  {
+   "domain": "goodcalculators.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://goodcalculators.com/weight-loss-percentage-calculator/"
+   ]
+  },
+  {
+   "domain": "chemist-4-u.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.chemist-4-u.com/guides/weight-loss/how-much-weight-have-i-lost/"
+   ]
+  },
+  {
+   "domain": "livestrong.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.livestrong.com/article/421758-weight-loss-percentage-calculation/"
+   ]
+  }
+ ]
+}

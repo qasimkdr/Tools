@@ -1,0 +1,607 @@
+{
+ "pages": {
+  "https://www.inchcalculator.com/weight-loss-percentage-calculator/": {
+   "url": "https://www.inchcalculator.com/weight-loss-percentage-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/weight-loss-percentage-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-26T09:05:58.260Z",
+   "title": "Weight Loss Percentage Calculator - Inch Calculator",
+   "metaDescription": "Use our weight loss percentage to track your drop in weight as a percentage. Plus, learn the weight loss percentage formula.",
+   "canonical": "https://www.inchcalculator.com/weight-loss-percentage-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Weight Loss Percentage Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Weight Loss Percentage",
+    "Share This Result",
+    "Cite This Page",
+    "How to Calculate a Weight Loss Percentage",
+    "Similar Health Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Total Weight Loss",
+    "Weight Loss Percentage Formula"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Weight Loss Percentage Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Weight Loss Percentage"
+    },
+    {
+     "level": 3,
+     "text": "Total Weight Loss"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate a Weight Loss Percentage"
+    },
+    {
+     "level": 3,
+     "text": "Weight Loss Percentage Formula"
+    },
+    {
+     "level": 2,
+     "text": "Similar Health Calculators"
+    }
+   ],
+   "wordCount": 611,
+   "avgSentenceWords": 23,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "weight",
+     "weight": 47
+    },
+    {
+     "term": "weight loss",
+     "weight": 42
+    },
+    {
+     "term": "loss",
+     "weight": 28
+    },
+    {
+     "term": "loss percentage",
+     "weight": 20
+    },
+    {
+     "term": "percentage",
+     "weight": 19
+    },
+    {
+     "term": "calculator",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "calculate",
+     "weight": 7
+    },
+    {
+     "term": "initial",
+     "weight": 6
+    },
+    {
+     "term": "initial weight",
+     "weight": 6
+    },
+    {
+     "term": "lbs",
+     "weight": 6
+    },
+    {
+     "term": "progress",
+     "weight": 5
+    },
+    {
+     "term": "formula",
+     "weight": 5
+    },
+    {
+     "term": "percentage calculator",
+     "weight": 5
+    },
+    {
+     "term": "total weight",
+     "weight": 5
+    },
+    {
+     "term": "body weight",
+     "weight": 5
+    },
+    {
+     "term": "lost",
+     "weight": 4
+    },
+    {
+     "term": "current weight",
+     "weight": 3
+    },
+    {
+     "term": "total",
+     "weight": 3
+    },
+    {
+     "term": "facebook share",
+     "weight": 3
+    },
+    {
+     "term": "inch calculator",
+     "weight": 3
+    },
+    {
+     "term": "several",
+     "weight": 3
+    },
+    {
+     "term": "full bio",
+     "weight": 3
+    },
+    {
+     "term": "setting",
+     "weight": 3
+    },
+    {
+     "term": "many",
+     "weight": 3
+    },
+    {
+     "term": "pounds",
+     "weight": 3
+    },
+    {
+     "term": "initial body",
+     "weight": 3
+    },
+    {
+     "term": "body",
+     "weight": 3
+    },
+    {
+     "term": "percent decrease",
+     "weight": 3
+    },
+    {
+     "term": "decrease formula",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "For example, let’s say someone started at 200 pounds and has dropped their weight to 180 pounds.",
+    "200 lbs – 180 lbs = 20 lbs lost Then, divide the weight loss by the initial weight.",
+    "20 lbs / 200 lbs × 100% = 10% So, in this example, this person lost 10% of their initial body weight."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 2,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "Initial Weight",
+    "Initial Weight Units",
+    "Current Weight",
+    "Current Weight Units",
+    "Weight Unit"
+   ],
+   "selectOptionsSample": "lbs kg st lbs kg st lbs kg st",
+   "unitToggle": true,
+   "wordsBeforeTool": 23,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2023-08-31",
+    "modified": "2023-12-11T13:49:58+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 115,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 38,
+    "external": 13,
+    "contentInternal": 14,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Full bio",
+     "Weight Loss Percentage Calculator",
+     "percentage",
+     "percent decrease formula",
+     "weight loss calculator",
+     "Ideal Body Weight Calculator",
+     "Height Converter",
+     "Height Calculator",
+     "Sleep Calculator",
+     "Height Comparison Chart",
+     "See All"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/weight-loss-percentage-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/weight-loss-percentage/",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/hannah-daugherty/",
+     "https://www.inchcalculator.com/weight-loss-percentage-calculator/",
+     "https://www.inchcalculator.com/percentage-calculator/",
+     "https://www.inchcalculator.com/percent-decrease-calculator/",
+     "https://www.inchcalculator.com/weight-loss-calculator/",
+     "https://www.inchcalculator.com/ideal-body-weight-calculator/",
+     "https://www.inchcalculator.com/height-converter/",
+     "https://www.inchcalculator.com/height-calculator/",
+     "https://www.inchcalculator.com/sleep-calculator/",
+     "https://www.inchcalculator.com/height-comparison-chart/",
+     "https://www.inchcalculator.com/body-measurement-calculators/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fweight-loss-percentage-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fweight-loss-percentage-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fweight-loss-percentage-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fweight-loss-percentage-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fweight-loss-percentage-calculator%2F&text=Weight+Loss+Percentage+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fweight-loss-percentage-calculator%2F&text=Weight+Loss+Percentage+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/health/weight-loss-percentage": {
+   "url": "https://www.omnicalculator.com/health/weight-loss-percentage",
+   "finalUrl": "https://www.omnicalculator.com/health/weight-loss-percentage",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-26T09:06:01.577Z",
+   "title": "Weight Loss Percentage Calculator",
+   "metaDescription": "Find out your weight loss as a percentage using Omni's weight loss percentage calculator.",
+   "canonical": "https://www.omnicalculator.com/health/weight-loss-percentage",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Weight Loss Percentage Calculator"
+   ],
+   "h2": [
+    "Why weight loss stalls?",
+    "Why you might have trouble losing weight?",
+    "How to calculate weight loss percentage — Weight loss formula",
+    "How to use weight loss percentage calculator",
+    "Weight says very little about your overall health",
+    "FAQs"
+   ],
+   "h3": [
+    "What is a healthy weight loss percentage?",
+    "How can I calculate weight loss percentage?",
+    "What’s the weight loss percentage for 190 lb starting weight and 15 lb lost?",
+    "What is a good percentage of weight loss?",
+    "How can I track progress without obsessing over numbers?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Weight Loss Percentage Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Why weight loss stalls?"
+    },
+    {
+     "level": 2,
+     "text": "Why you might have trouble losing weight?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate weight loss percentage — Weight loss formula"
+    },
+    {
+     "level": 2,
+     "text": "How to use weight loss percentage calculator"
+    },
+    {
+     "level": 2,
+     "text": "Weight says very little about your overall health"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What is a healthy weight loss percentage?"
+    },
+    {
+     "level": 3,
+     "text": "How can I calculate weight loss percentage?"
+    },
+    {
+     "level": 3,
+     "text": "What’s the weight loss percentage for 190 lb starting weight and 15 lb lost?"
+    },
+    {
+     "level": 3,
+     "text": "What is a good percentage of weight loss?"
+    },
+    {
+     "level": 3,
+     "text": "How can I track progress without obsessing over numbers?"
+    }
+   ],
+   "wordCount": 1093,
+   "avgSentenceWords": 15,
+   "faqs": [
+    "What is a healthy weight loss percentage?",
+    "How can I calculate weight loss percentage?",
+    "What’s the weight loss percentage for 190 lb starting weight and 15 lb lost?",
+    "What is a good percentage of weight loss?",
+    "How can I track progress without obsessing over numbers?",
+    "weight loss percentage?",
+    "Why weight loss stalls?",
+    "Why you might have trouble losing weight?",
+    "What’s the weight loss percentage for 190 lb starting weight and 15 lb lost?"
+   ],
+   "faqSchemaCount": 5,
+   "topics": [
+    {
+     "term": "weight",
+     "weight": 82
+    },
+    {
+     "term": "weight loss",
+     "weight": 48
+    },
+    {
+     "term": "loss",
+     "weight": 32
+    },
+    {
+     "term": "past weight",
+     "weight": 26
+    },
+    {
+     "term": "percentage",
+     "weight": 19
+    },
+    {
+     "term": "loss percentage",
+     "weight": 18
+    },
+    {
+     "term": "past",
+     "weight": 18
+    },
+    {
+     "term": "current weight",
+     "weight": 18
+    },
+    {
+     "term": "calculator",
+     "weight": 15
+    },
+    {
+     "term": "current",
+     "weight": 12
+    },
+    {
+     "term": "body",
+     "weight": 12
+    },
+    {
+     "term": "weight current",
+     "weight": 8
+    },
+    {
+     "term": "total weight",
+     "weight": 8
+    },
+    {
+     "term": "progress",
+     "weight": 7
+    },
+    {
+     "term": "starting weight",
+     "weight": 6
+    },
+    {
+     "term": "weight past",
+     "weight": 6
+    },
+    {
+     "term": "total",
+     "weight": 5
+    },
+    {
+     "term": "formula",
+     "weight": 5
+    },
+    {
+     "term": "it's",
+     "weight": 5
+    },
+    {
+     "term": "lost",
+     "weight": 5
+    },
+    {
+     "term": "ideal weight",
+     "weight": 5
+    },
+    {
+     "term": "losing weight",
+     "weight": 5
+    },
+    {
+     "term": "weight 100",
+     "weight": 5
+    },
+    {
+     "term": "calculate",
+     "weight": 4
+    },
+    {
+     "term": "enter",
+     "weight": 4
+    },
+    {
+     "term": "too",
+     "weight": 4
+    },
+    {
+     "term": "might",
+     "weight": 4
+    },
+    {
+     "term": "scale",
+     "weight": 4
+    },
+    {
+     "term": "losing",
+     "weight": 4
+    },
+    {
+     "term": "starting",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "Let’s say your past weight was 200 lb, and your current weight is 180 lb: (200 − 180) / 200 × 100% = 10% That means you’ve lost 10% of your body weight, which equals 20 lbs.",
+    "It's believed that for people with obesity, it's beneficial to lose 5%-10% of their total weight.",
+    "Multiply the result by 100 to express it as a weight loss percentage.",
+    "This falls within the commonly recommended range of 5%-10% for healthy weight loss.",
+    "Around 0.5% to 1.0% of your body weight per week."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Michał Bieńko",
+    "published": "2025-04-09T09:16:05.292Z",
+    "modified": "2026-08-17T14:48:32.335Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 470,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 21,
+    "external": 1,
+    "contentInternal": 5,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Weight loss",
+     "BMI calculator",
+     "ideal weight calculator",
+     "waist to height ratio calculator",
+     "waist-to-hip ratio calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/sports/weight-loss",
+     "https://www.omnicalculator.com/health/bmi",
+     "https://www.omnicalculator.com/health/ideal-weight",
+     "https://www.omnicalculator.com/health/waist-height-ratio",
+     "https://www.omnicalculator.com/health/waist-hip-ratio"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://zoe.com/learn/weight-loss-percentage-calculator": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

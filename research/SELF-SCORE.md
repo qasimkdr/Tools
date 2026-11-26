@@ -96,14 +96,14 @@ Rule-based on-page signals only — not rankings.
 | productivity-calculator | **27/30** | 4 | 4 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 17/25 | ahead |
 | date-difference-calculator | **25/30** | 4 | 2 | 5 | 5 | 4 | 5 | www.calculatorsoup.com | 20/30 | ahead |
 | blood-pressure-by-age-calculator | **27/30** | 5 | 4 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 14/25 | ahead |
-| ohms-law-calculator | **26/30** | 5 | 2 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 26/30 | tied |
+| ohms-law-calculator | **27/30** | 5 | 3 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 26/30 | ahead |
 | interest-calculator | **27/30** | 5 | 4 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 25/30 | ahead |
 | recessed-light-calculator | **24/30** | 4 | 3 | 5 | 3 | 4 | 5 | www.omnicalculator.com | 16/25 | ahead |
 | fence-post-depth-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 17/25 | ahead |
 | pine-straw-calculator | **27/30** | 5 | 3 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
 | lead-time-calculator | **26/30** | 4 | 3 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 17/25 | ahead |
 | molarity-calculator | **26/30** | 4 | 3 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 19/25 | ahead |
-| watts-to-amps-calculator | **25/30** | 5 | 2 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 21/30 | ahead |
+| watts-to-amps-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 21/30 | ahead |
 | time-off-calculator | **25/30** | 4 | 3 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 23/30 | ahead |
 | decimals-calculator | **25/30** | 4 | 2 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
 | epoxy-resin-calculator | **29/30** | 5 | 5 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
@@ -144,7 +144,7 @@ Rule-based on-page signals only — not rankings.
 | rounding-calculator | **24/30** | 4 | 2 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
 | voo-calculator | **26/30** | 5 | 4 | 5 | 3 | 4 | 5 | www.omnicalculator.com | 21/30 | ahead |
 | cap-rate-calculator | **26/30** | 5 | 4 | 5 | 3 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
-| horsepower-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 16/25 | ahead |
+| horsepower-calculator | **27/30** | 5 | 4 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 16/25 | ahead |
 | roofing-calculator | **26/30** | 5 | 4 | 5 | 3 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
 | bowling-handicap-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | — | — | no data |
 | five-number-summary-calculator | **24/25** | 5 | null | 5 | 5 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
@@ -153,3 +153,8 @@ Rule-based on-page signals only — not rankings.
 | reverse-bmi-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | — | — | no data |
 | binding-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 15/25 | ahead |
 | sheep-gestation-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 21/30 | ahead |
+| cpm-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 17/25 | ahead |
+| drywall-calculator | **27/30** | 5 | 5 | 5 | 3 | 4 | 5 | www.inchcalculator.com | 25/30 | ahead |
+| weight-loss-percentage-calculator | **25/30** | 5 | 2 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 19/25 | ahead |
+| timecode-calculator | **26/30** | 5 | 2 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
+| watt-hour-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |

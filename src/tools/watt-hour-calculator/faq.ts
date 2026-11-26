@@ -1,0 +1,9 @@
+export const faq = [
+  { q: "How do you calculate watt-hours?", a: "Multiply power in watts by time in hours: Wh = W × h. A 60 W bulb left on for 8 hours uses 60 × 8 = 480 Wh, or 0.48 kWh. For a battery, multiply its voltage by its amp-hours: 12 V × 50 Ah = 600 Wh." },
+  { q: "How do I convert mAh to Wh?", a: "Wh = mAh × V ÷ 1,000. A 5,000 mAh power bank with 3.7 V cells holds 5,000 × 3.7 ÷ 1,000 = 18.5 Wh. Use the cell voltage printed on the battery, not the 5 V USB output." },
+  { q: "How long will a battery run my device?", a: "Divide the battery's watt-hours by the device's power in watts, then allow for losses. A 600 Wh battery runs a 60 W load for about 10 hours in theory; through an inverter or converter, expect less." },
+  { q: "What is the difference between Wh and kWh?", a: "A kilowatt-hour is 1,000 watt-hours. Electricity bills are in kWh, while small batteries are rated in Wh or mAh. 480 Wh = 0.48 kWh." },
+  { q: "Can I take my power bank on a plane?", a: "Under FAA rules, lithium-ion batteries up to 100 Wh are generally allowed in carry-on bags; 101–160 Wh need airline approval (up to two spares); batteries over 160 Wh are forbidden on passenger aircraft. Spare batteries must not go in checked bags. Airlines may set stricter limits." },
+  { q: "How much does it cost to run an appliance?", a: "Cost = kWh × price per kWh. A 60 W device used 8 hours a day uses 0.48 kWh a day; at $0.15 per kWh that's $0.07 a day, or about $2.16 over 30 days." },
+  { q: "What is the difference between amp-hours and watt-hours?", a: "Amp-hours measure charge; watt-hours measure energy. Two batteries with the same amp-hours store different energy if their voltages differ: 10 Ah at 12 V is 120 Wh, but 10 Ah at 3.7 V is only 37 Wh. Watt-hours let you compare batteries fairly." },
+];

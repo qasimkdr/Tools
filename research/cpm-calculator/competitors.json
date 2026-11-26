@@ -1,0 +1,280 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/other/cpm": {
+   "url": "https://www.omnicalculator.com/other/cpm",
+   "finalUrl": "https://www.omnicalculator.com/finance/cpm",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-26T09:05:46.931Z",
+   "title": "CPM Calculator",
+   "metaDescription": "CPM calculator helps you with cost and volume of advertising traffic.",
+   "canonical": "https://www.omnicalculator.com/finance/cpm",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "CPM Calculator"
+   ],
+   "h2": [
+    "How to calculate CPM",
+    "FAQs"
+   ],
+   "h3": [
+    "How do you calculate CPM – cost per mille?",
+    "What is a good CPM?",
+    "What is a bad CPM?",
+    "How to improve CPM?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "CPM Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate CPM"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do you calculate CPM – cost per mille?"
+    },
+    {
+     "level": 3,
+     "text": "What is a good CPM?"
+    },
+    {
+     "level": 3,
+     "text": "What is a bad CPM?"
+    },
+    {
+     "level": 3,
+     "text": "How to improve CPM?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 629,
+   "avgSentenceWords": 15,
+   "faqs": [
+    "How do you calculate CPM – cost per mille?",
+    "What is a good CPM?",
+    "What is a bad CPM?",
+    "How to improve CPM?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "cpm",
+     "weight": 24
+    },
+    {
+     "term": "cost",
+     "weight": 16
+    },
+    {
+     "term": "calculator",
+     "weight": 10
+    },
+    {
+     "term": "impressions",
+     "weight": 10
+    },
+    {
+     "term": "cpm calculator",
+     "weight": 6
+    },
+    {
+     "term": "views",
+     "weight": 6
+    },
+    {
+     "term": "number",
+     "weight": 5
+    },
+    {
+     "term": "check",
+     "weight": 5
+    },
+    {
+     "term": "it's",
+     "weight": 5
+    },
+    {
+     "term": "calculate cpm",
+     "weight": 5
+    },
+    {
+     "term": "cost cpm",
+     "weight": 5
+    },
+    {
+     "term": "total",
+     "weight": 4
+    },
+    {
+     "term": "campaign",
+     "weight": 4
+    },
+    {
+     "term": "online",
+     "weight": 4
+    },
+    {
+     "term": "cpc",
+     "weight": 4
+    },
+    {
+     "term": "calculate",
+     "weight": 4
+    },
+    {
+     "term": "thousand",
+     "weight": 4
+    },
+    {
+     "term": "much",
+     "weight": 4
+    },
+    {
+     "term": "below",
+     "weight": 3
+    },
+    {
+     "term": "business",
+     "weight": 3
+    },
+    {
+     "term": "online marketers",
+     "weight": 3
+    },
+    {
+     "term": "advertising",
+     "weight": 3
+    },
+    {
+     "term": "click",
+     "weight": 3
+    },
+    {
+     "term": "divide",
+     "weight": 3
+    },
+    {
+     "term": "1000 cost",
+     "weight": 3
+    },
+    {
+     "term": "have",
+     "weight": 3
+    },
+    {
+     "term": "impressions 1000",
+     "weight": 3
+    },
+    {
+     "term": "you're",
+     "weight": 3
+    },
+    {
+     "term": "model",
+     "weight": 3
+    },
+    {
+     "term": "value",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "CPM Calculator Total cost of a campaign Cost per 1000 impressions (CPM) Number of impressions Use the expandable menu below (Second campaign) to compare the costs of the two campaigns.",
+    "So the CPM formula is CPM = 1000 × cost / impressions."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 4,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Mateusz Mucha",
+    "published": "2016-01-20T16:21:59.663Z",
+    "modified": "2024-06-14T17:35:02.062Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 710,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 20,
+    "external": 1,
+    "contentInternal": 4,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "CPC and CPM calculator",
+     "online conversion calculator",
+     "website ad revenue calculator",
+     "Full-time Equivalent (FTE) Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/finance/cpc-cpm",
+     "https://www.omnicalculator.com/finance/online-marketing-roi",
+     "https://www.omnicalculator.com/finance/website-ad-revenue",
+     "https://www.omnicalculator.com/finance/full-time-equivalent"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.webfx.com/tools/cpm-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://searchengineland.com/tools/ppc-ad-calculators/cpm-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.shopify.com/tools/cpm-calculator": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

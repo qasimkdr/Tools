@@ -1,0 +1,143 @@
+{
+ "keywords": {
+  "watt hour calculator": {
+   "fetchedAt": "2026-11-26T09:05:32.204Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1600,
+   "fileKd": 13,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.omnicalculator.com/physics/watt-hours",
+     "domain": "www.omnicalculator.com",
+     "title": "Watt Hours Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.firgelliauto.com/blogs/engineering-calculators/watt-hours-calculator",
+     "domain": "www.firgelliauto.com",
+     "title": "Watt Hours Interactive Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://footprinthero.com/watts-to-watt-hours-calculator",
+     "domain": "footprinthero.com",
+     "title": "Watts to Watt Hours (W to Wh) Conversion Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://shopsolarkits.com/pages/watts-per-hour-calculator",
+     "domain": "shopsolarkits.com",
+     "title": "Watts Per Hour Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.inchcalculator.com/convert/from-watt-hour/",
+     "domain": "www.inchcalculator.com",
+     "title": "Watt-Hour Conversion Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://goalzero.com/en-ca/pages/wattage-calculator",
+     "domain": "goalzero.com",
+     "title": "Wattage calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.inchcalculator.com/watts-to-kwh-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Watts to Kilowatt-Hours (kWh) Conversion Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.electricscooterparts.com/amp-hour-to-watt-hour-conversion-calculator.html",
+     "domain": "www.electricscooterparts.com",
+     "title": "Amp hour to watt hour conversion calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "watt-hour-calculator",
+ "page": "watt-hour-calculator",
+ "category": "science",
+ "name": "Watt Hour Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-26T09:05:32.205Z",
+ "topCompetitors": [
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 5,
+   "keywords": 2,
+   "urls": [
+    "https://www.inchcalculator.com/convert/from-watt-hour/",
+    "https://www.inchcalculator.com/watts-to-kwh-calculator/"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/physics/watt-hours"
+   ]
+  },
+  {
+   "domain": "firgelliauto.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.firgelliauto.com/blogs/engineering-calculators/watt-hours-calculator"
+   ]
+  },
+  {
+   "domain": "footprinthero.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://footprinthero.com/watts-to-watt-hours-calculator"
+   ]
+  },
+  {
+   "domain": "shopsolarkits.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://shopsolarkits.com/pages/watts-per-hour-calculator"
+   ]
+  },
+  {
+   "domain": "goalzero.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://goalzero.com/en-ca/pages/wattage-calculator"
+   ]
+  },
+  {
+   "domain": "electricscooterparts.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.electricscooterparts.com/amp-hour-to-watt-hour-conversion-calculator.html"
+   ]
+  }
+ ]
+}
