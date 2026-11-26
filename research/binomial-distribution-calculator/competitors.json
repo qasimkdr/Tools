@@ -1,0 +1,710 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/statistics/binomial-distribution": {
+   "url": "https://www.omnicalculator.com/statistics/binomial-distribution",
+   "finalUrl": "https://www.omnicalculator.com/statistics/binomial-distribution",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-26T15:34:10.278Z",
+   "title": "Binomial Distribution Calculator",
+   "metaDescription": "Use the binomial distribution calculator to calculate the probability of a certain number of successes in a sequence of experiments.",
+   "canonical": "https://www.omnicalculator.com/statistics/binomial-distribution",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Binomial Distribution Calculator"
+   ],
+   "h2": [
+    "What is the binomial probability?",
+    "Binomial probability formula",
+    "How to use the binomial distribution calculator: an example",
+    "How to calculate cumulative probabilities",
+    "Binomial probability distribution experiments",
+    "Mean and variance of binomial distribution",
+    "Other considerations",
+    "FAQs"
+   ],
+   "h3": [
+    "Is the binomial distribution discrete or continuous?",
+    "How do I find the mean of a binomial distribution?",
+    "How do I find the standard deviation of a binomial distribution?",
+    "What is the probability of 3 successes in 5 trials if the probability of success is 0.5?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Binomial Distribution Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is the binomial probability?"
+    },
+    {
+     "level": 2,
+     "text": "Binomial probability formula"
+    },
+    {
+     "level": 2,
+     "text": "How to use the binomial distribution calculator: an example"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate cumulative probabilities"
+    },
+    {
+     "level": 2,
+     "text": "Binomial probability distribution experiments"
+    },
+    {
+     "level": 2,
+     "text": "Mean and variance of binomial distribution"
+    },
+    {
+     "level": 2,
+     "text": "Other considerations"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "Is the binomial distribution discrete or continuous?"
+    },
+    {
+     "level": 3,
+     "text": "How do I find the mean of a binomial distribution?"
+    },
+    {
+     "level": 3,
+     "text": "How do I find the standard deviation of a binomial distribution?"
+    },
+    {
+     "level": 3,
+     "text": "What is the probability of 3 successes in 5 trials if the probability of success is 0.5?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 2195,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "Is the binomial distribution discrete or continuous?",
+    "How do I find the mean of a binomial distribution?",
+    "How do I find the standard deviation of a binomial distribution?",
+    "What is the probability of 3 successes in 5 trials if the probability of success is 0.5?",
+    "what is the probability of a certain number of successes in a sequence of events?",
+    "What is the binomial probability?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "binomial distribution",
+     "weight": 54
+    },
+    {
+     "term": "binomial",
+     "weight": 52
+    },
+    {
+     "term": "distribution",
+     "weight": 47
+    },
+    {
+     "term": "probability",
+     "weight": 47
+    },
+    {
+     "term": "number",
+     "weight": 35
+    },
+    {
+     "term": "successes",
+     "weight": 30
+    },
+    {
+     "term": "calculator",
+     "weight": 20
+    },
+    {
+     "term": "binomial probability",
+     "weight": 20
+    },
+    {
+     "term": "distribution calculator",
+     "weight": 14
+    },
+    {
+     "term": "events",
+     "weight": 13
+    },
+    {
+     "term": "trials",
+     "weight": 13
+    },
+    {
+     "term": "standard deviation",
+     "weight": 12
+    },
+    {
+     "term": "need",
+     "weight": 12
+    },
+    {
+     "term": "success",
+     "weight": 11
+    },
+    {
+     "term": "mean",
+     "weight": 11
+    },
+    {
+     "term": "variance",
+     "weight": 11
+    },
+    {
+     "term": "dice",
+     "weight": 11
+    },
+    {
+     "term": "calculate",
+     "weight": 10
+    },
+    {
+     "term": "formula",
+     "weight": 9
+    },
+    {
+     "term": "find",
+     "weight": 9
+    },
+    {
+     "term": "standard",
+     "weight": 8
+    },
+    {
+     "term": "deviation",
+     "weight": 8
+    },
+    {
+     "term": "three",
+     "weight": 8
+    },
+    {
+     "term": "equal",
+     "weight": 8
+    },
+    {
+     "term": "values",
+     "weight": 8
+    },
+    {
+     "term": "probability distribution",
+     "weight": 8
+    },
+    {
+     "term": "getting",
+     "weight": 7
+    },
+    {
+     "term": "event",
+     "weight": 6
+    },
+    {
+     "term": "exactly",
+     "weight": 6
+    },
+    {
+     "term": "probability formula",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "The variance of a binomial distribution is given as: σ² = np(1-p).",
+    "The variance of this binomial distribution is equal to np(1-p) = 20 × 0.5 × (1-0.5) = 5.",
+    "Take the square root of the variance, and you get the standard deviation of the binomial distribution, 2.24.",
+    "If there's a chance of getting a result between the two, such as 0.5, the binomial distribution formula should not be used.",
+    "To find the standard deviation of a binomial distribution B(n,p): Compute the variance as n × p × (1-p), where n is the number of trials and p is the probability of successes.",
+    "To find this probability, you need to: Recall the binomial distribution formula P(X = r) = nCr × pʳ × (1-p)ⁿ⁻ʳ."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 10,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Jakub Janus",
+    "published": "2016-11-28T10:32:19.780Z",
+    "modified": "2026-07-24T23:00:53.572Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 549,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 27,
+    "external": 1,
+    "contentInternal": 11,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "hypergeometric distribution calculator",
+     "negative binomial distribution calculator",
+     "normal approximation to binomial distribution calculator",
+     "continuity correction calculator",
+     "combination calculator",
+     "Poisson distribution",
+     "permutations calculator",
+     "Gaussian (aka normal) distribution",
+     "Sum of Squares Calculator",
+     "Midrange Calculator",
+     "Coefficient of Variation Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/statistics/hypergeometric-distribution",
+     "https://www.omnicalculator.com/statistics/negative-binomial-distribution",
+     "https://www.omnicalculator.com/statistics/normal-approximation",
+     "https://www.omnicalculator.com/statistics/continuity-correction",
+     "https://www.omnicalculator.com/statistics/combination",
+     "https://www.omnicalculator.com/statistics/poisson-distribution",
+     "https://www.omnicalculator.com/statistics/permutation",
+     "https://www.omnicalculator.com/statistics/normal-distribution",
+     "https://www.omnicalculator.com/statistics/sum-of-squares",
+     "https://www.omnicalculator.com/statistics/midrange",
+     "https://www.omnicalculator.com/statistics/coefficient-of-variation"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/binomial-distribution-calculator/": {
+   "url": "https://www.inchcalculator.com/binomial-distribution-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/binomial-distribution-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-26T15:34:13.552Z",
+   "title": "Binomial Distribution Calculator - Inch Calculator",
+   "metaDescription": "Calculate binomial probabilities using our binomial distribution calculator. Plus, learn the formulas and steps to solve probabilities.",
+   "canonical": "https://www.inchcalculator.com/binomial-distribution-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Binomial Distribution Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Probabilities",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate a Binomial Distribution",
+    "How to Calculate a Binomial Probability",
+    "How to Calculate Cumulative Binomial Probabilities",
+    "Frequently Asked Questions",
+    "Similar Statistics Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Binomial Probability Formula",
+    "Binomial Probability Distribution Table",
+    "Binomial Cumulative Distribution Function",
+    "How do you know if something is a binomial distribution?",
+    "When would you use a binomial distribution?",
+    "What makes something not binomial?",
+    "Is rolling a dice a binomial distribution?",
+    "How could the probability of success or failure in one instance influence success in the next instance?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Binomial Distribution Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Probabilities"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate a Binomial Distribution"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate a Binomial Probability"
+    },
+    {
+     "level": 3,
+     "text": "Binomial Probability Formula"
+    },
+    {
+     "level": 3,
+     "text": "Binomial Probability Distribution Table"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Cumulative Binomial Probabilities"
+    },
+    {
+     "level": 3,
+     "text": "Binomial Cumulative Distribution Function"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "How do you know if something is a binomial distribution?"
+    },
+    {
+     "level": 3,
+     "text": "When would you use a binomial distribution?"
+    },
+    {
+     "level": 3,
+     "text": "What makes something not binomial?"
+    },
+    {
+     "level": 3,
+     "text": "Is rolling a dice a binomial distribution?"
+    },
+    {
+     "level": 3,
+     "text": "How could the probability of success or failure in one instance influence success in the next instance?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Statistics Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 7035,
+   "avgSentenceWords": 105,
+   "faqs": [
+    "How do you know if something is a binomial distribution?",
+    "When would you use a binomial distribution?",
+    "What makes something not binomial?",
+    "Is rolling a dice a binomial distribution?",
+    "How could the probability of success or failure in one instance influence success in the next instance?"
+   ],
+   "faqSchemaCount": 5,
+   "topics": [
+    {
+     "term": "binomial",
+     "weight": 47
+    },
+    {
+     "term": "distribution",
+     "weight": 44
+    },
+    {
+     "term": "probability",
+     "weight": 42
+    },
+    {
+     "term": "binomial distribution",
+     "weight": 29
+    },
+    {
+     "term": "binomial probability",
+     "weight": 27
+    },
+    {
+     "term": "number",
+     "weight": 24
+    },
+    {
+     "term": "success",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "trials",
+     "weight": 14
+    },
+    {
+     "term": "calculate",
+     "weight": 13
+    },
+    {
+     "term": "cumulative",
+     "weight": 13
+    },
+    {
+     "term": "function",
+     "weight": 13
+    },
+    {
+     "term": "trial",
+     "weight": 12
+    },
+    {
+     "term": "successes",
+     "weight": 12
+    },
+    {
+     "term": "sequence",
+     "weight": 11
+    },
+    {
+     "term": "probability distribution",
+     "weight": 11
+    },
+    {
+     "term": "cumulative distribution",
+     "weight": 11
+    },
+    {
+     "term": "distribution function",
+     "weight": 11
+    },
+    {
+     "term": "heads",
+     "weight": 10
+    },
+    {
+     "term": "coin",
+     "weight": 9
+    },
+    {
+     "term": "coin flips",
+     "weight": 9
+    },
+    {
+     "term": "treatment",
+     "weight": 9
+    },
+    {
+     "term": "know",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "flips",
+     "weight": 7
+    },
+    {
+     "term": "control",
+     "weight": 7
+    },
+    {
+     "term": "probabilities",
+     "weight": 6
+    },
+    {
+     "term": "cumulative binomial",
+     "weight": 6
+    },
+    {
+     "term": "normal distribution",
+     "weight": 6
+    },
+    {
+     "term": "times",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "If we repeated this sequence of one hundred flips 20,000 times and plotted the number of heads in each sequence, we might see a distribution like this one.",
+    "To take more concrete examples, the number of calls to a doctor’s office between 9 AM and 12 PM or meteor strikes in the ocean might be modeled using a Poisson distribution."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 3,
+   "images": 5,
+   "videos": 0,
+   "calculatorInputs": [
+    "Probability of Success (p)",
+    "Number of Trials (n)",
+    "Number of Successes (x)"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 38,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2021-11-10",
+    "modified": "2024-02-06T16:23:33+00:00",
+    "authoritativeSources": [
+     "https://www.itl.nist.gov/div898/handbook/eda/section3/eda366i.htm"
+    ]
+   },
+   "ux": {
+    "htmlKB": 187,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 52,
+    "external": 15,
+    "contentInternal": 28,
+    "contentExternal": 9,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate a Binomial Distribution",
+     "How to Calculate a Binomial Probability",
+     "Binomial Probability Formula",
+     "Binomial Probability Distribution Table",
+     "How to Calculate Cumulative Binomial Probabilities",
+     "Binomial Cumulative Distribution Function",
+     "Frequently Asked Questions",
+     "References",
+     "Full bio",
+     "Binomial Distribution Calculator",
+     "statistics",
+     "probability distribution",
+     "normal distribution",
+     "probability",
+     "combinations calculator",
+     "factorial calculator",
+     "Poisson distribution"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/binomial-distribution-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/binomial-distribution/",
+     "https://www.inchcalculator.com/binomial-distribution-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/binomial-distribution-calculator/#idx_how_to_calculate_a_binomial_distribution",
+     "https://www.inchcalculator.com/binomial-distribution-calculator/#idx_how_to_calculate_a_binomial_probability",
+     "https://www.inchcalculator.com/binomial-distribution-calculator/#idx_binomial_probability_formula",
+     "https://www.inchcalculator.com/binomial-distribution-calculator/#idx_binomial_probability_distribution_table",
+     "https://www.inchcalculator.com/binomial-distribution-calculator/#idx_how_to_calculate_cumulative_binomial_probabilities",
+     "https://www.inchcalculator.com/binomial-distribution-calculator/#idx_binomial_cumulative_distribution_function",
+     "https://www.inchcalculator.com/binomial-distribution-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/binomial-distribution-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/brian-libgober/",
+     "https://www.inchcalculator.com/author/pateakia-heath/",
+     "https://www.inchcalculator.com/binomial-distribution-calculator/",
+     "https://www.inchcalculator.com/statistics-calculator/",
+     "https://www.inchcalculator.com/probability-distribution-calculator/",
+     "https://www.inchcalculator.com/normal-distribution-calculator/",
+     "https://www.inchcalculator.com/probability-calculator/",
+     "https://www.inchcalculator.com/combinations-calculator/",
+     "https://www.inchcalculator.com/factorial-calculator/",
+     "https://www.inchcalculator.com/poisson-distribution-calculator/",
+     "https://www.inchcalculator.com/expected-value-calculator/",
+     "https://www.inchcalculator.com/winning-percentage-calculator/",
+     "https://www.inchcalculator.com/standard-error-calculator/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fbinomial-distribution-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fbinomial-distribution-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fbinomial-distribution-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fbinomial-distribution-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fbinomial-distribution-calculator%2F&text=Binomial+Distribution+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fbinomial-distribution-calculator%2F&text=Binomial+Distribution+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://www.sciencedirect.com/topics/mathematics/binomial-probability-distribution",
+     "https://www.itl.nist.gov/div898/handbook/eda/section3/eda366i.htm"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://statisticsbyjim.com/calculators/binomial-distribution-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.statisticshowto.com/probability-and-statistics/binomial-distribution/": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

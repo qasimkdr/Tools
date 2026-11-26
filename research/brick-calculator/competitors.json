@@ -1,0 +1,681 @@
+{
+ "pages": {
+  "https://www.inchcalculator.com/brick-calculator/": {
+   "url": "https://www.inchcalculator.com/brick-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/brick-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-26T15:33:56.986Z",
+   "title": "Brick Calculator - Estimate Bricks and Mortar - Inch Calculator",
+   "metaDescription": "Calculate how many bricks and bags of mortar you need to build a wall, chimney, or other masonry project. (Usually 7 bricks per square foot)",
+   "canonical": "https://www.inchcalculator.com/brick-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Brick and Mortar Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Material Needed",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How Many Bricks Do You Need?",
+    "How to Calculate How Many Bricks You Need",
+    "How Much Mortar Do You Need?",
+    "Brick Coverage Table",
+    "Similar Siding Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Estimated Material Cost:",
+    "Step One: Find the Square Footage of the Wall",
+    "Step Two: Find the Square Footage of Each Brick",
+    "Step Three: Find How Many Bricks Fill the Wall"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Brick and Mortar Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Material Needed"
+    },
+    {
+     "level": 3,
+     "text": "Estimated Material Cost:"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How Many Bricks Do You Need?"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate How Many Bricks You Need"
+    },
+    {
+     "level": 3,
+     "text": "Step One: Find the Square Footage of the Wall"
+    },
+    {
+     "level": 3,
+     "text": "Step Two: Find the Square Footage of Each Brick"
+    },
+    {
+     "level": 3,
+     "text": "Step Three: Find How Many Bricks Fill the Wall"
+    },
+    {
+     "level": 2,
+     "text": "How Much Mortar Do You Need?"
+    },
+    {
+     "level": 2,
+     "text": "Brick Coverage Table"
+    },
+    {
+     "level": 2,
+     "text": "Similar Siding Calculators"
+    }
+   ],
+   "wordCount": 1599,
+   "avgSentenceWords": 25,
+   "faqs": [
+    "How Many Bricks Do You Need?",
+    "How Much Mortar Do You Need?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "brick",
+     "weight": 34
+    },
+    {
+     "term": "bricks",
+     "weight": 33
+    },
+    {
+     "term": "mortar",
+     "weight": 23
+    },
+    {
+     "term": "square",
+     "weight": 21
+    },
+    {
+     "term": "wall",
+     "weight": 17
+    },
+    {
+     "term": "find",
+     "weight": 16
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "many",
+     "weight": 14
+    },
+    {
+     "term": "need",
+     "weight": 14
+    },
+    {
+     "term": "many bricks",
+     "weight": 14
+    },
+    {
+     "term": "square footage",
+     "weight": 14
+    },
+    {
+     "term": "area",
+     "weight": 11
+    },
+    {
+     "term": "footage",
+     "weight": 9
+    },
+    {
+     "term": "92mm",
+     "weight": 9
+    },
+    {
+     "term": "lbs",
+     "weight": 9
+    },
+    {
+     "term": "width",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "number",
+     "weight": 8
+    },
+    {
+     "term": "square feet",
+     "weight": 8
+    },
+    {
+     "term": "calculate",
+     "weight": 7
+    },
+    {
+     "term": "cost",
+     "weight": 7
+    },
+    {
+     "term": "height",
+     "weight": 7
+    },
+    {
+     "term": "needed",
+     "weight": 7
+    },
+    {
+     "term": "used",
+     "weight": 7
+    },
+    {
+     "term": "cover",
+     "weight": 7
+    },
+    {
+     "term": "feet",
+     "weight": 7
+    },
+    {
+     "term": "inches",
+     "weight": 7
+    },
+    {
+     "term": "project",
+     "weight": 6
+    },
+    {
+     "term": "estimate",
+     "weight": 6
+    },
+    {
+     "term": "sand",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "Brick Coverage Table By Joe Sexton Joe is the creator of Inch Calculator and has over 20 years of experience in engineering and construction.",
+    "The easiest way to do that is to find each brick’s area in square inches and then divide by 144 to convert square inches to square feet.",
+    "Keep in mind that there will also be a 3⁄8” mortar joint between each brick.",
+    "For example, let’s find the number of modular bricks needed to cover the 80 sq ft wall from the earlier examples.",
+    "Use the following formula: 80 ÷ .1458 = 549 bricks We strongly recommend adding 10% additional material to cover any waste and account for any broken blocks or cuts.",
+    "If you plan on creating any patterns in the brick, add another 10% waste to the total.",
+    "Most mortars used for bricks require one bag of cement per 100-142 bricks, depending on the size.",
+    "One bag of cement is needed for every 142 modular, 125 queen, or 100 utility bricks.",
+    "Pre-mixed bags of mortar are also readily available, and an 80-pound bag of mix will often yield 30-36 bricks.",
+    "Divide the total number of bricks by 36 to calculate the bags needed."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 3,
+   "lists": 2,
+   "images": 8,
+   "videos": 0,
+   "calculatorInputs": [
+    "Width",
+    "Width Units",
+    "Height",
+    "Height Units",
+    "Brick Type",
+    "Width",
+    "Width Units",
+    "Height",
+    "Height Units",
+    "Price (optional)"
+   ],
+   "selectOptionsSample": "in ft yd cm m in ft yd cm m modular (7 5/8\" x 2 1/4\") queen (7 5/8\" x 2 3/4\") closure (7 5/8\" x 3 5/8\") standard (8\" x 2 1/4\") jumbo (8\" x 2 3/4\") king (9 5/8\" x 2 5/8\") roman (11 5/8\" x 1 5/8\") norman (11 5/8\" x 2 1/4\") utility (11 5/8\" x 3 5/8\") custom size in cm in cm",
+   "unitToggle": true,
+   "wordsBeforeTool": 45,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2016-02-02",
+    "modified": "2023-06-26T18:17:36+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 135,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 48,
+    "external": 15,
+    "contentInternal": 24,
+    "contentExternal": 9,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Brick Calculator",
+     "How Many Bricks Do You Need?",
+     "How to Calculate How Many Bricks You Need",
+     "Step One: Find the Square Footage of the Wall",
+     "Step Two: Find the Square Footage of Each Brick",
+     "Step Three: Find How Many Bricks Fill the Wall",
+     "How Much Mortar Do You Need?",
+     "Brick Coverage Table",
+     "Full bio",
+     "Brick and Mortar Calculator",
+     "Get Free Estimates",
+     "coverage table",
+     "round up to the nearest full measurement",
+     "square feet calculator",
+     "concrete block calculator",
+     "mortar calculator",
+     "Siding Installation Cost Guide",
+     "Board and Batten Siding Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/brick-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/brick/",
+     "https://www.inchcalculator.com/brick-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/brick-calculator/#idx_how_many_bricks_do_you_need",
+     "https://www.inchcalculator.com/brick-calculator/#idx_how_to_calculate_how_many_bricks_you_need",
+     "https://www.inchcalculator.com/brick-calculator/#idx_step_one_find_the_square_footage_of_the_wall",
+     "https://www.inchcalculator.com/brick-calculator/#idx_step_two_find_the_square_footage_of_each_brick",
+     "https://www.inchcalculator.com/brick-calculator/#idx_step_three_find_how_many_bricks_fill_the_wall",
+     "https://www.inchcalculator.com/brick-calculator/#idx_how_much_mortar_do_you_need",
+     "https://www.inchcalculator.com/brick-calculator/#idx_brick_coverage",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/sarabeth-asaff-south/",
+     "https://www.inchcalculator.com/brick-calculator/",
+     "https://www.inchcalculator.com/get-free-home-repair-estimates/?preset_project_type=&preset_service_id=369",
+     "https://www.inchcalculator.com/rounding-calculator/",
+     "https://www.inchcalculator.com/square-footage-calculator/",
+     "https://www.inchcalculator.com/concrete-block-calculator/",
+     "https://www.inchcalculator.com/block-mortar-calculator/",
+     "https://www.inchcalculator.com/new-siding-cost-guide/",
+     "https://www.inchcalculator.com/board-batten-siding-calculator/",
+     "https://www.inchcalculator.com/siding-clapboard-calculator/",
+     "https://www.inchcalculator.com/siding-power-wash-cost-guide/",
+     "https://www.inchcalculator.com/siding-repair-cost-guide/",
+     "https://www.inchcalculator.com/siding-calculators/"
+    ],
+    "externalSample": [
+     "https://apps.apple.com/app/block-calculator-plus/id1494396680",
+     "https://play.google.com/store/apps/details?id=com.inchcalculator.block_calculator",
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fbrick-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fbrick-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fbrick-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fbrick-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fbrick-calculator%2F&text=Brick+and+Mortar+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fbrick-calculator%2F&text=Brick+and+Mortar+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/construction/brick": {
+   "url": "https://www.omnicalculator.com/construction/brick",
+   "finalUrl": "https://www.omnicalculator.com/construction/brick",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-26T15:34:00.365Z",
+   "title": "Brick Calculator",
+   "metaDescription": "Use the brick calculator to make sure you never overspend (or under-order) on bricks (and mortar materials) again!",
+   "canonical": "https://www.omnicalculator.com/construction/brick",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Brick Calculator"
+   ],
+   "h2": [
+    "How many bricks do I need for my brick wall?",
+    "How do I use the brick calculator?",
+    "Using the brick mortar calculator feature",
+    "Other considerations",
+    "FAQs"
+   ],
+   "h3": [
+    "How many bricks per square foot of brick wall?",
+    "How do I calculate the bricks I need?",
+    "How do I build a brick wall?",
+    "How many bricks will I need to build a wall?",
+    "How much cement do I need for 1000 bricks?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Brick Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How many bricks do I need for my brick wall?"
+    },
+    {
+     "level": 2,
+     "text": "How do I use the brick calculator?"
+    },
+    {
+     "level": 2,
+     "text": "Using the brick mortar calculator feature"
+    },
+    {
+     "level": 2,
+     "text": "Other considerations"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How many bricks per square foot of brick wall?"
+    },
+    {
+     "level": 3,
+     "text": "How do I calculate the bricks I need?"
+    },
+    {
+     "level": 3,
+     "text": "How do I build a brick wall?"
+    },
+    {
+     "level": 3,
+     "text": "How many bricks will I need to build a wall?"
+    },
+    {
+     "level": 3,
+     "text": "How much cement do I need for 1000 bricks?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1271,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "How many bricks per square foot of brick wall?",
+    "How do I calculate the bricks I need?",
+    "How do I build a brick wall?",
+    "How many bricks will I need to build a wall?",
+    "How much cement do I need for 1000 bricks?",
+    "How many bricks do I need for my brick wall?",
+    "How do I use the brick calculator?",
+    "Want to see the materials for your mortar?"
+   ],
+   "faqSchemaCount": 5,
+   "topics": [
+    {
+     "term": "bricks",
+     "weight": 39
+    },
+    {
+     "term": "brick",
+     "weight": 38
+    },
+    {
+     "term": "wall",
+     "weight": 30
+    },
+    {
+     "term": "need",
+     "weight": 26
+    },
+    {
+     "term": "calculator",
+     "weight": 25
+    },
+    {
+     "term": "mortar",
+     "weight": 23
+    },
+    {
+     "term": "many bricks",
+     "weight": 20
+    },
+    {
+     "term": "many",
+     "weight": 17
+    },
+    {
+     "term": "brick wall",
+     "weight": 17
+    },
+    {
+     "term": "brick calculator",
+     "weight": 11
+    },
+    {
+     "term": "length",
+     "weight": 9
+    },
+    {
+     "term": "build",
+     "weight": 8
+    },
+    {
+     "term": "needed",
+     "weight": 8
+    },
+    {
+     "term": "materials",
+     "weight": 8
+    },
+    {
+     "term": "mortar calculator",
+     "weight": 8
+    },
+    {
+     "term": "area",
+     "weight": 7
+    },
+    {
+     "term": "estimate",
+     "weight": 7
+    },
+    {
+     "term": "cement",
+     "weight": 7
+    },
+    {
+     "term": "height",
+     "weight": 6
+    },
+    {
+     "term": "mortar joint",
+     "weight": 6
+    },
+    {
+     "term": "bricks needed",
+     "weight": 6
+    },
+    {
+     "term": "want",
+     "weight": 6
+    },
+    {
+     "term": "wall calculator",
+     "weight": 6
+    },
+    {
+     "term": "surface",
+     "weight": 6
+    },
+    {
+     "term": "brick mortar",
+     "weight": 6
+    },
+    {
+     "term": "much",
+     "weight": 6
+    },
+    {
+     "term": "have",
+     "weight": 6
+    },
+    {
+     "term": "square foot",
+     "weight": 6
+    },
+    {
+     "term": "foot",
+     "weight": 6
+    },
+    {
+     "term": "plan",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "A brick wall needs approximately 5 bricks per square foot with the standard 7.5\" × 3.5\" bricks.",
+    "We also need the same number of bricks per square foot with the standard size of 9.5\" × 2.75\" bricks.",
+    "Divide your wall area by the product you got from step 3 to find your needed brick quantity.",
+    "You will need approximately 38 bricks per foot length for an 8-foot wall if the bricks are the standard 7.5\" × 3.5\" bricks or 9.5\" × 2.75\" bricks with ²/₅\" thick mortar joints.",
+    "You need approximately 120 kg (263 lbs) of cement for 1000 pieces of standard 9.5\" × 2.75\" bricks.",
+    "Additionally, you will need around 0.4 cubic meters (0.54 cubic yards) of sand to mix with your cement to make a 1:5 mortar mix for your brick wall."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 7,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Mateusz Mucha",
+    "published": "2015-12-08T15:15:38.790Z",
+    "modified": "2026-08-07T16:36:00.010Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 1050,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 25,
+    "external": 1,
+    "contentInternal": 9,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "concrete column calculator",
+     "mortar calculator",
+     "insulation",
+     "tile calculator",
+     "grout calculator",
+     "concrete calculator",
+     "Trump's Wall calculator",
+     "Stone Weight Calculator",
+     "Board and Batten Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/construction/concrete-column",
+     "https://www.omnicalculator.com/construction/mortar",
+     "https://www.omnicalculator.com/construction/insulation",
+     "https://www.omnicalculator.com/construction/tile",
+     "https://www.omnicalculator.com/construction/grout",
+     "https://www.omnicalculator.com/construction/concrete-slab",
+     "https://www.omnicalculator.com/construction/trump",
+     "https://www.omnicalculator.com/construction/stone",
+     "https://www.omnicalculator.com/construction/board-and-batten"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.gigacalculator.com/calculators/brick-calculator.php": [
+   "disallowed by robots.txt"
+  ],
+  "https://www.calctool.org/other/brick": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

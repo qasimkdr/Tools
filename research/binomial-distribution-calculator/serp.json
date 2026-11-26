@@ -1,0 +1,153 @@
+{
+ "keywords": {
+  "binomial distribution calculator": {
+   "fetchedAt": "2026-11-26T15:33:42.818Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 5400,
+   "fileKd": 26,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 6,
+    "url": "www.omnicalculator.com/statistics/binomial-distribution"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.pearson.com/channels/calculators/binomial-distribution-calculator",
+     "domain": "www.pearson.com",
+     "title": "Binomial distribution calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://people.cas.uab.edu/~mosya/teaching/ps-binomial.html",
+     "domain": "people.cas.uab.edu",
+     "title": "Binomial Distribution Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://di-mgt.com.au/binomial-calculator.html",
+     "domain": "di-mgt.com.au",
+     "title": "Binomial distribution calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://statisticsbyjim.com/calculators/binomial-distribution-calculator/",
+     "domain": "statisticsbyjim.com",
+     "title": "Binomial Distribution Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.jainuniversity.ac.in/resources/calculator/binomial-distribution-calculator",
+     "domain": "www.jainuniversity.ac.in",
+     "title": "Binomial Distribution Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.inchcalculator.com/binomial-distribution-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Binomial Distribution Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.omnicalculator.com/statistics/binomial-distribution",
+     "domain": "www.omnicalculator.com",
+     "title": "Binomial Distribution Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.statisticshowto.com/probability-and-statistics/binomial-distribution/",
+     "domain": "www.statisticshowto.com",
+     "title": "Binomial Distribution Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "binomial-distribution-calculator",
+ "page": "binomial-distribution-calculator",
+ "category": "math",
+ "name": "Binomial Distribution Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-26T15:33:42.819Z",
+ "topCompetitors": [
+  {
+   "domain": "pearson.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.pearson.com/channels/calculators/binomial-distribution-calculator"
+   ]
+  },
+  {
+   "domain": "uab.edu",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://people.cas.uab.edu/~mosya/teaching/ps-binomial.html"
+   ]
+  },
+  {
+   "domain": "di-mgt.com.au",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://di-mgt.com.au/binomial-calculator.html"
+   ]
+  },
+  {
+   "domain": "statisticsbyjim.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://statisticsbyjim.com/calculators/binomial-distribution-calculator/"
+   ]
+  },
+  {
+   "domain": "jainuniversity.ac.in",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.jainuniversity.ac.in/resources/calculator/binomial-distribution-calculator"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/binomial-distribution-calculator/"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/statistics/binomial-distribution"
+   ]
+  },
+  {
+   "domain": "statisticshowto.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.statisticshowto.com/probability-and-statistics/binomial-distribution/"
+   ]
+  }
+ ]
+}

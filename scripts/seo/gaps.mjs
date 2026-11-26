@@ -38,7 +38,7 @@ function ourPage(slug) {
     inputs: (h.match(/<(input|select|textarea)\b/g) || []).length,
     tables: (h.match(/<table\b/g) || []).length,
     unit: /\b(metric|imperial)\b/i.test(text) || /<option[^>]*>[^<]*\b(cm|mm|m|meters?|metres?|ft|feet|in|inch(es)?|kg|lb|lbs)\b/i.test(h),
-    chart: /<(svg|canvas)\b/.test(h),
+    chart: /<(svg|canvas)\b|role="img"/.test(h) || /<h[23][^>]*>[^<]*\bchart\b/i.test(h),
     formula: /class="formula"/.test(h), examples: /worked example|example/i.test(text), steps: /step by step|step-by-step|steps?\b/i.test(text),
     cost: /\bcost\b|\bprice\b|\$/.test(lower), tips: /\btips?\b|before you (build|cut|start)|mistakes/i.test(text), video: /<video\b|youtube\.com\/embed/.test(h),
   };

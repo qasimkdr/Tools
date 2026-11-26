@@ -1,0 +1,890 @@
+{
+ "pages": {
+  "https://www.calculator.net/roman-numeral-converter.html": {
+   "url": "https://www.calculator.net/roman-numeral-converter.html",
+   "finalUrl": "https://www.calculator.net/roman-numeral-converter.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-26T15:34:22.165Z",
+   "title": "Roman Numeral Converter",
+   "metaDescription": "This free converter converts between Arabic numbers and Roman numerals. It also converts between dates in both formats.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Roman Numeral Converter"
+   ],
+   "h2": [
+    "Roman Numeral Date Converter"
+   ],
+   "h3": [
+    "How to read and write Roman numerals",
+    "Large numbers",
+    "How to convert between Roman and Arabic numerals",
+    "Dates in Roman numeral form"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Roman Numeral Converter"
+    },
+    {
+     "level": 2,
+     "text": "Roman Numeral Date Converter"
+    },
+    {
+     "level": 3,
+     "text": "How to read and write Roman numerals"
+    },
+    {
+     "level": 3,
+     "text": "Large numbers"
+    },
+    {
+     "level": 3,
+     "text": "How to convert between Roman and Arabic numerals"
+    },
+    {
+     "level": 3,
+     "text": "Dates in Roman numeral form"
+    }
+   ],
+   "wordCount": 1389,
+   "avgSentenceWords": 22,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "roman numerals",
+     "weight": 62
+    },
+    {
+     "term": "numerals",
+     "weight": 59
+    },
+    {
+     "term": "roman",
+     "weight": 57
+    },
+    {
+     "term": "numeral",
+     "weight": 24
+    },
+    {
+     "term": "roman numeral",
+     "weight": 17
+    },
+    {
+     "term": "arabic numerals",
+     "weight": 17
+    },
+    {
+     "term": "arabic",
+     "weight": 15
+    },
+    {
+     "term": "written",
+     "weight": 14
+    },
+    {
+     "term": "used",
+     "weight": 12
+    },
+    {
+     "term": "convert",
+     "weight": 11
+    },
+    {
+     "term": "larger",
+     "weight": 10
+    },
+    {
+     "term": "value",
+     "weight": 10
+    },
+    {
+     "term": "converter",
+     "weight": 9
+    },
+    {
+     "term": "numbers",
+     "weight": 9
+    },
+    {
+     "term": "above",
+     "weight": 9
+    },
+    {
+     "term": "vinculum",
+     "weight": 9
+    },
+    {
+     "term": "there",
+     "weight": 8
+    },
+    {
+     "term": "example",
+     "weight": 8
+    },
+    {
+     "term": "format",
+     "weight": 7
+    },
+    {
+     "term": "date",
+     "weight": 6
+    },
+    {
+     "term": "writing roman",
+     "weight": 6
+    },
+    {
+     "term": "symbol",
+     "weight": 6
+    },
+    {
+     "term": "iii",
+     "weight": 6
+    },
+    {
+     "term": "below",
+     "weight": 5
+    },
+    {
+     "term": "day",
+     "weight": 5
+    },
+    {
+     "term": "rules",
+     "weight": 5
+    },
+    {
+     "term": "writing",
+     "weight": 5
+    },
+    {
+     "term": "write",
+     "weight": 5
+    },
+    {
+     "term": "right",
+     "weight": 5
+    },
+    {
+     "term": "yyyy",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Roman Numerals were widely used long after the fall of the Roman Empire up until Arabic numerals started to replace them around the 14th century.",
+    "The chart below shows the 7 Roman numerals used today as well as their corresponding Roman numerals.",
+    "Also, recall from the rules for writing Roman numerals above that no numeral can be repeated more than 3 times, and there is no larger numeral than M, which is equal to 1000.",
+    "Thus, once we get to Roman numerals above 3999, we need a different way to write them.",
+    "The Romans developed two main ways of writing numbers larger than 3,999: the apostrophus and the vinculum.",
+    "Roman numerals IↃ IↃↃ IↃↃↃ CIↃ CCIↃↃ CCCIↃↃↃ Arabic numbers 500 5,000 50,000 1,000 10,000 100,000 In this system, there is no number larger than CCCIↃↃↃ.",
+    "Combining the above yields: 768 = DCCLXVIII Converting Roman numerals to Arabic numerals To convert Roman numerals to Arabic numerals, sum the values of the Roman numerals.",
+    "Days of the week in Roman numerals Roman numerals may also be used to represent days of the week where Monday is represented as the 1st day of the week and Sunday is the 7th as shown."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 7,
+   "lists": 3,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "v",
+    "dv"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 26,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 15,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 24,
+    "external": 0,
+    "contentInternal": 24,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "other",
+     "roman numeral converter",
+     "Other Calculators",
+     "Age",
+     "Date",
+     "Time",
+     "Hours",
+     "GPA",
+     "Grade",
+     "Height",
+     "Concrete",
+     "IP Subnet",
+     "Bra Size",
+     "Password Generator",
+     "Dice Roller",
+     "Conversion",
+     "More Other Calculators",
+     "Financial"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/roman-numeral-converter.html",
+     "https://www.calculator.net/age-calculator.html",
+     "https://www.calculator.net/date-calculator.html",
+     "https://www.calculator.net/time-calculator.html",
+     "https://www.calculator.net/hours-calculator.html",
+     "https://www.calculator.net/gpa-calculator.html",
+     "https://www.calculator.net/grade-calculator.html",
+     "https://www.calculator.net/height-calculator.html",
+     "https://www.calculator.net/concrete-calculator.html",
+     "https://www.calculator.net/ip-subnet-calculator.html",
+     "https://www.calculator.net/bra-size-calculator.html",
+     "https://www.calculator.net/password-generator.html",
+     "https://www.calculator.net/dice-roller.html",
+     "https://www.calculator.net/conversion-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/conversions/roman-numeral-converter.php": {
+   "url": "https://www.calculatorsoup.com/calculators/conversions/roman-numeral-converter.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/conversions/roman-numeral-converter.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-26T15:34:25.312Z",
+   "title": "Roman Numeral Converter",
+   "metaDescription": "Convert Roman numerals to numbers or convert numbers to Roman numerals. Find Roman numerals up to 3,999,999 using I, V, X, L, C, D and M.",
+   "canonical": "https://www.calculatorsoup.com/calculators/conversions/roman-numeral-converter.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Roman Numeral Converter"
+   ],
+   "h2": [
+    "Related Calculators"
+   ],
+   "h3": [
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Roman Numeral Converter"
+    },
+    {
+     "level": 2,
+     "text": "Related Calculators"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 503,
+   "avgSentenceWords": 20,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "roman",
+     "weight": 36
+    },
+    {
+     "term": "roman numeral",
+     "weight": 27
+    },
+    {
+     "term": "roman numerals",
+     "weight": 26
+    },
+    {
+     "term": "numeral",
+     "weight": 18
+    },
+    {
+     "term": "numerals",
+     "weight": 17
+    },
+    {
+     "term": "numeral converter",
+     "weight": 12
+    },
+    {
+     "term": "converter",
+     "weight": 12
+    },
+    {
+     "term": "calculator",
+     "weight": 9
+    },
+    {
+     "term": "number",
+     "weight": 8
+    },
+    {
+     "term": "calculators",
+     "weight": 7
+    },
+    {
+     "term": "numbers",
+     "weight": 7
+    },
+    {
+     "term": "enter",
+     "weight": 6
+    },
+    {
+     "term": "overline",
+     "weight": 5
+    },
+    {
+     "term": "convert",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "hindu arabic",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "calculators converters",
+     "weight": 3
+    },
+    {
+     "term": "converters",
+     "weight": 3
+    },
+    {
+     "term": "converter roman",
+     "weight": 3
+    },
+    {
+     "term": "value",
+     "weight": 3
+    },
+    {
+     "term": "hindu",
+     "weight": 3
+    },
+    {
+     "term": "arabic",
+     "weight": 3
+    },
+    {
+     "term": "arabic number",
+     "weight": 3
+    },
+    {
+     "term": "convert roman",
+     "weight": 3
+    },
+    {
+     "term": "convert numbers",
+     "weight": 3
+    },
+    {
+     "term": "input",
+     "weight": 3
+    },
+    {
+     "term": "number system",
+     "weight": 3
+    },
+    {
+     "term": "represent numbers",
+     "weight": 3
+    },
+    {
+     "term": "numeral means",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "Use this Roman numeral converter to convert numbers from 1 to 3,999,999 into Roman numerals.",
+    "To convert Roman numerals greater than 3,999 use the table below for converter inputs.",
+    "A line over a Roman numeral means it is multiplied by 1,000.",
+    "You can represent numbers larger than 3,999 in Roman numerals using an overline.",
+    "An overline on a Roman numeral means you are multiplying that Roman numeral by 1,000.",
+    "For the number 50,000 in Roman numerals you would use the Roman numeral L (50) with an overline to make it 50,000.",
+    "To enter 50,000 into this calculator as a Roman numeral enter _L."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 0,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Numbers to Roman Numerals or Roman Numerals to Numbers One value, or several like 5 20 2025",
+    "reset"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 39,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "August 1, 2025",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 55,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 18,
+    "external": 0,
+    "contentInternal": 9,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Converters",
+     "Roman Numeral Converter",
+     "Roman Numerals Calculator",
+     "overline",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Roman Numeral Date Converter",
+     "Roman Numeral Calculator",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/conversions/",
+     "https://www.calculatorsoup.com/calculators/conversions/roman-numeral-converter.php",
+     "https://www.calculatorsoup.com/calculators/conversions/roman-numeral-calculator.php",
+     "https://www.calculatorsoup.com/calculators/conversions/roman-numeral-converter.php#roman_overline",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=conversions%2F&folderName=Converters&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/conversions/roman-numeral-converter.php&h1=Roman+Numeral+Converter&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/conversions/roman-numeral-date-converter.php"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/conversion/roman-numerals": {
+   "url": "https://www.omnicalculator.com/conversion/roman-numerals",
+   "finalUrl": "https://www.omnicalculator.com/conversion/roman-numerals",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-26T15:34:28.817Z",
+   "title": "Roman Numerals Converter",
+   "metaDescription": "The Roman numerals converter can take any number smaller than 4,000,000 and translate it to Roman numerals, complete with an explanation of the numerals' structure.",
+   "canonical": "https://www.omnicalculator.com/conversion/roman-numerals",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Roman Numerals Converter"
+   ],
+   "h2": [
+    "What are Roman numerals?",
+    "How to use the Roman numerals converter",
+    "The Roman numerals chart — Roman numbers 1 to 1000",
+    "How do I read Roman numerals?",
+    "How do I convert numbers to Roman numerals?",
+    "FAQs"
+   ],
+   "h3": [
+    "What is 4 in Roman numerals?",
+    "What are the Roman numerals?",
+    "What is XI in Roman numerals?",
+    "What number is LV in Roman numerals?",
+    "What is 19 in Roman numerals?",
+    "What is XXXVII in Roman numerals?",
+    "What is 1980 in Roman numerals?",
+    "What is 1984 in Roman numerals?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Roman Numerals Converter"
+    },
+    {
+     "level": 2,
+     "text": "What are Roman numerals?"
+    },
+    {
+     "level": 2,
+     "text": "How to use the Roman numerals converter"
+    },
+    {
+     "level": 2,
+     "text": "The Roman numerals chart — Roman numbers 1 to 1000"
+    },
+    {
+     "level": 2,
+     "text": "How do I read Roman numerals?"
+    },
+    {
+     "level": 2,
+     "text": "How do I convert numbers to Roman numerals?"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What is 4 in Roman numerals?"
+    },
+    {
+     "level": 3,
+     "text": "What are the Roman numerals?"
+    },
+    {
+     "level": 3,
+     "text": "What is XI in Roman numerals?"
+    },
+    {
+     "level": 3,
+     "text": "What number is LV in Roman numerals?"
+    },
+    {
+     "level": 3,
+     "text": "What is 19 in Roman numerals?"
+    },
+    {
+     "level": 3,
+     "text": "What is XXXVII in Roman numerals?"
+    },
+    {
+     "level": 3,
+     "text": "What is 1980 in Roman numerals?"
+    },
+    {
+     "level": 3,
+     "text": "What is 1984 in Roman numerals?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1557,
+   "avgSentenceWords": 19,
+   "faqs": [
+    "What is 4 in Roman numerals?",
+    "What are the Roman numerals?",
+    "What is XI in Roman numerals?",
+    "What number is LV in Roman numerals?",
+    "What is 19 in Roman numerals?",
+    "What is XXXVII in Roman numerals?",
+    "What is 1980 in Roman numerals?",
+    "What is 1984 in Roman numerals?",
+    "What are Roman numerals?",
+    "How do I read Roman numerals?",
+    "How do I convert numbers to Roman numerals?"
+   ],
+   "faqSchemaCount": 8,
+   "topics": [
+    {
+     "term": "roman numerals",
+     "weight": 71
+    },
+    {
+     "term": "roman",
+     "weight": 67
+    },
+    {
+     "term": "numerals",
+     "weight": 51
+    },
+    {
+     "term": "roman numeral",
+     "weight": 24
+    },
+    {
+     "term": "number",
+     "weight": 20
+    },
+    {
+     "term": "numeral",
+     "weight": 19
+    },
+    {
+     "term": "numbers",
+     "weight": 12
+    },
+    {
+     "term": "value",
+     "weight": 11
+    },
+    {
+     "term": "calculator",
+     "weight": 10
+    },
+    {
+     "term": "convert",
+     "weight": 10
+    },
+    {
+     "term": "numerals converter",
+     "weight": 8
+    },
+    {
+     "term": "converter",
+     "weight": 6
+    },
+    {
+     "term": "has",
+     "weight": 6
+    },
+    {
+     "term": "system",
+     "weight": 6
+    },
+    {
+     "term": "values",
+     "weight": 6
+    },
+    {
+     "term": "create",
+     "weight": 6
+    },
+    {
+     "term": "ccc",
+     "weight": 6
+    },
+    {
+     "term": "you're",
+     "weight": 5
+    },
+    {
+     "term": "even",
+     "weight": 5
+    },
+    {
+     "term": "chart",
+     "weight": 5
+    },
+    {
+     "term": "see",
+     "weight": 5
+    },
+    {
+     "term": "represents",
+     "weight": 5
+    },
+    {
+     "term": "used",
+     "weight": 5
+    },
+    {
+     "term": "combine",
+     "weight": 5
+    },
+    {
+     "term": "it's",
+     "weight": 5
+    },
+    {
+     "term": "together",
+     "weight": 5
+    },
+    {
+     "term": "read roman",
+     "weight": 5
+    },
+    {
+     "term": "numerals chart",
+     "weight": 5
+    },
+    {
+     "term": "number system",
+     "weight": 5
+    },
+    {
+     "term": "roman numbers",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Because Roman numerals can't represent fractions, the number zero, negative numbers, or numbers above 3,999,999, the Roman numerals generator will reject such inputs.",
+    "The Roman numerals chart — Roman numbers 1 to 1000 As we've said above, Roman numerals use letters of the alphabet to represent numeric values.",
+    "Roman numeral Value I I 1 V V 5 X X 10 L L 50 C C 100 D D 500 M M 1,000 In addition, when a Roman numeral has a line over it, its value is multiplied by 1,000.",
+    "V V always means 5, and M M always means 1,000 — regardless of where they're placed in the string of Roman numerals.",
+    "Here are a few easy numbers converted to Roman numbers from 1 to 1000 for you to sink your teeth into — see if you can make sense of them!",
+    "365 = 300 + 60 + 5 365=300+60+5; 2021 = 2 , 000 + 20 + 1 2021=2,000+20+1 (notice that we ignore the zero between the two 2 2's!) Convert each value in the sum to its Roman numeral.",
+    "For 365 365: 300 → CCC 300→CCC 60 → LX 60→LX 5 → V 5→V For 2021 2021: 2 , 000 → MM 2,000→MM 20 → XX 20→XX 1 → I 1→I Put the symbols together to convert your number to Roman numerals.",
+    "It consists of I and V, the Roman numerals for 1 and 5.",
+    "Each of the Roman numbers 1 to 1000 represent a numeric value.",
+    "XI is the Roman numeral for 11, as it consists of X (10) and I (1) added together."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 4,
+   "lists": 14,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Rijk de Wet",
+    "published": "2021-07-19T21:09:04.438Z",
+    "modified": "2026-08-25T12:37:49.994Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 619,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 26,
+    "external": 1,
+    "contentInternal": 10,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "chords",
+     "binary converter",
+     "integer",
+     "addition",
+     "subtraction",
+     "VPD Calculator (Vapor Pressure Deficit)",
+     "Sod Calculator",
+     "Molar Mass Calculator",
+     "Stone Weight Calculator",
+     "Board and Batten Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/other/chord",
+     "https://www.omnicalculator.com/conversion/binary",
+     "https://www.omnicalculator.com/math/integer",
+     "https://www.omnicalculator.com/math/addition",
+     "https://www.omnicalculator.com/math/subtraction",
+     "https://www.omnicalculator.com/biology/vapor-pressure-deficit",
+     "https://www.omnicalculator.com/biology/sod",
+     "https://www.omnicalculator.com/chemistry/molar-mass",
+     "https://www.omnicalculator.com/construction/stone",
+     "https://www.omnicalculator.com/construction/board-and-batten"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}

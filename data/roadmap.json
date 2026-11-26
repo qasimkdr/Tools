@@ -14066,7 +14066,8 @@
     "www.calculator.net/rmd-calculator.html"
    ],
    "category": "finance",
-   "status": "todo",
+   "status": "scheduled",
+   "note": "scheduled 2026-12-06 20:38 PKT",
    "order": 196,
    "batch": 20
   },
@@ -14339,7 +14340,8 @@
     "www.omnicalculator.com/construction/brick"
    ],
    "category": "construction",
-   "status": "todo",
+   "status": "scheduled",
+   "note": "scheduled 2026-12-06 20:38 PKT",
    "order": 200,
    "batch": 20
   },
@@ -14787,7 +14789,8 @@
     "www.omnicalculator.com/statistics/binomial-distribution"
    ],
    "category": "math",
-   "status": "todo",
+   "status": "scheduled",
+   "note": "scheduled 2026-12-06 20:38 PKT",
    "order": 210,
    "batch": 21
   },
@@ -15229,7 +15232,8 @@
     "www.calculator.net/roman-numeral-converter.html"
    ],
    "category": "conversion",
-   "status": "todo",
+   "status": "scheduled",
+   "note": "scheduled 2026-12-07 18:16 PKT",
    "order": 220,
    "batch": 22
   },
@@ -15450,7 +15454,8 @@
     "www.calculator.net/target-heart-rate-calculator.html"
    ],
    "category": "health",
-   "status": "todo",
+   "status": "scheduled",
+   "note": "scheduled 2026-12-07 18:16 PKT",
    "order": 225,
    "batch": 23
   },

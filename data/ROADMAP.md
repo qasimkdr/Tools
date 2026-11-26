@@ -199,11 +199,11 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 14 on policy hold).
 | 193 | 20 | todo | Deadline Calculator | `deadline-calculator` | time-date | deadline calculator | 6600 | 33 | 7600 | 2 |
 | 194 | 20 | todo | APY Calculator | `apy-calculator` | finance | apy calculator | 33100 | 40 | 43200 | 1 |
 | 195 | 20 | todo | Vat Calculator | `vat-calculator` | finance | vat calculator | 1300 | 12 | 1300 | 1 |
-| 196 | 20 | todo | Rmd Calculator | `rmd-calculator` | finance | rmd calculator | 74000 | 42 | 88800 | 1 |
+| 196 | 20 | scheduled | Rmd Calculator | `rmd-calculator` | finance | rmd calculator | 74000 | 42 | 88800 | 1 |
 | 197 | 20 | todo | Speed Calculator | `speed-calculator` | science | speed calculator | 6600 | 30 | 45400 | 1 |
 | 198 | 20 | todo | Tv Mounting Height Calculator | `tv-mounting-height-calculator` | health | tv mounting height calculator | 1000 | 11 | 1000 | 1 |
 | 199 | 20 | todo | Basis Calculator | `basis-calculator` | finance | basis calculator | 1300 | 13 | 1300 | 1 |
-| 200 | 20 | todo | Brick Calculator | `brick-calculator` | construction | brick calculator | 5400 | 25 | 5400 | 1 |
+| 200 | 20 | scheduled | Brick Calculator | `brick-calculator` | construction | brick calculator | 5400 | 25 | 5400 | 1 |
 | 201 | 21 | todo | Numerical Expression Calculator | `numerical-expression-calculator` | math | numerical expression calculator | 1000 | 9 | 1000 | 1 |
 | 202 | 21 | todo | Wire Length Calculator | `wire-length-calculator` | science | wire length calculator | 1300 | 14 | 1300 | 1 |
 | 203 | 21 | todo | Stem And Leaf Plot Generator | `stem-and-leaf-plot-generator` | math | stem and leaf plot generator | 1000 | 13 | 1000 | 1 |
@@ -213,7 +213,7 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 14 on policy hold).
 | 207 | 21 | todo | Bra Size Calculator | `bra-size-calculator` | health | bras measurement calculator | 6600 | 31 | 47200 | 1 |
 | 208 | 21 | todo | Christmas Tree Light Calculator | `christmas-tree-light-calculator` | everyday | christmas tree light calculator | 1000 | 10 | 1000 | 1 |
 | 209 | 21 | todo | Ops Calculator | `ops-calculator` | education | ops calculator | 1000 | 10 | 1000 | 1 |
-| 210 | 21 | todo | Binomial Distribution Calculator | `binomial-distribution-calculator` | math | binomial distribution calculator | 5400 | 26 | 5400 | 1 |
+| 210 | 21 | scheduled | Binomial Distribution Calculator | `binomial-distribution-calculator` | math | binomial distribution calculator | 5400 | 26 | 5400 | 1 |
 | 211 | 22 | todo | Missouri Child Support Calculator | `missouri-child-support-calculator` | everyday | missouri child support calculator | 1300 | 14 | 1300 | 1 |
 | 212 | 22 | todo | Octagon Calculator | `octagon-calculator` | math | octagon calculator | 1300 | 14 | 1300 | 1 |
 | 213 | 22 | todo | Winrate Calculator | `winrate-calculator` | education | winrate calculator | 1300 | 14 | 1300 | 1 |
@@ -223,12 +223,12 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 14 on policy hold).
 | 217 | 22 | todo | Euler's Method Calculator | `eulers-method-calculator` | math | euler's method calculator | 1000 | 11 | 1000 | 1 |
 | 218 | 22 | todo | Log Weight Calculator | `log-weight-calculator` | health | log weight calculator | 1000 | 11 | 1000 | 1 |
 | 219 | 22 | todo | Roth Ira Calculator | `roth-ira-calculator` | finance | roth ira calculator calculator | 27100 | 41 | 44900 | 1 |
-| 220 | 22 | todo | Roman Numeral Converter | `roman-numeral-converter` | conversion | roman letters converter | 18100 | 38 | 26000 | 1 |
+| 220 | 22 | scheduled | Roman Numeral Converter | `roman-numeral-converter` | conversion | roman letters converter | 18100 | 38 | 26000 | 1 |
 | 221 | 23 | todo | Prop Slip Calculator | `prop-slip-calculator` | science | prop slip calculator | 1000 | 12 | 1000 | 1 |
 | 222 | 23 | todo | Rc Filter Calculator | `rc-filter-calculator` | science | rc filter calculator | 1000 | 12 | 1000 | 1 |
 | 223 | 23 | todo | Water Fast Weight Loss Calculator | `water-fast-weight-loss-calculator` | health | water fast weight loss calculator | 1000 | 14 | 1000 | 1 |
 | 224 | 23 | todo | Probability Calculator | `probability-calculator` | math | probability calculator | 9900 | 34 | 16600 | 1 |
-| 225 | 23 | todo | Target Heart Rate Calculator | `target-heart-rate-calculator` | health | finding maximum heart rate calculator | 2900 | 25 | 30100 | 1 |
+| 225 | 23 | scheduled | Target Heart Rate Calculator | `target-heart-rate-calculator` | health | finding maximum heart rate calculator | 2900 | 25 | 30100 | 1 |
 | 226 | 23 | todo | Pension Calculator | `pension-calculator` | finance | pension calculator | 6600 | 30 | 7600 | 1 |
 | 227 | 23 | todo | Dilution Ratio Calculator | `dilution-ratio-calculator` | science | dilution calculator | 12100 | 35 | 12100 | 1 |
 | 228 | 23 | todo | Grams In Ml Converter | `grams-in-ml-converter` | science | grams and milliliters converter | 5400 | 28 | 5400 | 1 |

@@ -148,7 +148,7 @@ Rule-based on-page signals only — not rankings.
 | roofing-calculator | **27/30** | 5 | 5 | 5 | 3 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
 | bowling-handicap-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | — | — | no data |
 | five-number-summary-calculator | **24/25** | 5 | null | 5 | 5 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
-| boolean-algebra-calculator | **26/30** | 5 | 2 | 5 | 5 | 4 | 5 | — | — | no data |
+| boolean-algebra-calculator | **27/30** | 5 | 3 | 5 | 5 | 4 | 5 | — | — | no data |
 | minecraft-sphere-generator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | — | — | no data |
 | reverse-bmi-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | — | — | no data |
 | binding-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 15/25 | ahead |
@@ -163,3 +163,8 @@ Rule-based on-page signals only — not rankings.
 | nm-to-ft-lb | **27/30** | 5 | 4 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
 | decathlon-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | — | — | no data |
 | running-record-calculator | **24/30** | 5 | 2 | 5 | 3 | 4 | 5 | — | — | no data |
+| binomial-distribution-calculator | **27/30** | 5 | 3 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 25/30 | ahead |
+| brick-calculator | **27/30** | 5 | 5 | 5 | 3 | 4 | 5 | www.inchcalculator.com | 24/30 | ahead |
+| rmd-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.calculator.net | 18/30 | ahead |
+| roman-numeral-converter | **23/25** | 5 | null | 5 | 4 | 4 | 5 | www.omnicalculator.com | 19/25 | ahead |
+| target-heart-rate-calculator | **25/30** | 5 | 2 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 20/25 | ahead |

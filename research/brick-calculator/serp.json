@@ -1,0 +1,153 @@
+{
+ "keywords": {
+  "brick calculator": {
+   "fetchedAt": "2026-11-26T15:33:42.675Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 5400,
+   "fileKd": 25,
+   "fileIntent": "C",
+   "semrushCompetitor": {
+    "position": 1,
+    "url": "www.omnicalculator.com/construction/brick"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.travisperkins.co.uk/content/brick-calculator",
+     "domain": "www.travisperkins.co.uk",
+     "title": "Brick calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.brick.org.uk/brick-calculator",
+     "domain": "www.brick.org.uk",
+     "title": "Brick calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.gigacalculator.com/calculators/brick-calculator.php",
+     "domain": "www.gigacalculator.com",
+     "title": "Brick Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.inchcalculator.com/brick-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Brick and Mortar Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.omnicalculator.com/construction/brick",
+     "domain": "www.omnicalculator.com",
+     "title": "Brick Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.homedit.com/calculators/brick-calculator/",
+     "domain": "www.homedit.com",
+     "title": "Brick Calculator – How Many Bricks Do I Need?",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.calctool.org/other/brick",
+     "domain": "www.calctool.org",
+     "title": "Brick Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.glengery.com/brick-calculator",
+     "domain": "www.glengery.com",
+     "title": "Brick Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "brick-calculator",
+ "page": "brick-calculator",
+ "category": "construction",
+ "name": "Brick Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-26T15:33:42.675Z",
+ "topCompetitors": [
+  {
+   "domain": "travisperkins.co.uk",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.travisperkins.co.uk/content/brick-calculator"
+   ]
+  },
+  {
+   "domain": "brick.org.uk",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.brick.org.uk/brick-calculator"
+   ]
+  },
+  {
+   "domain": "gigacalculator.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.gigacalculator.com/calculators/brick-calculator.php"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/brick-calculator/"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/construction/brick"
+   ]
+  },
+  {
+   "domain": "homedit.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.homedit.com/calculators/brick-calculator/"
+   ]
+  },
+  {
+   "domain": "calctool.org",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.calctool.org/other/brick"
+   ]
+  },
+  {
+   "domain": "glengery.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.glengery.com/brick-calculator"
+   ]
+  }
+ ]
+}

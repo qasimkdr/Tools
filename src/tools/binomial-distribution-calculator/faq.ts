@@ -1,0 +1,9 @@
+export const faq = [
+  { q: "What is the binomial probability formula?", a: "P(X = k) = C(n, k) × p^k × (1 − p)^(n − k), where n is the number of trials, k the number of successes, p the probability of success on each trial and C(n, k) = n! ÷ (k!(n − k)!) the number of ways to choose k successes." },
+  { q: "What is the probability of exactly 3 heads in 10 coin flips?", a: "C(10, 3) × 0.5³ × 0.5⁷ = 120 ÷ 1,024 = 0.1172, or about 11.7%. The probability of at most 3 heads is 176 ÷ 1,024 = 0.1719, and of at least 3 heads 0.9453." },
+  { q: "How do I calculate 'at least' binomial probabilities?", a: "Use the complement: P(X ≥ k) = 1 − P(X ≤ k − 1). For at least 3 heads in 10 flips, 1 − P(X ≤ 2) = 1 − 56 ÷ 1,024 = 0.9453. The calculator does this for you and shows every cumulative version at once." },
+  { q: "When can I use the binomial distribution?", a: "When there is a fixed number of trials n, each trial has only two outcomes (success or failure), the probability of success p is the same every time, and the trials are independent. Drawing cards without replacement breaks independence; use the hypergeometric distribution instead." },
+  { q: "What are the mean and variance of a binomial distribution?", a: "Mean = np and variance = np(1 − p), so the standard deviation is √(np(1 − p)). For 10 flips of a fair coin the mean is 5 heads and the standard deviation about 1.58." },
+  { q: "When is the normal approximation good enough?", a: "A common rule is when np and n(1 − p) are both at least 10. Then a normal distribution with the same mean and standard deviation, using a continuity correction of ±0.5, gives close answers. The calculator shows it next to the exact result for comparison." },
+  { q: "Is the binomial distribution discrete or continuous?", a: "Discrete: X can only take whole-number values from 0 to n. That's why 'at most 3' and 'fewer than 4' give the same answer, while 'fewer than 3' is different." },
+];

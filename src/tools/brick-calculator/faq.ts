@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How many bricks are in a square foot?", a: "About 6.9 US modular bricks (7⅝ × 2¼ in) per square foot with ⅜-inch mortar joints: 144 ÷ ((7.625 + 0.375) × (2.25 + 0.375)) = 6.86. The Brick Industry Association's tables use 6.75 per square foot, based on the nominal 8 × 2⅔ in modular face. Larger bricks need fewer per square foot." },
+  { q: "How many bricks do I need for a wall?", a: "Multiply the wall length by its height, subtract doors and windows, multiply by the bricks per square foot and add at least 5% for breakage and cuts. A 20 × 8 ft wall with one 3 × 4 ft window is 148 sq ft, so about 1,015 modular bricks, or 1,066 with 5% extra." },
+  { q: "How many bricks are in a square metre?", a: "About 59 standard UK bricks (215 × 65 mm) per square metre with 10 mm joints: 1,000,000 ÷ (225 × 75) = 59.3. Most UK estimates round this to 60 per square metre for a single-skin wall." },
+  { q: "How much mortar do I need for 1,000 bricks?", a: "For US modular bricks with ⅜-inch joints, about 8 cubic feet of mortar per 1,000 bricks in the joints themselves (the calculator works it out from the brick and joint size). Buy extra, because mortar is lost when mixing and laying." },
+  { q: "How much extra brick should I order?", a: "At least 5% for breakage and cutting on a plain wall, and more for walls with many corners, openings or decorative patterns. Order all the bricks at once so they come from the same production run and match in color." },
+  { q: "Does this work for a double brick wall?", a: "The count is for one wythe (a wall one brick thick, like brick veneer). For a two-wythe wall, double the number of bricks; the mortar roughly doubles too, plus the collar joint between the wythes." },
+];

@@ -1,0 +1,654 @@
+{
+ "pages": {
+  "https://www.calculator.net/rmd-calculator.html": {
+   "url": "https://www.calculator.net/rmd-calculator.html",
+   "finalUrl": "https://www.calculator.net/rmd-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-26T15:33:44.501Z",
+   "title": "RMD Calculator",
+   "metaDescription": "This calculator computes the Required Minimum Distribution (RMD) of your retirement accounts. It also predicts future distributions which can be used to plan ahead.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "RMD Calculator"
+   ],
+   "h2": [
+    "Result"
+   ],
+   "h3": [
+    "RMDs: Required Minimum Distributions",
+    "Important Dates for Taking RMDs",
+    "How RMDs are Calculated",
+    "What Retirement Accounts do RMDs Apply to?",
+    "Do I Have to Calculate My RMD for Every Account?",
+    "What Happens If You Don't Take RMDs?",
+    "RMDs and Taxes",
+    "Brokerage Reporting Requirements for RMDs",
+    "Inherited RMDs",
+    "Minimizing Taxes on RMDs"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "RMD Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Result"
+    },
+    {
+     "level": 3,
+     "text": "RMDs: Required Minimum Distributions"
+    },
+    {
+     "level": 3,
+     "text": "Important Dates for Taking RMDs"
+    },
+    {
+     "level": 4,
+     "text": "How to Delay RMD Deadlines"
+    },
+    {
+     "level": 3,
+     "text": "How RMDs are Calculated"
+    },
+    {
+     "level": 3,
+     "text": "What Retirement Accounts do RMDs Apply to?"
+    },
+    {
+     "level": 3,
+     "text": "Do I Have to Calculate My RMD for Every Account?"
+    },
+    {
+     "level": 3,
+     "text": "What Happens If You Don't Take RMDs?"
+    },
+    {
+     "level": 3,
+     "text": "RMDs and Taxes"
+    },
+    {
+     "level": 3,
+     "text": "Brokerage Reporting Requirements for RMDs"
+    },
+    {
+     "level": 3,
+     "text": "Inherited RMDs"
+    },
+    {
+     "level": 4,
+     "text": "Ten Year Distribution Rule"
+    },
+    {
+     "level": 4,
+     "text": "Inheriting IRAs as a Spouse"
+    },
+    {
+     "level": 4,
+     "text": "Inheriting Roth IRAs as a Spouse"
+    },
+    {
+     "level": 4,
+     "text": "Inheriting Roth IRAs as a Non-Spouse"
+    },
+    {
+     "level": 4,
+     "text": "Inherited 401(k) RMD Rules"
+    },
+    {
+     "level": 3,
+     "text": "Minimizing Taxes on RMDs"
+    }
+   ],
+   "wordCount": 2439,
+   "avgSentenceWords": 26,
+   "faqs": [
+    "What Retirement Accounts do RMDs Apply to?",
+    "Do I Have to Calculate My RMD for Every Account?",
+    "What Happens If You Don't Take RMDs?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "rmd",
+     "weight": 39
+    },
+    {
+     "term": "rmds",
+     "weight": 34
+    },
+    {
+     "term": "year",
+     "weight": 22
+    },
+    {
+     "term": "account",
+     "weight": 18
+    },
+    {
+     "term": "irs",
+     "weight": 17
+    },
+    {
+     "term": "ira",
+     "weight": 17
+    },
+    {
+     "term": "accounts",
+     "weight": 17
+    },
+    {
+     "term": "retirement",
+     "weight": 15
+    },
+    {
+     "term": "spouse",
+     "weight": 15
+    },
+    {
+     "term": "iras",
+     "weight": 14
+    },
+    {
+     "term": "tax",
+     "weight": 13
+    },
+    {
+     "term": "take",
+     "weight": 13
+    },
+    {
+     "term": "roth",
+     "weight": 13
+    },
+    {
+     "term": "required",
+     "weight": 12
+    },
+    {
+     "term": "distribution",
+     "weight": 12
+    },
+    {
+     "term": "inherited",
+     "weight": 12
+    },
+    {
+     "term": "withdraw",
+     "weight": 11
+    },
+    {
+     "term": "retirement accounts",
+     "weight": 11
+    },
+    {
+     "term": "amount",
+     "weight": 10
+    },
+    {
+     "term": "after",
+     "weight": 10
+    },
+    {
+     "term": "have",
+     "weight": 10
+    },
+    {
+     "term": "calculator",
+     "weight": 9
+    },
+    {
+     "term": "minimum",
+     "weight": 9
+    },
+    {
+     "term": "december",
+     "weight": 9
+    },
+    {
+     "term": "delay",
+     "weight": 9
+    },
+    {
+     "term": "roth iras",
+     "weight": 9
+    },
+    {
+     "term": "required minimum",
+     "weight": 8
+    },
+    {
+     "term": "account balance",
+     "weight": 8
+    },
+    {
+     "term": "non spouse",
+     "weight": 8
+    },
+    {
+     "term": "age",
+     "weight": 7
+    }
+   ],
+   "claims": [
+    "Yes No Your spouse's date of birth Estimated rate of return (Optional) Result Your RMD for 2026 is $12,195.12.",
+    "RMD = $300000 24.6 = $12,195.12 If you only withdraw the RMD at the end of each year and your return rate is 5% per year, your future account balance and RMDs will look like the following.",
+    "So, if you need to pull more money from your accounts after reaching retirement age, you can.) Important Dates for Taking RMDs You're required to take your first RMD by April 1st in the calendar year after you turn 73.",
+    "Technically RMDs are due every December 31, but the IRS allows you to delay the first withdrawal.",
+    "If you take this route, you'll have to take a second RMD before December 31.",
+    "For every calendar year after you take a distribution, you have to withdraw your entire RMD by December 31.",
+    "Example: After turning 73 in 2026, you can take your first RMD in 2026 or delay it until April 1st of 2027.",
+    "You still need to take your second RMD by December 31, 2027, and withdraw RMDs every calendar year after that by December 31.",
+    "How to Delay RMD Deadlines The IRS gives retirees a break after they turn 73 by allowing you to delay your first withdrawal until April 1 of the next year.",
+    "Another way to delay your RMD is by continuing employment at the company that sponsors your retirement account after your 73rd birthday."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 5,
+   "lists": 6,
+   "images": 5,
+   "videos": 0,
+   "calculatorInputs": [
+    "birthdate",
+    "rmdyear",
+    "abalance",
+    "Yes",
+    "No",
+    "spousedob",
+    "returnrate"
+   ],
+   "selectOptionsSample": "2027 2026 2025 2024",
+   "unitToggle": false,
+   "wordsBeforeTool": 82,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 58,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 30,
+    "external": 0,
+    "contentInternal": 30,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "financial",
+     "rmd calculator",
+     "Retirement Calculator",
+     "401K Calculator",
+     "IRA Calculator",
+     "Financial Calculators",
+     "Mortgage",
+     "Loan",
+     "Auto Loan",
+     "Interest",
+     "Payment",
+     "Retirement",
+     "Amortization",
+     "Investment",
+     "Currency",
+     "Inflation",
+     "Finance",
+     "Mortgage Payoff"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/rmd-calculator.html",
+     "https://www.calculator.net/retirement-calculator.html",
+     "https://www.calculator.net/401k-calculator.html",
+     "https://www.calculator.net/ira-calculator.html",
+     "https://www.calculator.net/mortgage-calculator.html",
+     "https://www.calculator.net/loan-calculator.html",
+     "https://www.calculator.net/auto-loan-calculator.html",
+     "https://www.calculator.net/interest-calculator.html",
+     "https://www.calculator.net/payment-calculator.html",
+     "https://www.calculator.net/amortization-calculator.html",
+     "https://www.calculator.net/investment-calculator.html",
+     "https://www.calculator.net/currency-calculator.html",
+     "https://www.calculator.net/inflation-calculator.html",
+     "https://www.calculator.net/finance-calculator.html",
+     "https://www.calculator.net/mortgage-payoff-calculator.html",
+     "https://www.calculator.net/tax-calculator.html",
+     "https://www.calculator.net/compound-interest-calculator.html",
+     "https://www.calculator.net/salary-calculator.html",
+     "https://www.calculator.net/interest-rate-calculator.html",
+     "https://www.calculator.net/sales-tax-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/finance/rmd": {
+   "url": "https://www.omnicalculator.com/finance/rmd",
+   "finalUrl": "https://www.omnicalculator.com/finance/rmd",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-26T15:33:48.236Z",
+   "title": "RMD calculator",
+   "metaDescription": "RMD calculator (required minimum distributions) is a tool that helps you find the amount you must withdraw from your IRA account each year when you turn 72 years.",
+   "canonical": "https://www.omnicalculator.com/finance/rmd",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "RMD Calculator - Required Minimum Distributions Calculator"
+   ],
+   "h2": [
+    "What is RMD?",
+    "How to calculate RMD?",
+    "RMD rules for other IRAs",
+    "RMD tables"
+   ],
+   "h3": [
+    "IRS uniform lifetime table",
+    "IRS joint life expectancy table"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "RMD Calculator - Required Minimum Distributions Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is RMD?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate RMD?"
+    },
+    {
+     "level": 2,
+     "text": "RMD rules for other IRAs"
+    },
+    {
+     "level": 2,
+     "text": "RMD tables"
+    },
+    {
+     "level": 3,
+     "text": "IRS uniform lifetime table"
+    },
+    {
+     "level": 3,
+     "text": "IRS joint life expectancy table"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 2069,
+   "avgSentenceWords": 39,
+   "faqs": [
+    "What is RMD?",
+    "How to calculate RMD?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "rmd",
+     "weight": 38
+    },
+    {
+     "term": "ira",
+     "weight": 23
+    },
+    {
+     "term": "life expectancy",
+     "weight": 20
+    },
+    {
+     "term": "year",
+     "weight": 17
+    },
+    {
+     "term": "expectancy",
+     "weight": 15
+    },
+    {
+     "term": "life",
+     "weight": 14
+    },
+    {
+     "term": "expectancy factor",
+     "weight": 14
+    },
+    {
+     "term": "tax",
+     "weight": 13
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "retirement",
+     "weight": 12
+    },
+    {
+     "term": "rmd rules",
+     "weight": 12
+    },
+    {
+     "term": "factor",
+     "weight": 11
+    },
+    {
+     "term": "rmds",
+     "weight": 11
+    },
+    {
+     "term": "required minimum",
+     "weight": 11
+    },
+    {
+     "term": "account",
+     "weight": 10
+    },
+    {
+     "term": "minimum",
+     "weight": 9
+    },
+    {
+     "term": "rules",
+     "weight": 9
+    },
+    {
+     "term": "irs",
+     "weight": 9
+    },
+    {
+     "term": "required",
+     "weight": 8
+    },
+    {
+     "term": "balance",
+     "weight": 8
+    },
+    {
+     "term": "must",
+     "weight": 8
+    },
+    {
+     "term": "withdraw",
+     "weight": 8
+    },
+    {
+     "term": "december",
+     "weight": 8
+    },
+    {
+     "term": "years younger",
+     "weight": 8
+    },
+    {
+     "term": "account balance",
+     "weight": 8
+    },
+    {
+     "term": "ira owner",
+     "weight": 8
+    },
+    {
+     "term": "original ira",
+     "weight": 8
+    },
+    {
+     "term": "years",
+     "weight": 7
+    },
+    {
+     "term": "beneficiary",
+     "weight": 7
+    },
+    {
+     "term": "age",
+     "weight": 7
+    }
+   ],
+   "claims": [
+    "You don't have to take an RMD for 2020 because of the CARES Act, but you may still use this tool to calculate any further RMDs with the estimated account balance.",
+    "A required minimum distribution (RMD) is the minimum amount you must withdraw from your retirement account each year when you turn 72 years.",
+    "RMD rules apply to tax-deferred retirement accounts such as SIMPLE IRA, SEP IRA, Traditional IRA, and most 401(k) and 403(b) retirement plans.",
+    "You may choose to withdraw your RMD for the year at once or in small installments, but you must take it by the deadline of December 31 each year.",
+    "However, if you miss the RMD deadline, the IRS will charge you a 50% penalty on the amount NOT taken.",
+    "For example, if your RMD was $12,000, but you only withdrew $4,000, your 50% penalty on the $12,000 - $4,000 = $8,000 balance you didn't withdraw, would be $8,000 * 50% = $4,000.",
+    "The IRS only allows you to delay taking your first RMD until April 1 of the year after you turn 72.",
+    "You can also delay taking RMDs if you are still working at age 72 (lucky you?), and you don't own up to 5% of the business.",
+    "In that case, you can delay taking RMDs from your workplace retirement plan until April 1 of the year after you retire.",
+    "The Coronavirus Aid, Relief, And Economic Security (CARES) Act temporarily waives required minimum distributions (RMDs) for all types of retirement plans in 2020."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 5,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Your age"
+   ],
+   "selectOptionsSample": "select 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 and older",
+   "unitToggle": false,
+   "wordsBeforeTool": 22,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Oghenekaro Elem",
+    "published": "2020-12-01T20:50:42.038Z",
+    "modified": "2026-09-08T20:07:08.620Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 667,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 25,
+    "external": 1,
+    "contentInternal": 9,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "child tax credit calculator",
+     "stimulus check calculator",
+     "401k calculator",
+     "IRA calculator",
+     "Roth IRA calculator",
+     "Inherited IRA",
+     "Prorated Rent Calculator",
+     "Emergency Fund Calculator",
+     "Full-time Equivalent (FTE) Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/finance/child-tax-credit",
+     "https://www.omnicalculator.com/finance/second-stimulus-check",
+     "https://www.omnicalculator.com/finance/401k",
+     "https://www.omnicalculator.com/finance/ira",
+     "https://www.omnicalculator.com/finance/roth-ira",
+     "https://www.omnicalculator.com/finance/rmd#rmd-rules-for-other-iras",
+     "https://www.omnicalculator.com/finance/prorated-rent",
+     "https://www.omnicalculator.com/finance/emergency-fund",
+     "https://www.omnicalculator.com/finance/full-time-equivalent"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.schwab.com/ira/understand-iras/ira-calculators/rmd": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.boldin.com/retirement/rmd-calculator/": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

@@ -1,0 +1,960 @@
+{
+ "pages": {
+  "https://www.calculator.net/target-heart-rate-calculator.html": {
+   "url": "https://www.calculator.net/target-heart-rate-calculator.html",
+   "finalUrl": "https://www.calculator.net/target-heart-rate-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-26T15:34:32.355Z",
+   "title": "Target Heart Rate Calculator",
+   "metaDescription": "This free calculator calculates the target heart rate range for maximizing exercise benefit based on age and resting heart rate.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Target Heart Rate Calculator"
+   ],
+   "h2": [],
+   "h3": [
+    "What is heart rate",
+    "Resting heart rate",
+    "Heart rate reserve",
+    "Target heart rate zones",
+    "Methods for measuring intensity"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Target Heart Rate Calculator"
+    },
+    {
+     "level": 3,
+     "text": "What is heart rate"
+    },
+    {
+     "level": 4,
+     "text": "Maximum heart rate"
+    },
+    {
+     "level": 3,
+     "text": "Resting heart rate"
+    },
+    {
+     "level": 3,
+     "text": "Heart rate reserve"
+    },
+    {
+     "level": 3,
+     "text": "Target heart rate zones"
+    },
+    {
+     "level": 3,
+     "text": "Methods for measuring intensity"
+    },
+    {
+     "level": 4,
+     "text": "Haskell & Fox Exercise Zone"
+    },
+    {
+     "level": 4,
+     "text": "Karvonen method"
+    },
+    {
+     "level": 4,
+     "text": "Rating of perceived exertion"
+    }
+   ],
+   "wordCount": 1902,
+   "avgSentenceWords": 30,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "heart rate",
+     "weight": 143
+    },
+    {
+     "term": "heart",
+     "weight": 99
+    },
+    {
+     "term": "rate",
+     "weight": 96
+    },
+    {
+     "term": "target heart",
+     "weight": 44
+    },
+    {
+     "term": "maximum heart",
+     "weight": 41
+    },
+    {
+     "term": "maximum",
+     "weight": 32
+    },
+    {
+     "term": "target",
+     "weight": 29
+    },
+    {
+     "term": "zone",
+     "weight": 29
+    },
+    {
+     "term": "scale",
+     "weight": 25
+    },
+    {
+     "term": "resting heart",
+     "weight": 24
+    },
+    {
+     "term": "rate zone",
+     "weight": 17
+    },
+    {
+     "term": "resting",
+     "weight": 16
+    },
+    {
+     "term": "range",
+     "weight": 16
+    },
+    {
+     "term": "mhr",
+     "weight": 15
+    },
+    {
+     "term": "exertion",
+     "weight": 14
+    },
+    {
+     "term": "age",
+     "weight": 13
+    },
+    {
+     "term": "rhr",
+     "weight": 13
+    },
+    {
+     "term": "bpm",
+     "weight": 11
+    },
+    {
+     "term": "intensity",
+     "weight": 11
+    },
+    {
+     "term": "rpe scale",
+     "weight": 11
+    },
+    {
+     "term": "exercise",
+     "weight": 10
+    },
+    {
+     "term": "formula",
+     "weight": 10
+    },
+    {
+     "term": "method",
+     "weight": 10
+    },
+    {
+     "term": "borg",
+     "weight": 10
+    },
+    {
+     "term": "person",
+     "weight": 9
+    },
+    {
+     "term": "hrreserve",
+     "weight": 9
+    },
+    {
+     "term": "rate zones",
+     "weight": 9
+    },
+    {
+     "term": "rpe",
+     "weight": 9
+    },
+    {
+     "term": "calculator",
+     "weight": 8
+    },
+    {
+     "term": "has",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "The theoretical maximum human heart rate is 300 bpm.",
+    "Fritz Hagerman was that the maximum heart rates of a group of men in their 20s who were on Olympic rowing teams varied between 160 and 220 beats per minute, so even at the elite level, there is significant variability.",
+    "A typical resting heart rate (RHR) for an adult ranges between 50-90 bpm.",
+    "Generally: Zone 1: This zone generally involves light to moderate activity and your heart rate may stay within this range during warm up, cooldown, a rest day, or an easy training day.",
+    "Zone 4: This zone is close to your maximum effort and can help with training how long you can maintain your maximum output.",
+    "Zone 5: This zone represents your maximum effort.",
+    "The formula used for determining maximum heart rate with this method is: MHR = 220 - age The target heart rate zone is then found by multiplying MHR by the desired percentages.",
+    "When discussing target heart rate zones, often a range of 50%-85% range is calculated.",
+    "Borg scale: The Borg scale is the original RPE scale and is a scale ranging from 6-20, where 6 indicates no exertion and 20 indicates maximum exertion.",
+    "Each value in the scale, multiplied by 10, approximates heart rate at that given exertion level."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 6,
+   "lists": 2,
+   "images": 7,
+   "videos": 0,
+   "calculatorInputs": [
+    "Estimate from age",
+    "Test result",
+    "age",
+    "mhr",
+    "rhr",
+    "Haskell & Fox (1971)",
+    "Tanaka, Monahan, & Seals (2001)",
+    "Nes, Janszky, Wisloff, Stoylen, Karlsen (2013)",
+    "The Karvonen Formula",
+    "Rating of perceived exertion with Borg scale",
+    "Rating of perceived exertion with modified Borg CR10 scale"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 19,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 23,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 25,
+    "external": 0,
+    "contentInternal": 25,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "fitness & health",
+     "target heart rate calculator",
+     "+ Settings",
+     "Fitness and Health Calculators",
+     "BMI",
+     "Calorie",
+     "Body Fat",
+     "BMR",
+     "Macro",
+     "Ideal Weight",
+     "Pregnancy",
+     "Pregnancy Weight Gain",
+     "Pregnancy Conception",
+     "Due Date",
+     "Pace",
+     "More Fitness and Health Calculators",
+     "Financial",
+     "Fitness and Health"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/target-heart-rate-calculator.html",
+     "https://www.calculator.net/target-heart-rate-calculator.html#",
+     "https://www.calculator.net/target-heart-rate-calculator.html#emethods",
+     "https://www.calculator.net/target-heart-rate-calculator.html#mintensity",
+     "https://www.calculator.net/bmi-calculator.html",
+     "https://www.calculator.net/calorie-calculator.html",
+     "https://www.calculator.net/body-fat-calculator.html",
+     "https://www.calculator.net/bmr-calculator.html",
+     "https://www.calculator.net/macro-calculator.html",
+     "https://www.calculator.net/ideal-weight-calculator.html",
+     "https://www.calculator.net/pregnancy-calculator.html",
+     "https://www.calculator.net/pregnancy-weight-gain-calculator.html",
+     "https://www.calculator.net/pregnancy-conception-calculator.html",
+     "https://www.calculator.net/due-date-calculator.html",
+     "https://www.calculator.net/pace-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/target-heart-rate-calculator/": {
+   "url": "https://www.inchcalculator.com/target-heart-rate-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/target-heart-rate-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-26T15:34:35.641Z",
+   "title": "Target Heart Rate Calculator - Inch Calculator",
+   "metaDescription": "Calculate your target heart rate zone and max heart rate using our heart rate calculator, and learn how to find your target zone for exercise",
+   "canonical": "https://www.inchcalculator.com/target-heart-rate-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Target Heart Rate Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Target Heart Rate",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate Target Heart Rate",
+    "Resting Heart Rate",
+    "Heart Rate During and After Exercise",
+    "Improve Your Fitness With Target Heart Rate Zones",
+    "Similar Fitness Calculators",
+    "References",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Max Heart Rate",
+    "Target Heart Rate Using CDC Recommendations[1]",
+    "Maximum Heart Rate",
+    "Karvonen Formula",
+    "Heart Rate Zones"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Target Heart Rate Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Target Heart Rate"
+    },
+    {
+     "level": 3,
+     "text": "Max Heart Rate"
+    },
+    {
+     "level": 3,
+     "text": "Target Heart Rate Using CDC Recommendations[1]"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate Target Heart Rate"
+    },
+    {
+     "level": 3,
+     "text": "Maximum Heart Rate"
+    },
+    {
+     "level": 3,
+     "text": "Karvonen Formula"
+    },
+    {
+     "level": 3,
+     "text": "Heart Rate Zones"
+    },
+    {
+     "level": 2,
+     "text": "Resting Heart Rate"
+    },
+    {
+     "level": 2,
+     "text": "Heart Rate During and After Exercise"
+    },
+    {
+     "level": 2,
+     "text": "Improve Your Fitness With Target Heart Rate Zones"
+    },
+    {
+     "level": 2,
+     "text": "Similar Fitness Calculators"
+    },
+    {
+     "level": 2,
+     "text": "References"
+    }
+   ],
+   "wordCount": 2233,
+   "avgSentenceWords": 30,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "heart rate",
+     "weight": 147
+    },
+    {
+     "term": "heart",
+     "weight": 112
+    },
+    {
+     "term": "rate",
+     "weight": 98
+    },
+    {
+     "term": "target heart",
+     "weight": 44
+    },
+    {
+     "term": "target",
+     "weight": 33
+    },
+    {
+     "term": "resting heart",
+     "weight": 20
+    },
+    {
+     "term": "fitness",
+     "weight": 19
+    },
+    {
+     "term": "rate zones",
+     "weight": 18
+    },
+    {
+     "term": "resting",
+     "weight": 16
+    },
+    {
+     "term": "exercise",
+     "weight": 16
+    },
+    {
+     "term": "maximum heart",
+     "weight": 15
+    },
+    {
+     "term": "zones",
+     "weight": 14
+    },
+    {
+     "term": "maximum",
+     "weight": 13
+    },
+    {
+     "term": "intensity",
+     "weight": 12
+    },
+    {
+     "term": "formula",
+     "weight": 12
+    },
+    {
+     "term": "after exercise",
+     "weight": 12
+    },
+    {
+     "term": "minute",
+     "weight": 12
+    },
+    {
+     "term": "max",
+     "weight": 11
+    },
+    {
+     "term": "rate recovery",
+     "weight": 11
+    },
+    {
+     "term": "calculator",
+     "weight": 10
+    },
+    {
+     "term": "zone",
+     "weight": 9
+    },
+    {
+     "term": "max heart",
+     "weight": 9
+    },
+    {
+     "term": "after",
+     "weight": 9
+    },
+    {
+     "term": "physical",
+     "weight": 9
+    },
+    {
+     "term": "hrr",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "during",
+     "weight": 8
+    },
+    {
+     "term": "health",
+     "weight": 8
+    },
+    {
+     "term": "https www",
+     "weight": 8
+    },
+    {
+     "term": "year old",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "Question or Feedback Name (optional) Email (optional) Results: Target Heart Rate Target heart rate ranges for each of the 5 training zones.",
+    "max heart rate = 220 – age in years As you get older, your maximum heart rate slowly declines.",
+    "For example, the maximum heart rate for a 20-year-old would be 200 beats per minute (bpm), while the maximum heart rate for a 40-year-old would only be 180 bpm.",
+    "target heart rate = [(max HR – resting HR) × %intensity] + resting HR The max HR will still be measured indirectly, utilizing the formula discussed above (220 – age).",
+    "For example, for a 40-year-old, their maximum heart rate would be 180 beats per minute.",
+    "If they wanted to work out in the aerobic zone, they would target 70-80% of their max heart rate, which would be 126-144 beats per minute.",
+    "180 × 0.7 = 126 bpm 180 × 0.8 = 144 bpm On the other hand, if this same person were performing a high-intensity interval workout, they would need to target a heart rate in the hard, or anaerobic zone for these intervals.",
+    "Their target heart rate would then be 144-162 beats per minute.",
+    "180 × 0.8 = 144 bpm 180 × 0.9 = 162 bpm Resting Heart Rate Resting heart rate is just what you might think it would be.",
+    "To achieve this, you would target a heart rate around 60-70% of your max."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 3,
+   "lists": 3,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [
+    "Age"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 22,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Holly Smith",
+    "published": "2021-06-02",
+    "modified": "2025-04-29T15:26:44+00:00",
+    "authoritativeSources": [
+     "https://health.gov/sites/default/files/2019-10/CommitteeReport_7.pdf"
+    ]
+   },
+   "ux": {
+    "htmlKB": 133,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 45,
+    "external": 19,
+    "contentInternal": 21,
+    "contentExternal": 13,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate Target Heart Rate",
+     "Maximum Heart Rate",
+     "Karvonen Formula",
+     "Heart Rate Zones",
+     "Resting Heart Rate",
+     "Heart Rate During and After Exercise",
+     "Improve Your Fitness With Target Heart Rate Zones",
+     "References",
+     "Full bio",
+     "Target Heart Rate Calculator",
+     "the zone 2 range",
+     "pace",
+     "One-Rep Max Calculator",
+     "Pace and Distance Calculator",
+     "Zone 2 Heart Rate Calculator",
+     "Steps to Calories Calculator",
+     "Calories Burned Hiking Calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/target-heart-rate-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/target-heart-rate/",
+     "https://www.inchcalculator.com/target-heart-rate-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/target-heart-rate-calculator/#idx_how_to_calculate_target_heart_rate",
+     "https://www.inchcalculator.com/target-heart-rate-calculator/#idx_maximum_heart_rate",
+     "https://www.inchcalculator.com/target-heart-rate-calculator/#idx_karvonen_formula",
+     "https://www.inchcalculator.com/target-heart-rate-calculator/#idx_heart_rate_zones",
+     "https://www.inchcalculator.com/target-heart-rate-calculator/#idx_resting_heart_rate",
+     "https://www.inchcalculator.com/target-heart-rate-calculator/#idx_heart_rate_during_and_after_exercise",
+     "https://www.inchcalculator.com/target-heart-rate-calculator/#idx_improve_your_fitness_with_target_heart_rate_zones",
+     "https://www.inchcalculator.com/target-heart-rate-calculator/#idx_reference_list",
+     "https://www.inchcalculator.com/author/holly-smith/",
+     "https://www.inchcalculator.com/author/joseph-kelly/",
+     "https://www.inchcalculator.com/author/hannah-daugherty/",
+     "https://www.inchcalculator.com/target-heart-rate-calculator/",
+     "https://www.inchcalculator.com/zone-2-heart-rate-calculator/",
+     "https://www.inchcalculator.com/pace-distance-calculator/",
+     "https://www.inchcalculator.com/one-rep-max-calculator/",
+     "https://www.inchcalculator.com/steps-to-calories-calculator/",
+     "https://www.inchcalculator.com/calories-burned-hiking-calculator/",
+     "https://www.inchcalculator.com/fitness-calculators/"
+    ],
+    "externalSample": [
+     "https://www.webmd.com/fitness-exercise/what-you-need-to-know-about-running-heart-rate-zones",
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Ftarget-heart-rate-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Ftarget-heart-rate-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Ftarget-heart-rate-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Ftarget-heart-rate-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Ftarget-heart-rate-calculator%2F&text=Target+Heart+Rate+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Ftarget-heart-rate-calculator%2F&text=Target+Heart+Rate+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com",
+     "https://health.gov/sites/default/files/2019-10/CommitteeReport_7.pdf",
+     "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse",
+     "https://heart.bmj.com/content/99/12/882.full?sid=90e3623c-1250-4b94-928c-0a8f95c5b36b",
+     "https://www.jacc.org/doi/abs/10.1016/0735-1097(94)90150-3",
+     "https://www.nejm.org/doi/10.1056/NEJM199910283411804"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.calculatorsoup.com/calculators/health/target-heart-rate-zone-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/health/target-heart-rate-zone-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/health/target-heart-rate-zone-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-26T15:34:38.508Z",
+   "title": "Target Heart Rate Calculator",
+   "metaDescription": "Maximum heart rate calculator and exercise target heart rate zone calculator. Calculate exercise target heart rate zones using basic or Karvonen formulas. The 5 exercise zones calculated are VO2 Max, Anaerobic, Aerobic, Fat Burn and Warm Up heart rate zones.",
+   "canonical": "https://www.calculatorsoup.com/calculators/health/target-heart-rate-zone-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Target Heart Rate Calculator"
+   ],
+   "h2": [],
+   "h3": [
+    "Max Heart Rate Equation",
+    "Target Heart Rate Formula (Basic)",
+    "Karvonen Formula",
+    "Target Heart Rate Zone Calculation Methods",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Target Heart Rate Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Max Heart Rate Equation"
+    },
+    {
+     "level": 3,
+     "text": "Target Heart Rate Formula (Basic)"
+    },
+    {
+     "level": 3,
+     "text": "Karvonen Formula"
+    },
+    {
+     "level": 3,
+     "text": "Target Heart Rate Zone Calculation Methods"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 499,
+   "avgSentenceWords": 28,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "heart rate",
+     "weight": 38
+    },
+    {
+     "term": "heart",
+     "weight": 27
+    },
+    {
+     "term": "rate",
+     "weight": 25
+    },
+    {
+     "term": "target heart",
+     "weight": 23
+    },
+    {
+     "term": "mhr",
+     "weight": 20
+    },
+    {
+     "term": "target",
+     "weight": 17
+    },
+    {
+     "term": "zone",
+     "weight": 16
+    },
+    {
+     "term": "rhr",
+     "weight": 14
+    },
+    {
+     "term": "calculator",
+     "weight": 13
+    },
+    {
+     "term": "thr",
+     "weight": 13
+    },
+    {
+     "term": "thr mhr",
+     "weight": 9
+    },
+    {
+     "term": "intensity",
+     "weight": 9
+    },
+    {
+     "term": "rate calculator",
+     "weight": 8
+    },
+    {
+     "term": "mhr rhr",
+     "weight": 8
+    },
+    {
+     "term": "age",
+     "weight": 7
+    },
+    {
+     "term": "calculators",
+     "weight": 6
+    },
+    {
+     "term": "rate zone",
+     "weight": 6
+    },
+    {
+     "term": "intensity thr",
+     "weight": 6
+    },
+    {
+     "term": "measured",
+     "weight": 6
+    },
+    {
+     "term": "maximum",
+     "weight": 5
+    },
+    {
+     "term": "karvonen",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup",
+     "weight": 5
+    },
+    {
+     "term": "calculators health",
+     "weight": 5
+    },
+    {
+     "term": "calculator target",
+     "weight": 5
+    },
+    {
+     "term": "rate mhr",
+     "weight": 5
+    },
+    {
+     "term": "maximum heart",
+     "weight": 5
+    },
+    {
+     "term": "rate rhr",
+     "weight": 5
+    },
+    {
+     "term": "resting heart",
+     "weight": 5
+    },
+    {
+     "term": "calculatorsoup com",
+     "weight": 5
+    },
+    {
+     "term": "health",
+     "weight": 4
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 0,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Target Heart Rate Zone Method help",
+    "Age:",
+    "reset"
+   ],
+   "selectOptionsSample": "basic by age karvonen by age & rhr karvonen by mhr & rhr",
+   "unitToggle": false,
+   "wordsBeforeTool": 25,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "August 1, 2025",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 52,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 17,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Health",
+     "Target Heart Rate Calculator",
+     "help",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/health/",
+     "https://www.calculatorsoup.com/calculators/health/target-heart-rate-zone-calculator.php",
+     "https://www.calculatorsoup.com/calculators/health/target-heart-rate-zone-calculator.php#choice",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=health%2F&folderName=Health&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/health/target-heart-rate-zone-calculator.php&h1=Target+Heart+Rate+Calculator&pop_w=400&pop_h=600"
+    ],
+    "externalSample": [
+     "https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.topendsports.com/testing/heart-rate-max.htm": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

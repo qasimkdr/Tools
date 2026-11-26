@@ -1,0 +1,153 @@
+{
+ "keywords": {
+  "rmd calculator": {
+   "fetchedAt": "2026-11-26T15:33:42.525Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 74000,
+   "fileKd": 42,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 19,
+    "url": "www.calculator.net/rmd-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.calculator.net/rmd-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "RMD Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.boldin.com/retirement/rmd-calculator/",
+     "domain": "www.boldin.com",
+     "title": "RMD calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.schwab.com/ira/understand-iras/ira-calculators/rmd",
+     "domain": "www.schwab.com",
+     "title": "RMD Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.missionsq.org/rmdcalc",
+     "domain": "www.missionsq.org",
+     "title": "RMD calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.omnicalculator.com/finance/rmd",
+     "domain": "www.omnicalculator.com",
+     "title": "RMD Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.aarp.org/work/retirement-planning/required-minimum-distribution-calculator/",
+     "domain": "www.aarp.org",
+     "title": "Required minimum distribution calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.miniwebtool.com/rmd-calculator/",
+     "domain": "www.miniwebtool.com",
+     "title": "RMD calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://rmdcalculator.nga.finra.org/",
+     "domain": "rmdcalculator.nga.finra.org",
+     "title": "Required Minimum Distribution Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "rmd-calculator",
+ "page": "rmd-calculator",
+ "category": "finance",
+ "name": "Rmd Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-26T15:33:42.525Z",
+ "topCompetitors": [
+  {
+   "domain": "calculator.net",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculator.net/rmd-calculator.html"
+   ]
+  },
+  {
+   "domain": "boldin.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.boldin.com/retirement/rmd-calculator/"
+   ]
+  },
+  {
+   "domain": "schwab.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.schwab.com/ira/understand-iras/ira-calculators/rmd"
+   ]
+  },
+  {
+   "domain": "missionsq.org",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.missionsq.org/rmdcalc"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/finance/rmd"
+   ]
+  },
+  {
+   "domain": "aarp.org",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.aarp.org/work/retirement-planning/required-minimum-distribution-calculator/"
+   ]
+  },
+  {
+   "domain": "miniwebtool.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.miniwebtool.com/rmd-calculator/"
+   ]
+  },
+  {
+   "domain": "finra.org",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://rmdcalculator.nga.finra.org/"
+   ]
+  }
+ ]
+}
