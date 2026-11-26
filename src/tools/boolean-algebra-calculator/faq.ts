@@ -1,0 +1,9 @@
+export const faq = [
+  { q: "How do I simplify a Boolean expression?", a: "Either apply the laws of Boolean algebra by hand (distributive, absorption, De Morgan, consensus) or list the minterms and combine them with a Karnaugh map or the Quine–McCluskey method. This calculator does the second: it finds all prime implicants and picks the smallest set that covers every 1 in the truth table." },
+  { q: "What is the simplified form of AB + A'C + BC?", a: "AB + A'C. The term BC is redundant by the consensus theorem: whenever B and C are both 1, either A is 1 (so AB is 1) or A is 0 (so A'C is 1)." },
+  { q: "What are SOP and POS?", a: "Sum of products (SOP) is an OR of AND terms, like AB + A'C. Product of sums (POS) is an AND of OR terms, like (A + C)(A' + B). Both describe the same function; SOP is built from the rows where the output is 1 and POS from the rows where it is 0." },
+  { q: "What are minterms and maxterms?", a: "A minterm is a row of the truth table where the output is 1, written by its row number: Σm(1, 3, 6, 7). A maxterm is a row where the output is 0: ΠM(0, 2, 4, 5). Row numbers read the inputs as a binary number." },
+  { q: "How do I type NOT, AND and OR?", a: "NOT: A' (prime), !A or ~A. AND: write letters next to each other (AB) or use ·, *, & or AND. OR: + or | or OR. XOR: ^ or XOR. NAND and NOR are also accepted as words. NOT binds tightest, then AND, then XOR, then OR." },
+  { q: "How do I check if two Boolean expressions are equal?", a: "Enter the second expression in the compare box. The calculator evaluates both for every input combination; if any row differs it shows the inputs where they disagree." },
+  { q: "Is the simplified answer always unique?", a: "Not always. Some functions have more than one minimal sum of products with the same number of terms and literals. Any of them is correct; you can confirm an alternative with the compare box." },
+];

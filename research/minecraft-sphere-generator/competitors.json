@@ -1,0 +1,23 @@
+{
+ "pages": {},
+ "failed": {
+  "https://www.plotz.co.uk/minecraft-sphere-generator.php": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.minecraftmaps.com/tools/sphere-generator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://minecraft.how/tools/sphere-generator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://xgamingserver.com/tools/minecraft/sphere-generator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://wisehosting.com/tools/sphere-generator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://tools.supercraft.host/tools/minecraft-sphere-generator": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

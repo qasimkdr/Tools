@@ -1,0 +1,150 @@
+{
+ "keywords": {
+  "binding calculator": {
+   "fetchedAt": "2026-11-26T08:25:54.950Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1300,
+   "fileKd": 9,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://shark-mouse-3bel.squarespace.com/binding-calc",
+     "domain": "shark-mouse-3bel.squarespace.com",
+     "title": "Binding Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.omnicalculator.com/everyday-life/quilt-binding",
+     "domain": "www.omnicalculator.com",
+     "title": "Quilt Binding Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.pearson.com/channels/ko-kr/calculators/binding-energy-per-nucleon-calculator",
+     "domain": "www.pearson.com",
+     "title": "Binding energy per nucleon calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://miniwebtool.com/quilt-binding-calculator/",
+     "domain": "miniwebtool.com",
+     "title": "Quilt binding calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://needlepointers.com/main/bindingcalculator.aspx",
+     "domain": "needlepointers.com",
+     "title": "Quilt Binding Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://sewingbysarah.com/blogs/tutorials/quilt-binding-calculator-how-to-calculate-binding-fabric-easily",
+     "domain": "sewingbysarah.com",
+     "title": "Quilt Binding Calculator: How to Calculate Binding Fabric Easily",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://phoebemoon.com/binding-charts/",
+     "domain": "phoebemoon.com",
+     "title": "Binding charts",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://morrisworks.co.uk/quilt-binding-calculator",
+     "domain": "morrisworks.co.uk",
+     "title": "Quilt binding calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "binding-calculator",
+ "page": "binding-calculator",
+ "category": "everyday",
+ "name": "Binding Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-26T08:25:54.950Z",
+ "topCompetitors": [
+  {
+   "domain": "squarespace.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://shark-mouse-3bel.squarespace.com/binding-calc"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/everyday-life/quilt-binding"
+   ]
+  },
+  {
+   "domain": "pearson.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.pearson.com/channels/ko-kr/calculators/binding-energy-per-nucleon-calculator"
+   ]
+  },
+  {
+   "domain": "miniwebtool.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://miniwebtool.com/quilt-binding-calculator/"
+   ]
+  },
+  {
+   "domain": "needlepointers.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://needlepointers.com/main/bindingcalculator.aspx"
+   ]
+  },
+  {
+   "domain": "sewingbysarah.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://sewingbysarah.com/blogs/tutorials/quilt-binding-calculator-how-to-calculate-binding-fabric-easily"
+   ]
+  },
+  {
+   "domain": "phoebemoon.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://phoebemoon.com/binding-charts/"
+   ]
+  },
+  {
+   "domain": "morrisworks.co.uk",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://morrisworks.co.uk/quilt-binding-calculator"
+   ]
+  }
+ ]
+}

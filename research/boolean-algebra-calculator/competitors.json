@@ -1,0 +1,23 @@
+{
+ "pages": {},
+ "failed": {
+  "https://www.dcode.fr/boolean-algebra": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.cuemath.com/calculators/boolean-algebra-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.emathhelp.net/calculators/discrete-mathematics/boolean-algebra-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://mycalcbuddy.com/math/boolean-algebra-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.meracalculator.com/math/boolean-algebra-calculator.php": [
+   "unreachable (fetch failed)"
+  ],
+  "https://helpingwithmath.com/math-calculators/boolean-algebra-calculator/": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

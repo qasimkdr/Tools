@@ -1,0 +1,307 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/biology/sheep-gestation": {
+   "url": "https://www.omnicalculator.com/biology/sheep-gestation",
+   "finalUrl": "https://www.omnicalculator.com/biology/sheep-gestation",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-26T08:26:36.142Z",
+   "title": "Sheep Gestation Calculator",
+   "metaDescription": "The sheep gestation calculator calculates the expected delivery date of your pregnant sheep.",
+   "canonical": "https://www.omnicalculator.com/biology/sheep-gestation",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Sheep Gestation Calculator"
+   ],
+   "h2": [
+    "Sheep gestation calculator",
+    "Gestation period of sheep, how long do sheep gestate?",
+    "Sheep gestation calendar, how long is a sheep pregnant?",
+    "FAQs"
+   ],
+   "h3": [
+    "How long is the gestation period of a sheep?",
+    "How many lambs do sheep give birth to?",
+    "How long is a sheep pregnant?",
+    "When will a sheep give birth if the mating date is January 3rd?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Sheep Gestation Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Sheep gestation calculator"
+    },
+    {
+     "level": 2,
+     "text": "Gestation period of sheep, how long do sheep gestate?"
+    },
+    {
+     "level": 2,
+     "text": "Sheep gestation calendar, how long is a sheep pregnant?"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How long is the gestation period of a sheep?"
+    },
+    {
+     "level": 3,
+     "text": "How many lambs do sheep give birth to?"
+    },
+    {
+     "level": 3,
+     "text": "How long is a sheep pregnant?"
+    },
+    {
+     "level": 3,
+     "text": "When will a sheep give birth if the mating date is January 3rd?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 954,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "How long is the gestation period of a sheep?",
+    "How many lambs do sheep give birth to?",
+    "How long is a sheep pregnant?",
+    "When will a sheep give birth if the mating date is January 3rd?",
+    "Gestation period of sheep, how long do sheep gestate?",
+    "Sheep gestation calendar, how long is a sheep pregnant?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "sheep",
+     "weight": 40
+    },
+    {
+     "term": "gestation",
+     "weight": 30
+    },
+    {
+     "term": "date",
+     "weight": 25
+    },
+    {
+     "term": "gestation period",
+     "weight": 17
+    },
+    {
+     "term": "sheep gestation",
+     "weight": 15
+    },
+    {
+     "term": "gestation calculator",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 15
+    },
+    {
+     "term": "lambing date",
+     "weight": 14
+    },
+    {
+     "term": "lambing",
+     "weight": 13
+    },
+    {
+     "term": "period",
+     "weight": 11
+    },
+    {
+     "term": "mating date",
+     "weight": 11
+    },
+    {
+     "term": "give birth",
+     "weight": 11
+    },
+    {
+     "term": "mating",
+     "weight": 10
+    },
+    {
+     "term": "give",
+     "weight": 9
+    },
+    {
+     "term": "lambs",
+     "weight": 9
+    },
+    {
+     "term": "pregnant",
+     "weight": 8
+    },
+    {
+     "term": "need",
+     "weight": 8
+    },
+    {
+     "term": "days",
+     "weight": 8
+    },
+    {
+     "term": "ewes",
+     "weight": 8
+    },
+    {
+     "term": "147 days",
+     "weight": 8
+    },
+    {
+     "term": "pregnancy",
+     "weight": 7
+    },
+    {
+     "term": "long",
+     "weight": 7
+    },
+    {
+     "term": "chart",
+     "weight": 7
+    },
+    {
+     "term": "birth",
+     "weight": 7
+    },
+    {
+     "term": "calculate",
+     "weight": 6
+    },
+    {
+     "term": "delivery date",
+     "weight": 6
+    },
+    {
+     "term": "find",
+     "weight": 5
+    },
+    {
+     "term": "have",
+     "weight": 5
+    },
+    {
+     "term": "dates",
+     "weight": 5
+    },
+    {
+     "term": "pregnant sheep",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "Lambing date = Mating date + 147 Lambing date=Mating date+147 So, all you need is the mating date of your sheep, and then you need to find the date, which is 147 days in the future.",
+    "For instance, if your sheep's mating took place on Christmas eve, you can expect the lambs to be born anywhere between 16th to 26th of May.",
+    "The gestation period of sheep is between 142 to 152 days, but 147 days is used as the average to calculate the lambing 🐏 date.",
+    "Since the gestation period of the ewe 🐑 is approximately 5 months, they are able to give birth twice a year.",
+    "The gestation period of sheep is between 142 to 152 days, so 147 days is often taken as the average.",
+    "A sheep is pregnant for almost 5 months, or 147 days, on average.",
+    "Your sheep's lambing date or delivery date is the 30th May.",
+    "The gestation period of sheep is 142 to 152 days, but 147 days is generally used to calculate the expected delivery date of ewes."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Mating date 🐑",
+    "Lambing date 🐏"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 6,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Komal Rafay",
+    "published": "2021-07-06T09:04:34.842Z",
+    "modified": "2026-08-06T15:03:27.515Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 433,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 23,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Goat gestation calculator",
+     "Cow Gestation Calculator",
+     "Swine gestation calculator",
+     "Llama gestation calculator",
+     "Horse gestation calculator",
+     "VPD Calculator (Vapor Pressure Deficit)",
+     "Sod Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/biology/goat-gestation",
+     "https://www.omnicalculator.com/biology/cow-gestation",
+     "https://www.omnicalculator.com/biology/swine-gestation",
+     "https://www.omnicalculator.com/biology/llama",
+     "https://www.omnicalculator.com/biology/horse-gestation",
+     "https://www.omnicalculator.com/biology/vapor-pressure-deficit",
+     "https://www.omnicalculator.com/biology/sod"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.farmbrite.com/post/sheep-gestation-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.calculate.co.nz/sheep-gestation-calculator.php": [
+   "unreachable (fetch failed)"
+  ],
+  "https://jacobsheepsociety.co.uk/sheep-gestation-calculator/": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

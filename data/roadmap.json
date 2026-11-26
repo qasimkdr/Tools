@@ -12036,7 +12036,8 @@
    ],
    "competitors": [],
    "category": "math",
-   "status": "todo",
+   "status": "scheduled",
+   "note": "scheduled 2026-11-30 10:21 PKT",
    "order": 142,
    "batch": 15
   },
@@ -12717,7 +12718,8 @@
    ],
    "competitors": [],
    "category": "everyday",
-   "status": "todo",
+   "status": "scheduled",
+   "note": "scheduled 2026-12-01 10:16 PKT",
    "order": 156,
    "batch": 16
   },
@@ -12775,7 +12777,8 @@
    ],
    "competitors": [],
    "category": "health",
-   "status": "todo",
+   "status": "scheduled",
+   "note": "scheduled 2026-11-30 10:21 PKT",
    "order": 158,
    "batch": 16
   },
@@ -12959,7 +12962,8 @@
    ],
    "competitors": [],
    "category": "health",
-   "status": "todo",
+   "status": "scheduled",
+   "note": "scheduled 2026-11-30 10:21 PKT",
    "order": 164,
    "batch": 17
   },
@@ -13020,7 +13024,8 @@
    ],
    "competitors": [],
    "category": "everyday",
-   "status": "todo",
+   "status": "scheduled",
+   "note": "scheduled 2026-12-01 10:16 PKT",
    "order": 166,
    "batch": 17
   },

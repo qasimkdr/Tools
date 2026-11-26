@@ -1,0 +1,143 @@
+{
+ "keywords": {
+  "boolean algebra calculator": {
+   "fetchedAt": "2026-11-26T08:25:54.563Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1600,
+   "fileKd": 11,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.cuemath.com/calculators/boolean-algebra-calculator/",
+     "domain": "www.cuemath.com",
+     "title": "Boolean Algebra Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.dcode.fr/boolean-algebra-solver",
+     "domain": "www.dcode.fr",
+     "title": "Boolean algebra solver",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.dcode.fr/boolean-algebra",
+     "domain": "www.dcode.fr",
+     "title": "Boolean algebra",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.meracalculator.com/math/boolean-algebra-calculator.php",
+     "domain": "www.meracalculator.com",
+     "title": "Boolean algebra calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://mycalcbuddy.com/math/boolean-algebra-calculator",
+     "domain": "mycalcbuddy.com",
+     "title": "Boolean Algebra Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.emathhelp.net/calculators/discrete-mathematics/boolean-algebra-calculator/",
+     "domain": "www.emathhelp.net",
+     "title": "Boolean Algebra Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.brightchamps.com/math/calculators/boolean-algebra-calculator",
+     "domain": "www.brightchamps.com",
+     "title": "Boolean Algebra Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://helpingwithmath.com/math-calculators/boolean-algebra-calculator/",
+     "domain": "helpingwithmath.com",
+     "title": "Boolean algebra calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "boolean-algebra-calculator",
+ "page": "boolean-algebra-calculator",
+ "category": "health",
+ "name": "Boolean Algebra Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-26T08:25:54.564Z",
+ "topCompetitors": [
+  {
+   "domain": "dcode.fr",
+   "bestRank": 2,
+   "keywords": 2,
+   "urls": [
+    "https://www.dcode.fr/boolean-algebra-solver",
+    "https://www.dcode.fr/boolean-algebra"
+   ]
+  },
+  {
+   "domain": "cuemath.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.cuemath.com/calculators/boolean-algebra-calculator/"
+   ]
+  },
+  {
+   "domain": "meracalculator.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.meracalculator.com/math/boolean-algebra-calculator.php"
+   ]
+  },
+  {
+   "domain": "mycalcbuddy.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://mycalcbuddy.com/math/boolean-algebra-calculator"
+   ]
+  },
+  {
+   "domain": "emathhelp.net",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.emathhelp.net/calculators/discrete-mathematics/boolean-algebra-calculator/"
+   ]
+  },
+  {
+   "domain": "brightchamps.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.brightchamps.com/math/calculators/boolean-algebra-calculator"
+   ]
+  },
+  {
+   "domain": "helpingwithmath.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://helpingwithmath.com/math-calculators/boolean-algebra-calculator/"
+   ]
+  }
+ ]
+}

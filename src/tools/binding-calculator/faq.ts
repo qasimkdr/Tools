@@ -1,0 +1,9 @@
+export const faq = [
+  { q: "How do I calculate how much binding I need for a quilt?", a: "Add the four sides to get the perimeter, then add 10 to 20 inches for joining the strips and finishing the ends. A 60 × 72 inch quilt has a 264 inch perimeter, so with 10 inches extra you need 274 inches of binding." },
+  { q: "How many binding strips do I need?", a: "Divide the total binding length by the usable width of your fabric and round up. 274 inches ÷ 42 inches = 6.5, so cut 7 strips selvage to selvage." },
+  { q: "How much fabric do I need for binding?", a: "Multiply the number of strips by the strip width. Seven 2½ inch strips use 17½ inches of fabric, just under ½ yard, so buy ½ yard. Many quilters buy an extra ⅛ yard to allow for straightening the edge." },
+  { q: "What width should binding strips be?", a: "2½ inches is the most common width for double-fold binding on a cotton quilt with normal batting. 2¼ inches gives a narrower binding; wider strips (2¾ to 3 inches) suit thick batting or a wider finished edge." },
+  { q: "What is the difference between straight-grain and bias binding?", a: "Straight-grain (crosswise) strips are cut across the fabric from selvage to selvage and are quick to make; they suit quilts with straight edges. Bias strips are cut at 45° so they stretch around curves and scalloped or rounded edges, and they tend to wear well along the fold." },
+  { q: "How big a square do I need for continuous bias binding?", a: "Multiply the binding length by the strip width and take the square root. For 274 inches of 2½ inch bias, 274 × 2.5 = 685 square inches, so cut a 27 inch square, which is ¾ yard of fabric." },
+  { q: "How much extra binding should I add?", a: "Most guides add 10 to 20 inches. Use the higher end if you join many short strips, use a wide binding or want room for a neat join where the ends meet." },
+];

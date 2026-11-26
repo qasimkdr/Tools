@@ -1,0 +1,9 @@
+export const faq = [
+  { q: "How many blocks are in a Minecraft sphere?", a: "It depends on the diameter and whether it is hollow. A 15-block sphere takes 530 blocks with thin hollow walls, 890 with thick (watertight) walls and 1,791 blocks filled. A filled sphere is close to the volume formula 4/3 × π × r³." },
+  { q: "How do I build a sphere layer by layer?", a: "Start at the bottom layer, place the blocks shown on the chart, then move up one layer at a time. The light squares show the layer below, which helps you line each new ring up. Mark the centre first so every layer stays aligned." },
+  { q: "What is the difference between thin and thick walls?", a: "Thin walls keep only blocks that touch the outside on a face, so neighbouring blocks may only meet at corners and you can see or walk through small gaps. Thick walls also keep blocks that touch the outside diagonally, which makes the shell solid and watertight." },
+  { q: "Should I use an odd or even diameter?", a: "Odd diameters have a single centre block on each axis, which makes it easy to line up with a beacon, a door or a pillar. Even diameters have a 2 × 2 centre. Both work; odd sizes are usually easier to build symmetrically." },
+  { q: "How do I build a dome instead of a sphere?", a: "Choose Dome (top half). The generator shows only the upper layers, starting from the widest ring. A 15-block dome with thin walls takes 285 blocks." },
+  { q: "How big can a sphere be in Minecraft?", a: "In Java Edition 1.18 and later the world runs from Y −64 to Y 320, 384 blocks in total, so a whole sphere must fit inside that height. This generator goes up to 100 blocks across, which fits comfortably." },
+  { q: "How many shulker boxes do I need?", a: "A shulker box has 27 slots, so it holds 27 stacks of 64, which is 1,728 blocks. The calculator shows the number of stacks and shulker boxes for the blocks in your shape." },
+];

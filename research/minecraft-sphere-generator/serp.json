@@ -1,0 +1,150 @@
+{
+ "keywords": {
+  "sphere minecraft generator": {
+   "fetchedAt": "2026-11-26T08:25:54.460Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1900,
+   "fileKd": 12,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.plotz.co.uk/minecraft-sphere-generator.php",
+     "domain": "www.plotz.co.uk",
+     "title": "Minecraft Sphere Generator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.minecraftmaps.com/tools/sphere-generator",
+     "domain": "www.minecraftmaps.com",
+     "title": "Sphere generator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://wisehosting.com/tools/sphere-generator",
+     "domain": "wisehosting.com",
+     "title": "Minecraft Sphere Generator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.planetminecraft.com/data-pack/sphere-generator/",
+     "domain": "www.planetminecraft.com",
+     "title": "Sphere Generator data pack",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://xgamingserver.com/tools/minecraft/sphere-generator",
+     "domain": "xgamingserver.com",
+     "title": "Sphere generator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://hackernoon.com/how-i-solved-minecrafts-squashed-potato-sphere-problem",
+     "domain": "hackernoon.com",
+     "title": "How I solved Minecraft's squashed potato sphere problem",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://minecraft.how/tools/sphere-generator",
+     "domain": "minecraft.how",
+     "title": "Sphere generator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://tools.supercraft.host/tools/minecraft-sphere-generator",
+     "domain": "tools.supercraft.host",
+     "title": "Minecraft Sphere Generator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "minecraft-sphere-generator",
+ "page": "minecraft-sphere-generator",
+ "category": "math",
+ "name": "Minecraft Sphere Generator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-26T08:25:54.461Z",
+ "topCompetitors": [
+  {
+   "domain": "plotz.co.uk",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.plotz.co.uk/minecraft-sphere-generator.php"
+   ]
+  },
+  {
+   "domain": "minecraftmaps.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.minecraftmaps.com/tools/sphere-generator"
+   ]
+  },
+  {
+   "domain": "wisehosting.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://wisehosting.com/tools/sphere-generator"
+   ]
+  },
+  {
+   "domain": "planetminecraft.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.planetminecraft.com/data-pack/sphere-generator/"
+   ]
+  },
+  {
+   "domain": "xgamingserver.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://xgamingserver.com/tools/minecraft/sphere-generator"
+   ]
+  },
+  {
+   "domain": "hackernoon.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://hackernoon.com/how-i-solved-minecrafts-squashed-potato-sphere-problem"
+   ]
+  },
+  {
+   "domain": "minecraft.how",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://minecraft.how/tools/sphere-generator"
+   ]
+  },
+  {
+   "domain": "supercraft.host",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://tools.supercraft.host/tools/minecraft-sphere-generator"
+   ]
+  }
+ ]
+}

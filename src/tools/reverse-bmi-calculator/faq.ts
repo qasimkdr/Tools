@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How do you calculate weight from BMI?", a: "Weight (kg) = BMI × height (m)². In US units, weight (lb) = BMI × height (in)² ÷ 703. For someone 5 ft 9 in (69 in) tall, a BMI of 22 is 22 × 69² ÷ 703 ≈ 149 lb." },
+  { q: "What is a healthy weight for my height?", a: "For adults, a BMI from 18.5 to 24.9 is classed as healthy weight. At 5 ft 9 in that is about 125 to 169 lb; at 175 cm it is about 56.7 to 76.3 kg. The calculator shows the range for your height." },
+  { q: "What weight is a BMI of 25 for my height?", a: "Enter your height and a target BMI of 25. At 5 ft 9 in, a BMI of 25 is about 169.3 lb, the point where adult BMI moves from healthy weight to overweight." },
+  { q: "Why are there different cut-offs for Asian adults?", a: "A 2004 WHO expert consultation found that many Asian populations have higher health risks at lower BMIs, and suggested public-health action points of 23 (increased risk) and 27.5 (high risk). Some countries use them; the international categories were kept. Switch the cut-offs to see both." },
+  { q: "How long will it take to reach my target weight?", a: "Divide the change by a weekly rate. CDC guidance notes that people who lose about 1 to 2 pounds a week are more likely to keep the weight off. Losing 31 lb at 1 lb a week takes about 31 weeks." },
+  { q: "Is BMI accurate for everyone?", a: "No. BMI is a screening measure based only on height and weight. It can overestimate body fat in muscular people and underestimate it in older adults, and it isn't used in pregnancy. Children and teens use BMI-for-age percentiles instead." },
+];

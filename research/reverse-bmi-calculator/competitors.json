@@ -1,0 +1,23 @@
+{
+ "pages": {},
+ "failed": {
+  "https://fitnessvolt.com/reverse-bmi-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://gymgeek.com/calculators/reverse-bmi-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://calculator.academy/reverse-bmi-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.onesdr.com/reverse-bmi-calculator-with-example": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.vanswefitness.com/pages/reverse-bmi-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://everycalculators.com/bmi-reverse-calculator.html": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

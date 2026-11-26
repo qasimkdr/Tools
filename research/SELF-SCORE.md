@@ -148,3 +148,8 @@ Rule-based on-page signals only — not rankings.
 | roofing-calculator | **26/30** | 5 | 4 | 5 | 3 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
 | bowling-handicap-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | — | — | no data |
 | five-number-summary-calculator | **24/25** | 5 | null | 5 | 5 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
+| boolean-algebra-calculator | **26/30** | 5 | 2 | 5 | 5 | 4 | 5 | — | — | no data |
+| minecraft-sphere-generator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | — | — | no data |
+| reverse-bmi-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | — | — | no data |
+| binding-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 15/25 | ahead |
+| sheep-gestation-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 21/30 | ahead |

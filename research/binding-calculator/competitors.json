@@ -1,0 +1,273 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/everyday-life/quilt-binding": {
+   "url": "https://www.omnicalculator.com/everyday-life/quilt-binding",
+   "finalUrl": "https://www.omnicalculator.com/everyday-life/quilt-binding",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-26T08:26:47.854Z",
+   "title": "Quilt Binding Calculator",
+   "metaDescription": "Quilt binding calculator will help you estimate how much binding fabric you need and how to cut it to create a binding tape for your quilt.",
+   "canonical": "https://www.omnicalculator.com/everyday-life/quilt-binding",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Quilt Binding Calculator"
+   ],
+   "h2": [
+    "Binding strips",
+    "Binding calculations",
+    "How to use the quilt binding calculator?"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Quilt Binding Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Binding strips"
+    },
+    {
+     "level": 2,
+     "text": "Binding calculations"
+    },
+    {
+     "level": 2,
+     "text": "How to use the quilt binding calculator?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 948,
+   "avgSentenceWords": 18,
+   "faqs": [
+    "How to use the quilt binding calculator?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "binding",
+     "weight": 58
+    },
+    {
+     "term": "quilt",
+     "weight": 28
+    },
+    {
+     "term": "width",
+     "weight": 16
+    },
+    {
+     "term": "fabric",
+     "weight": 16
+    },
+    {
+     "term": "calculator",
+     "weight": 11
+    },
+    {
+     "term": "length",
+     "weight": 11
+    },
+    {
+     "term": "bias",
+     "weight": 11
+    },
+    {
+     "term": "cut",
+     "weight": 11
+    },
+    {
+     "term": "quilt binding",
+     "weight": 11
+    },
+    {
+     "term": "straps",
+     "weight": 9
+    },
+    {
+     "term": "bias binding",
+     "weight": 9
+    },
+    {
+     "term": "tape",
+     "weight": 9
+    },
+    {
+     "term": "straight binding",
+     "weight": 8
+    },
+    {
+     "term": "need",
+     "weight": 7
+    },
+    {
+     "term": "make",
+     "weight": 7
+    },
+    {
+     "term": "create",
+     "weight": 7
+    },
+    {
+     "term": "straight",
+     "weight": 7
+    },
+    {
+     "term": "binding calculator",
+     "weight": 6
+    },
+    {
+     "term": "sewing",
+     "weight": 6
+    },
+    {
+     "term": "binding fabric",
+     "weight": 6
+    },
+    {
+     "term": "binding width",
+     "weight": 6
+    },
+    {
+     "term": "binding strips",
+     "weight": 6
+    },
+    {
+     "term": "measure",
+     "weight": 6
+    },
+    {
+     "term": "area",
+     "weight": 6
+    },
+    {
+     "term": "bias tape",
+     "weight": 6
+    },
+    {
+     "term": "type",
+     "weight": 5
+    },
+    {
+     "term": "way",
+     "weight": 5
+    },
+    {
+     "term": "strips",
+     "weight": 5
+    },
+    {
+     "term": "perimeter",
+     "weight": 5
+    },
+    {
+     "term": "binding type",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "perimeter + 10\" = length of binding Next, choose the binding type: If you picked straight binding, measure the edge of the binding fabric along which you will cut the straps.",
+    "Usually, quilters choose to cut their binding strips between 2 and 2.5 inches.",
+    "That way, around 0.25 inches of binding on each side of the quilt is visible."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 8,
+   "images": 2,
+   "videos": 1,
+   "calculatorInputs": [
+    "Width of straps"
+   ],
+   "selectOptionsSample": "select 1\" (2.54 cm) 1.25\" (3.18 cm) 1.5\" (3.81 cm) 1.75\" (4.45 cm) 2\" (5.08 cm) 2.25\" (5.72 cm) 2.5\" (6.35 cm) 2.75\" (6.99 cm) 3\" (7.62 cm) 3.25\" (8.26 cm) 3.5\" (8.89 cm) 3.75\" (9.53 cm) 4\" (10.16 cm) custom",
+   "unitToggle": true,
+   "wordsBeforeTool": 10,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Julia Żuławińska",
+    "published": "2020-08-31T16:34:25.774Z",
+    "modified": "2026-07-23T14:08:11.858Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 584,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 25,
+    "external": 2,
+    "contentInternal": 9,
+    "contentExternal": 2,
+    "internalAnchors": [
+     "Quilt Binding: How to Get a Clean Finish on Both Sides",
+     "Quilt Batting: How to Choose the Right One Before You Buy",
+     "curtain panel calculator",
+     "perimeter",
+     "square root calculator",
+     "hexagon quilt calculator",
+     "quilt calculator",
+     "Audiobook Speed Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/reports/quilt-binding-how-to-get-a-clean-finish-on-both-sides",
+     "https://www.omnicalculator.com/reports/tips-for-choosing-quilt-batting",
+     "https://www.omnicalculator.com/crafts-prompt-library",
+     "https://www.omnicalculator.com/everyday-life/curtain-panel",
+     "https://www.omnicalculator.com/math/perimeter",
+     "https://www.omnicalculator.com/math/square-root",
+     "https://www.omnicalculator.com/everyday-life/hexagon-quilt",
+     "https://www.omnicalculator.com/everyday-life/quilt",
+     "https://www.omnicalculator.com/everyday-life/audiobook-speed"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com",
+     "https://youtu.be/DrJhNlJVLo8"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://miniwebtool.com/quilt-binding-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://needlepointers.com/main/bindingcalculator.aspx": [
+   "unreachable (fetch failed)"
+  ],
+  "https://sewingbysarah.com/blogs/tutorials/quilt-binding-calculator-how-to-calculate-binding-fabric-easily": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

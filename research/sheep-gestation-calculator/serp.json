@@ -1,0 +1,150 @@
+{
+ "keywords": {
+  "sheep gestation calculator": {
+   "fetchedAt": "2026-11-26T08:25:54.827Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1300,
+   "fileKd": 8,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.omnicalculator.com/biology/sheep-gestation",
+     "domain": "www.omnicalculator.com",
+     "title": "Sheep Gestation Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.farmbrite.com/post/sheep-gestation-calculator",
+     "domain": "www.farmbrite.com",
+     "title": "Sheep gestation calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.farmkeep.com/farm-guides/calculator/sheep-gestation",
+     "domain": "www.farmkeep.com",
+     "title": "Sheep gestation",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.calculate.co.nz/sheep-gestation-calculator.php",
+     "domain": "www.calculate.co.nz",
+     "title": "Sheep Gestation Calculator NZ",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.iamcountryside.com/homesteading/poultry-goat-sheep-swine-and-cow-gestation-calculator/",
+     "domain": "www.iamcountryside.com",
+     "title": "Poultry, Goat, Sheep, Swine, and Cow Gestation Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://jacobsheepsociety.co.uk/sheep-gestation-calculator/",
+     "domain": "jacobsheepsociety.co.uk",
+     "title": "Sheep Gestation Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.calculatorsoup.com/calculators/health/gestation-calculator.php",
+     "domain": "www.calculatorsoup.com",
+     "title": "Gestation calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://calculators.sg/sheep-gestation-calculator",
+     "domain": "calculators.sg",
+     "title": "Sheep Gestation Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "sheep-gestation-calculator",
+ "page": "sheep-gestation-calculator",
+ "category": "everyday",
+ "name": "Sheep Gestation Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-26T08:25:54.827Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/biology/sheep-gestation"
+   ]
+  },
+  {
+   "domain": "farmbrite.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.farmbrite.com/post/sheep-gestation-calculator"
+   ]
+  },
+  {
+   "domain": "farmkeep.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.farmkeep.com/farm-guides/calculator/sheep-gestation"
+   ]
+  },
+  {
+   "domain": "calculate.co.nz",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculate.co.nz/sheep-gestation-calculator.php"
+   ]
+  },
+  {
+   "domain": "iamcountryside.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.iamcountryside.com/homesteading/poultry-goat-sheep-swine-and-cow-gestation-calculator/"
+   ]
+  },
+  {
+   "domain": "jacobsheepsociety.co.uk",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://jacobsheepsociety.co.uk/sheep-gestation-calculator/"
+   ]
+  },
+  {
+   "domain": "calculatorsoup.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculatorsoup.com/calculators/health/gestation-calculator.php"
+   ]
+  },
+  {
+   "domain": "calculators.sg",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://calculators.sg/sheep-gestation-calculator"
+   ]
+  }
+ ]
+}
