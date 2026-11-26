@@ -79,4 +79,5 @@ Rows with status `hold` are policy-sensitive: never build without the owner's OK
    `docs/research/<slug>.md`. The tool must cover ALL relevant competitor features, then add extra ones that searchers
    want (more detail than any competitor). Verify with `npm run seo:gaps -- --slugs <slugs>` after building; every ✗ is
    built or logged as skipped with a reason (irrelevant, filler essay, unverifiable data, unsafe). Never copy their text,
-   never invent data to match a feature. Details: `docs/03-TOOL-BUILD-WORKFLOW.md` Step 2.5.
+   never invent data to match a feature. Word count is NOT a target (owner, 2026-11-26): fewer words than competitors is
+   fine; match their features and topics, never pad. Details: `docs/03-TOOL-BUILD-WORKFLOW.md` Step 2.5.

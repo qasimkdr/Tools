@@ -51,7 +51,9 @@ You get: primary keyword, volume, KD, all merged keywords (≤40), competitor UR
 4. After building: `SHOW_SCHEDULED=1 npm run build && npm run seo:gaps -- --slugs <slugs>` writes
    `research/<slug>/gaps.md` (competitor features/sections/FAQs vs our built page). The text matching is heuristic:
    review every ✗ and either fix it or log the skip reason in the brief's matrix.
-5. The batch report states per tool: "features covered N/N (skipped: … because …)" and the extras added.
+5. Word count is not a goal (owner, 2026-11-26): a shorter page is fine when it covers the features and topics.
+   Never add words to match a competitor's length.
+6. The batch report states per tool: "features covered N/N (skipped: … because …)" and the extras added.
 
 ## Step 3 — Build the calculator (`src/tools/<slug>/Calculator.tsx`)
 - `"use client"`; pure math in `src/lib/*.ts` (reusable + testable). Validate inputs; never show NaN/Infinity.
