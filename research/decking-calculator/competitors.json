@@ -1,0 +1,714 @@
+{
+ "pages": {
+  "https://www.inchcalculator.com/deck-flooring-calculator/": {
+   "url": "https://www.inchcalculator.com/deck-flooring-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/deck-flooring-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-26T13:47:57.047Z",
+   "title": "Deck Board Material Calculator - Inch Calculator",
+   "metaDescription": "Calculate how many deck boards and fasteners you need for your new deck project, plus estimate the cost of decking and material.",
+   "canonical": "https://www.inchcalculator.com/deck-flooring-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Deck Board Material Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Decking Needed",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Estimate Decking",
+    "Deck Flooring Estimation Tips",
+    "Similar Deck & Patio Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Estimated Costs:",
+    "Step One: Select Your Material",
+    "Step Two: Measure the Deck Area",
+    "Step Three: Determine Joist Spacing",
+    "Step Four: Determine Deck Board Sizes",
+    "Step Five: Find Board Area",
+    "Step Six: Calculate the Number of Boards",
+    "Remember the Stairs",
+    "Order Extra Material",
+    "Order Extra Fasteners",
+    "Different Decking Materials are Sold Differently",
+    "Estimate the Total Cost",
+    "Get Professional Estimates in Addition to Research"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Deck Board Material Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Decking Needed"
+    },
+    {
+     "level": 3,
+     "text": "Estimated Costs:"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Estimate Decking"
+    },
+    {
+     "level": 3,
+     "text": "Step One: Select Your Material"
+    },
+    {
+     "level": 3,
+     "text": "Step Two: Measure the Deck Area"
+    },
+    {
+     "level": 3,
+     "text": "Step Three: Determine Joist Spacing"
+    },
+    {
+     "level": 3,
+     "text": "Step Four: Determine Deck Board Sizes"
+    },
+    {
+     "level": 3,
+     "text": "Step Five: Find Board Area"
+    },
+    {
+     "level": 3,
+     "text": "Step Six: Calculate the Number of Boards"
+    },
+    {
+     "level": 2,
+     "text": "Deck Flooring Estimation Tips"
+    },
+    {
+     "level": 3,
+     "text": "Remember the Stairs"
+    },
+    {
+     "level": 3,
+     "text": "Order Extra Material"
+    },
+    {
+     "level": 3,
+     "text": "Order Extra Fasteners"
+    },
+    {
+     "level": 3,
+     "text": "Different Decking Materials are Sold Differently"
+    },
+    {
+     "level": 3,
+     "text": "Estimate the Total Cost"
+    },
+    {
+     "level": 3,
+     "text": "Get Professional Estimates in Addition to Research"
+    },
+    {
+     "level": 2,
+     "text": "Similar Deck & Patio Calculators"
+    }
+   ],
+   "wordCount": 1559,
+   "avgSentenceWords": 23,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "deck",
+     "weight": 40
+    },
+    {
+     "term": "board",
+     "weight": 29
+    },
+    {
+     "term": "square footage",
+     "weight": 21
+    },
+    {
+     "term": "boards",
+     "weight": 19
+    },
+    {
+     "term": "calculator",
+     "weight": 17
+    },
+    {
+     "term": "decking",
+     "weight": 17
+    },
+    {
+     "term": "fasteners",
+     "weight": 15
+    },
+    {
+     "term": "need",
+     "weight": 15
+    },
+    {
+     "term": "square",
+     "weight": 15
+    },
+    {
+     "term": "footage",
+     "weight": 15
+    },
+    {
+     "term": "step",
+     "weight": 14
+    },
+    {
+     "term": "length",
+     "weight": 13
+    },
+    {
+     "term": "material",
+     "weight": 12
+    },
+    {
+     "term": "estimate",
+     "weight": 12
+    },
+    {
+     "term": "project",
+     "weight": 12
+    },
+    {
+     "term": "width",
+     "weight": 9
+    },
+    {
+     "term": "order",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "flooring",
+     "weight": 8
+    },
+    {
+     "term": "deck boards",
+     "weight": 8
+    },
+    {
+     "term": "hidden fasteners",
+     "weight": 8
+    },
+    {
+     "term": "board length",
+     "weight": 8
+    },
+    {
+     "term": "deck flooring",
+     "weight": 8
+    },
+    {
+     "term": "pressure treated",
+     "weight": 8
+    },
+    {
+     "term": "hidden",
+     "weight": 7
+    },
+    {
+     "term": "spacing",
+     "weight": 7
+    },
+    {
+     "term": "find",
+     "weight": 7
+    },
+    {
+     "term": "composite",
+     "weight": 7
+    },
+    {
+     "term": "cedar",
+     "weight": 7
+    },
+    {
+     "term": "lumber",
+     "weight": 7
+    }
+   ],
+   "claims": [
+    "For example, a deck that is 10′ wide by 20′ long has 200 sq ft (10 × 20 = 200).",
+    "Step Three: Determine Joist Spacing You’ll need to know the joist spacing you are planning to use in order to determine the ideal board length and the number of fasteners you need, most commonly 12″, 16″, 20″, or 24″.",
+    "Step Four: Determine Deck Board Sizes Most boards are available in 3 ½” or 5 ½” widths and 8′, 10′, 12′, 16′, or 20′ lengths.",
+    "For example, if your boards are 5 ½” x 16′, you would multiply 5.5 × 192, then divide by 144 to get 7.34 sq ft per board.",
+    "Use the same method to calculate your boards: get the length and width of each step in inches, multiply them together, and divide by 144 to get the square footage for each step.",
+    "If you are installing your deck planks on a diagonal or in a pattern, order 20% extra material, as patterns require additional cuts and waste.",
+    "As with the decking, make sure you order at least 10% more fasteners to account for any that get bent or lost during the project.",
+    "Board feet are calculated by the volume of each board, so you will need to know the decking thickness as well; most deck planks are 1 inch thick, but this can vary, so always check to be sure."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 3,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [
+    "Width",
+    "Width Units",
+    "Length",
+    "Length Units",
+    "Joist Spacing",
+    "Board Length",
+    "Board Width",
+    "Price (optional)"
+   ],
+   "selectOptionsSample": "in ft yd cm m in ft yd cm m 12\" 16\" 20\" 24\" 8' 10' 12' 16' 20' 3.5\" 5.5\"",
+   "unitToggle": true,
+   "wordsBeforeTool": 44,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": false,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2016-02-20",
+    "modified": "2023-03-22T19:41:06+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 132,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 51,
+    "external": 13,
+    "contentInternal": 27,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Estimate Decking",
+     "Step One: Select Your Material",
+     "Step Two: Measure the Deck Area",
+     "Step Three: Determine Joist Spacing",
+     "Step Four: Determine Deck Board Sizes",
+     "Step Five: Find Board Area",
+     "Step Six: Calculate the Number of Boards",
+     "Deck Flooring Estimation Tips",
+     "Full bio",
+     "Deck Board Material Calculator",
+     "stains",
+     "Get Free Estimates",
+     "square footage calculator",
+     "feet and inches calculator",
+     "baluster calculator",
+     "board footage calculator",
+     "deck cost calculator"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/deck-flooring-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/deck-flooring/",
+     "https://www.inchcalculator.com/deck-flooring-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/deck-flooring-calculator/#idx_how_to_estimate_decking",
+     "https://www.inchcalculator.com/deck-flooring-calculator/#idx_step_one_select_your_material",
+     "https://www.inchcalculator.com/deck-flooring-calculator/#idx_step_two_measure_the_deck_area",
+     "https://www.inchcalculator.com/deck-flooring-calculator/#idx_step_three_determine_joist_spacing",
+     "https://www.inchcalculator.com/deck-flooring-calculator/#idx_step_four_determine_deck_board_sizes",
+     "https://www.inchcalculator.com/deck-flooring-calculator/#idx_step_five_find_board_area",
+     "https://www.inchcalculator.com/deck-flooring-calculator/#idx_step_six_calculate_the_number_of_boards",
+     "https://www.inchcalculator.com/deck-flooring-calculator/#idx_deck_flooring_estimation_tips",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/sarabeth-asaff-south/",
+     "https://www.inchcalculator.com/deck-flooring-calculator/",
+     "https://www.inchcalculator.com/deck-stain-calculator/",
+     "https://www.inchcalculator.com/get-free-home-repair-estimates/?preset_project_type=Decks+%26+Porches&preset_service_id=",
+     "https://www.inchcalculator.com/square-footage-calculator/",
+     "https://www.inchcalculator.com/feet-inches-calculator/",
+     "https://www.inchcalculator.com/baluster-calculator/",
+     "https://www.inchcalculator.com/board-footage-calculator/",
+     "https://www.inchcalculator.com/cost-to-build-deck/",
+     "https://www.inchcalculator.com/get-free-home-repair-estimates/?lead_service=80",
+     "https://www.inchcalculator.com/concrete-footing-calculator/",
+     "https://www.inchcalculator.com/cost-to-install-patio/",
+     "https://www.inchcalculator.com/paver-calculator/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fdeck-flooring-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fdeck-flooring-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fdeck-flooring-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fdeck-flooring-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fdeck-flooring-calculator%2F&text=Deck+Board+Material+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fdeck-flooring-calculator%2F&text=Deck+Board+Material+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/construction/decking": {
+   "url": "https://www.omnicalculator.com/construction/decking",
+   "finalUrl": "https://www.omnicalculator.com/construction/decking",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-26T13:48:00.752Z",
+   "title": "Decking Calculator",
+   "metaDescription": "The decking calculator helps you estimate the cost of building a deck by calculating the price of boards and fasteners needed.",
+   "canonical": "https://www.omnicalculator.com/construction/decking",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Decking Calculator"
+   ],
+   "h2": [
+    "Deck components",
+    "Decking materials",
+    "Cost to build a deck – how to use the deck material calculator",
+    "How does the decking calculator work? – An example",
+    "Additional costs",
+    "Sources",
+    "FAQs"
+   ],
+   "h3": [
+    "What is composite decking?",
+    "What is the cheapest type of deck to build?",
+    "What size is a standard deck?",
+    "How many deck boards do I need for a 12x12 deck?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Decking Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Deck components"
+    },
+    {
+     "level": 2,
+     "text": "Decking materials"
+    },
+    {
+     "level": 2,
+     "text": "Cost to build a deck – how to use the deck material calculator"
+    },
+    {
+     "level": 2,
+     "text": "How does the decking calculator work? – An example"
+    },
+    {
+     "level": 2,
+     "text": "Additional costs"
+    },
+    {
+     "level": 2,
+     "text": "Sources"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What is composite decking?"
+    },
+    {
+     "level": 3,
+     "text": "What is the cheapest type of deck to build?"
+    },
+    {
+     "level": 3,
+     "text": "What size is a standard deck?"
+    },
+    {
+     "level": 3,
+     "text": "How many deck boards do I need for a 12x12 deck?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1794,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "What is composite decking?",
+    "What is the cheapest type of deck to build?",
+    "What size is a standard deck?",
+    "How many deck boards do I need for a 12x12 deck?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "deck",
+     "weight": 47
+    },
+    {
+     "term": "decking",
+     "weight": 34
+    },
+    {
+     "term": "calculator",
+     "weight": 23
+    },
+    {
+     "term": "cost",
+     "weight": 20
+    },
+    {
+     "term": "need",
+     "weight": 20
+    },
+    {
+     "term": "boards",
+     "weight": 19
+    },
+    {
+     "term": "number",
+     "weight": 16
+    },
+    {
+     "term": "square footage",
+     "weight": 14
+    },
+    {
+     "term": "square",
+     "weight": 12
+    },
+    {
+     "term": "board",
+     "weight": 12
+    },
+    {
+     "term": "screws",
+     "weight": 12
+    },
+    {
+     "term": "wood",
+     "weight": 12
+    },
+    {
+     "term": "fasteners",
+     "weight": 11
+    },
+    {
+     "term": "decking boards",
+     "weight": 11
+    },
+    {
+     "term": "price",
+     "weight": 10
+    },
+    {
+     "term": "footage",
+     "weight": 9
+    },
+    {
+     "term": "choose",
+     "weight": 9
+    },
+    {
+     "term": "you'll need",
+     "weight": 9
+    },
+    {
+     "term": "decking calculator",
+     "weight": 8
+    },
+    {
+     "term": "enter",
+     "weight": 7
+    },
+    {
+     "term": "build",
+     "weight": 7
+    },
+    {
+     "term": "size",
+     "weight": 7
+    },
+    {
+     "term": "want",
+     "weight": 7
+    },
+    {
+     "term": "composite",
+     "weight": 7
+    },
+    {
+     "term": "material",
+     "weight": 7
+    },
+    {
+     "term": "calculate",
+     "weight": 7
+    },
+    {
+     "term": "length",
+     "weight": 6
+    },
+    {
+     "term": "width",
+     "weight": 6
+    },
+    {
+     "term": "nails",
+     "weight": 6
+    },
+    {
+     "term": "total",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "– An example If you want to know what equations the deck cost calculator uses or want to calculate the cost yourself, read the example below: Let's say you want a deck that is 20 ft long and 13 ft wide.",
+    "To calculate the square footage of the deck, multiply the two numbers together: 20 ft × 13 ft = 260 ft² You chose a board that is 8 ft long and 6 in wide.",
+    "We divide the deck square footage by the board square footage and add 10% to account for waste: 260 ft²/ 4 ft² × 1.1 = 71.5 Let's round the result up (it's better to have more than less) – we'll need 72 boards.",
+    "For calculating the number of screws (or nails) needed, we follow the rule of thumb that you need 350 screws for every 100 square feet of decking.",
+    "That means that the number of screws is 3.5 times larger than the number of square feet of decking.",
+    "If one board costs $7: 72 × $7 = $504 The boards will cost $504.",
+    "To know the cost of decking, let's add the price of the pack of screws to the price of boards: $504 + $98 = $602 The total cost of deck flooring is $602.",
+    "Sources The 10 Essential Components of a Deck; How To Choose The Right Material For Your Deck; How to Plan Decking; and How to Choose the Right Fastener for Your Deck.",
+    "The average deck size is between 300 ft² and 400 ft².",
+    "A deck measuring at least 12 feet by 12 feet should be enough for you to hold a round dining table."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 16,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Select board width"
+   ],
+   "selectOptionsSample": "select 3.5\" 4\" 5\" 5.25\" 5.5\" 6\" 7.25\" 12\" 24\" 115 mm 120 mm 125 mm 130 mm 135 mm 140 mm 145 mm 150 mm 30 cm 40 cm 50 cm other",
+   "unitToggle": true,
+   "wordsBeforeTool": 10,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Rita Rain",
+    "published": "2019-06-07T12:54:52.430Z",
+    "modified": "2026-07-31T22:23:48.183Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 772,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 26,
+    "external": 1,
+    "contentInternal": 10,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "wood beam span calculator",
+     "floor joist calculator",
+     "lumber calculator",
+     "log weight calculator",
+     "plywood calculator",
+     "spindle spacing calculator",
+     "how much stain you need for your deck",
+     "DIY shed cost calculator",
+     "Stone Weight Calculator",
+     "Board and Batten Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/construction/wood-beam-span",
+     "https://www.omnicalculator.com/construction/floor-joist",
+     "https://www.omnicalculator.com/construction/lumber",
+     "https://www.omnicalculator.com/construction/log-weight",
+     "https://www.omnicalculator.com/construction/plywood",
+     "https://www.omnicalculator.com/construction/spindle-spacing",
+     "https://www.omnicalculator.com/construction/deck-stain",
+     "https://www.omnicalculator.com/construction/diy-shed-cost",
+     "https://www.omnicalculator.com/construction/stone",
+     "https://www.omnicalculator.com/construction/board-and-batten"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.decks.com/calculators/decking-calculator/": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

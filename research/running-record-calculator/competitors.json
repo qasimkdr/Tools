@@ -1,0 +1,11 @@
+{
+ "pages": {},
+ "failed": {
+  "https://wordcalc.com/runningrecord": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.calculate.co.nz/running-record-calculator.php": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

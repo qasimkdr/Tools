@@ -1,0 +1,14 @@
+{
+ "pages": {},
+ "failed": {
+  "https://www.decathlon2000.com/884": [
+   "unreachable (fetch failed)"
+  ],
+  "https://elitetrackr.com/tools/combined-events-calculator": [
+   "unreachable (fetch failed)"
+  ],
+  "https://coachathletics.com.au/news/interactive-combined-events-scoring-table": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

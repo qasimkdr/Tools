@@ -1,0 +1,139 @@
+{
+ "keywords": {
+  "fence calculator": {
+   "fetchedAt": "2026-11-26T13:47:52.548Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 8100,
+   "fileKd": 39,
+   "fileIntent": "C",
+   "semrushCompetitor": {
+    "position": 3,
+    "url": "www.omnicalculator.com/construction/fence"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.omnicalculator.com/construction/fence",
+     "domain": "www.omnicalculator.com",
+     "title": "Fence Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.hooverfence.com/calculators",
+     "domain": "www.hooverfence.com",
+     "title": "Fence Calculators",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.miniwebtool.com/fence-calculator/",
+     "domain": "www.miniwebtool.com",
+     "title": "Fence calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.omnicalculator.com/construction/fence-material",
+     "domain": "www.omnicalculator.com",
+     "title": "Fence Material Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.inchcalculator.com/wood-fence-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Wood Fence Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.inchcalculator.com/fence-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Fence Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.arcsite.com/utility/wood-fence-calculator",
+     "domain": "www.arcsite.com",
+     "title": "Wood Fence Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.joist.com/tools/fence-cost-calculator/",
+     "domain": "www.joist.com",
+     "title": "Fence cost calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "fence-calculator",
+ "page": "fence-calculator",
+ "category": "construction",
+ "name": "Fence Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-26T13:47:52.549Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://www.omnicalculator.com/construction/fence",
+    "https://www.omnicalculator.com/construction/fence-material"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 5,
+   "keywords": 2,
+   "urls": [
+    "https://www.inchcalculator.com/wood-fence-calculator/",
+    "https://www.inchcalculator.com/fence-calculator/"
+   ]
+  },
+  {
+   "domain": "hooverfence.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.hooverfence.com/calculators"
+   ]
+  },
+  {
+   "domain": "miniwebtool.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.miniwebtool.com/fence-calculator/"
+   ]
+  },
+  {
+   "domain": "arcsite.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.arcsite.com/utility/wood-fence-calculator"
+   ]
+  },
+  {
+   "domain": "joist.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.joist.com/tools/fence-cost-calculator/"
+   ]
+  }
+ ]
+}

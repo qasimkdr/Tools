@@ -1,0 +1,150 @@
+{
+ "keywords": {
+  "running record calculator": {
+   "fetchedAt": "2026-11-26T13:47:53.024Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1300,
+   "fileKd": 11,
+   "fileIntent": "C - I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://wordcalc.com/runningrecord",
+     "domain": "wordcalc.com",
+     "title": "Running Record Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://wismuth.com/running/calculator.html",
+     "domain": "wismuth.com",
+     "title": "Alligator running calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://apps.apple.com/tc/app/running-record-assistant/id507919711",
+     "domain": "apps.apple.com",
+     "title": "Running Record Assistant",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://mycalcbuddy.com/sports/personal-record-calculator",
+     "domain": "mycalcbuddy.com",
+     "title": "Personal Record Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://my.homepage.net/news/running-record-calculator",
+     "domain": "my.homepage.net",
+     "title": "Running Record Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.omnicalculator.com/sports/race-predictor",
+     "domain": "www.omnicalculator.com",
+     "title": "Race Predictor",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.calculate.co.nz/running-record-calculator.php",
+     "domain": "www.calculate.co.nz",
+     "title": "Running Record Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.edrawsoft.com/templates/pdf/running-record-form.pdf",
+     "domain": "www.edrawsoft.com",
+     "title": "Running record form",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "running-record-calculator",
+ "page": "running-record-calculator",
+ "category": "education",
+ "name": "Running Record Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-26T13:47:53.025Z",
+ "topCompetitors": [
+  {
+   "domain": "wordcalc.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://wordcalc.com/runningrecord"
+   ]
+  },
+  {
+   "domain": "wismuth.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://wismuth.com/running/calculator.html"
+   ]
+  },
+  {
+   "domain": "apple.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://apps.apple.com/tc/app/running-record-assistant/id507919711"
+   ]
+  },
+  {
+   "domain": "mycalcbuddy.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://mycalcbuddy.com/sports/personal-record-calculator"
+   ]
+  },
+  {
+   "domain": "homepage.net",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://my.homepage.net/news/running-record-calculator"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/sports/race-predictor"
+   ]
+  },
+  {
+   "domain": "calculate.co.nz",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculate.co.nz/running-record-calculator.php"
+   ]
+  },
+  {
+   "domain": "edrawsoft.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.edrawsoft.com/templates/pdf/running-record-form.pdf"
+   ]
+  }
+ ]
+}

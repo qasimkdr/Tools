@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How do you calculate running record accuracy?", a: "Accuracy = (running words − errors) ÷ running words × 100. A student who reads a 99-word passage with 8 errors scores (99 − 8) ÷ 99 × 100 = 91.9%, which most schools record as 92%." },
+  { q: "How do you work out the error rate?", a: "Error rate = running words ÷ errors, written as a ratio. 99 words with 8 errors is 99 ÷ 8 = 12.4, so an error rate of 1:12: about one error for every 12 words." },
+  { q: "How do you calculate the self-correction rate?", a: "Self-correction rate = (errors + self-corrections) ÷ self-corrections. With 8 errors and 4 self-corrections, (8 + 4) ÷ 4 = 3, a rate of 1:3, meaning the child corrected one in every three mistakes they made." },
+  { q: "What accuracy levels mean independent, instructional and frustrational?", a: "Reading A–Z uses 95–100% for independent (the child can read the text alone), 90–94% for instructional (right for guided reading with support) and below 90% for frustrational (the text is too hard for now). Some programs draw the lines slightly differently, so follow your school's guide." },
+  { q: "Do self-corrections count as errors?", a: "No. If a child makes a mistake and then corrects it, it is recorded as a self-correction, not an error. Repeated errors on the same proper noun usually count only once." },
+  { q: "What is words correct per minute (WCPM)?", a: "A fluency measure: words read correctly ÷ reading time in minutes. 91 correct words in 1 minute 30 seconds is 91 ÷ 1.5 ≈ 61 WCPM. Compare it with your program's grade-level fluency norms." },
+];

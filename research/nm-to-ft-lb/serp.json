@@ -1,0 +1,153 @@
+{
+ "keywords": {
+  "n-m to ft lbs converter": {
+   "fetchedAt": "2026-11-26T13:47:52.700Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 12100,
+   "fileKd": 30,
+   "fileIntent": "C",
+   "semrushCompetitor": {
+    "position": 1,
+    "url": "www.omnicalculator.com/conversion/nm-to-ft-lb"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.omnicalculator.com/conversion/nm-to-ft-lb",
+     "domain": "www.omnicalculator.com",
+     "title": "Nm to ft-lb Converter",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.inchcalculator.com/convert/newton-meter-to-foot-pound/",
+     "domain": "www.inchcalculator.com",
+     "title": "Newton-Meters to Foot-Pounds Converter",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.calctool.org/conversion/nm-to-ft-lb",
+     "domain": "www.calctool.org",
+     "title": "Nm to ft-lbs Converter",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://us.misumi-ec.com/blog/nm-to-ft-lbs-converter/",
+     "domain": "us.misumi-ec.com",
+     "title": "Nm to ft-lbs converter",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.convertunits.com/from/N+m/to/ft+lb",
+     "domain": "www.convertunits.com",
+     "title": "Convert N m to ft lb",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://mathda.com/convert/torque/newton-meter-to-foot-pound-force",
+     "domain": "mathda.com",
+     "title": "Newton Meter to Foot-Pound Force converter",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.calculate.co.nz/nm-to-ft-lbs-converter.php",
+     "domain": "www.calculate.co.nz",
+     "title": "Nm to ft-lbs Converter",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.miniwebtool.com/torque-converter-nm-ft-lb-kgf-cm/",
+     "domain": "www.miniwebtool.com",
+     "title": "Torque converter Nm ft lb kgf cm",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "nm-to-ft-lb",
+ "page": "nm-to-ft-lb",
+ "category": "science",
+ "name": "Nm To Ft Lb",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-26T13:47:52.701Z",
+ "topCompetitors": [
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/conversion/nm-to-ft-lb"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/convert/newton-meter-to-foot-pound/"
+   ]
+  },
+  {
+   "domain": "calctool.org",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.calctool.org/conversion/nm-to-ft-lb"
+   ]
+  },
+  {
+   "domain": "misumi-ec.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://us.misumi-ec.com/blog/nm-to-ft-lbs-converter/"
+   ]
+  },
+  {
+   "domain": "convertunits.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.convertunits.com/from/N+m/to/ft+lb"
+   ]
+  },
+  {
+   "domain": "mathda.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://mathda.com/convert/torque/newton-meter-to-foot-pound-force"
+   ]
+  },
+  {
+   "domain": "calculate.co.nz",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculate.co.nz/nm-to-ft-lbs-converter.php"
+   ]
+  },
+  {
+   "domain": "miniwebtool.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.miniwebtool.com/torque-converter-nm-ft-lb-kgf-cm/"
+   ]
+  }
+ ]
+}

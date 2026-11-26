@@ -1,0 +1,8 @@
+export const faq = [
+  { q: "How many fence posts do I need?", a: "Subtract the gate widths from the fence length, divide by the post spacing and round up to get sections; posts = sections + 1, plus one more for each gate. A 100 ft fence with one 4 ft gate and 8 ft spacing has 12 sections and needs 14 posts. Add posts for corners or separate runs." },
+  { q: "How far apart should fence posts be?", a: "6 to 8 feet on center is typical for wood fences, and 8 ft matches standard 8 ft rails and panels. Closer spacing makes a stronger fence in windy areas or for tall privacy fences." },
+  { q: "How many pickets or boards do I need?", a: "Divide the fenced length in inches by the board width plus the gap. For a privacy fence with no gaps, 96 ft of fence with 5½-inch boards needs 96 × 12 ÷ 5.5 = 209.5, so 210 boards, or about 220 with 5% extra." },
+  { q: "How many rails does a fence need?", a: "Two rails per section are usual for fences up to about 4 feet tall, and three rails for 5 to 6 ft privacy fences, so the boards stay straight. Multiply rails per section by the number of sections." },
+  { q: "How long should fence posts be?", a: "The fence height plus the depth in the ground. A common guide is to bury about a third to a half of the above-ground height, so a 6 ft fence often uses 8 ft posts set 2 ft deep. Frost depth and local code can require deeper holes." },
+  { q: "How much does a fence cost?", a: "Enter your local prices per post, rail and board to get the material cost. Concrete, gate hardware, fasteners, stain and labor are extra, and prices vary a lot by region and wood type." },
+];

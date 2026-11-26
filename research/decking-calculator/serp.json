@@ -1,0 +1,153 @@
+{
+ "keywords": {
+  "deck board calculator": {
+   "fetchedAt": "2026-11-26T13:47:52.418Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 6600,
+   "fileKd": 26,
+   "fileIntent": "C",
+   "semrushCompetitor": {
+    "position": 5,
+    "url": "www.omnicalculator.com/construction/decking"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.inchcalculator.com/deck-flooring-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Deck Board Material Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.decks.com/calculators/decking-calculator/",
+     "domain": "www.decks.com",
+     "title": "Calculate Deck Board & Materials",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.angi.com/articles/deck-calculator.htm",
+     "domain": "www.angi.com",
+     "title": "Deck calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.homedepot.com/c/ah/how-to-calculate-deck-materials/9ba683603be9fa5395fab90a84d7ea3",
+     "domain": "www.homedepot.com",
+     "title": "How to Calculate Deck Materials",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.omnicalculator.com/construction/decking",
+     "domain": "www.omnicalculator.com",
+     "title": "Decking Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.mrhandyman.com/blog/deck-material-calculator/",
+     "domain": "www.mrhandyman.com",
+     "title": "Deck material calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.wickes.co.uk/calculators/decking-calculator",
+     "domain": "www.wickes.co.uk",
+     "title": "Decking calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://calculator.academy/deck-board-calculator/",
+     "domain": "calculator.academy",
+     "title": "Deck Board Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "decking-calculator",
+ "page": "decking-calculator",
+ "category": "construction",
+ "name": "Decking Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-26T13:47:52.419Z",
+ "topCompetitors": [
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/deck-flooring-calculator/"
+   ]
+  },
+  {
+   "domain": "decks.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.decks.com/calculators/decking-calculator/"
+   ]
+  },
+  {
+   "domain": "angi.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.angi.com/articles/deck-calculator.htm"
+   ]
+  },
+  {
+   "domain": "homedepot.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.homedepot.com/c/ah/how-to-calculate-deck-materials/9ba683603be9fa5395fab90a84d7ea3"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/construction/decking"
+   ]
+  },
+  {
+   "domain": "mrhandyman.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.mrhandyman.com/blog/deck-material-calculator/"
+   ]
+  },
+  {
+   "domain": "wickes.co.uk",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.wickes.co.uk/calculators/decking-calculator"
+   ]
+  },
+  {
+   "domain": "calculator.academy",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://calculator.academy/deck-board-calculator/"
+   ]
+  }
+ ]
+}

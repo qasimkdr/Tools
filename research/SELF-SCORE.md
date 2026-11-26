@@ -98,7 +98,7 @@ Rule-based on-page signals only — not rankings.
 | blood-pressure-by-age-calculator | **27/30** | 5 | 4 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 14/25 | ahead |
 | ohms-law-calculator | **27/30** | 5 | 3 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 26/30 | ahead |
 | interest-calculator | **27/30** | 5 | 4 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 25/30 | ahead |
-| recessed-light-calculator | **24/30** | 4 | 3 | 5 | 3 | 4 | 5 | www.omnicalculator.com | 16/25 | ahead |
+| recessed-light-calculator | **25/30** | 5 | 3 | 5 | 3 | 4 | 5 | www.omnicalculator.com | 16/25 | ahead |
 | fence-post-depth-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 17/25 | ahead |
 | pine-straw-calculator | **27/30** | 5 | 3 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
 | lead-time-calculator | **26/30** | 4 | 3 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 17/25 | ahead |
@@ -109,7 +109,7 @@ Rule-based on-page signals only — not rankings.
 | epoxy-resin-calculator | **29/30** | 5 | 5 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
 | seller-financing-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.calculator.net | 18/30 | ahead |
 | how-long-will-retirement-savings-last-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.calculator.net | 21/30 | ahead |
-| quarter-mile-calculator | **24/30** | 4 | 2 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
+| quarter-mile-calculator | **26/30** | 4 | 3 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
 | firewood-calculator | **28/30** | 5 | 4 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 17/25 | ahead |
 | nether-portal-calculator | **24/30** | 4 | 2 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
 | markup-calculator | **26/30** | 4 | 3 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
@@ -131,7 +131,7 @@ Rule-based on-page signals only — not rankings.
 | bmr-calculator | **27/30** | 5 | 3 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 25/30 | ahead |
 | protein-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 16/25 | ahead |
 | average-calculator | **23/25** | 5 | null | 5 | 4 | 4 | 5 | www.inchcalculator.com | 20/25 | ahead |
-| tire-size-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 24/30 | ahead |
+| tire-size-calculator | **27/30** | 5 | 4 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 24/30 | ahead |
 | income-tax-calculator | **27/30** | 5 | 4 | 5 | 4 | 4 | 5 | www.calculatorsoup.com | 19/30 | ahead |
 | wedding-alcohol-calculator | **27/30** | 5 | 4 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 15/25 | ahead |
 | army-fitness-test-aft-calculator | **27/30** | 5 | 3 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
@@ -158,3 +158,8 @@ Rule-based on-page signals only — not rankings.
 | weight-loss-percentage-calculator | **25/30** | 5 | 2 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 19/25 | ahead |
 | timecode-calculator | **26/30** | 5 | 2 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
 | watt-hour-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
+| decking-calculator | **27/30** | 5 | 5 | 5 | 3 | 4 | 5 | www.inchcalculator.com | 24/30 | ahead |
+| fence-calculator | **27/30** | 5 | 5 | 5 | 3 | 4 | 5 | www.inchcalculator.com | 26/30 | ahead |
+| nm-to-ft-lb | **27/30** | 5 | 4 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
+| decathlon-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | — | — | no data |
+| running-record-calculator | **24/30** | 5 | 2 | 5 | 3 | 4 | 5 | — | — | no data |

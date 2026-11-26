@@ -1,0 +1,622 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/conversion/nm-to-ft-lb": {
+   "url": "https://www.omnicalculator.com/conversion/nm-to-ft-lb",
+   "finalUrl": "https://www.omnicalculator.com/conversion/nm-to-ft-lb",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-26T13:48:15.742Z",
+   "title": "Nm to ft-lbs Converter",
+   "metaDescription": "Our Nm to ft-lbs converter allows you to switch between the five most popular units of torque, including the newton-meters and foot-pounds.",
+   "canonical": "https://www.omnicalculator.com/conversion/nm-to-ft-lb",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Nm to ft-lbs Converter"
+   ],
+   "h2": [
+    "What do Nm and ft-lbs measure?",
+    "How to convert newton-meters to foot-pounds?",
+    "How to convert ft-lbs to Nm?",
+    "Torque conversion calculator: example of use",
+    "Other units of torque - kgf-cm to Nm, J/rad to Nm and kgm to Nm",
+    "FAQs"
+   ],
+   "h3": [
+    "How do I convert inch-lbs to foot-lbs?",
+    "What is 10 Nm in inch-pounds?",
+    "How do I convert Nm to ft-lbs torque?",
+    "How do I convert kg-m to Nm?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Nm to ft-lbs Converter"
+    },
+    {
+     "level": 2,
+     "text": "What do Nm and ft-lbs measure?"
+    },
+    {
+     "level": 2,
+     "text": "How to convert newton-meters to foot-pounds?"
+    },
+    {
+     "level": 2,
+     "text": "How to convert ft-lbs to Nm?"
+    },
+    {
+     "level": 2,
+     "text": "Torque conversion calculator: example of use"
+    },
+    {
+     "level": 2,
+     "text": "Other units of torque - kgf-cm to Nm, J/rad to Nm and kgm to Nm"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "How do I convert inch-lbs to foot-lbs?"
+    },
+    {
+     "level": 3,
+     "text": "What is 10 Nm in inch-pounds?"
+    },
+    {
+     "level": 3,
+     "text": "How do I convert Nm to ft-lbs torque?"
+    },
+    {
+     "level": 3,
+     "text": "How do I convert kg-m to Nm?"
+    }
+   ],
+   "wordCount": 1289,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "How do I convert inch-lbs to foot-lbs?",
+    "What is 10 Nm in inch-pounds?",
+    "How do I convert Nm to ft-lbs torque?",
+    "How do I convert kg-m to Nm?",
+    "What do Nm and ft-lbs measure?",
+    "How to convert newton-meters to foot-pounds?",
+    "How to convert ft-lbs to Nm?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "lbs",
+     "weight": 45
+    },
+    {
+     "term": "torque",
+     "weight": 27
+    },
+    {
+     "term": "newton meters",
+     "weight": 21
+    },
+    {
+     "term": "pounds",
+     "weight": 18
+    },
+    {
+     "term": "force",
+     "weight": 17
+    },
+    {
+     "term": "foot pounds",
+     "weight": 17
+    },
+    {
+     "term": "newton",
+     "weight": 15
+    },
+    {
+     "term": "meters",
+     "weight": 15
+    },
+    {
+     "term": "value",
+     "weight": 15
+    },
+    {
+     "term": "units",
+     "weight": 14
+    },
+    {
+     "term": "convert",
+     "weight": 13
+    },
+    {
+     "term": "foot",
+     "weight": 13
+    },
+    {
+     "term": "need",
+     "weight": 12
+    },
+    {
+     "term": "conversion",
+     "weight": 10
+    },
+    {
+     "term": "converter",
+     "weight": 8
+    },
+    {
+     "term": "unit",
+     "weight": 8
+    },
+    {
+     "term": "kgf",
+     "weight": 8
+    },
+    {
+     "term": "lbs converter",
+     "weight": 8
+    },
+    {
+     "term": "calculator",
+     "weight": 7
+    },
+    {
+     "term": "between",
+     "weight": 6
+    },
+    {
+     "term": "point",
+     "weight": 6
+    },
+    {
+     "term": "pivot point",
+     "weight": 6
+    },
+    {
+     "term": "you're",
+     "weight": 6
+    },
+    {
+     "term": "inch pounds",
+     "weight": 6
+    },
+    {
+     "term": "gravitational acceleration",
+     "weight": 6
+    },
+    {
+     "term": "want",
+     "weight": 5
+    },
+    {
+     "term": "inch",
+     "weight": 5
+    },
+    {
+     "term": "multiply",
+     "weight": 5
+    },
+    {
+     "term": "gravitational",
+     "weight": 5
+    },
+    {
+     "term": "convert newton",
+     "weight": 5
+    }
+   ],
+   "claims": [
+    "All you need to remember is that 1 Nm is equal to 0.7376 ft-lbs.",
+    "You're setting up a gear train consisting of three different wheels and you want the output torque to be equal to 12 ft-lbs.",
+    "These units are equivalent to Nm: 1 J/rad = 1 Nm = 0.738 ft-lbs Kilopondometer is another unit of torque and energy, abbreviated as kp⋅m or kgm."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 2,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Bogna Szyk",
+    "published": "2020-07-17T12:22:16.373Z",
+    "modified": "2026-09-08T12:56:15.570Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 470,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 22,
+    "external": 1,
+    "contentInternal": 6,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "torque calculator",
+     "force converter",
+     "Nm to in-lbs converter",
+     "gear train",
+     "torque to horsepower calculator",
+     "newton-meter converter"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/physics/torque",
+     "https://www.omnicalculator.com/conversion/force-conversion",
+     "https://www.omnicalculator.com/conversion/nm-to-in-lbs",
+     "https://www.omnicalculator.com/physics/gear-ratio",
+     "https://www.omnicalculator.com/conversion/torque-to-horsepower",
+     "https://www.omnicalculator.com/conversion/newton-meter"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/convert/newton-meter-to-foot-pound/": {
+   "url": "https://www.inchcalculator.com/convert/newton-meter-to-foot-pound/",
+   "finalUrl": "https://www.inchcalculator.com/convert/newton-meter-to-foot-pound/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-26T13:48:18.843Z",
+   "title": "Newton-Meters to Foot-Pounds Converter (Nm to lb-ft)",
+   "metaDescription": "Convert newton-meters to foot-pounds (Nm to lb ft) with the torque conversion calculator, and learn the newton-meter to foot-pound formula.",
+   "canonical": "https://www.inchcalculator.com/convert/newton-meter-to-foot-pound/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Newton-Meters to Foot-Pounds Converter"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Result: Foot-Pounds",
+    "On this page:",
+    "Cite This Page",
+    "How to Convert Newton-Meters to Foot-Pounds",
+    "What Are Newton-Meters?",
+    "What Are Foot-Pounds?",
+    "Newton-Meter to Foot-Pound Conversion Table",
+    "More Newton-Meter & Foot-Pound Conversions",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "How Many Foot-Pounds Are in a Newton-Meter?",
+    "Newton-Meters vs. Joules"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Newton-Meters to Foot-Pounds Converter"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Result: Foot-Pounds"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Convert Newton-Meters to Foot-Pounds"
+    },
+    {
+     "level": 3,
+     "text": "How Many Foot-Pounds Are in a Newton-Meter?"
+    },
+    {
+     "level": 2,
+     "text": "What Are Newton-Meters?"
+    },
+    {
+     "level": 3,
+     "text": "Newton-Meters vs. Joules"
+    },
+    {
+     "level": 2,
+     "text": "What Are Foot-Pounds?"
+    },
+    {
+     "level": 2,
+     "text": "Newton-Meter to Foot-Pound Conversion Table"
+    },
+    {
+     "level": 2,
+     "text": "More Newton-Meter & Foot-Pound Conversions"
+    }
+   ],
+   "wordCount": 950,
+   "avgSentenceWords": 28,
+   "faqs": [
+    "How Many Foot-Pounds Are in a Newton-Meter?",
+    "What Are Newton-Meters?",
+    "What Are Foot-Pounds?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "newton",
+     "weight": 42
+    },
+    {
+     "term": "foot pounds",
+     "weight": 42
+    },
+    {
+     "term": "foot",
+     "weight": 41
+    },
+    {
+     "term": "newton meters",
+     "weight": 32
+    },
+    {
+     "term": "pounds",
+     "weight": 31
+    },
+    {
+     "term": "newton meter",
+     "weight": 24
+    },
+    {
+     "term": "meters",
+     "weight": 22
+    },
+    {
+     "term": "meter",
+     "weight": 20
+    },
+    {
+     "term": "pound",
+     "weight": 14
+    },
+    {
+     "term": "foot pound",
+     "weight": 14
+    },
+    {
+     "term": "torque",
+     "weight": 12
+    },
+    {
+     "term": "pounds newton",
+     "weight": 9
+    },
+    {
+     "term": "convert",
+     "weight": 8
+    },
+    {
+     "term": "force",
+     "weight": 7
+    },
+    {
+     "term": "convert newton",
+     "weight": 6
+    },
+    {
+     "term": "equal",
+     "weight": 6
+    },
+    {
+     "term": "inch",
+     "weight": 5
+    },
+    {
+     "term": "pounds converter",
+     "weight": 5
+    },
+    {
+     "term": "737562 foot",
+     "weight": 5
+    },
+    {
+     "term": "inch pounds",
+     "weight": 5
+    },
+    {
+     "term": "learn",
+     "weight": 4
+    },
+    {
+     "term": "converter",
+     "weight": 3
+    },
+    {
+     "term": "convert foot",
+     "weight": 3
+    },
+    {
+     "term": "many foot",
+     "weight": 3
+    },
+    {
+     "term": "pound conversion",
+     "weight": 3
+    },
+    {
+     "term": "conversion",
+     "weight": 3
+    },
+    {
+     "term": "conversion table",
+     "weight": 3
+    },
+    {
+     "term": "table",
+     "weight": 3
+    },
+    {
+     "term": "inch calculator",
+     "weight": 3
+    },
+    {
+     "term": "share",
+     "weight": 3
+    }
+   ],
+   "claims": [],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 1,
+   "lists": 2,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [
+    "Newton-Meters"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": true,
+   "wordsBeforeTool": 22,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": false,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2013-11-10",
+    "modified": "2025-05-09T14:38:56+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 104,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 45,
+    "external": 10,
+    "contentInternal": 21,
+    "contentExternal": 4,
+    "internalAnchors": [
+     "Foot-Pounds to Newton-Meters",
+     "below",
+     "convert foot-pounds to newton-meters",
+     "Newton-Meters to Foot-Pounds Converter",
+     "How to Convert Newton-Meters to Foot-Pounds",
+     "How Many Foot-Pounds Are in a Newton-Meter?",
+     "What Are Newton-Meters?",
+     "Newton-Meters vs. Joules",
+     "What Are Foot-Pounds?",
+     "Newton-Meter to Foot-Pound Conversion Table",
+     "Full bio",
+     "torque",
+     "newton",
+     "joule",
+     "SI",
+     "newton-meters",
+     "pound-force",
+     "inch-pounds",
+     "foot-pounds",
+     "newton-meters to inch-pounds"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/convert/foot-pound-to-newton-meter/",
+     "https://www.inchcalculator.com/convert/newton-meter-to-foot-pound/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/convert/newton-meter-to-foot-pound/#idx_page_heading",
+     "https://www.inchcalculator.com/convert/newton-meter-to-foot-pound/#idx_how_to_convert_newton-meters_to_foot-pounds",
+     "https://www.inchcalculator.com/convert/newton-meter-to-foot-pound/#idx_how_many_foot-pounds_are_in_a_newton-meter",
+     "https://www.inchcalculator.com/convert/newton-meter-to-foot-pound/#idx_what_are_newton-meters",
+     "https://www.inchcalculator.com/convert/newton-meter-to-foot-pound/#idx_newton-meters_vs_joules",
+     "https://www.inchcalculator.com/convert/newton-meter-to-foot-pound/#idx_what_are_foot-pounds",
+     "https://www.inchcalculator.com/convert/newton-meter-to-foot-pound/#idx_newton-meter_to_foot-pound_conversion_table",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/convert/newton-meter-to-foot-pound/",
+     "https://www.inchcalculator.com/convert/torque/",
+     "https://www.inchcalculator.com/convert/from-force-newton/",
+     "https://www.inchcalculator.com/convert/from-joule/",
+     "https://www.inchcalculator.com/si-international-system-of-units/",
+     "https://www.inchcalculator.com/convert/from-newton-meter/",
+     "https://www.inchcalculator.com/convert/from-pound-force/",
+     "https://www.inchcalculator.com/convert/from-inch-pound/",
+     "https://www.inchcalculator.com/convert/from-foot-pound/",
+     "https://www.inchcalculator.com/convert/newton-meter-to-inch-pound/",
+     "https://www.inchcalculator.com/convert/inch-pound-to-foot-pound/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fconvert%2Fnewton-meter-to-foot-pound%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fconvert%2Fnewton-meter-to-foot-pound%2F&text=Conversion+Calculators",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fconvert%2Fnewton-meter-to-foot-pound%2F&text=Conversion+Calculators",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.calctool.org/conversion/nm-to-ft-lb": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

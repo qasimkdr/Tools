@@ -1,0 +1,768 @@
+{
+ "pages": {
+  "https://www.omnicalculator.com/construction/fence": {
+   "url": "https://www.omnicalculator.com/construction/fence",
+   "finalUrl": "https://www.omnicalculator.com/construction/fence",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-26T13:48:08.259Z",
+   "title": "Fence Calculator",
+   "metaDescription": "The fence calculator determines how much materials you will need to buy to build a fence on your own.",
+   "canonical": "https://www.omnicalculator.com/construction/fence",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Fence Calculator"
+   ],
+   "h2": [
+    "How to use the fence calculator?",
+    "Equations used in the fence calculator",
+    "Using the fence estimator - example",
+    "A tip for buying fencing materials",
+    "Why have a privacy fence around your property?",
+    "Why build a privacy fence on your own?",
+    "Saving on DIY house renovation",
+    "FAQs"
+   ],
+   "h3": [
+    "Formulas for concrete volume",
+    "Why do I need a fence for my house?",
+    "How many posts do I need for an 8-meter fence?",
+    "How much fencing material should I buy?",
+    "What is a good distance between fence posts?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Fence Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How to use the fence calculator?"
+    },
+    {
+     "level": 2,
+     "text": "Equations used in the fence calculator"
+    },
+    {
+     "level": 3,
+     "text": "Formulas for concrete volume"
+    },
+    {
+     "level": 4,
+     "text": "Cuboid post"
+    },
+    {
+     "level": 4,
+     "text": "Cylindrical post"
+    },
+    {
+     "level": 2,
+     "text": "Using the fence estimator - example"
+    },
+    {
+     "level": 2,
+     "text": "A tip for buying fencing materials"
+    },
+    {
+     "level": 2,
+     "text": "Why have a privacy fence around your property?"
+    },
+    {
+     "level": 2,
+     "text": "Why build a privacy fence on your own?"
+    },
+    {
+     "level": 2,
+     "text": "Saving on DIY house renovation"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "Why do I need a fence for my house?"
+    },
+    {
+     "level": 3,
+     "text": "How many posts do I need for an 8-meter fence?"
+    },
+    {
+     "level": 3,
+     "text": "How much fencing material should I buy?"
+    },
+    {
+     "level": 3,
+     "text": "What is a good distance between fence posts?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 2897,
+   "avgSentenceWords": 31,
+   "faqs": [
+    "Why do I need a fence for my house?",
+    "How many posts do I need for an 8-meter fence?",
+    "How much fencing material should I buy?",
+    "What is a good distance between fence posts?",
+    "Quoting fence jobs?",
+    "how much does a fence cost?",
+    "How to use the fence calculator?",
+    "Why have a privacy fence around your property?",
+    "Why build a privacy fence on your own?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "fence",
+     "weight": 60
+    },
+    {
+     "term": "post",
+     "weight": 36
+    },
+    {
+     "term": "number",
+     "weight": 29
+    },
+    {
+     "term": "need",
+     "weight": 28
+    },
+    {
+     "term": "posts",
+     "weight": 27
+    },
+    {
+     "term": "concrete",
+     "weight": 20
+    },
+    {
+     "term": "concrete volume",
+     "weight": 20
+    },
+    {
+     "term": "volume",
+     "weight": 19
+    },
+    {
+     "term": "calculator",
+     "weight": 18
+    },
+    {
+     "term": "length",
+     "weight": 14
+    },
+    {
+     "term": "fence calculator",
+     "weight": 12
+    },
+    {
+     "term": "fencing",
+     "weight": 11
+    },
+    {
+     "term": "fencing materials",
+     "weight": 11
+    },
+    {
+     "term": "privacy fence",
+     "weight": 11
+    },
+    {
+     "term": "much",
+     "weight": 10
+    },
+    {
+     "term": "privacy",
+     "weight": 10
+    },
+    {
+     "term": "build",
+     "weight": 9
+    },
+    {
+     "term": "buy",
+     "weight": 9
+    },
+    {
+     "term": "feet",
+     "weight": 9
+    },
+    {
+     "term": "have",
+     "weight": 9
+    },
+    {
+     "term": "rails",
+     "weight": 8
+    },
+    {
+     "term": "section",
+     "weight": 8
+    },
+    {
+     "term": "materials",
+     "weight": 8
+    },
+    {
+     "term": "total",
+     "weight": 8
+    },
+    {
+     "term": "let's",
+     "weight": 8
+    },
+    {
+     "term": "fence length",
+     "weight": 8
+    },
+    {
+     "term": "post length",
+     "weight": 8
+    },
+    {
+     "term": "total number",
+     "weight": 8
+    },
+    {
+     "term": "spacing",
+     "weight": 7
+    },
+    {
+     "term": "pickets",
+     "weight": 7
+    }
+   ],
+   "claims": [
+    "💡 Remember that 𝜋 ≈ 3.1416 π≈3.1416 Using the fence estimator - example To make the process of estimating fencing materials even clearer, let's go through an example together.",
+    "Let's say we want to build a fence that's 1,000 feet long, with 7 feet in between each post and a height of 10 feet.",
+    "P o s t l e n g t h = 1.5 × 10 f t = 15 f t Post length=1.5×10 ft=15 ft Let's say we want our fence to have 4 rails per section.",
+    "Let's say we will build our fence out of 5-inch-wide pickets with 1 inch of spacing.",
+    "For an 8-meter-long fence, you need five posts having four sections if the post spacing is 2 meters.",
+    "This estimation is based on a simple formula: Number of posts = (Fence length / Post spacing) + 1 One thing to remember is that whenever you have your answer in decimals, round it up.",
+    "The standard fence spacing, optimum for privacy and general purpose, is 2-3 meters."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 7,
+   "images": 4,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Maria Kluziak",
+    "published": "2019-05-23T09:42:11.073Z",
+    "modified": "2026-07-22T16:44:10.991Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 1045,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 25,
+    "external": 1,
+    "contentInternal": 9,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "cement calculator",
+     "round pen calculator",
+     "plant spacing calculator",
+     "mulch calculator",
+     "paint calculator",
+     "deck stain calculator",
+     "how much wallpaper you need",
+     "Stone Weight Calculator",
+     "Board and Batten Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/construction/cement",
+     "https://www.omnicalculator.com/construction/round-pen",
+     "https://www.omnicalculator.com/biology/plants",
+     "https://www.omnicalculator.com/biology/mulch",
+     "https://www.omnicalculator.com/construction/paint",
+     "https://www.omnicalculator.com/construction/deck-stain",
+     "https://www.omnicalculator.com/construction/wallpaper",
+     "https://www.omnicalculator.com/construction/stone",
+     "https://www.omnicalculator.com/construction/board-and-batten"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/fence-calculator/": {
+   "url": "https://www.inchcalculator.com/fence-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/fence-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-26T13:48:11.797Z",
+   "title": "Fence Calculator - Estimate Wood Fencing - Inch Calculator",
+   "metaDescription": "Estimate how much lumber, hardware, and material is needed to build a fence. Enter the fence length to get a part list and cost estimate.",
+   "canonical": "https://www.inchcalculator.com/fence-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Fence Calculator"
+   ],
+   "h2": [
+    "Estimate Material and Post Centers",
+    "Tell Us What You Think",
+    "Results: Fence Components Needed",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Estimate Privacy Fence Materials",
+    "How to Estimate Fence Price",
+    "Types of Lumber Needed For a Wood Privacy Fence",
+    "Frequently Asked Questions",
+    "Similar Fence Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Estimated Material Cost:",
+    "How Many Fence Posts Do You Need?",
+    "How Many Fence Rails Do You Need?",
+    "How Many Pickets Do You Need?",
+    "Tips For Estimating Fence Lumber",
+    "Estimate Solid Board Privacy Fence Material",
+    "Estimate Shadowbox Fence Material",
+    "Estimate Stockade Fence Material",
+    "Estimate Picket Fence Material",
+    "Estimate Rail Fence Material",
+    "How far apart should fence posts be?",
+    "How do you calculate fence post spacing?",
+    "How long should fence posts be?",
+    "What is the standard fence height?",
+    "What is a linear foot of fence?",
+    "How do you figure square footage for a fence?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Fence Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Estimate Material and Post Centers"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Fence Components Needed"
+    },
+    {
+     "level": 3,
+     "text": "Estimated Material Cost:"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Estimate Privacy Fence Materials"
+    },
+    {
+     "level": 3,
+     "text": "How Many Fence Posts Do You Need?"
+    },
+    {
+     "level": 3,
+     "text": "How Many Fence Rails Do You Need?"
+    },
+    {
+     "level": 3,
+     "text": "How Many Pickets Do You Need?"
+    },
+    {
+     "level": 3,
+     "text": "Tips For Estimating Fence Lumber"
+    },
+    {
+     "level": 2,
+     "text": "How to Estimate Fence Price"
+    },
+    {
+     "level": 2,
+     "text": "Types of Lumber Needed For a Wood Privacy Fence"
+    },
+    {
+     "level": 3,
+     "text": "Estimate Solid Board Privacy Fence Material"
+    },
+    {
+     "level": 3,
+     "text": "Estimate Shadowbox Fence Material"
+    },
+    {
+     "level": 3,
+     "text": "Estimate Stockade Fence Material"
+    },
+    {
+     "level": 3,
+     "text": "Estimate Picket Fence Material"
+    },
+    {
+     "level": 3,
+     "text": "Estimate Rail Fence Material"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "How far apart should fence posts be?"
+    },
+    {
+     "level": 3,
+     "text": "How do you calculate fence post spacing?"
+    },
+    {
+     "level": 3,
+     "text": "How long should fence posts be?"
+    },
+    {
+     "level": 3,
+     "text": "What is the standard fence height?"
+    },
+    {
+     "level": 3,
+     "text": "What is a linear foot of fence?"
+    },
+    {
+     "level": 3,
+     "text": "How do you figure square footage for a fence?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Fence Calculators"
+    }
+   ],
+   "wordCount": 2587,
+   "avgSentenceWords": 18,
+   "faqs": [
+    "How far apart should fence posts be?",
+    "How do you calculate fence post spacing?",
+    "How long should fence posts be?",
+    "What is the standard fence height?",
+    "What is a linear foot of fence?",
+    "How do you figure square footage for a fence?",
+    "How Many Fence Posts Do You Need?",
+    "How Many Fence Rails Do You Need?",
+    "How Many Pickets Do You Need?"
+   ],
+   "faqSchemaCount": 6,
+   "topics": [
+    {
+     "term": "fence",
+     "weight": 108
+    },
+    {
+     "term": "rails",
+     "weight": 39
+    },
+    {
+     "term": "posts",
+     "weight": 36
+    },
+    {
+     "term": "pickets",
+     "weight": 30
+    },
+    {
+     "term": "picket",
+     "weight": 30
+    },
+    {
+     "term": "estimate",
+     "weight": 29
+    },
+    {
+     "term": "length",
+     "weight": 28
+    },
+    {
+     "term": "fences",
+     "weight": 26
+    },
+    {
+     "term": "board",
+     "weight": 26
+    },
+    {
+     "term": "wood",
+     "weight": 24
+    },
+    {
+     "term": "need",
+     "weight": 23
+    },
+    {
+     "term": "material",
+     "weight": 20
+    },
+    {
+     "term": "lumber",
+     "weight": 19
+    },
+    {
+     "term": "spacing",
+     "weight": 17
+    },
+    {
+     "term": "style",
+     "weight": 17
+    },
+    {
+     "term": "privacy",
+     "weight": 16
+    },
+    {
+     "term": "needed",
+     "weight": 16
+    },
+    {
+     "term": "side",
+     "weight": 16
+    },
+    {
+     "term": "number",
+     "weight": 15
+    },
+    {
+     "term": "privacy fence",
+     "weight": 15
+    },
+    {
+     "term": "fence material",
+     "weight": 15
+    },
+    {
+     "term": "boards",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "width",
+     "weight": 14
+    },
+    {
+     "term": "post",
+     "weight": 13
+    },
+    {
+     "term": "between",
+     "weight": 13
+    },
+    {
+     "term": "rail",
+     "weight": 13
+    },
+    {
+     "term": "materials",
+     "weight": 12
+    },
+    {
+     "term": "solid board",
+     "weight": 12
+    },
+    {
+     "term": "feet",
+     "weight": 12
+    }
+   ],
+   "claims": [
+    "For privacy fences with no space, use 0 for the spacing.",
+    "Posts for wood fences are typically 8 feet apart; if you are using other materials, keep in mind that posts can be placed up to 25′ apart.",
+    "To calculate the number of posts for a wood fence, divide the length by 8′ and round up to get the number of sections.",
+    "For example, let’s find how many posts are needed for a fence with a planned length of 100 feet.",
+    "Privacy fences are generally at least 6′ tall, but may go as high as 12′.",
+    "The general rule of thumb for rails is to have one rail for every 24″ of height in your fence.",
+    "For a 6′ high fence, this means 3 rails.",
+    "For a 12′ high fence, this means 6 rails.",
+    "If you are building a shorter fence, you may only need 2 rails.",
+    "For example, let’s find how many rails will be needed for a 100′ fence with 14 posts that is 6′ high."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 2,
+   "lists": 7,
+   "images": 10,
+   "videos": 0,
+   "calculatorInputs": [
+    "Length",
+    "Length Units",
+    "Rails",
+    "Width",
+    "Width Units",
+    "Spacing",
+    "Spacing Units"
+   ],
+   "selectOptionsSample": "in ft yd cm m in cm in cm",
+   "unitToggle": true,
+   "wordsBeforeTool": 62,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": true
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2016-02-05",
+    "modified": "2025-10-21T14:01:11+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 144,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 55,
+    "external": 13,
+    "contentInternal": 31,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Fence Calculator",
+     "How to Estimate Privacy Fence Materials",
+     "How Many Fence Posts Do You Need?",
+     "How Many Fence Rails Do You Need?",
+     "How Many Pickets Do You Need?",
+     "Tips For Estimating Fence Lumber",
+     "How to Estimate Fence Price",
+     "Types of Lumber Needed For a Wood Privacy Fence",
+     "Estimate Solid Board Privacy Fence Material",
+     "Estimate Shadowbox Fence Material",
+     "Estimate Stockade Fence Material",
+     "Estimate Picket Fence Material",
+     "Estimate Rail Fence Material",
+     "Frequently Asked Questions",
+     "Full bio",
+     "Get Free Estimates",
+     "vinyl fence calculator",
+     "stain or paint"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/fence-calculator/#idx_how_to_estimate_fence_material",
+     "https://www.inchcalculator.com/fence-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/fence/",
+     "https://www.inchcalculator.com/fence-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/fence-calculator/#idx_how_many_fence_posts_do_you_need",
+     "https://www.inchcalculator.com/fence-calculator/#idx_how_many_fence_rails_do_you_need",
+     "https://www.inchcalculator.com/fence-calculator/#idx_how_many_pickets_do_you_need",
+     "https://www.inchcalculator.com/fence-calculator/#idx_tips_for_estimating_fence_lumber",
+     "https://www.inchcalculator.com/fence-calculator/#idx_how_to_estimate_fence_price",
+     "https://www.inchcalculator.com/fence-calculator/#idx_types_of_lumber_needed_for_a_wood_privacy_fence",
+     "https://www.inchcalculator.com/fence-calculator/#idx_estimate_solid",
+     "https://www.inchcalculator.com/fence-calculator/#idx_estimate_shadowbox",
+     "https://www.inchcalculator.com/fence-calculator/#idx_estimate_stockade",
+     "https://www.inchcalculator.com/fence-calculator/#idx_estimate_picket",
+     "https://www.inchcalculator.com/fence-calculator/#idx_estimate_slip",
+     "https://www.inchcalculator.com/fence-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/sarabeth-asaff-south/",
+     "https://www.inchcalculator.com/fence-calculator/",
+     "https://www.inchcalculator.com/get-free-home-repair-estimates/?preset_project_type=Fences&preset_service_id=",
+     "https://www.inchcalculator.com/vinyl-fence-calculator/",
+     "https://www.inchcalculator.com/fence-stain-calculator/",
+     "https://www.inchcalculator.com/post-hole-concrete-calculator/",
+     "https://www.inchcalculator.com/rounding-calculator/",
+     "https://www.inchcalculator.com/cost-to-install-fence/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Ffence-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Ffence-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Ffence-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Ffence-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Ffence-calculator%2F&text=Fence+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Ffence-calculator%2F&text=Fence+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}
