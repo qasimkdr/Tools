@@ -1,0 +1,588 @@
+{
+ "pages": {
+  "https://www.calculator.net/horsepower-calculator.html": {
+   "url": "https://www.calculator.net/horsepower-calculator.html",
+   "finalUrl": "https://www.calculator.net/horsepower-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-26T04:08:45.237Z",
+   "title": "Horsepower Calculator",
+   "metaDescription": "This free calculator determines horsepower as a unit of power given force, distance, and time. Also provided is a converter for common units of power.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Horsepower Calculator"
+   ],
+   "h2": [
+    "Horsepower Calculation Based on Definition",
+    "Horsepower Converter"
+   ],
+   "h3": [
+    "Horsepower",
+    "Watt",
+    "BTU",
+    "Different Horsepowers"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Horsepower Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Horsepower Calculation Based on Definition"
+    },
+    {
+     "level": 2,
+     "text": "Horsepower Converter"
+    },
+    {
+     "level": 3,
+     "text": "Horsepower"
+    },
+    {
+     "level": 3,
+     "text": "Watt"
+    },
+    {
+     "level": 3,
+     "text": "BTU"
+    },
+    {
+     "level": 3,
+     "text": "Different Horsepowers"
+    }
+   ],
+   "wordCount": 584,
+   "avgSentenceWords": 22,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "horsepower",
+     "weight": 26
+    },
+    {
+     "term": "used",
+     "weight": 11
+    },
+    {
+     "term": "power",
+     "weight": 10
+    },
+    {
+     "term": "watt",
+     "weight": 7
+    },
+    {
+     "term": "energy",
+     "weight": 7
+    },
+    {
+     "term": "horsepower calculator",
+     "weight": 6
+    },
+    {
+     "term": "calculator",
+     "weight": 6
+    },
+    {
+     "term": "definition",
+     "weight": 6
+    },
+    {
+     "term": "btu",
+     "weight": 6
+    },
+    {
+     "term": "measurement",
+     "weight": 5
+    },
+    {
+     "term": "engine",
+     "weight": 5
+    },
+    {
+     "term": "unit",
+     "weight": 5
+    },
+    {
+     "term": "calculator horsepower",
+     "weight": 5
+    },
+    {
+     "term": "engine horsepower",
+     "weight": 5
+    },
+    {
+     "term": "james watt",
+     "weight": 5
+    },
+    {
+     "term": "commonly used",
+     "weight": 5
+    },
+    {
+     "term": "mechanical horsepower",
+     "weight": 5
+    },
+    {
+     "term": "different",
+     "weight": 4
+    },
+    {
+     "term": "units",
+     "weight": 4
+    },
+    {
+     "term": "watts",
+     "weight": 4
+    },
+    {
+     "term": "rate",
+     "weight": 3
+    },
+    {
+     "term": "convert",
+     "weight": 3
+    },
+    {
+     "term": "between",
+     "weight": 3
+    },
+    {
+     "term": "between different",
+     "weight": 3
+    },
+    {
+     "term": "force distance",
+     "weight": 3
+    },
+    {
+     "term": "amount",
+     "weight": 3
+    },
+    {
+     "term": "james",
+     "weight": 3
+    },
+    {
+     "term": "output",
+     "weight": 3
+    },
+    {
+     "term": "steam",
+     "weight": 3
+    },
+    {
+     "term": "commonly",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "Amount: Convert From: Convert To: Horsepower Horsepower is a unit of measurement of power developed by engineer James Watt in the late 18th century.",
+    "Mechanical Horsepower, hp(I)—550 foot-pounds per second, approximately 745.7 watts.",
+    "The most common definition of horsepower, mechanical horsepower, is the horsepower James Watt invented in 1782.",
+    "Metric Horsepower, hp(M)—75 kgf-m per second, approximately 735.499 watts Boiler Horsepower, hp(S)—34.5 pounds of water evaporated per hour at 212 degrees Fahrenheit, approximately 9,809.5 watts."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 5,
+   "lists": 1,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [
+    "force",
+    "forceunit",
+    "distance",
+    "distanceunit",
+    "time",
+    "timeunit",
+    "convertamount",
+    "convertfrom",
+    "convertto"
+   ],
+   "selectOptionsSample": "newton kilonewton pound-force kilogram-force meter kilometer mile yard second minute hour day watt kilowatt mechanical horsepower metric horsepower electrical horsepower boiler horsepower btu/h watt kilowatt mechanical horsepower metric horsepower electrical horsepower boiler horsepower btu/h",
+   "unitToggle": true,
+   "wordsBeforeTool": 71,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": false,
+    "stepByStep": false,
+    "costEstimate": false,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 12,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 25,
+    "external": 0,
+    "contentInternal": 25,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "other",
+     "horsepower calculator",
+     "Engine Horsepower Calculator",
+     "Other Calculators",
+     "Age",
+     "Date",
+     "Time",
+     "Hours",
+     "GPA",
+     "Grade",
+     "Height",
+     "Concrete",
+     "IP Subnet",
+     "Bra Size",
+     "Password Generator",
+     "Dice Roller",
+     "Conversion",
+     "More Other Calculators"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/horsepower-calculator.html",
+     "https://www.calculator.net/engine-horsepower-calculator.html",
+     "https://www.calculator.net/age-calculator.html",
+     "https://www.calculator.net/date-calculator.html",
+     "https://www.calculator.net/time-calculator.html",
+     "https://www.calculator.net/hours-calculator.html",
+     "https://www.calculator.net/gpa-calculator.html",
+     "https://www.calculator.net/grade-calculator.html",
+     "https://www.calculator.net/height-calculator.html",
+     "https://www.calculator.net/concrete-calculator.html",
+     "https://www.calculator.net/ip-subnet-calculator.html",
+     "https://www.calculator.net/bra-size-calculator.html",
+     "https://www.calculator.net/password-generator.html",
+     "https://www.calculator.net/dice-roller.html",
+     "https://www.calculator.net/conversion-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms",
+     "https://www.calculator.net/about-us.html#privacy"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/physics/horsepower": {
+   "url": "https://www.omnicalculator.com/physics/horsepower",
+   "finalUrl": "https://www.omnicalculator.com/everyday-life/horsepower",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-26T04:08:49.378Z",
+   "title": "Horsepower Calculator",
+   "metaDescription": "Use the horsepower calculator to estimate the current engine horsepower of your car. This tool provides you with results in horsepower units as well as in watts and other power units.",
+   "canonical": "https://www.omnicalculator.com/everyday-life/horsepower",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Horsepower Calculator"
+   ],
+   "h2": [
+    "What is horsepower?",
+    "How to calculate horsepower – methods description",
+    "Horsepower to watts conversion",
+    "Horsepower vs. torque",
+    "Horsepower calculator – performing proper measurements",
+    "2018 Mustang GT horsepower – examples of high-performance cars"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Horsepower Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is horsepower?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate horsepower – methods description"
+    },
+    {
+     "level": 2,
+     "text": "Horsepower to watts conversion"
+    },
+    {
+     "level": 2,
+     "text": "Horsepower vs. torque"
+    },
+    {
+     "level": 2,
+     "text": "Horsepower calculator – performing proper measurements"
+    },
+    {
+     "level": 2,
+     "text": "2018 Mustang GT horsepower – examples of high-performance cars"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 1492,
+   "avgSentenceWords": 19,
+   "faqs": [
+    "What is horsepower?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "horsepower",
+     "weight": 43
+    },
+    {
+     "term": "power",
+     "weight": 20
+    },
+    {
+     "term": "weight",
+     "weight": 19
+    },
+    {
+     "term": "calculator",
+     "weight": 16
+    },
+    {
+     "term": "engine",
+     "weight": 16
+    },
+    {
+     "term": "speed",
+     "weight": 13
+    },
+    {
+     "term": "horsepower calculator",
+     "weight": 12
+    },
+    {
+     "term": "vehicle",
+     "weight": 12
+    },
+    {
+     "term": "watts",
+     "weight": 11
+    },
+    {
+     "term": "torque",
+     "weight": 10
+    },
+    {
+     "term": "vehicle weight",
+     "weight": 9
+    },
+    {
+     "term": "quarter mile",
+     "weight": 9
+    },
+    {
+     "term": "cars",
+     "weight": 9
+    },
+    {
+     "term": "weight ratio",
+     "weight": 9
+    },
+    {
+     "term": "elapsed",
+     "weight": 8
+    },
+    {
+     "term": "car",
+     "weight": 8
+    },
+    {
+     "term": "engine horsepower",
+     "weight": 8
+    },
+    {
+     "term": "power weight",
+     "weight": 8
+    },
+    {
+     "term": "quarter",
+     "weight": 7
+    },
+    {
+     "term": "mile",
+     "weight": 7
+    },
+    {
+     "term": "units",
+     "weight": 7
+    },
+    {
+     "term": "performance",
+     "weight": 7
+    },
+    {
+     "term": "pounds",
+     "weight": 7
+    },
+    {
+     "term": "method",
+     "weight": 6
+    },
+    {
+     "term": "high performance",
+     "weight": 6
+    },
+    {
+     "term": "foot",
+     "weight": 6
+    },
+    {
+     "term": "foot pounds",
+     "weight": 6
+    },
+    {
+     "term": "equals",
+     "weight": 6
+    },
+    {
+     "term": "trap speed",
+     "weight": 6
+    },
+    {
+     "term": "measurements",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "The Scottish engineer James Watt (1736-1819) invented the unit of horsepower.",
+    "He raised this value by 50 percent and linked it with horsepower, which equals 33 000 foot-pounds of work in one minute.",
+    "In other words, your engine has 1 horsepower if it corresponds to the power of a horse lifting 550 pounds to 1 foot in 1 second.",
+    "Therefore, horsepower is a unit expressed in the foot-pound-second (fps) system that fulfills the relation 1 HP = 550 foot-pounds per second.",
+    "Accordingly, for SI units exists two standard definitions – mechanical (imperial) horsepower, which equals 745.7 watts, and the metric horsepower, which equals approximately 735.5 watts.",
+    "The formula is: horsepower = weight × (speed / 234)³.",
+    "To better understand this conversion, take a look at the following example: since 1 horsepower equals 746 watts, putting a horse on a treadmill with the ability to produce 1 HP will continuously generate 746 watts.",
+    "2018 Mustang GT horsepower – examples of high-performance cars On a daily basis, we usually deal with civil cars, mainly intended to help people move from point A to point B."
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 5,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": true,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Filip Derma",
+    "published": "2019-03-06T14:34:53.095Z",
+    "modified": "2026-08-22T15:37:54.208Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 517,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 25,
+    "external": 1,
+    "contentInternal": 9,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "horsepower to watts conversion",
+     "BSFC calculator",
+     "wheel horsepower calculator",
+     "torque calculator",
+     "nm to ft lbs converter",
+     "RPM calculator",
+     "boost horsepower calculator",
+     "0-60 calculator",
+     "Audiobook Speed Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/conversion/power-conversion",
+     "https://www.omnicalculator.com/everyday-life/brake-specific-fuel-consumption",
+     "https://www.omnicalculator.com/everyday-life/wheel-horsepower",
+     "https://www.omnicalculator.com/physics/torque",
+     "https://www.omnicalculator.com/conversion/nm-to-ft-lb",
+     "https://www.omnicalculator.com/everyday-life/rpm",
+     "https://www.omnicalculator.com/everyday-life/boost-horsepower",
+     "https://www.omnicalculator.com/everyday-life/0-60",
+     "https://www.omnicalculator.com/everyday-life/audiobook-speed"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.miniwebtool.com/horsepower-calculator/": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

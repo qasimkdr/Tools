@@ -1,0 +1,23 @@
+{
+ "pages": {},
+ "failed": {
+  "https://www.bowlingball.com/BowlVersity/how-to-calculate-bowling-handicap": [
+   "unreachable (fetch failed)"
+  ],
+  "https://calculator.academy/bowling-handicap-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.printyourbrackets.com/bowling-handicap-calculator.php": [
+   "unreachable (fetch failed)"
+  ],
+  "https://www.gobowling.com/?p=12201": [
+   "unreachable (fetch failed)"
+  ],
+  "https://legionreport.com/bowling-handicap-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://everycalculators.com/calculate-bowling-handicap.html": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

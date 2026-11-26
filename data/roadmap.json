@@ -12258,7 +12258,8 @@
     "www.calculator.net/roofing-calculator.html"
    ],
    "category": "construction",
-   "status": "todo",
+   "status": "scheduled",
+   "note": "scheduled 2026-11-28 14:26 PKT",
    "order": 146,
    "batch": 15
   },
@@ -12531,7 +12532,8 @@
     "www.calculator.net/horsepower-calculator.html"
    ],
    "category": "science",
-   "status": "todo",
+   "status": "scheduled",
+   "note": "scheduled 2026-11-28 14:26 PKT",
    "order": 150,
    "batch": 15
   },
@@ -12589,7 +12591,8 @@
    ],
    "competitors": [],
    "category": "education",
-   "status": "todo",
+   "status": "scheduled",
+   "note": "scheduled 2026-11-29 18:41 PKT",
    "order": 152,
    "batch": 16
   },
@@ -12810,7 +12813,8 @@
    ],
    "competitors": [],
    "category": "math",
-   "status": "todo",
+   "status": "scheduled",
+   "note": "scheduled 2026-11-29 18:41 PKT",
    "order": 159,
    "batch": 16
   },
@@ -12986,7 +12990,8 @@
     "www.omnicalculator.com/finance/cap-rate"
    ],
    "category": "finance",
-   "status": "todo",
+   "status": "scheduled",
+   "note": "scheduled 2026-11-28 14:26 PKT",
    "order": 165,
    "batch": 17
   },

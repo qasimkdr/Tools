@@ -1,0 +1,9 @@
+export const faq = [
+  { q: "How do you calculate cap rate?", a: "Divide the property's annual net operating income (NOI) by its value or purchase price. A property with $23,562 of NOI priced at $400,000 has a cap rate of 23,562 ÷ 400,000 = 5.89%." },
+  { q: "What is net operating income?", a: "NOI is the rent and other income actually collected (after vacancy) minus operating expenses such as property taxes, insurance, repairs, management, utilities you pay and HOA fees. Mortgage payments, depreciation and income tax are not operating expenses." },
+  { q: "Does cap rate include the mortgage?", a: "No. Cap rate measures the property's return as if it were bought with cash, so it ignores financing. To see the return on the cash you put in after mortgage payments, use cash-on-cash return instead." },
+  { q: "Is a higher or lower cap rate better?", a: "It depends on what you want. A higher cap rate means more income per dollar of price, but it often comes with more risk, an older building or a weaker location. A lower cap rate usually means a higher price for steadier income in a sought-after area." },
+  { q: "What is a good cap rate for a rental property?", a: "There is no single good number: cap rates vary by city, property type and interest rates. Compare a property's cap rate with recent sales of similar properties in the same area rather than with a national rule of thumb." },
+  { q: "How do I find a property's value from a cap rate?", a: "Divide the NOI by the cap rate as a decimal. With $60,000 of NOI and a market cap rate of 6.5%, the implied value is 60,000 ÷ 0.065 = $923,077. The table in the calculator shows values across a range of cap rates." },
+  { q: "Do cap rates rise with interest rates?", a: "They often move in the same direction over time, because buyers expect higher returns when borrowing costs and bond yields rise, which pushes prices down relative to income. The link is loose and varies by market." },
+];

@@ -149,26 +149,26 @@ Canonical pages: **380** (from 489 rows; 20 excluded, 14 on policy hold).
 | 143 | 15 | todo | Study Score Calculator | `study-score-calculator` | education | study score calculator | 1900 | 12 | 1900 | 1 |
 | 144 | 15 | todo | Rucking Calorie Calculator | `rucking-calorie-calculator` | health | rucking calorie calculator | 1600 | 10 | 1600 | 1 |
 | 145 | 15 | todo | Sq Ft To Linear Ft Calculator | `sq-ft-to-linear-ft-calculator` | construction | sq ft to linear ft calculator | 1600 | 10 | 1600 | 1 |
-| 146 | 15 | todo | Roofing Calculator | `roofing-calculator` | construction | roof calculator | 4400 | 22 | 43400 | 1 |
+| 146 | 15 | scheduled | Roofing Calculator | `roofing-calculator` | construction | roof calculator | 4400 | 22 | 43400 | 1 |
 | 147 | 15 | todo | New Jersey Tax Calculator | `new-jersey-tax-calculator` | finance | new jersey tax calculator | 1300 | 13 | 2300 | 2 |
 | 148 | 15 | live | Average Calculator | `average-calculator` | math | averages calculator | 1300 | 18 | 39700 | 1 |
 | 149 | 15 | todo | Puppy Weight Estimator | `puppy-weight-estimator` | health | puppy weight estimator | 1300 | 11 | 1300 | 1 |
-| 150 | 15 | todo | Horsepower Calculator | `horsepower-calculator` | science | horsepower calculator | 1900 | 17 | 1900 | 1 |
+| 150 | 15 | scheduled | Horsepower Calculator | `horsepower-calculator` | science | horsepower calculator | 1900 | 17 | 1900 | 1 |
 | 151 | 16 | todo | Ski Din Calculator | `ski-din-calculator` | health | ski din calculator | 1300 | 8 | 1300 | 1 |
-| 152 | 16 | todo | Bowling Handicap Calculator | `bowling-handicap-calculator` | education | bowling handicap calculator | 1000 | 4 | 1000 | 1 |
+| 152 | 16 | scheduled | Bowling Handicap Calculator | `bowling-handicap-calculator` | education | bowling handicap calculator | 1000 | 4 | 1000 | 1 |
 | 153 | 16 | todo | Chatham Rate Cap Calculator | `chatham-rate-cap-calculator` | education | chatham rate cap calculator | 1000 | 4 | 1000 | 1 |
 | 154 | 16 | todo | Halfway Point Between Two Cities Calculator | `halfway-point-between-two-cities-calculator` | everyday | halfway point between two cities calculator | 1900 | 13 | 1900 | 1 |
 | 155 | 16 | todo | Cake Pricing Calculator | `cake-pricing-calculator` | everyday | cake pricing calculator | 1300 | 12 | 1300 | 1 |
 | 156 | 16 | todo | Sheep Gestation Calculator | `sheep-gestation-calculator` | everyday | sheep gestation calculator | 1300 | 8 | 2300 | 2 |
 | 157 | 16 | todo | Reputation Calculator | `reputation-calculator` | everyday | reputation calculator | 1300 | 9 | 1300 | 1 |
 | 158 | 16 | todo | Boolean Algebra Calculator | `boolean-algebra-calculator` | health | boolean algebra calculator | 1600 | 11 | 1600 | 1 |
-| 159 | 16 | todo | Five Number Summary Calculator | `five-number-summary-calculator` | math | five number summary calculator | 1600 | 11 | 3200 | 2 |
+| 159 | 16 | scheduled | Five Number Summary Calculator | `five-number-summary-calculator` | math | five number summary calculator | 1600 | 11 | 3200 | 2 |
 | 160 | 16 | todo | Megawatt Calculator | `megawatt-calculator` | science | megawatt calculator | 1600 | 11 | 1600 | 1 |
 | 161 | 17 | todo | Substitution Calculator | `substitution-calculator` | math | substitution calculator | 1600 | 12 | 1600 | 1 |
 | 162 | 17 | todo | Pool Shock Calculator | `pool-shock-calculator` | construction | pool shock calculator | 1300 | 11 | 1300 | 1 |
 | 163 | 17 | todo | Btz Calculator | `btz-calculator` | everyday | btz calculator | 1900 | 14 | 1900 | 1 |
 | 164 | 17 | todo | Reverse Bmi Calculator | `reverse-bmi-calculator` | health | reverse bmi calculator | 1300 | 13 | 1300 | 1 |
-| 165 | 17 | todo | Cap Rate Calculator | `cap-rate-calculator` | finance | cap rate calculator | 6600 | 24 | 6600 | 1 |
+| 165 | 17 | scheduled | Cap Rate Calculator | `cap-rate-calculator` | finance | cap rate calculator | 6600 | 24 | 6600 | 1 |
 | 166 | 17 | todo | Binding Calculator | `binding-calculator` | everyday | binding calculator | 1300 | 9 | 1300 | 1 |
 | 167 | 17 | todo | Swim Time Converter | `swim-time-converter` | time-date | time conversion calculator swimming | 5400 | 22 | 6700 | 2 |
 | 168 | 17 | todo | Cpm Calculator | `cpm-calculator` | finance | cpm calculator | 27100 | 36 | 27100 | 1 |

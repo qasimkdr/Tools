@@ -1,0 +1,718 @@
+{
+ "pages": {
+  "https://www.inchcalculator.com/cap-rate-calculator/": {
+   "url": "https://www.inchcalculator.com/cap-rate-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/cap-rate-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-26T04:08:34.883Z",
+   "title": "Cap Rate Calculator - Inch Calculator",
+   "metaDescription": "Calculate the cap rate for an investment property given the monthly or annual income and expenses. Plus, learn the cap rate formula.",
+   "canonical": "https://www.inchcalculator.com/cap-rate-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Cap Rate Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Cap Rate",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Calculate the Cap Rate",
+    "Frequently Asked Questions",
+    "Similar Real Estate Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Net Operating Income",
+    "Step One: Calculate the Net Operating Income",
+    "Step Two: Determine the Property’s Value",
+    "Step Three: Calculate the Cap Rate",
+    "Considerations When Using Cap Rate",
+    "Is a lower or higher cap rate better?",
+    "What is the average cap rate in real estate?",
+    "Is cap rate the same as ROI?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Cap Rate Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Cap Rate"
+    },
+    {
+     "level": 3,
+     "text": "Net Operating Income"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Calculate the Cap Rate"
+    },
+    {
+     "level": 3,
+     "text": "Step One: Calculate the Net Operating Income"
+    },
+    {
+     "level": 3,
+     "text": "Step Two: Determine the Property’s Value"
+    },
+    {
+     "level": 3,
+     "text": "Step Three: Calculate the Cap Rate"
+    },
+    {
+     "level": 3,
+     "text": "Considerations When Using Cap Rate"
+    },
+    {
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "level": 3,
+     "text": "Is a lower or higher cap rate better?"
+    },
+    {
+     "level": 3,
+     "text": "What is the average cap rate in real estate?"
+    },
+    {
+     "level": 3,
+     "text": "Is cap rate the same as ROI?"
+    },
+    {
+     "level": 2,
+     "text": "Similar Real Estate Calculators"
+    }
+   ],
+   "wordCount": 1024,
+   "avgSentenceWords": 24,
+   "faqs": [
+    "Is a lower or higher cap rate better?",
+    "What is the average cap rate in real estate?",
+    "Is cap rate the same as ROI?"
+   ],
+   "faqSchemaCount": 3,
+   "topics": [
+    {
+     "term": "cap rate",
+     "weight": 57
+    },
+    {
+     "term": "rate",
+     "weight": 41
+    },
+    {
+     "term": "cap",
+     "weight": 38
+    },
+    {
+     "term": "property",
+     "weight": 29
+    },
+    {
+     "term": "value",
+     "weight": 16
+    },
+    {
+     "term": "income",
+     "weight": 16
+    },
+    {
+     "term": "investment",
+     "weight": 13
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "operating",
+     "weight": 12
+    },
+    {
+     "term": "net operating",
+     "weight": 12
+    },
+    {
+     "term": "operating income",
+     "weight": 12
+    },
+    {
+     "term": "calculate",
+     "weight": 10
+    },
+    {
+     "term": "expenses",
+     "weight": 9
+    },
+    {
+     "term": "net",
+     "weight": 9
+    },
+    {
+     "term": "real estate",
+     "weight": 9
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "investment property",
+     "weight": 8
+    },
+    {
+     "term": "return",
+     "weight": 7
+    },
+    {
+     "term": "rate calculator",
+     "weight": 6
+    },
+    {
+     "term": "operating expenses",
+     "weight": 6
+    },
+    {
+     "term": "step",
+     "weight": 6
+    },
+    {
+     "term": "real",
+     "weight": 6
+    },
+    {
+     "term": "estate",
+     "weight": 6
+    },
+    {
+     "term": "market",
+     "weight": 6
+    },
+    {
+     "term": "rental",
+     "weight": 6
+    },
+    {
+     "term": "annual",
+     "weight": 5
+    },
+    {
+     "term": "noi",
+     "weight": 5
+    },
+    {
+     "term": "property generates",
+     "weight": 5
+    },
+    {
+     "term": "rental property",
+     "weight": 5
+    },
+    {
+     "term": "determine",
+     "weight": 4
+    }
+   ],
+   "claims": [
+    "For example, if a property generates $100,000 in rental income and incurs $40,000 in expenses, the NOI is $60,000.",
+    "For example, let’s find the cap rate for a property with a current value of $700,000 that has an annual net operating income of $60,000.",
+    "cap rate = $60,000 / $700,000 × 100% cap rate = 0.0857 × 100% cap rate = 8.57% So, in this example, the cap rate is 8.57%.",
+    "The average and optimal cap rate in real estate is between 5% and 10%."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 2,
+   "images": 3,
+   "videos": 0,
+   "calculatorInputs": [
+    "Property Value",
+    "Gross Income",
+    "Gross Income Units",
+    "Operating Expenses",
+    "Operating Expenses Units"
+   ],
+   "selectOptionsSample": "per month per year per month per year",
+   "unitToggle": true,
+   "wordsBeforeTool": 20,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2023-04-17",
+    "modified": "2023-05-16T23:25:02+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 122,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 50,
+    "external": 13,
+    "contentInternal": 26,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "below",
+     "Add This to Your Site",
+     "Calculator",
+     "How to Calculate the Cap Rate",
+     "Step One: Calculate the Net Operating Income",
+     "Step Two: Determine the Property’s Value",
+     "Step Three: Calculate the Cap Rate",
+     "Considerations When Using Cap Rate",
+     "Frequently Asked Questions",
+     "Full bio",
+     "Cap Rate Calculator",
+     "return on investment",
+     "rate of return",
+     "net operating income",
+     "property management fees",
+     "profitability of a rental property",
+     "cash on cash return",
+     "discounted cash flow model",
+     "rental property depreciation",
+     "mortgage"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/cap-rate-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/cap-rate/",
+     "https://www.inchcalculator.com/cap-rate-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/cap-rate-calculator/#idx_how_to_calculate_the_cap_rate",
+     "https://www.inchcalculator.com/cap-rate-calculator/#idx_step_one_calculate_the_net_operating_income",
+     "https://www.inchcalculator.com/cap-rate-calculator/#idx_step_two_determine_the_property8217s_value",
+     "https://www.inchcalculator.com/cap-rate-calculator/#idx_step_three_calculate_the_cap_rate",
+     "https://www.inchcalculator.com/cap-rate-calculator/#idx_considerations_when_using_cap_rate",
+     "https://www.inchcalculator.com/cap-rate-calculator/#idx_frequently_asked_questions",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/laura-deimling/",
+     "https://www.inchcalculator.com/cap-rate-calculator/",
+     "https://www.inchcalculator.com/roi-calculator/",
+     "https://www.inchcalculator.com/rate-of-return-calculator/",
+     "https://www.inchcalculator.com/net-operating-income-calculator/",
+     "https://www.inchcalculator.com/property-management-cost-calculator/",
+     "https://www.inchcalculator.com/rental-property-calculator/",
+     "https://www.inchcalculator.com/cash-on-cash-return-calculator/",
+     "https://www.inchcalculator.com/discounted-cash-flow-calculator/",
+     "https://www.inchcalculator.com/rental-property-depreciation-calculator/",
+     "https://www.inchcalculator.com/mortgage-payoff-calculator/",
+     "https://www.inchcalculator.com/price-per-square-foot-calculator/",
+     "https://www.inchcalculator.com/appreciation-calculator/",
+     "https://www.inchcalculator.com/rent-calculator/",
+     "https://www.inchcalculator.com/net-effective-rent-calculator/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Fcap-rate-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fcap-rate-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fcap-rate-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Fcap-rate-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Fcap-rate-calculator%2F&text=Cap+Rate+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Fcap-rate-calculator%2F&text=Cap+Rate+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/finance/cap-rate": {
+   "url": "https://www.omnicalculator.com/finance/cap-rate",
+   "finalUrl": "https://www.omnicalculator.com/finance/cap-rate",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-26T04:08:38.973Z",
+   "title": "Cap Rate Calculator",
+   "metaDescription": "The cap rate calculator determines the rate of return on your real estate property purchase.",
+   "canonical": "https://www.omnicalculator.com/finance/cap-rate",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Cap Rate Calculator"
+   ],
+   "h2": [
+    "What is the cap rate definition?",
+    "What is the cap rate formula?",
+    "How to calculate the cap rate?",
+    "Capitalization rate application: selling a property",
+    "How to evaluate your property with its capitalization rate?",
+    "How does a change in net income affect the value of a property?",
+    "How does a change in cap rate affect the value of a property – the importance of interest rates for cap rate",
+    "Cap rates and housing booms",
+    "How to calculate cap rate when you buy a house – what is a good cap rate?",
+    "Property evaluation techniques",
+    "Property evaluation ratios",
+    "Limitations of the capitalization rate",
+    "FAQs"
+   ],
+   "h3": [
+    "What’s a good cap rate for a rental property?",
+    "Does cap rate include mortgage?",
+    "Do cap rates rise with interest rates?",
+    "What does a 7.5 cap rate mean?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Cap Rate Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is the cap rate definition?"
+    },
+    {
+     "level": 2,
+     "text": "What is the cap rate formula?"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate the cap rate?"
+    },
+    {
+     "level": 2,
+     "text": "Capitalization rate application: selling a property"
+    },
+    {
+     "level": 2,
+     "text": "How to evaluate your property with its capitalization rate?"
+    },
+    {
+     "level": 2,
+     "text": "How does a change in net income affect the value of a property?"
+    },
+    {
+     "level": 2,
+     "text": "How does a change in cap rate affect the value of a property – the importance of interest rates for cap rate"
+    },
+    {
+     "level": 2,
+     "text": "Cap rates and housing booms"
+    },
+    {
+     "level": 2,
+     "text": "How to calculate cap rate when you buy a house – what is a good cap rate?"
+    },
+    {
+     "level": 2,
+     "text": "Property evaluation techniques"
+    },
+    {
+     "level": 2,
+     "text": "Property evaluation ratios"
+    },
+    {
+     "level": 2,
+     "text": "Limitations of the capitalization rate"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What’s a good cap rate for a rental property?"
+    },
+    {
+     "level": 3,
+     "text": "Does cap rate include mortgage?"
+    },
+    {
+     "level": 3,
+     "text": "Do cap rates rise with interest rates?"
+    },
+    {
+     "level": 3,
+     "text": "What does a 7.5 cap rate mean?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 2940,
+   "avgSentenceWords": 21,
+   "faqs": [
+    "What’s a good cap rate for a rental property?",
+    "Does cap rate include mortgage?",
+    "Do cap rates rise with interest rates?",
+    "What does a 7.5 cap rate mean?",
+    "What is the cap rate definition?",
+    "What is the cap rate formula?",
+    "How to calculate the cap rate?",
+    "How to evaluate your property with its capitalization rate?",
+    "How does a change in net income affect the value of a property?",
+    "How to calculate cap rate when you buy a house – what is a good cap rate?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "rate",
+     "weight": 76
+    },
+    {
+     "term": "cap rate",
+     "weight": 75
+    },
+    {
+     "term": "cap",
+     "weight": 63
+    },
+    {
+     "term": "property",
+     "weight": 46
+    },
+    {
+     "term": "income",
+     "weight": 39
+    },
+    {
+     "term": "rates",
+     "weight": 25
+    },
+    {
+     "term": "value",
+     "weight": 24
+    },
+    {
+     "term": "net income",
+     "weight": 24
+    },
+    {
+     "term": "net",
+     "weight": 23
+    },
+    {
+     "term": "investment",
+     "weight": 23
+    },
+    {
+     "term": "cash",
+     "weight": 23
+    },
+    {
+     "term": "capitalization rate",
+     "weight": 23
+    },
+    {
+     "term": "cap rates",
+     "weight": 20
+    },
+    {
+     "term": "real estate",
+     "weight": 18
+    },
+    {
+     "term": "return",
+     "weight": 17
+    },
+    {
+     "term": "debt",
+     "weight": 17
+    },
+    {
+     "term": "capitalization",
+     "weight": 16
+    },
+    {
+     "term": "price",
+     "weight": 16
+    },
+    {
+     "term": "house",
+     "weight": 16
+    },
+    {
+     "term": "debt service",
+     "weight": 15
+    },
+    {
+     "term": "interest rates",
+     "weight": 15
+    },
+    {
+     "term": "calculator",
+     "weight": 14
+    },
+    {
+     "term": "ratio",
+     "weight": 14
+    },
+    {
+     "term": "interest",
+     "weight": 14
+    },
+    {
+     "term": "real",
+     "weight": 13
+    },
+    {
+     "term": "operating",
+     "weight": 12
+    },
+    {
+     "term": "estate",
+     "weight": 12
+    },
+    {
+     "term": "let's",
+     "weight": 12
+    },
+    {
+     "term": "let's say",
+     "weight": 12
+    },
+    {
+     "term": "gross",
+     "weight": 11
+    }
+   ],
+   "claims": [
+    "For example, imagine that you bought an apartment for $100,000, and the cap rate is 10%.",
+    "Let's say the average cap rate in your neighborhood is 9.7%.",
+    "To calculate the market value of your property, you simply have to divide the net income by the cap rate: $33,600 / 9.7% = $33,600 / 0.097 = $346,392 This result is the value of your property.",
+    "Let's say you are considering selling your house, and after some research, you see that investors are buying properties like yours at a 10 percent capitalization rate.",
+    "The 10 percent cap rate means a 10 percent profit on an investment.",
+    "It follows that investors are not satisfied with a 10 percent rate of return anymore, but they require, let's say, a 12 percent cap rate for real estate investment.",
+    "Value = $12,000 / 0.12 = $100,000 As you can see, at the time of increasing interest rates, your house became less valuable.",
+    "In 2002, cap rates were around the range of 8.5-9 percent, which is close to the long-run average.",
+    "However, after several years of steady fall, cap rates reached a historically low 6.5 percent level.",
+    "As a starting point, it is worth knowing that the historical cap rates are around 8-12 percent, which may serve as a handy guideline."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 3,
+   "images": 1,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Tibor Pál",
+    "published": "2017-02-18T12:40:41.076Z",
+    "modified": "2026-09-14T10:12:06.771Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 737,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 23,
+    "external": 1,
+    "contentInternal": 7,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "real estate commission calculator",
+     "rental property calculator",
+     "home value calculator",
+     "gross rent multiplier calculator",
+     "net operating income calculator",
+     "interest-only mortgage calculator",
+     "Prorated Rent Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/finance/real-estate-commission",
+     "https://www.omnicalculator.com/finance/rental-property",
+     "https://www.omnicalculator.com/finance/home-value-us",
+     "https://www.omnicalculator.com/finance/gross-rent-multiplier",
+     "https://www.omnicalculator.com/finance/net-operating-income",
+     "https://www.omnicalculator.com/finance/interest-only-mortgage",
+     "https://www.omnicalculator.com/finance/prorated-rent"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://dqydj.com/cap-rate-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://propertymetrics.com/cap-rate-calculator/": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

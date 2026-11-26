@@ -109,7 +109,7 @@ Rule-based on-page signals only — not rankings.
 | epoxy-resin-calculator | **29/30** | 5 | 5 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
 | seller-financing-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.calculator.net | 18/30 | ahead |
 | how-long-will-retirement-savings-last-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.calculator.net | 21/30 | ahead |
-| quarter-mile-calculator | **25/30** | 4 | 2 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
+| quarter-mile-calculator | **24/30** | 4 | 2 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
 | firewood-calculator | **28/30** | 5 | 4 | 5 | 5 | 4 | 5 | www.omnicalculator.com | 17/25 | ahead |
 | nether-portal-calculator | **24/30** | 4 | 2 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |
 | markup-calculator | **26/30** | 4 | 3 | 5 | 5 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
@@ -140,3 +140,11 @@ Rule-based on-page signals only — not rankings.
 | gc-calculator | **25/30** | 5 | 2 | 5 | 4 | 4 | 5 | — | — | no data |
 | llc-tax-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.smartasset.com | 16/30 | ahead |
 | wainscoting-calculator | **26/30** | 5 | 4 | 5 | 3 | 4 | 5 | www.inchcalculator.com | 25/30 | ahead |
+| anniversary-calculator | **24/30** | 5 | 2 | 5 | 3 | 4 | 5 | www.omnicalculator.com | 17/25 | ahead |
+| rounding-calculator | **24/30** | 4 | 2 | 5 | 4 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
+| voo-calculator | **26/30** | 5 | 4 | 5 | 3 | 4 | 5 | www.omnicalculator.com | 21/30 | ahead |
+| cap-rate-calculator | **26/30** | 5 | 4 | 5 | 3 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
+| horsepower-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | www.omnicalculator.com | 16/25 | ahead |
+| roofing-calculator | **26/30** | 5 | 4 | 5 | 3 | 4 | 5 | www.inchcalculator.com | 22/30 | ahead |
+| bowling-handicap-calculator | **26/30** | 5 | 3 | 5 | 4 | 4 | 5 | — | — | no data |
+| five-number-summary-calculator | **24/25** | 5 | null | 5 | 5 | 4 | 5 | www.omnicalculator.com | 18/25 | ahead |

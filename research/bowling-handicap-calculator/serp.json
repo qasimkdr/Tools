@@ -1,0 +1,135 @@
+{
+ "keywords": {
+  "bowling handicap calculator": {
+   "fetchedAt": "2026-11-26T04:08:12.569Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1000,
+   "fileKd": 4,
+   "fileIntent": "I",
+   "semrushCompetitor": null,
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.gobowling.com/?p=12201",
+     "domain": "www.gobowling.com",
+     "title": "Bowling Handicap Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://sportssurge.alibaba.com/bowling/how-is-bowling-handicap-calculated",
+     "domain": "sportssurge.alibaba.com",
+     "title": "How Is Bowling Handicap Calculated?",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.bowlingball.com/BowlVersity/how-to-calculate-bowling-handicap",
+     "domain": "www.bowlingball.com",
+     "title": "How To Calculate Bowling Handicap",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://calculator.academy/bowling-handicap-calculator/",
+     "domain": "calculator.academy",
+     "title": "Bowling Handicap Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.printyourbrackets.com/bowling-handicap-calculator.php",
+     "domain": "www.printyourbrackets.com",
+     "title": "Bowling Handicap Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://legionreport.com/bowling-handicap-calculator/",
+     "domain": "legionreport.com",
+     "title": "Bowling Handicap Calculator: League Handicap Formula",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://everycalculators.com/calculate-bowling-handicap.html",
+     "domain": "everycalculators.com",
+     "title": "Bowling Handicap Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "bowling-handicap-calculator",
+ "page": "bowling-handicap-calculator",
+ "category": "education",
+ "name": "Bowling Handicap Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-26T04:08:12.569Z",
+ "topCompetitors": [
+  {
+   "domain": "gobowling.com",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.gobowling.com/?p=12201"
+   ]
+  },
+  {
+   "domain": "alibaba.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://sportssurge.alibaba.com/bowling/how-is-bowling-handicap-calculated"
+   ]
+  },
+  {
+   "domain": "bowlingball.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.bowlingball.com/BowlVersity/how-to-calculate-bowling-handicap"
+   ]
+  },
+  {
+   "domain": "calculator.academy",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://calculator.academy/bowling-handicap-calculator/"
+   ]
+  },
+  {
+   "domain": "printyourbrackets.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.printyourbrackets.com/bowling-handicap-calculator.php"
+   ]
+  },
+  {
+   "domain": "legionreport.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://legionreport.com/bowling-handicap-calculator/"
+   ]
+  },
+  {
+   "domain": "everycalculators.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://everycalculators.com/calculate-bowling-handicap.html"
+   ]
+  }
+ ]
+}

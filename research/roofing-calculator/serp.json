@@ -1,0 +1,153 @@
+{
+ "keywords": {
+  "roof calculator": {
+   "fetchedAt": "2026-11-26T04:08:12.003Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 4400,
+   "fileKd": 22,
+   "fileIntent": "I",
+   "semrushCompetitor": {
+    "position": 1,
+    "url": "www.calculator.net/roofing-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.calculator.net/roofing-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Roofing Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.servicetitan.com/tools/roofing-calculator",
+     "domain": "www.servicetitan.com",
+     "title": "Roofing Calculators",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.getjobber.com/free-tools/roof-materials-calculator/",
+     "domain": "www.getjobber.com",
+     "title": "Roof materials calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.omnicalculator.com/construction/roofing",
+     "domain": "www.omnicalculator.com",
+     "title": "Roofing Calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.inchcalculator.com/roofing-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Roofing Material Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.homeadvisor.com/r/roofing-calculator",
+     "domain": "www.homeadvisor.com",
+     "title": "Roofing calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.homedit.com/calculators/roofing-calculator-for-sloped-roof",
+     "domain": "www.homedit.com",
+     "title": "Roofing Calculator for Sloped Roof",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://roofobservations.com/roof-area-calculator/",
+     "domain": "roofobservations.com",
+     "title": "Roof Area Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "roofing-calculator",
+ "page": "roofing-calculator",
+ "category": "construction",
+ "name": "Roofing Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-26T04:08:12.004Z",
+ "topCompetitors": [
+  {
+   "domain": "calculator.net",
+   "bestRank": 1,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculator.net/roofing-calculator.html"
+   ]
+  },
+  {
+   "domain": "servicetitan.com",
+   "bestRank": 2,
+   "keywords": 1,
+   "urls": [
+    "https://www.servicetitan.com/tools/roofing-calculator"
+   ]
+  },
+  {
+   "domain": "getjobber.com",
+   "bestRank": 3,
+   "keywords": 1,
+   "urls": [
+    "https://www.getjobber.com/free-tools/roof-materials-calculator/"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.omnicalculator.com/construction/roofing"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 5,
+   "keywords": 1,
+   "urls": [
+    "https://www.inchcalculator.com/roofing-calculator/"
+   ]
+  },
+  {
+   "domain": "homeadvisor.com",
+   "bestRank": 6,
+   "keywords": 1,
+   "urls": [
+    "https://www.homeadvisor.com/r/roofing-calculator"
+   ]
+  },
+  {
+   "domain": "homedit.com",
+   "bestRank": 7,
+   "keywords": 1,
+   "urls": [
+    "https://www.homedit.com/calculators/roofing-calculator-for-sloped-roof"
+   ]
+  },
+  {
+   "domain": "roofobservations.com",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://roofobservations.com/roof-area-calculator/"
+   ]
+  }
+ ]
+}

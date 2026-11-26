@@ -1,0 +1,9 @@
+export const faq = [
+  { q: "How do I calculate roof area?", a: "Multiply the length and width of the house including overhangs to get the footprint, then multiply by the pitch factor √(1 + (pitch ÷ 12)²). A 42 × 32 ft footprint at 6/12 (factor 1.118) is 1,344 × 1.118 = 1,503 sq ft." },
+  { q: "What is a roofing square?", a: "A square is 100 square feet of roof surface, a 10 × 10 ft area. Shingles, underlayment and labor are usually priced by the square, so a 1,503 sq ft roof is about 15 squares." },
+  { q: "How many bundles of shingles are in a square?", a: "Most standard 3-tab and architectural asphalt shingles come 3 bundles per square, about 33 sq ft per bundle. Heavier designer shingles can be 4 or 5 bundles per square, so check the wrapper and change the bundles-per-square input." },
+  { q: "How much waste should I add for shingles?", a: "Around 10% is common for a simple gable roof and about 15% for hip roofs or roofs with valleys and dormers, because more shingles are cut at hips and valleys. Starter strips and ridge caps are usually bought separately." },
+  { q: "Does a hip roof have more area than a gable roof?", a: "Not if the pitch and footprint are the same: every plane slopes at the same angle, so the area is the footprint times the same pitch factor. A hip roof does need more ridge cap (along the hips) and usually more waste." },
+  { q: "What is the most common roof pitch?", a: "Many houses fall in the 4/12 to 9/12 range. Below 4/12 is low slope: asphalt shingle makers generally require at least 2/12 and extra underlayment between 2/12 and 4/12, so check the installation instructions. Above about 9/12 the roof is steep and harder to work on." },
+  { q: "How do I estimate roofing cost?", a: "Multiply the squares with waste by a price per square from local quotes or supplier prices. Enter that price in the optional cost field; it can be the material price or an installed price that includes labor and tear-off." },
+];

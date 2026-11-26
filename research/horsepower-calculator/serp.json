@@ -1,0 +1,132 @@
+{
+ "keywords": {
+  "horsepower calculator": {
+   "fetchedAt": "2026-11-26T04:08:12.282Z",
+   "device": "n/a",
+   "location": "United States (web search tool)",
+   "provider": "agent-websearch",
+   "rankNote": "position in web-search output, not a verified Google rank",
+   "fileVolume": 1900,
+   "fileKd": 17,
+   "fileIntent": "C",
+   "semrushCompetitor": {
+    "position": 3,
+    "url": "www.calculator.net/horsepower-calculator.html"
+   },
+   "seResultsCount": null,
+   "features": [],
+   "featuredSnippet": null,
+   "peopleAlsoAsk": [],
+   "relatedSearches": [],
+   "organic": [
+    {
+     "rank": 1,
+     "url": "https://www.calculator.net/horsepower-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Horsepower Calculator",
+     "description": null
+    },
+    {
+     "rank": 2,
+     "url": "https://www.omnicalculator.com/everyday-life/horsepower",
+     "domain": "www.omnicalculator.com",
+     "title": "Horsepower Calculator",
+     "description": null
+    },
+    {
+     "rank": 3,
+     "url": "https://www.omnicalculator.com/physics/horsepower",
+     "domain": "www.omnicalculator.com",
+     "title": "Horsepower Calculator",
+     "description": null
+    },
+    {
+     "rank": 4,
+     "url": "https://www.miniwebtool.com/horsepower-calculator/",
+     "domain": "www.miniwebtool.com",
+     "title": "Horsepower calculator",
+     "description": null
+    },
+    {
+     "rank": 5,
+     "url": "https://www.calculator.net/engine-horsepower-calculator.html",
+     "domain": "www.calculator.net",
+     "title": "Engine Horsepower Calculator",
+     "description": null
+    },
+    {
+     "rank": 6,
+     "url": "https://www.inchcalculator.com/engine-horsepower-calculator/",
+     "domain": "www.inchcalculator.com",
+     "title": "Engine Horsepower Calculator",
+     "description": null
+    },
+    {
+     "rank": 7,
+     "url": "https://www.inchcalculator.com/convert/from-horsepower/",
+     "domain": "www.inchcalculator.com",
+     "title": "Horsepower Conversion Calculator",
+     "description": null
+    },
+    {
+     "rank": 8,
+     "url": "https://www.calculate.co.nz/horsepower-calculator.php",
+     "domain": "www.calculate.co.nz",
+     "title": "Horsepower Calculator",
+     "description": null
+    }
+   ]
+  }
+ },
+ "slug": "horsepower-calculator",
+ "page": "horsepower-calculator",
+ "category": "science",
+ "name": "Horsepower Calculator",
+ "keywordSource": "data/roadmap.json (Semrush)",
+ "updatedAt": "2026-11-26T04:08:12.282Z",
+ "topCompetitors": [
+  {
+   "domain": "calculator.net",
+   "bestRank": 1,
+   "keywords": 2,
+   "urls": [
+    "https://www.calculator.net/horsepower-calculator.html",
+    "https://www.calculator.net/engine-horsepower-calculator.html"
+   ]
+  },
+  {
+   "domain": "omnicalculator.com",
+   "bestRank": 2,
+   "keywords": 2,
+   "urls": [
+    "https://www.omnicalculator.com/everyday-life/horsepower",
+    "https://www.omnicalculator.com/physics/horsepower"
+   ]
+  },
+  {
+   "domain": "inchcalculator.com",
+   "bestRank": 6,
+   "keywords": 2,
+   "urls": [
+    "https://www.inchcalculator.com/engine-horsepower-calculator/",
+    "https://www.inchcalculator.com/convert/from-horsepower/"
+   ]
+  },
+  {
+   "domain": "miniwebtool.com",
+   "bestRank": 4,
+   "keywords": 1,
+   "urls": [
+    "https://www.miniwebtool.com/horsepower-calculator/"
+   ]
+  },
+  {
+   "domain": "calculate.co.nz",
+   "bestRank": 8,
+   "keywords": 1,
+   "urls": [
+    "https://www.calculate.co.nz/horsepower-calculator.php"
+   ]
+  }
+ ]
+}

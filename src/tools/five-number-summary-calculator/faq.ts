@@ -1,0 +1,9 @@
+export const faq = [
+  { q: "What is the five number summary?", a: "It is the minimum, first quartile (Q1), median, third quartile (Q3) and maximum of a data set. Together they show the center, the spread of the middle half and the full range, and they are the five values drawn in a box plot." },
+  { q: "How do you find the five number summary?", a: "Sort the data. The smallest and largest values are the minimum and maximum. The median is the middle value (or the mean of the two middle values). Q1 is the median of the lower half and Q3 is the median of the upper half." },
+  { q: "Why do calculators give different quartiles?", a: "There are several accepted quartile definitions. The textbook (TI-84) method leaves the median out of both halves, Tukey's hinges include it, and Excel's QUARTILE.INC and R's default interpolate between values. For 3, 5, 7, 8, 12, 13, 14, 18, 21 they give Q1 = 6, 7 and 7. Use the method your class or software uses." },
+  { q: "How do you find outliers with the five number summary?", a: "Compute the IQR = Q3 − Q1. Values below Q1 − 1.5 × IQR or above Q3 + 1.5 × IQR are flagged as outliers. For 1 to 10 plus 100, Q1 = 3, Q3 = 9, IQR = 6, so the upper fence is 18 and 100 is an outlier." },
+  { q: "What is the interquartile range?", a: "The IQR is Q3 minus Q1, the spread of the middle 50% of the data. Unlike the range, it isn't affected by a single extreme value, which makes it a robust measure of spread." },
+  { q: "Is the median the same as Q2?", a: "Yes. The median is the second quartile (Q2), the 50th percentile: half the values are at or below it and half at or above it." },
+  { q: "How many values do I need?", a: "The calculator works with any number of values, but a five number summary is most meaningful with at least five or so. With very few values, the quartile methods can differ a lot." },
+];

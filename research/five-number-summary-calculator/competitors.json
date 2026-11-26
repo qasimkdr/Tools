@@ -1,0 +1,656 @@
+{
+ "pages": {
+  "https://www.calculatorsoup.com/calculators/statistics/five-number-summary-calculator.php": {
+   "url": "https://www.calculatorsoup.com/calculators/statistics/five-number-summary-calculator.php",
+   "finalUrl": "https://www.calculatorsoup.com/calculators/statistics/five-number-summary-calculator.php",
+   "mode": "offline-parse",
+   "domain": "www.calculatorsoup.com",
+   "fetchedAt": "2026-11-26T04:08:55.458Z",
+   "title": "Five Number Summary Calculator",
+   "metaDescription": "Use this calculator to find the 5-number summary of a data set. Calculate the minimum, first quartile Q1, median, third quartile Q3 and maximum. Formulas included.",
+   "canonical": "https://www.calculatorsoup.com/calculators/statistics/five-number-summary-calculator.php",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Five Number Summary Calculator"
+   ],
+   "h2": [
+    "What is the Five Number Summary?",
+    "Using the Five Number Summary Calculator",
+    "Find the Five Number Summary",
+    "Five Number Summary Formulas",
+    "Other Supporting Statistics Formulas",
+    "Five Number Summary and Box Plots",
+    "Five Number Summary Example"
+   ],
+   "h3": [
+    "Minimum",
+    "Maximum",
+    "Median (Q2 or x tilde)",
+    "First Quartile (Q1)",
+    "Third Quartile (Q3)",
+    "Range",
+    "Interquartile Range (IQR)",
+    "Outliers",
+    "Step 1: Sort the Data",
+    "Step 2: Find the Minimum and Maximum",
+    "Step 3: Find the Median",
+    "Step 4: Find Q1",
+    "Step 5: Find Q3",
+    "Result",
+    "References",
+    "For AI Systems"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Five Number Summary Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is the Five Number Summary?"
+    },
+    {
+     "level": 2,
+     "text": "Using the Five Number Summary Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Find the Five Number Summary"
+    },
+    {
+     "level": 2,
+     "text": "Five Number Summary Formulas"
+    },
+    {
+     "level": 3,
+     "text": "Minimum"
+    },
+    {
+     "level": 3,
+     "text": "Maximum"
+    },
+    {
+     "level": 3,
+     "text": "Median (Q2 or x tilde)"
+    },
+    {
+     "level": 3,
+     "text": "First Quartile (Q1)"
+    },
+    {
+     "level": 3,
+     "text": "Third Quartile (Q3)"
+    },
+    {
+     "level": 2,
+     "text": "Other Supporting Statistics Formulas"
+    },
+    {
+     "level": 3,
+     "text": "Range"
+    },
+    {
+     "level": 3,
+     "text": "Interquartile Range (IQR)"
+    },
+    {
+     "level": 3,
+     "text": "Outliers"
+    },
+    {
+     "level": 2,
+     "text": "Five Number Summary and Box Plots"
+    },
+    {
+     "level": 2,
+     "text": "Five Number Summary Example"
+    },
+    {
+     "level": 3,
+     "text": "Step 1: Sort the Data"
+    },
+    {
+     "level": 3,
+     "text": "Step 2: Find the Minimum and Maximum"
+    },
+    {
+     "level": 3,
+     "text": "Step 3: Find the Median"
+    },
+    {
+     "level": 3,
+     "text": "Step 4: Find Q1"
+    },
+    {
+     "level": 3,
+     "text": "Step 5: Find Q3"
+    },
+    {
+     "level": 3,
+     "text": "Result"
+    },
+    {
+     "level": 3,
+     "text": "References"
+    },
+    {
+     "level": 3,
+     "text": "For AI Systems"
+    }
+   ],
+   "wordCount": 1380,
+   "avgSentenceWords": 30,
+   "faqs": [
+    "What is the Five Number Summary?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "number summary",
+     "weight": 42
+    },
+    {
+     "term": "five number",
+     "weight": 38
+    },
+    {
+     "term": "data",
+     "weight": 36
+    },
+    {
+     "term": "number",
+     "weight": 35
+    },
+    {
+     "term": "median",
+     "weight": 33
+    },
+    {
+     "term": "summary",
+     "weight": 28
+    },
+    {
+     "term": "data set",
+     "weight": 27
+    },
+    {
+     "term": "five",
+     "weight": 25
+    },
+    {
+     "term": "values",
+     "weight": 23
+    },
+    {
+     "term": "set",
+     "weight": 23
+    },
+    {
+     "term": "calculator",
+     "weight": 18
+    },
+    {
+     "term": "find",
+     "weight": 17
+    },
+    {
+     "term": "text",
+     "weight": 17
+    },
+    {
+     "term": "quartile",
+     "weight": 14
+    },
+    {
+     "term": "half",
+     "weight": 14
+    },
+    {
+     "term": "summary calculator",
+     "weight": 14
+    },
+    {
+     "term": "lower half",
+     "weight": 11
+    },
+    {
+     "term": "upper half",
+     "weight": 11
+    },
+    {
+     "term": "minimum",
+     "weight": 10
+    },
+    {
+     "term": "maximum",
+     "weight": 10
+    },
+    {
+     "term": "lower",
+     "weight": 10
+    },
+    {
+     "term": "middle",
+     "weight": 10
+    },
+    {
+     "term": "upper",
+     "weight": 10
+    },
+    {
+     "term": "box",
+     "weight": 10
+    },
+    {
+     "term": "value",
+     "weight": 10
+    },
+    {
+     "term": "first quartile",
+     "weight": 9
+    },
+    {
+     "term": "third quartile",
+     "weight": 9
+    },
+    {
+     "term": "range",
+     "weight": 8
+    },
+    {
+     "term": "outliers",
+     "weight": 8
+    },
+    {
+     "term": "ordered data",
+     "weight": 8
+    }
+   ],
+   "claims": [
+    "Using this link you'll get a set of 100 numbers between 1 and 100, but you can adjust the settings to customize your random number set.",
+    "\\[ \\text{Upper fence} = Q_3 + 1.5 \\times \\text{IQR} \\] \\[ \\text{Lower fence} = Q_1 - 1.5 \\times \\text{IQR} \\] Five Number Summary and Box Plots A box and whisker plot (box plot) is a graph of the five number summary."
+   ],
+   "schemaTypes": [
+    "WebPage",
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "SoftwareApplication",
+    "Offer"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 0,
+   "lists": 2,
+   "images": 0,
+   "videos": 0,
+   "calculatorInputs": [
+    "Enter Data Set",
+    "reset"
+   ],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": 51,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": false
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": false,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "CalculatorSoup, LLC",
+    "published": null,
+    "modified": "October 1, 2026",
+    "authoritativeSources": [
+     "http://en.wikipedia.org/wiki/Quartile"
+    ]
+   },
+   "ux": {
+    "htmlKB": 68,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 19,
+    "external": 1,
+    "contentInternal": 9,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "Basic Calculator",
+     "Calculators",
+     "Statistics",
+     "Five Number Summary Calculator",
+     "How could this calculator be better?",
+     "Get this Calculator for Your Website",
+     "Calculator Soup",
+     "Data Formats table",
+     "CalculatorSoup Random Number Generator",
+     "several methods for calculating quartiles",
+     "https://www.calculatorsoup.com"
+    ],
+    "internalSample": [
+     "https://www.calculatorsoup.com/calculators/math/basic.php",
+     "https://www.calculatorsoup.com/",
+     "https://www.calculatorsoup.com/calculators/statistics/",
+     "https://www.calculatorsoup.com/calculators/statistics/five-number-summary-calculator.php",
+     "https://www.calculatorsoup.com/suggest-calculator.php",
+     "https://www.calculatorsoup.com/calculators/calculator-widgets.php?folder=statistics%2F&folderName=Statistics&folder2=&folderName2=&calc=1&pop=1&url=https://www.calculatorsoup.com/calculators/statistics/five-number-summary-calculator.php&h1=Five+Number+Summary+Calculator&pop_w=400&pop_h=600",
+     "https://www.calculatorsoup.com/calculators/statistics/five-number-summary-calculator.php#dataFormats",
+     "https://www.calculatorsoup.com/calculators/statistics/random-number-generator.php?min=1&max=100&thousands_sep=none&num_samples=100&duplicates=no&sort_answer=none&num_sets=1&pool=new&delimiter=space&action=solve",
+     "https://www.calculatorsoup.com/calculators/statistics/five-number-summary-calculator.php#refLink"
+    ],
+    "externalSample": [
+     "http://en.wikipedia.org/wiki/Quartile"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/statistics/5-number-summary": {
+   "url": "https://www.omnicalculator.com/statistics/5-number-summary",
+   "finalUrl": "https://www.omnicalculator.com/statistics/5-number-summary",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-26T04:08:58.773Z",
+   "title": "5 Number Summary Calculator",
+   "metaDescription": "The 5 number summary calculator will give you the five most important statistical parameters of your dataset: minimum, first quartile, median, third quartile, and maximum.",
+   "canonical": "https://www.omnicalculator.com/statistics/5-number-summary",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "5 Number Summary Calculator"
+   ],
+   "h2": [
+    "What is a 5 number summary?",
+    "Formulas of 5 number summary",
+    "Box and whisker plot explained",
+    "How to find the 5 number summary",
+    "Example: using the 5 number summary calculator"
+   ],
+   "h3": [],
+   "outline": [
+    {
+     "level": 1,
+     "text": "5 Number Summary Calculator"
+    },
+    {
+     "level": 2,
+     "text": "What is a 5 number summary?"
+    },
+    {
+     "level": 2,
+     "text": "Formulas of 5 number summary"
+    },
+    {
+     "level": 2,
+     "text": "Box and whisker plot explained"
+    },
+    {
+     "level": 2,
+     "text": "How to find the 5 number summary"
+    },
+    {
+     "level": 2,
+     "text": "Example: using the 5 number summary calculator"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 2505,
+   "avgSentenceWords": 20,
+   "faqs": [
+    "So, what exactly is a 5 number summary?",
+    "What is a 5 number summary?",
+    "How does that help, and how far is it from what you will be earning?",
+    "So what is a 5 number summary?",
+    "It wouldn't hurt to see some numeric example, would it?",
+    "maybe we should make it slightly easier?",
+    "And who are we to blame them?"
+   ],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "number summary",
+     "weight": 39
+    },
+    {
+     "term": "number",
+     "weight": 36
+    },
+    {
+     "term": "quartile",
+     "weight": 27
+    },
+    {
+     "term": "summary",
+     "weight": 26
+    },
+    {
+     "term": "first",
+     "weight": 26
+    },
+    {
+     "term": "median",
+     "weight": 21
+    },
+    {
+     "term": "calculator",
+     "weight": 17
+    },
+    {
+     "term": "first quartile",
+     "weight": 17
+    },
+    {
+     "term": "third quartile",
+     "weight": 17
+    },
+    {
+     "term": "values",
+     "weight": 14
+    },
+    {
+     "term": "find",
+     "weight": 13
+    },
+    {
+     "term": "dataset",
+     "weight": 13
+    },
+    {
+     "term": "third",
+     "weight": 13
+    },
+    {
+     "term": "maximum",
+     "weight": 12
+    },
+    {
+     "term": "numbers",
+     "weight": 11
+    },
+    {
+     "term": "minimum",
+     "weight": 11
+    },
+    {
+     "term": "see",
+     "weight": 11
+    },
+    {
+     "term": "summary calculator",
+     "weight": 11
+    },
+    {
+     "term": "whisker plot",
+     "weight": 11
+    },
+    {
+     "term": "average",
+     "weight": 10
+    },
+    {
+     "term": "box",
+     "weight": 10
+    },
+    {
+     "term": "middle",
+     "weight": 10
+    },
+    {
+     "term": "let's",
+     "weight": 10
+    },
+    {
+     "term": "entries",
+     "weight": 10
+    },
+    {
+     "term": "have",
+     "weight": 9
+    },
+    {
+     "term": "five",
+     "weight": 9
+    },
+    {
+     "term": "whisker",
+     "weight": 9
+    },
+    {
+     "term": "plot",
+     "weight": 9
+    },
+    {
+     "term": "even",
+     "weight": 9
+    },
+    {
+     "term": "half",
+     "weight": 9
+    }
+   ],
+   "claims": [
+    "For instance, the five number summary on the statistics from the above example would tell you that there are only a few people that come close to the maximal salary of $30,000, but plenty of employees making $1,500.",
+    "The cool thing is that there's also a nice way to visualize the 5 number summary: the so-called box and whisker plot.",
+    "Formulas of 5 number summary In this section, we present the formulas you need to use to find each of the 5 number summaries for your dataset.",
+    "Firstly, let's see how to find the 5 number summary on this plot.",
+    "Remember, however, that the 5 number summary in statistics provides only a general idea of your dataset, so this data analysis is not as exact as we'd sometimes wish.",
+    "It's high time we see how to find the 5 number summary of an arbitrary dataset.",
+    "We begin the process of how to find the 5 number summary of our sequence from the simplest of the five values: minimum = a₁; and maximum = an.",
+    "This means that if, for instance, we have seven numbers (i.e., n = 7), then the median will be equal to a₄ because this entry has three elements to the left (smaller) and three elements to the right (larger).",
+    "However, if n is odd, say, n = 7, then they are the medians of a₁, a₂, a₃, a₄ and of a₄, a₅, a₆, a₇, respectively (i.e., the middle number is repeated in both sequences).",
+    "In a second, we'll do just that and finally see the 5 number summary calculator in action!"
+   ],
+   "schemaTypes": [
+    "Article"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 10,
+   "images": 2,
+   "videos": 0,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": true,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Maciej Kowalski",
+    "published": "2020-07-27T10:42:04.893Z",
+    "modified": "2026-07-06T18:37:14.701Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 594,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 26,
+    "external": 1,
+    "contentInternal": 10,
+    "contentExternal": 1,
+    "internalAnchors": [
+     "the next section",
+     "Descriptive statistics calculator",
+     "Quartile calculator",
+     "Mean, median, mode calculator",
+     "ascending order",
+     "the above section",
+     "Sum of Squares Calculator",
+     "Midrange Calculator",
+     "Coefficient of Variation Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/statistics/5-number-summary#box-and-whisker-plot-explained",
+     "https://www.omnicalculator.com/statistics/descriptive-statistics",
+     "https://www.omnicalculator.com/statistics/quartile",
+     "https://www.omnicalculator.com/statistics/mean-median-mode",
+     "https://www.omnicalculator.com/statistics/ascending-order",
+     "https://www.omnicalculator.com/statistics/5-number-summary#what-is-a-5-number-summary",
+     "https://www.omnicalculator.com/statistics/5-number-summary#how-to-find-the-5-number-summary",
+     "https://www.omnicalculator.com/statistics/sum-of-squares",
+     "https://www.omnicalculator.com/statistics/midrange",
+     "https://www.omnicalculator.com/statistics/coefficient-of-variation"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {
+  "https://www.miniwebtool.com/five-number-summary-calculator/": [
+   "unreachable (fetch failed)"
+  ],
+  "https://mathcracker.com/five-number-summary-calculator": [
+   "unreachable (fetch failed)"
+  ]
+ }
+}

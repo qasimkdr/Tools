@@ -1,0 +1,958 @@
+{
+ "pages": {
+  "https://www.calculator.net/roofing-calculator.html": {
+   "url": "https://www.calculator.net/roofing-calculator.html",
+   "finalUrl": "https://www.calculator.net/roofing-calculator.html",
+   "mode": "offline-parse",
+   "domain": "www.calculator.net",
+   "fetchedAt": "2026-11-26T04:08:22.076Z",
+   "title": "Roofing Calculator",
+   "metaDescription": "This free roofing calculator estimates the area of a roof and the number of materials required to replace or build the said roof.",
+   "canonical": null,
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Roofing Calculator"
+   ],
+   "h2": [
+    "Roofing Area Calculator",
+    "Roofing Material Calculator"
+   ],
+   "h3": [
+    "Roof Pitch"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Roofing Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Roofing Area Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Roofing Material Calculator"
+    },
+    {
+     "level": 3,
+     "text": "Roof Pitch"
+    }
+   ],
+   "wordCount": 741,
+   "avgSentenceWords": 32,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "area",
+     "weight": 27
+    },
+    {
+     "term": "roof",
+     "weight": 27
+    },
+    {
+     "term": "pitch",
+     "weight": 15
+    },
+    {
+     "term": "roof pitch",
+     "weight": 11
+    },
+    {
+     "term": "calculator",
+     "weight": 10
+    },
+    {
+     "term": "roofing",
+     "weight": 9
+    },
+    {
+     "term": "roof area",
+     "weight": 8
+    },
+    {
+     "term": "used",
+     "weight": 7
+    },
+    {
+     "term": "actual area",
+     "weight": 6
+    },
+    {
+     "term": "materials",
+     "weight": 5
+    },
+    {
+     "term": "measurement",
+     "weight": 5
+    },
+    {
+     "term": "area calculator",
+     "weight": 5
+    },
+    {
+     "term": "roofing material",
+     "weight": 5
+    },
+    {
+     "term": "material calculator",
+     "weight": 5
+    },
+    {
+     "term": "correction factor",
+     "weight": 5
+    },
+    {
+     "term": "necessary",
+     "weight": 4
+    },
+    {
+     "term": "shapes",
+     "weight": 4
+    },
+    {
+     "term": "angle",
+     "weight": 4
+    },
+    {
+     "term": "have",
+     "weight": 4
+    },
+    {
+     "term": "roofs",
+     "weight": 4
+    },
+    {
+     "term": "horizontal",
+     "weight": 4
+    },
+    {
+     "term": "inches",
+     "weight": 4
+    },
+    {
+     "term": "factor",
+     "weight": 4
+    },
+    {
+     "term": "actual",
+     "weight": 4
+    },
+    {
+     "term": "correction",
+     "weight": 4
+    },
+    {
+     "term": "roofing calculator",
+     "weight": 3
+    },
+    {
+     "term": "calculator roofing",
+     "weight": 3
+    },
+    {
+     "term": "estimate",
+     "weight": 3
+    },
+    {
+     "term": "well",
+     "weight": 3
+    },
+    {
+     "term": "house",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "Shingle roofs typically have a life span of 15-30 years, while membrane roofs usually last 5-15 years.",
+    "Although ceramic tile roofs are expensive, they can have a life span of over 100 years.",
+    "In the United States, a run of 12 inches (1 foot) is used, and pitch is measured as the rise of the roof over 12 inches.",
+    "For instance, a 7/12 roof pitch means that the roof rises 7 inches for every 12 horizontal inches."
+   ],
+   "schemaTypes": [
+    "BreadcrumbList",
+    "ListItem"
+   ],
+   "schemaFormats": [
+    "microdata"
+   ],
+   "tables": 7,
+   "lists": 1,
+   "images": 5,
+   "videos": 0,
+   "calculatorInputs": [
+    "acarea",
+    "acareaunit",
+    "roofpitch",
+    "angle",
+    "eaves",
+    "eavesunit",
+    "price",
+    "priceunit",
+    "mcarea",
+    "mcareaunit"
+   ],
+   "selectOptionsSample": "square feet square meters square yards square inches square cm 1/12 2/12 3/12 4/12 5/12 6/12 7/12 8/12 9/12 10/12 11/12 12/12 13/12 14/12 15/12 16/12 17/12 18/12 19/12 20/12 21/12 22/12 23/12 24/12 feet meters yards inches centimeters per square foot per square meter per square yard per square inch ",
+   "unitToggle": true,
+   "wordsBeforeTool": 72,
+   "actions": {
+    "print": false,
+    "share": false,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": null,
+    "published": null,
+    "modified": null,
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 16,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 1,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 26,
+    "external": 0,
+    "contentInternal": 26,
+    "contentExternal": 0,
+    "internalAnchors": [
+     "sign in",
+     "home",
+     "other",
+     "roofing calculator",
+     "Area Calculator",
+     "Roof Pitch",
+     "Roof Angle",
+     "The Area Calculator",
+     "Other Calculators",
+     "Age",
+     "Date",
+     "Time",
+     "Hours",
+     "GPA",
+     "Grade",
+     "Height",
+     "Concrete",
+     "IP Subnet",
+     "Bra Size",
+     "Password Generator"
+    ],
+    "internalSample": [
+     "https://www.calculator.net/",
+     "https://www.calculator.net/my-account/sign-in.php",
+     "https://www.calculator.net/other-calculator.html",
+     "https://www.calculator.net/roofing-calculator.html",
+     "https://www.calculator.net/area-calculator.html",
+     "https://www.calculator.net/roofing-calculator.html#",
+     "https://www.calculator.net/age-calculator.html",
+     "https://www.calculator.net/date-calculator.html",
+     "https://www.calculator.net/time-calculator.html",
+     "https://www.calculator.net/hours-calculator.html",
+     "https://www.calculator.net/gpa-calculator.html",
+     "https://www.calculator.net/grade-calculator.html",
+     "https://www.calculator.net/height-calculator.html",
+     "https://www.calculator.net/concrete-calculator.html",
+     "https://www.calculator.net/ip-subnet-calculator.html",
+     "https://www.calculator.net/bra-size-calculator.html",
+     "https://www.calculator.net/password-generator.html",
+     "https://www.calculator.net/dice-roller.html",
+     "https://www.calculator.net/conversion-calculator.html",
+     "https://www.calculator.net/financial-calculator.html",
+     "https://www.calculator.net/fitness-and-health-calculator.html",
+     "https://www.calculator.net/math-calculator.html",
+     "https://www.calculator.net/about-us.html",
+     "https://www.calculator.net/sitemap.html",
+     "https://www.calculator.net/about-us.html#terms"
+    ],
+    "externalSample": []
+   },
+   "pageType": "tool",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.omnicalculator.com/construction/roofing": {
+   "url": "https://www.omnicalculator.com/construction/roofing",
+   "finalUrl": "https://www.omnicalculator.com/construction/roofing",
+   "mode": "offline-parse",
+   "domain": "www.omnicalculator.com",
+   "fetchedAt": "2026-11-26T04:08:25.473Z",
+   "title": "Roofing Calculator",
+   "metaDescription": "The roofing calculator lets you estimate the area and cost of your roof.",
+   "canonical": "https://www.omnicalculator.com/construction/roofing",
+   "robotsMeta": null,
+   "lang": "en",
+   "h1": [
+    "Roofing Calculator"
+   ],
+   "h2": [
+    "How do I calculate the roof area?",
+    "Estimating the cost of the roof",
+    "FAQs"
+   ],
+   "h3": [
+    "What are gable and shed roofs?",
+    "What is the most common roof pitch?",
+    "What is the roof area of a 100 sq m house with roof pitch of 25 deg?",
+    "How do I estimate the cost of roofing?"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Roofing Calculator"
+    },
+    {
+     "level": 2,
+     "text": "How do I calculate the roof area?"
+    },
+    {
+     "level": 2,
+     "text": "Estimating the cost of the roof"
+    },
+    {
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "level": 3,
+     "text": "What are gable and shed roofs?"
+    },
+    {
+     "level": 3,
+     "text": "What is the most common roof pitch?"
+    },
+    {
+     "level": 3,
+     "text": "What is the roof area of a 100 sq m house with roof pitch of 25 deg?"
+    },
+    {
+     "level": 3,
+     "text": "How do I estimate the cost of roofing?"
+    },
+    {
+     "level": 3,
+     "text": "Related calculators"
+    }
+   ],
+   "wordCount": 814,
+   "avgSentenceWords": 19,
+   "faqs": [
+    "What are gable and shed roofs?",
+    "What is the most common roof pitch?",
+    "What is the roof area of a 100 sq m house with roof pitch of 25 deg?",
+    "How do I estimate the cost of roofing?",
+    "How do I calculate the roof area?"
+   ],
+   "faqSchemaCount": 4,
+   "topics": [
+    {
+     "term": "roof",
+     "weight": 40
+    },
+    {
+     "term": "area",
+     "weight": 20
+    },
+    {
+     "term": "roof pitch",
+     "weight": 20
+    },
+    {
+     "term": "pitch",
+     "weight": 17
+    },
+    {
+     "term": "cost",
+     "weight": 15
+    },
+    {
+     "term": "roof area",
+     "weight": 14
+    },
+    {
+     "term": "calculator",
+     "weight": 12
+    },
+    {
+     "term": "house",
+     "weight": 9
+    },
+    {
+     "term": "roofing",
+     "weight": 7
+    },
+    {
+     "term": "price",
+     "weight": 7
+    },
+    {
+     "term": "unit price",
+     "weight": 6
+    },
+    {
+     "term": "unit",
+     "weight": 5
+    },
+    {
+     "term": "have",
+     "weight": 5
+    },
+    {
+     "term": "know",
+     "weight": 5
+    },
+    {
+     "term": "calculate",
+     "weight": 5
+    },
+    {
+     "term": "labor",
+     "weight": 5
+    },
+    {
+     "term": "square",
+     "weight": 5
+    },
+    {
+     "term": "shed roof",
+     "weight": 5
+    },
+    {
+     "term": "square foot",
+     "weight": 5
+    },
+    {
+     "term": "check",
+     "weight": 4
+    },
+    {
+     "term": "snow",
+     "weight": 4
+    },
+    {
+     "term": "gable",
+     "weight": 4
+    },
+    {
+     "term": "shed",
+     "weight": 4
+    },
+    {
+     "term": "deg",
+     "weight": 4
+    },
+    {
+     "term": "roofing calculator",
+     "weight": 3
+    },
+    {
+     "term": "length",
+     "weight": 3
+    },
+    {
+     "term": "base area",
+     "weight": 3
+    },
+    {
+     "term": "pitch roof",
+     "weight": 3
+    },
+    {
+     "term": "total",
+     "weight": 3
+    },
+    {
+     "term": "total cost",
+     "weight": 3
+    }
+   ],
+   "claims": [
+    "The most typical cost of roofing falls between $2 and $4 per square foot (including labor).",
+    "The standard roof pitch is between 10 and 25 degrees.",
+    "To arrive at this result, divide the house area by the cosine of the roof pitch: 100 / cos(25 deg) = 110.34.",
+    "Find out the unit price of roofing (per square meter or square foot of roof area, depending on what unit you used in Step 1)."
+   ],
+   "schemaTypes": [
+    "Article",
+    "FAQPage"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 0,
+   "lists": 4,
+   "images": 0,
+   "videos": 1,
+   "calculatorInputs": [],
+   "selectOptionsSample": "",
+   "unitToggle": false,
+   "wordsBeforeTool": null,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": false,
+    "reset": true
+   },
+   "content": {
+    "formula": true,
+    "examples": true,
+    "stepByStep": true,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Bogna Szyk",
+    "published": "2017-01-09T11:28:38.554Z",
+    "modified": "2026-01-30T10:02:57.465Z",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 699,
+    "adNetworks": [
+     "gpt"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": false
+   },
+   "links": {
+    "internal": 24,
+    "external": 2,
+    "contentInternal": 8,
+    "contentExternal": 2,
+    "internalAnchors": [
+     "how to use this calculator",
+     "roof pitch calculator",
+     "solar panel calculator",
+     "concrete slab cost calculator",
+     "rafter length calculator",
+     "snow load calculator",
+     "Stone Weight Calculator",
+     "Board and Batten Calculator"
+    ],
+    "internalSample": [
+     "https://www.omnicalculator.com/construction/roofing#how-do-i-calculate-the-roof-area",
+     "https://www.omnicalculator.com/construction/roof-pitch",
+     "https://www.omnicalculator.com/ecology/solar-panel",
+     "https://www.omnicalculator.com/construction/concrete-slab",
+     "https://www.omnicalculator.com/construction/rafter-length",
+     "https://www.omnicalculator.com/construction/snow-load",
+     "https://www.omnicalculator.com/construction/stone",
+     "https://www.omnicalculator.com/construction/board-and-batten"
+    ],
+    "externalSample": [
+     "https://google.com/preferences/source?q=omnicalculator.com",
+     "https://youtu.be/6tsLNxosSmQ"
+    ]
+   },
+   "pageType": "tool (JS-rendered; inputs not parsed)",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  },
+  "https://www.inchcalculator.com/roofing-calculator/": {
+   "url": "https://www.inchcalculator.com/roofing-calculator/",
+   "finalUrl": "https://www.inchcalculator.com/roofing-calculator/",
+   "mode": "offline-parse",
+   "domain": "www.inchcalculator.com",
+   "fetchedAt": "2026-11-26T04:08:28.500Z",
+   "title": "Roofing Material Calculator - Estimate Shingles - Inch Calculator",
+   "metaDescription": "Calculate roofing squares and shingles for a roof install. Plus, learn how to measure a roof and estimate materials for the project.",
+   "canonical": "https://www.inchcalculator.com/roofing-calculator/",
+   "robotsMeta": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+   "lang": "en",
+   "h1": [
+    "Roofing Material Calculator"
+   ],
+   "h2": [
+    "Tell Us What You Think",
+    "Results: Roofing Material Estimate",
+    "Share This Result",
+    "On this page:",
+    "Cite This Page",
+    "How to Estimate the Size of a Roof",
+    "How to Estimate Roofing Materials",
+    "Other Considerations",
+    "Similar Roofing Calculators",
+    "Tell Us What You Think!",
+    "About"
+   ],
+   "h3": [
+    "Estimated Material Cost:",
+    "Installation Overview:",
+    "Find the Area of the Footprint of the Roof",
+    "Finding the Total Roof Area",
+    "Finding the Size of the Roof in Squares",
+    "Bundles of Shingles Needed",
+    "Rolls of Felt Needed",
+    "Roofing Nails Needed",
+    "Other Materials"
+   ],
+   "outline": [
+    {
+     "level": 1,
+     "text": "Roofing Material Calculator"
+    },
+    {
+     "level": 2,
+     "text": "Tell Us What You Think"
+    },
+    {
+     "level": 2,
+     "text": "Results: Roofing Material Estimate"
+    },
+    {
+     "level": 3,
+     "text": "Estimated Material Cost:"
+    },
+    {
+     "level": 3,
+     "text": "Installation Overview:"
+    },
+    {
+     "level": 2,
+     "text": "Share This Result"
+    },
+    {
+     "level": 2,
+     "text": "On this page:"
+    },
+    {
+     "level": 2,
+     "text": "Cite This Page"
+    },
+    {
+     "level": 2,
+     "text": "How to Estimate the Size of a Roof"
+    },
+    {
+     "level": 3,
+     "text": "Find the Area of the Footprint of the Roof"
+    },
+    {
+     "level": 3,
+     "text": "Finding the Total Roof Area"
+    },
+    {
+     "level": 4,
+     "text": "Roof Pitch Area Multipliers"
+    },
+    {
+     "level": 3,
+     "text": "Finding the Size of the Roof in Squares"
+    },
+    {
+     "level": 2,
+     "text": "How to Estimate Roofing Materials"
+    },
+    {
+     "level": 3,
+     "text": "Bundles of Shingles Needed"
+    },
+    {
+     "level": 3,
+     "text": "Rolls of Felt Needed"
+    },
+    {
+     "level": 3,
+     "text": "Roofing Nails Needed"
+    },
+    {
+     "level": 3,
+     "text": "Other Materials"
+    },
+    {
+     "level": 2,
+     "text": "Other Considerations"
+    },
+    {
+     "level": 2,
+     "text": "Similar Roofing Calculators"
+    }
+   ],
+   "wordCount": 1886,
+   "avgSentenceWords": 22,
+   "faqs": [],
+   "faqSchemaCount": 0,
+   "topics": [
+    {
+     "term": "roof",
+     "weight": 67
+    },
+    {
+     "term": "roofing",
+     "weight": 29
+    },
+    {
+     "term": "material",
+     "weight": 20
+    },
+    {
+     "term": "square",
+     "weight": 20
+    },
+    {
+     "term": "materials",
+     "weight": 17
+    },
+    {
+     "term": "shingles",
+     "weight": 15
+    },
+    {
+     "term": "pitch",
+     "weight": 15
+    },
+    {
+     "term": "area",
+     "weight": 14
+    },
+    {
+     "term": "squares",
+     "weight": 13
+    },
+    {
+     "term": "roofing material",
+     "weight": 12
+    },
+    {
+     "term": "size",
+     "weight": 12
+    },
+    {
+     "term": "calculator",
+     "weight": 11
+    },
+    {
+     "term": "felt",
+     "weight": 11
+    },
+    {
+     "term": "needed",
+     "weight": 11
+    },
+    {
+     "term": "roof pitch",
+     "weight": 11
+    },
+    {
+     "term": "need",
+     "weight": 10
+    },
+    {
+     "term": "have",
+     "weight": 10
+    },
+    {
+     "term": "estimate",
+     "weight": 9
+    },
+    {
+     "term": "nails",
+     "weight": 9
+    },
+    {
+     "term": "find",
+     "weight": 9
+    },
+    {
+     "term": "length",
+     "weight": 8
+    },
+    {
+     "term": "share",
+     "weight": 8
+    },
+    {
+     "term": "roof area",
+     "weight": 8
+    },
+    {
+     "term": "square footage",
+     "weight": 8
+    },
+    {
+     "term": "gable roof",
+     "weight": 8
+    },
+    {
+     "term": "roofs",
+     "weight": 7
+    },
+    {
+     "term": "gable",
+     "weight": 7
+    },
+    {
+     "term": "calculate",
+     "weight": 6
+    },
+    {
+     "term": "new roof",
+     "weight": 6
+    },
+    {
+     "term": "cost",
+     "weight": 6
+    }
+   ],
+   "claims": [
+    "In the US, roofs are measured in square footage, and roofing contractors typically quote projects based on the size of the roof in squares, which are equal to 100 sq.",
+    "The pitch of the roof is the rise over a 12-inch run.",
+    "This means that for every 12 inches horizontally, your roof will rise a specific number of inches.",
+    "Most roofs will fall between a rise of 4/12 and 8/12, but a gambrel roof will likely have a section that is 20/12 and a section that is 7/12.",
+    "For example, a 4/12 pitch roof that is 100 square feet: 100 × 1.054 = 105.4 sq.",
+    "A square simply refers to a 10′ x 10′ square of roofing.",
+    "To find the squares, divide the overall roof area by 100 and then round up.",
+    "For instance, if the roof is 1550 square feet, then it is 16 squares.",
+    "How to Estimate Roofing Materials Although roofing projects are estimated and sold by the square, roofing material is often not sold in 1-square increments.",
+    "The average roll of 15-pound roofing felt covers about 400 sq."
+   ],
+   "schemaTypes": [
+    "Organization",
+    "WebPage",
+    "BreadcrumbList"
+   ],
+   "schemaFormats": [
+    "JSON-LD"
+   ],
+   "tables": 3,
+   "lists": 2,
+   "images": 5,
+   "videos": 0,
+   "calculatorInputs": [
+    "Length",
+    "Length Units",
+    "Width",
+    "Width Units",
+    "Roof Pitch",
+    "Material Price (optional)"
+   ],
+   "selectOptionsSample": "in ft yd cm m in ft yd cm m 0/12 (flat) 1/12 2/12 3/12 4/12 5/12 6/12 7/12 8/12 9/12 10/12 11/12 12/12 13/12 14/12 15/12 16/12 17/12 18/12 19/12 20/12 21/12 22/12 23/12 24/12",
+   "unitToggle": true,
+   "wordsBeforeTool": 47,
+   "actions": {
+    "print": false,
+    "share": true,
+    "download": false,
+    "copy": true,
+    "reset": false
+   },
+   "content": {
+    "formula": false,
+    "examples": true,
+    "stepByStep": false,
+    "costEstimate": true,
+    "chart": false,
+    "definitions": true,
+    "tips": false
+   },
+   "eeat": {
+    "author": "Joe Sexton",
+    "published": "2015-03-06",
+    "modified": "2025-05-13T22:35:31+00:00",
+    "authoritativeSources": []
+   },
+   "ux": {
+    "htmlKB": 139,
+    "adNetworks": [
+     "gpt",
+     "adthrive"
+    ],
+    "adSlots": 0,
+    "viewport": true,
+    "breadcrumbs": true
+   },
+   "links": {
+    "internal": 51,
+    "external": 13,
+    "contentInternal": 27,
+    "contentExternal": 7,
+    "internalAnchors": [
+     "find roof pitch",
+     "below",
+     "Add This to Your Site",
+     "Roofing Material Calculator",
+     "How to Estimate the Size of a Roof",
+     "Find the Area of the Footprint of the Roof",
+     "Finding the Total Roof Area",
+     "Finding the Size of the Roof in Squares",
+     "How to Estimate Roofing Materials",
+     "Bundles of Shingles Needed",
+     "Rolls of Felt Needed",
+     "Roofing Nails Needed",
+     "Other Materials",
+     "Other Considerations",
+     "Full bio",
+     "Get Free Estimates",
+     "calculate square footage",
+     "roof pitch calculator",
+     "ice and water shield",
+     "find the perimeter"
+    ],
+    "internalSample": [
+     "https://www.inchcalculator.com/roof-pitch-calculator/",
+     "https://www.inchcalculator.com/roofing-calculator/#idx_how_calculator_works",
+     "https://www.inchcalculator.com/widgets/w/roofing/",
+     "https://www.inchcalculator.com/roofing-calculator/#idx_page_heading",
+     "https://www.inchcalculator.com/roofing-calculator/#idx_how_to_estimate_the_size_of_a_roof",
+     "https://www.inchcalculator.com/roofing-calculator/#idx_find_the_area_of_the_footprint_of_the_roof",
+     "https://www.inchcalculator.com/roofing-calculator/#idx_finding_the_total_roof_area",
+     "https://www.inchcalculator.com/roofing-calculator/#idx_finding_the_size_of_the_roof_in_squares",
+     "https://www.inchcalculator.com/roofing-calculator/#idx_how_to_estimate_roofing_materials",
+     "https://www.inchcalculator.com/roofing-calculator/#idx_bundles_of_shingles_needed",
+     "https://www.inchcalculator.com/roofing-calculator/#idx_rolls_of_felt_needed",
+     "https://www.inchcalculator.com/roofing-calculator/#idx_roofing_nails_needed",
+     "https://www.inchcalculator.com/roofing-calculator/#idx_other_materials",
+     "https://www.inchcalculator.com/roofing-calculator/#idx_other_considerations",
+     "https://www.inchcalculator.com/author/joe-sexton/",
+     "https://www.inchcalculator.com/author/sarabeth-asaff-south/",
+     "https://www.inchcalculator.com/roofing-calculator/",
+     "https://www.inchcalculator.com/get-free-home-repair-estimates/?preset_project_type=Roofing&preset_service_id=",
+     "https://www.inchcalculator.com/square-footage-calculator/",
+     "https://www.inchcalculator.com/ice-water-shield-calculator/",
+     "https://www.inchcalculator.com/perimeter-calculator/",
+     "https://www.inchcalculator.com/get-free-home-repair-estimates/?preset_project_type=Roofing",
+     "https://www.inchcalculator.com/roof-replacement-cost/",
+     "https://www.inchcalculator.com/new-asphalt-shingle-roof-warning-signs/",
+     "https://www.inchcalculator.com/metal-roofing-material-calculator/"
+    ],
+    "externalSample": [
+     "https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.inchcalculator.com%2Froofing-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Froofing-calculator%2F",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Froofing-calculator%2F",
+     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.inchcalculator.com%2Froofing-calculator%2F",
+     "https://twitter.com/share?url=https%3A%2F%2Fwww.inchcalculator.com%2Froofing-calculator%2F&text=Roofing+Material+Calculator",
+     "https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.inchcalculator.com%2Froofing-calculator%2F&text=Roofing+Material+Calculator",
+     "https://www.google.com/preferences/source?q=inchcalculator.com"
+    ]
+   },
+   "pageType": "tool + guide",
+   "notes": [
+    "Parsed without JavaScript: JS-rendered calculators may show fewer inputs/actions than real users see."
+   ]
+  }
+ },
+ "failed": {}
+}
