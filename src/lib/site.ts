@@ -7,6 +7,8 @@ export const SITE = {
   locale: "en_US",
   twitter: "",
   adsenseClient: process.env.NEXT_PUBLIC_ADSENSE_CLIENT || "",
+  /** Ahrefs Web Analytics data-key (public). Set only in Netlify builds (netlify.toml), so local/CI test builds load no third-party script. */
+  ahrefsKey: process.env.NEXT_PUBLIC_AHREFS_KEY || "",
   gscVerification: process.env.NEXT_PUBLIC_GSC_VERIFICATION || "",
   // Editorial identity (E-E-A-T): the real person responsible for the content. Bio: /about/mohammad-qasim/.
   editor: {

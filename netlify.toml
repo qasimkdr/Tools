@@ -9,6 +9,8 @@
 [build.environment]
   NODE_VERSION = "22"
   NEXT_PUBLIC_SITE_URL = "https://mathico.xyz"
+  # Ahrefs Web Analytics (public data-key; cookieless). Loaded only in Netlify builds.
+  NEXT_PUBLIC_AHREFS_KEY = "TGN90ZpXBOMD0UI6PZ/FiQ"
   # AdSense IDs go here (or in Netlify → Site configuration → Environment variables) once approved:
   # NEXT_PUBLIC_ADSENSE_CLIENT = "ca-pub-..."
   # NEXT_PUBLIC_AD_SLOT_INARTICLE = "..."

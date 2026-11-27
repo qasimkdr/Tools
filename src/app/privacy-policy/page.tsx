@@ -6,7 +6,7 @@ export const metadata = pageMeta({ title: "Privacy Policy", description: "How Ma
 
 export default function Page() {
   return (
-    <StaticPage title="Privacy policy" path="/privacy-policy/" updated="November 21, 2026">
+    <StaticPage title="Privacy policy" path="/privacy-policy/" updated="November 27, 2026">
       <p>This policy explains what information {SITE.name} (&quot;we&quot;) collects when you use {SITE.url} and how it is used.</p>
       <h2>Calculator inputs</h2>
       <p>Calculations run entirely in your browser. The values you type are not sent to or stored on our servers. Some tools put your inputs in the page address so you can share a result. That address stays on your device unless you share it.</p>
@@ -15,7 +15,7 @@ export default function Page() {
       <p>You can opt out of personalized advertising by visiting <a href="https://adssettings.google.com" rel="nofollow noopener">Google Ads Settings</a>, or opt out of some third-party vendors&apos; use of cookies at <a href="https://www.aboutads.info/choices/" rel="nofollow noopener">aboutads.info</a>. To learn more, see <a href="https://policies.google.com/technologies/partner-sites" rel="nofollow noopener">How Google uses information from sites that use its services</a>.</p>
       <p>Visitors in the European Economic Area, the UK and Switzerland are shown a consent message, from a Google-certified consent management platform, before personalized ads or non-essential cookies are used.</p>
       <h2>Analytics</h2>
-      <p>We may use privacy-respecting analytics to understand which tools are used, so we can improve them. This data is aggregated and does not identify you.</p>
+      <p>We use Ahrefs Web Analytics (provided by Ahrefs Pte. Ltd.) to count visits and see which tools and pages are used, where visitors come from (for example a search engine or another website) and their general location and device type, so we can improve the site. Ahrefs states that its web analytics does not use cookies or collect personal data. We only see aggregated statistics, which do not identify you.</p>
       <h2>Your rights</h2>
       <p>Depending on where you live (for example under the GDPR or the CCPA/CPRA), you may have the right to access, delete or opt out of the &quot;sale&quot; or &quot;sharing&quot; of personal information. Use the privacy choices link shown by our consent tool, or contact us.</p>
       <h2>Children</h2>

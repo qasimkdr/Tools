@@ -29,6 +29,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         {/* Marks JS as available so .reveal starts hidden; without JS (or for crawlers' first paint) content stays visible. */}
         <script dangerouslySetInnerHTML={{ __html: "document.documentElement.classList.add('js')" }} />
         <JsonLd data={[ld.website(), ld.organization()]} />
+        {/* Ahrefs Web Analytics: cookieless, async, in the static HTML so Ahrefs can verify it. Only when the key is set (Netlify). */}
+        {SITE.ahrefsKey && <script async src="https://analytics.ahrefs.com/analytics.js" data-key={SITE.ahrefsKey} />}
       </head>
       <body className="min-h-dvh antialiased">
         <a href="#main" className="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 btn-primary">Skip to content</a>
